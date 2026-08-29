@@ -5,8 +5,65 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 52,
-  "translation": "Wanta Adoonaay Yahwe akkana jedheef, saba kiyya jalqabaatti Mitsraayim seenanii,allee gammachuu jiraachuuf; Ashuris sararaa malee namoota kana. ",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:14:17.186860730Z",
+  "translation": "Akka kanneenitti Adoonaay Yahwe jedhe: «Mitsraayimitti namoota kiyya jalqaba irratti seene, achitti dhaloota ooluu;f, Ammooroon immoo jeequmsa isaanii malee isaan miitese.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanneenitti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayimitti"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "seene"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "namoota kiyya"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "jalqaba irratti"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "dhaloota ooluu'f"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ammooroon immoo"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "jeequmsa malee"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "isaan miitese"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:48.691091184Z",
   "model": "glm-5.3"
 }

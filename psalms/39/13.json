@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "psalms 39:13",
-  "book": "psalms",
-  "lang": "om",
-  "chapter": 39,
-  "translation": "Kadhannaa koo Yahwe ni dhiyeessi; qeeqaa koo dhageessi; immallee dhubbii koo irratti hin cinuu; sababiin abbaa keenyaa dha — gargaaraa dha, kan dhaloota abbootii koo waliin ta'een.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:24:22.699590868Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"psalms 39:13","book":"psalms","lang":"om","chapter":39,"translation":"Kadhaa kadhaa koo Yahwe; hiikkaa gargaarsaa koo dhageessi; ila baati koo irratti hin dheebina. Sababni isaas, gannaan\/an keessa jira — qofa-dhiiraa akka abbootii koo hunda.","tokens":[{"surface":"שמעה","gloss":"dhageessi"},{"surface":"תפלתי","gloss":"kadhaa koo"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"ושועתי","gloss":"akkumaas hiikka gargaarsaa koo"},{"surface":"האזינה","gloss":"gurra bal'isi\/dhageessi"},{"surface":"אל","gloss":"irratti"},{"surface":"דמעתי","gloss":"baati koo"},{"surface":"אל","gloss":"hin"},{"surface":"תחרש","gloss":"dheebina"},{"surface":"כי","gloss":"sababni isaas"},{"surface":"גר","gloss":"gannaan\/an"},{"surface":"אנכי","gloss":"ani"},{"surface":"עמך","gloss":"keessa wajjin\/keessa"},{"surface":"תושב","gloss":"qofa-dhiiraa"},{"surface":"ככל","gloss":"akka hunda"},{"surface":"אבותי","gloss":"abbootii koo"}],"timestamp":"2026-08-29T16:22:47.905165875Z","model":"glm-5.3"}

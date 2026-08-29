@@ -5,8 +5,38 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 30,
-  "translation": "Daa'imman kolfaa ergaa Waaqaa ajajaniidhaan ta'anii, maqaa isaaniitin maqaa guutuu je'aniidhaan, maqaa guutuu baafatanii haa badaniidhaan — baay'een isaanis sirriitti akka-soba Qulqullummaa waliin qabaachuu hin danda'aniidhaan.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:13:27.635219193Z",
+  "translation": "Dhartoota ⟨jiru⟩ abboota isaanii raacha, haadhollee isaanii immoo hin eebbisu.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "dhartoota"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abboota isaanii"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "raacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haadhollee isaanii"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadhollee isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "eebbisu"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:47.567413837Z",
   "model": "glm-5.3"
 }

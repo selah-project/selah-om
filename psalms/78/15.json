@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 78,
-  "translation": "Cubbaawwan gaarreen hammee midhgan keessaa baafnaanis, akka daloollee gurguddoo dhiyyee isa fe'ee.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:34:38.682457263Z",
+  "translation": "Eccuwwan giddugala keessatti dhoqe, akka hoodda gurguddootti borse.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "dhoqe"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "eccuwwan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "giddugala keessatti"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "borse"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "akka hoodda"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "gurguddoo"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:09.865887655Z",
   "model": "glm-5.3"
 }

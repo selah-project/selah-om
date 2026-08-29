@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 3,
-  "translation": "Yo'aabiin Daawid biraa bahees ergamoota Abner duwwaa ergee bunaattii Siraatti irraa deebisan; Daawiin garuu hin beeku ture.",
+  "translation": "Yoowaab Daawid irraa bahe; ergamtoota Abner duuba erguun ⟨את⟩ abjuutti Siraa irraa deebisan; Daawid garuu hin beeku.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "bahees"
+      "gloss": "bahe"
     },
     {
       "surface": "יואב",
-      "gloss": "Yo'aabiin"
+      "gloss": "Yoowaab"
     },
     {
       "surface": "מעם",
-      "gloss": "biraa"
+      "gloss": "irraa"
     },
     {
       "surface": "דוד",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "ergee"
+      "gloss": "erguun"
     },
     {
       "surface": "מלאכים",
-      "gloss": "ergamoota"
+      "gloss": "ergamtoota"
     },
     {
       "surface": "אחרי",
-      "gloss": "duwwaa"
+      "gloss": "duuba"
     },
     {
       "surface": "אבנר",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "bunaattii Siraatti irraa"
+      "gloss": "⟨את⟩",
+      "marks": "abjuutti Siraa irraa"
     },
     {
       "surface": "מבור",
-      "gloss": "bunaattii"
+      "gloss": "abjuutti"
     },
     {
       "surface": "הסרה",
-      "gloss": "Siraatti"
+      "gloss": "Siraa"
     },
     {
       "surface": "ודוד",
-      "gloss": "Daawiin garuu"
+      "gloss": "Daawid garuu"
     },
     {
       "surface": "לא",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "ידע",
-      "gloss": "beeku ture"
+      "gloss": "beeku"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.084291988Z",
+  "timestamp": "2026-08-29T16:51:23.142955365Z",
   "model": "glm-5.3"
 }

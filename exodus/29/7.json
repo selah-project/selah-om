@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 29,
-  "translation": "Zayita bututtaa ⟨את⟩ fudhatta, mataa isaa irratti dhangalaattaa, ⟨את⟩ ⟨אתו⟩ dibatta.",
+  "translation": "Fudhadhu dhadhaa dhibamtaa, bisha isa mataa isaa irratti dhiigi, isa dhibi ⟨את⟩.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "fudhatta"
+      "gloss": "Fudhadhu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zayita"
+      "marks": "dhadhaa dhibamtaa"
     },
     {
       "surface": "שמן",
-      "gloss": "zayita"
+      "gloss": "dhadhaa"
     },
     {
       "surface": "המשחה",
-      "gloss": "bututtaa"
+      "gloss": "dhibamtaa"
     },
     {
       "surface": "ויצקת",
-      "gloss": "dhangalaattaa"
+      "gloss": "dhiigi"
     },
     {
       "surface": "על",
@@ -38,14 +38,14 @@
     },
     {
       "surface": "ומשחת",
-      "gloss": "dibatta"
+      "gloss": "isa dhibi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isaa"
+      "gloss": "⟨את⟩",
+      "marks": "isa (Aharoon)"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.103103142Z",
+  "timestamp": "2026-08-29T16:41:51.940034928Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 51,
-  "translation": "Na holqa ⟨מלפניך⟩ fuuldura kee irraa hin boojiituu; ruuhaa qulqullummaa keeis na irraa hin fudhatuu.",
+  "translation": "Na choofti naa minngi fuulduraa kee irra; fi Ruuhacha qulqulluu kee naa minngi baafadhu",
   "tokens": [
     {
       "surface": "אל",
@@ -13,19 +13,23 @@
     },
     {
       "surface": "תשליכני",
-      "gloss": "na boojiituu"
+      "gloss": "naa minngi"
     },
     {
       "surface": "מלפניך",
-      "gloss": "fuuldura kee irraa"
+      "gloss": "fuulduraa kee irra"
     },
     {
-      "surface": "ורוח",
-      "gloss": "ruuhaa...is"
+      "surface": "ו",
+      "gloss": "fi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhacha"
     },
     {
       "surface": "קדשך",
-      "gloss": "qulqullummaa kee"
+      "gloss": "qulqulluu kee"
     },
     {
       "surface": "אל",
@@ -33,13 +37,13 @@
     },
     {
       "surface": "תקח",
-      "gloss": "fudhatuu"
+      "gloss": "baafadhu"
     },
     {
       "surface": "ממני",
-      "gloss": "na irraa"
+      "gloss": "irraa koo"
     }
   ],
-  "timestamp": "2026-08-29T11:27:03.039170312Z",
+  "timestamp": "2026-08-29T16:59:53.728954693Z",
   "model": "glm-5.3"
 }

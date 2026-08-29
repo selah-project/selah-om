@@ -5,8 +5,58 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 16,
-  "translation": "Kibxiiwwan Reeffaa Irratti | 16:5 Garee ilmaan Israa'el irraa lama rafuu reetti bishaniiwwan khorataa tokkos qurbaana bishaanii tokko godhaa fudhachuu qaba.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:39:07.528221661Z",
+  "translation": "Midhaa waldaa ilmaawwan Israa'el irraa ree‹›‹› moo-yaa lama fudhata balleeffannaa (khataa'aatiif), ramm tokkos gatii birkaa (olaahiif).",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "irraa ⟨את⟩",
+      "marks": "waldaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "waldaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ree-moo-yaa"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "addees moo-yaa"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "khataa'aatiif"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ramm tokkos"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olaahiif"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:51.955360732Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 1,
-  "translation": "Akkasumas Tasadook abiishaa fi Naataan raajeffataan ⟨את⟩ ⟨אתו⟩ isaa achitti Idiraatti irratti mootaa ta'u diban; shanfacha dhokattanii 'Mooti Shallome haa jiraatu!' jedhaa.",
+  "translation": "Tsadook ogeessa nafaannaa fi Naataan raajichi ⟨את⟩ isaa achitti dibamuun Israa'ieliirratti mootummatti dhibamu; shanfaa baafattanii, \"Mootichi Shelomoon haa jiraatu!\" jedhattan.",
   "tokens": [
     {
       "surface": "ומשח",
-      "gloss": "diban"
+      "gloss": "dhibamuun"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "isaa"
     },
     {
@@ -22,23 +22,23 @@
     },
     {
       "surface": "צדוק",
-      "gloss": "Tasadook"
+      "gloss": "Tsadook"
     },
     {
       "surface": "הכהן",
-      "gloss": "abiishaa"
+      "gloss": "ogeessi nafaannaa"
     },
     {
       "surface": "ונתן",
-      "gloss": "Naataan"
+      "gloss": "fi Naataan"
     },
     {
       "surface": "הנביא",
-      "gloss": "raajeffataan"
+      "gloss": "raajichi"
     },
     {
       "surface": "למלך",
-      "gloss": "mootaa ta'u"
+      "gloss": "mootummatti"
     },
     {
       "surface": "על",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Idiraatti"
+      "gloss": "Israa'iel"
     },
     {
       "surface": "ותקעתם",
-      "gloss": "shanfacha dhokattanii"
+      "gloss": "baafattanii"
     },
     {
       "surface": "בשופר",
-      "gloss": "shanfacha"
+      "gloss": "shanfaa"
     },
     {
       "surface": "ואמרתם",
-      "gloss": "jedhaa"
+      "gloss": "jedhattan"
     },
     {
       "surface": "יחי",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "המלך",
-      "gloss": "Mooti"
+      "gloss": "mootichi"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shallome"
+      "gloss": "Shelomoon"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.143024710Z",
+  "timestamp": "2026-08-29T16:52:10.411823781Z",
   "model": "glm-5.3"
 }

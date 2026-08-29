@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "genesis 8:13",
-  "book": "genesis",
-  "lang": "om",
-  "chapter": 8,
-  "translation": "Waggaa dhibba ja'a fi tokko isa jalqabaa keessatti, ji'a tokkoffaa guyyaa tokko isa ji'aa irratti, bishaanwwan lafa irraa hoo'ee (dheebbachiif); Noohaankan teessoo with-dhiyeessaa (covering) foofinsaa baafate, ilaalee, akkuma jirutti fuulli biyya hoo'eera.",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:26:50.946269842Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"genesis 8:13","book":"genesis","lang":"om","chapter":8,"translation":"Taa'atteerra waggaa dhibba ja'a fi tokko keessatti, ji'a tokkoffaa guyya tokkoffaa ji'ichaa irratti, bishaanwwan lafa irraa hoo'aniitan-dheeboman; Noohiimmis haguuggii doonii ⟨את⟩ baafate, iyyee arguutti, akkasumas kunoo — fuulli lafaa hoo'e.","tokens":[{"surface":"ויהי","gloss":"Taa'atteerra"},{"surface":"באחת","gloss":"tokko keessatti"},{"surface":"ושש","gloss":"fi ja'a"},{"surface":"מאות","gloss":"dhibba"},{"surface":"שנה","gloss":"waggaa"},{"surface":"בראשון","gloss":"tokkoffaa keessatti"},{"surface":"באחד","gloss":"guyya tokkoffaa"},{"surface":"לחדש","gloss":"ji'ichaa irratti"},{"surface":"חרבו","gloss":"hoo'aniitan-dheeboman"},{"surface":"המים","gloss":"bishaanwwan"},{"surface":"מעל","gloss":"irraa"},{"surface":"הארץ","gloss":"lafaa"},{"surface":"ויסר","gloss":"baafate"},{"surface":"נח","gloss":"Noohiimmi"},{"surface":"את","gloss":"⟨את⟩","marks":"haguuggii doonii"},{"surface":"מכסה","gloss":"haguuggii"},{"surface":"התבה","gloss":"doonii"},{"surface":"וירא","gloss":"iyyee arguutti"},{"surface":"והנה","gloss":"akkasumas kunoo"},{"surface":"חרבו","gloss":"hoo'e"},{"surface":"פני","gloss":"fuulli"},{"surface":"האדמה","gloss":"lafaa"}],"timestamp":"2026-08-29T16:38:09.076694214Z","model":"glm-5.3"}

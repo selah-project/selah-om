@@ -1,18 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "exodus 27:13",
-  "book": "exodus",
-  "lang": "om",
-  "chapter": 27,
-  "translation": "Bal'inni hirnaas gara bahaatti, kibbaa-bahaa, amma afurtamii ⟨ta'a⟩.",
-  "tokens": [
-    {
-      "surface": "ורחב",
-      "gloss": "Bal'inni"
-    },
-    "surface_placeholder"
-  ],
-  "timestamp": "2026-08-29T05:13:18.979794948Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"exodus 27:13","book":"exodus","lang":"om","chapter":27,"translation":"Balballi mana keessaa gara bahaatti bahee, kallatti bahaatti, amma shanaf shan (meetira mi'eewayyaa) ta'u qaba.","tokens":[{"surface":"וְרֹ֣חַב","gloss":"balballi"},{"surface":"הֶֽחָצֵ֗ר","gloss":"mana keessaa"},{"surface":"לִפְאַ֛ת","gloss":"gara... bahee"},{"surface":"קֵ֥דְמָה","gloss":"bahaatti"},{"surface":"מִזְרָ֖חָה","gloss":"kallatti bahaatti"},{"surface":"חֲמִשִּׁ֥ים","gloss":"shanaf shan"},{"surface":"אַמָּֽה","gloss":"(meetira mi'eewayyaa)"}],"timestamp":"2026-08-29T16:41:27.535982518Z","model":"glm-5.3"}

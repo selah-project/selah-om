@@ -5,8 +5,89 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 47,
-  "translation": "Muccaa-qurxummii fi durba-qurxummii bishaan sana irratti ni dhaabbatu, Een-Gediirraa kaasee hanga Een-Eglaayimtti — iddoon raachoo diriirfamuuf ni ta'u; akka gosa isaaniiutti qurxummiin isaanii ta'a, akkuma qurxummii baddaa guddaatti, baay'ee hedduu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:17:40.369161081Z",
+  "translation": "Akkasumas ta'uun isaa, falmisoonni isaa irratti dhaabbatu; Een-Gedii irraa hanga Een-Eglajaayimiitti, iddoo mallatteewwan dhiiruuf ta'u; qurxummii isaanii gosa isaatiin akka qurxummii Galaana Guddaatti, baay'ee baay'ee ta'a.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Akkasumas ta'uun isaa"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "דוגים",
+      "gloss": "falmisoonni"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "Een-Gedii irraa"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Een-Gedii"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Een-"
+    },
+    {
+      "surface": "עגלים",
+      "gloss": "Eglajaayimiitti"
+    },
+    {
+      "surface": "משטוח",
+      "gloss": "iddoo mallatteewwan dhiiruuf"
+    },
+    {
+      "surface": "לחרמים",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "gosa isaatiin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "qurxummii isaanii"
+    },
+    {
+      "surface": "כדגת",
+      "gloss": "akka qurxummii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Galaana"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Guddaatti"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "baay'ee baay'ee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:44.038638884Z",
   "model": "glm-5.3"
 }

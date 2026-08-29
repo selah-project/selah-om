@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 42,
-  "translation": "Innis isaan irraa garagalee huqe; isaanitti deebi'ee isaan wajjin dubbate; isaaniirraa ⟨את⟩ Shimoon fudhatee, ija isaanii fuulduratti isa ⟨אתו⟩ hidhe.",
+  "translation": "Achudhan isaani irraa deebi'e, boqe; achudhan isaanitti deebi'ee, isaan wajjin dubbate; achudhan isaani irraa ⟨את⟩ Shimoon fudhate, achudhan ⟨את⟩ inni isa daangessu isaaniin argamsiise.",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "garagalee"
+      "gloss": "achudhan deebi'e"
     },
     {
       "surface": "מעליהם",
-      "gloss": "isaan irraa"
+      "gloss": "isaani irraa"
     },
     {
       "surface": "ויבך",
-      "gloss": "huqe"
+      "gloss": "boqe"
     },
     {
       "surface": "וישב",
-      "gloss": "deebi'ee"
+      "gloss": "achudhan deebi'ee"
     },
     {
       "surface": "אלהם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "fudhatee"
+      "gloss": "achudhan fudhate"
     },
     {
       "surface": "מאתם",
-      "gloss": "isaaniirraa ⟨את⟩"
+      "gloss": "isaani irraa ⟨את⟩"
     },
     {
       "surface": "את",
@@ -54,18 +54,18 @@
     },
     {
       "surface": "ויאסר",
-      "gloss": "hidhe"
+      "gloss": "achudhan isa daangessu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "isa"
+      "gloss": "⟨את⟩ inni",
+      "marks": "isa daangessu"
     },
     {
       "surface": "לעיניהם",
-      "gloss": "ija isaanii fuulduratti"
+      "gloss": "isaaniin argamsiise"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.089638915Z",
+  "timestamp": "2026-08-29T16:39:15.320801531Z",
   "model": "glm-5.3"
 }

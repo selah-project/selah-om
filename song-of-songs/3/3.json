@@ -5,11 +5,11 @@
   "book": "song-of-songs",
   "lang": "om",
   "chapter": 3,
-  "translation": "Eegattoonni ⟨את⟩ magaalaa sochoowan barbaadan ani ⟨את⟩ arganii — kan jaallattu lubbuun koo argittanii?",
+  "translation": "Eegattoonni bittinadda magaalaa na argani; \"⟨את⟩ kan nafseen kiyy jaalattan argitanee?\" [jedheen].",
   "tokens": [
     {
       "surface": "מצאוני",
-      "gloss": "ani arganii"
+      "gloss": "na argani"
     },
     {
       "surface": "השמרים",
@@ -17,34 +17,30 @@
     },
     {
       "surface": "הסבבים",
-      "gloss": "sochoowan"
+      "gloss": "bittinaddan"
     },
     {
       "surface": "בעיר",
       "gloss": "magaalaa"
     },
     {
-      "surface": "בעיר",
-      "gloss": "⟨את⟩ magaalaa"
-    },
-    {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kan jaallattu lubbuun koo"
+      "marks": "kan nafseen kiyy jaalattan"
     },
     {
       "surface": "שאהבה",
-      "gloss": "kan jaallattu"
+      "gloss": "kan jaalattan"
     },
     {
       "surface": "נפשי",
-      "gloss": "lubbuun koo"
+      "gloss": "nafseen kiyy"
     },
     {
       "surface": "ראיתם",
-      "gloss": "argittanii"
+      "gloss": "argitanee?"
     }
   ],
-  "timestamp": "2026-08-29T12:37:43.142900161Z",
+  "timestamp": "2026-08-29T16:24:06.430269098Z",
   "model": "glm-5.3"
 }

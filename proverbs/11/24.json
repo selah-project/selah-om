@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 11,
-  "translation": "Namni adda baasu jira, dabalata; kan sirrii hambisu gara hir'inaatti qofa deema.",
+  "translation": "Hirmaata baha sanaa dabalata; kan hoo'uu sirrii dhorku ammoo hamma hacaana qofa gad-bu'a.",
   "tokens": [
     {
       "surface": "יש",
-      "gloss": "jira"
+      "gloss": "hirmaata"
     },
     {
       "surface": "מפזר",
-      "gloss": "adda baasu"
+      "gloss": "baha"
     },
     {
       "surface": "ונוסף",
@@ -21,15 +21,11 @@
     },
     {
       "surface": "עוד",
-      "gloss": "dabalata"
+      "gloss": "sanaa"
     },
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "חושך",
-      "gloss": "hambisu"
+      "surface": "וחושך",
+      "gloss": "hoo'uu dhorku"
     },
     {
       "surface": "מישר",
@@ -41,9 +37,9 @@
     },
     {
       "surface": "למחסור",
-      "gloss": "gara hir'inaatti"
+      "gloss": "hamma hacaana gad-bu'a"
     }
   ],
-  "timestamp": "2026-08-29T12:02:26.237776442Z",
+  "timestamp": "2026-08-29T17:01:13.547877434Z",
   "model": "glm-5.3"
 }

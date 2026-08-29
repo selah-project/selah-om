@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "deuteronomy 9:5",
-  "book": "deuteronomy",
-  "lang": "om",
-  "chapter": 9,
-  "translation": "Mitii waan miidhaginaa kee tiifi waan sirrummaa onnee kee tiif ati seenuu biyya isaanii ⟨את⟩ fudhattu; waan samifannaa umamtoota kanaa Yahwe Eloohiim kee isaan si hundaan baasuufi, akkasumas jecha Isaas Yahwe abjuutiin seeraan dubbate isa abbootii keetiif — Abrahiimiif, Is-haakiifi, Yaaqoofi — dhaabuuf.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:21:33.388973055Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":5,"ref":"deuteronomy 9:5","book":"deuteronomy","lang":"om","chapter":9,"translation":"Kakkalloonkeeatiin mitii, sirrummaa onnee keetiitiinis mitii, ati walitti seenaa ⟨את⟩ biyyi isaanii walitti fudhachuuf; sababa rakkoo midhaa sababawnni kunuu, Yahwe Eloohiim kee isaan si hoo'isee jira, akkasumas jecha Yahwe abbootii keef — Avrahaam, Yitsaaqa'aa fi Ya'aqoobii — waadaa seene daawwachuuf.","tokens":[{"surface":"לא","gloss":"mitii"},{"surface":"בצדקתך","gloss":"kakkalloonkeeatiin"},{"surface":"ובישר","gloss":"sirrummaatiinis"},{"surface":"לבבך","gloss":"onnee keetii"},{"surface":"אתה","gloss":"ati"},{"surface":"בא","gloss":"walitti seenaa"},{"surface":"לרשת","gloss":"walitti fudhachuuf"},{"surface":"את","gloss":"⟨את⟩","marks":"biyyi isaanii"},{"surface":"ארצם","gloss":"biyyi isaanii"},{"surface":"כי","gloss":"sababa"},{"surface":"ברשעת","gloss":"rakkoo midhaa"},{"surface":"הגוים","gloss":"sababawnni"},{"surface":"האלה","gloss":"kunuu"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"אלהיך","gloss":"Eloohiim kee"},{"surface":"מורישם","gloss":"isaan si hoo'isee jira"},{"surface":"מפניך","gloss":"si"},{"surface":"ולמען","gloss":"akkasumas"},{"surface":"הקים","gloss":"daawwachuuf"},{"surface":"את","gloss":"⟨את⟩","marks":"jecha"},{"surface":"הדבר","gloss":"jecha"},{"surface":"אשר","gloss":""},{"surface":"נשבע","gloss":"waadaa seene"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"לאבתיך","gloss":"abbootii keef"},{"surface":"לאברהם","gloss":"Avrahaam"},{"surface":"ליצחק","gloss":"Yitsaaqa'aa"},{"surface":"וליעקב","gloss":"Ya'aqoobii"}],"timestamp":"2026-08-29T17:08:20.624356595Z","model":"glm-5.3"}

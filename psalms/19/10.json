@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 19,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:14:56.703926363Z",
+  "translation": "Rajaa Yahwe qulqullaa dha, yeroo hunda dhaabbata; murtoonni Yahwe dhugaa dha, walitti sirriidha.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Rajaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "qulqullaa"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murtoonni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sirriidha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:06.171074912Z",
   "model": "glm-5.3"
 }

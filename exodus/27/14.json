@@ -5,8 +5,45 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 27,
-  "translation": "Qaaquuxniwwan amaa shan-ta'a shan-dhibbaa, gabatee saffisa tokkof gabatee tokkotti amaa shan-iyyannaan (fifteen cubits) — utubni isaanii sadii, bu'oonni isaanii sadii.",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:19:47.256761878Z",
+  "translation": "Ani ⟨את⟩ saffisa tokko tiyyaa daangee balballaa irratti meetira shaanantii-shan (amoota 15) ta'u: utubootni isaanii sadii, faalliggeen isaanii sadii.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "fi shan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-tama"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amoota"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ulee-daangaa (qaleewwan)"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "faccii tokko irratti"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "utubootni isaanii"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "fi faalliggeen isaanii"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    }
+  ],
+  "timestamp": "2026-08-29T17:07:08.383298912Z",
   "model": "glm-5.3"
 }

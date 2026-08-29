@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "exodus 27:9",
-  "book": "exodus",
-  "lang": "om",
-  "chapter": 27,
-  "translation": "Galateedhas ⟨את⟩ mancaa taabanaa isaa tin — lachiin kibbaa-towards kibbaa, bunaan mancaa isaa maraan baduu moorataa dhiiraa hundred cu'aa dheerina gochaa pooltokkee tokkoof.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:13:02.078506002Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":9,"ref":"exodus 27:9","book":"exodus","lang":"om","chapter":27,"translation":"Laffoosamii kan Moochaa godinaa: samii-abbaa — Moochaan tokko, kun labsii Shema bu'uura ti. Kanaaf, Moochaan tokko tokkoon lachuu qaba. Moochaan tokko qofa.","tokens":[{"surface":"ועשית","gloss":"godinaa: samii-abbaa"},{"surface":"את","gloss":"⟨את⟩","marks":"Moochaa"},{"surface":"חצר","gloss":"Moochaa"},{"surface":"המשכן","gloss":"kan Moochaa"},{"surface":"לפאת","gloss":"Kanaaf"},{"surface":"נגב","gloss":"samii-abbaa"},{"surface":"תימנה","gloss":"ti"},{"surface":"קלעים","gloss":"laffoosamii"},{"surface":"לחצר","gloss":"kan"},{"surface":"שש","gloss":"Moochaan"},{"surface":"משזר","gloss":"tokko"},{"surface":"מאה","gloss":"kun"},{"surface":"באמה","gloss":"labsii"},{"surface":"ארך","gloss":"Shema"},{"surface":"לפאה","gloss":"bu'uura"},{"surface":"האחת","gloss":"ti"}],"timestamp":"2026-08-29T16:16:35.716424015Z","model":"glm-5.3"}

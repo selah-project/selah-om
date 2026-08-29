@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 139,
-  "translation": "Yoo balbalaa ganama fudhadhe, dhumarratti bishaanii irraa mana bobbaa",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:53:48.071574393Z",
+  "translation": "Yoo mataan ganama fudhadhe, yoo bifa boba'aa dhibbeerraa teesse,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "yoo mataan fudhadhe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mataan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ganamaa"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "yoo teesse"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "bifa boba'aa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dhibbeerraa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:37.984151394Z",
   "model": "glm-5.3"
 }

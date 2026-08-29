@@ -5,8 +5,109 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 16,
-  "translation": "Shamueeliis Yishiyyiin \"Mee baraicha isaa dhumeeraa?\" jedhe. Innis \"Xiqqaan osoo hafu,很好地 hacuca\" jedhe —够 ikkeWait.",
-  "tokens": [],
-  "timestamp": "2026-08-29T07:26:22.526838790Z",
+  "translation": "Shamuu'eel Yishi'itti \"Daa'immanni hundaan dhumeeraa?\" jedhe. \"Xiqqaan hafuu duree; lamee hordaatti,\" jedhe. Shamuu'eel Yishi'itti \"Ergi, fiduu; yoonoo asitti dhufu isaatti hin jiruudhaan\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'eel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi'"
+    },
+    {
+      "surface": "התמו",
+      "gloss": "dhumeeraa"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "daa'immanni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "xaa"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hafuu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "xiqqaan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lamee"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hordaatti"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "dureau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'eel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi'"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Ergi"
+    },
+    {
+      "surface": "וקחנו",
+      "gloss": "fiduu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoonoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נסב",
+      "gloss": "jiruudhaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "asitti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:37.426465334Z",
   "model": "glm-5.3"
 }

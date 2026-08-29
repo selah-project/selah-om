@@ -5,8 +5,75 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 20,
-  "translation": "Paschuurri ilma Iimeer, sanyaa kofaa, innis to'ataa dursaa mana Yahwe ti, Paschuur dhageesse Yermeeyaahu sun raajeffachaa jechaa jechota kana.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:36:58.902615540Z",
+  "translation": "Paschur ilma Immer ogeessa, innis abbaa aa'ee mannaa Yahwe ti, Yeremiyaahu ⟨את⟩ jecha raajaa kan jedhu ∙ ⟨את⟩ jechoota kana dhageesse.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageesse"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Paschur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Immer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "abbaa aa'ee"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mannaasaa aa'ee"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mannaa keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeremiyaaahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyaaahu"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "jecha raajaa kan jedhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:22.788528770Z",
   "model": "glm-5.3"
 }

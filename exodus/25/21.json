@@ -5,8 +5,67 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 25,
-  "translation": "Kophicha irra ol Kapharaicha ati ol kaaftu; ergaa Ameenicha Kophicha keessaa argatus ani atiif kennu kennta.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:12:49.834444668Z",
+  "translation": "Kappoorticha ⟨את⟩ saanduuqa irratti gubbaatti kaaattu; saanduuqa keessattis ⟨את⟩ ragaa ani siif kennu kaaatta.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "fi ati kaaadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kappoorticha"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kappoorticha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "saanduuqa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "gubbaatti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi...keessatti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "saanduuqa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kaaatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragaa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ani kennu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:51.870312713Z",
   "model": "glm-5.3"
 }

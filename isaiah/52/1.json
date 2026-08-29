@@ -5,8 +5,85 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 52,
-  "translation": "Ka'i, ka'i, humna kee liqimsi, Tsiiyon; liqimsi uffata boonsa kee, Yerushaalayim, magaalaa qulqulluu; sababa kanaaf akkaan hin taane, hin taane naa hin seenu samii-qoodaan malee fi nama hiyyeennaan qulqullaa'e.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:14:17.186199444Z",
+  "translation": "Ka'i, ka'i, humna kee liqimsi, Siyo'on; liqimsi maqooda ifaa kee, Yerushaalayim, magaalaa qulqullaa; sababa haadha malee fi faallaa kee keessa akkasitti hin seenan.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "liqimsi"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyo'on"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "liqimsi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "maqooda"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ifaa kee"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "akkasitti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "seenan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kee keessa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "ערל",
+      "gloss": "haadha malee"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "fi faallaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:55:08.629814006Z",
   "model": "glm-5.3"
 }

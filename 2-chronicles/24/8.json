@@ -5,8 +5,49 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 24,
-  "translation": "Mootichi ajajee, isaanis sanduqa tokko hojjetanii, baaburraa mana Yahwe alatti, mana Yaahwe... Mana Yaahwe baaburraa ala jiru sanduqa tokko hojjetanii kaasaniiru: Mootichi yeroo ajaju, sanduqa tokko hojjedhaniiru, mana Yahwe baaburraa ala jiru irratti kaasaniiru.",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:01:27.294805056Z",
+  "translation": "Mootichiinis akka jedhe, sanduqa tokko hojjetanii, mana Yahwe bahu irratti, alatti kaaftanii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichiinis"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjetanii"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "kaaftanii"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "bahu irratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "alatti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:37.261379377Z",
   "model": "glm-5.3"
 }

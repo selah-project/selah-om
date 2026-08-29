@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 1,
-  "translation": "Yoo isaan jedhan «Nu wajjin kottu, verriin-eegannaa dhiiga irratti нajoomnaa, nurraa hafuudhaan malee namoota qulqulluu dhoksinaa» —",
+  "translation": "Yoo isaan jedhan, «Koottaa ⟨את⟩ nu wajjin, dhiigaaf qadhaadhaa, namoota qulqulluu kufeerra eegganna, sababa malee»,",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "yoo"
+      "gloss": "Yoo"
     },
     {
       "surface": "יאמרו",
@@ -17,15 +17,16 @@
     },
     {
       "surface": "לכה",
-      "gloss": "kottu"
+      "gloss": "Koottaa"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ nu wajjin"
+      "gloss": "⟨את⟩",
+      "marks": "nu wajjin"
     },
     {
       "surface": "נארבה",
-      "gloss": "eegannaa dhiiga irratti najoomnaa"
+      "gloss": "dhiigaaf qadhaadhaa"
     },
     {
       "surface": "לדם",
@@ -33,17 +34,17 @@
     },
     {
       "surface": "נצפנה",
-      "gloss": "dhoksinaa"
+      "gloss": "kufeerra eegganna"
     },
     {
       "surface": "לנקי",
-      "gloss": "nurraa hafuudhaan malee qulqullummaa"
+      "gloss": "namoota qulqulluu"
     },
     {
       "surface": "חנם",
       "gloss": "sababa malee"
     }
   ],
-  "timestamp": "2026-08-29T11:57:14.996160546Z",
+  "timestamp": "2026-08-29T17:01:41.302362083Z",
   "model": "glm-5.3"
 }

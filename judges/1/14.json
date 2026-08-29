@@ -5,8 +5,70 @@
   "book": "judges",
   "lang": "om",
   "chapter": 1,
-  "translation": "Yeroo ishee dhuftu, sarara abbootii isaa irraa ⟨את⟩ qonna gaafachuu godhe; garee harree irraa buute. Kaalebinsa isaatti, \"Maal si gargaaruu barbaadda?\" jedhe.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:59:50.707448525Z",
+  "translation": "Yeroo dhooftiitti, akka abbaa ishee irraa ⟨את⟩ dirree gaafattuuf kakaasteetti; gaala irraa buutis, Kaleebiin ishee ni jedhe: “Maal si gaafata?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "dhhooftiitti"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "kakaasteetti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "gaafattuuf"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa ishee"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "abbaa ishee"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "buute"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "gaala"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si gaafata"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:55.314345854Z",
   "model": "glm-5.3"
 }

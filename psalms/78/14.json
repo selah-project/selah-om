@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 78,
-  "translation": "Ganama kichiisaa isa qajeelche; halkan hunda immoo ifa ibiddaatiin.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:34:38.682346506Z",
+  "translation": "Guyyaa akkaataa duubaan isa qajeelchise; halkan guutuuuns i ifa ibiddaatiin.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "duubaan isa qajeelchise"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "duubaa keessatti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "halkan guutuuuns"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "halkanii"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ifa keessatti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:49.800115819Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 12,
-  "translation": "Kunoo, ani jira; ragaa natti haadhaa fuuldura Yahwe fi fuuldura Maashiyaak Isaa. ⟨את⟩ saffisa miinaa namaa kamiin fudhadde? mootardaa kamiin fudhadde? ⟨את⟩ nama kam milkessesse? ⟨את⟩ nama kam riixee? harka namaa kamiin kaffaltii fudhaddee, iji koo isaatitti cufuun isin deebisa?",
+  "translation": "Kunoo, ani jira! Yahwe duratti fi Maashiyaakisaa duratti na ragaa aa'aa: ⟨את⟩ sa'a eenyu na fudhatee? harree eenyu na fudhatee? ⟨את⟩ eenyuyyuu na bulbise? ⟨את⟩ eenyuyyuu na miidhe? harka eenyu irraas rachiisa fudhee, ija koo isa irratti cufuun, ani isaa isiniif deebisa?",
   "tokens": [
     {
       "surface": "הנני",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ענו",
-      "gloss": "ragaa natti haadhaa"
+      "gloss": "na ragaa aa'aa"
     },
     {
       "surface": "בי",
-      "gloss": "natti"
+      "gloss": "na"
     },
     {
       "surface": "נגד",
-      "gloss": "fuuldura"
+      "gloss": "duratti"
     },
     {
       "surface": "יהוה",
@@ -29,100 +29,104 @@
     },
     {
       "surface": "ונגד",
-      "gloss": "fi fuuldura"
+      "gloss": "fi... duratti"
     },
     {
       "surface": "משיחו",
-      "gloss": "Maashiyaak Isaa"
+      "gloss": "Maashiyaakisaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "saffisa miinaa"
+      "marks": "sa'a"
     },
     {
       "surface": "שור",
-      "gloss": "saffisa miinaa"
+      "gloss": "sa'a"
     },
     {
       "surface": "מי",
-      "gloss": "kamiin"
+      "gloss": "eenyu"
     },
     {
       "surface": "לקחתי",
-      "gloss": "fudhadde"
+      "gloss": "na fudhatee"
     },
     {
       "surface": "וחמור",
-      "gloss": "mootardaa kamiin"
+      "gloss": "harree"
     },
     {
       "surface": "מי",
-      "gloss": "kamiin"
+      "gloss": "eenyu"
     },
     {
       "surface": "לקחתי",
-      "gloss": "fudhadde"
+      "gloss": "na fudhatee"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "nama kam"
+      "marks": "eenyuyyuu"
     },
     {
       "surface": "מי",
-      "gloss": "nama kam"
+      "gloss": "eenyuyyuu"
     },
     {
       "surface": "עשקתי",
-      "gloss": "milkessesse"
+      "gloss": "na bulbise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nama kam"
+      "marks": "eenyuyyuu"
     },
     {
       "surface": "מי",
-      "gloss": "nama kam"
+      "gloss": "eenyuyyuu"
     },
     {
       "surface": "רצותי",
-      "gloss": "riixee"
+      "gloss": "na miidhe"
     },
     {
       "surface": "ומיד",
-      "gloss": "harka namaa kamiin"
+      "gloss": "harka... irraas"
     },
     {
       "surface": "מי",
-      "gloss": "kamiin"
+      "gloss": "eenyu"
     },
     {
       "surface": "לקחתי",
-      "gloss": "fudhaddee"
+      "gloss": "fudhee"
     },
     {
       "surface": "כפר",
-      "gloss": "kaffaltii"
+      "gloss": "rachiisa"
     },
     {
       "surface": "ואעלים",
-      "gloss": "iji koo isaatitti cufuun"
+      "gloss": "ija koo... cufuun"
     },
     {
       "surface": "עיני",
-      "gloss": "iji koo"
+      "gloss": "ija koo"
     },
     {
       "surface": "בו",
-      "gloss": "isaatitti"
+      "gloss": "isa irratti"
     },
     {
       "surface": "ואשיב",
-      "gloss": "isin deebisa"
+      "gloss": "ani... deebisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
     }
   ],
-  "timestamp": "2026-08-29T14:41:39.224643164Z",
+  "timestamp": "2026-08-29T16:19:25.660853514Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 7,
-  "translation": "Garuu jecha kana qofa (את) ajajefiinis: ‘Sagalee koofi dhageessi; Eloohiim ta'an isiniif, isinis sabaa koof ta'aa; karaa hunda (את) isiin ajaju keessa deemaay, akka isiniif tolfamuuf.’",
+  "translation": "Garuu jecha kana qofa ani isaan ajajee jedhe: Sagalee kiyya sagaddaa, ani isiniif Eloohiim ta'a, isinis natti gosa taatan; karaa hunda waan ani isiniin ajaju deemanii, isiniif haa gaarii ta'u.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Garuu"
+      "gloss": "garuu ( akka)"
     },
     {
       "surface": "אם",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "jecha kana"
+      "gloss": "jecha"
     },
     {
       "surface": "הזה",
@@ -30,28 +30,28 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ajajefiinis"
+      "gloss": "ajajee jedhe"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isiin"
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
     },
     {
       "surface": "לאמר",
-      "gloss": "jechuun"
+      "gloss": "jedhee"
     },
     {
       "surface": "שמעו",
-      "gloss": "dhageessi"
+      "gloss": "sagaddaa"
     },
     {
       "surface": "בקולי",
-      "gloss": "Sagalee koofi"
+      "gloss": "sagalee kiyya"
     },
     {
       "surface": "והייתי",
-      "gloss": "ta'an"
+      "gloss": "ta'a"
     },
     {
       "surface": "לכם",
@@ -67,23 +67,23 @@
     },
     {
       "surface": "תהיו",
-      "gloss": "ta'aa"
+      "gloss": "taatan"
     },
     {
       "surface": "לי",
-      "gloss": "koo"
+      "gloss": "natti"
     },
     {
       "surface": "לעם",
-      "gloss": "sabaa koof"
+      "gloss": "gosa"
     },
     {
       "surface": "והלכתם",
-      "gloss": "deemaay"
+      "gloss": "deemanii"
     },
     {
       "surface": "בכל",
-      "gloss": "hunda...keessa"
+      "gloss": "karaa hunda"
     },
     {
       "surface": "הדרך",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "waan"
     },
     {
       "surface": "אצוה",
@@ -99,22 +99,22 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isiin"
+      "gloss": "⟨את⟩",
+      "marks": "isiniin"
     },
     {
       "surface": "למען",
-      "gloss": "akka...uf"
+      "gloss": "akkaataa"
     },
     {
       "surface": "ייטב",
-      "gloss": "tolfamu"
+      "gloss": "haa gaarii ta'u"
     },
     {
       "surface": "לכם",
       "gloss": "isiniif"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.097221729Z",
+  "timestamp": "2026-08-29T16:55:09.960929880Z",
   "model": "glm-5.3"
 }

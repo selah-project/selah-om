@@ -5,8 +5,41 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 26,
-  "translation": "Hundeeffannoo sagalee gita kee hin taasisiiguuf, ani herrega giishaa fi sagalee kissaaraa kee akka hin dhageeffamne taasisa; yeroo dheeraaf kan hin dhageeffamu taasisa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:21:16.632830218Z",
+  "translation": "Fi boca gegeessaa kee ni dhisu; sagalee qaccee kee ammas hin dhagahamu.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ni dhisu"
+    },
+    {
+      "surface": "המון",
+      "gloss": "boca"
+    },
+    {
+      "surface": "שיריך",
+      "gloss": "gegeessaa kee"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "כנוריך",
+      "gloss": "qaccee kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhagahamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammás"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:51.775697500Z",
   "model": "glm-5.3"
 }

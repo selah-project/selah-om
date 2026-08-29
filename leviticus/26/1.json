@@ -5,8 +5,89 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 26,
-  "translation": "Lakkoofsa gatoo lakkoofsa dhibbataa hin taasisinaaf; rukuttaa cimaa fi rukuttaa xiqqaa hin dhiheeffatinaaf; fageenya fi dhihaansa hin barbaachisinaaf; kan akkas jechuuf, rukuttaa cimaa dhibbataa keessatti hin jiru.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:45:13.540960287Z",
+  "translation": "Si'ilota (fakaawwan dogoggoraa) isin hafuuraa hin hojjattinaa; fakaawwan barreeffamee dhokaa-dhokaa utubaadhaas hin dhaabbattinaa; dhokaa cinderuu biyya keessan keessatti kadhachuuf isa irratti hin qoorattinaa; sababiin isaas Ani Yahwe, Eloohiim keessan ani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjattinaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin hafuuraa"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "si'ilota (fakaawwan dogoggoraa)"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "fakaawwan barreeffamee"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "utubaa dhokaa-dhokaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "dhaabbattinaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin hafuuraa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhokaa cinderuu"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "fakaawwan barreeffamee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "qoorattinaa"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "biyya keessan keessatti"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kadhachuuf"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:11.924192445Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "job",
   "lang": "om",
   "chapter": 27,
-  "translation": "Isin ⟨את⟩ ⟨אתכם⟩ harkaan Eel barsiisa; waan Shaddaay waliin qabu hin dhoksu.",
+  "translation": "Isin barsiisa; harka Eel ⟨את⟩ iddoo isiniif agarsiisa; waan Shaddaay wajjin jiru miti, hin dhoksudhu.",
   "tokens": [
     {
       "surface": "אורה",
-      "gloss": "barsiisa"
+      "gloss": "Isin barsiisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isin"
+      "gloss": "⟨את⟩",
+      "marks": "harka Eel"
     },
     {
       "surface": "ביד",
-      "gloss": "harkaan"
+      "gloss": "harka"
     },
     {
       "surface": "אל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "waliin"
+      "gloss": "wajjin"
     },
     {
       "surface": "שדי",
@@ -38,13 +38,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "hin"
+      "gloss": "miti"
     },
     {
       "surface": "אכחד",
-      "gloss": "dhoksu"
+      "gloss": "hin dhoksudhu"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.111649642Z",
+  "timestamp": "2026-08-29T17:02:35.249553300Z",
   "model": "glm-5.3"
 }

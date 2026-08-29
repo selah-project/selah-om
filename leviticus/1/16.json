@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 1,
-  "translation": "Qorphii isaa ⟨את⟩ са'aa isaa waliin ha baafatu, karaa bahaatti gorsa geddaa biratti, iddoo ashsharaaatti isaa ha darbu.",
+  "translation": "Inni ⟨את⟩ muusannoo shimbirree gadii (crop) hammamtaa isaa waliin hiikuu, bahaan altaraa biratti, iddoo ashulaa keessatti ni darba.",
   "tokens": [
     {
       "surface": "והסיר",
-      "gloss": "ha baafatu"
+      "gloss": "hiikuu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qorphii isaa"
+      "marks": "muusannoo shimbirree gadii"
     },
     {
       "surface": "מראתו",
-      "gloss": "qorphii isaa"
+      "gloss": "muusannoo shimbirree gadii"
     },
     {
       "surface": "בנצתה",
-      "gloss": "са'aa isaa waliin"
+      "gloss": "hammamtaa isaa waliin"
     },
     {
       "surface": "והשליך",
-      "gloss": "ha darbu"
+      "gloss": "ni darba"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "isaa"
+      "marks": "muusannoo shimbirree gadii (isaa)"
     },
     {
       "surface": "אצל",
@@ -39,15 +39,15 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "gorsa geddaa"
+      "gloss": "altaraa"
     },
     {
       "surface": "קדמה",
-      "gloss": "karaa bahaatti"
+      "gloss": "bahaan"
     },
     {
       "surface": "אל",
-      "gloss": "iddoo"
+      "gloss": "gara"
     },
     {
       "surface": "מקום",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "הדשן",
-      "gloss": "ashsharaa"
+      "gloss": "ashulaa"
     }
   ],
-  "timestamp": "2026-08-29T05:29:12.083491114Z",
+  "timestamp": "2026-08-29T16:43:05.669645527Z",
   "model": "glm-5.3"
 }

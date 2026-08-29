@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 26,
-  "translation": "Fi sabniwwan hundaa isaan uume irratti, maqaa faarfannaa fi kabajaa ta'uu, fi sabaa qulqullaa ta'uuuf Yahwe Eloohiim keetiif — akka jenneetti, ol kaa'uuf si.",
+  "translation": "Akka si ganna bu'aa taasisee saboota hunda irratti ol taasiifuu, Isa uume, faarfamaaf, maqaaf, boonsaaf, akkasumas akka saba qulqulluu Yahwe Eloohiim keetti taatu, akka dubbatetti.",
   "tokens": [
     {
       "surface": "ולתתך",
-      "gloss": "si ol kaa'uuf"
+      "gloss": "si taasiifuu akka"
     },
     {
       "surface": "עליון",
-      "gloss": "oliitti"
+      "gloss": "bu'aa ol-taate"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "sabniwwan"
+      "gloss": "saboota"
     },
     {
       "surface": "אשר",
-      "gloss": "isaan"
+      "gloss": "Isa"
     },
     {
       "surface": "עשה",
@@ -37,39 +37,35 @@
     },
     {
       "surface": "לתהלה",
-      "gloss": "faarfannaa"
+      "gloss": "faarfamaaf"
     },
     {
       "surface": "ולשם",
-      "gloss": "maqaa fi"
-    },
-    {
-      "surface": "ולשם",
-      "gloss": "maqaa fi"
+      "gloss": "maqaaf"
     },
     {
       "surface": "ולתפארת",
-      "gloss": "kabajaa"
+      "gloss": "boonsaaf"
     },
     {
       "surface": "ולהיתך",
-      "gloss": "ta'uuuf"
+      "gloss": "taatu akka"
     },
     {
       "surface": "עם",
-      "gloss": "sabaa"
+      "gloss": "saba"
     },
     {
       "surface": "קדש",
-      "gloss": "qulqullaa"
+      "gloss": "qulqulluu"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahwef"
+      "gloss": "Yahwe-tti"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Eloohiim keetii"
+      "gloss": "Eloohiim kee"
     },
     {
       "surface": "כאשר",
@@ -77,9 +73,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "jennee"
+      "gloss": "dubbatetti"
     }
   ],
-  "timestamp": "2026-08-29T06:31:04.528704706Z",
+  "timestamp": "2026-08-29T16:18:06.880151861Z",
   "model": "glm-5.3"
 }

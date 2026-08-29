@@ -5,20 +5,20 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 6,
-  "translation": "Sanduuqa Yahwe fudhadhaa, gaarree irratti kaa'aa; meeshaaleen warqee kan Isaa goo'aa, kaffaldii dilbii sinneef, sanduuqicha cinaa isaatti kaa'aa; achittis Isa ergaa, haa deemu.",
+  "translation": "Akkaas kennaniif fudhattan ⟨את⟩ sanduqa Yahwe, kaaftaniif ⟨את⟩ isa gara gaaridaa; ⟨את⟩ meeshaaleen warqee waan isaa deebifattan akka kaffaltii yakkaa sanduqa footee daangaa isaatti kaaftaniif; ergaaniif ⟨את⟩ isa, innis deema.",
   "tokens": [
     {
       "surface": "ולקחתם",
-      "gloss": "fudhadhaa"
+      "gloss": "fudhattaniif"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sanduuqa Yahwe"
+      "marks": "sanduqa (sanduqa Yahwe)"
     },
     {
       "surface": "ארון",
-      "gloss": "Sanduuqa"
+      "gloss": "sanduqa"
     },
     {
       "surface": "יהוה",
@@ -26,28 +26,29 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "kaa'aa"
+      "gloss": "kaaftaniif"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩",
+      "marks": "isa (gara gaaridaa)"
     },
     {
       "surface": "אל",
-      "gloss": "gara...irratti"
+      "gloss": "gara"
     },
     {
       "surface": "העגלה",
-      "gloss": "gaarree"
+      "gloss": "gaarida"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "⟨את⟩",
       "marks": "meeshaaleen warqee"
     },
     {
       "surface": "כלי",
-      "gloss": "meeshaaleen"
+      "gloss": "meeshaalee"
     },
     {
       "surface": "הזהב",
@@ -55,46 +56,46 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kan"
+      "gloss": "waan"
     },
     {
       "surface": "השבתם",
-      "gloss": "goo'aa...sinneef"
+      "gloss": "deebifattan"
     },
     {
       "surface": "לו",
-      "gloss": "Isaa"
+      "gloss": "isaa"
     },
     {
       "surface": "אשם",
-      "gloss": "kaffaldii dilbii"
+      "gloss": "kaffaltii yakkaa"
     },
     {
       "surface": "תשימו",
-      "gloss": "kaa'aa"
+      "gloss": "kaaftaniif"
     },
     {
       "surface": "בארגז",
-      "gloss": "sanduuqicha"
+      "gloss": "sanduqa footee keessaa"
     },
     {
       "surface": "מצדו",
-      "gloss": "cinaa isaatti"
+      "gloss": "daangaa isaatti"
     },
     {
       "surface": "ושלחתם",
-      "gloss": "ergaa"
+      "gloss": "ergaaniif"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Isa"
+      "gloss": "⟨את⟩",
+      "marks": "isa"
     },
     {
       "surface": "והלך",
-      "gloss": "haa deemu"
+      "gloss": "deema"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.117281607Z",
+  "timestamp": "2026-08-29T16:50:28.045422001Z",
   "model": "glm-5.3"
 }

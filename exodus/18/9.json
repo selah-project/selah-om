@@ -5,8 +5,61 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 18,
-  "translation": "Yitroo waan gaarii hunda irratti kan dhimmeessate Waaqayyo... kan Israa'eliif hojjete, Isa islaamsee harka Mitsraayim irraa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:05:50.414679085Z",
+  "translation": "Yitroo guddatti eferralaa waan gaarii hunda irraatti kan Yahwe Israa'ieliif hojjeche, waan harka Mitsraayim irraa kaaseef.",
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "guddatti eferralaa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "waan gaarii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjeche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'ieliif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "kaaseef"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:24.954555843Z",
   "model": "glm-5.3"
 }

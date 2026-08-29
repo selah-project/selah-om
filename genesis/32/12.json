@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 32,
-  "translation": "Na oolchi, kadha, harka obboleessa koo — harka Eesawuu irraa; sababni isaas ani ⟨את⟩ ⟨אתו⟩ Isa sodaadha, akka dhufee na dheesse — haadhollee ilmaan irratti.",
+  "translation": "Na oolchi, maaloo, harka obboleessa koo irraa, harka Esavii irraa; sababa ani ⟨את⟩ isa sodaadhu, akka inni dhufee haadha ijoollota ishee irratti na hin miineef.",
   "tokens": [
     {
       "surface": "הצילני",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "kadha"
+      "gloss": "maaloo"
     },
     {
       "surface": "מיד",
-      "gloss": "harka"
+      "gloss": "harka irraa"
     },
     {
       "surface": "אחי",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "מיד",
-      "gloss": "harka"
+      "gloss": "harka irraa"
     },
     {
       "surface": "עשו",
-      "gloss": "Eesawuu irraa"
+      "gloss": "Esavii"
     },
     {
       "surface": "כי",
-      "gloss": "sababni isaas"
+      "gloss": "sababa"
     },
     {
       "surface": "ירא",
-      "gloss": "sodaadha"
+      "gloss": "sodaadhu"
     },
     {
       "surface": "אנכי",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Eesawuu"
+      "gloss": "⟨את⟩ isa",
+      "marks": "Esavii (isa)"
     },
     {
       "surface": "פן",
-      "gloss": "akka"
+      "gloss": "akka...hin"
     },
     {
       "surface": "יבוא",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "והכני",
-      "gloss": "na dheesse"
+      "gloss": "na hin miineef"
     },
     {
       "surface": "אם",
-      "gloss": "haadhollee"
+      "gloss": "haadha"
     },
     {
       "surface": "על",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "בנים",
-      "gloss": "ilmaan"
+      "gloss": "ijoollota ishee"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.089072065Z",
+  "timestamp": "2026-08-29T16:39:20.313216404Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,53 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 31,
-  "translation": "Guyyoota sanatti ni jedhu, 'Abbootiin moora-dhokrii irrati-eegana'; — akkasuma hin jedhanu: abbootiin moora-dhokrii irrati-eeganii, ilkaan ilmaan beekamaa.' Akkasuma hin jedhanu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:41:44.993757604Z",
+  "translation": "Guyyoota sanaa \"Abbootonni bosser ni nyaachuu, immoo ilkaan ilmaan dhalaaa lamaa\" jedhanii deebisuu hin jedhanu.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhanu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deebisuu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "abbootonni"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ni nyaachuu"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "bosser"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "immoo ilkaan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "lamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:50.604298017Z",
   "model": "glm-5.3"
 }

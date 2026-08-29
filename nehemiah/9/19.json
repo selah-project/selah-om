@@ -5,8 +5,116 @@
   "book": "nehemiah",
   "lang": "om",
   "chapter": 9,
-  "translation": "Ati immoo rahmata kee isa baay'ee keessatti hoo gurguddaa keessaa isa hin dhiifne; utubaa duuda Γ©α... kanaan ilma keessoo",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:36:48.175390531Z",
+  "translation": "Atiimmoo rahmata kee hedduudhaan minjaale keessatti isaaniiti hin dhiifne; ⟨את⟩ utubaa cirrachaa guyyaa irra isaaniiti hin ofree karaa qabsiisuuf isaatiin, akkasumas ⟨את⟩ utubaa ibiddaas halkan, ifa isaanii argisuuf, akkasumas ⟨את⟩ karaa isa ittiin deeman.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Atiimmoo"
+    },
+    {
+      "surface": "ברחמיך",
+      "gloss": "rahmata kee"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "hedduudhaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "dhiifne"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "minjaale keessatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utubaa cirrachaa"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "utubaa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "cirrachaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ofree"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "irra isaaniiti"
+    },
+    {
+      "surface": "ביומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "להנחתם",
+      "gloss": "qabsiisuuf isaatiin"
+    },
+    {
+      "surface": "בהדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "utubaa ibiddaas"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "utubaa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ifa argisuuf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karaa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ittiin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:46.005326721Z",
   "model": "glm-5.3"
 }

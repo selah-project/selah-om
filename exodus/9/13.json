@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 9,
-  "translation": "Yahween Moshee'is jedhe: “Ganama dhiyaadhu, duraatiin Faaroo'aa dhaabami, isaaniinis isa jedhi: Akka jedhe Yahwe, Eloohiim Ibrootaa — ⟨את⟩ umatta koo gad-liisi, akkasumas na tajaajalu.”",
+  "translation": "Yahween Mosheef jedhe: \"Ganama dandeettiin ka'i, Fir'awn dura dhaabi, isaanis akkas jedhi: 'Akkaasaa kan jedhe Yahwe, Eloohiim Ibroo­taa: ⟨את⟩ saba koo gadhiisi, anaas gabbaru.'\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "-f"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "השכם",
-      "gloss": "dhiyaadhu"
+      "gloss": "dandeettiin ka'i"
     },
     {
       "surface": "בבקר",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "והתיצב",
-      "gloss": "dhaabami"
+      "gloss": "dhaabi"
     },
     {
       "surface": "לפני",
-      "gloss": "duraatiin"
+      "gloss": "dura"
     },
     {
       "surface": "פרעה",
-      "gloss": "Faaroo'aa"
+      "gloss": "Fir'awn"
     },
     {
       "surface": "ואמרת",
-      "gloss": "jedhi"
+      "gloss": "isaanis jedhi"
     },
     {
       "surface": "אליו",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Akka"
+      "gloss": "akkasaa"
     },
     {
       "surface": "אמר",
-      "gloss": "jedhe"
+      "gloss": "kan jedhe"
     },
     {
       "surface": "יהוה",
@@ -73,22 +73,22 @@
     },
     {
       "surface": "שלח",
-      "gloss": "gad-liisi"
+      "gloss": "gadhiisi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umatta koo"
+      "marks": "saba koo"
     },
     {
       "surface": "עמי",
-      "gloss": "umatta koo"
+      "gloss": "saba koo"
     },
     {
       "surface": "ויעבדני",
-      "gloss": "akkan na tajaajalan"
+      "gloss": "anaas gabbaru"
     }
   ],
-  "timestamp": "2026-08-29T05:01:26.028041605Z",
+  "timestamp": "2026-08-29T17:06:51.152238345Z",
   "model": "glm-5.3"
 }

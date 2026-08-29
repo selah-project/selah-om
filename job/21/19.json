@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "om",
   "chapter": 21,
-  "translation": "Elooha qabeenya daa'imanii eegata; ergasaa isaaf Kenna—isni beeka.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:25:21.957888698Z",
+  "translation": "Elooha miidhaa isaa ilmaan isaatti dhoka; inni isatti kaffala, innis akka beeku ⟨isheen⟩.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "יצצפן",
+      "gloss": "dhoka"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ilmaan isaatti"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "miidhaa isaa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "isatti kaffala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "akka beeku"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:40.936979276Z",
   "model": "glm-5.3"
 }

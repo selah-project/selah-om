@@ -5,8 +5,54 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 8,
-  "translation": "AchumaanArraabicha ⟨את⟩ ergessee bahe; ba'uu fi deebi'uu (ittaadeebi'uu) hanga bishaonni lafa irraa akka hoo'aniitti (socho'aniitti).",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:13:21.462523365Z",
+  "translation": "Ni gatuu ⟨את⟩ abbaa boonaa ergaa; inni ba'ee deebi'aa deebi'aa, hanga bishoonni laf irraa akka hoo'anitti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ni gatuu ergaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa boonaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "abbaa boonaa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "inni ba'ee"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "ba'aa"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "deebi'aa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "hoo'anitti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishoonni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:15:51.524096181Z",
   "model": "glm-5.3"
 }

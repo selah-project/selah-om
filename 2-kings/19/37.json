@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 19,
-  "translation": "Yeroo inni mana Niisrook gabbifaa isaa keessatti ⟨is⟩ sagalee gabbaraa taa'u, Adaaramelek fi Shaareetser ilmaan isaa mmdiin rukutan; isaanis biyya Araaraatitti baqatan; Eesar-Haadon ilmi isaa immoo bakka isaa mootummaa ta'e.",
+  "translation": "Kunoo, yeroo inni mana Niisrok, Eloohiim isaa keessatti suugamu, Adrammelek fi Sharetser adduun rukutan; isaan immoo biyya Araratitti baqatan; Eesar-Haddoon ilma isaa bakka isaa moota ta'e.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "yeroo ... ta'e"
+      "gloss": "Kunoo"
     },
     {
       "surface": "הוא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "משתחוה",
-      "gloss": "sagalee gabbaraa taa'u"
+      "gloss": "suugamu"
     },
     {
       "surface": "בית",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "נסרך",
-      "gloss": "Niisrook"
+      "gloss": "Niisrok"
     },
     {
       "surface": "אלהיו",
-      "gloss": "gabbifaa isaa"
+      "gloss": "Eloohiim isaa"
     },
     {
-      "surface": "ואדרמלך",
-      "gloss": "Adaaramelek"
+      "surface": "וֽאַדְרַמֶּלֶךְ",
+      "gloss": "Adrammelek"
     },
     {
       "surface": "ושראצר",
-      "gloss": "Shaareetser"
+      "gloss": "Sharetser"
     },
     {
       "surface": "הכהו",
-      "gloss": "rukatan"
+      "gloss": "rukutan"
     },
     {
       "surface": "בחרב",
-      "gloss": "mmdiin"
+      "gloss": "adduun"
     },
     {
       "surface": "והמה",
-      "gloss": "isaanis"
+      "gloss": "isaan"
     },
     {
       "surface": "נמלטו",
@@ -61,29 +61,29 @@
     },
     {
       "surface": "אררט",
-      "gloss": "Araaraat"
+      "gloss": "Ararat"
     },
     {
       "surface": "וימלך",
-      "gloss": "mootummaa ta'e"
+      "gloss": "moota ta'e"
     },
     {
       "surface": "אסר",
-      "gloss": "Eesar"
+      "gloss": "Eesar-"
     },
     {
       "surface": "חדן",
-      "gloss": "Haadon"
+      "gloss": "Haddoon"
     },
     {
       "surface": "בנו",
-      "gloss": "ilmi isaa"
+      "gloss": "ilma isaa"
     },
     {
       "surface": "תחתיו",
       "gloss": "bakka isaa"
     }
   ],
-  "timestamp": "2026-08-29T08:38:45.309114219Z",
+  "timestamp": "2026-08-29T16:54:53.309153017Z",
   "model": "glm-5.3"
 }

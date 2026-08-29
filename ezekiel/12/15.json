@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 12,
-  "translation": "Saba biyyootaatti isaani facaafsuu kiyya keessaa, biyyoota keessattis isaani barbaasuun kiyya keessaa, Ani Yahwe akka ta'e isaan beeku.",
+  "translation": "Fi kanan beeku Ani Yahwe jechuudha, yeroo Ani isaan biyyawwan gaggaarii keessatti facaafadhu, fi isaan biyyota keessatti facaafadhu.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "isaan beeku"
+      "gloss": "fi kanan beeku"
     },
     {
       "surface": "כי",
-      "gloss": "akk"
+      "gloss": "jechuudha"
     },
     {
       "surface": "אני",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "בהפיצי",
-      "gloss": "isaani facaafsuu kiyya keessaa"
+      "gloss": "Ani … facaafadhu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "isaani (saba biyyootaatti)"
+      "gloss": "⟨את⟩ isa",
+      "marks": "biyyawwan gaggaarii keessatti (isaan)"
     },
     {
       "surface": "בגוים",
-      "gloss": "saba biyyootaatti"
+      "gloss": "biyyawwan gaggaarii keessatti"
     },
     {
       "surface": "וזריתי",
-      "gloss": "isaani barbaasuun kiyya"
+      "gloss": "fi … facaafadhu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "isaani (biyyoota keessatti)"
+      "gloss": "⟨את⟩ isa",
+      "marks": "biyyota keessatti (isaan)"
     },
     {
       "surface": "בארצות",
-      "gloss": "biyyoota keessattis"
+      "gloss": "biyyota keessatti"
     }
   ],
-  "timestamp": "2026-08-29T10:08:28.415492014Z",
+  "timestamp": "2026-08-29T16:56:38.558523143Z",
   "model": "glm-5.3"
 }

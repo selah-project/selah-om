@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 103,
-  "translation": "Baarbaarsi Yahwe hunda qajeelcha Isaa (tsabaawwan Isaa) fi tajaajiltoota Isaa jaalicha Isaa hojjataniiti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:42:57.367947866Z",
+  "translation": "Barreeffamaa Yahwe haa baafadhaan, haaromsa Isaa hundinuu; tajaajiltoonni Isaa, kan hojjetan fedhii Isaa.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "haa baafadhaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "haaromsa Isaa"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "tajaajiltoonni Isaa"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "kan hojjetan"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "fedhii Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:01.646564943Z",
   "model": "glm-5.3"
 }

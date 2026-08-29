@@ -5,52 +5,52 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 30,
-  "translation": "Harkawwan mooticha Baabeliinis naggaa-fageessaa dha; harkawwan Fir'oonni immoo kufa; Ani Yahwe akka isaani beekamanii,heeddurdur kiyya harka mooticha Baabeliitiin kan kenninuuf, innis <hassosiise> — kanniis <utti baate> — mootummaa Mitsraayim irratti — kanaafuu kan Ani Yahwe ta'e ni beeku.",
+  "translation": "Ani miinda mootii Baabilii cimseessa, miindiin Paar'oo ammoo ni kufa; ani Yahwe ta'e kan beekaniif, ani qileeewwan kiyya harka mootii Baabilii keessatti yoo kenneef, innis ⟨את⟩ biyya Mitsraayimitti fooyyiseesa.",
   "tokens": [
     {
       "surface": "והחזקתי",
-      "gloss": "naggaa-fageessaa dha"
+      "gloss": "cimseessa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "harkawwan mooticha Baabelii"
+      "marks": "miinda (arms)"
     },
     {
       "surface": "זרעות",
-      "gloss": "harkawwan"
+      "gloss": "miinda"
     },
     {
       "surface": "מלך",
-      "gloss": "mooticha"
+      "gloss": "mootii"
     },
     {
       "surface": "בבל",
-      "gloss": "Baabelii"
+      "gloss": "Baabilii"
     },
     {
       "surface": "וזרעות",
-      "gloss": "harkawwan"
+      "gloss": "miindiin"
     },
     {
       "surface": "פרעה",
-      "gloss": "Fir'oon"
+      "gloss": "Paar'oo"
     },
     {
       "surface": "תפלנה",
-      "gloss": "ni kufu"
+      "gloss": "ni kufa"
     },
     {
       "surface": "וידעו",
-      "gloss": "ni beeku"
+      "gloss": "kan beekaniif"
     },
     {
       "surface": "כי",
-      "gloss": "akkuma"
+      "gloss": "ta'e"
     },
     {
       "surface": "אני",
-      "gloss": "Ani"
+      "gloss": "ani"
     },
     {
       "surface": "יהוה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בתתי",
-      "gloss": "yeroon kennu"
+      "gloss": "yoo kenneef"
     },
     {
       "surface": "חרבי",
-      "gloss": "heeddurra kiyya"
+      "gloss": "qileeewwan kiyya"
     },
     {
       "surface": "ביד",
@@ -70,23 +70,24 @@
     },
     {
       "surface": "מלך",
-      "gloss": "mooticha"
+      "gloss": "mootii"
     },
     {
       "surface": "בבל",
-      "gloss": "Baabelii"
+      "gloss": "Baabilii"
     },
     {
       "surface": "ונטה",
-      "gloss": "itti baate"
+      "gloss": "fooyyiseesa"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ishee"
+      "gloss": "⟨את⟩",
+      "marks": "biyya Mitsraayimitti"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "itti"
     },
     {
       "surface": "ארץ",
@@ -97,6 +98,6 @@
       "gloss": "Mitsraayim"
     }
   ],
-  "timestamp": "2026-08-29T10:23:20.880925994Z",
+  "timestamp": "2026-08-29T16:57:34.427052314Z",
   "model": "glm-5.3"
 }

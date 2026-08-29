@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 20,
-  "translation": "Innis isaatti jedhe: Hin taane, ati hin duutu; ilaali, abbaan koo hojii guddaa ykn xiqqaa kamiyyuu ⟨is⟩ hin hojjatu, gara gurra koo hin ifeessu malee; maaliifis abbaan koo jecha kana ⟨את⟩ koo irraa dhoksa? Kun hin taane.",
+  "translation": "Innis isaatti akkas jedhe: Hin taatu! Ati hin duutu; ila, abbaan kirra hojii guddaa yookiin hojii xiqqaa hojjee ⟨את⟩ gurra kiyya hin baafatu; maaliifis abbaan kirra ⟨את⟩ waan kana natti dhoksa? Kun hin taane!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jedhe"
+      "gloss": "akkas jedhe"
     },
     {
       "surface": "לו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "Hin taane"
+      "gloss": "Hin taatu!"
     },
     {
       "surface": "לא",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "הנה",
-      "gloss": "ilaali"
+      "gloss": "ila"
     },
     {
       "surface": "לו",
-      "gloss": "is"
+      "gloss": "kirra"
     },
     {
       "surface": "עשה",
-      "gloss": "hojjatu"
+      "gloss": "hojjee"
     },
     {
       "surface": "אבי",
-      "gloss": "abbaan koo"
+      "gloss": "abbaan"
     },
     {
       "surface": "דבר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "או",
-      "gloss": "ykn"
+      "gloss": "yookiin"
     },
     {
       "surface": "דבר",
@@ -69,16 +69,16 @@
     },
     {
       "surface": "יגלה",
-      "gloss": "ifeessu"
+      "gloss": "baafatu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gurra koo"
+      "marks": "gurra kiyya"
     },
     {
       "surface": "אזני",
-      "gloss": "gara gurra koo"
+      "gloss": "gurra kiyya"
     },
     {
       "surface": "ומדוע",
@@ -90,20 +90,20 @@
     },
     {
       "surface": "אבי",
-      "gloss": "abbaan koo"
+      "gloss": "abbaan"
     },
     {
       "surface": "ממני",
-      "gloss": "koo irraa"
+      "gloss": "natti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jecha kana"
+      "marks": "waan kana"
     },
     {
       "surface": "הדבר",
-      "gloss": "jecha"
+      "gloss": "waan"
     },
     {
       "surface": "הזה",
@@ -111,13 +111,13 @@
     },
     {
       "surface": "אין",
-      "gloss": "hin"
+      "gloss": "hin taane"
     },
     {
       "surface": "זאת",
-      "gloss": "taane"
+      "gloss": "Kun"
     }
   ],
-  "timestamp": "2026-08-29T07:31:15.037609311Z",
+  "timestamp": "2026-08-29T16:51:40.564009817Z",
   "model": "glm-5.3"
 }

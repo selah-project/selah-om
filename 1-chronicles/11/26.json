@@ -5,31 +5,35 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 11,
-  "translation": "Warri cimoo waan waraanaa ammoo: Asaheel obboleesa Yo'aab, Elhanaan ilma Doodoo, Bayt-Lachem irraa.",
+  "translation": "Adeemun warra adartuu qophaa'oo keessaa: Aasaheel obboleessa Yoo'aab, Elhaanaan ilma Doodoo, Bet-lehem irraa.",
   "tokens": [
     {
       "surface": "וגבורי",
-      "gloss": "Warri cimoo"
+      "gloss": "warra adartuu"
     },
     {
       "surface": "החילים",
-      "gloss": "waan waraanaa"
+      "gloss": "qophaa'oo keessaa"
     },
     {
       "surface": "עשה",
-      "gloss": "Asaheel"
+      "gloss": "Aasaheel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
     },
     {
       "surface": "אחי",
-      "gloss": "obboleesa"
+      "gloss": "obboleessa"
     },
     {
       "surface": "יואב",
-      "gloss": "Yo'aab"
+      "gloss": "Yoo'aab"
     },
     {
       "surface": "אלחנן",
-      "gloss": "Elhanaan"
+      "gloss": "Elhaanaan"
     },
     {
       "surface": "בן",
@@ -45,9 +49,9 @@
     },
     {
       "surface": "לחם",
-      "gloss": "Bayt-Lachem"
+      "gloss": "Bet-lehem"
     }
   ],
-  "timestamp": "2026-08-29T13:34:41.982525998Z",
+  "timestamp": "2026-08-29T16:24:46.609054897Z",
   "model": "glm-5.3"
 }

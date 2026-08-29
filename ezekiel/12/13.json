@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 12,
-  "translation": "Tolaan koo isa irratti balbala, tolaa kiyya keessatti qabadama; Babiloon, biyya Kasdiyimtti isa fida; biyyicha sanis hin arguu, achis immoo du'a.",
+  "translation": "Saaphana kiyya isa irratti barsiifna; saaphana kiyyaatiin haphaaf ama; Baabilitti, biyya Kaasdiimotaatti geessisa; ⟨את⟩ Baabilii kan san hin arguu, achumaas du'a.",
   "tokens": [
     {
       "surface": "ופרשתי",
-      "gloss": "tolaan koo isa irratti balbala"
+      "gloss": "barsiifna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tolaan koo (רשתי)"
+      "marks": "saaphana kiyya"
     },
     {
       "surface": "רשתי",
-      "gloss": "tolaan koo"
+      "gloss": "saaphana kiyya"
     },
     {
       "surface": "עליו",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "ונתפש",
-      "gloss": "qabadama"
+      "gloss": "haphaaf ama"
     },
     {
       "surface": "במצודתי",
-      "gloss": "tolas kiyya keessatti"
+      "gloss": "saaphana kiyyaatiin"
     },
     {
       "surface": "והבאתי",
-      "gloss": "fida"
+      "gloss": "geessisa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isa (Babiloonitti)"
+      "gloss": "⟨את⟩",
+      "marks": "Baabilitti"
     },
     {
       "surface": "בבלה",
-      "gloss": "Babiloon"
+      "gloss": "Baabilitti"
     },
     {
       "surface": "ארץ",
@@ -51,12 +51,12 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kasdiyim"
+      "gloss": "Kaasdiimotaatti"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩ ⟨ואותה⟩",
-      "marks": "biyyicha san (לא יראה)"
+      "gloss": "⟨את⟩",
+      "marks": "hin arguu"
     },
     {
       "surface": "לא",
@@ -68,13 +68,13 @@
     },
     {
       "surface": "ושם",
-      "gloss": "achis"
+      "gloss": "achumaas"
     },
     {
       "surface": "ימות",
       "gloss": "du'a"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.123960080Z",
+  "timestamp": "2026-08-29T16:56:30.619306105Z",
   "model": "glm-5.3"
 }

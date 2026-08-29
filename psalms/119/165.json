@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 119,
-  "translation": "Seera KeE jaalattoonni nagaa baay'ee qabaatu; isaaniif wanti isaan kufeerrsu hin jiru.",
+  "translation": "Nagaa baay'ee warra seera kee jaalataniif qaba; simannaan isaanii caasaa hin qabu.",
   "tokens": [
     {
       "surface": "שלום",
@@ -17,29 +17,25 @@
     },
     {
       "surface": "לאהבי",
-      "gloss": "jaalattoonni"
+      "gloss": "warra jaalataniif"
     },
     {
       "surface": "תורתך",
-      "gloss": "seera KeE"
+      "gloss": "seera kee"
     },
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "אין",
-      "gloss": "hin jiru"
+      "surface": "ואין",
+      "gloss": "hin qabu"
     },
     {
       "surface": "למו",
-      "gloss": "isaaniif"
+      "gloss": "isaanii"
     },
     {
       "surface": "מכשול",
-      "gloss": "wanti isaan kufeerrsu"
+      "gloss": "caasaa"
     }
   ],
-  "timestamp": "2026-08-29T11:51:47.543279086Z",
+  "timestamp": "2026-08-29T16:22:50.246806096Z",
   "model": "glm-5.3"
 }

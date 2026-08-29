@@ -5,16 +5,16 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 60,
-  "translation": "When he was striving with ⟨את⟩ Aram of the Two Rivers and with ⟨את⟩ Aram of Tsoba, Yoab returned and struck ⟨את⟩ Edom in the Valley of Salt — twelve thousand.",
+  "translation": "Yeroo inni ⟨את⟩ Aram-Nahaaraayim fi ⟨את⟩ Aram-Tsoobaa waliin morku, Yoo'aabi deebi'ee ⟨את⟩ Edoomi mootummaa Godee Milqii keessatti ajjeesee kuma shan iff sadii ajjeese.",
   "tokens": [
     {
       "surface": "בהצותו",
-      "gloss": "When he was striving"
+      "gloss": "yeroo inni waliin morku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aram of the Two Rivers"
+      "marks": "Aram-Nahaaraayim"
     },
     {
       "surface": "ארם",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "of the Two Rivers"
+      "gloss": "Nahaaraayim"
     },
     {
       "surface": "ואת",
-      "gloss": "and ⟨את⟩",
-      "marks": "Aram of Tsoba"
+      "gloss": "fi ⟨את⟩",
+      "marks": "Aram-Tsoobaa"
     },
     {
       "surface": "ארם",
@@ -35,50 +35,50 @@
     },
     {
       "surface": "צובה",
-      "gloss": "of Tsoba"
+      "gloss": "Tsoobaa"
     },
     {
       "surface": "וישב",
-      "gloss": "and he returned"
+      "gloss": "deebi'ee"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoab"
+      "gloss": "Yoo'aabi"
     },
     {
       "surface": "ויך",
-      "gloss": "and he struck"
+      "gloss": "ajjeesee"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Edom"
+      "marks": "Edoomi"
     },
     {
       "surface": "אדום",
-      "gloss": "Edom"
+      "gloss": "Edoomi"
     },
     {
       "surface": "בגיא",
-      "gloss": "in the Valley"
+      "gloss": "Godee Milqii keessatti"
     },
     {
       "surface": "מלח",
-      "gloss": "of Salt"
+      "gloss": "Milqii"
     },
     {
       "surface": "שנים",
-      "gloss": "twelve"
+      "gloss": "shan"
     },
     {
       "surface": "עשר",
-      "gloss": "twelve"
+      "gloss": "iff"
     },
     {
       "surface": "אלף",
-      "gloss": "thousand"
+      "gloss": "kuma"
     }
   ],
-  "timestamp": "2026-08-29T11:30:05.809062338Z",
+  "timestamp": "2026-08-29T17:00:43.767377677Z",
   "model": "glm-5.3"
 }

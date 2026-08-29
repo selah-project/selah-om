@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 50:4","book":"genesis","lang":"om","chapter":50,"translation":"Guyyoonni ibee'u isaa darbaniinii, Yoosеef mana Paar'oo wajjin dubbatee jedhe: yoo yeroo kanatti hawwii isinitti argadhe, maaloo gargaara Paar'oo jedhu.","tokens":[{"surface":"ויעברו","gloss":"darbaniinii"},{"surface":"ימי","gloss":"guyyoonni"},{"surface":"בכיתו","gloss":"ibee'u isaa"},{"surface":"וידבר","gloss":"dubbatee"},{"surface":"יוסף","gloss":"Yoosееf"},{"surface":"אל","gloss":"wajjin"},{"surface":"בית","gloss":"mana"},{"surface":"פרעה","gloss":"Paar'oo"},{"surface":"לאמר","gloss":"jedhe"},{"surface":"אם","gloss":"yoo"},{"surface":"נא","gloss":"yeroo kanatti"},{"surface":"מצאתי","gloss":"argadhe"},{"surface":"חן","gloss":"hawwii"},{"surface":"בעיניכם","gloss":"isinitti"},{"surface":"דברו","gloss":"gargaara"},{"surface":"נא","gloss":"maaloo"},{"surface":"באזני","gloss":"gaggeessaa Paar'oo jedhu"},{"surface":"פרעה","gloss":"Paar'oo"},{"surface":"לאמר","gloss":"jedhu"}],"timestamp":"2026-08-29T04:56:52.986102953Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 50:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Guyyootni dabarsaa isaa yeroo dabaranii, Yooseeph mana Fir'awnitti dubbate akka jedhutti: yoo anaan jaalala isinitti argadhe, maaloo, gurra Fir'awn keessatti dubbaraa akka jedhutti.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "dabaranii"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyootni"
+    },
+    {
+      "surface": "בכיתו",
+      "gloss": "dabarsaa isaa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooseeph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhutti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dubbaraa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "gurra keessatti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhutti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:40:08.891943690Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,39 @@
   "book": "judges",
   "lang": "om",
   "chapter": 14,
-  "translation": "Akkaataa beekuu fi foo'uu qabduutti, hima: 'Dubartiin Shimshooni beekuu foo'uu qabdu maal guutuu?' — hiika sirrii: Gatiin guutuun hanga torba ilmaan kolfee beeke;«akkaataa» foo'uu qabdu maal guutuutti jechuudha. Kanaafee: «Waan kana barbaaduun» jechuun «hojjachuu fi barbaachisaa ta'uu» jechuudha.",
-  "tokens": [],
-  "timestamp": "2026-08-29T07:10:40.470377852Z",
+  "translation": "Akkaataa banaatti shallaguu keessatti shooryo jaalallee isaatiin \"shooryo jaalallee\" jedhe, \"shooryo jaalallee\" jedhe.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "jalqabatti"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samiiwwanii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:22.276445531Z",
   "model": "glm-5.3"
 }

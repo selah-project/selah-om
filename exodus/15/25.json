@@ -5,8 +5,81 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 15,
-  "translation": "Mosheenis Yahwe dura baatee; Yahwe Immoo muka isa mul'isе... ",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:02:50.735288384Z",
+  "translation": "Mosheenis Yahwe fi maqee; Yahwe immoo muka isaa mul'atte. Innis muka san bishaanetti darbe; bishaanis mi'aawa'aniif garuu ta'e. Achitti isaaniif seera fi dogoggoraa seeraa kenna; achimmoo isa yaalaa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "maqee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dubbachiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "isaatti mul'atte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanetti"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "mi'aawa'aniif garuu ta'e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seeraa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi dogoggoraa seeraa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "achimmoo"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "isa yaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:27.617255171Z",
   "model": "glm-5.3"
 }

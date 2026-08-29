@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 8,
-  "translation": "Akkaa ummatootni ⟨dhu> lafa hundinuu beekaniif, Yahwe inni Eloohiim ta'uu isaa; kan biraa hin jiru.",
+  "translation": "Akkas hundinuu saboonni lafaa akka beekan, Yahwe inni Eloohiim waan ta'eeti; kan biraa hin jiru.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "akka... beekaniif"
+      "gloss": "akkas hundinuu…akka"
     },
     {
       "surface": "דעת",
-      "gloss": "beekaniif"
+      "gloss": "beekan"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "ummatootni"
+      "gloss": "saboonni"
     },
     {
       "surface": "הארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "akkā"
+      "gloss": "akka…waan ta'eeti"
     },
     {
       "surface": "יהוה",
@@ -52,6 +52,6 @@
       "gloss": "kan biraa"
     }
   ],
-  "timestamp": "2026-08-29T14:50:37.346732286Z",
+  "timestamp": "2026-08-29T16:51:59.709902977Z",
   "model": "glm-5.3"
 }

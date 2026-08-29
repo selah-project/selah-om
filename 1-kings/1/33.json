@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 1,
-  "translation": "Mootichi isaaniinis jedhe: Hiriishaa keessan waliin fudhadhu ⟨את⟩ gabroota gooftaa keessan, akkasumas miseensa gootaa Shallome ilma koo ⟨את⟩ fardaa kiyya irratti, akkasumas isaa Gichiyooniitti buusaa.",
+  "translation": "Mootichiinis isaanitti jedhe: Hojiitoota Gooftaa keessan waliin fudhawaa, Sheelomoo ilma koo ⟨את⟩ mooricha kan anaatti irra seensisaa, isaa ⟨את⟩ gara Gihiyoon gadi buusaa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jedhe"
+      "gloss": "isaa'ee jedhe"
     },
     {
       "surface": "המלך",
-      "gloss": "Mootichi"
+      "gloss": "Mootichiinis"
     },
     {
       "surface": "להם",
-      "gloss": "isaaniinis"
+      "gloss": "isaanitti"
     },
     {
       "surface": "קחו",
-      "gloss": "fudhadhu"
+      "gloss": "fudhawaa"
     },
     {
       "surface": "עמכם",
@@ -30,28 +30,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gabroota gooftaa keessan"
+      "marks": "Hojiitoota Gooftaa keessan"
     },
     {
       "surface": "עבדי",
-      "gloss": "gabroota"
+      "gloss": "Hojiitoota"
     },
     {
       "surface": "אדניכם",
-      "gloss": "gooftaa keessan"
+      "gloss": "Gooftaa keessan"
     },
     {
       "surface": "והרכבתם",
-      "gloss": "miseensa gootaa"
+      "gloss": "irra seensisaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shallome ilma koo"
+      "marks": "Sheelomoo ilma koo"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shallome"
+      "gloss": "Sheelomoo"
     },
     {
       "surface": "בני",
@@ -59,38 +59,38 @@
     },
     {
       "surface": "על",
-      "gloss": "irratti"
+      "gloss": "irra"
     },
     {
       "surface": "הפרדה",
-      "gloss": "fardaa kiyya"
+      "gloss": "mooricha"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kan"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "anaati"
     },
     {
       "surface": "והורדתם",
-      "gloss": "buusaa"
+      "gloss": "gadi buusaa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isaa"
+      "gloss": "⟨את⟩",
+      "marks": "gara Gihiyoon"
     },
     {
       "surface": "אל",
-      "gloss": "itti"
+      "gloss": "gara"
     },
     {
       "surface": "גחון",
-      "gloss": "Gichiyooniitti"
+      "gloss": "Gihiyoon"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.142627292Z",
+  "timestamp": "2026-08-29T17:08:55.325220308Z",
   "model": "glm-5.3"
 }

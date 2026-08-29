@@ -5,8 +5,73 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 37,
-  "translation": "Yirmiyaah immoo ni jedhe: soba; Kishdiyyotatti hin kufu. Garuu kanitti hin dhageeffanne; Yir'iyaa Yirmiyaah fudhate, isaa ministeerota geessise.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:49:32.916510312Z",
+  "translation": "Yirmeeyaahu akkas jedhe: \"Sheqer! Ani garuma Kasdiimitti hin kufu.\" Inni ammas isa hin dhageeffanne; Yir'iiyaan Yirmeeyaahu hountersa, gara mootummootaa geessise isa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeeyaahu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Sheqer"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ani... hin"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kufu"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdiimitti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageeffanne"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ויתפש",
+      "gloss": "hountersa"
+    },
+    {
+      "surface": "יראייה",
+      "gloss": "Yir'iiyaan"
+    },
+    {
+      "surface": "בירמיהו",
+      "gloss": "Yirmeeyaahu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "geessise isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mootummootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:14.602657321Z",
   "model": "glm-5.3"
 }

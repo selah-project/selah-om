@@ -5,27 +5,27 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 22,
-  "translation": "Baalaq ilma Siporriis waan Israa'eel uummoota Emoraawaniin hunda ⟨את⟩ {{את}} arge.",
+  "translation": "Baalaak-iin ilmaan Tsippor hunda waan Israa'eel weebarootaaf godhe arguun ni argate.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "arge"
+      "gloss": "ni argate"
     },
     {
       "surface": "בלק",
-      "gloss": "Baalaq"
+      "gloss": "Baalaak"
     },
     {
       "surface": "בן",
-      "gloss": "ilma"
+      "gloss": "ilmaan"
     },
     {
       "surface": "צפור",
-      "gloss": "Siporriis"
+      "gloss": "Tsippor"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ {{את}}",
+      "gloss": "⟨את⟩",
       "marks": "hunda"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "uume"
+      "gloss": "godhe"
     },
     {
       "surface": "ישראל",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "לאמרי",
-      "gloss": "uummoota Emoraawaniif"
+      "gloss": "weebarootaaf"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.138893413Z",
+  "timestamp": "2026-08-29T16:46:09.071025443Z",
   "model": "glm-5.3"
 }

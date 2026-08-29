@@ -5,8 +5,78 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 21,
-  "translation": "Qulqullummaa Waaqaa isaanii tiif ta'u; maqaa Waaqaa isaanii hin faallisan.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:41:42.358490426Z",
+  "translation": "Qulqullummaan kan Eloohiim isaanii ta'u, maqaa Eloohiim isaanii hin cabamsiisan; sababaa ibiddaa-qorbannaa Yahwe, namaa Eloohiim isaanii, isaan ⟨את⟩ dhiheessu, qulqullummaan ta'u.",
+  "tokens": [
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullummaan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kan Eloohiim isaanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "cabamsiisan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiddaa-qorbannaa Yahwe"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ibiddaa-qorbannaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "מקריבם",
+      "gloss": "dhiheessu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:43:59.276440447Z",
   "model": "glm-5.3"
 }

@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "ezekiel 44:24",
-  "book": "ezekiel",
-  "lang": "om",
-  "chapter": 44,
-  "translation": "Sanyii kabajaa fi ayyaana Waaqayyoo kabaju keessatti seera Waaqayyoo fi-Qulqullummaa kabaju kabaju ni kabaju.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:32:52.255562340Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":24,"ref":"ezekiel 44:24","book":"ezekiel","lang":"om","chapter":44,"translation":"Haala tattaaffii irrattis isaan dhaabbachuun murannoo hin godhan; seera kiyyaatti isa murtessu; seera kiyyaas ⟨את⟩ ti seera kiyyaa fi ⟨את⟩ dambiiwwan kiyyaa waamicha kiyyaa hunda irratti eegu; sabboota kiyyaas ⟨את⟩ ni qulqulleessu.","tokens":[{"surface":"ועל","gloss":"haala... irrattis"},{"surface":"ריב","gloss":"tattaaffii"},{"surface":"המה","gloss":"isaan"},{"surface":"יעמדו","gloss":"dhaabbachuun"},{"surface":"לשפט","gloss":"murannoo"},{"surface":"במשפטי","gloss":"seera kiyyaatti"},{"surface":"ושפטהו","gloss":"isa murtessu"},{"surface":"ואת","gloss":"⟨את⟩","marks":"seera kiyyaa"},{"surface":"תורתי","gloss":"seera kiyyaa"},{"surface":"ואת","gloss":"⟨את⟩","marks":"dambiiwwan kiyyaa"},{"surface":"חקתי","gloss":"dambiiwwan kiyyaa"},{"surface":"בכל","gloss":"hunda irratti"},{"surface":"מועדי","gloss":"waamicha kiyyaa"},{"surface":"ישמרו","gloss":"eegu"},{"surface":"ואת","gloss":"⟨את⟩","marks":"sabboota kiyyaa"},{"surface":"שבתותי","gloss":"sabboota kiyyaa"},{"surface":"יקדשו","gloss":"qulqulleessu"}],"timestamp":"2026-08-29T16:22:10.415497464Z","model":"glm-5.3"}

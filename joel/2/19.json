@@ -5,23 +5,23 @@
   "book": "joel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Yihinis Yahwe sabaa isaa deebisee akkas jedhe: Kunoo, ani gara keessan dinnigaa, miira fi shororaa nan erga; isinis isaanitiin ha bwattan; akkasumas isin irra deebisee gara biyyoota alaa rukuttaa irra deebinee hin kennu.",
+  "translation": "Yahween deebii gabatee gara sabaa isaatti akka jedhe: Kunoo, ani gara keessan ⟨את⟩ dinnicha, wedin baruusaa fi zayitaa erga; isin ⟨את⟩ isaaniin ni guutamta, idilee sabaawwan keessatti yaadannoo isin hin taasifanu.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "deebisee"
+      "gloss": "deebii gabatee"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "Yahween"
     },
     {
       "surface": "ויאמר",
-      "gloss": "akkas jedhe"
+      "gloss": "akka jedhe"
     },
     {
       "surface": "לעמו",
-      "gloss": "sabaa isaa"
+      "gloss": "gara sabaa isaatti"
     },
     {
       "surface": "הנני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "nan erga"
+      "gloss": "erga"
     },
     {
       "surface": "לכם",
@@ -38,55 +38,55 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dinnigaa"
+      "marks": "dinnicha"
     },
     {
       "surface": "הדגן",
-      "gloss": "dinnigaa"
+      "gloss": "dinnicha"
     },
     {
       "surface": "והתירוש",
-      "gloss": "miira"
+      "gloss": "wedin baruusaa fi"
     },
     {
       "surface": "והיצהר",
-      "gloss": "shororaa"
+      "gloss": "zayitaa"
     },
     {
       "surface": "ושבעתם",
-      "gloss": "ha bwattan"
+      "gloss": "isin ni guutamta"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isaanitiin (dinnigaa, miira, shororaa)"
+      "gloss": "⟨את⟩ isaaniin",
+      "marks": "dinnicha, wedin baruusaa, zayitaa"
     },
     {
       "surface": "ולא",
-      "gloss": "hin kennu"
+      "gloss": "idilee hin"
     },
     {
       "surface": "אתן",
-      "gloss": "hin kennu"
+      "gloss": "taasifanu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isin"
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin (yaadannoo taasifamu)"
     },
     {
       "surface": "עוד",
-      "gloss": "irra deebisee"
+      "gloss": "idilee"
     },
     {
       "surface": "חרפה",
-      "gloss": "gara rukuttaaatti"
+      "gloss": "yaadannoo"
     },
     {
       "surface": "בגוים",
-      "gloss": "biyyoota alaa"
+      "gloss": "sabaawwan keessatti"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.109546996Z",
+  "timestamp": "2026-08-29T16:59:20.305499574Z",
   "model": "glm-5.3"
 }

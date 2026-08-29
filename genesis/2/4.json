@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 2,
-  "translation": "Kunoo dhaloota samiiwwanii fi ⟨the⟩ lafa, waan uumaman yeroo; guyyaa Yahwe Eloohiim lafaa fi samiiwwan hojjettetti.",
+  "translation": "Kunoo seenaa dhalootaa samiiwwanii fi lafa yeroo uumaman, guyyaa Yahwe Eloohiim ⟨את⟩ lafaa fi ⟨את⟩ samiiwwan uume.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תולדות",
-      "gloss": "dhaloota"
+      "gloss": "seenaa dhalootaa"
     },
     {
       "surface": "השמים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והארץ",
-      "gloss": "fi ⟨the⟩ lafa"
+      "gloss": "fi lafa"
     },
     {
       "surface": "בהבראם",
-      "gloss": "waan uumaman yeroo"
+      "gloss": "yeroo uumaman"
     },
     {
       "surface": "ביום",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עשות",
-      "gloss": "hojjettetti"
+      "gloss": "uume"
     },
     {
       "surface": "יהוה",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "ושמים",
-      "gloss": "fi samiiwwan"
+      "gloss": "samiiwwan"
     }
   ],
-  "timestamp": "2026-08-29T04:25:22.570373105Z",
+  "timestamp": "2026-08-29T16:38:06.032773942Z",
   "model": "glm-5.3"
 }

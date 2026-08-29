@@ -5,8 +5,73 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 17,
-  "translation": "Sababiin Eloohiim of-baasaa kee dhiisite, dhugaa dandeettii kees hin yaadanneef, sababa kanaan辛",
-  "tokens": [],
-  "timestamp": "2026-08-29T08:53:29.821133056Z",
+  "translation": "Sababiin isaas Eloohiim bara kee dagatte, dhagaa humna kee dabarbaa; kanaafuu, biqiltuu miidhaginaa biqilsita, irra alaa fi qaama ajaa'ibaa isaa baafatta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "dagatte"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "bara kee"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "dabarbaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "biqilsita"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "biqiltuu"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "miidhaginaa"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "irra alaa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ajaa'ibaa"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "baafatta"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:30.705984452Z",
   "model": "glm-5.3"
 }

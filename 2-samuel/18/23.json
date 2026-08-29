@@ -5,15 +5,19 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 18,
-  "translation": "“Waan ta'e ta'u, na daa,” jedhe. Inis “daa” isaani jedhe. Akhiimaatsis karaa balbala daangee, Kushiiti ⟨את⟩ darbe.",
+  "translation": "Akkuma ta'uutti ni ottolla jedhe. Inni ammas isaatti, Otol ni jedhe. Achumaas karaa balbalaa gargar bantii dafee Kushiyyicha ⟨את⟩ darbe.",
   "tokens": [
     {
-      "surface": "ויהי מה",
-      "gloss": "waan ta'e ta'u"
+      "surface": "ויהי",
+      "gloss": "akkuma ta'uutti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
     },
     {
       "surface": "ארוץ",
-      "gloss": "na daa"
+      "gloss": "ni ottolla"
     },
     {
       "surface": "ויאמר",
@@ -21,19 +25,19 @@
     },
     {
       "surface": "לו",
-      "gloss": "isaani"
+      "gloss": "isaatti"
     },
     {
       "surface": "רוץ",
-      "gloss": "daa"
+      "gloss": "otol"
     },
     {
       "surface": "וירץ",
-      "gloss": "daangee"
+      "gloss": "dafee"
     },
     {
       "surface": "אחימעץ",
-      "gloss": "Akhiimaats"
+      "gloss": "Achumaas"
     },
     {
       "surface": "דרך",
@@ -41,7 +45,7 @@
     },
     {
       "surface": "הככר",
-      "gloss": "balbala"
+      "gloss": "balbalaa gargar bantii"
     },
     {
       "surface": "ויעבר",
@@ -50,13 +54,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kushii"
+      "marks": "Kushiyyicha"
     },
     {
       "surface": "הכושי",
-      "gloss": "⟨את⟩ Kushii"
+      "gloss": "Kushiyyicha"
     }
   ],
-  "timestamp": "2026-08-29T07:55:50.715944175Z",
+  "timestamp": "2026-08-29T16:19:41.538297140Z",
   "model": "glm-5.3"
 }

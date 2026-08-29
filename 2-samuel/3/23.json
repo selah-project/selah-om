@@ -5,43 +5,44 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 3,
-  "translation": "Yoo'aabis fi qajeelfama keenyaan lakkawwaan soorataa ‏idilee isaa waliin dhufan; namoonni Yoo'aabifs akka jechaniif: «Abneer ilma Neer mooticha bira dhufe; innis erguun, nagaa deemee.»",
+  "translation": "Yoo'aabiinifi xiyyeeffannaan hundi isaa wajjin dhufaniiru; Yoo'aabiif himaniif jedhu: Avneerri ilma Niirii mootumaa biraa dhufe, innis mo'ate, nagaan deeme.",
   "tokens": [
     {
       "surface": "ויואב",
-      "gloss": "Yoo'aabis"
+      "gloss": "Yoo'aabiinis"
     },
     {
       "surface": "וכל",
-      "gloss": "idilee"
+      "gloss": "hundi"
     },
     {
       "surface": "הצבא",
-      "gloss": "qajeelfama keenyaan lakkawwaan soorataa"
+      "gloss": "xiyyeeffannaa"
     },
     {
       "surface": "אשר",
-      "gloss": "waan"
+      "gloss": "isa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ isaa waliin"
+      "gloss": "⟨את⟩ wajjin",
+      "marks": "wajjin (isaa)"
     },
     {
       "surface": "באו",
-      "gloss": "dhufan"
+      "gloss": "dhufaniiru"
     },
     {
       "surface": "ויגדו",
-      "gloss": "jechuun"
+      "gloss": "himananiif"
     },
     {
       "surface": "ליואב",
-      "gloss": "Yoo'aabifs"
+      "gloss": "Yoo'aabiif"
     },
     {
       "surface": "לאמר",
-      "gloss": "akka jechaniif"
+      "gloss": "jedhu"
     },
     {
       "surface": "בא",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Abneer"
+      "gloss": "Avneerri"
     },
     {
       "surface": "בן",
@@ -57,29 +58,29 @@
     },
     {
       "surface": "נר",
-      "gloss": "Neer"
+      "gloss": "Niirii"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "biraa"
     },
     {
       "surface": "המלך",
-      "gloss": "mooticha"
+      "gloss": "mootumaa"
     },
     {
       "surface": "וישלחהו",
-      "gloss": "erguun"
+      "gloss": "mo'ate"
     },
     {
       "surface": "וילך",
-      "gloss": "deemee"
+      "gloss": "deeme"
     },
     {
       "surface": "בשלום",
-      "gloss": "nagaa"
+      "gloss": "nagaan"
     }
   ],
-  "timestamp": "2026-08-29T07:44:38.673444372Z",
+  "timestamp": "2026-08-29T16:51:39.603692526Z",
   "model": "glm-5.3"
 }

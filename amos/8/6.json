@@ -5,8 +5,45 @@
   "book": "amos",
   "lang": "om",
   "chapter": 8,
-  "translation": "Adaamsa gargaarsa kan arguu fi micireemsa bishaanii baasee, kottaa dubbana!",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:59:06.899462845Z",
+  "translation": "Dallaa qarshiidhaan fi hiyyeentota sababa korbootaa bitachuuuf, akkasumas booressa maddaa kottuuf",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "bitachuuuf"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "qarshiidhaan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dallaa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi hiyyeentota"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "korbootaa"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "fi booressa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "maddaa"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "kottuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:51.991992188Z",
   "model": "glm-5.3"
 }

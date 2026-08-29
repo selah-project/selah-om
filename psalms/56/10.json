@@ -5,53 +5,53 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 56,
-  "translation": "Yeroo san faanaasoon kiyya deebi'u — guyyaa waan isaatii Waaqayyechuuf. Kun natti beekaamma: Waaqayyo na wajjin jira.",
+  "translation": "Yeroo san, yeroo ani waamu, diinonni kiyya duubatti deebi'u; kun ∙ani beeka, sababaan Eloohiim ⟨waa⟩ anaaf ∙jira.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "Yeroo san"
+      "gloss": "yeroo san"
     },
     {
       "surface": "ישובו",
-      "gloss": "faanaasoon kiyya deebi'u"
-    },
-    {
-      "surface": "אויבי",
-      "gloss": "faanaasoon kiyya"
-    },
-    {
-      "surface": "אחור",
       "gloss": "deebi'u"
     },
     {
+      "surface": "אויבי",
+      "gloss": "diinonni kiyya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "duubatti"
+    },
+    {
       "surface": "ביום",
-      "gloss": "guyyaa"
+      "gloss": "yeroo"
     },
     {
       "surface": "אקרא",
-      "gloss": "waan isaatii Waaqayyechuuf"
+      "gloss": "ani waamu"
     },
     {
       "surface": "זה",
-      "gloss": "Kun"
+      "gloss": "kun"
     },
     {
       "surface": "ידעתי",
-      "gloss": "natti beekaamma"
+      "gloss": "ani beeka"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "sababaan"
     },
     {
       "surface": "אלהים",
-      "gloss": "Waaqayyo"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "לי",
-      "gloss": "na wajjin jira"
+      "gloss": "anaaf"
     }
   ],
-  "timestamp": "2026-08-29T11:28:43.225456112Z",
+  "timestamp": "2026-08-29T17:00:09.054305048Z",
   "model": "glm-5.3"
 }

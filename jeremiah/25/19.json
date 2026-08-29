@@ -5,16 +5,16 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 25,
-  "translation": "⟨את⟩ Par'oo mootii Mitsraayim, ⟨את》 hojjetaa isaa fi ⟨את》 ol-kaawwan isaa fi ⟨את》 sabni isaa hunda.",
+  "translation": "⟨את⟩ Far'aay mootii Mitsraayim, ⟨את⟩ gabroota isaa, ⟨את⟩ mootummoota isaa fi ⟨את⟩ ummata isaa hunda",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Par'oo"
+      "marks": "Far'aay"
     },
     {
       "surface": "פרעה",
-      "gloss": "Par'oo"
+      "gloss": "Far'aay"
     },
     {
       "surface": "מלך",
@@ -26,26 +26,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "hojjetaa isaa"
+      "gloss": "fi ⟨את⟩",
+      "marks": "gabroota isaa"
     },
     {
       "surface": "עבדיו",
-      "gloss": "hojjetaa isaa"
+      "gloss": "gabroota isaa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ol-kaawwan isaa"
+      "gloss": "fi ⟨את⟩",
+      "marks": "mootummoota isaa"
     },
     {
       "surface": "שריו",
-      "gloss": "ol-kaawwan isaa"
+      "gloss": "mootummoota isaa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sabni isaa hunda"
+      "gloss": "fi ⟨את⟩",
+      "marks": "ummata isaa hunda"
     },
     {
       "surface": "כל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "sabni isaa"
+      "gloss": "ummata isaa"
     }
   ],
-  "timestamp": "2026-08-29T09:39:11.410072201Z",
+  "timestamp": "2026-08-29T16:55:58.291373811Z",
   "model": "glm-5.3"
 }

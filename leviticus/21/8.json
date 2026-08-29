@@ -5,8 +5,70 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 21,
-  "translation": "Qulqullina isaa eegaa; Waaqayyo isaa qofa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:41:42.359003040Z",
+  "translation": "Isa ni qulqulleessi, sababiin isaas inni ⟨את⟩ nyaata Eloohiim kee dhiyeessa; siif qulqulluu ta'uun qaba, sababiin isaas ani qulqulluu dha, ani Yahwe, Kan isin qulqulleessu.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "ni qulqulleessi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyaata Eloohiim kee"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nyaata"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dhiyeessa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'uun qaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Kan isin qulqulleessu"
+    }
+  ],
+  "timestamp": "2026-08-29T16:44:03.415753019Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 31,
-  "translation": "Cimadhaa, jabaadhaa; hin sodaadhaa, isaaniirraas hin raawwadhaa; kan deggan Waaqayyo keessan Yahwe, isin waliin deemu; si hin hambisuu, hin dhiisus.",
+  "translation": "Cimadhaa, jabeessadhaa; hin sodaadhaa, hin raggaadhinis sababa isaanii, sababoonni Yahwe Eloohiim kee inni waliin deemu sifa; si hin dadhabsisu, si hin dhiifus.",
   "tokens": [
     {
       "surface": "חזקו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ואמצו",
-      "gloss": "jabaadhaa"
+      "gloss": "jabeessadhaa"
     },
     {
       "surface": "אל",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ואל",
-      "gloss": "hin ... -dhaa"
+      "gloss": "hin"
     },
     {
       "surface": "תערצו",
-      "gloss": "raawwadhaa"
+      "gloss": "raggaadhinis"
     },
     {
       "surface": "מפניהם",
-      "gloss": "isaaniirraa"
+      "gloss": "sababa isaanii"
     },
     {
       "surface": "כי",
-      "gloss": "kan deggan"
+      "gloss": "sababoonni"
     },
     {
       "surface": "יהוה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Eloohiim keessan"
+      "gloss": "Eloohiim kee"
     },
     {
       "surface": "הוא",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ההלך",
-      "gloss": "deemu"
+      "gloss": "waliin deemu"
     },
     {
       "surface": "עמך",
-      "gloss": "isin waliin"
+      "gloss": "sifa"
     },
     {
       "surface": "לא",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "ירפך",
-      "gloss": "si hambisuu"
+      "gloss": "si dadhabsisu"
     },
     {
       "surface": "ולא",
-      "gloss": "hin ... -s"
+      "gloss": "hin"
     },
     {
       "surface": "יעזבך",
-      "gloss": "dhiisus"
+      "gloss": "si dhiifus"
     }
   ],
-  "timestamp": "2026-08-29T06:38:03.760995604Z",
+  "timestamp": "2026-08-29T17:08:00.877540829Z",
   "model": "glm-5.3"
 }

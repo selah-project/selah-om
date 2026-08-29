@@ -5,11 +5,15 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 23,
-  "translation": "Hndaa teessi tokko siif taata alaa kampaa keessaa, akkasumas achitti baafadhuutti alatti.",
+  "translation": "Harka siif ta'uusaa gaafa keessaa baatee, kaampii alatti ta'i, achumaas alatti ba'i.",
   "tokens": [
     {
-      "surface": "ולא_היתה",
-      "gloss": ""
+      "surface": "ויד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'uusaa siif"
     },
     {
       "surface": "לך",
@@ -17,25 +21,25 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "alaa"
+      "gloss": "alatti (gaafa keessaa)"
     },
     {
       "surface": "למחנה",
-      "gloss": "kampaa keessaa"
+      "gloss": "kaampii irraa"
     },
     {
       "surface": "ויצאת",
-      "gloss": "baafadhuutti"
+      "gloss": "ba'i"
     },
     {
       "surface": "שמה",
-      "gloss": "achitti"
+      "gloss": "achumaan"
     },
     {
       "surface": "חוץ",
       "gloss": "alatti"
     }
   ],
-  "timestamp": "2026-08-29T06:30:53.802635686Z",
+  "timestamp": "2026-08-29T16:47:04.764979139Z",
   "model": "glm-5.3"
 }

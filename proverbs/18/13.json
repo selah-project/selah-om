@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "proverbs 18:13",
-  "book": "proverbs",
-  "lang": "om",
-  "chapter": 18,
-  "translation": "Nama waan hin dhaga'in dura deebisa — suni tuqaadha; sirritti dhaga'aa dura deebii kennu, hoogaa feetu isaati.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:06:54.513155277Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"proverbs 18:13","book":"proverbs","lang":"om","chapter":18,"translation":"Namoota deebii kennu gahaa dhaga'uutti, waan gaha jedhuutti deebii kennu — sirrii miti, inni sama xuree fi salphina isaatidha.","tokens":[{"surface":"משיב","gloss":"deebii kennu"},{"surface":"דבר","gloss":"waan jedhu"},{"surface":"בטרם","gloss":"gahaa dhaga'uutti"},{"surface":"ישמע","gloss":"dhaga'uutti"},{"surface":"אולת","gloss":"sama xuree"},{"surface":"היא","gloss":"inni"},{"surface":"לו","gloss":"isaa"},{"surface":"וכלמה","gloss":"fi salphina"}],"timestamp":"2026-08-29T16:23:35.754553408Z","model":"glm-5.3"}

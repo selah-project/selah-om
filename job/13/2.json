@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "om",
   "chapter": 13,
-  "translation": "Akka beekumsa keessan, aniis beeka; ani isin irraa kan kufu miti.",
+  "translation": "Akka beekumsa keessanitti ani'ilis beeka; ani isin irraa kan hinhir'atu dha.",
   "tokens": [
     {
       "surface": "כדעתכם",
-      "gloss": "Akka beekumsa keessan"
+      "gloss": "akkka beekumsa keessanitti"
     },
     {
       "surface": "ידעתי",
-      "gloss": "aniis beeka"
+      "gloss": "beeka"
     },
     {
       "surface": "גם",
-      "gloss": "-is"
+      "gloss": "ilis"
     },
     {
       "surface": "אני",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "miti"
+      "gloss": "hin"
     },
     {
       "surface": "נפל",
-      "gloss": "kan kufu"
+      "gloss": "hir'atu"
     },
     {
       "surface": "אנכי",
@@ -40,6 +40,6 @@
       "gloss": "isin irraa"
     }
   ],
-  "timestamp": "2026-08-29T12:21:10.622008697Z",
+  "timestamp": "2026-08-29T17:01:47.311429500Z",
   "model": "glm-5.3"
 }

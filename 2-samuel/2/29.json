@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Abneeris fi namootni isaa Arabaah keessa halkan sana guutuu deeman, Yorddaanidhaan dabranii, Bitroon guutuu darbanii Maaxanaayim gahan.",
+  "translation": "Abneeris fi namootni isaa araddaa dheeraa sana guutuu hafuura sanatti deeman, Yarduun ⟨את⟩ dabaran, Bitroon guutuu deemanii, Maaxanayim ga'an.",
   "tokens": [
     {
       "surface": "ואבנר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ואנשיו",
-      "gloss": "fi namootni isaa"
+      "gloss": "namootni isaa"
     },
     {
       "surface": "הלכו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בערבה",
-      "gloss": "Arabaah keessa"
+      "gloss": "araddaa dheeraa sana guutuu"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הלילה",
-      "gloss": "halkan"
+      "gloss": "hafuura"
     },
     {
       "surface": "ההוא",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "dabranii"
+      "gloss": "dabaran"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yorddaan"
+      "marks": "Yarduun"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yorddaanidhaan"
+      "gloss": "Yarduun"
     },
     {
       "surface": "וילכו",
-      "gloss": "darbanii"
+      "gloss": "deemanii"
     },
     {
       "surface": "כל",
@@ -62,9 +62,13 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "gahan"
+      "gloss": "ga'an"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maaxanayim"
     }
   ],
-  "timestamp": "2026-08-29T07:43:09.087783820Z",
+  "timestamp": "2026-08-29T16:19:27.316799452Z",
   "model": "glm-5.3"
 }

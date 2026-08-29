@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "om",
   "chapter": 13,
-  "translation": "Sila waan kanaan Shelomoo, mootii Israa'el, balleessute mitii? Biyyoota baay'ee keessatti nagaa mootii akkuma inni ta'een hin jiru; Eloohiim isaa jaallatamaa ture; Eloohiim immoo isa Israa'el hunda irratti mootii taasise. Dubartootni alagaaakkas ⟨את⟩ ⟨אותו⟩ isa balleessaniiru.",
+  "translation": "Sila waan kanaatiif Shelomoo, mooticha Israa'el, hin cubanee? Saboota baay'ee keessatti akka inni fakkaatu mootichi hin turre; Eloohiim isaatif jaallamaa ture, Eloohiim isa Israa'el hunda irratti mootii godate; dubartoonni alagaa immoo ⟨את⟩ isa kana ni cubaniiru.",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "Sila … mitii"
+      "gloss": "sila"
     },
     {
       "surface": "על",
-      "gloss": "waan kanaan"
+      "gloss": "waan kanaatiif"
     },
     {
       "surface": "אלה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חטא",
-      "gloss": "balleessute"
+      "gloss": "hin cubanee"
     },
     {
       "surface": "שלמה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "mootii"
+      "gloss": "mooticha"
     },
     {
       "surface": "ישראל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובגוים",
-      "gloss": "biyyoota baay'ee keessatti"
+      "gloss": "saboota baay'ee keessatti"
     },
     {
       "surface": "הרבים",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "היה",
-      "gloss": "jiru"
+      "gloss": "turre"
     },
     {
       "surface": "מלך",
-      "gloss": "mootii"
+      "gloss": "mootichi"
     },
     {
       "surface": "כמהו",
-      "gloss": "akkuma inni ta'e"
+      "gloss": "akka inni fakkaatu"
     },
     {
       "surface": "ואהוב",
-      "gloss": "jaallatamaa"
+      "gloss": "jaallamaa ture"
     },
     {
       "surface": "לאלהיו",
-      "gloss": "Eloohiim isaa"
+      "gloss": "Eloohiim isaatif"
     },
     {
       "surface": "היה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "isa taasise"
+      "gloss": "isa godate"
     },
     {
       "surface": "אלהים",
@@ -97,26 +97,26 @@
     },
     {
       "surface": "גם",
-      "gloss": "-akkas"
+      "gloss": "immoo"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨אותו⟩",
-      "marks": "isa (isa balleessaniiru)"
+      "gloss": "⟨את⟩",
+      "marks": "isa (Shelomoo)"
     },
     {
       "surface": "החטיאו",
-      "gloss": "balleessaniiru"
+      "gloss": "ni cubaniiru"
     },
     {
       "surface": "הנשים",
-      "gloss": "dubartootni"
+      "gloss": "dubartoonni"
     },
     {
       "surface": "הנכריות",
       "gloss": "alagaa"
     }
   ],
-  "timestamp": "2026-08-29T13:30:33.609197448Z",
+  "timestamp": "2026-08-29T17:04:09.042109208Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 6,
-  "translation": "Mooticha Daawifi 'Yahwe mana Oobed-Edoomiifi ⟨את⟩ waan isaa hundaa sanduqa Waaqayyeef eebbiseera' jedhuun himame. Daawidis Deebi'ee sanduqa Waaqayye mana Oobed-Edoom irraa ganda Daawiditti gammachiin ol baase.",
+  "translation": "Mooticcisaa Daawiditti himameetiin jedhame: “Yahwe ⟨את⟩ mana Ooved-Edomii fi ⟨את⟩ waan hunda waan isaa qabu eebbiseera, sababa sanduuqa Eloohiim ti.” Daawidinis deeme, ⟨את⟩ sanduuqa Eloohiim mana Ooved-Edomii irraa, ganda Daawid, ol baase gammachaan.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "himame"
+      "gloss": "himameetiin"
     },
     {
       "surface": "למלך",
-      "gloss": "Mooticha"
+      "gloss": "mooticcisaaf"
     },
     {
       "surface": "דוד",
-      "gloss": "Daawifi"
+      "gloss": "Daawid"
     },
     {
       "surface": "לאמר",
-      "gloss": "jedhuun"
+      "gloss": "jedhame"
     },
     {
       "surface": "ברך",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mana Oobed-Edoom"
+      "marks": "mana Ooved-Edomii"
     },
     {
       "surface": "בית",
@@ -42,20 +42,20 @@
     },
     {
       "surface": "עבד",
-      "gloss": "Oobed-"
+      "gloss": "Ooved-"
     },
     {
       "surface": "אדם",
-      "gloss": "Edoomiifi"
+      "gloss": "Edomii"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "waan isaa hundaa"
+      "gloss": "fi ⟨את⟩",
+      "marks": "waan hunda waan isaa qabu"
     },
     {
       "surface": "כל",
-      "gloss": "hundaa"
+      "gloss": "waan hunda"
     },
     {
       "surface": "אשר",
@@ -63,27 +63,27 @@
     },
     {
       "surface": "לו",
-      "gloss": "isaa"
+      "gloss": "isaa qabu"
     },
     {
       "surface": "בעבור",
-      "gloss": "…ef"
+      "gloss": "sababa"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduqa"
+      "gloss": "sanduuqa"
     },
     {
       "surface": "האלהים",
-      "gloss": "Waaqayye"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "וילך",
-      "gloss": "Deebi'ee"
+      "gloss": "deeme"
     },
     {
       "surface": "דוד",
-      "gloss": "Daawidis"
+      "gloss": "Daawidinis"
     },
     {
       "surface": "ויעל",
@@ -92,27 +92,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanduqa Waaqayye"
+      "marks": "sanduuqa Eloohiim"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduqa"
+      "gloss": "sanduuqa"
     },
     {
       "surface": "האלהים",
-      "gloss": "Waaqayye"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "מבית",
-      "gloss": "mana … irraa"
+      "gloss": "mana irraa"
     },
     {
       "surface": "עבד",
-      "gloss": "Oobed-"
+      "gloss": "Ooved-"
     },
     {
       "surface": "אדם",
-      "gloss": "Edoom"
+      "gloss": "Edomii"
     },
     {
       "surface": "עיר",
@@ -120,13 +120,13 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Daawiditti"
+      "gloss": "Daawid"
     },
     {
       "surface": "בשמחה",
-      "gloss": "gammachiin"
+      "gloss": "gammachaan"
     }
   ],
-  "timestamp": "2026-08-29T07:46:23.295132558Z",
+  "timestamp": "2026-08-29T16:51:39.292406489Z",
   "model": "glm-5.3"
 }

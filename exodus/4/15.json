@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 4,
-  "translation": "Isarratti dubbatta, jechoota ⟨את⟩ afaan isaa keessatti haadha; aniis afaan kee wajjin, afaan isaa wajjiniis ta'adha; waa hojjattan ⟨את⟩ isin barsiisa.",
+  "translation": "Ati isa wajjin ni dubbatta, jechoota ⟨את⟩ afaan isaa keessaa galchita; aniis afaan kee wajjin ta'a, afaan isaa wajjin ta'a, waan ⟨את⟩ hojjattan ⟨את⟩ isin barsiisa.",
   "tokens": [
     {
       "surface": "ודברת",
-      "gloss": "dubbatta"
+      "gloss": "ni dubbatta"
     },
     {
       "surface": "אליו",
-      "gloss": "isarratti"
+      "gloss": "isa wajjin"
     },
     {
       "surface": "ושמת",
-      "gloss": "haadha"
+      "gloss": "galchita"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בפיו",
-      "gloss": "afaan isaa keessatti"
+      "gloss": "afaan isaa keessaa"
     },
     {
       "surface": "ואנכי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "ta'adha"
+      "gloss": "ta'a"
     },
     {
       "surface": "עם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ועם",
-      "gloss": "wajjiniis"
+      "gloss": "wajjin"
     },
     {
       "surface": "פיהו",
@@ -62,23 +62,22 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "iswan (sirru)"
+      "gloss": "⟨את⟩ isin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "waa hojjattan"
+      "marks": "waan hojjattan"
     },
     {
       "surface": "אשר",
-      "gloss": "waa"
+      "gloss": "waan"
     },
     {
       "surface": "תעשון",
       "gloss": "hojjattan"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.102652289Z",
+  "timestamp": "2026-08-29T16:40:52.566696846Z",
   "model": "glm-5.3"
 }

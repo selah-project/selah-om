@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 118,
-  "translation": "Yahwe natti qaba, gargaartoota kiyyaa keessaa; ani waan na saddoo拟担 sodoota kiyyaatti ilaala.",
+  "translation": "Yahwe naaf akka gargaaruuti; ani kan natti ajjeechanii ilaala.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "natti qaba"
+      "gloss": "naaf"
     },
     {
       "surface": "בעזרי",
-      "gloss": "gargaartoota kiyyaa keessaa"
+      "gloss": "akka gargaaruuti"
     },
     {
       "surface": "ואני",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בשנאי",
-      "gloss": "sodoota kiyyaatti"
+      "gloss": "kan natti ajjeechanii"
     }
   ],
-  "timestamp": "2026-08-29T11:48:46.008085211Z",
+  "timestamp": "2026-08-29T17:01:04.389254883Z",
   "model": "glm-5.3"
 }

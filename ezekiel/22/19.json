@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 22,
-  "translation": "Sababa kanaaf akkanii jedha Adoonaay Yahwe: waan isin hundinuu daakaa sibiilaa waan taataniif, kanaaf, ani isin ⟨את⟩ ⟨אתכם⟩ gara meerera Yerushaalayim walitti qaba.",
+  "translation": "Kanaaf akka kun jedhe Adoonaay Yahwe: sababa isin hundi sibiil-dhiifaa taataniif, kanaaf aanan isin ⟨את⟩ gara giddu Yerushaalayimitti qabaa.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Sababa kanaaf"
+      "gloss": "Kanaaf"
     },
     {
       "surface": "כה",
-      "gloss": "akkanii"
+      "gloss": "akka kun"
     },
     {
       "surface": "אמר",
-      "gloss": "jedha"
+      "gloss": "jedhe"
     },
     {
       "surface": "אדני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "waan …f"
+      "gloss": "sababa"
     },
     {
       "surface": "היות",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כלכם",
-      "gloss": "hundinuu"
+      "gloss": "isin hundi"
     },
     {
       "surface": "לסגים",
-      "gloss": "daakaa sibiilaa"
+      "gloss": "sibiil-dhiifaa"
     },
     {
       "surface": "לכן",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "הנני",
-      "gloss": "ani jira"
+      "gloss": "aanan"
     },
     {
       "surface": "קבץ",
-      "gloss": "walitti qaba"
+      "gloss": "qabaa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "isin"
     },
     {
@@ -66,13 +66,13 @@
     },
     {
       "surface": "תוך",
-      "gloss": "meerera"
+      "gloss": "giddu"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushaalayim"
+      "gloss": "Yerushaalayimitti"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.122780962Z",
+  "timestamp": "2026-08-29T16:56:19.494074831Z",
   "model": "glm-5.3"
 }

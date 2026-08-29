@@ -1,17 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "leviticus 16:13",
-  "book": "leviticus",
-  "lang": "om",
-  "chapter": 16,
-  "translation": "Qurxummii hunda keessaa isa tokko bifa idileetti hiikkaa kan hin barbaachifne — kanaan osoo jedhaa: Waan xiqqoo dabalataa malee, hiikkaa qofa kennuu qaba. Sanaaf seera booda irratti: kun sirriutti hiikkaa Oromoo qofa of keessaa qabaachuu qaba.",
-  "tokens": [
-    {
-      "surface": "ונתן",
-      "gloss": ""
-    }
-  ],
-  "timestamp": "2026-08-29T05:40:20.121377710Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"leviticus 16:13","book":"leviticus","lang":"om","chapter":16,"translation":"Qoonni qaama qoricha (inseensii) sana bishaanii irratti Yahwe duraa kabaja; sunis fuulduraatti — ani(faanni) qoricha sanaa kessatti kabaja — akkasumas — kessaa kanatti(duwwaa) dubbataniitti — ani qoricha sana kanatti ajajee kabaja; haa inni hin duune.","tokens":[{"surface":"וְנָתַ֧ן","gloss":"haa kabaju"},{"surface":"אֶֽת","gloss":"⟨את⟩","marks":"qoricha inseensii sana"},{"surface":"הַקְּטֹ֛רֶת","gloss":"qoricha inseensii sana"},{"surface":"עַל","gloss":"irratti"},{"surface":"הָאֵ֖שׁ","gloss":"ibidda sana"},{"surface":"לִפְנֵ֣י","gloss":"duraa"},{"surface":"יְהוָ֑ה","gloss":"Yahwe"},{"surface":"וְכִסָּ֣ה","gloss":"haa haguugge"},{"surface":"עֲנַ֣ן","gloss":"duuda"},{"surface":"הַקְּטֹ֗רֶת","gloss":"qoricha inseensii sanaa"},{"surface":"אֶת","gloss":"⟨את⟩","marks":"sarara bitaa sana"},{"surface":"הַכַּפֹּ֛רֶת","gloss":"kessaa bitaa sana"},{"surface":"אֲשֶׁ֥ר","gloss":"kan"},{"surface":"עַל","gloss":"irra"},{"surface":"הָעֵד֖וּת","gloss":"ragaa sana"},{"surface":"וְלֹ֥א","gloss":"hin"},{"surface":"יָמֽוּת","gloss":"him du'u [hin du'u]"}],"timestamp":"2026-08-29T16:17:10.895066275Z","model":"glm-5.3"}

@@ -5,8 +5,77 @@
   "book": "judges",
   "lang": "om",
   "chapter": 1,
-  "translation": "Booda du'a Yehooshuuaa booda, ilmooti Israa'el Yahwe irratti gaafatanii jedhan, \"Eenyumtu nutrienti nuuf ol ba'ee Kaanaanawaa waliin eenyumtura tolchuu?\"",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:58:07.877821424Z",
+  "translation": "Yeroo du'aa Yehooshuaa booda ta'e, ilmaan Israa'el Yahwe irratti gaafatanii jedhan: \"Eenyumtu nuuf ol ba'u Kaanaanawaa dura, innas waliin waraanaa?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaa"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "gaafataniiru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eenyumtuu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ol ba'u"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dura"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kaanaanawaa"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "jalqaba irratti"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "innas waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:54.494709524Z",
   "model": "glm-5.3"
 }

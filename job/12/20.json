@@ -5,8 +5,33 @@
   "book": "job",
   "lang": "om",
   "chapter": 12,
-  "translation": "Haasa'aa namotta amanamoo taaniif amaaruu isaa dhabamsiisa; hubannoo dargaggootas fudhata.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:19:54.900509200Z",
+  "translation": "Ni hiika lafa warra amanamoo, hiika zaakinni immoo ni fudhata.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ni hiika"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "warra amanamoo"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "hiika zaakinni immoo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "zaakinni"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ni fudhata"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:39.945934270Z",
   "model": "glm-5.3"
 }

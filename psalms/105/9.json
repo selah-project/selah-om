@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "psalms 105:9",
-  "book": "psalms",
-  "lang": "om",
-  "chapter": 105,
-  "translation": "Waan Avrahaamiin ⟨את⟩ murte, akkaan Is-haaq kakuu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:45:25.959710685Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":9,"ref":"psalms 105:9","book":"psalms","lang":"om","chapter":105,"translation":"Waan Isaa fi Avrahaam waliin kakte, fi waadaa Isaa Yitsaaqitti moggaase — waan ⟨את⟩ Avrahaam waliin kakte.","tokens":[{"surface":"אֲשֶׁ֣ר","gloss":"waan"},{"surface":"כָּ֭רַת","gloss":"kakte"},{"surface":"אֶת","gloss":"⟨את⟩","marks":"Avrahaam"},{"surface":"אַבְרָהָ֑ם","gloss":"Avrahaam"},{"surface":"וּשְׁב֖וּעָת֣וֹ","gloss":"fi waadaa Isaa"},{"surface":"לְיִשְׂחָֽק","gloss":"Yitsaaqitti"}],"timestamp":"2026-08-29T16:23:12.287670382Z","model":"glm-5.3"}

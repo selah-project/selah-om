@@ -5,31 +5,31 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 10,
-  "translation": "Ilmaan Israa'iitiin akkas jedhe: Akkaanaa jedha Yahwe, Eloohiimii Israa'iil: Ani ⟨את⟩ Israa'iil Mitsraayim irraa baase; ⟨את⟩ ⟨אתכם⟩ harka Mitsraayimii irraa, akkasumas harka mootummoonni hunda isin miidhan irraa bilisoomse.",
+  "translation": "Ilma Israa'ieliitiin jedhe: akka kanas jedhe Yahwe, Eloohiim Israa'ielii: ani ⟨את⟩ Israa'ielii Mitsraayim irraa ol baase; harka Mitsraayimii fi harka mootummaalee hunda isin miilan-tumaniiduu irraas ⟨את⟩ baase.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "akkas jedhe"
+      "gloss": "jedhe"
     },
     {
       "surface": "אל",
-      "gloss": "-ttiin"
+      "gloss": "ittiin"
     },
     {
       "surface": "בני",
-      "gloss": "Ilmaan"
+      "gloss": "ilma"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'iil"
+      "gloss": "Israa'ielii"
     },
     {
       "surface": "כה",
-      "gloss": "Akkaanaa"
+      "gloss": "akka kana"
     },
     {
       "surface": "אמר",
-      "gloss": "jedha"
+      "gloss": "jedhe"
     },
     {
       "surface": "יהוה",
@@ -37,28 +37,28 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohiimii"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'iil"
+      "gloss": "Israa'ielii"
     },
     {
       "surface": "אנכי",
-      "gloss": "Ani"
+      "gloss": "ani"
     },
     {
       "surface": "העליתי",
-      "gloss": "baase"
+      "gloss": "ol baase"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israa'iil"
+      "marks": "Israa'ielii"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'iil"
+      "gloss": "Israa'ielii"
     },
     {
       "surface": "ממצרים",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ואציל",
-      "gloss": "bilisoomse"
+      "gloss": "baase"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ isin",
       "marks": "isin"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ומיד",
-      "gloss": "akkasumas harka"
+      "gloss": "fi harka"
     },
     {
       "surface": "כל",
@@ -91,18 +91,18 @@
     },
     {
       "surface": "הממלכות",
-      "gloss": "mootummoonni"
+      "gloss": "mootummaalee"
     },
     {
       "surface": "הלחצים",
-      "gloss": "isin miidhan"
+      "gloss": "miilan-tumaniiduu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isin"
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin (miilan-tumaniiduu)"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.114885426Z",
+  "timestamp": "2026-08-29T16:50:49.219424877Z",
   "model": "glm-5.3"
 }

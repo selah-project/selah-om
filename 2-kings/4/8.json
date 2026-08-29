@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-kings 4:8","book":"2-kings","lang":"om","chapter":4,"translation":"Guyyaan tokko ta'e, Eliisha gara Shiunem dabare; geešatti dubartii guddaan ⟨is⟩ jirti, ishee isa hafuudhuu dibataa nyaachisuuf. Yeroo hunda yeroo inni dabalu, dibataa nyaachuuf isitti gala.","tokens":[{"surface":"ויהי","gloss":"ta'e"},{"surface":"היום","gloss":"guyyaan"},{"surface":"ויעבר","gloss":"dabare"},{"surface":"אלישע","gloss":"Eliisha"},{"surface":"אל","gloss":"gara"},{"surface":"שונם","gloss":"Shiunem"},{"surface":"ושם","gloss":"geešatti"},{"surface":"אשה","gloss":"dubartii"},{"surface":"גדולה","gloss":"guddaan"},{"surface":"ותחזק","gloss":"haafti"},{"surface":"בו","gloss":"isa"},{"surface":"לאכל","gloss":"nyaachisuuf"},{"surface":"לחם","gloss":"dibataa"},{"surface":"ויהי","gloss":"ta'a"},{"surface":"מדי","gloss":"yeroo hunda yeroo"},{"surface":"עברו","gloss":"inni dabalu"},{"surface":"יסר","gloss":"gala"},{"surface":"שמה","gloss":"isitti"},{"surface":"לאכל","gloss":"nyaachuuf"},{"surface":"לחם","gloss":"dibataa"}],"timestamp":"2026-08-29T08:25:54.572803852Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 4:8",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Guyyaan tokko yeroo dhufe, Elishaa gara Shuunem tiqqe; achis dubartii guddaan ⟨jirti⟩, inni maanja mooxa nyaachuuf isa harka-qabaddeetti. Ta'eera, yeroo hunda inni yoo dabru, maanja mooxa nyaachuuf gara achumaatti naanna'a ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo dhufe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa tokkotti"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "tiqqe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "שונם",
+      "gloss": "Shuunem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "achis"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "ותחזק",
+      "gloss": "harka-qabaddeetti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nyaachuuf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maanja mooxa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "yeroo hunda yoo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "inni dabru"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "naanna'a ture"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara achumaatti"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nyaachuuf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maanja mooxa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:53:15.081868864Z",
+  "model": "glm-5.3"
+}

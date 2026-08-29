@@ -5,8 +5,49 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 13,
-  "translation": "Yarob'aamis humna Yarob'aam duree dabaluu didee — humna Isa dabaluu... ",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:57:22.947478523Z",
+  "translation": "Yarobeaamis Humna deebisuu hin dandeenye yeroo Abiyaa hudhaa keessatti; Yahwe isa rukute, innis du'e.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin dandeenye"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "deebisuu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "Humna"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeaamis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "hudhaa keessatti"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Abiyaa"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "isa rukute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:44.973419877Z",
   "model": "glm-5.3"
 }

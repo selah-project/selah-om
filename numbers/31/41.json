@@ -5,8 +5,63 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 31,
-  "translation": "Moshees akka Yahwe ajajetti ⟨את⟩ mekeesa to'annaa Yahwe kan sadarkaa kakuu ti El'azzaar poolif kan bishaan tinni ta'eef kenne.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:09:42.173399403Z",
+  "translation": "Mosheen minkessaa kenna terumaataa Yahwe Alee'aazaarin sagalee-qulqulluutti akka Yahwe Mosheetti ajajettiin ⟨את⟩ kennuuf kennaa jire.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kennamee jira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkessaa"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "minkessaa"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumaataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "Alee'aazaaritti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sagalee-qulqulluu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajettiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:46:11.436550382Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,51 @@
-{"tier":"glm-5.2","verse":41,"ref":"1-chronicles 6:41","book":"1-chronicles","lang":"om","chapter":6,"translation":"Iddoo-dachii ⟨ganda⟩ magaalaa sanaa fi ⟨waamicha> dha. Illeen Israa'iel Rabbii waliin waadaa seene akka dachii sanaa warra Kaaleeb uumaniif kennanii dha; Kaaleebis Jiyoofuunee ijoollesaa malee, maqaan Israa'ieliitiin waadaa seene.","tokens":[{"surface":"ואת","gloss":"fi ⟨את⟩","marks":"iddoo-dachii magaalaa sanaa"},{"surface":"שדה","gloss":"iddoo-dachii"},{"surface":"העיר","gloss":"magaalaa sanaa"},{"surface":"ואת","gloss":"fi ⟨את⟩","marks":"waamicha dha"},{"surface":"חצריה","gloss":"waamicha ishee"},{"surface":"נתנו","gloss":"kennaniiru"},{"surface":"לכלב","gloss":"Kaaleebiif"},{"surface":"בן","gloss":"ilma"},{"surface":"יפנה","gloss":"Jiyoofunee"}],"timestamp":"2026-08-29T13:33:16.499437848Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Lakkisoo magaalaa isaas waan dheedhii isaa kennaniif Kaleebiin ilma Yifunee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lakkisoo magaalaa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "lakkisoo (waan magaalaa)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheedhii isaa"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "waan dheedhii isaa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kennaniif"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleebiin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yifunee"
+    }
+  ],
+  "timestamp": "2026-08-29T17:04:45.639334369Z",
+  "model": "glm-5.3"
+}

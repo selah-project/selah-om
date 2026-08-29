@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 26,
-  "translation": "Daawitis fi Abiishay haga tokkatti ummata dhufani; Kunoo, Sha'uul maantoo keessaa hirribii irratti hin'aata, mookkis daaraa mataa isaa irratti k'aame; Abneris fi ummatiinis naannoo isaa hin'aatu.",
+  "translation": "Daawid fi Abiishaay halkan gara warraatiin dhufaniiru; akkasumas, duuba, Sha'uul hodhaa teessoo isaa keessa jiraachaa heddutti, ri'aa isaaas dachee irratti hiixaamte mataa isaa biraa; Abneer fi warriis naannoo isaa hoddan.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "dhufani"
+      "gloss": "dhufaniiru"
     },
     {
       "surface": "דוד",
-      "gloss": "Daawitis"
+      "gloss": "Daawid"
     },
     {
       "surface": "ואבישי",
-      "gloss": "fi Abiishay"
+      "gloss": "Abiishaay"
     },
     {
       "surface": "אל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "ummata"
+      "gloss": "warraa"
     },
     {
       "surface": "לילה",
-      "gloss": "haga tokkatti"
+      "gloss": "halkan"
     },
     {
       "surface": "והנה",
-      "gloss": "Kunoo"
+      "gloss": "duuba"
     },
     {
       "surface": "שאול",
@@ -41,53 +41,49 @@
     },
     {
       "surface": "שכב",
-      "gloss": "hin'aata"
+      "gloss": "jiraachaa"
     },
     {
       "surface": "ישן",
-      "gloss": "hirribii irratti"
+      "gloss": "heddutti"
     },
     {
       "surface": "במעגל",
-      "gloss": "maantoo keessaa"
-    },
-    {
-      "surface": "ויחניתו",
-      "gloss": "mookki isaa"
+      "gloss": "teessoo isaa keessa"
     },
     {
       "surface": "וחניתו",
-      "gloss": "mookkis"
+      "gloss": "ri'aa isaa"
     },
     {
       "surface": "מעוכה",
-      "gloss": "k'aame"
+      "gloss": "hiixaamte"
     },
     {
       "surface": "בארץ",
-      "gloss": "daaraa"
+      "gloss": "dachee irratti"
     },
     {
       "surface": "מראשתו",
-      "gloss": "mataa isaa irratti"
+      "gloss": "mataa isaa biraa"
     },
     {
       "surface": "ואבנר",
-      "gloss": "Abneris"
+      "gloss": "Abneer"
     },
     {
       "surface": "והעם",
-      "gloss": "fi ummatiinis"
+      "gloss": "warriis"
     },
     {
       "surface": "שכבים",
-      "gloss": "hin'aatu"
+      "gloss": "hoddan"
     },
     {
       "surface": "סביבתו",
       "gloss": "naannoo isaa"
     }
   ],
-  "timestamp": "2026-08-29T07:42:27.977559882Z",
+  "timestamp": "2026-08-29T16:19:59.307796421Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 11,
-  "translation": "Abaaraas, yoo ajajawwan Yahwe Eloohiim keessan hin dhageeffanne, fi karaa kan ani har'a isin ajaju irraa gara waaqottota biroo kan beekumsa isin hin qabneetti eenyuun gara duubatti jeedhu <⟨את⟩>",
+  "translation": "Abjuu immoo, yoo ajajoota Yahwe Eloohiim keessanitti hin dhageeffanne, karaa ani har'aa isin ajaju ⟨את⟩ keessaan kuftee, Eloohiim biroo kan beektan hin taane duubatti hordofuu [jirtaan].",
   "tokens": [
     {
       "surface": "והקללה",
-      "gloss": "abaaraas"
+      "gloss": "Abjuu immoo"
     },
     {
       "surface": "אם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "-tti (itti)"
     },
     {
       "surface": "מצות",
-      "gloss": "ajajawwan"
+      "gloss": "ajajoota"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וסרתם",
-      "gloss": "jeedhu"
+      "gloss": "kuftee"
     },
     {
       "surface": "מן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kan"
+      "gloss": "waan"
     },
     {
       "surface": "אנכי",
@@ -65,23 +65,24 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ isi"
+      "gloss": "⟨את⟩",
+      "marks": "isin (keessaan) — mallattoon Israa'eel qajeelfama kanaaf agarsiisa"
     },
     {
       "surface": "היום",
-      "gloss": "har'a"
+      "gloss": "har'aa"
     },
     {
       "surface": "ללכת",
-      "gloss": "eenuu fi"
+      "gloss": "deemuuf"
     },
     {
       "surface": "אחרי",
-      "gloss": "gara duubatti"
+      "gloss": "duubatti"
     },
     {
       "surface": "אלהים",
-      "gloss": "waaqottota"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "אחרים",
@@ -97,9 +98,9 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "beekumsa qabne"
+      "gloss": "beektan (hin taane)"
     }
   ],
-  "timestamp": "2026-08-29T06:21:07.616297543Z",
+  "timestamp": "2026-08-29T16:47:22.797875520Z",
   "model": "glm-5.3"
 }

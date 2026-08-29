@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 1,
-  "translation": "Lafniimmoo hawwataa fi banaa taate; ichaarris fuula gadii irratti ture; ruuhnis Eloohiim fuula bishaan irratti haleelaa jiraa ture.",
+  "translation": "Lafchiis taate hiikkoo fi boonaa;ifi if-dhimma fuula teehoomi irratti taa'e;ifi Ruuhii Eloohiim fuula bishaan irratti rukuta ture.",
   "tokens": [
     {
       "surface": "והארץ",
-      "gloss": "Lafniimmoo"
+      "gloss": "lafchii"
     },
     {
       "surface": "היתה",
@@ -17,19 +17,15 @@
     },
     {
       "surface": "תהו",
-      "gloss": "hawwataa"
+      "gloss": "hiikkoo"
     },
     {
       "surface": "ובהו",
-      "gloss": "banaa"
-    },
-    {
-      "surface": "ויבהו",
-      "gloss": ""
+      "gloss": "boonaa"
     },
     {
       "surface": "וחשך",
-      "gloss": "ichaarris"
+      "gloss": "dhimm-iftuu"
     },
     {
       "surface": "על",
@@ -41,11 +37,11 @@
     },
     {
       "surface": "תהום",
-      "gloss": "gadii"
+      "gloss": "teehoomii"
     },
     {
       "surface": "ורוח",
-      "gloss": "ruuhnis"
+      "gloss": "ruuhiin"
     },
     {
       "surface": "אלהים",
@@ -53,7 +49,7 @@
     },
     {
       "surface": "מרחפת",
-      "gloss": "haleelaa"
+      "gloss": "rukuta \/ halkana"
     },
     {
       "surface": "על",
@@ -65,9 +61,9 @@
     },
     {
       "surface": "המים",
-      "gloss": "bishaan"
+      "gloss": "bishaani"
     }
   ],
-  "timestamp": "2026-08-29T04:24:45.525179863Z",
+  "timestamp": "2026-08-29T16:16:25.023821329Z",
   "model": "glm-5.3"
 }

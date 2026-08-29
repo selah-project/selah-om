@@ -5,8 +5,82 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 21,
-  "translation": "Moshee immoo haawwii sibiilaa (naxashasaa) hojjetee dirqirra kaase; haawwiin namattii yoo nam tokko tuqte, namni sun haawwii sibiilaa (naxashasaa) ilaaluun jirata.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:03:06.895851855Z",
+  "translation": "Mosheeysi mootummaa bishaan-cufii irraa bofaa hojjetee, dirreen gubaa irratti kaase; bofin ⟨את⟩ namaa kan mootummaa-tae yoo tumuu, namichi sun bofaa bishaan-cufiitti ilaaluun jiraata.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjetee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheeysi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bofaa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bishaan-cufii irraa"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "dirreen gubaa irratti kaase"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הנס",
+      "gloss": "dirree gubaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yoo ta'e"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kan tumuu"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "bofin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "והביט",
+      "gloss": "ilaaluun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bofaa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bishaan-cufii"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jiraata"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:56.536374027Z",
   "model": "glm-5.3"
 }

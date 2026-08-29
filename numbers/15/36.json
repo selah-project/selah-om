@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 15,
-  "translation": "Gareen hundi ⟨אתו⟩ baafatan, mana mootummaa alatti baafataniiguu, ⟨אתו⟩ dhagaa irratti rukutan, ajajes; akka Yahwe ⟨את⟩ Mosheetti ajajetti.",
+  "translation": "Gareen hunda isa ⟨את⟩ baafatanii mana kabajaa alatti baasan, immoo isaa ⟨את⟩ caccabsaniitti du'e, akka Yahwe Moshee'in ⟨את⟩ ajajetti.",
   "tokens": [
     {
       "surface": "ויציאו",
-      "gloss": "baafatan"
+      "gloss": "baafatanii baasan"
     },
     {
       "surface": "אתו",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "hundi"
+      "gloss": "hunda"
     },
     {
       "surface": "העדה",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "gara"
-    },
-    {
-      "surface": "מחוץ",
       "gloss": "alatti"
     },
     {
+      "surface": "מחוץ",
+      "gloss": "ala"
+    },
+    {
       "surface": "למחנה",
-      "gloss": "mana mootummaa"
+      "gloss": "mana kabajaa irraa"
     },
     {
       "surface": "וירגמו",
-      "gloss": "rukkutan"
+      "gloss": "caccabsani"
     },
     {
       "surface": "אתו",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "באבנים",
-      "gloss": "dhagaa"
+      "gloss": "caccabbawwan"
     },
     {
       "surface": "וימת",
-      "gloss": "ajajes"
+      "gloss": "du'e"
     },
     {
       "surface": "כאשר",
@@ -75,6 +75,6 @@
       "gloss": "Moshee"
     }
   ],
-  "timestamp": "2026-08-29T05:59:52.892947336Z",
+  "timestamp": "2026-08-29T16:46:28.369966090Z",
   "model": "glm-5.3"
 }

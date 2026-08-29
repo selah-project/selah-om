@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":18,"ref":"genesis 18:18","book":"genesis","lang":"om","chapter":18,"translation":"Avrahaam dhugumatti gara sabaa guddaa fi cimaa ta'a, saboonni ⟨the⟩ lafaa hundis isa keessatti eebbifamu.","tokens":[{"surface":"ואברהם","gloss":"Avrahaamis"},{"surface":"היו","gloss":"dhugumatti"},{"surface":"יהיה","gloss":"ta'a"},{"surface":"לגוי","gloss":"gara sabaa"},{"surface":"גדול","gloss":"guddaa"},{"surface":"ועצום","gloss":"fi cimaa"},{"surface":"ונברכו","gloss":"ebbifamu"},{"surface":"בו","gloss":"isa keessatti"},{"surface":"כל","gloss":"hundi"},{"surface":"גויי","gloss":"saboonni"},{"surface":"הארץ","gloss":"lafaa"}],"timestamp":"2026-08-29T04:31:09.797666145Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 18:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Avrahaamis dhugumatti sabaa guddaa fi humna qabu ta'a, saboonni hunda lafaa isa keessatti eebbifamu.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avrahaamis"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dhugumatti (ta'uu keessa)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sabaatti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "fi humna qabu"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "eebbifamu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:38:04.109593791Z",
+  "model": "glm-5.3"
+}

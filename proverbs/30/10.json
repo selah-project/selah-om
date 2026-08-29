@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 30:10",
-  "book": "proverbs",
-  "lang": "om",
-  "chapter": 30,
-  "translation": "Hiikkaa barbaachaa hin taasisiisituun barbaa effariinsaa keessaa, 'odoloo hidhaan jalaa bahee kan hin beekne,' kan jedhu malee, akka akka-soba hin taasifamneetti, maqaa Waaqaa keessaa qulqullummaadhaan hin waldorgorti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:13:27.635068729Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":10,"ref":"proverbs 30:10","book":"proverbs","lang":"om","chapter":30,"translation":"Hiikkaa hin barsiifinaan abbaa seeraa isaa irratti — akka inni si abaaru si eebuu danda'uuf, atis tumaa fidtoota taatus. Akkaataa Oromoo: Abbaa seeraa isaatti gabatee gammachiisa hin godhi, yoo isiin\/si abaare, ati siif mul'attoo taatus.","tokens":[{"surface":"אל","gloss":"hin godhi"},{"surface":"תלשן","gloss":"gammachiisa hin godhi (rakkisa)"},{"surface":"עבד","gloss":"abbaa seeraa"},{"surface":"אל","gloss":"itti"},{"surface":"אדנו","gloss":"abbaa seeraa isaa"},{"surface":"פן","gloss":"yoo (akka hin taane)"},{"surface":"יקללך","gloss":"si abaaru"},{"surface":"ו אשמת","gloss":"siif mul'attoo taatus"}],"timestamp":"2026-08-29T16:24:02.638989766Z","model":"glm-5.3"}

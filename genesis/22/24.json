@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 22,
-  "translation": "Dhiirsaa-niyyaa isaa maqaan ishee Re'uumaatin; isheenis ⟨את⟩ Tebaachi, ⟨את⟩ Gaahami, ⟨את〕 Tahashi fi ⟨את⟩ Maakaah dhale.",
+  "translation": "Fiilaagashii isaa immoo maqaan ishee Re'uumaah; isheenis dhuma kanaan ⟨את⟩ Tebach, ⟨את⟩ Gaacham, ⟨את⟩ Tachash fi ⟨את⟩ Maakaah dhalchissee.",
   "tokens": [
     {
       "surface": "ופילגשו",
-      "gloss": "dhiirsaa-niyyaa isaa"
+      "gloss": "Fiilaagashii isaa immoo"
     },
     {
       "surface": "ושמה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ראומה",
-      "gloss": "Re'uumaatin"
+      "gloss": "Re'uumaah"
     },
     {
       "surface": "ותלד",
-      "gloss": "dhale"
+      "gloss": "dhalchissee"
     },
     {
       "surface": "גם",
-      "gloss": "akkasumas"
+      "gloss": "dhumaa kanaan"
     },
     {
       "surface": "הוא",
@@ -34,29 +34,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tebaachi"
+      "marks": "Tebach"
     },
     {
       "surface": "טבח",
-      "gloss": "Tebaachi"
+      "gloss": "Tebach"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Gaahami"
+      "marks": "Gaacham"
     },
     {
       "surface": "גחם",
-      "gloss": "Gaahami"
+      "gloss": "Gaacham"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Tahashi"
+      "marks": "Tachash"
     },
     {
       "surface": "תחש",
-      "gloss": "Tahashi"
+      "gloss": "Tachash"
     },
     {
       "surface": "ואת",
@@ -68,6 +68,6 @@
       "gloss": "Maakaah"
     }
   ],
-  "timestamp": "2026-08-29T04:32:30.424525951Z",
+  "timestamp": "2026-08-29T17:06:46.004574816Z",
   "model": "glm-5.3"
 }

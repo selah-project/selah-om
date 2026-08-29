@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Amma immoo Yahwe isin wajjin kheesed fi dhugaa haa hojjadhu; aniis ⟨את⟩ ⟨אתכם⟩ gaarii kana isin wajjin hojjadha, waan jechoo kana hojjattaniif.",
+  "translation": "Amma immoo Yahwe isiniin waliin kheesed fi dhugaa haa hojjetu; aniis hojii gaarii kana isiniin waliin ⟨את⟩ ni hojjedha, sababiin isaas waan kana hojjetanii taatan.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יעש",
-      "gloss": "haa hojjadhu"
+      "gloss": "haa hojjetu"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "isin wajjin"
+      "gloss": "isiniin waliin"
     },
     {
       "surface": "חסד",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "hojjadha"
+      "gloss": "ni hojjedha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isin"
+      "gloss": "isiniin waliin ⟨את⟩",
+      "marks": "isiniin waliin (isaan)"
     },
     {
       "surface": "הטובה",
-      "gloss": "gaarii"
+      "gloss": "hojii gaarii"
     },
     {
       "surface": "הזאת",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "waan"
+      "gloss": "sababiin isaas"
     },
     {
       "surface": "עשיתם",
-      "gloss": "hojjattan"
+      "gloss": "hojjetanii taatan"
     },
     {
       "surface": "הדבר",
-      "gloss": "jechoo"
+      "gloss": "waan"
     },
     {
       "surface": "הזה",
       "gloss": "kana"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.085870959Z",
+  "timestamp": "2026-08-29T16:51:11.632796320Z",
   "model": "glm-5.3"
 }

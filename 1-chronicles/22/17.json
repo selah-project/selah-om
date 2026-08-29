@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "1-chronicles 22:17",
-  "book": "1-chronicles",
-  "lang": "om",
-  "chapter": 22,
-  "translation": "Daawidis gara mootummaa Israa'eel hunda ajajee, «ijaadhaa gara gargaaru Shimoon... korata qopheessaa fi bannee.» — Akka nuti wanta nuti guuttine: Daawidi gara abbootii mootummaa Israa'eel hunda ajaje, akkan gargaaran Shimoon ilmaan isaa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:42:13.241467870Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 22:17","book":"1-chronicles","lang":"om","chapter":22,"translation":"Daawidis gara mootummaa Israa'el hunda ajajee jira — kiroomsa, kan biraa kan biraatti kan dubbatee, akka gargaaruuf pool biraatti kan dubbatee — Akka gargaaran Pool minni, 'gargaaruuf.'","tokens":[{"surface":"ויצו","gloss":"ajajee jira"},{"surface":"דויד","gloss":"Daawid"},{"surface":"לכל","gloss":"gara... hunda"},{"surface":"שרי","gloss":"mootummaa [warra] bulchitoota"},{"surface":"ישראל","gloss":"Israa'el"},{"surface":"לעזר","gloss":"gargaaruuf"},{"surface":"לשלמה","gloss":"Pool [biraa]"},{"surface":"בנו","gloss":"mijaa"}],"timestamp":"2026-08-29T16:24:24.611319608Z","model":"glm-5.3"}

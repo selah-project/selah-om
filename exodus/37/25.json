@@ -5,8 +5,74 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 37,
-  "translation": "Miidhaga foonii biqilchaa kan qurbaana irratti hojjetamu hojjecha; meeshaan morma qurbaanaa kan biqilchaa keessaa, meeshaan morma qurbaanaa kan ala; harma isaa wajjin; harma lamaan isaa gadiitti: kan bultii Waaqayyoo akka baay'atuuf harma lamaan isaa gadiitti kofa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:25:27.084387909Z",
+  "translation": "Mo'aan ✓⟨את⟩ giddu gubatanxaatti ijaarame, kan muka shittiin ijaarame: dheerina isaa icha tokko, bal'ina isaa icha tokko, Isa guutuu-baay'ee; ol-ka'umsa isaa icha lama; meexi ✓ goodaa ✓ keessaa ✓ bifa tokko-ta'een isa waliin uumame.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mo'aan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giddu gubatanxaatti ijaarame"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "giddu gubatanxaatti ijaarame"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qumbii"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittiin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "icha tokko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dheerina isaa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "icha tokko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bal'ina isaa"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "Isa guutuu-baay'ee"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "icha lama"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ol-ka'umsa isaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "keessaa isa waliin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bifa tokko-ta'een uumame"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "meexi goodaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:07.836876848Z",
   "model": "glm-5.3"
 }

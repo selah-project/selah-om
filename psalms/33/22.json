@@ -5,29 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 33,
-  "translation": "Sabiinnu keenya Yahwetti eegaa jirta; chiyyoo anniyyaa keenyaas see Naa... maalum? — sabiin keenya Isatti hawwi qabdi, Inni gargaara keenya fi magaana keenya ti.",
+  "translation": "Kheesed-ke Yahwe nutti haa ta'u, akka sababa kakkalsiinuu kan nuti siiti kakkalsine.",
   "tokens": [
     {
-      "surface": "הנה",
-      "gloss": "kana ilaali"
+      "surface": "יהי",
+      "gloss": "haa ta'u"
     },
     {
-      "surface": "עיני",
-      "gloss": "iyyee keenya"
-    },
-    {
-      "surface": "אל",
-      "gloss": "gara"
+      "surface": "חסדך",
+      "gloss": "kheesed-ke"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     },
     {
-      "surface": "עד",
-      "gloss": "yeroo hunda"
+      "surface": "עלינו",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka sababa"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "nuti kakkalsine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siiti"
     }
   ],
-  "timestamp": "2026-08-29T11:19:36.603774888Z",
+  "timestamp": "2026-08-29T16:22:49.436892633Z",
   "model": "glm-5.3"
 }

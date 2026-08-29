@@ -5,35 +5,35 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 24,
-  "translation": "Sababa hamma Yaahween kun Yerushaalaym fi Yahuudaa keessatti ta'ee ture, hanga isaan ⟨את⟩ ⟨אתם⟩ fuulla isaa irraa darbiteef; Sidqiyaachu immoo mooticha Baabel ittiin morrate.",
+  "translation": "Sababa hammaa Yahweefi ‹jiruun› Yuushaalaamitti fi Yahuudaatti taatee, hanga isaan bifa isaa irraa ‹isaa› hambisutti; Tsidkiyaayis mooticha Baabel irratti morme.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sababa"
+      "gloss": "sababa...tiif"
     },
     {
       "surface": "על",
-      "gloss": "irra"
+      "gloss": "irraa"
     },
     {
       "surface": "אף",
-      "gloss": "hamma"
+      "gloss": "hammaa"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yaahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "היתה",
-      "gloss": "ta'ee ture"
+      "gloss": "taatee ‹jiruun›"
     },
     {
       "surface": "בירושלם",
-      "gloss": "Yerushaalaym keessatti"
+      "gloss": "Yuushaalaamitti"
     },
     {
       "surface": "וביהודה",
-      "gloss": "Yahuudaa keessattis"
+      "gloss": "fi Yahuudaatti"
     },
     {
       "surface": "עד",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "השלכו",
-      "gloss": "darbiteef"
+      "gloss": "hambisutti"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isaan (Yerushaalaym fi Yahuudaa)"
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
     },
     {
       "surface": "מעל",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "פניו",
-      "gloss": "fuulla isaa"
+      "gloss": "bifa isaa"
     },
     {
       "surface": "וימרד",
-      "gloss": "morrate"
+      "gloss": "fi morme"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Sidqiyaachu"
+      "gloss": "Tsidkiyaayi"
     },
     {
       "surface": "במלך",
@@ -73,6 +73,6 @@
       "gloss": "Baabel"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.129210929Z",
+  "timestamp": "2026-08-29T16:54:19.670295141Z",
   "model": "glm-5.3"
 }

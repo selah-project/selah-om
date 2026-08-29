@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 13,
-  "translation": "Yoonataanis ⟨את⟩ qabatamaa Filistiiyyanotaa kan Geebaa jiru rukute, Filistiiyyanonnis dhageessan. Saawulis zoofii ⟨the⟩ biyya guutuutti kufise, \"Ibrootaan dhageessaa!\" jedhe.",
+  "translation": "Yoonataan immoo dhiphattii Filistiiwwan kan Geebaa keessa jiru rukute; Filistiinwwanis dhaga'an. Sha'uliis shaampaa da'ee, \"Ibrootaan dhaga'aa\" jedhiif biyya guutuu keessatti.",
   "tokens": [
     {
       "surface": "ויך",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "יונתן",
-      "gloss": "Yoonataanis"
+      "gloss": "Yoonataan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qabatamaa Filistiiyyanotaa"
+      "marks": "dhiphattii Filistiiwwan"
     },
     {
       "surface": "נציב",
-      "gloss": "qabatamaa"
+      "gloss": "dhiphattii"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistiiyyanotaa"
+      "gloss": "Filistiiwwan"
     },
     {
       "surface": "אשר",
@@ -34,31 +34,31 @@
     },
     {
       "surface": "בגבע",
-      "gloss": "Geebaa jiru"
+      "gloss": "Geebaa keessa jiru"
     },
     {
       "surface": "וישמעו",
-      "gloss": "dhageessan"
+      "gloss": "dhaga'an"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistiiyyanonnis"
+      "gloss": "Filistiinwwanis"
     },
     {
       "surface": "ושאול",
-      "gloss": "Saawulis"
+      "gloss": "Sha'uliis"
     },
     {
       "surface": "תקע",
-      "gloss": "kufise"
+      "gloss": "shaampaa da'e"
     },
     {
       "surface": "בשופר",
-      "gloss": "zoofii"
+      "gloss": "shaampaa"
     },
     {
       "surface": "בכל",
-      "gloss": "guutuutti"
+      "gloss": "guutuu"
     },
     {
       "surface": "הארץ",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jedhe"
+      "gloss": "jedhiif"
     },
     {
       "surface": "ישמעו",
-      "gloss": "dhageessaa"
+      "gloss": "dhaga'aa"
     },
     {
       "surface": "העברים",
       "gloss": "Ibrootaan"
     }
   ],
-  "timestamp": "2026-08-29T14:42:29.927542221Z",
+  "timestamp": "2026-08-29T16:50:25.354481763Z",
   "model": "glm-5.3"
 }

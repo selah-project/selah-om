@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 9,
-  "translation": "Dhiiga barbaadu ⟨את⟩ isaan yaadate; qeeqaa ⟨the⟩ gad-aananiitiis hin dagate.",
+  "translation": "Kan dhiiga barbaadu ⟨את⟩ isaan yaadateef; ithangoo warra hiyyeeyyii hin dagate.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sababiin (akkuma)"
+      "gloss": "Kan"
     },
     {
       "surface": "דרש",
@@ -22,11 +22,11 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "isaan"
+      "marks": "isaan (kan dhiiga balleessaman)"
     },
     {
       "surface": "זכר",
-      "gloss": "yaadate"
+      "gloss": "yaadateef"
     },
     {
       "surface": "לא",
@@ -38,13 +38,13 @@
     },
     {
       "surface": "צעקת",
-      "gloss": "qeeqaa"
+      "gloss": "ithangoo"
     },
     {
       "surface": "עניים",
-      "gloss": "gad-aananiitiis"
+      "gloss": "warra hiyyeeyyii"
     }
   ],
-  "timestamp": "2026-08-29T11:13:17.788093287Z",
+  "timestamp": "2026-08-29T17:00:10.977966263Z",
   "model": "glm-5.3"
 }

@@ -5,13 +5,29 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 8,
-  "translation": "Eloohiimis Nooħiin dubbachuuf jedhe, \"...\" akka jedhu",
+  "translation": "Eloohiimis Noohee dubbachuu isaatti himuuf jedhe.",
   "tokens": [
     {
       "surface": "וידבבר",
       "gloss": ""
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noohee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "himuuf jedhe"
     }
   ],
-  "timestamp": "2026-08-29T15:55:01.646956346Z",
+  "timestamp": "2026-08-29T16:15:42.564181727Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 26,
-  "translation": "Warri isin irraa hafan irratti immoo, biyyoota diinaa isaanii keessatti onnee isaanii keessatti dadhabbii nan fidu; sagni baala jaamichaa ⟨אתם⟩ isaani hordofa, isaanis akka qilxaa irraa dhokatan dhokatu, kufu — hordoftuus hin jiru.",
+  "translation": "Warri isin irraa hafan immoo, ani jeequmsa onnee isaanii keessatti biyyoota diinoota isaanii keessatti seensisa; sagaleen waraqaa dhiibame ⟨את⟩ isaan hordofa; akkuma seenaa dhaddachaa irraa isaanis seenu, kufu, hordoftuus ⟨hin jiru⟩.",
   "tokens": [
     {
       "surface": "והנשארים",
-      "gloss": "warri hafan"
+      "gloss": "warri hafan immoo"
     },
     {
       "surface": "בכם",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "nan fidu"
+      "gloss": "ani seensisa"
     },
     {
       "surface": "מרך",
-      "gloss": "dadhabbii"
+      "gloss": "jeequmsa onnee"
     },
     {
       "surface": "בלבבם",
-      "gloss": "onnee isaanii keessatti"
+      "gloss": "keessatti"
     },
     {
       "surface": "בארצת",
-      "gloss": "biyyoota"
+      "gloss": "biyyoota keessatti"
     },
     {
       "surface": "איביהם",
-      "gloss": "diinaa isaanii"
+      "gloss": "diinoota isaanii"
     },
     {
       "surface": "ורדף",
@@ -46,27 +46,27 @@
     },
     {
       "surface": "קול",
-      "gloss": "sagni"
+      "gloss": "sagaleen"
     },
     {
       "surface": "עלה",
-      "gloss": "baala"
+      "gloss": "waraqaa"
     },
     {
       "surface": "נדף",
-      "gloss": "jaamichaa"
+      "gloss": "dhiibame"
     },
     {
-      "surface": "ונסו",
-      "gloss": "dhokatu"
+      "surface": "וונסו",
+      "gloss": "iseenis seenu"
     },
     {
       "surface": "מנסת",
-      "gloss": "dhokannaa"
+      "gloss": "seenaa dhaddachaa"
     },
     {
       "surface": "חרב",
-      "gloss": "qilxaa"
+      "gloss": "irraa"
     },
     {
       "surface": "ונפלו",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "רדף",
-      "gloss": "hordoftuu"
+      "gloss": "hordoftuus"
     }
   ],
-  "timestamp": "2026-08-29T05:47:02.157571167Z",
+  "timestamp": "2026-08-29T16:45:56.095908530Z",
   "model": "glm-5.3"
 }

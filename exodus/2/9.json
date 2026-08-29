@@ -5,8 +5,83 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 2,
-  "translation": "Iliti Paaroo wooftii, \"Muuxaa kana fudhadhuutii anaaf haadhaa; ani minda kee nan kenna.\" Dubartiiwwan muuxaa fudhatees haadheseese.",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:56:47.126894226Z",
+  "translation": "Ibitaa Paar'oo jedhetti: \"Daamsa kana ⟨את⟩ hiikkadhu, naa haadhhu; ani ⟨את⟩ mindaa ke haa kennadhu.\" Dubartii chaamicha fudhatee haadhhe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jedheetti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ibitaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paar'oo"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "hiikkadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daamsa kana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "daamsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "haadhhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "haa kennadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindaa ke"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "mindaa ke"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "chaamicha"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "haadhhe"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:14.832289155Z",
   "model": "glm-5.3"
 }

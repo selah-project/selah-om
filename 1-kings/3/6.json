@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 3,
-  "translation": "Shelomoonis ni jedhe: Ati gabadhaa kee Daawid abbaa koo waliin kheesed guddaa hojjette, akka inni si duraa egeree, dhugummaan, miidhagummaan fi onnee qajeelaa waliin si waliin deeme; kheesed guddaa kana isaaf eegdee, mootummoo isaa irratti bobbaadhu jechuudhaan isaaf ilma kennees, akka guyyaa kanatti.",
+  "translation": "Sulaymaanis jedhe: \"Ati gabasaa kee Daawid, abbaa ko waliin kheesed guddaa hojjette, akkuma ati duraa isaatiin hagaqqabaa fi wal-qabummaa fi onnee qajeelaa si waliin deeme; ⟨את⟩ kheesed guddaa kana isaaf eeggatte, maalis ilma isaaf kennite tirunoo isaa irratti haa argamu akka guyyaa kanaas.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "nis ni jedhe"
+      "gloss": "Sulaymaanis jedhe"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoon"
+      "gloss": "Sulaymaan"
     },
     {
       "surface": "אתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "gabadhaa kee"
+      "gloss": "gabasaa kee"
     },
     {
       "surface": "דוד",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "abbaa koo"
+      "gloss": "abbaa ko"
     },
     {
       "surface": "חסד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "akka inni"
+      "gloss": "akkuma"
     },
     {
       "surface": "הלך",
@@ -57,49 +57,90 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "si duraa egeree"
+      "gloss": "ati duraa isaatiin"
     },
     {
       "surface": "באמת",
-      "gloss": "dhugummaan"
+      "gloss": "hagaqqabaa"
     },
     {
       "surface": "ובצדקה",
-      "gloss": "miidhagummaan"
+      "gloss": "fi wal-qabummaa"
     },
     {
       "surface": "ובישרת",
-      "gloss": "qajeelummaan"
+      "gloss": "fi qajeelummaa"
     },
     {
       "surface": "לבב",
-      "gloss": "onnee qajeelaa"
+      "gloss": "onnee"
     },
     {
       "surface": "עמך",
       "gloss": "si waliin"
     },
     {
-      "surface": "וישרת לבב",
+      "surface": "וְהַנֹּ֣גַע",
       "gloss": ""
     },
     {
-      "surface": "עמך",
-      "gloss": ""
+      "surface": "ותשמר",
+      "gloss": "eeggatte"
     },
     {
-      "surface": "וישמר לו את החסד",
-      "gloss": "⟨את⟩"
+      "surface": "לו",
+      "gloss": "⟨את⟩ isaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kheesed guddaa kana"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "kheesed"
     },
     {
       "surface": "הגדול",
-      "gloss": ""
+      "gloss": "guddaa"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "kana"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "kennite maalis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "haa argamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tirunoo isaa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaas"
     }
   ],
-  "timestamp": "2026-08-29T08:02:53.042128932Z",
+  "timestamp": "2026-08-29T16:20:03.638892666Z",
   "model": "glm-5.3"
 }

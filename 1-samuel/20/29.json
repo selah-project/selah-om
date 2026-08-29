@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 20,
-  "translation": "Akkas jedhe: «Basiisii maaloo, sababiin qallichi maatii keenyaa magaalaa keessatti jira; obboleessiis ana ajajera. Ammas amma yoo ija keessatti jaalala nan argadhe, nan mol'adhaa maaloo, waa nan argu ⟨את⟩ obboleeylee kiyya. Sababa kanaan gara soorata mooticha hin dhufe.»",
+  "translation": "Akkas jedhe: «Maaloo na dhiisi, sababiin maatiin keenya magaalaa keessatti yakka qabda; obboleessi ko immoo natti ajaje. Amma yoo ija kee keessatti jaalala argadhe, maaloo na dhiisi, obboleeyyii kiyya ⟨את⟩ ilaaluuf; sababa kanaafuu gabatee mootichaa hin dhufne.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "Basiisii"
+      "gloss": "na dhiisi"
     },
     {
       "surface": "נא",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "זבח",
-      "gloss": "qallichi"
+      "gloss": "yakka"
     },
     {
       "surface": "משפחה",
-      "gloss": "maatii keenyaa"
+      "gloss": "maatiin keenya"
     },
     {
       "surface": "לנו",
-      "gloss": "keenyaatti"
+      "gloss": "keenya"
     },
     {
       "surface": "בעיר",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "והוא",
-      "gloss": "innis"
+      "gloss": "immoo"
     },
     {
       "surface": "צוה",
-      "gloss": "ajajera"
+      "gloss": "ajaje"
     },
     {
       "surface": "לי",
-      "gloss": "ana"
+      "gloss": "natti"
     },
     {
       "surface": "אחי",
-      "gloss": "obboleessi"
+      "gloss": "obboleessi ko"
     },
     {
       "surface": "ועתה",
-      "gloss": "Ammas amma"
+      "gloss": "Amma"
     },
     {
       "surface": "אם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "nan argadhe"
+      "gloss": "argadhe"
     },
     {
       "surface": "חן",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "ija keessatti"
+      "gloss": "ija kee keessatti"
     },
     {
       "surface": "אמלטה",
-      "gloss": "nan mol'adhaa"
+      "gloss": "na dhiisi"
     },
     {
       "surface": "נא",
@@ -85,16 +85,16 @@
     },
     {
       "surface": "ואראה",
-      "gloss": "waa nan argu"
+      "gloss": "ilaaluuf"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "obboleeylee kiyya"
+      "marks": "obboleeyyii kiyya"
     },
     {
       "surface": "אחי",
-      "gloss": "obboleeylee kiyya"
+      "gloss": "obboleeyyii kiyya"
     },
     {
       "surface": "על",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "kanaan"
+      "gloss": "kanaafuu"
     },
     {
       "surface": "לא",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "dhufé"
+      "gloss": "dhufne"
     },
     {
       "surface": "אל",
@@ -118,9 +118,13 @@
     },
     {
       "surface": "שלחן",
-      "gloss": "soorata mooticha"
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
     }
   ],
-  "timestamp": "2026-08-29T07:32:19.322156812Z",
+  "timestamp": "2026-08-29T16:20:07.508671407Z",
   "model": "glm-5.3"
 }

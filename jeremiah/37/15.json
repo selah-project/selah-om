@@ -5,8 +5,84 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 37,
-  "translation": "Ministeerriis Yirmiyaah irratti ajaa'ibuu, rukutanii, mana hidhaa mana Yihonaataan barreessaa keessa isaa kaa'an — sunis akka mana hidhaa isaa godhamaniif.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:49:32.916763948Z",
+  "translation": "Michoontonni Yirmeeyaahu irratti booddeeffatan, ⟨את⟩ Isa rukutan,inis ⟨את⟩ Isa mana hiikkaa keessatti kufan—mana Yihonaataan barreessaa—sababas ⟨את⟩ Isa mana hidhaa godhaaniif.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "booddeeffatan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "michoontonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeeyaahu"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "rukutan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Isa"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Isa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana hiikkaa keessatti"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yihonaataan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "barreessaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Isa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "godhaaniif"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana hidhaatti"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "hidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:29.429493175Z",
   "model": "glm-5.3"
 }

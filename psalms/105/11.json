@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "psalms 105:11",
-  "book": "psalms",
-  "lang": "om",
-  "chapter": 105,
-  "translation": "Jedhu: “Biyya Kenaan ⟨את⟩ sii nan kennadha, sa'a dachii keessan.”",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:45:25.960017646Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":11,"ref":"psalms 105:11","book":"psalms","lang":"om","chapter":105,"translation":"“Akka jedhutti: ‘Siif ⟨את⟩ biyya Keenaanin nan kennaa — sarara meeṭiraa dhaala dhaloota kee ti.’”","tokens":[{"surface":"לאמר","gloss":"akka jedhutti"},{"surface":"לך","gloss":"siif"},{"surface":"אתן","gloss":"nan kennaa"},{"surface":"את","gloss":"⟨את⟩","marks":"biyya Keenaanin"},{"surface":"ארץ","gloss":"biyya"},{"surface":"כנען","gloss":"Keenaanin"},{"surface":"חבל","gloss":"sarara (dhaala)"},{"surface":"נחלתכם","gloss":"dhaala dhaloota kee"}],"timestamp":"2026-08-29T16:23:13.798827347Z","model":"glm-5.3"}

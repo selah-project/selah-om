@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "exodus 18:13",
-  "book": "exodus",
-  "lang": "om",
-  "chapter": 18,
-  "translation": "Baga booda waan ta'e, Moshee taa'ee sababa kakuu mootummaa fi seeraa sabni hubachuu jedhuun sababa ilaaluuf jiraachuu isaatti — haadha manaa isaatiin kanjedhu waan jalqabaatti ta'aniif sabni Waan Waaqayyaa biraatti dhihaachuu qabdu akkasumas jedhu — Moshee biraatti ganama irraa hanga galgalaatti dhaabbachuudhaan sabni eegame, akka iyyaatti kan jedhu duraa akkasumas waan booda, «Kun maal jedha?» jedhame, kanas akkasumas, waan kanaan sabni Waan dhihaachuun Waaqayyaa biraatti akka ida'u, akkasumas gaafa lammataatti Sabni Waan taasifamu dha.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:07:02.727798245Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"exodus 18:13","book":"exodus","lang":"om","chapter":18,"translation":"Baga gaafa boodaatti ta'e, Moshee taa'ee ⟨את⟩ sabni akka murtii godhuuf goda; sabninis Mooshee biratti — ganama irraa hanga galgala — dhaabbate.","tokens":[{"surface":"ויהי","gloss":"ta'e"},{"surface":"ממחרת","gloss":"gaafa boodaatti"},{"surface":"וישב","gloss":"taa'ee"},{"surface":"משה","gloss":"Moshee"},{"surface":"לשפט","gloss":"akka murtii godhuuf"},{"surface":"את","gloss":"⟨את⟩","marks":"sabni"},{"surface":"העם","gloss":"sabni"},{"surface":"ויעמד","gloss":"dhaabbate"},{"surface":"העם","gloss":"sabniinis"},{"surface":"על","gloss":"biratti"},{"surface":"משה","gloss":"Mooshee"},{"surface":"מן","gloss":"irraa"},{"surface":"הבקר","gloss":"ganama"},{"surface":"עד","gloss":"hanga"},{"surface":"הערב","gloss":"galgala"}],"timestamp":"2026-08-29T16:16:06.305510264Z","model":"glm-5.3"}

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 107,
-  "translation": "Achii beellaa (в)narra ijiinsessera...",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:46:36.402389643Z",
+  "translation": "Raageewwanii siin achitti ijjisi; magaalaa jireenyaa ijjisuuf ⟨את⟩ magaalaa hundeeffatu.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ijjisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "raageewwanii"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "hundeeffatu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:55.010346967Z",
   "model": "glm-5.3"
 }

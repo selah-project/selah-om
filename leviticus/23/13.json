@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":13,"ref":"leviticus 23:13","book":"leviticus","lang":"om","chapter":23,"translation":"Minchaan isaa eesiroonota lama xaafuraa zayitaan sasabame, khoraa Yahwef, miira jaallatamaa ta'e; niseeki isaa immoo waan raawwatan afuraffaa ⟨the⟩ hiin.","tokens":[{"surface":"ומנחתו","gloss":"Minchaan isaa"},{"surface":"שני","gloss":"lama"},{"surface":"עשרנים","gloss":"eesiroonota"},{"surface":"סלת","gloss":"xaafuraa"},{"surface":"בלולה","gloss":"sasabame"},{"surface":"בשמן","gloss":"zayitaan"},{"surface":"אשה","gloss":"khoraa"},{"surface":"ליהוה","gloss":"Yahwef"},{"surface":"ריח","gloss":"miira"},{"surface":"ניחח","gloss":"jaallatamaa ta'e"},{"surface":"ונסכה","gloss":"niseeki isaa immoo"},{"surface":"יין","gloss":"waan raawwatan"},{"surface":"רביעת","gloss":"afuraffaa"},{"surface":"ההין","gloss":"hiin"}],"timestamp":"2026-08-29T05:44:47.006974641Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 23:13",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Kuniis kaffaltii xiinxaa isaa: efera lama dhaddachaallee dhaddachaallee saaphana adii zayitaatiin makame, kaffaltii ibiddaa Yahweef, ukkamsa jaalatamaa; neseenis isaa wiiinii ruubaa irra caalaa immallee ruubbii tokko kan hiini tokko ti.",
+  "tokens": [
+    {
+      "surface": "ומנחתו",
+      "gloss": "kuniis kaffaltii xiinxaa isaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "efera (dhaddachaallee kuma tokko irraa)"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "saaphana adii"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "makame"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "zayitaatiin"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kaffaltii ibiddaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ukkaamsa"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "jaalatamaa (ittisafi nagaa)"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "neseenis isaa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wiiinii"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "ruubbii tokko"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hiini tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T17:07:51.977797673Z",
+  "model": "glm-5.3"
+}

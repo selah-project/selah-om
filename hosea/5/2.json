@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":2,"ref":"hosea 5:2","book":"hosea","lang":"om","chapter":5,"translation":"Fi god-dittaan balleessuu irratti gadi cabbaniiru; ani garuu isaan hundarratti adabbii dha.","tokens":[{"surface":"ושחטה","gloss":"fi balleessuu"},{"surface":"שטים","gloss":"god-dittaan"},{"surface":"העמיקו","gloss":"gadi cabbaniiru"},{"surface":"ואני","gloss":"ani garuu"},{"surface":"מוסר","gloss":"adabbii"},{"surface":"לכלם","gloss":"isaan hundarratti"}],"timestamp":"2026-08-29T10:37:11.392124230Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sanyunni rakkatanii bulchinsa gaggeessaa jiru; ani immoo isaan hundaaf qorataa turre.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "bulchinsa gaggeessaa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sanyunni"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "rakkatanii"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "qorataa"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "isaan hundaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T16:57:43.337601021Z",
+  "model": "glm-5.3"
+}

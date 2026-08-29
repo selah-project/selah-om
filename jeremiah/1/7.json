@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 1,
-  "translation": "Yahwe immoo naa jedhe, Daa'ima ani dha hin jedhin; sababiin waan hunda kan Ani si ergeef ⟨את⟩ deemma, fi ⟨את⟩ waan hunda kan Ani ajaje si dubbatta.",
+  "translation": "Yahween naa jedhe: \"Inni dargaggoo ani hin jedhin; sababa isaatti, waan hunda waan An si ergu irratti ni deema, waan hunda waan An si ajaju ⟨את⟩ ni dubbadha.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jedhe"
+      "gloss": "naa jedhe"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "Yahween"
     },
     {
       "surface": "אלי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "hin jedhin"
+      "gloss": "hin"
     },
     {
       "surface": "תאמר",
@@ -29,39 +29,35 @@
     },
     {
       "surface": "נער",
-      "gloss": "daa'ima"
+      "gloss": "dargaggoo"
     },
     {
       "surface": "אנכי",
       "gloss": "ani"
     },
     {
-      "surface": "אנכי",
-      "gloss": "dha"
-    },
-    {
       "surface": "כי",
-      "gloss": "sababiin"
+      "gloss": "sababa isaatti"
     },
     {
       "surface": "על",
-      "gloss": "waan... irratti"
+      "gloss": "irratti"
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "waan hunda"
     },
     {
       "surface": "אשר",
-      "gloss": "kan"
+      "gloss": "waan"
     },
     {
       "surface": "אשלחך",
-      "gloss": "Ani si ergeef"
+      "gloss": "An si ergu"
     },
     {
       "surface": "תלך",
-      "gloss": "⟨את⟩ deemma"
+      "gloss": "ni deema"
     },
     {
       "surface": "ואת",
@@ -70,21 +66,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "waan hunda"
     },
     {
       "surface": "אשר",
-      "gloss": "kan"
+      "gloss": "waan"
     },
     {
       "surface": "אצוך",
-      "gloss": "ajaje"
+      "gloss": "An si ajaju"
     },
     {
       "surface": "תדבר",
-      "gloss": "dubbatta"
+      "gloss": "ni dubbadha"
     }
   ],
-  "timestamp": "2026-08-29T09:21:38.525798990Z",
+  "timestamp": "2026-08-29T16:21:14.378572346Z",
   "model": "glm-5.3"
 }

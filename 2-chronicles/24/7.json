@@ -5,8 +5,70 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 24,
-  "translation": "Sababa kanaan, muftii biyyaa: Yaahweedhaa of duraa... Sababni isaa — mootitti donna biyyaa: 'Awwaaltumti' ykn 'donna biyyaa' kan hammeessa... Akkas jedha: Sababa kanaan — sababa kana: Sababa kana, sababa kana: Sababa kanaan, sababa kana: sababa kanaan — sababa kana — sababa kana: sababa kanaan, sababa kana — sababa kana.",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:01:27.294613988Z",
+  "translation": "Sababiin isaas ilmaan Atalyaahu, mooqaa-tumaa san, ⟨את⟩ mana Eloohiim rukutee cabsaniiru; akkasumas waan qulqulluu mana Yahwe hunda Baalimaf maddisiisanii hojjedhaaniiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyaahu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "mooqaa-tumaa"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ilman ishee"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "rukutee cabsaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Eloohiim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "waan qulqulluu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjedhaaniiru"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalimaf"
+    }
+  ],
+  "timestamp": "2026-08-29T17:10:27.829508124Z",
   "model": "glm-5.3"
 }

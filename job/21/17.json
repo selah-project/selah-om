@@ -5,8 +5,49 @@
   "book": "job",
   "lang": "om",
   "chapter": 21,
-  "translation": "Yeroo meeqaaf ifiwwan (קandinoota) warra mootummaa dhiibbaa dhaawwatan? Yeroo meeqaaf balaan isaanii isaanitti dhufa? Ogeessi irraa mo'aa dhibbaa taasifata—hundi kun daawwachiisa, jechoonni gaafannaatti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:25:21.957407902Z",
+  "translation": "Sirna ifaa warra yakkaa yeroo meeqa ni dhaama, balaan isaanii isaaniirratti ni dhufa? Inni dheebina adda baasa aaccina Isaatiin.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "yeroo meeqa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "sirna ifaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra yakkaa"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ni dhaama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ni dhufa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "isaaniirratti"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "balaan isaanii"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "dheebina"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "adda baasa"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "aaccina Isaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:48.797627070Z",
   "model": "glm-5.3"
 }

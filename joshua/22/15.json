@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":15,"ref":"joshua 22:15","book":"joshua","lang":"om","chapter":22,"translation":"Isaan kufaan jira Ra'uubeen ilaaltan, Ani kakuu kan \"u-at\" isaanii sirreeffadhe — \"u-at\" dabalata qulqulluu qofa ture. Gad, Menashee fi garee gosa sadii gara biyya Giliad deemuudhaan, Waaqayyo akka \"u-at\" agarsiisuuf haasawanii isaan seeraan-qajeelchise.","tokens":[{"surface":"ויבאו","gloss":"isaanii dhufaniiru"},{"surface":"אל","gloss":"gara"},{"surface":"בני","gloss":"ilmoolee"},{"surface":"ראובן","gloss":"Ra'uubeen"},{"surface":"ואל","gloss":"fi gara"},{"surface":"בני","gloss":"ilmoolee"},{"surface":"גד","gloss":"Gaad"},{"surface":"ואל","gloss":"fi gara"},{"surface":"חצי","gloss":"gara-ji'a"},{"surface":"שבט","gloss":"gosa"},{"surface":"מנשה","gloss":"Menashee"},{"surface":"אל","gloss":"gara"},{"surface":"ארץ","gloss":"biyya"},{"surface":"הגלעד","gloss":"Giliadicha"},{"surface":"וידברו","gloss":"isaan haasawan"},{"surface":"אתם","gloss":"⟨את⟩","marks":"isaan (warra Giliad)"},{"surface":"לאמר","gloss":"akka jedhan"}],"timestamp":"2026-08-29T14:38:14.673495723Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 22:15",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Dhufanis gara ilmaan Ra'uubeenii, gara ilmaan Gaadii fi gara walakkaa gosa Menaashetti, gara biyya Giil'adiitti; wajjin isaaniitiin akka jedhaniin haasofte.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ra'uubeenii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaadii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "walakkaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaashetti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giil'adiitti"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "haasofte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wajjin isaaniitiin (wajjin isaaniitiin)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhaniin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:48:28.149312005Z",
+  "model": "glm-5.3"
+}

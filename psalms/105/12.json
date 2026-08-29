@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 105,
-  "translation": "Yeroo isaan namoota lakkoofsa xiqqaa, baay'ee muraata, ishee keessatti waajjiraa ta'an.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:45:25.960134925Z",
+  "translation": "Yeroo baay'ee xiqqoo ta'anii, baay'ee xiqqoo, fi maarartoota isa keessatti ta'anii,",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Yeroo ta'anii"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dhibbe xiqqoo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsa xiqqoo"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "baay'ee xiqqoo"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "fi maarartoota"
+    },
+    {
+      "surface": "בה",
+      "gloss": "isa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:07.871673012Z",
   "model": "glm-5.3"
 }

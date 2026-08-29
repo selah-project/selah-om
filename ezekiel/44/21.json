@@ -5,8 +5,45 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 44,
-  "translation": "Waan dhugaatiinis sanyii koorsoo tokkollee hin dhugati yeroo_chatu mana keessoo galaniitti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:32:52.254978818Z",
+  "translation": "Waan dhugaas kamiyyuu koonkolleewwan hunda buna filannoo boba'a hin dhugatan, yeroo isaan mana waldaa keessaa keessaa seenani.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "waan dhugaas kamiyyuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dhugatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "koonkollee"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "yeroo isaan seenani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mana waldaa keessaa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "keessaa keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:54.208284580Z",
   "model": "glm-5.3"
 }

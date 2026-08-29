@@ -5,8 +5,41 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 34,
-  "translation": "Akkaataa teessoo [kaan] garaa gadbanaatti kan ta'e, daangichi Atsmoon irraa gara lola (naannoo hunda gati) deemi; bikkatti kan arge, <span style=\"font-family:'Times New Roman',serif\">ἡ<\/span>«kan dabarsu gati bikkatti»; Mitsraayimiin deebi'ee gara atsraatti deemi.« (This should be a fresh translation, not restated target text.)",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:12:44.612284696Z",
+  "translation": "Daangeen Atsmoon irraa naqsee, hanga lagaa Mitsraayimtti daangaa-kaasaa, baa'inni isaa garuu bahaatti (galaana waajjiraatti) ta'a.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "naqsee (naqataa)"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "daangeen"
+    },
+    {
+      "surface": "מעצמון",
+      "gloss": "Atsmoon irraa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lagaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "baa'inni isaa"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "waajjira (galaana)"
+    }
+  ],
+  "timestamp": "2026-08-29T16:18:10.113124363Z",
   "model": "glm-5.3"
 }

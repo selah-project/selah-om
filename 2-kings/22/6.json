@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":6,"ref":"2-kings 22:6","book":"2-kings","lang":"om","chapter":22,"translation":"Damee-to'attootaaf, ijjajarattootaafii oddoltootaafis, akkasumas mukaa fi dhagaa cuunfamee bituuf, manaichaatti ⟨את⟩ manichaa deebisuuf.","tokens":[{"surface":"לחרשים","gloss":"damee-to'attootaaf"},{"surface":"ולבנים","gloss":""},{"surface":"ולגדרים","gloss":"oddoltootaafis"},{"surface":"ולקנות","gloss":"bituufis"},{"surface":"עצים","gloss":"mukaa"},{"surface":"ואבני","gloss":"dhagaa...is"},{"surface":"מחצב","gloss":"cuunfamee"},{"surface":"לחזק","gloss":"deebisuuf"},{"surface":"את","gloss":"⟨את⟩","marks":"manichaa"},{"surface":"הבית","gloss":"manichaa"}],"timestamp":"2026-08-29T14:53:51.616696593Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Hojjettoota morkaa, hojjattoota biroo diinaa fi hojjattoota xuuxaa kamiifu; akkasumas muka heddachuu fi dhagaa cufamee buyuudhaaf, mana ⟨את⟩ deesisuuf.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "hojjettoota morkaa"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "fi hojjattoota xuuxaa"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "fi hojjattoota diinaa"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "akkasumas...buyuudhaaf"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "fi dhagaa"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "cufamee"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "deesisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-08-29T16:54:18.683837540Z",
+  "model": "glm-5.3"
+}

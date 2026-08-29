@@ -5,28 +5,28 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 25,
-  "translation": "Riiboo kee riibi wajjin ⟨את⟩ michii kee; icciitii (סוד) kan biraa hin mul'ifadhu.",
+  "translation": "Riibbee riibadhu ⟨את⟩ kirreetta wajjin, iccitiilaa kan biraa hin mul'ifsin.",
   "tokens": [
     {
       "surface": "ריבך",
-      "gloss": "riiboo kee"
+      "gloss": "riibbee kee"
     },
     {
       "surface": "ריב",
-      "gloss": "riibi"
+      "gloss": "riibadhu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "michii kee"
+      "marks": "kirreetta kee (kirree kee)"
     },
     {
       "surface": "רעך",
-      "gloss": "michii kee"
+      "gloss": "kirreetta kee"
     },
     {
       "surface": "וסוד",
-      "gloss": "icciitii"
+      "gloss": "iccitiilaa"
     },
     {
       "surface": "אחר",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "תגל",
-      "gloss": "mul'ifadhu"
+      "gloss": "mul'ifsin"
     }
   ],
-  "timestamp": "2026-08-29T15:29:11.784146575Z",
+  "timestamp": "2026-08-29T17:02:05.903163731Z",
   "model": "glm-5.3"
 }

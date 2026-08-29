@@ -5,8 +5,102 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 47,
-  "translation": "Akkasumas isa gaaffii kibxaniitiin isiniif gara dachee gabroomaa taasisaa; keessatti gabroomaa ta'aniif, isiniif akkuma name kan biyya Israa'elootaa keessa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:17:41.465219333Z",
+  "translation": "Kun ta'a: isin ⟨את⟩ ishee dhaala taatiif isiniifi sooratoota isin keessanii sooratan, isin keessatti ilmaan dhalatan, kakkattu; akkuma nama biyya-singoon dhalate, ilmaan Israa'el keessatti isin wajjin ta'u; isin wajjin ⟨את⟩ dhaala mootummaalee Israa'el giddutti kakaatu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kun ta'a"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "kakkattu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (dachaa ishee)"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "dhaala taatiif"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ולהגרים",
+      "gloss": "sooratootaafi"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "sooratan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "isin keessanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "isin keessatti"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin wajjin"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "akkuma nama biyya-singoon dhalate"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ilmaan keessatti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "isin wajjin ⟨את⟩"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kakaatu"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giddutti"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mootummaalee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:04.017786103Z",
   "model": "glm-5.3"
 }

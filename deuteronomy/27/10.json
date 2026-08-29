@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 27,
-  "translation": "Saffisa(דੌగ్గడ) Yahwe Eloohiim keetii dhageessa; ajajoota Isaa fi seera Isaa, Ani guyyaa har'a keetti ajaju, siin-taasisa.",
+  "translation": "Abjuutan sagalee Yahwe Eloohiim kee ti soorat, ajajawwan Isaa fi seera Isaa kan ani guyyaa har'a si ajaju ⟨את⟩ raawwadhu.",
   "tokens": [
     {
       "surface": "ושמעת",
-      "gloss": "dhageessa"
+      "gloss": "Abjuutan soorat"
     },
     {
       "surface": "בקול",
-      "gloss": "saffisa"
+      "gloss": "sagalee...ti"
     },
     {
       "surface": "יהוה",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Eloohiim keetii"
+      "gloss": "Eloohiim kee"
     },
     {
       "surface": "ועשית",
-      "gloss": "siin-taasisa"
+      "gloss": "raawwadhu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ajajoota Isaa"
+      "marks": "ajajawwan Isaa"
     },
     {
       "surface": "מצותו",
-      "gloss": "ajajoota Isaa"
+      "gloss": "ajajawwan Isaa"
     },
     {
       "surface": "ואת",
@@ -47,21 +47,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "(waan)"
+      "gloss": "kan"
     },
     {
       "surface": "אנכי",
-      "gloss": "Ani"
+      "gloss": "ani"
     },
     {
       "surface": "מצוך",
-      "gloss": "ajaju"
+      "gloss": "si ajaju"
     },
     {
       "surface": "היום",
       "gloss": "guyyaa har'a"
     }
   ],
-  "timestamp": "2026-08-29T06:30:46.028992885Z",
+  "timestamp": "2026-08-29T16:47:04.743254455Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 23,
-  "translation": "Edomii hin jibbiti, sababiin isaas obboleessa kee inni ⟨is⟩; Mitsrii hin jibbiti, sababiin isaas biyya isaa keessa keessa bultuu taate.",
+  "translation": "Edomoo-dhaan hin jibbiisu, sababiin obboleessi kee ti; Mitsrii-dhaan hin jibbiisu, sababiin seenaa ati biyya isaa keessa turre.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "תתעב",
-      "gloss": "jibbiti"
+      "gloss": "jibbiisu"
     },
     {
       "surface": "אדמי",
-      "gloss": "Edomii"
+      "gloss": "Edomoo-dhaan"
     },
     {
       "surface": "כי",
-      "gloss": "sababiin isaas"
+      "gloss": "sababiin"
     },
     {
       "surface": "אחיך",
-      "gloss": "obboleessa kee"
+      "gloss": "obboleessi kee"
     },
     {
       "surface": "הוא",
-      "gloss": "inni"
+      "gloss": "⟨ini⟩"
     },
     {
       "surface": "לא",
@@ -37,29 +37,29 @@
     },
     {
       "surface": "תתעב",
-      "gloss": "jibbiti"
+      "gloss": "jibbiisu"
     },
     {
       "surface": "מצרי",
-      "gloss": "Mitsrii"
+      "gloss": "Mitsrii-dhaan"
     },
     {
       "surface": "כי",
-      "gloss": "sababiin isaas"
+      "gloss": "sababiin"
     },
     {
       "surface": "גר",
-      "gloss": "keessa bultuu"
+      "gloss": "seenaa"
     },
     {
       "surface": "היית",
-      "gloss": "taate"
+      "gloss": "ati turre"
     },
     {
       "surface": "בארצו",
       "gloss": "biyya isaa keessa"
     }
   ],
-  "timestamp": "2026-08-29T06:30:27.996828685Z",
+  "timestamp": "2026-08-29T16:47:10.551088978Z",
   "model": "glm-5.3"
 }

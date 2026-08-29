@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 57,
-  "translation": "Sababiin akkas jedhe Kan Ol-aanaa fi Kan Moggaafame, Kan Bara-dheeraa keessa jiraatu, Maqaan isaa Qulqullaa ⟨is⟩: iddoo ol-aanaa fi qulqullummaa keessatti nan jiraata; ⟨את⟩ kan cufamee fi hafuura hammagaruu qabu wajjinis, akka hafuura warra hammagaruu qaban deebisuuf fi onnee warra cufamanii deebisuuf.",
+  "translation": "Kanaaf akka kanatti Kan Ol-aanaa fi Ol-qaqqabame, Kan Bara Baraatiin Jiraatu, Maqaan isaa Qulqullaa ta'e jedhe: Iddoo ol-aanaa fi qulqullaa keessan ni jiraadha; fi ⟨את⟩ kan-dhiifame fi waan sammuutiin gadi-jibbameef, sammuuta warra gadi-jibbaman deebisuuf fi onnee warra dhiifaman deebisuuf.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sababiin"
+      "gloss": "Kanaaf"
     },
     {
       "surface": "כה",
-      "gloss": "akkas"
+      "gloss": "akka kanatti"
     },
     {
       "surface": "אמר",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "fi Kan Moggaafame"
+      "gloss": "fi Ol-qaqqabame"
     },
     {
       "surface": "שכן",
-      "gloss": "jiraatu"
+      "gloss": "Kan Jiraatu"
     },
     {
       "surface": "עד",
-      "gloss": "Bara-dheeraa"
+      "gloss": "Bara Baraa"
     },
     {
       "surface": "וקדוש",
@@ -49,28 +49,28 @@
     },
     {
       "surface": "וקדוש",
-      "gloss": "fi qulqullummaa"
+      "gloss": "fi qulqullaa"
     },
     {
       "surface": "אשכון",
-      "gloss": "nan jiraata"
+      "gloss": "ni jiraadha"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kan cufamee fi hafuura hammagaruu qabu"
+      "marks": "kan-dhiifame fi waan sammuutiin gadi-jibbame"
     },
     {
       "surface": "דכא",
-      "gloss": "kan cufamee"
+      "gloss": "kan-dhiifame"
     },
     {
       "surface": "ושפל",
-      "gloss": "fi hammagaruu qabu"
+      "gloss": "fi waan sammuutiin gadi-jibbame"
     },
     {
       "surface": "רוח",
-      "gloss": "hafuura"
+      "gloss": "sammuu"
     },
     {
       "surface": "להחיות",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "hafuura"
+      "gloss": "sammuuta"
     },
     {
       "surface": "שפלים",
-      "gloss": "warra hammagaruu qaban"
+      "gloss": "warra gadi-jibbaman"
     },
     {
       "surface": "ולהחיות",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "נדכאים",
-      "gloss": "warra cufamanii"
+      "gloss": "warra dhiifaman"
     }
   ],
-  "timestamp": "2026-08-29T15:02:00.691041946Z",
+  "timestamp": "2026-08-29T16:56:06.726150610Z",
   "model": "glm-5.3"
 }

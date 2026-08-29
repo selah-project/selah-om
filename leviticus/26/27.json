@@ -5,8 +5,41 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 26,
-  "translation": "Yoo kanaanuu na hin dhageessine, ana wajjin nagaa-laafaa taadhaan deemuudhaan viriittuu taadhaan (bqri) deemanneef na viriittanantti (beqri) deemna; — hiikkaa sirrii: Yoo kanaanuu na hin dhageessine, ana wajjin viriittuu taadhaan (beqri) deemna.",
-  "tokens": null,
-  "timestamp": "2026-08-29T15:55:32.592316619Z",
+  "translation": "Yoo waan kana irrattis na hin dhageessanne, ani wajjin gaddissaa naattin deemuudhaan",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "waan kana irrattis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhageessanne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "deemuudhaan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ani wajjin"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "gaddissaa naattin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:37.919248689Z",
   "model": "glm-5.3"
 }

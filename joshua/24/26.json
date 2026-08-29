@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "joshua 24:26",
-  "book": "joshua",
-  "lang": "om",
-  "chapter": 24,
-  "translation": "Yihoshuuais jechawni kana barreeffama Seera Waaqaa kan Eloohiim keessatti barre; dheeddachaa guddaa fudhateedhaas dhaabbate, bakka saffisa Yihwe seeraa kan Yihoo keessatti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:59:09.356852316Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":26,"ref":"joshua 24:26","book":"joshua","lang":"om","chapter":24,"translation":"Yehooshuaan jechoota kana ⟨את⟩ kitaaba Seera Eloohiim keessatti barreesse; abbaa guddaa fudhatee, dheessatti — bakka qulqullummaa Yahwe keessatti jiru muka jala — dhaabbeesse.","tokens":[{"surface":"ויכתב","gloss":"barreesse"},{"surface":"יהושע","gloss":"Yehooshuaan"},{"surface":"את","gloss":"⟨את⟩","marks":"jechoota kana"},{"surface":"הדברים","gloss":"jechoota kana"},{"surface":"האלה","gloss":"kana"},{"surface":"בספר","gloss":"kitaaba...keessatti"},{"surface":"תורת","gloss":"Seera"},{"surface":"אלהים","gloss":"Eloohiim"},{"surface":"ויקח","gloss":"fudhatee"},{"surface":"אבן","gloss":"abbaa"},{"surface":"גדולה","gloss":"guddaa"},{"surface":"ויקימה","gloss":"dhaabbeesse"},{"surface":"שם","gloss":"dheessatti"},{"surface":"תחת","gloss":"jala"},{"surface":"האלה","gloss":"muka"},{"surface":"אשר","gloss":"jiru"},{"surface":"במקדש","gloss":"bakka qulqullummaa...keessatti"},{"surface":"יהוה","gloss":"Yahwe"}],"timestamp":"2026-08-29T16:18:26.803365878Z","model":"glm-5.3"}

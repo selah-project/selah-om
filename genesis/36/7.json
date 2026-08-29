@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 36,
-  "translation": "Sababa qabeenya isaanii baay'ee ta'e, walitti jiraachuu hin dandaane; lafti iddoo-soorannoo isaanii, ejjaa isaanii irraa kanan, ⟨את⟩ ⟨אתם⟩ isaan arranuu hin dandeenye.",
+  "translation": "Sabiitti qabeenya isaanii baay'ee ta'ee walitti jiraachuuf; lafti bulbii isaanii ⟨את⟩ isaan baachuu hin dandeenye, sababa beylada isaanii.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sababa"
+      "gloss": "sabiitti"
     },
     {
       "surface": "היה",
-      "gloss": "ta'e"
+      "gloss": "ta'ee"
     },
     {
       "surface": "רכושם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "משבת",
-      "gloss": "jiraachuuf"
+      "gloss": "walitti jiraachuuf"
     },
     {
       "surface": "יחדו",
@@ -45,26 +45,26 @@
     },
     {
       "surface": "מגוריהם",
-      "gloss": "iddoo-soorannoo isaanii"
+      "gloss": "bulbii isaanii"
     },
     {
       "surface": "לשאת",
-      "gloss": "arranuu"
+      "gloss": "baachuu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "isaan"
     },
     {
       "surface": "מפני",
-      "gloss": "irraa kanan"
+      "gloss": "sababa"
     },
     {
       "surface": "מקניהם",
-      "gloss": "ejjaa isaanii"
+      "gloss": "beylada isaanii"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.087891224Z",
+  "timestamp": "2026-08-29T16:39:13.559507300Z",
   "model": "glm-5.3"
 }

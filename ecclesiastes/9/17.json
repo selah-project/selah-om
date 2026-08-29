@@ -5,8 +5,37 @@
   "book": "ecclesiastes",
   "lang": "om",
   "chapter": 9,
-  "translation": "Jechawwan ogeeyyiiii tikka tikka tartiibatti dhageeffamu; qeeqa kan mootaa kan ogeeyyii gadii. — correction:",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:50:05.908985083Z",
+  "translation": "Jechoonni ogeeyyii-turned-hubatamoo in nuti qixa ansi diigamanii: \"Jechoonni ogeeyyii xeessoo-dhukkubsataa kan mootii meeshaa hin qabne caalaa dogoggora.\"",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ogeeyyii"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "qixaa"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "dhagahamu"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "dhiibbaa-citaa"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "bulchaa"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "waan-gororsaa-keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:39.904761223Z",
   "model": "glm-5.3"
 }

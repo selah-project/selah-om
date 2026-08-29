@@ -5,8 +5,38 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 42,
-  "translation": "PLACEHOLDER",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:49:23.437665380Z",
+  "translation": "Yoosipiin obbolee isaa ⟨את⟩ beeka'ee, isaan ammoo isa hin beekane.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "beeka'ee"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosipiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboolee isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboolee isaa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaan ammoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "beekane isa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:13.341741866Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,82 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 9,
-  "translation": "Ati Knowadhu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:21:33.389214869Z",
+  "translation": "Ati immoo beekki, sababaa madaalliin kee tiin Yahwe Eloohiim keenyaan ⟨את⟩ biyya gaarii taate kana siif hin kennu; kanaafuu akka isa fudhattuuf, sababaa saba goggoroo taatee miti.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ati immoo beekki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "madaalliin kee tiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim keenyaan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya gaarii taate kana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gaarii taate"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "akka isa fudhattuuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "goggoroo"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "minja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "taatee miti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:47:12.972573157Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,78 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 25,
-  "translation": "Fi ⟨את⟩ waan waamicha qophaa, fi ⟨את⟩ reeboo, fi ⟨את⟩ meeshaalee aannoo, fi ⟨את⟩ hujeera, fi ⟨את⟩ meeshaaleen sibiilee baxiisaa hundinuu isaaniin tajaajilan, fudhatanii.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:57:59.054931643Z",
+  "translation": "Si'aawwanii, riiboowwan, cufattoowwan ibiddaaniifi, malaasotaanii fi ⟨את⟩ meeshaalee nittiisaa hundaa waan isaan itti tajaajilan fudhataniiru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "si'aawwan"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "si'aawwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "riiboowwan"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "riiboowwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "cufattoowwan ibiddaa"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "cufattoowwan ibiddaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "malaasota"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "malaasota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee nittiisaa hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nittiisaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "isaa(n) tajaajilan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan itti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "fudhataniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:30.800916387Z",
   "model": "glm-5.3"
 }

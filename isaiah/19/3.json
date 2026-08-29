@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 19,
-  "translation": "Hafuuriin Mitsraayimis keessaa ishee daangeffamu; yaada ishees ni-neeyna; sanboonniitti, ayyaantootatti, abbootii hafuura du'aniitti fi beektotatti hafuura dubbattaniitti barbaadan.",
+  "translation": "Hiika haadharoo manaa miti: hafuura Mitsraayim keessoo isheeii liqimfamti, gorsas immoo ani liqimsa; san booda san-malee biraatti, arrabsitootaa biraatti, fi kallatti biraatti barbaadan.",
   "tokens": [
     {
       "surface": "ונבקה",
-      "gloss": "daangeffamu"
+      "gloss": "liqimfamti"
     },
     {
       "surface": "רוח",
-      "gloss": "hafuuriin"
+      "gloss": "hafuura"
     },
     {
       "surface": "מצרים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "בקרבו",
-      "gloss": "keessaa ishee"
+      "gloss": "keessoo isheeii"
     },
     {
       "surface": "ועצתו",
-      "gloss": "yaada ishee"
+      "gloss": "gorsas"
     },
     {
       "surface": "אבלע",
-      "gloss": "ni-neeyna"
+      "gloss": "ani liqimsa"
     },
     {
       "surface": "ודרשו",
@@ -37,33 +37,37 @@
     },
     {
       "surface": "אל",
-      "gloss": "itti"
+      "gloss": "biraatti"
     },
     {
       "surface": "האלילים",
-      "gloss": "sanboonniitti"
+      "gloss": "san-malee"
     },
     {
       "surface": "ואל",
-      "gloss": "ayyaantootatti"
+      "gloss": "biraatti"
     },
     {
       "surface": "האטים",
-      "gloss": "abbootii hafuura du'aniitti"
+      "gloss": "arrabsitootaa"
     },
     {
       "surface": "ואל",
-      "gloss": "fi"
+      "gloss": "kallatti biraatti"
     },
     {
       "surface": "האבות",
-      "gloss": "beektotatti hafuura dubbattaniitti"
+      "gloss": "—"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi kallatti biraatti"
     },
     {
       "surface": "הידענים",
-      "gloss": ""
+      "gloss": "beekaa obboleeyyii keessaa"
     }
   ],
-  "timestamp": "2026-08-29T08:54:08.987505329Z",
+  "timestamp": "2026-08-29T16:21:22.613681393Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,41 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 33,
-  "translation": "Sabiinnu Isatti hawwi qaba, gara Isaa ni-deemtu, Isaa nama barbaadutti hin dhiiftu.",
+  "translation": "Sabiisaa, onnee keenya Isa keessatti gammaddu, sababa kanaa, Maqaa qulqulluu Isaattiin kakkaddunnee.",
   "tokens": [
     {
-      "surface": "נפשינו",
-      "gloss": "sabiinnu keenya"
+      "surface": "כי",
+      "gloss": "sabiisaa"
     },
     {
-      "surface": "ל",
-      "gloss": "Isatti"
+      "surface": "בו",
+      "gloss": "Isa keessatti"
     },
     {
-      "surface": "יהוה",
-      "gloss": "Yahwe"
+      "surface": "ישמח",
+      "gloss": "gammaddu"
     },
     {
-      "surface": "חכתה",
-      "gloss": "hawwi qabdi"
+      "surface": "לבנו",
+      "gloss": "onnee keenya"
     },
     {
-      "surface": "עזרנו",
-      "gloss": "gargaara keenya"
+      "surface": "כי",
+      "gloss": "sababa kanaa"
     },
     {
-      "surface": "ומגננו",
-      "gloss": "magaana keenya"
+      "surface": "בשם",
+      "gloss": "Maqaa... Isaattiin"
     },
     {
-      "surface": "הוא",
-      "gloss": "Inni"
+      "surface": "קדשו",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "kakkaddunnee"
     }
   ],
-  "timestamp": "2026-08-29T11:19:36.603552403Z",
+  "timestamp": "2026-08-29T16:22:58.375160606Z",
   "model": "glm-5.3"
 }

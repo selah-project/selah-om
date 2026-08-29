@@ -5,8 +5,61 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 23,
-  "translation": "Yeroo gara muka inabaa maatii keetti seetu, inabaa finfinnee kee gedduutti baafachuu dandeessa; sararaan hin buus.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:29:06.905812308Z",
+  "translation": "Yoo gara marga dheerattoo kee dhaqqabde, baaqqee harkaan kee baadhachuu dandeessa; garuu maxxansaa marga dheerattoo kee irratti hin raawwadhin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dhaqqabde"
+    },
+    {
+      "surface": "בקמת",
+      "gloss": "marga dheerattoo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kee"
+    },
+    {
+      "surface": "וקטפת",
+      "gloss": "baadhachuu dandeessa"
+    },
+    {
+      "surface": "מלילת",
+      "gloss": "baaqqee"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harkaan kee"
+    },
+    {
+      "surface": "וחרמש",
+      "gloss": "maxxansaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "raawwadhin"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "marga dheerattoo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:18:04.031234791Z",
   "model": "glm-5.3"
 }

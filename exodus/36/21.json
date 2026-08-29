@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 36,
-  "translation": "Dheerinni laphicha tokko amaa kudhan ⟨is⟩ ture; bal'inni laphicha tokkoo amaa tokko fi walakkaa ⟨is⟩ ture.",
+  "translation": "Dheerina sararaa tokko amooshii kudhan ti; bal'ina sararaa tokko tokko ti amooshii tokko fi walakkaa.",
   "tokens": [
     {
       "surface": "עשר",
@@ -13,45 +13,41 @@
     },
     {
       "surface": "אמת",
-      "gloss": "amaa"
+      "gloss": "amooshii"
     },
     {
       "surface": "ארך",
-      "gloss": "dheerinni"
+      "gloss": "dheerina"
     },
     {
       "surface": "הקרש",
-      "gloss": "laphicha"
+      "gloss": "sararaa"
     },
     {
       "surface": "ואמה",
-      "gloss": "fi amaa"
+      "gloss": "fi amooshii tokko"
     },
     {
-      "surface": "ו",
-      "gloss": "fi"
-    },
-    {
-      "surface": "חצי",
-      "gloss": "walakkaa"
+      "surface": "וחצי",
+      "gloss": "fi walakkaa"
     },
     {
       "surface": "האמה",
-      "gloss": "amaicha"
+      "gloss": "amooshii"
     },
     {
       "surface": "רחב",
-      "gloss": "bal'inni"
+      "gloss": "bal'ina"
     },
     {
       "surface": "הקרש",
-      "gloss": "laphicha"
+      "gloss": "sararaa"
     },
     {
       "surface": "האחד",
-      "gloss": "tokkocha"
+      "gloss": "tokko"
     }
   ],
-  "timestamp": "2026-08-29T05:26:08.783894102Z",
+  "timestamp": "2026-08-29T16:17:06.149151806Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 12,
-  "translation": "Amma immoo kunoo, mootichi fuuldura keessaniin deema; aniis ijeeffadheera, ajeeffadheera; ilmaan kiyyas kunoo ⟨is⟩ ⟨את⟩ wajjin keessanii; aniis fuuldura keessaniin, da'ummoo koo irraa caalatti guyyaa kanaatti, deemeera.",
+  "translation": "Amma isaatti, ilaali, mootichi siinutti dura tureera; ani immoo geebaadhee ajajaadheera; ilaali, ilmaan koo isin wajjiinu; ani immoo siinutti anaan dura tureera, barri xiqummaa koo irraa hanga guyyaa kanaatti.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Amma immoo"
+      "gloss": "Amma isaatti"
     },
     {
       "surface": "הנה",
-      "gloss": "kunoo"
+      "gloss": "ilaali"
     },
     {
       "surface": "המלך",
@@ -21,55 +21,56 @@
     },
     {
       "surface": "מתהלך",
-      "gloss": "deema"
+      "gloss": "siinutti dura tureera"
     },
     {
       "surface": "לפניכם",
-      "gloss": "fuuldura keessaniin"
+      "gloss": "siinutti dura"
     },
     {
       "surface": "ואני",
-      "gloss": "aniis"
+      "gloss": "ani immoo"
     },
     {
       "surface": "זקנתי",
-      "gloss": "ijeeffadheera"
+      "gloss": "geebaadhee"
     },
     {
       "surface": "ושבתי",
-      "gloss": "ajeeffadheera"
+      "gloss": "ajajaadheera"
     },
     {
       "surface": "ובני",
-      "gloss": "ilmaan kiyyas"
+      "gloss": "ilmaan koo"
     },
     {
       "surface": "הנם",
-      "gloss": "kunoo"
+      "gloss": "ilaali, isin wajjiinu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ wajjin keessanii"
+      "gloss": "⟨את⟩ isin wajjin",
+      "marks": "isin"
     },
     {
       "surface": "ואני",
-      "gloss": "aniis"
+      "gloss": "ani immoo"
     },
     {
       "surface": "התהלכתי",
-      "gloss": "deemeera"
+      "gloss": "anaan dura tureera"
     },
     {
       "surface": "לפניכם",
-      "gloss": "fuuldura keessaniin"
+      "gloss": "siinutti dura"
     },
     {
       "surface": "מנערי",
-      "gloss": "da'ummoo koo irraa"
+      "gloss": "barri xiqummaa koo irraa"
     },
     {
       "surface": "עד",
-      "gloss": "caalatti"
+      "gloss": "hanga"
     },
     {
       "surface": "היום",
@@ -80,6 +81,6 @@
       "gloss": "kanaatti"
     }
   ],
-  "timestamp": "2026-08-29T14:42:23.611471525Z",
+  "timestamp": "2026-08-29T16:50:47.008821811Z",
   "model": "glm-5.3"
 }

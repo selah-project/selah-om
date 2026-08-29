@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 8,
-  "translation": "Jechi kiyyaa kun, waan ani fuula Yahwe dura t去 t去—kan ani fuula Yahwe dura ajajamuu koo — kan Yuusufuuf ani fuula Yahwe dura roorkoo koo, Yahwe Eloohiim keenyaatti dhihaatan haa ta'u guyyaa fi halkan, akka mootummaa... ",
+  "translation": "Jechoonni koo kun, waan ani Yahwe fuulduratti kufsiisaa irratti koo godhe, Yahwe Eloohiim keenyaatti dhihaa haa ta'an guyyaa fi halkan, akka muraa gabicha isaa fi muraa ummata isaa Israa'el raawwatan, waan guyyaa guyyaan isaa barbaachisu.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "haa ta'u"
+      "gloss": "haa ta'an"
     },
     {
       "surface": "דברי",
-      "gloss": "jechawwan kiyyaa"
+      "gloss": "jechoonni koo"
     },
     {
       "surface": "אלה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "התחננתי",
-      "gloss": "ani roorkoo koo"
+      "gloss": "kufsiisaa irratti koo godhe"
     },
     {
       "surface": "לפני",
-      "gloss": "fuula dura"
+      "gloss": "fuulduratti"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "קרבים",
-      "gloss": "dhihaatan"
+      "gloss": "dhihaa"
     },
     {
       "surface": "אל",
-      "gloss": "itti"
+      "gloss": "-tti"
     },
     {
       "surface": "יהוה",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "akka raawwatu"
+      "gloss": "akka raawwatan"
     },
     {
       "surface": "משפט",
-      "gloss": "murtii"
+      "gloss": "muraa"
     },
     {
       "surface": "עבדו",
-      "gloss": "adda isaa"
+      "gloss": "gabicha isaa"
     },
     {
       "surface": "ומשפט",
-      "gloss": "fi murtii"
+      "gloss": "fi muraa"
     },
     {
       "surface": "עמו",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "haadha guyyaa"
+      "gloss": "waan"
     },
     {
       "surface": "יום",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "guyyaa isaa keessatti"
+      "gloss": "guyyaan isaa"
     }
   ],
-  "timestamp": "2026-08-29T14:50:37.346443683Z",
+  "timestamp": "2026-08-29T16:52:19.290701797Z",
   "model": "glm-5.3"
 }

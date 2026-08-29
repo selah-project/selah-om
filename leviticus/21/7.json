@@ -5,8 +5,65 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 21,
-  "translation": "Hiikkaa dubartii raawwatuu yoo ta'e hima qofa; hin kennan.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:41:42.358772298Z",
+  "translation": "Dubartii raawwattoo fi kabajamtuu hin fudhatan; dubartii abbaa manaa ishee irraa baafamte hin fudhatan; sababa inni Eloohiim isaa tiif qulqullaa dha.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "raawwattoo"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "fi kabajamtuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "fudhatan"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "baafamte"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "abbaa manaa ishee irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "fudhatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "Eloohiim isaa tiif"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:26.524852240Z",
   "model": "glm-5.3"
 }

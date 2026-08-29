@@ -5,8 +5,53 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 52,
-  "translation": "Afuri, ka'i, olii ka'i, affeerii, Yerushaalayim; hanqinaa guruu kee babaldisi, gibdaa, intala Tsiiyon.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:14:17.186587615Z",
+  "translation": "Afura keessaa of-tum-tumedii, ka'i, teeffadhu, Yerushaalayim; hiikkoo mormaa kee of-bana, kan bara-ciccitaa teeffatte, intala Siyoon.",
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "of-tum-tumedii"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "afura keessaa"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "teeffadhu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "of-bana"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "hiikkoo"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "mormaa kee"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "kan bara-ciccitaa teeffatte"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:03.399436333Z",
   "model": "glm-5.3"
 }

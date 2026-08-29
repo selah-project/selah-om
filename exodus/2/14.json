@@ -5,8 +5,90 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 2,
-  "translation": "Ni jedhe: Eenyu bira si gootaa fi abbaa seeraa nu irratti godhee? Akkuma ajjeeiruutaa ajjeesaa jirtaaotta — וית tssee?",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:56:58.033807383Z",
+  "translation": "Inni immoo ni jedhe: “Eenyummaa si galfise nagaa fi abbaa seera keenya ta'uuf? Sitti dhugaa nyoolee ajjeesuu barbaaddaa, akka Gibxii ajjeefteetti?” Mosheen immoo ragadde, akkas jedhe: “Dhugaa, waanni kun beekamaa ta'eera.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inni immoo ni jedhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eenyummaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "si galfise"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nagaa ta'uuf"
+    },
+    {
+      "surface": "שר",
+      "gloss": "abbaa seera"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "fi abbaa seera"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "keenya irratti"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "nyolee ajjeesuu barbaaddaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sitti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "ajjeefteetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibxichaa (המצרי)"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Gibxichaa"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "Mosheen immoo ragadde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Dhugaa"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "beekamaa ta'eera"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waanni kun"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:14.879406467Z",
   "model": "glm-5.3"
 }

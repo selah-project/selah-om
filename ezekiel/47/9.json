@@ -5,8 +5,125 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 47,
-  "translation": "Waan jiru hundi, waan seel-soba kamiinuu, iddoo bakka tokko yeroo hunda yoo naannoleen argaman, ni jiraata; qurxummiiwwan baay'ee hedduu ta'u — sababa bishaanwan kana gara sanatti argamuuf, isaan fayyisamuuf; waan hundi bakka naachi sun namaamu irraa ni jiraatu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:17:40.368940350Z",
+  "translation": "Akkasumas ni ta'aa ta'a: lubbuu jireessaa hundi, waan naachaa dheessaa naachicha tokkoon tokkoo seenuutti ni jiraatta; qurxummiiwwan baay'ee guutuudhaan ni ta'u, sababiin bishoonni kun gara jiruutti yaa'aniif, ni fayyoomu; wanti naacha gara jiruutti yaa'u hundi ni jiraatta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Akkasumas ni ta'aa ta'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jireessaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ישרץ",
+      "gloss": "naachaa dheessaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tokkoon tokkoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seenuutti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jiruutti"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "naachicha"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ni jiraatta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ni ta'a"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "qurxummiiwwan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "guutuudhaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yaa'aniif"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara jiruutti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishoonni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וירפאו",
+      "gloss": "ni fayyoomu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ni jiraattu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yaa'u"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara jiruutti"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "naachicha"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:01.419761208Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,105 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 25,
-  "translation": "Yoo obboleewwan waliin jiraatan, isaaniis tokko du'e, ilmoolee (dhiiraa) isaatiinis hin qabaatu, niitiin du'aa hin fuudhamu nama diinaa (waraana) gargaarsa Godaansi Yuudaas amma hin barbaachisu dha; obboleessi (dheebbamaa) isheetiin wal-gargaarsa Godaansi Yuudaas hin barbaachisu dha.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:31:21.061386237Z",
+  "translation": "Yoo obboleeyyan waliin jiraatan, tokko isaaniitiinis du'e, ilmoota hin qabaatu, haadha manaa du'een hin heerarfamtu nama alaa tiif; yoobamaan ishee irraa seenuun ishee fudhachuun isaaf haadha manaa taasisa, yoobamummaa isheetiis raawwata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "obboleeyyan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaaniitii"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ilmoota"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabaatu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "heerarfamtu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "haadha manaa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "du'een"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nama tiif"
+    },
+    {
+      "surface": "זר",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יבמה",
+      "gloss": "yoobamaan ishee"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "irraa seenuun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "ishee fudhachuun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "haadha manaa taasisa"
+    },
+    {
+      "surface": "ויבמה",
+      "gloss": "yoobamummaa isheetiis raawwata"
+    }
+  ],
+  "timestamp": "2026-08-29T16:18:14.514417602Z",
   "model": "glm-5.3"
 }

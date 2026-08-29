@@ -5,8 +5,54 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 2,
-  "translation": "Qixa geessis daakaa Eden irraa bahe, ⟨את⟩ geessicha喂 water...",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:25:14.572901Z",
+  "translation": "Va'as miidhaan Edeniin ba'u bagannaa ⟨את⟩ bishaanis itti huuquuf; achii irraas akka mataa afuritti adda baafamee ta'e.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Va'as"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'u"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Edeniin"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "huuquuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagannaa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bagannaa"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "achii irraas"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "adda baafamee"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "afuritti"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mataa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:15:54.513399917Z",
   "model": "glm-5.3"
 }

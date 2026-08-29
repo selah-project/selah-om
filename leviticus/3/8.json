@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 3,
-  "translation": "Harka isaa ⟨את⟩ mataa qurbaana isaa irratti haara, isaa ⟨את⟩ ⟨אתו⟩ fuuldura teentii walga'ii ajjeesa; ilmooleen Aharoon immoo dhiiga isaa ⟨את⟩ masaraa irratti maratti facaafsu.",
+  "translation": "Hoo harka isaa mataa qorbii isaatti haara'u, dheessees duraan gaaffii walga'ii ti; ilmaan Aharooninis ⟨את⟩ dhiiga isaas irratti gabbata Martinii dheessu.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "haara"
+      "gloss": "haara'u"
     },
     {
       "surface": "את",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "qurbaana isaa"
+      "gloss": "qorbii isaa"
     },
     {
       "surface": "ושחט",
-      "gloss": "ajjeesa"
+      "gloss": "dheessees"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isaa"
+      "gloss": "⟨את⟩",
+      "marks": "isaas (qorbii sanaa)"
     },
     {
       "surface": "לפני",
-      "gloss": "fuuldura"
+      "gloss": "duraan"
     },
     {
       "surface": "אהל",
-      "gloss": "teentii"
+      "gloss": "gaaffii"
     },
     {
       "surface": "מועד",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "ni facaafsu"
+      "gloss": "dheessu"
     },
     {
       "surface": "בני",
-      "gloss": "ilmooleen"
+      "gloss": "ilmaan"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoon"
+      "gloss": "Aharooninis"
     },
     {
       "surface": "את",
@@ -80,13 +80,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "masaraa"
+      "gloss": "gabbata"
     },
     {
       "surface": "סביב",
-      "gloss": "maratti"
+      "gloss": "Martinii"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.131940432Z",
+  "timestamp": "2026-08-29T16:42:49.385974959Z",
   "model": "glm-5.3"
 }

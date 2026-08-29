@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 15,
-  "translation": "Yahweis Mosheetti jedhe: \"Dhiiraichi ajajamuu qaba; gareen hundi ⟨אתו⟩ dhagaa irratti rukutaa, mana mootummaa alatti.\"",
+  "translation": "Yahween Mosheetti jedhe: \"Namichi dhumaatti ajajamamu; gareen guutuun ⟨את⟩ isaa eebbii ibsaa mana-campii alatti.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "Yahween"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "-tti (godaa)"
     },
     {
       "surface": "משה",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "מות",
-      "gloss": "ajajamuu"
+      "gloss": "du'u"
     },
     {
       "surface": "יומת",
-      "gloss": "qaba"
+      "gloss": "ajajamu"
     },
     {
       "surface": "האיש",
-      "gloss": "dhiiraichi"
+      "gloss": "namichi"
     },
     {
       "surface": "רגום",
-      "gloss": "dhagaa irratti rukutaa"
+      "gloss": "eebbii ibsaa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dhagaa irratti rukutaa wantoo isa"
+      "marks": "isaa"
     },
     {
       "surface": "באבנים",
-      "gloss": "dhagaa"
+      "gloss": "ibsaa (eebbi)"
     },
     {
       "surface": "כל",
-      "gloss": "hundi"
+      "gloss": "guutuun"
     },
     {
       "surface": "העדה",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "mana mootummaa"
+      "gloss": "mana-campii"
     }
   ],
-  "timestamp": "2026-08-29T05:59:52.892811460Z",
+  "timestamp": "2026-08-29T16:46:27.215174466Z",
   "model": "glm-5.3"
 }

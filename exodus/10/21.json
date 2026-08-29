@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 10,
-  "translation": "Yahween Moshee jedhe: \"Harka kee samii irratti badi, fi iftuubbii samii ta'u; Madda gaaddisa tokko Gibxii irratti mul'is.\"",
+  "translation": "Yahweis Mosheein jedhe: \"Harka kee samii irratti'i, hiikkoon biyya Mitsraayim irratti haa ta'u, hiikkoon waan harkaan tuqamuu danda'u haa ta'u.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahween"
+      "gloss": "Yahweis"
     },
     {
       "surface": "אל",
-      "gloss": "akkana jedhu"
+      "gloss": "-iin (gara)"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "badi"
+      "gloss": "itti'i"
     },
     {
       "surface": "ידך",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "ta'u"
+      "gloss": "haa ta'u"
     },
     {
       "surface": "חשך",
-      "gloss": "gaaddisa"
+      "gloss": "hiikkoon"
     },
     {
       "surface": "על",
-      "gloss": "irra"
+      "gloss": "irratti"
     },
     {
       "surface": "ארץ",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "וימש",
-      "gloss": "tuquu danda'amsiis"
+      "gloss": "waan tuqamuu danda'u"
     },
     {
       "surface": "חשך",
-      "gloss": "gaaddisa"
+      "gloss": "hiikkoo"
     }
   ],
-  "timestamp": "2026-08-29T05:00:14.248539118Z",
+  "timestamp": "2026-08-29T16:40:11.809485271Z",
   "model": "glm-5.3"
 }

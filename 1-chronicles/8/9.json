@@ -5,8 +5,61 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 8,
-  "translation": "Ammas mana duraatti osoo jiruu Baaraa hiikkoo; Hushiim fi Baaraa dubartoota isaa turan — kanarraa akka fakkeenyaatti Kudus gargar baaf, shaakala isaa Abdeeja fi Aharoon",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:32:36.876829047Z",
+  "translation": "Isheen [da'umsa] Hodesh, duraatiin ṭoophatii isaatti dhalche: Yoobaab ⟨את⟩, Tsibyaa ⟨את⟩, Meeshaa ⟨את⟩ fi Malkaam ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "duraatiin ṭoophatii isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoobaab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yoobaab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Tsibyaa"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsibyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Meeshaa"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meeshaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Malkaam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkaam"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:31.878992706Z",
   "model": "glm-5.3"
 }

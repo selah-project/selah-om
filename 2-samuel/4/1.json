@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 4,
-  "translation": "Bu'aan Sha'uul yeroo Avneer Chebron keessatti du'e dhageefu, harki isaa dadhabde, Yisra'el hundinis sodate.",
+  "translation": "Ijoolleen Sha'uul Abneer Chebrootiin du'e dhageessee, harka isaa dadhabe, Israa'ieliin hundi ajaa'ibsiifatan.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "dhageefu"
+      "gloss": "dhageessee"
     },
     {
       "surface": "בן",
-      "gloss": "bu'aan"
+      "gloss": "ijoolleen"
     },
     {
       "surface": "שאול",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "waan"
+      "gloss": "akka"
     },
     {
       "surface": "מת",
@@ -29,29 +29,33 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Avneer"
+      "gloss": "Abneer"
     },
     {
       "surface": "בחברון",
-      "gloss": "Chebron keessatti"
+      "gloss": "Chebrootiin"
     },
     {
       "surface": "וירפו",
-      "gloss": "dadhabde"
+      "gloss": "dadhabe"
     },
     {
       "surface": "ידיו",
-      "gloss": "harki isaa"
+      "gloss": "harka isaa"
     },
     {
-      "surface": "וישראל",
-      "gloss": "Yisra'el hundinis"
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'ieliin"
     },
     {
       "surface": "נבהלו",
-      "gloss": "sodate"
+      "gloss": "ajaa'ibsiifatan"
     }
   ],
-  "timestamp": "2026-08-29T07:46:01.191323605Z",
+  "timestamp": "2026-08-29T16:19:18.723700623Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":37,"ref":"1-kings 18:37","book":"1-kings","lang":"om","chapter":18,"translation":"Na deebisi, yaa Yahwe, na deebisi; akkasumas ummatni kun Ati Yahwe, Ati Eloohiim ta'uu akka beekuuf, fi Ati ⟨את⟩ onnee isaanii duuba ⟨את⟩ deebisite.","tokens":[{"surface":"ענני","gloss":"na deebisi"},{"surface":"יהוה","gloss":"yaa Yahwe"},{"surface":"ענני","gloss":"na deebisi"},{"surface":"וידעו","gloss":" akka beekuuf"},{"surface":"העם","gloss":"ummatni"},{"surface":"הזה","gloss":"kun"},{"surface":"כי","gloss":" — "},{"surface":"אתה","gloss":"Ati"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"האלהים","gloss":"Eloohiim"},{"surface":"ואתה","gloss":""},{"surface":"הסבת","gloss":"fi Ati"},{"surface":"את","gloss":"⟨את⟩ deebisite"},{"surface":"לבם","gloss":"⟨את⟩","marks":"onnee isaanii"},{"surface":"אחרנית","gloss":"onnee isaanii duuba"}],"timestamp":"2026-08-29T08:19:25.588110822Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Na deebisi, Yahwe, na deebisi, akkasumas ummatti kun ati Yahwe, Eloohiimicha, akka taate hubachuuf; fi ati ⟨את⟩ onnee isaanii gara duubaa deebisiteetta.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "na deebisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "na deebisi"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "akkasumas hubachuuf"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimicha"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fi ati"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "deebisiteetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee isaanii"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "gara duubaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:52:47.445757872Z",
+  "model": "glm-5.3"
+}

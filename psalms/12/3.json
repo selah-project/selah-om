@@ -5,54 +5,50 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 12,
-  "translation": "Sobaa nama tokkaan tokkoisaa wajjin ni dubbatu ⟨את⟩; lafe qopheessaa fi onneedhaan ondodiitti ni dubbatu.",
+  "translation": "Sobdu nama tokko ⟨את⟩ maatii isaa wajjin dubbata; liphee-simachiisa; onnee tokkofi onnee tokko wajjin dubbata.",
   "tokens": [
     {
       "surface": "שוא",
-      "gloss": "sobaa"
+      "gloss": "sobdu"
     },
     {
       "surface": "ידברו",
-      "gloss": "ni dubbatu"
+      "gloss": "dubbata"
     },
     {
       "surface": "איש",
-      "gloss": "nama"
+      "gloss": "nama tokko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tokkoisaa"
+      "marks": "maatii isaa"
     },
     {
       "surface": "רעהו",
-      "gloss": "tokkoisaa"
+      "gloss": "maatii isaa"
     },
     {
       "surface": "שפת",
-      "gloss": "lafe"
+      "gloss": "liphee-simachiisa"
     },
     {
       "surface": "חלקות",
-      "gloss": "qopheessaa"
+      "gloss": "simachiisa"
     },
     {
       "surface": "בלב",
-      "gloss": "onneedhaan"
+      "gloss": "onnee tokko"
     },
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "לב",
-      "gloss": "ondodiitti"
+      "surface": "ולב",
+      "gloss": "onnee tokko"
     },
     {
       "surface": "ידברו",
-      "gloss": "ni dubbatu"
+      "gloss": "dubbata"
     }
   ],
-  "timestamp": "2026-08-29T11:12:57.258218262Z",
+  "timestamp": "2026-08-29T16:22:57.012188997Z",
   "model": "glm-5.3"
 }

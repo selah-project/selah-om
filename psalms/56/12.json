@@ -5,27 +5,27 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 56,
-  "translation": "Waaqayyo irratti natti amana; wanti namaan naa godhu homaatu — natti sobuu hin qabu.",
+  "translation": "Eloohiim irratti amanee jireera; maaltu namaa naa godhu jedhee hin sodaadhu.",
   "tokens": [
     {
       "surface": "באלהים",
-      "gloss": "Waaqayyo irratti"
+      "gloss": "Eloohiim irratti"
     },
     {
       "surface": "בטחתי",
-      "gloss": "natti amana"
+      "gloss": "amanee jireera"
     },
     {
       "surface": "לא",
-      "gloss": "hin qabu"
+      "gloss": "hin"
     },
     {
       "surface": "אירא",
-      "gloss": "natti sobuu"
+      "gloss": "sodaadhu"
     },
     {
       "surface": "מה",
-      "gloss": "wanti"
+      "gloss": "maaltu"
     },
     {
       "surface": "יעשה",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "אדם",
-      "gloss": "namaan"
+      "gloss": "namaa"
     },
     {
       "surface": "לי",
       "gloss": "naa"
     }
   ],
-  "timestamp": "2026-08-29T11:28:43.225716492Z",
+  "timestamp": "2026-08-29T17:01:02.959078107Z",
   "model": "glm-5.3"
 }

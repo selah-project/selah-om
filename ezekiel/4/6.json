@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "ezekiel 4:6",
-  "book": "ezekiel",
-  "lang": "om",
-  "chapter": 4,
-  "translation": "Kun ⟨את⟩ waanatan xumurraysee, irra deebi'ee gara mirgaattii hinnaatta; kudhan-lama fi sadii guutuu עוֹן... ",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:59:10.634292905Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":6,"ref":"ezekiel 4:6","book":"ezekiel","lang":"om","chapter":4,"translation":"Yeroo waan kana xumurtu, lammaffaa irratti ka'ee cicha kee mirgaa irratti lixxuudhaan, ⟨את⟩ yakka mana Yahuudaa afurtam guutuuwwan baafatta: guutuu tokko waggaa tokkoof, guutuu tokko waggaa tokkoof — anaan siif kenne.","tokens":[{"surface":"וכלית","gloss":"yeroo... xumurtu"},{"surface":"את","gloss":"⟨את⟩","marks":"waan kana"},{"surface":"אלה","gloss":"waan kana"},{"surface":"ושכבת","gloss":"lixxuudhaan"},{"surface":"על","gloss":"irratti"},{"surface":"צדך","gloss":"cicha kee"},{"surface":"הימיני","gloss":"mirgaa"},{"surface":"שנית","gloss":"lammaffaa"},{"surface":"ונשאת","gloss":"baafatta"},{"surface":"את","gloss":"⟨את⟩","marks":"yakka mana Yahuudaa"},{"surface":"עון","gloss":"yakka"},{"surface":"בית","gloss":"mana"},{"surface":"יהודה","gloss":"Yahuudaa"},{"surface":"ארבעים","gloss":"afurtam"},{"surface":"יום","gloss":"guutuuwwan"},{"surface":"יום","gloss":"guutuu tokko"},{"surface":"לשנה","gloss":"waggaa tokkoof"},{"surface":"יום","gloss":"guutuu tokko"},{"surface":"לשנה","gloss":"waggaa tokkoof"},{"surface":"נתתיו","gloss":"anaan... kenne"},{"surface":"לך","gloss":"siif"}],"timestamp":"2026-08-29T16:21:48.506514622Z","model":"glm-5.3"}

@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 13,
-  "translation": "Jecha ⟨את⟩ dhuma kan ani isin ajaju, ⟨אתו⟩ isin eegasaa, hojjachuuf; isa irratti hin dabalinaa, isaa irraas hin hir'inaa.",
+  "translation": "⟨את⟩ jecha hunduma waan ani ⟨את⟩ isin ajaju, ⟨את⟩ san eegaa godhaa; irratti hin dabalinaa, isaa irraas hin hir'isinaa.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jecha dhuma"
+      "marks": "jecha hunduma"
     },
     {
       "surface": "כל",
-      "gloss": "dhuma"
+      "gloss": "hunduma"
     },
     {
       "surface": "הדבר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kan"
+      "gloss": "waan"
     },
     {
       "surface": "אנכי",
@@ -30,24 +30,25 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "ajaju"
+      "gloss": "ajaja"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ isin"
+      "gloss": "⟨את⟩",
+      "marks": "isin"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jecha"
+      "marks": "san"
     },
     {
       "surface": "תשמרו",
-      "gloss": "eegasaa"
+      "gloss": "eegaa"
     },
     {
       "surface": "לעשות",
-      "gloss": "hojjachuuf"
+      "gloss": "godhaa"
     },
     {
       "surface": "לא",
@@ -59,21 +60,21 @@
     },
     {
       "surface": "עליו",
-      "gloss": "isa irratti"
+      "gloss": "irratti"
     },
     {
       "surface": "ולא",
-      "gloss": "hin"
+      "gloss": "fi hin"
     },
     {
       "surface": "תגרע",
-      "gloss": "hir'inaa"
+      "gloss": "hir'isinaa"
     },
     {
       "surface": "ממנו",
       "gloss": "isaa irraa"
     }
   ],
-  "timestamp": "2026-08-29T14:36:20.748539986Z",
+  "timestamp": "2026-08-29T16:47:15.431988216Z",
   "model": "glm-5.3"
 }

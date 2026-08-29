@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 7,
-  "translation": "Jecha keetiitiif, akkasumas akka onnee keetti, guddina aa daangaa hin qabne kana hunda taasiftee, akka barsiisuu kan gabbaraa kee ⟨את⟩ <את> waan kana beeksifteef.",
+  "translation": "Jecha keenyaaf, akka onnee keetiitiin, guddina guutuu kana hojjatte, akka gabbeessa keetti beeksifuf.",
   "tokens": [
     {
       "surface": "בעבור",
-      "gloss": "tiif"
+      "gloss": "jecha keenyaaf"
     },
     {
       "surface": "דברך",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "וכלבך",
-      "gloss": "akka onnee keetti"
+      "gloss": "akkas onnee kee"
     },
     {
       "surface": "עשית",
-      "gloss": "taasiftee"
+      "gloss": "hojjatte"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ <את>",
-      "marks": "guddina hunda"
+      "gloss": "⟨את⟩",
+      "marks": "guddina guutuu kana"
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "guutuu"
     },
     {
       "surface": "הגדולה",
@@ -42,18 +42,18 @@
     },
     {
       "surface": "להודיע",
-      "gloss": "beeksifteef"
+      "gloss": "beeksifuf"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ <את>",
-      "marks": "gabbaraa kee"
+      "gloss": "⟨את⟩",
+      "marks": "gabbeessa keetti"
     },
     {
       "surface": "עבדך",
-      "gloss": "gabbaraa kee"
+      "gloss": "gabbeessa kee"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.084876432Z",
+  "timestamp": "2026-08-29T16:51:08.254339982Z",
   "model": "glm-5.3"
 }

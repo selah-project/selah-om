@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 3,
-  "translation": "Ummata ⟨את⟩ ajajaniitti jedhan: '⟨את⟩ sanduqa kakuu Yahwe Eloohiim keessan, kan koneytonni Leewi qaalan, yoo argattan, isin bakka keessan irraa ka'aa, ⟨את⟩ ⟨אתו⟩ isaa hordofaa.'",
+  "translation": "Sararan akkaawwatanis ⟨את⟩ ummata ajajani “Yeroo kanaan ⟨את⟩ sanduqa kakuu Yahwe Eloohiim keessan argattan, kemalee abbbootiin qulqullummaa Leewiwwanii kan sanduqa ⟨את⟩ sana baatan, isin teessoo keessan irraa sochoodhaan, booda isaa deemaadhaa” jedhan.",
   "tokens": [
     {
       "surface": "ויצוו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "כראותכם",
-      "gloss": "yoo argattan"
+      "gloss": "Yeroo kanaan…argattan"
     },
     {
       "surface": "את",
@@ -51,20 +51,19 @@
     },
     {
       "surface": "והכהנים",
-      "gloss": "kan koneytonni"
+      "gloss": "kemalee abbbootiin qulqullummaa"
     },
     {
       "surface": "הלוים",
-      "gloss": "Leewi"
+      "gloss": "Leewiwwanii"
     },
     {
       "surface": "נשאים",
-      "gloss": "qaalan"
+      "gloss": "baatan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isaa"
+      "gloss": "⟨את⟩ sana"
     },
     {
       "surface": "ואתם",
@@ -72,21 +71,21 @@
     },
     {
       "surface": "תסעו",
-      "gloss": "ka'aa"
+      "gloss": "sochoodhaan"
     },
     {
       "surface": "ממקומכם",
-      "gloss": "bakka keessan irraa"
+      "gloss": "teessoo keessan irraa"
     },
     {
       "surface": "והלכתם",
-      "gloss": "hordofaa"
+      "gloss": "deemaadhaa"
     },
     {
       "surface": "אחריו",
-      "gloss": "isaa"
+      "gloss": "booda isaa"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.141404188Z",
+  "timestamp": "2026-08-29T16:49:01.803011401Z",
   "model": "glm-5.3"
 }

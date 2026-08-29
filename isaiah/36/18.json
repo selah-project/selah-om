@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "isaiah 36:18",
-  "book": "isaiah",
-  "lang": "om",
-  "chapter": 36,
-  "translation": "Akka Hizqiyaas isin ⟨את⟩ hin gorsinuuf — \"Yahwe nu baraara\" jedhuun — nama tokkollee nuti hin jedhin; seenaa laata. Maqoota sabaa, kamiinuu ogeessa Isaayaa-mu ala, biyya isaa ofii kan mootii Ashur harka baaseeraa?",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:58:16.683902600Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":18,"ref":"isaiah 36:18","book":"isaiah","lang":"om","chapter":36,"translation":"Akka Chizkiyahuun ⟨את⟩ isin muddisuu, “Yahwe nu baafata” jedhuun — miti; Eloohiimoonni sabaa'ootaa, tokko tokkoon ⟨את⟩ biyya isaa harka mootii Ashur irraa baafataniiraa?","tokens":[{"surface":"פן","gloss":"akka...miti"},{"surface":"יסית","gloss":"muddisuu"},{"surface":"אתכם","gloss":"⟨את⟩ isin","marks":"Chizkiyahu"},{"surface":"חזקיהו","gloss":"Chizkiyahu"},{"surface":"לאמר","gloss":"jedhuun"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"יצילנו","gloss":"nu baafata"},{"surface":"ההצילו","gloss":"baafataniiraa"},{"surface":"אלהי","gloss":"Eloohiim"},{"surface":"הגוים","gloss":"sabaa'ootaa"},{"surface":"איש","gloss":"tokko tokkoon"},{"surface":"את","gloss":"⟨את⟩","marks":"biyya isaa"},{"surface":"ארצו","gloss":"biyya isaa"},{"surface":"מיד","gloss":"harka"},{"surface":"מלך","gloss":"mootii"},{"surface":"אשור","gloss":"Ashur"}],"timestamp":"2026-08-29T16:20:35.330895934Z","model":"glm-5.3"}

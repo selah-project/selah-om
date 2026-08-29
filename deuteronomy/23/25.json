@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "deuteronomy 23:25",
-  "book": "deuteronomy",
-  "lang": "om",
-  "chapter": 23,
-  "translation": "Yeroo gara midhdiin inabaa maatii keetti yaatu, gara lafeen keetti hundeeffame ni cabsaa; sararaan hin buus.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:29:06.905494055Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":25,"ref":"deuteronomy 23:25","book":"deuteronomy","lang":"om","chapter":23,"translation":"Yeroo boora waanee meeqqaa kee seetu, waanee akka fedhii lubbuu kee, hanga guuttuu kee nyaachuu dandeessa; garuu meeshaa keetti hin kaa'u.","tokens":[{"surface":"כי","gloss":"yeroo"},{"surface":"תבא","gloss":"seetu"},{"surface":"בכרם","gloss":"boora waanee"},{"surface":"רעך","gloss":"meeqqaa kee"},{"surface":"ואכלת","gloss":"nyaachuu dandeessa"},{"surface":"ענבים","gloss":"waanee"},{"surface":"כנפשך","gloss":"akka fedhii lubbuu kee"},{"surface":"שבעך","gloss":"hanga guuttuu kee"},{"surface":"ואל","gloss":"garuu... kaa'u irratti"},{"surface":"כליך","gloss":"meeshaa keetti"},{"surface":"לא","gloss":"hin"},{"surface":"תתן","gloss":"kaa'u"}],"timestamp":"2026-08-29T16:18:27.029136465Z","model":"glm-5.3"}

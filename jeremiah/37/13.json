@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "jeremiah 37:13",
-  "book": "jeremiah",
-  "lang": "om",
-  "chapter": 37,
-  "translation": "Yeroo Innis balbala Binjamiinitti buluu, abbaan to'annoo maqaa isaa Yir'iyaa hundee Sheelemyaah, hundee Chaananyaa ta'e si'a jira; ni tuqame Yirmiyaah sanyii Waaqaa kan dubbatu innis akka akka Waaqaa nagaa akka hiikkamu ni jedhe kan Kishdiyyotatti kufaa jirtu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:49:32.916196188Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":13,"ref":"jeremiah 37:13","book":"jeremiah","lang":"om","chapter":37,"translation":"Yeroo inni balbala Benyaamiinitti ga'u, abbaan to'annoo tokko siatuutti — maqaan isaas Yir'iyaaheeti, ilma Shelemyaa, ilma Hananyaa — innis Yirmiyaah raajichoo ⟨את⟩ nan qabadhe jedhe, 'Ati gara kasdiwwaniif nan kufaa jirta.'","tokens":[{"surface":"ויהי","gloss":"yeroo... ta'e"},{"surface":"הוא","gloss":"inni"},{"surface":"בשער","gloss":"balbala irratti"},{"surface":"בנימן","gloss":"Benyaamiin"},{"surface":"ושם","gloss":"siatuutti"},{"surface":"בעל","gloss":"abbaa"},{"surface":"פקדת","gloss":"to'annoo"},{"surface":"ושמו","gloss":"maqaan isaas"},{"surface":"יראייה","gloss":"Yir'iyaahaa"},{"surface":"בן","gloss":"ilma"},{"surface":"שלמיה","gloss":"Shelemyaa"},{"surface":"בן","gloss":"ilma"},{"surface":"חנניה","gloss":"Hananyaa"},{"surface":"ויתפש","gloss":"qabadhe"},{"surface":"את","gloss":"⟨את⟩","marks":"Yirmiyaah raajichoo"},{"surface":"ירמיהו","gloss":"Yirmiyaah"},{"surface":"הנביא","gloss":"raajichoo"},{"surface":"לאמר","gloss":"nan jedhe"},{"surface":"אל","gloss":"gara"},{"surface":"הכשדים","gloss":"kasdiwwaniif"},{"surface":"אתה","gloss":"ati"},{"surface":"נפל","gloss":"kufaa jirta"}],"timestamp":"2026-08-29T16:22:30.211016646Z","model":"glm-5.3"}

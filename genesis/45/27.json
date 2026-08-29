@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 45,
-  "translation": "Jechoota Yoosiph isaaniif jedhe hunda isaatti dubbatan; gaaridleeydhaan Yoosiph isa baafatu ergamsiise san argu san ammoo, ruuhii Yaaqoob abbaa isaanii jiraachaa'e.",
+  "translation": "Isaanitti ergaa Yoosifii isa hunda ⟨את⟩ dubbachuu isaa kan isaanitti jedhe dubbatan; gaariclee Yoosifiin ergametti argu ⟨את⟩ gaariclee yoosifii itti ergame isaa (Ya'aqob) ba'achuuf, yaada-nyaachuu Ya'aqob abbaa isaanii jiraatte.",
   "tokens": [
     {
       "surface": "וידברו",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "אליו",
-      "gloss": "isaatti"
+      "gloss": "isaanitti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jechoota hunda"
+      "marks": "ergaa isa hunda"
     },
     {
       "surface": "כל",
@@ -26,23 +26,23 @@
     },
     {
       "surface": "דברי",
-      "gloss": "jechoota"
+      "gloss": "ergaa"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yoosiph"
+      "gloss": "Yoosifii"
     },
     {
       "surface": "אשר",
-      "gloss": "jedhe"
+      "gloss": "kan"
     },
     {
       "surface": "דבר",
-      "gloss": "jedhe"
+      "gloss": "dubbachuu isaa"
     },
     {
       "surface": "אלהם",
-      "gloss": "isaaniif"
+      "gloss": "isaanitti"
     },
     {
       "surface": "וירא",
@@ -51,50 +51,50 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gaaridleeydhaan"
+      "marks": "gaariclee"
     },
     {
       "surface": "העגלות",
-      "gloss": "gaaridleeydhaan"
+      "gloss": "gaariclee"
     },
     {
       "surface": "אשר",
-      "gloss": "san"
+      "gloss": "kan"
     },
     {
       "surface": "שלח",
-      "gloss": "ergamsiise"
+      "gloss": "ergame"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yoosiph"
+      "gloss": "Yoosifiin"
     },
     {
       "surface": "לשאת",
-      "gloss": "baafatu"
+      "gloss": "ba'achuuf"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isa"
+      "gloss": "⟨את⟩ isaa",
+      "marks": "isaa (Ya'aqob, ba'amuuf)"
     },
     {
       "surface": "ותחי",
-      "gloss": "jiraachaa'e"
+      "gloss": "jiraatte"
     },
     {
       "surface": "רוח",
-      "gloss": "ruuhii"
+      "gloss": "yaada-nyaachuu"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaaqoob"
+      "gloss": "Ya'aqob"
     },
     {
       "surface": "אביהם",
       "gloss": "abbaa isaanii"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.092152445Z",
+  "timestamp": "2026-08-29T16:40:18.417892713Z",
   "model": "glm-5.3"
 }

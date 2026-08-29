@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 29,
-  "translation": "Lakkoofsa torbaani ‹› kan altara irratti kaffalduu godhita; ‹אתו› haa qulqulleessituuttii; ‹kan dha› kan ‹dha› ‹kan dha› altaraan haaraa haaraa ‹dha›, kan altara tokko qaban hundi haaraa ‹dha›.",
+  "translation": "Torbaan guyyaa waaqqee irratti araaraa godhita, akkasumas ⟨את⟩ isaa ni qulqulleessita; waaqqeen sun qulqullummaa qulqullumootaa ta'a; waan waaqqee sanaan tuqamu hundi ni qulqulleessama.",
   "tokens": [
     {
       "surface": "שבעת",
-      "gloss": "torbaani"
+      "gloss": "Torbaan"
     },
     {
       "surface": "ימים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תכפר",
-      "gloss": "kaffalduu godhita"
+      "gloss": "araaraa godhita"
     },
     {
       "surface": "על",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altara"
+      "gloss": "waaqqee"
     },
     {
       "surface": "וקדשת",
-      "gloss": "haa qulqulleessituuttii"
+      "gloss": "akkasumas ni qulqulleessita"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "altara"
+      "gloss": "⟨את⟩",
+      "marks": "isaa (waaqqee sana)"
     },
     {
       "surface": "והיה",
-      "gloss": "haa ta'u"
+      "gloss": "ta'a"
     },
     {
       "surface": "המזבח",
-      "gloss": "altarri"
+      "gloss": "waaqqeen sun"
     },
     {
       "surface": "קדש",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "qulqullummaa"
+      "gloss": "qulqullumootaa"
     },
     {
       "surface": "כל",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "kan qabu"
+      "gloss": "kan tuqamu"
     },
     {
       "surface": "במזבח",
-      "gloss": "altarra"
+      "gloss": "waaqqee sanaan"
     },
     {
       "surface": "יקדש",
-      "gloss": "haaraa ta'a"
+      "gloss": "ni qulqulleessama"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.103552982Z",
+  "timestamp": "2026-08-29T16:42:19.457436535Z",
   "model": "glm-5.3"
 }

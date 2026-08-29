@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 18,
-  "translation": "Araddoo obboleettii haadha kee hin mul'ifatin; qarfii haadha kee <haadha kee> inni <du'a> — inni <du'a> niiti; inni <maati> haadha kee <du'a>.",
+  "translation": "Hadhaa obboleettii haadha manaa kee hin mul'isu; kanatti, inni dheecha haadha manaa kee ti.",
   "tokens": [
     {
       "surface": "ערות",
-      "gloss": "araddoo"
+      "gloss": "hadhaa"
     },
     {
       "surface": "אחות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמך",
-      "gloss": "haadha kee"
+      "gloss": "haadha manaa kee"
     },
     {
       "surface": "לא",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "תגלה",
-      "gloss": "mul'ifatin"
+      "gloss": "mul'isu"
     },
     {
       "surface": "כי",
-      "gloss": "waan"
+      "gloss": "kanatti"
     },
     {
       "surface": "שאר",
-      "gloss": "maati"
+      "gloss": "dheecha"
     },
     {
       "surface": "אמך",
-      "gloss": "haadha kee"
+      "gloss": "haadha manaa kee"
     },
     {
       "surface": "הוא",
-      "gloss": "inni <du'a>"
+      "gloss": "inni"
     }
   ],
-  "timestamp": "2026-08-29T05:40:44.382361872Z",
+  "timestamp": "2026-08-29T16:43:52.345170060Z",
   "model": "glm-5.3"
 }

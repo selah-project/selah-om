@@ -5,24 +5,24 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 9,
-  "translation": "Mootichi ⟨את⟩ mukoota algumii miila-dhiibaa mana Yahweefi mana mootichaa godhe, foolaroota fi kanbarootas laaltotaaf; akka isaanii duratti biyya Yahuudaatti hin mul'anne.",
+  "translation": "Mootummaan immoo mukewwan algumii ⟨את⟩ daandii gadi-bu'aa mana Yahweefi mana mootummaatti, akkasumas kinnaroota fi neebiloota shallagootaaf hojjeche; akkasuma fakkaatan isaanii yeroo duraatti biyya Yehuudaatti hin mul'anne.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "godhe"
+      "gloss": "hojjeche"
     },
     {
       "surface": "המלך",
-      "gloss": "mootichi"
+      "gloss": "Mootummaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mukoota algumii"
+      "marks": "mukewwan algumii"
     },
     {
       "surface": "עצי",
-      "gloss": "mukoota"
+      "gloss": "mukewwan"
     },
     {
       "surface": "האלגומים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "מסלות",
-      "gloss": "miila-dhiibaa"
+      "gloss": "daandii gadi-bu'aa"
     },
     {
       "surface": "לבית",
@@ -38,27 +38,27 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweef"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ולבית",
-      "gloss": "mana"
+      "gloss": "akkasumas mana"
     },
     {
       "surface": "המלך",
-      "gloss": "mootichaa"
+      "gloss": "mootummaa"
     },
     {
       "surface": "וכנרות",
-      "gloss": "foolarootas"
+      "gloss": "akkasumas kinnaroota"
     },
     {
       "surface": "ונבלים",
-      "gloss": "kanbarootas"
+      "gloss": "neebiloota"
     },
     {
       "surface": "לשרים",
-      "gloss": "laaltotaaf"
+      "gloss": "shallagootaaf"
     },
     {
       "surface": "ולא",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "כהם",
-      "gloss": "akkа isaanii"
+      "gloss": "fakkaatan isaaniiti"
     },
     {
       "surface": "לפנים",
-      "gloss": "duratti"
+      "gloss": "yeroo duraatti"
     },
     {
       "surface": "בארץ",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahuudaatti"
+      "gloss": "Yehuudaatti"
     }
   ],
-  "timestamp": "2026-08-29T15:42:05.662990259Z",
+  "timestamp": "2026-08-29T17:05:55.938254707Z",
   "model": "glm-5.3"
 }

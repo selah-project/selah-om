@@ -5,8 +5,57 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 21,
-  "translation": "Hiikkaa calaphaa mataa isaanii irraa hin godhatan; daangaa gogaa isaanii hin saffisan; fi lafa isaanii irratti_cutting hin godhatan.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:41:42.357918305Z",
+  "translation": "Mataa isaanii irratti gelaaggalaa hin godhaatu, daangaa gogaa isaanii hin riibanu, fi lafa isaanii keessatti marama hin moo'atu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "gelaaggalaa godhaatu"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "gelaaggalaa"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "mataa isaanii irratti"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "fi daangaa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "gogaa isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "riibanu"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "fi lafa isaanii keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "moo'atu"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "marama"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:19.199315144Z",
   "model": "glm-5.3"
 }

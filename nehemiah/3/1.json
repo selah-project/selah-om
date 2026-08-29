@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "nehemiah 3:1",
-  "book": "nehemiah",
-  "lang": "om",
-  "chapter": 3,
-  "translation": "Eelyaashiibin ka'ee, isaa wajjin abbatiin hojjetaa olaanaa fi obboleeyyan isaa hojjettoota; balbala hoolaa iyyaan iyyu iyyan ⟨את⟩ balbala hoolaa; isaan qulqulleessan, balbaloota isaa dhaabbisanii; hanga muk-dhidhiggicha Dhibbaattiis qulqulleessan, hanga muk-dhidhiggicha Xananelitti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:21:06.097376249Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":1,"ref":"nehemiah 3:1","book":"nehemiah","lang":"om","chapter":3,"translation":"Eeljaashibiin ooftaan guddaan obboleeywan isaa oofanniin waliin ka'e; balbala hoolaa ijuu ⟨את⟩ — isaan qulqulleessan; baaltota isaa dhaabbisanis; hanga sirna Mittii isaaniis qulqulleessan, hanga sirna Hanaan'eeliiti.","tokens":[{"surface":"ויקם","gloss":"ka'e"},{"surface":"אלישיב","gloss":"Eeljaashibiin"},{"surface":"הכהן","gloss":"ooftaan"},{"surface":"הגדול","gloss":"guddaan"},{"surface":"ואחיו","gloss":"obboleeywan isaa"},{"surface":"הכהנים","gloss":"oofannonni"},{"surface":"ויבנו","gloss":"ijuudhaan"},{"surface":"את","gloss":"⟨את⟩","marks":"balbala hoolaa"},{"surface":"שער","gloss":"balbala"},{"surface":"הצאן","gloss":"hoolaa"},{"surface":"המה","gloss":"isaan"},{"surface":"קדשוהו","gloss":"qulqulleessan"},{"surface":"ויעמידו","gloss":"dhaabbisanis"},{"surface":"דלתתיו","gloss":"baaltota isaa"},{"surface":"ועד","gloss":"hanga"},{"surface":"מגדל","gloss":"sirna"},{"surface":"המאה","gloss":"Mittii"},{"surface":"קדשוהו","gloss":"qulqulleessan"},{"surface":"עד","gloss":"hanga"},{"surface":"מגדל","gloss":"sirna"},{"surface":"חננאל","gloss":"Hanaan'eeliiti"}],"timestamp":"2026-08-29T16:25:00.943920837Z","model":"glm-5.3"}

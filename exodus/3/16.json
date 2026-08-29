@@ -5,36 +5,36 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 3,
-  "translation": "Adeemi, seenaan Israa'iel ⟨את⟩ qabachiisi; isaanitti akkuma kanaan jedhi: 'Yahwe, Eloohiimtiin abbootii keessan — Eloohiimtiin Avrahaam, Is-haaq fi Ya'aqob — natti mul'ate, jedhuun: qabadachuu qabadadheera ⟨את⟩ keessan,ifi ⟨את⟩ waan isiniif Mitsraayim keessatti hojjatame.'",
+  "translation": "Aaddeetti, dagagaadhuun beelaawota Israa'eli, himaadhuus: \"Yahwe, Eloohiim abbootii keessan, Eloohiim Avrahaam, Yitsaaq fi Yaaaqoob, natti mul'ate akka jedhu: Dhugumatti ani isin daawwadheere, ⟨את⟩ waan isiniif ta'e Mishraayim keessattis argadheere.\"",
   "tokens": [
     {
       "surface": "לך",
-      "gloss": "adeemi"
+      "gloss": "Aaddeetti"
     },
     {
       "surface": "ואספת",
-      "gloss": "qabachiisi"
+      "gloss": "dagagaadhuun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seenaan Israa'iel"
+      "marks": "beelaawota"
     },
     {
       "surface": "זקני",
-      "gloss": "seenaan"
+      "gloss": "beelaawota"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'iel"
+      "gloss": "Israa'eli"
     },
     {
       "surface": "ואמרת",
-      "gloss": "jedhit"
+      "gloss": "himaadhuus"
     },
     {
       "surface": "אלהם",
-      "gloss": "isaanitti"
+      "gloss": "isaaniif"
     },
     {
       "surface": "יהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohiimtiin"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "אבתיכם",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "נראה",
-      "gloss": "natti mul'ate"
+      "gloss": "mul'ate"
     },
     {
       "surface": "אלי",
-      "gloss": "tti"
+      "gloss": "natti"
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohiimtiin"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "אברהם",
@@ -66,36 +66,37 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Is-haaq"
+      "gloss": "Yitsaaq"
     },
     {
       "surface": "ויעקב",
-      "gloss": "fi Ya'aqob"
+      "gloss": "fi Yaaaqoob"
     },
     {
       "surface": "לאמר",
-      "gloss": "jedhuun"
+      "gloss": "akka jedhu"
     },
     {
       "surface": "פקד",
-      "gloss": "qabadachuu"
+      "gloss": "dhugumatti"
     },
     {
       "surface": "פקדתי",
-      "gloss": "qabadadheera"
+      "gloss": "isin daawwadheere"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "keessan"
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin"
     },
     {
       "surface": "ואת",
-      "gloss": "ifi ⟨את⟩"
+      "gloss": "fi ⟨את⟩",
+      "marks": "waan isiniif ta'e"
     },
     {
       "surface": "העשוי",
-      "gloss": "waan hojjatame"
+      "gloss": "waan ta'e"
     },
     {
       "surface": "לכם",
@@ -103,9 +104,9 @@
     },
     {
       "surface": "במצרים",
-      "gloss": "Mitsraayim keessatti"
+      "gloss": "Mishraayim keessatti"
     }
   ],
-  "timestamp": "2026-08-29T04:59:23.780127154Z",
+  "timestamp": "2026-08-29T17:07:08.778923560Z",
   "model": "glm-5.3"
 }

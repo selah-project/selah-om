@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "om",
   "chapter": 1,
-  "translation": "Yahuudaanis Shimoon obboleessa isaa jedhe: \"Goroo kooti ⟨את⟩ waliin na gori, Kana'anota waliin ha nu lolnu; aniis goroo keetti ⟨את⟩ waliin nan deema.\" Shimoonis ⟨את⟩ isa waliin deeme.",
+  "translation": "Yahuudaa obboleessa isaa Shimooniin jedhe: \"Na wajjin ⟨את⟩ ol'i goroo kiyya irratti, Kenaanota irratti haanu wal-qabannaa; aniis si wajjin ⟨את⟩ baadha goroo kee irratti.\" Shimoonis ⟨את⟩ isa wajjiin deeme.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,31 +25,32 @@
     },
     {
       "surface": "עלה",
-      "gloss": "gori"
+      "gloss": "ol'i"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ waliin"
+      "gloss": "⟨את⟩",
+      "marks": "naa wajjin (with me)"
     },
     {
       "surface": "בגורלי",
-      "gloss": "goroo kooti"
+      "gloss": "goroo kiyya irratti"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "ha nu lolnu"
+      "gloss": "haanu wal-qabannaa"
     },
     {
       "surface": "בכנעני",
-      "gloss": "Kana'anota waliin"
+      "gloss": "Kenaanota irratti"
     },
     {
       "surface": "והלכתי",
-      "gloss": "nan deema"
+      "gloss": "baadha"
     },
     {
       "surface": "גם",
-      "gloss": "-is"
+      "gloss": "-s (akkasumas)"
     },
     {
       "surface": "אני",
@@ -57,11 +58,12 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ waliin"
+      "gloss": "⟨את⟩",
+      "marks": "si wajjin (with you)"
     },
     {
       "surface": "בגורלך",
-      "gloss": "goroo keetti"
+      "gloss": "goroo kee irratti"
     },
     {
       "surface": "וילך",
@@ -69,14 +71,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ isa",
-      "marks": "isa waliin"
+      "gloss": "⟨את⟩",
+      "marks": "isa wajjiin (with him)"
     },
     {
       "surface": "שמעון",
       "gloss": "Shimoon"
     }
   ],
-  "timestamp": "2026-08-29T15:57:18.839051669Z",
+  "timestamp": "2026-08-29T17:08:48.788521032Z",
   "model": "glm-5.3"
 }

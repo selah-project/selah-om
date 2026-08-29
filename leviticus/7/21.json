@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "leviticus 7:21",
-  "book": "leviticus",
-  "lang": "om",
-  "chapter": 7,
-  "translation": "Neeffi yoo wanna dhummee kamiinuu tuqe — dhummaa namoo ykn beyladaa dhummee ykn dhummee faallaa kamiinuu — ndhumeesem afaan noon isaa hiikkaa: \"Neeffi wanta dhummee kamiinuu yoo tuqe, dhummaa namaa, ykn biiroo dhummee, ykn wanta dhummee hiyyee namaa'aa, afaan noon isaa waliin, afaan noon isaa isaa ni hiikame\" — kun hiika guutuu miti; kanaan: \"Neeffi wanta dhummee kamiinuu yoo tuqe — dhummaa namaa, ykn beyladaa dhummee, ykn hiyyee dhummee kamiinuu — ndhumeesem afaan noon isaa isaa waliin: See below for final text.\" (Final: Neeffi wanta dhummee kamiinuu yoo tuqe — dhummaa namaa, beyladaa dhummee, ykn hiyyee dhummee kamiinuu — ndhumeesem afaan noon isaa isaa waliin: see corrected translation field.)",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:30:32.183059093Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":21,"ref":"leviticus 7:21","book":"leviticus","lang":"om","chapter":7,"translation":"Lubbuun waan tokko makoosa hin qabne ifatti yoo tokkon makoo kamiinuu — makoo nammaa yookiin beyladaa makoo yookiin waan balkcaa kamiinuu makoosa — ta'e, zeabbaha kennaa nagaa kan Yahwe tiif kan qofa ta'e irraa foon nyaate, lubbuun sun namoota ishee irraa addaan baafamti.","tokens":[{"surface":"וְנֶ֜פֶשׁ","gloss":"Lubbuun"},{"surface":"כִּֽי","gloss":"yoo"},{"surface":"תִגַּ֣ע","gloss":"ta'u"},{"surface":"בְּכָל","gloss":"kamiinuu"},{"surface":"טָמֵ֗א","gloss":"makoo"},{"surface":"בְּטֻמְאַ֤ת","gloss":"makoo isa keessatti"},{"surface":"אָדָם֙","gloss":"namaa"},{"surface":"א֥וֹ","gloss":"yookiin"},{"surface":"בִּבְהֵמָ֣ה","gloss":"beyladaa"},{"surface":"טְמֵאָ֗ה","gloss":"makoo"},{"surface":"א֚וֹ","gloss":"yookiin"},{"surface":"בְּכָל","gloss":"waan kamiinuu"},{"surface":"שֶׁ֣קֶץ","gloss":"balkcaa"},{"surface":"טָמֵ֔א","gloss":"makoosa"},{"surface":"וְאָכַ֛ל","gloss":"nyaate"},{"surface":"מִבְּשַׂ֥ר","gloss":"foon irraa"},{"surface":"זֶ֥בַח","gloss":"zeabbaha"},{"surface":"הַשְּׁלָמִ֖ים","gloss":"kennaa nagaa"},{"surface":"אֲשֶׁ֣ר","gloss":"kan"},{"surface":"לַיהוָ֑ה","gloss":"Yahwe tiif"},{"surface":"וְנִכְרְתָ֛ה","gloss":"addaan baafamti"},{"surface":"הַנֶּ֥פֶשׁ","gloss":"lubbuun sun"},{"surface":"הַהִ֖וא","gloss":"san"},{"surface":"מֵעַמֶּֽיהָ","gloss":"namoota ishee irraa"}],"timestamp":"2026-08-29T16:17:22.506247047Z","model":"glm-5.3"}

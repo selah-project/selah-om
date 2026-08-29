@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 45,
-  "translation": "Onneen kiyyoo waan gaarii baafachiise; ani waan hojjedhe keenyaa mootii'if natti dubbadha; arrawni kiyyaa qalamii barreessaa saffisaa ta'e ⟨is⟩.",
+  "translation": "Onnee kiyya jecha gaarii baafatti; ani hojiiwwan kiyya kan mootanitti jedha; arrabni kiyya qalmii barreessaa saffisaa ⟨dha⟩.",
   "tokens": [
     {
       "surface": "רחש",
-      "gloss": "baafachiise"
+      "gloss": "baafatti"
     },
     {
       "surface": "לבי",
-      "gloss": "onneen kiyyoo"
+      "gloss": "onnee kiyya"
     },
     {
       "surface": "דבר",
-      "gloss": "waan (jechama)"
+      "gloss": "jecha"
     },
     {
       "surface": "טוב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "natti dubbadha"
+      "gloss": "jedha"
     },
     {
       "surface": "אני",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "מעשי",
-      "gloss": "waan hojjedhe keenyaa"
+      "gloss": "hojiiwwan kiyya"
     },
     {
       "surface": "למלך",
-      "gloss": "mootii'if"
+      "gloss": "mootanitti"
     },
     {
       "surface": "לשוני",
-      "gloss": "arrawni kiyyaa"
+      "gloss": "arrabni kiyya"
     },
     {
       "surface": "עט",
-      "gloss": "qalamii"
+      "gloss": "qalmii"
     },
     {
       "surface": "סופר",
@@ -56,6 +56,6 @@
       "gloss": "saffisaa"
     }
   ],
-  "timestamp": "2026-08-29T11:24:11.136570206Z",
+  "timestamp": "2026-08-29T17:00:10.529593530Z",
   "model": "glm-5.3"
 }

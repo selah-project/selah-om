@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 18,
-  "translation": "Rav-Shaakeen dhaabbatee sagalee guddaan Afaan Yihuudaan waamee dubbatee jedhe: \"Dhageessaa jecha <the> mootii guddaa, mootii Ashur.\"",
+  "translation": "Rabshaaqe dhaabbatee afaan Yahuudaa (Yahuudit) sagalee guddaan waamuu isaatti, dubbatee akka jedhe: \"Mee dhaggeeffadhaa jecha mootichaa guddaas, mootii Ashur.",
   "tokens": [
     {
       "surface": "ויעמד",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "רב",
-      "gloss": "Rav"
+      "gloss": "Rab-"
     },
     {
       "surface": "שקה",
-      "gloss": "Shaakee"
+      "gloss": "shaaqe"
     },
     {
       "surface": "ויקרא",
-      "gloss": "waamee"
+      "gloss": "waamuu isaatti"
     },
     {
       "surface": "בקול",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "גדול",
-      "gloss": "guddaa"
+      "gloss": "guddaan"
     },
     {
       "surface": "יהודית",
-      "gloss": "Afaan Yihuudaa"
+      "gloss": "afaan Yahuudaa (Yahuudit)"
     },
     {
       "surface": "וידבר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "jedhe"
+      "gloss": "akka jedhe"
     },
     {
       "surface": "שמעו",
-      "gloss": "Dhageessaa"
+      "gloss": "Mee dhaggeeffadhaa"
     },
     {
       "surface": "דבר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "mootii"
+      "gloss": "mootichaa"
     },
     {
       "surface": "הגדול",
-      "gloss": "guddaa"
+      "gloss": "guddaas"
     },
     {
       "surface": "מלך",
@@ -68,6 +68,6 @@
       "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-08-29T08:38:19.428269099Z",
+  "timestamp": "2026-08-29T16:53:55.658799326Z",
   "model": "glm-5.3"
 }

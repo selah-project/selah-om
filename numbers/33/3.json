@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 33,
-  "translation": "Raamses irraa soofaman, ji'a ⟨the⟩ jalqabaa keessa, guyyaa kudhan-shan ji'a jalqabaa, guyyaa Paaska booda itti aanutti; ilmaan Israa'eel harka ol-ka'eennaan, ijjiiwwan Mitsraayim hunda duraatti ba'an.",
+  "translation": "Raamses irraa, ji'a tokkoffaa keessa, guyyaa shan-dhubbataffaa ji'a tokkoffaa, GaafaPesach booda darbe erga-niiteen, ilmaan Israa'el harka ol-ka'eetiin, iji Mitsraayim hunda dura ba'an.",
   "tokens": [
     {
       "surface": "ויסעו",
-      "gloss": "soofaman"
+      "gloss": "ni-deeggatan"
     },
     {
       "surface": "מרעמסס",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בחדש",
-      "gloss": "ji'a...keessa"
+      "gloss": "ji'a tokkoffaa keessa"
     },
     {
       "surface": "הראשון",
-      "gloss": "jalqabaa"
+      "gloss": "tokkoffaa"
     },
     {
       "surface": "בחמשה",
-      "gloss": "kudhan-"
+      "gloss": "shan-dhubbataffaa"
     },
     {
       "surface": "עשר",
-      "gloss": "shan"
+      "gloss": "dhubbataffaa"
     },
     {
       "surface": "יום",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "jalqabaa"
+      "gloss": "tokkoffaa"
     },
     {
       "surface": "ממחרת",
-      "gloss": "guyyaa itti aanutti...booda"
+      "gloss": "booda darbe"
     },
     {
       "surface": "הפסח",
-      "gloss": "Paaska"
+      "gloss": "Pesach"
     },
     {
       "surface": "יצאו",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'eel"
+      "gloss": "Israa'el"
     },
     {
       "surface": "ביד",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "רמה",
-      "gloss": "ol-ka'eennaan"
+      "gloss": "ol-ka'eetiin"
     },
     {
       "surface": "לעיני",
-      "gloss": "ijjiiwwan...duraatti"
+      "gloss": "iji...dura"
     },
     {
       "surface": "כל",
@@ -84,6 +84,6 @@
       "gloss": "Mitsraayim"
     }
   ],
-  "timestamp": "2026-08-29T06:12:44.436810593Z",
+  "timestamp": "2026-08-29T16:46:47.535411658Z",
   "model": "glm-5.3"
 }

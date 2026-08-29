@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 27,
-  "translation": "Yeroo Is-haaqa dagaa'eetti, iji isaa arguuf hin dandeenyeef buufaman; innis ⟨את⟩ Esawaa ilma isaa guddaa waamee isaaf jedhe: \"Ilma koo.\" Innis isaaf jedhe: \"Ani as jira.\"",
+  "translation": "Yeroo Yitsxaak dhalatee, iji isaa arguu danda'uuf galee, ani ijoolee keenya isa guddaa ta'e Esawitti aa'uudhaan akkaan jedhe, \"Ilmi koo!\" Isaanis \"Ani as jira\" isaaf deebise.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "-tti"
+      "gloss": "akkuma"
     },
     {
       "surface": "זקן",
-      "gloss": "dagaa'e"
+      "gloss": "dhalatee"
     },
     {
       "surface": "יצחק",
-      "gloss": "Is-haaqa"
+      "gloss": "Yitsxaak"
     },
     {
       "surface": "ותכהין",
-      "gloss": "buufaman"
+      "gloss": "hin-arguuf galee"
     },
     {
       "surface": "עיניו",
@@ -37,24 +37,24 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "waamee"
+      "gloss": "aa'ee"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Esawaa"
+      "marks": "Esaw"
     },
     {
       "surface": "עשו",
-      "gloss": "Esawaa"
+      "gloss": "Esaw"
     },
     {
       "surface": "בנו",
-      "gloss": "ilma isaa"
+      "gloss": "ilmi isaa"
     },
     {
       "surface": "הגדל",
-      "gloss": "guddaa"
+      "gloss": "isa guddaa"
     },
     {
       "surface": "ויאמר",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "Ilma koo"
+      "gloss": "ilmi koo"
     },
     {
       "surface": "ויאמר",
-      "gloss": "jedhe"
+      "gloss": "deebisee jedhe"
     },
     {
       "surface": "אליו",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Ani as jira"
+      "gloss": "ani as jira"
     }
   ],
-  "timestamp": "2026-08-29T04:37:03.225380119Z",
+  "timestamp": "2026-08-29T17:06:50.501444600Z",
   "model": "glm-5.3"
 }

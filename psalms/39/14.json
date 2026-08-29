@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 39,
-  "translation": "Illee koo irraa na dhiisi, akkasumas ani naargaadhu — ani hin sochisin dura — ani socho'ee, ani waan jiru miti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:24:22.699816508Z",
+  "translation": "Ilaali irraa kiyya na dhiisi, akkan gammadhu, duraan indumus akka hin jiru.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "ilaali na dhiisi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "irraa kiyya"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "akkan gammadhu"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "duraan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "indumus"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "hin jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:47.608421747Z",
   "model": "glm-5.3"
 }

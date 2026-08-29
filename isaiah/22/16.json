@@ -5,8 +5,81 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 22,
-  "translation": "Maaltu sitti hii? Ani abdaan kee? Maaliif maatii kana waan siif haguugee? Kan mul'ata olii dachii yaadatee maqaa isaa hubachiisee barreessee, kan sakaatatti dhibatu dha — yaadannoo isaa barbaachisaa waan hin taaneef.",
-  "tokens": [],
-  "timestamp": "2026-08-29T08:52:13.731233864Z",
+  "translation": "Maal siitti asitti? Eenyu siitti asitti? Maaltu siitti asitti qabrii siif cuudhe, kan gara olii qabrii isaa cuudhu, kan dhagaatti mana jireenyaa isaaf rafu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "פה",
+      "gloss": "asitti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "פה",
+      "gloss": "asitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "cuudhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "פה",
+      "gloss": "asitti"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabrii"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "kan cuudhu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "gara olii"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "qabrii isaa"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "kan rafu"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "dhagaatti"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mana jireenyaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:39.958022308Z",
   "model": "glm-5.3"
 }

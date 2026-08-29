@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 27,
-  "translation": "Uleewwan dalgeelee ‹את› akka hoollee hin qabne toltaa; akka ‹את› gaarreen irratti si mul'isameitti, akkasuma isaan tolchu.",
+  "translation": "Laastaraa duubameen uumi ⟨את⟩ isa; akka ati ⟨את⟩ gaararra jechuun itti argame, akkasuma uumu.",
   "tokens": [
     {
       "surface": "נבוב",
-      "gloss": "hin qabne \/ hoollee"
+      "gloss": "duubameen"
     },
     {
       "surface": "לחת",
-      "gloss": "dalgeelee"
+      "gloss": "laastaraa"
     },
     {
       "surface": "תעשה",
-      "gloss": "tolttaa"
+      "gloss": "uumi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ‹את›",
+      "gloss": "⟨את⟩",
       "marks": "isa"
     },
     {
@@ -30,16 +30,16 @@
     },
     {
       "surface": "הראה",
-      "gloss": "si mul'isame"
+      "gloss": "argame"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ‹את›",
-      "marks": "si"
+      "gloss": "⟨את⟩",
+      "marks": "gaararra"
     },
     {
       "surface": "בהר",
-      "gloss": "gaarreen irratti"
+      "gloss": "gaararra"
     },
     {
       "surface": "כן",
@@ -47,9 +47,9 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "isaan tolchu"
+      "gloss": "uumu"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.105890779Z",
+  "timestamp": "2026-08-29T16:41:32.372083835Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,64 @@
-{"tier":"glm-5.2","verse":10,"ref":"exodus 31:10","book":"exodus","lang":"om","chapter":31,"translation":"و ⟨את⟩ uffannoota adda baafaman, fi ⟨את⟩ uffannoota qulqullummaa kan Aharoon, kan tumsaati, fi ⟨את⟩ uffannoota ilmaan isaa akka tumsaatti.","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"uffannoota adda baafaman"},{"surface":"בגדי","gloss":"uffannoota"},{"surface":"השרד","gloss":"adda baafaman"},{"surface":"ואת","gloss":"⟨את⟩","marks":"uffannoota qulqullummaa"},{"surface":"בגדי","gloss":"uffannoota"},{"surface":"הקדש","gloss":"qulqullummaa"},{"surface":"לאהרן","gloss":"kan Aharoon"},{"surface":"הכהן","gloss":"kan tumsaati"},{"surface":"ואת","gloss":"⟨את⟩","marks":"uffannoota ilmaan isaa"},{"surface":"בגדי","gloss":"uffannoota"},{"surface":"בניו","gloss":"ilmaan isaa"},{"surface":"לכהן","gloss":"akka tumsaatti"}],"timestamp":"2026-08-29T14:21:43.525153764Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Biigdeewwan tajaajilaa ⟨את⟩, biigdeewwan qulqullummaa kan Aharoon hiikanicha ⟨את⟩, fi biigdeewwan ilmaan isaa akka hiikanoota tajaajilan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biigdeewwan tajaajilaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "biigdeewwan"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tajaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biigdeewwan qulqullummaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "biigdeewwan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hiikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biigdeewwan ilmaan isaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "biigdeewwan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "akka hiikanoota tajaajilan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:41:50.594878378Z",
+  "model": "glm-5.3"
+}

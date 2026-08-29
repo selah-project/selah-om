@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "genesis 31:2",
-  "book": "genesis",
-  "lang": "om",
-  "chapter": 31,
-  "translation": "Ya'aqob fuula Laabaanis argame; garuu fuulli isaa <kiyyaa> akka duraa <akka<\/gloss>\n\nHmm, let me write this properly:\n\n",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:15:39.128675555Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":2,"ref":"genesis 31:2","book":"genesis","lang":"om","chapter":31,"translation":"Jaakobi fuula Laabaan ilaale, ⟨את⟩ fuula Laabaan, akkasumas kanaan — kun amma kan duraa kan mesellaa fi mannii-lameetti miti.","tokens":[{"surface":"וירא","gloss":"ilaale"},{"surface":"יעקב","gloss":"Jaakob"},{"surface":"את","gloss":"⟨את⟩","marks":"fuula Laabaan"},{"surface":"פני","gloss":"fuula"},{"surface":"לבן","gloss":"Laabaan"},{"surface":"והנה","gloss":"akkasumas kanaan"},{"surface":"איננו","gloss":"miti"},{"surface":"עמו","gloss":"kan duraa isaa waliin"},{"surface":"כתמול","gloss":"kan mesellaa"},{"surface":"שלשום","gloss":"kan mannii-lameetti"}],"timestamp":"2026-08-29T16:15:52.017877504Z","model":"glm-5.3"}

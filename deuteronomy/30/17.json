@@ -5,8 +5,49 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 30,
-  "translation": "Yoo onnee kee garagalfamte, hin dhageeffanne, garagalfamte, waaqotta biroo Eloohiim akka maqaan maqaa dhaaniif hin jedhamu — kan biroo ti — Eloohiim biroo wobajjessaa, isaan gabbaraa;",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:35:04.893549512Z",
+  "translation": "Yoo onneen kee garagalanii hin dhageesanne, garagalamee dhiifamtee, fageenyaan Eloohiimota biratti suufanitti gabbaraa isaan tajaajilta:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "garagalanii"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "onneen kee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dhageesanne"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "garagalamee dhiifamtee"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "fageenyaan suufanitti"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimota biratti"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "gabbaraa isaan tajaajilta:"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:55.571235679Z",
   "model": "glm-5.3"
 }

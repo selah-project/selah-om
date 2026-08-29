@@ -5,8 +5,61 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 37,
-  "translation": "Yirmiyaahis mana handaqqaas fi mananeen hojjinaa deemee, Yirmiyaahis guyyoota baay'ee jiraachuu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:49:32.916995731Z",
+  "translation": "Yeroo Yirmiyaahu mana godaa fi kutaa-cutaa godaa seenu, Yirmiyaachu ofii sunitti guyyoota baay'ee jiraate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "godaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "kutaa-cutaa godaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ofii sunitti"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaachu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:05.492973650Z",
   "model": "glm-5.3"
 }

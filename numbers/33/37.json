@@ -5,8 +5,41 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 33,
-  "translation": "Kibishshaa irraa Kashin-imtee imimtii; Hor-gaarar Akka-diina biyya tulchaaniifi, kan biyya Edomitti heddummaa calqabsiifaniif gaaricharratti buusananiif imimtaniif bu'aaniif bu'aaniifi bu'aanii.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:12:00.381450620Z",
+  "translation": "Va'as Kadesh irraa imalan, gar gaarerra Hor dafee, daangaa biyya Edom irratti heddun.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "imalan"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dafee"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarerra"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "daangaa irratti heddun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:50.313624776Z",
   "model": "glm-5.3"
 }

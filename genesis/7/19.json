@@ -5,8 +5,65 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 7,
-  "translation": "REMOVE",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:27:31.689352821Z",
+  "translation": "Bishniin baay'ee baay'ee lafa irratti injifataniitu, gaarreen ol-ka'oon ⟨iyyoo⟩ hundi kan samiiwwan hunda jala ta'an hunda ditaman.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "bishaan-on"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "injifataniitu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ditaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ol-ka'oon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:05.645365479Z",
   "model": "glm-5.3"
 }

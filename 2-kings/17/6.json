@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 17,
-  "translation": "Wagga sagalaffaa Hooshee'a, mootichi Ashshur ⟨את⟩ Samariyaa fudhate, ⟨את⟩ Israa'eel Ashshurtti baasaa baate, ⟨את⟩ ⟨אתם⟩ Halahifi Habori, laga Gozaanii fi magaaloota Midyaanii keessaa jiraachiseera.",
+  "translation": "Waggaa tokko-offaattii kan Hooshee'atti, mootichi Ashur ⟨את⟩ Shomeroon fudhate, fi Israa'el Ashuritti baate; isaanis Halaahitti, Haboritti, lagas Gozaanitti, fi magaaloota Midiyaa keessatti baballate.",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "wagga"
+      "gloss": "Waggaa...tti"
     },
     {
       "surface": "התשיעית",
-      "gloss": "sagalaffaa"
+      "gloss": "tokko-offaattii"
     },
     {
       "surface": "להושע",
-      "gloss": "Hooshee'a"
+      "gloss": "kan Hooshee'atti"
     },
     {
       "surface": "לכד",
@@ -29,50 +29,50 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashshur"
+      "gloss": "Ashur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Samariyaa"
+      "marks": "Shomeroon"
     },
     {
       "surface": "שמרון",
-      "gloss": "Samariyaa"
+      "gloss": "Shomeroon"
     },
     {
       "surface": "ויגל",
-      "gloss": "baasaa baate"
+      "gloss": "baate"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israa'eel"
+      "marks": "Israa'el"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'eel"
+      "gloss": "Israa'el"
     },
     {
       "surface": "אשורה",
-      "gloss": "Ashshurtti"
+      "gloss": "Ashuritti"
     },
     {
       "surface": "וישב",
-      "gloss": "jiraachiseera"
+      "gloss": "baballate"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isaan"
+      "gloss": "⟨את⟩ isaani",
+      "marks": "Halaahitti (jechuma 'isaanis' irratti mallatteeffame)"
     },
     {
       "surface": "בחלח",
-      "gloss": "Halahi"
+      "gloss": "Halaahitti"
     },
     {
       "surface": "ובחבור",
-      "gloss": "Habori"
+      "gloss": "Haboritti"
     },
     {
       "surface": "נהר",
@@ -80,17 +80,17 @@
     },
     {
       "surface": "גוזן",
-      "gloss": "Gozaanii"
+      "gloss": "Gozaan"
     },
     {
       "surface": "וערי",
-      "gloss": "magaaloota"
+      "gloss": "fi magaaloota"
     },
     {
       "surface": "מדי",
-      "gloss": "Midyaanii"
+      "gloss": "Midiyaa"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.127205874Z",
+  "timestamp": "2026-08-29T17:09:18.202233264Z",
   "model": "glm-5.3"
 }

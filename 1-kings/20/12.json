@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":12,"ref":"1-kings 20:12","book":"1-kings","lang":"om","chapter":20,"translation":"Kunoo: jecha ⟨את⟩ kana yeroo dhageeffamu — innis fi mootonni sukkoota keessatti anaachaa turan — gabroota isaatti akkas jedhe: Iddoo qabadhaa. Isaanis ⟨the⟩ mootummaa biratti qabatan.","tokens":[{"surface":"ויהי","gloss":"kunoo"},{"surface":"כשמע","gloss":"yeroo dhageeffamu"},{"surface":"את","gloss":"⟨את⟩","marks":"jecha kana"},{"surface":"הדבר","gloss":"jecha"},{"surface":"הזה","gloss":"kana"},{"surface":"והוא","gloss":"innis"},{"surface":"שתה","gloss":"anaachaa turan"},{"surface":"הוא","gloss":"inni"},{"surface":"והמלכים","gloss":"fi mootonni"},{"surface":"בסכות","gloss":"sukkoota keessatti"},{"surface":"ויאמר","gloss":"akkas jedhe"},{"surface":"אל","gloss":"gabroota isaatti"},{"surface":"עבדיו","gloss":"gabroota isaa"},{"surface":"שימו","gloss":"iddoo qabadhaa"},{"surface":"וישימו","gloss":"qabatan"},{"surface":"על","gloss":"biratti"},{"surface":"העיר","gloss":"mootummaa"}],"timestamp":"2026-08-29T14:52:14.546626178Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Kun immoo, ergaan kana dhaga'uu isratti, isaan boochanii akkaa baafatan akka beekamsa Mootummaa Sanjarraa; abbootiin amantii mirga caalatti hirmaachisanii fi, waan jireenya kana keessatti waliin jiraachuu danda'an dubbataniiru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kun immoo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "dhaga'uu isratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ergaan kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ergaan kana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isa"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ni dhugaatu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "mootannonnis"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "boochi keessatti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abbootaa isaa"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "itti dhaabaa'aa"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dhaabaniiran"
+    },
+    {
+      "surface": "על",
+      "gloss": "dirratti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:53:30.798705743Z",
+  "model": "glm-5.3"
+}

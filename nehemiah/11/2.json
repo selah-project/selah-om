@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "nehemiah 11:2",
-  "book": "nehemiah",
-  "lang": "om",
-  "chapter": 11,
-  "translation": "Samiiwwan qopheessuun, ummatitiin mannee jiraatan: «Kunooti jiraadhu!» jedhanii; Yahuudaa biyya Keenyaaf!' akkaan jedhan; biyya Keenyaaf kan jedhu keenyaa",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:36:51.276560063Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":2,"ref":"nehemiah 11:2","book":"nehemiah","lang":"om","chapter":11,"translation":"Ummatniis namoota hunda eebbisse — kan ofii isaanii hundi akka biyya keessaa Yerushaalayimitti buluuf of-dhiyeetti of-qaban, hundi isaanii Yerushaalayim keessaa","tokens":[{"surface":"ויברכו","gloss":"eebbisan"},{"surface":"העם","gloss":"ummatni"},{"surface":"לכל","gloss":"hundaaf"},{"surface":"האנשים","gloss":"namoota"},{"surface":"המתנדבים","gloss":"kan of-dhiyeetti of-qaban"},{"surface":"לשבת","gloss":"buluuf"},{"surface":"בירושלם","gloss":"Yerushaalayim keessaa"}],"timestamp":"2026-08-29T16:24:22.311706101Z","model":"glm-5.3"}

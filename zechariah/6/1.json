@@ -5,8 +5,65 @@
   "book": "zechariah",
   "lang": "om",
   "chapter": 6,
-  "translation": "Ani deebi'ee, ija koo ol kaasee, arge; akkasumas ilaali —tti maatimaṭaaṭa — gaarii ta'uu hin oolu. Akkaataa al-ṭaaṭaa: Ergaan 6:1 akka Jechi Rabbii qalbii dubbachiise. An deebi'ee ija koo ol kaasee arge; akkasumas ilaali — maatiibaṭaaṭaa — gaarii ta'uu hin oolu: «Kun maali?» jedheen. Maatiiṭaaṭaa. Ergaan 6:1 akka Jecha Rabbitti hiikame. Ani deebi'ee ija koo ol kaasee arge, maatiibaṭaaṭaa: «Maatiiṭaaṭaa keessaa maaltu bahee?» Ani deebi'ee ija koo ol kaasee arge: gaarii hin taane; maatiibaṭaaṭaa. Sana booda ani deebi'ee ija koo ol kaasee, arge — maatiibaṭaaṭaa — gaarii ta'uu hin oolu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:01:56.411629364Z",
+  "translation": "Ani deebi'ee, iji kiyya ol kaasee, ani arge; akkasumas, kanaan, baaburroota afur laman gargaratti gaariwwan lamaanii irraa ba'anii waan baayyessanitti; gaariwwanis gaarwwan birtii ti.",
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ol kaasee"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iji kiyya"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "arge"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akkasumas, kanaan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "baaburroota"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "ba'anii waan baayyessanitti"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "gargaratti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laman"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaariwwan"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "gaariwwanis"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gaarwwan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "birtii"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:05.143535831Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 16,
-  "translation": "Waa'ee mucaa dhiiraa fi waa'ee mucaa durbaa bakka kana keessatti dhalatan, waa'ee haadholii isaan dhalissan ⟨אתם⟩, fi waa'ee abboota isaan biyya kana keessatti horan ⟨אתם⟩, akkasitti Yahwe jedhe.",
+  "translation": "Sababiin akka kana jedhe Yahwe: waa'ee ilbolootaa fi waa'ee intalotaa kan iddoo kana keessatti dhalatan, fi waa'ee haadhota isaanii, kan isaan dhaltan ⟨את⟩, fi waa'ee abboota isaanii, kan isaan dhalchisan ⟨את⟩ dachee kana keessatti.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "akkasitti"
+      "gloss": "Sababiin"
     },
     {
       "surface": "כה",
-      "gloss": "akkasitti"
+      "gloss": "akka kana"
     },
     {
       "surface": "אמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הבנים",
-      "gloss": "mucaa dhiiraa"
+      "gloss": "ilbolootaa"
     },
     {
       "surface": "ועל",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הבנות",
-      "gloss": "mucaa durbaa"
+      "gloss": "intalotaa"
     },
     {
       "surface": "הילודים",
-      "gloss": "dhalatan"
+      "gloss": "kan dhalatan"
     },
     {
       "surface": "במקום",
-      "gloss": "bakka"
+      "gloss": "iddoo"
     },
     {
       "surface": "הזה",
-      "gloss": "kana keessatti"
+      "gloss": "kana"
     },
     {
       "surface": "ועל",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "אמתם",
-      "gloss": "haadholii isaan"
+      "gloss": "haadhota isaanii"
     },
     {
       "surface": "הילדות",
-      "gloss": "dhalissan"
+      "gloss": "kan dhaltan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isaan"
+      "gloss": "⟨את⟩",
+      "marks": "isaan (haadhota isaanii)"
     },
     {
       "surface": "ועל",
@@ -74,26 +74,26 @@
     },
     {
       "surface": "אבותם",
-      "gloss": "abboota isaan"
+      "gloss": "abboota isaanii"
     },
     {
       "surface": "המולדים",
-      "gloss": "horan"
+      "gloss": "kan dhalchisan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isaan"
+      "gloss": "⟨את⟩",
+      "marks": "isaan (abboota isaanii)"
     },
     {
       "surface": "בארץ",
-      "gloss": "biyya"
+      "gloss": "dachee"
     },
     {
       "surface": "הזאת",
-      "gloss": "kana keessatti"
+      "gloss": "kana"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.099186014Z",
+  "timestamp": "2026-08-29T16:55:38.119902433Z",
   "model": "glm-5.3"
 }

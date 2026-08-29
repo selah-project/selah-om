@@ -5,8 +5,62 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 6,
-  "translation": "Aniis gammoojjicha sararaatti dhiyyeessuun, achumaan ⟨את⟩ sanduqa saffisa kan keenyaas — kan Keessa Deebii Yahwe waliin taasifame, kan Israa'ieliin baraa kakuu isaa isa waliin muruun — achumaan koodhetti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:42:06.322362628Z",
+  "translation": "Achumaanis garas ⟨את⟩ sanduqa cha Yaaqate; kun kakuu Yahwe ti, isa inni ilmaan Israa'eliin waliin muude.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "Achumaanis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "garas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa cha Yaaqate"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduqa cha Yaaqate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "muude"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eliin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:32.263428099Z",
   "model": "glm-5.3"
 }

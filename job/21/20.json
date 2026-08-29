@@ -5,8 +5,33 @@
   "book": "job",
   "lang": "om",
   "chapter": 21,
-  "translation": "Ijji isaa balaan isaa argachuu qaba; fi amidahii Shaddaay inni dhugaa qaba.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:25:21.958074138Z",
+  "translation": "Ija isaa bala'a isaa argu, fi dheebuu Shaddaay tiin dhuga.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "argu"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ija isaa"
+    },
+    {
+      "surface": "כידו",
+      "gloss": "bala'a isaa"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "dheebuu tiin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaay"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "dhuga"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:49.816194934Z",
   "model": "glm-5.3"
 }

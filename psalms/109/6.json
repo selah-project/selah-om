@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 109,
-  "translation": "Badii isarratti dhiyeessi; Saataan mirga isaa irra haa dhaabbatu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:46:46.548411960Z",
+  "translation": "Rashaan tokko isarratti haa dhaabamu; saataaniin (keessumaa) mirga isaa irratti haa dhaabbatu.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "haa dhaabamu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashaan"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "saataaniin (keessumaa)"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "haa dhaabbatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mirga isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:02.806617038Z",
   "model": "glm-5.3"
 }

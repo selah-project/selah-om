@@ -5,8 +5,81 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 44,
-  "translation": "Niitii-du'aa fi diifamtuu dubartii tokkollee isaanitiif hiikuu hin qaban; kana malee dubartoota qulqullummaa qaban kan sanyii mana Israa'eliitiifi niitii-du'aan kan niitii-du'aatti warra abbaa qopheessaa ture nyaachisaniif ni hiikatu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:32:52.255266952Z",
+  "translation": "Haadha-manaa fi hiikkamtuu mana'aa isaanii hin fudhatan; garuu intaltota sanyii gosa biyya Israa'eel qofa, haadha-manaa kan qesii irraa ta'e immaa fudhatan.",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "haadha-manaa"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "hiikkamtuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "fudhatan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "mana'aa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "intaltota"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gosa biyya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "haadha-manaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "haadha-manaa"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "qesii irraa"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "fudhatan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:28.083666369Z",
   "model": "glm-5.3"
 }

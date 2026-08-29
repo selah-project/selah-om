@@ -5,33 +5,49 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 16,
-  "translation": "Inni Haagaaritti seene; innis dukkane. Dukkana isheetiin argitee booda, abbaa... gara gatii xiqqaa seenaa ishii... ija isheetiin gatii hin qabne taate — «karra ishee ija isheetiin hin eeyyamamne» jedhu.",
+  "translation": "Avraam Haagaaritti seene; innis immoo horatee eegale. Yeroo of horate argatteetti, teessoo ishii gad-arjii ishii ija ishii keessatti taate.",
   "tokens": [
     {
+      "surface": "ויבא",
+      "gloss": "seene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Haagaar"
+    },
+    {
       "surface": "ותהר",
-      "gloss": "dukkane"
+      "gloss": "horatee eegale"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "argatteetti"
     },
     {
       "surface": "כי",
-      "gloss": "akkasumas"
+      "gloss": "yeroo"
     },
     {
       "surface": "הרתה",
-      "gloss": "dukkana isheetiin"
+      "gloss": "of horate"
     },
     {
       "surface": "ותקל",
-      "gloss": "hin eeyyamamne \/ xiqqeesise"
+      "gloss": "gad-arjii taate"
     },
     {
       "surface": "גברתה",
-      "gloss": "abbaa... karra ishee"
+      "gloss": "teessoo ishii"
     },
     {
       "surface": "בעיניה",
-      "gloss": "ija isheetiin"
+      "gloss": "ija ishii keessatti"
     }
   ],
-  "timestamp": "2026-08-29T04:30:45.643653844Z",
+  "timestamp": "2026-08-29T16:16:14.371924013Z",
   "model": "glm-5.3"
 }

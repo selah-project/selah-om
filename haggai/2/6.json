@@ -5,15 +5,15 @@
   "book": "haggai",
   "lang": "om",
   "chapter": 2,
-  "translation": "Waan akka kanaa Yahwe-tsevaa'ot jedheef: \"Yeroo tokko dhiphaa dabalatee, Ani samiiwwanii fi ⟨את⟩ lafa fi ⟨את⟩ gaarroomaa fi ⟨את⟩ lafa gogaa ni riixxa.\"",
+  "translation": "Sababiin akkas jedhe Yahwe Sebaa'ot: yeroo tokko-dhibbaa, yeroo xiqqaa qofa, ani samiiwwanii fi lafa, baddaa fi lunqaa hoo'aa ni rukuta.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Waan akka kanaa jedheef"
+      "gloss": "sababiin"
     },
     {
       "surface": "כה",
-      "gloss": "akka kanaa"
+      "gloss": "akkas"
     },
     {
       "surface": "אמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "tsevaa'ot"
+      "gloss": "Sebaa'ot"
     },
     {
       "surface": "עוד",
-      "gloss": "Yeroo dabalatee"
+      "gloss": "yeroo tokko-dhibbaa"
     },
     {
       "surface": "אחת",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "מעט",
-      "gloss": "dhiphaa"
+      "gloss": "xiqqaa"
     },
     {
       "surface": "היא",
-      "gloss": "<elided — 'it is' implied in 'dhiphaa dabalatee'>"
+      "gloss": "qofa"
     },
     {
       "surface": "ואני",
-      "gloss": "Ani"
+      "gloss": "ani"
     },
     {
       "surface": "מרעיש",
-      "gloss": "ni riixxa"
+      "gloss": "ni rukuta"
     },
     {
       "surface": "את",
@@ -72,22 +72,22 @@
     {
       "surface": "ואת",
       "gloss": "fi ⟨את⟩",
-      "marks": "gaarroomaa"
+      "marks": "baddaa"
     },
     {
       "surface": "הים",
-      "gloss": "gaarroomaa"
+      "gloss": "baddaa"
     },
     {
       "surface": "ואת",
       "gloss": "fi ⟨את⟩",
-      "marks": "lafa gogaa"
+      "marks": "lunqaa hoo'aa"
     },
     {
       "surface": "החרבה",
-      "gloss": "lafa gogaa"
+      "gloss": "lunqaa hoo'aa"
     }
   ],
-  "timestamp": "2026-08-29T10:59:35.841585293Z",
+  "timestamp": "2026-08-29T16:58:45.433905467Z",
   "model": "glm-5.3"
 }

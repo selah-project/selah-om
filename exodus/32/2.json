@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 32,
-  "translation": "Aharooniin isaaniin jedhe: \"Marga warra keessan, ilmaan keessan fi intaloota keessan gurra keessaa haadhhaa, naa dhuunfaa.\"",
+  "translation": "Aharoonis isaaniin jedhe: «Fooqqixaa baasaa gurguddoo warqee kan gurra dubartii keenyaa, ilmaan keenyaa fi ilmoota keenyaa keessatti argaman, naa fidaa.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "פרקו",
-      "gloss": "haadhhaa"
+      "gloss": "fooqqixaa baasaa"
     },
     {
       "surface": "נזמי",
-      "gloss": "marga"
+      "gloss": "gurguddoo"
     },
     {
       "surface": "הזהב",
-      "gloss": "warra"
+      "gloss": "warqee"
     },
     {
       "surface": "אשר",
-      "gloss": "isa"
+      "gloss": "kan"
     },
     {
       "surface": "באזני",
@@ -41,21 +41,25 @@
     },
     {
       "surface": "נשיכם",
-      "gloss": "keessaa"
+      "gloss": "dubartii keenyaa"
     },
     {
       "surface": "בניכם",
-      "gloss": "ilmaan keessan"
+      "gloss": "ilmaan keenyaa"
     },
     {
       "surface": "ובנתיכם",
-      "gloss": "intaloota keessan"
+      "gloss": "fi ilmoota keenyaa"
     },
     {
       "surface": "והביאו",
-      "gloss": "naa dhuunfaa"
+      "gloss": "naa fidaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naa"
     }
   ],
-  "timestamp": "2026-08-29T05:21:30.309054444Z",
+  "timestamp": "2026-08-29T16:17:03.307002639Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 1,
-  "translation": "Citra-citra isaa gediti, akkasumas ⟨את⟩ mataa isaa fi ⟨את〕 boontaa isaa; abbaan-abbumaa ⟨את⟩ ⟨אתם⟩ isaan mukewwan irratti — ibidda irratti, gorsaa irratti — haara-taasisa.",
+  "translation": "Inni bocaan ⟨את⟩ ☰NaN qooduun isaa qoodu, mataa isaa fi boroo isaa; abbaan lallaa immoo isaan miila mukaawwan irratti, ibidda irratti, waan gabatee irratti argamu irratti haaraaru.",
   "tokens": [
     {
       "surface": "ונתח",
-      "gloss": "gediti"
+      "gloss": "bocaan qoodu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "isaa"
+      "gloss": "⟨את⟩ ☰NaN",
+      "marks": "qooduun isaa"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "citra-citra isaa"
+      "gloss": "qooduun isaa"
     },
     {
       "surface": "ואת",
-      "gloss": "fi ⟨את⟩",
+      "gloss": "⟨את⟩ ☰NaN",
       "marks": "mataa isaa"
     },
     {
@@ -31,24 +31,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "fi ⟨את⟩",
-      "marks": "boontaa isaa"
+      "gloss": "⟨את⟩ ☰NaN",
+      "marks": "boroo isaa"
     },
     {
       "surface": "פדרו",
-      "gloss": "boontaa isaa"
+      "gloss": "boroo isaa"
     },
     {
       "surface": "וערך",
-      "gloss": "fi haara-taasisa"
+      "gloss": "haaraaru"
     },
     {
       "surface": "הכהן",
-      "gloss": "abbaan-abbumaa"
+      "gloss": "abbaan lallaa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩ ☰NaN",
       "marks": "isaan"
     },
     {
@@ -57,11 +57,11 @@
     },
     {
       "surface": "העצים",
-      "gloss": "mukewwan"
+      "gloss": "mukaawwan"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "waan"
     },
     {
       "surface": "על",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "האש",
-      "gloss": "ibiddaa"
+      "gloss": "ibidda"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "waan"
     },
     {
       "surface": "על",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "gorsaa"
+      "gloss": "gabatee"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.133698083Z",
+  "timestamp": "2026-08-29T16:43:17.340606760Z",
   "model": "glm-5.3"
 }

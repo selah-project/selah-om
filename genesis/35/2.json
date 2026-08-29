@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":2,"ref":"genesis 35:2","book":"genesis","lang":"om","chapter":35,"translation":"Yaaqobis mana isaa fi waa hunda wajjin isaatiin jiru hundaaf jedhe: \"Waaqota alagaa waan keessan gidduu jiran ⟨את⟩ baafattanaa; qulqullaa'aa ta'aa, uffata keessan jijjiibaa.\"","tokens":[{"surface":"ויאמר","gloss":"is jedhe"},{"surface":"יעקב","gloss":"Yaaqob"},{"surface":"אל","gloss":"…ttiin"},{"surface":"ביתו","gloss":"mana isaa"},{"surface":"ואל","gloss":"…ttiis"},{"surface":"כל","gloss":"hunda"},{"surface":"אשר","gloss":"waan"},{"surface":"עמו","gloss":"wajjin isaatiin jiru"},{"surface":"הסרו","gloss":"baafattanaa"},{"surface":"את","gloss":"⟨את⟩","marks":"waaqota alagaa"},{"surface":"אלהי","gloss":"waaqota"},{"surface":"הנכר","gloss":"alagaa"},{"surface":"אשר","gloss":"waan"},{"surface":"בתככם","gloss":"keessan gidduu jiran"},{"surface":"והטהרו","gloss":"qulqullaa'aa ta'aa"},{"surface":"והחליפו","gloss":"jijjiibaa"},{"surface":"שמלתיכם","gloss":"uffata keessan"}],"timestamp":"2026-08-29T04:45:44.306275393Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Jaakobis mana isaa irratti, akkasumas warra isaa wajjin jiran hunda irratti jedhe: «Waaqota alagarraa iddoo keessan gidduu jiran haa baasanittaa, of qulqulleessaa, imimmaan keessan immoo haa jijjiirattaa.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akkasumas irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaa wajjin jiran"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "haa baasanittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waaqota alagarraa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "waaqota"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "alagarraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "iddoo keessan gidduu jiran"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "of qulqulleessaa"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "haa jijjiirattaa"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "imimmaan keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:39:13.979990045Z",
+  "model": "glm-5.3"
+}

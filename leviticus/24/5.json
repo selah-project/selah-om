@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 24,
-  "translation": "Ati middhaa mi'aa fudhatta, ishee ⟨את⟩ maddamsa — dhaddacha kurnii-lama; wiirtuu kurnyaa (isaroon) lama ⟨⟨is⟩⟩ dhaddacha tokko tokkoof ta'a.",
+  "translation": "Soorata sirree ni fudhatta, isheettiis ni rakta ⟨את⟩ dinniisha kudhan-lama; kudhanoota lama dinniicha tokko ta'a.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "atif fudhatta"
+      "gloss": "ni fudhatta"
     },
     {
       "surface": "סלת",
-      "gloss": "middhaa mi'aa"
+      "gloss": "soorata sirree"
     },
     {
       "surface": "ואפית",
-      "gloss": "maddamsa"
+      "gloss": "isheettiis ni rakta"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ishee"
+      "marks": "dinniisha kudhan-lama"
     },
     {
       "surface": "שתים",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "kurnii"
+      "gloss": "kudhan"
     },
     {
       "surface": "חלות",
-      "gloss": "dhaddacha"
+      "gloss": "dinniisha"
     },
     {
       "surface": "שני",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "עשרנים",
-      "gloss": "wiirtuu kurnyaa (isaroon)"
+      "gloss": "kudhanoota"
     },
     {
       "surface": "יהיה",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "החלה",
-      "gloss": "dhaddacha"
+      "gloss": "dinniicha"
     },
     {
       "surface": "האחת",
-      "gloss": "tokko tokkoo"
+      "gloss": "tokko"
     }
   ],
-  "timestamp": "2026-08-29T05:44:47.335121680Z",
+  "timestamp": "2026-08-29T16:45:59.960793933Z",
   "model": "glm-5.3"
 }

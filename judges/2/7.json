@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "om",
   "chapter": 2,
-  "translation": "Ummanni Yahwe ⟨את⟩ tajaajilaniiti guyyoota Yehooshua hunda, fi guyyoota dargaggoota dheerina guyyaa Yehooshua booda jiraniiti hunda — isaan guyyaa booda Yehooshua ⟨את⟩ arganiifi hojii gurguddoo Yahwe hunda ⟨את⟩ argan, waan Yisra'iif hojjedhe.",
+  "translation": "“Faaniin ⟨את⟩ Yahwe tajaajilaa ture guutuma ngaarsoota Yehooshu‘aa, akkasumas guutuma ngaarsoota seenoota dheebachoo Yehooshu’aa booda, isaan waan ijji isaaniiti ilaaluu dandaan, waan isaaniiti ilaalan ⟨את⟩ waan Yahwe guddaa Israa’eeliif hojjedhe hunda.”",
   "tokens": [
     {
       "surface": "ויעבדו",
-      "gloss": "tajaajilaniiti"
+      "gloss": "tajaajilaa ture"
     },
     {
       "surface": "העם",
-      "gloss": "ummanni"
+      "gloss": "faaniin"
     },
     {
       "surface": "את",
@@ -26,43 +26,39 @@
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "hunda…guutuma"
     },
     {
       "surface": "ימי",
-      "gloss": "guyyoota"
+      "gloss": "ngaarsoota"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehooshua"
-    },
-    {
-      "surface": "ויכל",
-      "gloss": ""
+      "gloss": "Yehooshu‘aa"
     },
     {
       "surface": "וכל",
-      "gloss": "fi ... hunda"
+      "gloss": "akkasumas guutuma"
     },
     {
       "surface": "ימי",
-      "gloss": "guyyoota"
+      "gloss": "ngaarsoota"
     },
     {
       "surface": "הזקנים",
-      "gloss": "dargaggoota"
+      "gloss": "seenoota"
     },
     {
       "surface": "אשר",
-      "gloss": "isaan"
+      "gloss": "waan"
     },
     {
       "surface": "האריכו",
-      "gloss": "dheerina guyyaa"
+      "gloss": "dheebachoo turan \/ guutuma"
     },
     {
       "surface": "ימים",
-      "gloss": "guyyaa"
+      "gloss": "ngaarsoota"
     },
     {
       "surface": "אחרי",
@@ -70,28 +66,28 @@
     },
     {
       "surface": "יהושוע",
-      "gloss": "Yehooshua"
+      "gloss": "Yehooshu‘aa booda"
     },
     {
       "surface": "אשר",
-      "gloss": "isaan"
+      "gloss": "waan"
     },
     {
       "surface": "ראו",
-      "gloss": "⟨את⟩ arganiifi"
+      "gloss": "ilaalan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hojii gurguddoo Yahwe hunda"
+      "marks": "waan guddaa Israa’eeliif hojjedhe hunda"
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "hunda…waan Yahwe guddaa"
     },
     {
       "surface": "מעשה",
-      "gloss": "hojii"
+      "gloss": "hojii \/ waan hojjedhe"
     },
     {
       "surface": "יהוה",
@@ -99,7 +95,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "gurguddoo"
+      "gloss": "guddaa"
     },
     {
       "surface": "אשר",
@@ -111,9 +107,9 @@
     },
     {
       "surface": "לישראל",
-      "gloss": "Yisra'iif"
+      "gloss": "Israa’eeliif"
     }
   ],
-  "timestamp": "2026-08-29T06:59:10.342500430Z",
+  "timestamp": "2026-08-29T16:19:35.004435078Z",
   "model": "glm-5.3"
 }

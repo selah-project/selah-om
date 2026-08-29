@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 78,
-  "translation": "Badii isaa bahee yoo samii ta'e, bishaan akka handaara dhaabbate.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:34:38.682100464Z",
+  "translation": "Baha laaka, isaan darbise; bishaan akka ganda dhaabbate.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "laaka (baha isaatiin: 'laaka baha')"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baha"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "isaan darbise"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ganda"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:06.160099360Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Daawid ergamtoota gara namoota Yaabeeshi Gili'aaditti erge, akkas jedheeniinis: isin Yahweetiin eebbifamtoota dha, kheesed kana goftaa keessan wajjin, goftaa Sha'uli wajjin waan hojjattaniif, akkasumas ⟨את⟩ ⟨אתו⟩ waan ar'aattaniif.",
+  "translation": "Daawid ergamtoota ergeree ergamtoota erge namoota Yaabeshi Gil'adiitti; isaanitti akkas jedhe: “Isin kan Yahween eebbifamtan, kheesed kana Gooftaa keessan, Saawuli waliin taasifattaniif, isa ⟨את⟩ awwaaltaniif.”",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "erge"
+      "gloss": "ergee"
     },
     {
       "surface": "דוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "gara...itti"
+      "gloss": "itti"
     },
     {
       "surface": "אנשי",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "יביש",
-      "gloss": "Yaabeeshi"
+      "gloss": "Yaabeshi"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gili'aad"
+      "gloss": "Gil'adi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "akkas jedheeniinis"
+      "gloss": "jedhe"
     },
     {
       "surface": "אליהם",
-      "gloss": "isiniif"
+      "gloss": "isaanitti"
     },
     {
       "surface": "ברכים",
-      "gloss": "eebbifamtoota"
+      "gloss": "eebbifamtan"
     },
     {
       "surface": "אתם",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahweetiin"
+      "gloss": "Yahween"
     },
     {
       "surface": "אשר",
-      "gloss": "waan"
+      "gloss": "taasifattaniif"
     },
     {
       "surface": "עשיתם",
-      "gloss": "hojjattan"
+      "gloss": "taasifattani"
     },
     {
       "surface": "החסד",
-      "gloss": "kheesed"
+      "gloss": "kheesed kana"
     },
     {
       "surface": "הזה",
@@ -73,30 +73,30 @@
     },
     {
       "surface": "עם",
-      "gloss": "wajjin"
+      "gloss": "waliin"
     },
     {
       "surface": "אדניכם",
-      "gloss": "goftaa keessan"
+      "gloss": "Gooftaa keessan"
     },
     {
       "surface": "עם",
-      "gloss": "wajjin"
+      "gloss": "Saawuli waliin"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha'uli"
+      "gloss": "Saawuli"
     },
     {
-      "surface": "ותקברו",
-      "gloss": "waan ar'aattaniif"
+      "surface": "ויקברו",
+      "gloss": "awwaaltaniif"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Sha'ul"
+      "gloss": "⟨את⟩",
+      "marks": "isa (Saawul)"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.086869554Z",
+  "timestamp": "2026-08-29T16:51:19.864915566Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 78,
-  "translation": "Dhangaggeewwan cubbaa irraa baafnaanis, bishaan laggeen akka laggeetti isaan buuse.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:34:38.682555174Z",
+  "translation": "Biqqeffamiinsa miila dhiiraa sela' irraa baase, bishaan akka laggeen gadi buuse.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "miila dhiiraa sela'oota (biqqeffamiinsa dhiirani)"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "sela' irraa"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "gadi buuse"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "akka laggeen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:15.979911715Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 14,
-  "translation": "Mosheeinis guyyaa sanatti kakachiise jechuun \"Dhugumatti, daara hiikkaa rukuttee ishee jiraan lafti, dhaalaa fi ilmoota keetiif taati\" jedhe, Waaqayyo akka jaallattuuf Sabni yaada isaa guutuuutti, akkasumas \"Yahwe Eloohiim kiyya\" jedhe.",
+  "translation": "Mosheenis guyyaa sanatti kakateedhaan jedhe: dhugumatti, lafti tokko gandaan kee irratti siiterate siif taati dhaalmootaaf, ilmoo keetiis yeroo hundaaf, sababiin isaas Yahwe Eloohiim kiyya hundaan ajajaa turreef.",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "kakachiise"
+      "gloss": "kakateedhaan"
     },
     {
       "surface": "משה",
-      "gloss": "Moshee"
+      "gloss": "Mosheenis"
     },
     {
       "surface": "ביום",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "jechuun"
+      "gloss": "jedhe"
     },
     {
       "surface": "אם",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "לא",
-      "gloss": "dhugumatti"
+      "gloss": ""
     },
     {
       "surface": "הארץ",
-      "gloss": "lafi"
+      "gloss": "lafti"
     },
     {
       "surface": "אשר",
-      "gloss": "isa"
+      "gloss": "tokko"
     },
     {
       "surface": "דרכה",
-      "gloss": "hiikkaa rukuttee"
+      "gloss": "siiterate"
     },
     {
       "surface": "רגלך",
-      "gloss": "rukti"
+      "gloss": "gandaan kee"
     },
     {
       "surface": "בה",
-      "gloss": "isheetti"
+      "gloss": "irratti"
     },
     {
       "surface": "לך",
-      "gloss": "dhaalaa fi"
+      "gloss": "siif"
     },
     {
       "surface": "תהיה",
@@ -65,31 +65,31 @@
     },
     {
       "surface": "לנחלה",
-      "gloss": "dhaalaa"
+      "gloss": "dhaalmootaaf"
     },
     {
       "surface": "ולבניך",
-      "gloss": "ilmoota keetiifis"
+      "gloss": "ilmoo keetiis"
     },
     {
       "surface": "עד",
-      "gloss": "hangadhu"
+      "gloss": "yeroo"
     },
     {
       "surface": "עולם",
-      "gloss": "yeroo hunda"
+      "gloss": "hundaaf"
     },
     {
       "surface": "כי",
-      "gloss": "akka"
+      "gloss": "sababiin isaas"
     },
     {
       "surface": "מלאת",
-      "gloss": "guutuuutti"
+      "gloss": "hundaan ajajaa turreef"
     },
     {
       "surface": "אחרי",
-      "gloss": "booda"
+      "gloss": "ajajaa"
     },
     {
       "surface": "יהוה",
@@ -100,6 +100,6 @@
       "gloss": "Eloohiim kiyya"
     }
   ],
-  "timestamp": "2026-08-29T06:52:29.349613039Z",
+  "timestamp": "2026-08-29T16:48:39.651289203Z",
   "model": "glm-5.3"
 }

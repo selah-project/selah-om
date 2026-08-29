@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 11,
-  "translation": "Sirna kan guutamaan karaa isaa qajeelcha; rakkoo keenyaan[isaa] keenyaan duubatti — kan moo'aa godaanan irratti — samii bishaan irraa Barsiisuu",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:02:21.333148204Z",
+  "translation": "Sirrummaan kan guutuu-mindaan karaa isaa ni sirreesse; moontiin moonnaa isaatiin ni kufa.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "sirrummaan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kan guutuu-mindaa"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ni sirreesse"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "karaa isaa"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "moonnaa isaatiin (fi)"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ni kufa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moontiin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:56.199540034Z",
   "model": "glm-5.3"
 }

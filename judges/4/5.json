@@ -5,8 +5,77 @@
   "book": "judges",
   "lang": "om",
   "chapter": 4,
-  "translation": "Inni teessa; ardiin Deboraatti, gidduu Ramaa fi gidduu Beet-El, gaarri Efrayim keessatti; ilmaan Israa'el deebii isaaf isa bira ba'u.",
-  "tokens": [],
-  "timestamp": "2026-08-29T07:02:43.203811118Z",
+  "translation": "Innis teessoo Torphee Deboraa jalatti, Haaraamaa fi Beet-eeli giddutti, gaarreen Efrayim irratti taa'a turte; ilmaan Israa'eel immoo mootummaa hundaaf isheetti ol olumaan.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "taa'a turte"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Torphee"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Deboraa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giddutti"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Haaraamaa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eeli"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim irratti"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "olumaan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mootummaa hundaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:11.854048507Z",
   "model": "glm-5.3"
 }

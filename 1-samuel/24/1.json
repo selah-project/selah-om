@@ -5,8 +5,37 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 24,
-  "translation": "Daawidis gara olaa maqaa ta'een ta'een — Daawid achii kaasee, kanteenyaa Motummaa Israa'elii duubatti akka deebi'uDaawid achii kaasee, socho'ee, kaasee socho'ee, Daawid achii kaasee, ol kaa'amee, DaawidisOOTOTA ACHII HAA TA'U. Daawid akka'uma jiraachuu qabu. Daawidis gammachuu isaatiin. — REWRITE PROPER: Daawid akka inni jedhu haa godhu. Daawidis. — FINAL: Daawid achii ol bahe, Daawidis mannii isaa wajjin. GARA DHUMAA: Daawid achii ol bahe, Daawidis Daawid jiraachuu isaa eeguu qaba. — clean: Daawid achii ol bahe, Daawidis sochii isaa eeguu qaba. — FINAL CLEAN: Daawid achii ol bahe, Daawidis Dirree duraa eeguu qaba.",
-  "tokens": [],
-  "timestamp": "2026-08-29T07:33:45.496361178Z",
+  "translation": "Daawidis sun irraa ol ba'e, garreeMotummaa bishaan Ayin-Gedii jiraachuu jalqabe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidis sun"
+    },
+    {
+      "surface": "משם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraachuu jalqabe"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "garreeMotummaa bishaan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedii"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:05.754168956Z",
   "model": "glm-5.3"
 }

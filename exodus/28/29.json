@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 28,
-  "translation": "Aharoonis maqoota ilmaan Israa'el ⟨את⟩ бcosan haa baatu — Hosaan Murannoo irratti, onnee isaa irratti, yeroo ija qulqulluutti sebu; Yaatedduuf, fuuldura Yahwe ti, yeroo hunda.",
+  "translation": "Aharoonis maqoota ilmaan Israa'el ⟨את⟩ chuunsa murtii irratti onnee isaa irratti baatu, yeroo biyya qulqulluutti isa seenu, yaadannoo_Yahwe duratti ta'ee itti fufuudhaan.",
   "tokens": [
     {
       "surface": "ונשא",
-      "gloss": "haa baatu"
+      "gloss": "baatu"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoonis"
+      "gloss": "Aharooni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maqoota"
+      "marks": "maqoota ilmaan Israa'el"
     },
     {
       "surface": "שמות",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "בחשן",
-      "gloss": "Hosaan irratti"
+      "gloss": "chuunsa"
     },
     {
       "surface": "המשפט",
-      "gloss": "Murannoo"
+      "gloss": "murtii"
     },
     {
       "surface": "על",
@@ -50,23 +50,23 @@
     },
     {
       "surface": "בבאו",
-      "gloss": "yeroo sebu"
+      "gloss": "yeroo isa seenu"
     },
     {
       "surface": "אל",
-      "gloss": "seffu"
+      "gloss": "seenu"
     },
     {
       "surface": "הקדש",
-      "gloss": "ija qulqulluu"
+      "gloss": "biyya qulqulluutti"
     },
     {
       "surface": "לזכרן",
-      "gloss": "Yaatedduuf"
+      "gloss": "yaadannoo"
     },
     {
       "surface": "לפני",
-      "gloss": "fuuldura"
+      "gloss": "duratti"
     },
     {
       "surface": "יהוה",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "תמיד",
-      "gloss": "yeroo hunda"
+      "gloss": "itti fufuudhaan"
     }
   ],
-  "timestamp": "2026-08-29T14:20:07.658971195Z",
+  "timestamp": "2026-08-29T16:42:12.066340622Z",
   "model": "glm-5.3"
 }

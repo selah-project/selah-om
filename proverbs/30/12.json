@@ -5,8 +5,33 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 30,
-  "translation": "(Baafatootni kolfaa) maqaa guutuu je'u — garuu taate isaanii keessatti kolfaa biraatif qabu qofaaf; maqaa Waaqaa baafatanii ta'uu baafatanii fi sirriitti hin hubatanii.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:13:27.635371181Z",
+  "translation": "Dora ijaa isheetii ofii keenya keessatti qulqulloo ta'e, garuu bishaan ho'aa isheetii hin qulqullaaffamne.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "dora ijaa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulloo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ijaa isheetii ofii keessatti"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "garuu bishaan ho'aa isheetii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "qulqullaaffamne"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:16.006877479Z",
   "model": "glm-5.3"
 }

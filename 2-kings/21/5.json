@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "2-kings 21:5",
-  "book": "2-kings",
-  "lang": "om",
-  "chapter": 21,
-  "translation": "Hiikkaa ajajaaallee ibsaa:",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:54:11.886141086Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":5,"ref":"2-kings 21:5","book":"2-kings","lang":"om","chapter":21,"translation":"Ijibbe uume warra samii hundaaf — mana Yahwees doomii lama keessatti.","tokens":[{"surface":"ויבן","gloss":"ijibbe uume"},{"surface":"מזבחות","gloss":"ijibbe"},{"surface":"לכל","gloss":"hundaaf"},{"surface":"צבא","gloss":"warra"},{"surface":"השמים","gloss":"samii"},{"surface":"בשתי","gloss":"doomii lama keessatti"},{"surface":"חצרות","gloss":"doomii lama"},{"surface":"בית","gloss":"mana"},{"surface":"יהוה","gloss":"Yahwe"}],"timestamp":"2026-08-29T16:20:13.324985473Z","model":"glm-5.3"}

@@ -5,8 +5,65 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 21,
-  "translation": "Hanga dheeraa waan Amoon hojjetti inni hojjete, silaa hin jiraa? Inni barreeffama akkaataa barreeffama waan barreeffamaawwan zuutii mootonni YeHUDAA irratti kan barreeffamuu miti — waan Amoon gaggeessaa kan barreeffamaawwan Guyyoota Mootonni YaaHUDAA irratti barreeffamu hin jiraa? Waan Amoon dalageetti kan barreeffamuu barreeffama Guyyoota Mootonni Yahuudaa irratti hin barreeffamnee?",
-  "tokens": [],
-  "timestamp": "2026-08-29T08:39:21.351254603Z",
+  "translation": "Warra jirtitiin jechoon Amoon inni hojjete, sila isaan barreeffamanii mitii? Barruu Kitaaba Jechoon Guyyoota Mootumootaa Yehuudaa irratti.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "warra jirtiitin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoon"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "sila"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "barreeffamanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Barruu Kitaaba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Jechoon"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Guyyoota"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "Mootumootaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:29.703624792Z",
   "model": "glm-5.3"
 }

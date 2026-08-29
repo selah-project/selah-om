@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 11,
-  "translation": "Yeroo waggaa torbaffaas Yehoyaadaan abbootii dhibbaa, Karayitootaa fi warra eeggatuu fudhatee mana Yahwee isaani geessise; isaaniin waliin kakuu godhe, mana Yahwee keessatti isaani kakachisees, ⟨את⟩ ilma mooticha isaaniif agarsiise.",
+  "translation": "Yeroo waggaa torbaa keessaa Yehoyaadaa shifeesse, ⟨את⟩ abbootii waraanaa dhibbaa, Kaaritootaa fi fastarra fudhatee, ⟨את⟩ isaan mana Yahwe bira isaa geessise; isaaniif kakaasaa murteesse, mana Yahwe keessatti ⟨את⟩ isaan kakuu kakuussee; ⟨את⟩ isaanitti ⟨את⟩ ilma mootichaa mul'ise.",
   "tokens": [
     {
       "surface": "ובשנה",
-      "gloss": "Yeroo waggaa ... (את)"
+      "gloss": "yeroo waggaa"
     },
     {
       "surface": "השביעית",
-      "gloss": "torbaffaa"
+      "gloss": "torbaa keessaa"
     },
     {
       "surface": "שלח",
-      "gloss": "(את) ergamees"
+      "gloss": "shifeesse"
     },
     {
       "surface": "יהוידע",
-      "gloss": "Yehoyaadaan"
+      "gloss": "Yehoyaadaa"
     },
     {
       "surface": "ויקח",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abbootii dhibbaa"
+      "marks": "abbootii waraanaa dhibbaa"
     },
     {
       "surface": "שרי",
-      "gloss": "abbootii"
+      "gloss": "abbootii waraanaa"
     },
     {
       "surface": "המאיות",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "לכרי",
-      "gloss": "Karayitootaa"
+      "gloss": "Kaaritootaa"
     },
     {
       "surface": "ולרצים",
-      "gloss": "warra eeggatuu"
+      "gloss": "fi fastarra"
     },
     {
       "surface": "ויבא",
@@ -54,12 +54,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ isaani",
-      "marks": "mana Yahwee"
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
     },
     {
       "surface": "אליו",
-      "gloss": "isa bira"
+      "gloss": "bira isaa"
     },
     {
       "surface": "בית",
@@ -67,50 +67,50 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwee"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ויכרת",
-      "gloss": "kakuu godhe"
+      "gloss": "murteesse"
     },
     {
       "surface": "להם",
-      "gloss": "isaaniin waliin"
+      "gloss": "isaaniif"
     },
     {
       "surface": "ברית",
-      "gloss": "kakuu"
+      "gloss": "kakaasaa"
     },
     {
       "surface": "וישבע",
-      "gloss": "kakachisees"
+      "gloss": "kakuu kakuussee"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ isaani",
-      "marks": "mana Yahwee keessatti"
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
     },
     {
       "surface": "בבית",
-      "gloss": "mana ... keessatti"
+      "gloss": "mana keessatti"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwee"
+      "gloss": "Yahwe"
     },
     {
       "surface": "וירא",
-      "gloss": "agarsiises"
+      "gloss": "mul'ise"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ isaaniif",
-      "marks": "ilma mooticha"
+      "gloss": "⟨את⟩",
+      "marks": "isaanitti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilma mooticha"
+      "marks": "ilma mootichaa"
     },
     {
       "surface": "בן",
@@ -118,9 +118,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "mooticha"
+      "gloss": "mootichaa"
     }
   ],
-  "timestamp": "2026-08-29T08:30:27.629875064Z",
+  "timestamp": "2026-08-29T16:53:09.203978170Z",
   "model": "glm-5.3"
 }

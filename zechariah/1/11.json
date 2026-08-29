@@ -5,20 +5,20 @@
   "book": "zechariah",
   "lang": "om",
   "chapter": 1,
-  "translation": "Isaanis ⟨את⟩ malaaqicha Yahwe hadaasota gidduutti dhaabbate deebisanii jedhan, “Dachee daangeffannee; kanaan, dacheen hundi teessaa ⟨is⟩ nagaa.”",
+  "translation": "Fi deebisan, maleeka Yahwe kan ijoollacha ilaachiiwwan (haadasota) gidduutti dhaabbatee irratti; ni jedhan: \"Dachii keessa sochiichine, fi kuma, dachiin hundi ni jiraatti, tasgabbii qabdi.\"",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "deebisanii"
+      "gloss": "fi deebisan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "malaaqicha"
+      "marks": "maleeka (ergamaa)"
     },
     {
       "surface": "מלאך",
-      "gloss": "malaaqicha"
+      "gloss": "maleeka"
     },
     {
       "surface": "יהוה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "העמד",
-      "gloss": "dhaabbate"
+      "gloss": "kan dhaabbatee"
     },
     {
       "surface": "בין",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "ההדסים",
-      "gloss": "hadaasota"
+      "gloss": "ilaachiiwwan (haadasota)"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "jedhan"
+      "gloss": "fi ni jedhan"
     },
     {
-      "surface": "התהלכנו",
-      "gloss": "daangeffannee"
+      "surface": "התהלכננו",
+      "gloss": "sochiichine"
     },
     {
       "surface": "בארץ",
-      "gloss": "Dachee"
+      "gloss": "dachii keessa"
     },
     {
       "surface": "והנה",
-      "gloss": "kanaan"
+      "gloss": "fi kuma"
     },
     {
       "surface": "כל",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "dacheen"
+      "gloss": "dachiin"
     },
     {
       "surface": "ישבת",
-      "gloss": "teessaa"
+      "gloss": "ni jiraatti"
     },
     {
       "surface": "ושקטת",
-      "gloss": "nagaa"
+      "gloss": "tasgabbii qabdi"
     }
   ],
-  "timestamp": "2026-08-29T11:00:22.280736044Z",
+  "timestamp": "2026-08-29T17:09:50.298716345Z",
   "model": "glm-5.3"
 }

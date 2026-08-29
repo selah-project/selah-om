@@ -5,8 +5,45 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 34,
-  "translation": "Haaromsanii malee waan raawwatanitti, sababa raawwatamu dhabuu tiinii-bulchiinsaa sheeksaniitu, sababa raawwatamu dhabuu tiinii-bulchiinsaa ti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:23:21.505297846Z",
+  "translation": "Hinisamuudhaan—woonjeettuutti hin taaneef, abbootii kennaatiif—rakkatanii bittinaa'an; wantoota adda addatti baafamanii, bishaan irratti hin taaneef, kabajamuu hin taaneef, garuu isaan hin gorfanan; garuu abbootiin isaanii isaan hin gorfane.",
+  "tokens": [
+    {
+      "surface": "וַתְּפוּצֶ֖ינָה",
+      "gloss": "Ininisamuudhaan"
+    },
+    {
+      "surface": "מִבְּלִ֣י",
+      "gloss": "hinisamuudhaan"
+    },
+    {
+      "surface": "רֹעֶ֑ה",
+      "gloss": "woonjeettuutti"
+    },
+    {
+      "surface": "וַתִּהְיֶ֧יןָה",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "לְאָכְלָ֛ה",
+      "gloss": "kennaatiif"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "wantoota"
+    },
+    {
+      "surface": "חַיַּ֥ת",
+      "gloss": "adda"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "addatti"
+    },
+    {
+      "surface": "וַתְּפוּצֶֽינָה",
+      "gloss": "bittinaa'an"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:08.959188812Z",
   "model": "glm-5.3"
 }

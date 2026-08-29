@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 145:8","book":"psalms","lang":"om","chapter":145,"translation":"Rahmata qabu fi mararfataa Yahwe ⟨is⟩; dheera aaree fi kheesed guddaa qabu.","tokens":[{"surface":"חנון","gloss":"Rahmata qabu"},{"surface":"ורחום","gloss":"mararfataa"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"ארך","gloss":"dheera"},{"surface":"אפים","gloss":"aaree"},{"surface":"וגדל","gloss":"guddaa"},{"surface":"חסד","gloss":"kheesed"}],"timestamp":"2026-08-29T11:55:59.326162479Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Dhiifama geessisu fi rahmata qabu dha Yahwe, dheeraa hinaddabaru, guddaa kheesed isaatiin.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "dhiifama geessisu"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "fi rahmata qabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheeraa hinaddabaru"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(iyya addabbi)"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    }
+  ],
+  "timestamp": "2026-08-29T17:01:35.155071235Z",
+  "model": "glm-5.3"
+}

@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 27,
-  "translation": "Yoo [ani] hin amane turre, ⟨is⟩ ani kufe turre — tola Yahwe lafa jireenyaa keessatti argachuuf [kana amane].",
+  "translation": "Loo silaa an hin amanu tetu, [ani] jaallummaa Yahwe dachii jireenyaa keessatti [ani] arguutti.",
   "tokens": [
     {
       "surface": "לולא",
-      "gloss": "yoo...hin"
+      "gloss": "loo silaa"
     },
     {
       "surface": "האמנתי",
-      "gloss": "hin amane turre"
+      "gloss": "hin amanu tetu"
     },
     {
       "surface": "לראות",
-      "gloss": "argachuuf"
+      "gloss": "arguutti"
     },
     {
       "surface": "בטוב",
-      "gloss": "tola"
+      "gloss": "jaallummaa"
     },
     {
       "surface": "יהוה",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "lafa"
+      "gloss": "dachii"
     },
     {
       "surface": "חיים",
-      "gloss": "jireenyaa"
+      "gloss": "jireenyaa keessatti"
     }
   ],
-  "timestamp": "2026-08-29T11:17:36.381747024Z",
+  "timestamp": "2026-08-29T16:59:53.955385642Z",
   "model": "glm-5.3"
 }

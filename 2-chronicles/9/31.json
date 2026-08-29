@@ -5,8 +5,57 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 9,
-  "translation": "Sileemooniis abbaotaan isa wajjin hirate; biyya Daawid abbaa isaas keessatti hafuura. Ijji isaa Rehabe'aamis bakka isaa mootummaa hojjetee.",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:53:19.994265724Z",
+  "translation": "Suleemaani abbootii isaa wajjin hirate; magaalaa Daawid abbaa isaa keessatti hafuura isaatiitiin hiikamanii, Rehabe'aam ilma isaa bakka isaa mootummoota mootan",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hirate"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleemaani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "hiikamanii"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummoota mootan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabe'aam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "bakka isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:35.211070995Z",
   "model": "glm-5.3"
 }

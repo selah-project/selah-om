@@ -5,8 +5,45 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 52,
-  "translation": "Wanta Yahwe akkana jedheef, waan dogoggoraa malee gurguramtanii, waan qabeenyaan malee bilisoomfamtu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:14:17.186698132Z",
+  "translation": "Akka kanneeniti Yahwe jedhe: «Hin gatii malee dhiyaattan, akkaanamis garuu argee-biyya keessan malee hin fe'amtanu.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Akka kanneenitin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka kanneeniti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "hin gatii malee"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "dhiyaattan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "argee-biyya malee"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "fe'amtanu"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:50.420098295Z",
   "model": "glm-5.3"
 }

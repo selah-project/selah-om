@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "om",
   "chapter": 30,
-  "translation": "Amma nimbaduu: kana gabatee irratti ⟨אתם⟩ barreessi, kitaaba irrattis kaawwi; guyyaa boodaa kan dhugaa ragaa ta'uuf — yeroo hundaaf, dheeraadhaa dheeraa.",
+  "translation": "Amma gad-baay'i, isaa gabatee irratti ⟨את⟩ waliin isaaniitiin barri, akkasumas kitaaba irratti haa qoodamu; guyyaa boodaa haa ta'u, yeroo hunda, hanga bara baraa.",
   "tokens": [
     {
       "surface": "עתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בוא",
-      "gloss": "nimbaduu"
+      "gloss": "gad-baay'i"
     },
     {
       "surface": "כתבה",
-      "gloss": "barreessi"
+      "gloss": "barri"
     },
     {
       "surface": "על",
@@ -30,11 +30,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "isaanitti (with them)"
+      "marks": "isaa (waan barreeffame) — waliin isaaniitiin"
     },
     {
       "surface": "ועל",
-      "gloss": "irrattis"
+      "gloss": "akkasumas irratti"
     },
     {
       "surface": "ספר",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "חקה",
-      "gloss": "kaawwi"
+      "gloss": "haa qoodamu"
     },
     {
       "surface": "ותהי",
-      "gloss": "ta'u"
+      "gloss": "haa ta'u"
     },
     {
       "surface": "ליום",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "לעד",
-      "gloss": "yeroo hundaaf"
+      "gloss": "yeroo hunda"
     },
     {
       "surface": "עד",
-      "gloss": "dheeraadhaa"
+      "gloss": "hanga"
     },
     {
       "surface": "עולם",
-      "gloss": "dheeraa"
+      "gloss": "bara baraa"
     }
   ],
-  "timestamp": "2026-08-29T09:00:39.594856014Z",
+  "timestamp": "2026-08-29T16:54:45.239306261Z",
   "model": "glm-5.3"
 }

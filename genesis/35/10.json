@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 35,
-  "translation": "Eloohiinis isatti jedhe: maqaan kee Ya'aqob; maqaan kee Ya'aqob ammas maaloo hin waamamu, Yisraa'el ⟨is⟩ maqaa kee ta'a; maqaa isaa Yisraa'el jedhees waame.",
+  "translation": "Eloohiiminis isaatti jedhe: \"Maqaan kee Ya'aqoob dha; maqaan kee gammagiisan Ya'aqoob hin waamamu, waan maqaan kee Israa'el ta'uuf.\" Isaa ⟨את⟩ maqaa isaa Israa'el jedheen waame.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "isatti"
+      "gloss": "isaatti"
     },
     {
       "surface": "אלהים",
-      "gloss": "Eloohiim"
+      "gloss": "Eloohiiminis"
     },
     {
       "surface": "שמך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Ya'aqob"
+      "gloss": "Ya'aqoob"
     },
     {
       "surface": "לא",
@@ -41,31 +41,31 @@
     },
     {
       "surface": "עוד",
-      "gloss": "ammoo"
+      "gloss": "gammagiisan"
     },
     {
       "surface": "יעקב",
-      "gloss": "Ya'aqob"
+      "gloss": "Ya'aqoob"
     },
     {
       "surface": "כי",
-      "gloss": "maaloo"
+      "gloss": "waan"
     },
     {
       "surface": "אם",
-      "gloss": "tokko"
+      "gloss": "ta'uuf"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraa'el"
+      "gloss": "Israa'el"
     },
     {
       "surface": "יהיה",
-      "gloss": "ta'a"
+      "gloss": "ta'u"
     },
     {
       "surface": "שמך",
-      "gloss": "maqaa kee"
+      "gloss": "maqaan kee"
     },
     {
       "surface": "ויקרא",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraa'el"
+      "gloss": "Israa'el"
     }
   ],
-  "timestamp": "2026-08-29T04:45:15.620093262Z",
+  "timestamp": "2026-08-29T16:39:11.717822823Z",
   "model": "glm-5.3"
 }

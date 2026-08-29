@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":25,"ref":"1-chronicles 11:25","book":"1-chronicles","lang":"om","chapter":11,"translation":"Sodaa shanattii keessaa ilaali, inni kabajamaadha; gara sodaa sanihii ammoo hin dhufne; Daawidinis biiroo (משמעתו) isaa irratti dhaabbate.","tokens":[{"surface":"מן","gloss":"keessaa"},{"surface":"השלושים","gloss":"sodaa shanattii"},{"surface":"הנו","gloss":"ilaali"},{"surface":"נכבד","gloss":"kabajamaadha"},{"surface":"הוא","gloss":"inni"},{"surface":"ואל","gloss":"gara"},{"surface":"השלושה","gloss":"sodaa sanihii"},{"surface":"לא","gloss":"hin"},{"surface":"בא","gloss":"dhufne"},{"surface":"וישימהו","gloss":"dhaabbate"},{"surface":"דויד","gloss":"Daawidinis"},{"surface":"על","gloss":"irratti"},{"surface":"משמעתו","gloss":"biiroo isaa"}],"timestamp":"2026-08-29T13:34:41.982286879Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 11:25",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Soddaa soddaa turan keessaa dhorkaa, kiisa, inni kabajamaa ta'ee, garuu sadan duraa biratti hin dhufnee; Daawidis inni eegumsa isaa irratti dhaabeesse.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "soddaa soddaa turan keessaa"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "dhorkaa, kiisa"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "kabajamaa ta'ee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "garuu... biratti"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "sadan duraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufnee"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "dhaabeesse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "eegumsa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T17:04:49.432999046Z",
+  "model": "glm-5.3"
+}

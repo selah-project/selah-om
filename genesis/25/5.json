@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 25,
-  "translation": "Abrahaam ⟨את⟩ waan hunda kan isaa tiif Is-haaqiffe kenne.",
+  "translation": "Abraam ⟨את⟩ waan isaa hunduu Isaqiif kenne.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "אברהם",
-      "gloss": "Abrahaam"
+      "gloss": "Abraam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "waan hunda"
+      "marks": "waan isaa hunduu"
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "hunduu"
     },
     {
       "surface": "אשר",
-      "gloss": "kan"
+      "gloss": "waan"
     },
     {
       "surface": "לו",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "ליצחק",
-      "gloss": "Is-haaqif"
+      "gloss": "Isaqiif"
     }
   ],
-  "timestamp": "2026-08-29T04:35:33.704033098Z",
+  "timestamp": "2026-08-29T17:06:40.850316406Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 47,
-  "translation": "Lafa Mitsraayim fuuldura keetti ⟨is⟩; akka meetaabaa lafaatti ⟨את⟩ abbaa kee fi ⟨את⟩ obboleewwan kee hagamsi; lafa Gooshen keessa haa jiraatan. Yoo beekte, isiis yoo namoota humna qaban isaan keessa jiraatan, boqonnaa horsiise koo irrattiis isaanitti godhi.",
+  "translation": "Biyyi Mitsraayim fuuldura keetti ⟨ti⟩; iddoo gaarii ta'e kan biyyaa keessatti ⟨את⟩ abbaa kee fi ⟨את⟩ obboleeykee haawaadhu; biyya Goshen keessatti haa jiraatan; yoo beektas, isaan keessatti namoonni dandeettii qaban yoo jiraatan, waan ani qabu horiitiif itti sararota godhi.",
   "tokens": [
     {
       "surface": "ארץ",
-      "gloss": "lafa"
+      "gloss": "biyyi"
     },
     {
       "surface": "מצרים",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨is⟩"
+      "gloss": "⟨ti⟩"
     },
     {
       "surface": "במיטב",
-      "gloss": "akka meetaabaa"
+      "gloss": "iddoo gaarii ta'e"
     },
     {
       "surface": "הארץ",
-      "gloss": "lafaa"
+      "gloss": "kan biyyaa"
     },
     {
       "surface": "הושב",
-      "gloss": "hagamsi"
+      "gloss": "haawaadhu"
     },
     {
       "surface": "את",
@@ -45,13 +45,13 @@
       "gloss": "abbaa kee"
     },
     {
-      "surface": "ואת",
+      "surface": "ו את",
       "gloss": "⟨את⟩",
-      "marks": "obboleewwan kee"
+      "marks": "obboleeykee"
     },
     {
       "surface": "אחיך",
-      "gloss": "obboleewwan kee"
+      "gloss": "obboleeykee"
     },
     {
       "surface": "ישבו",
@@ -59,61 +59,61 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "lafa"
+      "gloss": "biyya"
     },
     {
       "surface": "גשן",
-      "gloss": "Gooshen"
+      "gloss": "Goshen"
     },
     {
       "surface": "ואם",
-      "gloss": "yoo"
+      "gloss": "yoo … -s"
     },
     {
       "surface": "ידעת",
-      "gloss": "beekte"
+      "gloss": "beektas"
     },
     {
       "surface": "ויש",
-      "gloss": "isiis jiraatan"
+      "gloss": "yoo jiraatan"
     },
     {
       "surface": "בם",
-      "gloss": "isaan keessa"
+      "gloss": "isaan keessatti"
     },
     {
       "surface": "אנשי",
-      "gloss": "namoota"
+      "gloss": "namoonni"
     },
     {
       "surface": "חיל",
-      "gloss": "humna qaban"
+      "gloss": "dandeettii qaban"
     },
     {
       "surface": "ושמתם",
-      "gloss": "isaanitti godhi"
+      "gloss": "godhi"
     },
     {
       "surface": "שרי",
-      "gloss": "boqonnaa"
+      "gloss": "sararota"
     },
     {
       "surface": "מקנה",
-      "gloss": "horsiise"
+      "gloss": "horii"
     },
     {
       "surface": "על",
-      "gloss": "irrattiis"
+      "gloss": "itti"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "waan"
     },
     {
       "surface": "לי",
-      "gloss": "koo"
+      "gloss": "ani qabu"
     }
   ],
-  "timestamp": "2026-08-29T04:54:07.899527395Z",
+  "timestamp": "2026-08-29T16:41:08.160900034Z",
   "model": "glm-5.3"
 }

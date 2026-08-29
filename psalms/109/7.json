@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 109,
-  "translation": "Yeroo murtii irratti dhufu, badii bahee haa ba'u; kadhaansaa biirootaatti haa jijjiiramu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:46:46.548527686Z",
+  "translation": "Yeroo inni murtii irratti hafu, rashaan akka ba'u haa ta'u, kadannaan isaa immoo dhiibaa ta'uu haa qabaatuu.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "yeroo inni murtii irratti hafu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'u"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashaan"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "kadannaan isaa immoo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'uu haa qabaatuu"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "dhiibaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:58.088292370Z",
   "model": "glm-5.3"
 }

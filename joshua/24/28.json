@@ -5,8 +5,34 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:59:09.357170248Z",
+  "translation": "Yihoshu'a nama ⟨את⟩ saba ergaee, tokko tokko dhaddacha isaatti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergaee"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tokko tokko"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "dhaddacha isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:18:18.399996283Z",
   "model": "glm-5.3"
 }

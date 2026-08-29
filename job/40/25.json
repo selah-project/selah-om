@@ -5,8 +5,38 @@
   "book": "job",
   "lang": "om",
   "chapter": 40,
-  "translation": "Suuqaa fageenyaa ka'aa haa Lnviyaatanitii? Hiriigaaqaa maaloo saaphana isaa gadi seen",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:33:23.767809662Z",
+  "translation": "Suu ati Liwyaataan ⟨את⟩ huqqoo Isaatti harkisa, arraba isaa geengoo Isaan gadi rukuta?",
+  "tokens": [
+    {
+      "surface": "תמשך",
+      "gloss": "harkisa"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Liwyaataan"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "huqqoo Isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "ובחבל",
+      "gloss": "arraba isaa geengoo Isaan"
+    },
+    {
+      "surface": "תשקיע",
+      "gloss": "gadi rukuta"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:54.703310085Z",
   "model": "glm-5.3"
 }

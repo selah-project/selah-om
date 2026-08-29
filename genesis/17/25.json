@@ -5,8 +5,54 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 17,
-  "translation": "Ismaa'eelis ilma isaa waggaa soddomii sadii ta'e, yeroo гормaatta (circumcised) ofii ti dichi....",
-  "tokens": [],
-  "timestamp": "2026-08-29T04:30:40.276131893Z",
+  "translation": "Ishmael ibsooti isaa da'aa waggaa sadii fi kudha-torba ture yeroo gogaa gogdii isaa mul'ateetti ⟨את⟩ mul'aauf.",
+  "tokens": [
+    {
+      "surface": "וישממעאל",
+      "gloss": "Ismaa'eel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ibsooti isaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "da'aa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "fi kudha-torba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "⟨את⟩ mul'aauf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gogaa (בשר)"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "gogdii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:15:58.174071462Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 17,
-  "translation": "Ijjee abbaa isaa ti ba'ii daa'ima wallaalluu, okkoloo abbaa takka nu hiikuu nyaachuu keessaatti",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:06:00.039218024Z",
+  "translation": "Doddaa abbaa isaatii fi utuu boreetti miira mo'aa godhaa heeddu",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "hedduu (kaasaa)"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "abbaa isaatii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sillyaa"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "utuu boreetti"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "mo'aa isaa godhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:51.523646053Z",
   "model": "glm-5.3"
 }

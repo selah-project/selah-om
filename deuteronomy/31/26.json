@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 31,
-  "translation": "«Kitaaba toorotaa kana ⟨את⟩ fudhadhaa, gabatee kakuu Yahwe Eloohiim keessanii cinaa keessatti kaa'aa; innis isin biratti dhaddacha dhaabataa ta'ee haa hafu.»",
+  "translation": "Kitaaba seenaa seera kana fudhadhaa, akkasumas ⟨את⟩ isa kohni akkaataa sanduqa kakaa Yahwe Eloohiim keessanitti dhiyeessaa, innis sun isinitti ragaa ta'uun hafu.",
   "tokens": [
     {
       "surface": "לקח",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kitaaba toorotaa kana"
+      "marks": "kitaaba seenaa seera kana"
     },
     {
       "surface": "ספר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "התורה",
-      "gloss": "toorotaa"
+      "gloss": "seenaa seera"
     },
     {
       "surface": "הזה",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "kaa'aa"
+      "gloss": "dhiyeessaa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "kitaaba toorotaa kana"
+      "gloss": "⟨את⟩",
+      "marks": "isa kohni"
     },
     {
       "surface": "מצד",
-      "gloss": "cinaa"
+      "gloss": "kohni"
     },
     {
       "surface": "ארון",
-      "gloss": "gabatee"
+      "gloss": "sanduqa"
     },
     {
       "surface": "ברית",
-      "gloss": "kakuu"
+      "gloss": "kakaa"
     },
     {
       "surface": "יהוה",
@@ -55,25 +55,25 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Eloohiim keessanii"
+      "gloss": "Eloohiim keessan"
     },
     {
       "surface": "והיה",
-      "gloss": "haa hafu"
+      "gloss": "innis sun ta'a"
     },
     {
       "surface": "שם",
-      "gloss": "itti"
+      "gloss": "sun"
     },
     {
       "surface": "בך",
-      "gloss": "isin biratti"
+      "gloss": "isinitti"
     },
     {
       "surface": "לעד",
-      "gloss": "dhaabataa"
+      "gloss": "hafu"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.120136215Z",
+  "timestamp": "2026-08-29T16:47:45.744307290Z",
   "model": "glm-5.3"
 }

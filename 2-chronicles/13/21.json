@@ -5,8 +5,65 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 13,
-  "translation": "Abiyaahu amansa galee isaa cimse, dubartoota lubbooty-fedhiiwiif taasise... maqaa maqoota naanneessuu hin danda'u — hiika sirrii: Abiyaahu of cimse, mana warraa lubbooty taasiseef mana warraa waan isaa taasiseef maqaa naanneessuu hin danda'u — kuna hin barbaachisu; koodiin dhiyyoo:",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:55:56.292903042Z",
+  "translation": "Abiyahuus immoo of cimse; dubartoota tolannaa lakkoofsa afur-torba fudhate; ilmoo shan-lammii fi lama, intala shan-torba dhalate.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "of cimse"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Abiyahuus"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tolannaa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dubartoota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "torba"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "shan-lammii"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "fi lama"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "torba"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "intala"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:58.514663756Z",
   "model": "glm-5.3"
 }

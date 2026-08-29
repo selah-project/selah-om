@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 13,
-  "translation": "Ragaan [סֵפֶר\/] [אֵת\/] [נְבֵלָה\/] [אִישׁ הָאֱלֹהִים\/] kaase, [בְּ\/] harreetti naannaawwaa'ee deebisaa deebisee; [בְּ\/] magaalaa [הַנָּבִיא\/] [הַזָּקֵן\/] [לְ\/] jajjabeessuu fi [לְ\/] awwaaluuuf dhufe.",
+  "translation": "Nabiichaan qaama du'aa nama Eloohiim kaase, ⟨את⟩ ganda irratti datcheef, deebisee; nabiicha boodaa magaalatti seene, akka saddisuufi akka awwaaluuf.",
   "tokens": [
     {
       "surface": "וישא",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "Ragaan"
+      "gloss": "nabiichaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nooncaa"
+      "marks": "qaama du'aa nama Eloohiim"
     },
     {
       "surface": "נבלת",
-      "gloss": "nooncaa"
+      "gloss": "qaama du'aa"
     },
     {
       "surface": "איש",
-      "gloss": "gowwummaa"
+      "gloss": "nama"
     },
     {
       "surface": "האלהים",
@@ -34,27 +34,27 @@
     },
     {
       "surface": "וינחהו",
-      "gloss": "naannaawwaa'ee"
+      "gloss": "datcheef"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "irratti"
     },
     {
       "surface": "החמור",
-      "gloss": "harree"
+      "gloss": "ganda"
     },
     {
       "surface": "וישיבהו",
-      "gloss": "deebisaa deebisee"
+      "gloss": "deebisee"
     },
     {
-      "surface": "ויבא",
-      "gloss": "dhufe"
+      "surface": "ובא",
+      "gloss": "seene"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "magaalatti"
     },
     {
       "surface": "עיר",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "Ragaa'icha"
+      "gloss": "nabiicha"
     },
     {
       "surface": "הזקן",
-      "gloss": "dullaa"
+      "gloss": "boodaa"
     },
     {
       "surface": "לספד",
-      "gloss": "jajjabeessuuf"
+      "gloss": "saddisuuf"
     },
     {
       "surface": "ולקברו",
-      "gloss": "awwaaluuuf"
+      "gloss": "awwaaluuf"
     }
   ],
-  "timestamp": "2026-08-29T08:12:53.357864726Z",
+  "timestamp": "2026-08-29T17:12:03.707274535Z",
   "model": "glm-5.3"
 }

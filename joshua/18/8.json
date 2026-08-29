@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 18,
-  "translation": "Nimoonni ka'anii deeman; Yihuushuun immoo ⟨את⟩ warra lafa barreessan deeman ajaje — akka jedhu: Deemaa, lafa keessa deemaa-taafee barreessaa, ⟨אותה⟩ qabdanii gara koo deebi'aa; aniis asitti Shiloh keessatti Yahwe fuuldura kakkoo isiniif nan laala.",
+  "translation": "Dhiironni ka'anii deemaniira; Yehooshu'a warra deemaniif ⟨את⟩ lafa barreessuuf ajaje, akka jedhutti: \"Deemaa, lafa irraa daangaa kennaatti sochoodhaa, lafa barreessaa; gara kiyyaatti deebi'aa; ani as keessif dirree Yahwe fuulduraatti, Shiiloh keessatti nan tuula.\"",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "nimoonni"
+      "gloss": "dhiironni"
     },
     {
       "surface": "וילכו",
-      "gloss": "deeman"
+      "gloss": "deemaniira"
     },
     {
       "surface": "ויצו",
@@ -25,33 +25,33 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Yihuushuun"
+      "gloss": "Yehooshu'a"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "warra deeman"
+      "marks": "warra deemaniif (ההלכים)"
     },
     {
       "surface": "ההלכים",
-      "gloss": "warra deeman"
+      "gloss": "warra deemaniif"
     },
     {
       "surface": "לכתב",
-      "gloss": "lafa barreessan"
+      "gloss": "barreessuuf"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lafa"
+      "marks": "lafaa (הארץ)"
     },
     {
       "surface": "הארץ",
-      "gloss": "lafa"
+      "gloss": "lafaa"
     },
     {
       "surface": "לאמר",
-      "gloss": "akka jedhu"
+      "gloss": "akka jedhutti"
     },
     {
       "surface": "לכו",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "והתהלכו",
-      "gloss": "deemaa-taafee"
+      "gloss": "sochoodhaa"
     },
     {
       "surface": "בארץ",
-      "gloss": "lafa keessa"
+      "gloss": "lafa irraa"
     },
     {
       "surface": "וכתבו",
@@ -71,8 +71,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "isheen lafa"
+      "gloss": "⟨את⟩ ishee",
+      "marks": "lafaa ishee (barreeffama lafaa)"
     },
     {
       "surface": "ושובו",
@@ -80,27 +80,27 @@
     },
     {
       "surface": "אלי",
-      "gloss": "gara koo"
+      "gloss": "gara kiyyaatti"
     },
     {
       "surface": "ופה",
-      "gloss": "aniis asitti"
+      "gloss": "as"
     },
     {
       "surface": "אשליך",
-      "gloss": "nan laala"
+      "gloss": "nan tuula"
     },
     {
       "surface": "לכם",
-      "gloss": "isiniif"
+      "gloss": "keessif"
     },
     {
       "surface": "גורל",
-      "gloss": "kakkoo"
+      "gloss": "dirree"
     },
     {
       "surface": "לפני",
-      "gloss": "fuuldura"
+      "gloss": "fuulduraatti"
     },
     {
       "surface": "יהוה",
@@ -108,9 +108,9 @@
     },
     {
       "surface": "בשלה",
-      "gloss": "Shiloh keessatti"
+      "gloss": "Shiiloh keessatti"
     }
   ],
-  "timestamp": "2026-08-29T06:55:36.288352360Z",
+  "timestamp": "2026-08-29T17:08:15.774884769Z",
   "model": "glm-5.3"
 }

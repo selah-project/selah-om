@@ -5,8 +5,99 @@
   "book": "judges",
   "lang": "om",
   "chapter": 1,
-  "translation": "Isaanis isatti, \"Eebbisa natti keni; sababiin isaas lafa Negeebii natti kenneef, baballaa bishaaniiis natti keni,\" jette. Kaalebinsa isaatti baballaa gubbaa ⟨את⟩ fi baballaa jalaa ⟨את⟩ kene.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:59:50.707624570Z",
+  "translation": "Innis isaatti, “Egaa eebbissa natti keni; sababaa biyya Negeeb natti kenniteef, burqitoota bishaaniiis natti keni.” Kalleebis burqitoota ol-anoo ⟨את⟩ fi burqitoota jala-anoo ⟨את⟩ isheef kene.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Innis isaatti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Egaa … keni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "eebissa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negeeb"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "natti kenniteef"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "keni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "burqitoota"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kene"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheef"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalleeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burqitoota ol-anoo"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "burqitoota"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ol-anoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burqitoota jala-anoo"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "burqitoota"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "jala-anoo"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:16.336505890Z",
   "model": "glm-5.3"
 }

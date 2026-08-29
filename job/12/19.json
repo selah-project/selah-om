@@ -5,8 +5,29 @@
   "book": "job",
   "lang": "om",
   "chapter": 12,
-  "translation": "Qaaloota qaqqabumee godaabbisa; danddattoota moo'achuu danda'anis kuffisa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:19:54.900385077Z",
+  "translation": "Qaallota haa-dhibee deemsisa, humnoonna gar-garaa taasisa.",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "deemsisa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "qaallota"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "haa-dhibee"
+    },
+    {
+      "surface": "ואתנים",
+      "gloss": "humnoonna"
+    },
+    {
+      "surface": "יסלף",
+      "gloss": "gar-garaa taasisa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:12.571415410Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":9,"ref":"exodus 31:9","book":"exodus","lang":"om","chapter":31,"translation":"و ⟨את⟩ galtii qoraniitii fi ⟨את⟩ meeshaalee isaa hunda, fi ⟨את⟩ finnee iliitii fi ⟨את⟩ cubbuu isaa.","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"galtii qoraniitii"},{"surface":"מזבח","gloss":"galtii"},{"surface":"העלה","gloss":"qoraniitii"},{"surface":"ואת","gloss":"⟨את⟩","marks":"meeshaalee isaa hunda"},{"surface":"כל","gloss":"hunda"},{"surface":"כליו","gloss":"meeshaalee isaa"},{"surface":"ואת","gloss":"⟨את⟩","marks":"finnee iliitii"},{"surface":"הכיור","gloss":"finnee iliitii"},{"surface":"ואת","gloss":"⟨את⟩","marks":"cubbuu isaa"},{"surface":"כנו","gloss":"cubbuu isaa"}],"timestamp":"2026-08-29T14:21:43.524904775Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Akkasumas ⟨את⟩ gadi-qopheensaa bishaan-dhiigaa fi ⟨את⟩ meeshaalee isaa hundaa, akkasumas ⟨את⟩ finnee bishaanii fi ⟨את⟩ gabatee isaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gadi-qopheensaa bishaan-dhiigaa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gadi-qopheensaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bishaan-dhiigaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee isaa hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "finnee bishaanii"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "finnee bishaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabatee isaa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "gabatee isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T17:07:13.270334376Z",
+  "model": "glm-5.3"
+}

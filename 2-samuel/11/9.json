@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":9,"ref":"2-samuel 11:9","book":"2-samuel","lang":"om","chapter":11,"translation":"Uuriyaan balbala mana ⟨the⟩ mootichaa irratti, ⟨את⟩ waamicha hunda to'ataa isaa wajjin seewwane; mana isaatti hin buuf.","tokens":[{"surface":"וישכב","gloss":"seewwane"},{"surface":"אוריה","gloss":"Uuriyaan"},{"surface":"פתח","gloss":"balbala"},{"surface":"בית","gloss":"mana"},{"surface":"המלך","gloss":"mootichaa"},{"surface":"את","gloss":"⟨את⟩","marks":"waamicha hunda to'ataa isaa"},{"surface":"כל","gloss":"hunda"},{"surface":"עבדי","gloss":"waamicha"},{"surface":"אדניו","gloss":"to'ataa isaa"},{"surface":"ולא","gloss":"hin"},{"surface":"ירד","gloss":"buuf"},{"surface":"אל","gloss":"-tti"},{"surface":"ביתו","gloss":"mana isaa"}],"timestamp":"2026-08-29T14:47:39.586622981Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Uuriyaawwan balaqqee mana mootichaa wajjin ⟨את⟩ hunda qaroota Gooftaa isaa tiif hiratee, mana isaa garuu hin bu'e.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hiratee"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaawwan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balaqqee"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda qaroota Gooftaa isaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qaroota"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Gooftaa isaa"
+    },
+    {
+      "surface": "וlא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:51:10.332709969Z",
+  "model": "glm-5.3"
+}

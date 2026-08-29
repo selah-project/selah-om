@@ -5,8 +5,41 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 9,
-  "translation": "Sileemooniis Yerushaalayim keessatti Israa'el hunda irratti waggaa afurtaatamii mootummaa hojjetee ture.",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:53:19.994078268Z",
+  "translation": "Sulèemaan Yerushaalayim keessatti, Israa'el guutuu irratti, waggaa afurtam moota ture.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "moota ture"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulèemaan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afurtam"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:28.669634228Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 29,
-  "translation": "Saree reettii tokko bishaan balleessaa kennuuf, isin bitanii akka isinif haa godhu",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:08:59.786016137Z",
+  "translation": "Fi saffuu reettii tokko bishaan balleessaa ti, isinitti akka raawwatamuuf.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "fi saffuu reettii"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "reettii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bishaan balleessaa"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "isinitti akka raawwatamuuf"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isinitti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:58.371844386Z",
   "model": "glm-5.3"
 }

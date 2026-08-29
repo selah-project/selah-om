@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 18,
-  "translation": "Mootiin Israa'el raajoota ⟨את⟩ dhibba afur dhiira qabsee, isaanitti jedhe: \"Nuti Raamoot-Gil'aadiitti deeminnaa waraanaaf, seenuu sirri dhisuu?\" Isaanis jedhan: \"Ol ba'i; Eloohiimiin ⟨is⟩ harka mootiitti kenna.\"",
+  "translation": "Mootin Israa'el immoo raajjoota ⟨את⟩ lubbuuyyaa afurtamii funyeef, isaanitti jedhe: \"Sodaattii Ramoot-Gil'aditti osoo hin seenin imaltaa, seenna moo dhaabna?\" Isaanis \"Ol ba'i, Eloohiim isaa harka mootummaa kennaa jira\" jedhan.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "qabsee"
+      "gloss": "funyeef"
     },
     {
       "surface": "מלך",
-      "gloss": "mootiin"
+      "gloss": "mootin"
     },
     {
       "surface": "ישראל",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raajoota"
+      "marks": "raajjoota"
     },
     {
       "surface": "הנבאים",
-      "gloss": "raajoota"
+      "gloss": "raajjoota"
     },
     {
       "surface": "ארבע",
-      "gloss": "afur"
+      "gloss": "afurtamii"
     },
     {
       "surface": "מאות",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "dhiira"
+      "gloss": "lubbuuyyaa"
     },
     {
       "surface": "ויאמר",
@@ -50,31 +50,31 @@
     },
     {
       "surface": "הנלך",
-      "gloss": "deeminnaa"
+      "gloss": "imaltaa"
     },
     {
       "surface": "אל",
-      "gloss": "-itti"
+      "gloss": "sodaattii"
     },
     {
       "surface": "רמת",
-      "gloss": "Raamoot"
+      "gloss": "Ramoot"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gil'aadi"
+      "gloss": "Gil'aditti"
     },
     {
       "surface": "למלחמה",
-      "gloss": "waraanaaf"
+      "gloss": "soodaa irratti"
     },
     {
       "surface": "אם",
-      "gloss": "yookiin"
+      "gloss": "moo"
     },
     {
       "surface": "אחדל",
-      "gloss": "dhisuu"
+      "gloss": "dhaabna"
     },
     {
       "surface": "ויאמרו",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "עלה",
-      "gloss": "ol ba'i"
+      "gloss": "Ol ba'i"
     },
     {
       "surface": "ויתן",
-      "gloss": "kenna"
+      "gloss": "kennaa jira"
     },
     {
       "surface": "האלהים",
-      "gloss": "Eloohiimiin"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "ביד",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "mootiitti"
+      "gloss": "mootummaa"
     }
   ],
-  "timestamp": "2026-08-29T13:58:20.947533103Z",
+  "timestamp": "2026-08-29T17:05:49.211443935Z",
   "model": "glm-5.3"
 }

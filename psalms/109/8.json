@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 109,
-  "translation": "Guyyoonni isaa xiqqaa haa ta'u; hojii isaa kan biraa haa fudhatu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:46:46.548648443Z",
+  "translation": "Guyyootni isaa mura'a haa ta'an; ofiisa isaa kan biraa haa fudhatu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "haa ta'an"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "Guyyootni isaa"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mura'a"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ofiisa isaa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "haa fudhatu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kan biraa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:54.571175758Z",
   "model": "glm-5.3"
 }

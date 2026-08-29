@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 34,
-  "translation": "Eenamuu ⟨⟨the⟩⟩ namti jirti, kan jaallattu jireenya, kan jaallattu akkaattuma barakkaa akka argattuu?",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:20:11.564963785Z",
+  "translation": "Eenyu ⟨namicha⟩ barbaadu jireenyaa, jaalatu guyyoota, waan gaarii ilaaluuf?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨namicha⟩"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "barbaadu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ilaaluuf"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:46.748162802Z",
   "model": "glm-5.3"
 }

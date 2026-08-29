@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 12,
-  "translation": "Kanaaf isaanitti jedhi: akkaanaa jedha Adoonaay Yahwe, jechoonni koos hundi ammas hin dhiifamu; waan nan dubbadu ⟨הוא⟩ hima dubbadu ta'ee raawwata, jedha Adoonaay Yahwe.",
+  "translation": "Sababa kanaatti isaaniitti jedhi: Akka kanaan jedha Adoonaay Yahwe: jechoonni kiyya tokkollee isaan hin dhiifamu; jecha ani dubbadhe ni hojjatama, imaaltii Adoonaay Yahwe ti.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Kanaaf"
+      "gloss": "sababa kanaatti"
     },
     {
       "surface": "אמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "isaanitti"
+      "gloss": "isaaniitti"
     },
     {
       "surface": "כה",
-      "gloss": "akkaanaa"
+      "gloss": "akka kanaan"
     },
     {
       "surface": "אמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "amas"
+      "gloss": "tokkollee"
     },
     {
       "surface": "כל",
@@ -53,27 +53,27 @@
     },
     {
       "surface": "דברי",
-      "gloss": "jechoonni koos"
+      "gloss": "jechoonni kiyya"
     },
     {
       "surface": "אשר",
-      "gloss": "waan"
+      "gloss": ""
     },
     {
       "surface": "אדבר",
-      "gloss": "nan dubbadu"
+      "gloss": "ani dubbadhe"
     },
     {
       "surface": "דבר",
-      "gloss": "hima"
+      "gloss": "jecha"
     },
     {
       "surface": "ויעשה",
-      "gloss": "ta'ee raawwata"
+      "gloss": "ni hojjatama"
     },
     {
       "surface": "נאם",
-      "gloss": "jedha"
+      "gloss": "imaaltii"
     },
     {
       "surface": "אדני",
@@ -84,6 +84,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-29T10:07:39.928583652Z",
+  "timestamp": "2026-08-29T16:56:56.199751883Z",
   "model": "glm-5.3"
 }

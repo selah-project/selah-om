@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 20,
-  "translation": "Naffiin gara ovotaa fi yiddeenootaatti garagaraa deemu, isaan duuda saamuuf — fuula kiyya naffii sanaa irratti nan dhaaba; ummata isaa keessaa nan baafadha.",
+  "translation": "Nefi-shee gara oobotaatti fi gara beektota raawwachiifttootaatti dalgu, isaan hordofuun jaalallee raawwachiisuuf, ani fuulla kiyyaa ⟨את⟩ nefi sana irratti caddeessa, sabaa isaa keessaa ⟨את⟩ ∥isa baafadha∥.",
   "tokens": [
     {
       "surface": "והנפש",
-      "gloss": "Naffiin"
+      "gloss": "nefi-shee"
     },
     {
       "surface": "אשר",
-      "gloss": "waan"
+      "gloss": "shee"
     },
     {
       "surface": "תפנה",
-      "gloss": "garagaraa deemu"
+      "gloss": "dalgu"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האבת",
-      "gloss": "ovotaa"
+      "gloss": "oobotaatti"
     },
     {
       "surface": "ואל",
@@ -33,55 +33,55 @@
     },
     {
       "surface": "הידענים",
-      "gloss": "yiddeenota"
+      "gloss": "beektota raawwachiifttootaatti"
     },
     {
       "surface": "לזנות",
-      "gloss": "saamuuf"
+      "gloss": "jaalallee raawwachiisuuf"
     },
     {
       "surface": "אחריהם",
-      "gloss": "isaan duuda"
+      "gloss": "isaan hordofuun"
     },
     {
       "surface": "ונתתי",
-      "gloss": "nan dhaaba"
+      "gloss": "ani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fuula kiyya"
+      "marks": "fuulla kiyyaa"
     },
     {
       "surface": "פני",
-      "gloss": "fuula"
+      "gloss": "fuulla kiyyaa"
     },
     {
       "surface": "בנפש",
-      "gloss": "naffii... irratti"
+      "gloss": "nefi sana irratti"
     },
     {
       "surface": "ההוא",
-      "gloss": "sanaa"
+      "gloss": "sana"
     },
     {
       "surface": "והכרתי",
-      "gloss": "nan baafadha"
+      "gloss": "caddeessa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "(isaa)"
+      "gloss": "⟨את⟩ ∥isa baafadha∥",
+      "marks": "sabaa isaa keessaa (baafachuun)"
     },
     {
       "surface": "מקרב",
-      "gloss": "keessaa"
+      "gloss": "sabaa isaa keessaa"
     },
     {
       "surface": "עמו",
-      "gloss": "ummata isaa"
+      "gloss": "sabaa isaa"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.130183373Z",
+  "timestamp": "2026-08-29T17:07:58.440129683Z",
   "model": "glm-5.3"
 }

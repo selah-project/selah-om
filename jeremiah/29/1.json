@@ -5,8 +5,105 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 29,
-  "translation": "Kunoo jechoota barreeffamaa san Yirmiyaah nabiichaan Yerushaalayim irraa erghe, ergaa'oota dargaggoo barbaachisoo taananii kan seenaa hagugguu Babiloon irratti erghe: kan moo'aa Ataarsaataa ilaalan, haa ta'u malee, yoo Eglii Waaqayyoo irratti haa ta'u, waan hunda irraa eeguu haa ta'u; kan taateen dursee kan dhihaateefi kan hafan nu fili, akka qajeelfama waaqayyoo taheef; kan Akka deggartu dha; kan Akka kufeessa bu'aa taheef, kan Akka xiqqaa dha; kan Ataarsaataa irratti waan dhiyaateef akka barbaadanii haal adda addaatiin akkasumas akka hammammi lakkoofsa qalbii namaa haa ta'u, kan ataarsaataa Lakkoofsotaa guutuu guutuutti qabame ta'uu akkasumas akka baay'een isaa maqaa isaa Rabbiin hiikame hafan haa ta'u malee.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:43:59.419548096Z",
+  "translation": "Kunoo jechoota barreeffamaa kan raajaa Yirmeeyaa Yerushaalayim irraa ergu turan, gara haf-totaa jaartota yaayaa fi gara qalliinota fi gara raajota fi gara namoota hunda kan Nevukadneser Yerushaalayim irraa Babiloonaatti yaayeetti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "barreeffamaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergu"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeeyaa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "raajaa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushaalayim irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "haf-totaa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "jaartota"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "yaayaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qalliinota"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "raajota"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "yaayee"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadneser"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushaalayim irraa"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babiloonaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:09.501604981Z",
   "model": "glm-5.3"
 }

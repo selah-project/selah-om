@@ -5,8 +5,46 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 20,
-  "translation": "Ijji kiyyas isaniin haa qaqqabuu — bakka balleessuu isaaniitiif; balleessuu isaaniitiis waan badeetti, yoo xumura isaaniitti hin godhu.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:15:08.108326824Z",
+  "translation": "Garuu ija kiyyi isaan irratti dhaddabsiifte, balleessuu isaanii irraas; ⟨את⟩ loppuu balleessuu isaaniitis hin godhin gammaddii keessatti.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "dhaddabsiifte"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyyi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "balleessuu isaanii irraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "godhin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "loppuu balleessuu isaaniiti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "loppuu balleessuu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gammaddii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:55.377963495Z",
   "model": "glm-5.3"
 }

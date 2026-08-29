@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 5,
-  "translation": "Yoo harki isaa lammoo tarii lamaa yookiin lammoo adarii lamaa ga'uu baate, qurba isaa kan badu ⟨את⟩ ni fida — kurnii eefaa tokko daqaa, qurba badii ta'uun; zayitaa ishee irra hin chaasu, eentiinis ishee irra hin kenna, waan qurba badii ⟨is⟩ ta'eef.",
+  "translation": "Yoo harki isaa lama turteldoovii ykn lama ilmaan diggii hin ga'uu, qurbaana isaa kan balleessume fida ⟨את⟩ qurbaana isaa: toltuu eefaa tokko za'ara meeqemerraa balleessumsaaf; zayitaa ishee irratti hin fidu, lubunaawaa ishee irrattis hin kenna, sababiin isaas balleessuma dha.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשיג",
-      "gloss": "ga'uu baate"
+      "gloss": "ga'uu"
     },
     {
       "surface": "ידו",
@@ -25,40 +25,40 @@
     },
     {
       "surface": "לשתי",
-      "gloss": "lamaa"
+      "gloss": "lama"
     },
     {
       "surface": "תרים",
-      "gloss": "tarii"
+      "gloss": "turteldoovii"
     },
     {
       "surface": "או",
-      "gloss": "yookiin"
+      "gloss": "ykn"
     },
     {
       "surface": "לשני",
-      "gloss": "lamaa"
+      "gloss": "lama"
     },
     {
       "surface": "בני",
-      "gloss": "lammoo"
+      "gloss": "ilmaan"
     },
     {
       "surface": "יונה",
-      "gloss": "adarii"
+      "gloss": "diggii"
     },
     {
       "surface": "והביא",
-      "gloss": "ni fida"
+      "gloss": "fida"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qurba isaa"
+      "marks": "qurbaana isaa"
     },
     {
       "surface": "קרבנו",
-      "gloss": "qurba isaa"
+      "gloss": "qurbaana isaa"
     },
     {
       "surface": "אשר",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "חטא",
-      "gloss": "badu"
+      "gloss": "balleessume"
     },
     {
       "surface": "עשירת",
-      "gloss": "kurnii"
+      "gloss": "toltuu"
     },
     {
       "surface": "האפה",
-      "gloss": "eefaa"
+      "gloss": "eefaa tokko"
     },
     {
       "surface": "סלת",
-      "gloss": "daqaa"
+      "gloss": "za'ara meeqemerraa"
     },
     {
       "surface": "לחטאת",
-      "gloss": "qurba badii"
+      "gloss": "balleessumsaaf"
     },
     {
       "surface": "לא",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "ישים",
-      "gloss": "chaasu"
+      "gloss": "fidu"
     },
     {
       "surface": "עליה",
-      "gloss": "ishee irra"
+      "gloss": "ishee irratti"
     },
     {
       "surface": "שמן",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "hin"
+      "gloss": "akkasumas hin"
     },
     {
       "surface": "יתן",
@@ -110,25 +110,25 @@
     },
     {
       "surface": "עליה",
-      "gloss": "ishee irra"
+      "gloss": "ishee irratti"
     },
     {
       "surface": "לבנה",
-      "gloss": "eentii"
+      "gloss": "lubunaawaa"
     },
     {
       "surface": "כי",
-      "gloss": "waan"
+      "gloss": "sababiin isaas"
     },
     {
       "surface": "חטאת",
-      "gloss": "qurba badii"
+      "gloss": "balleessuma"
     },
     {
       "surface": "היא",
-      "gloss": "ti"
+      "gloss": "dha"
     }
   ],
-  "timestamp": "2026-08-29T05:32:54.758427200Z",
+  "timestamp": "2026-08-29T16:44:53.471259646Z",
   "model": "glm-5.3"
 }

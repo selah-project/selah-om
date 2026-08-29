@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 119,
-  "translation": "PLACEHOLDER",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:26:19.016846378Z",
+  "translation": "Hirmaata warra sii-tilee dhuga dha; hirmaata warra seera kee eegasaniitiis.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "hirmaata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani dhuga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "warra hundaaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "sii-tilee dhuga"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "fi warra eegasaniif"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "seera kee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:22:40.341562775Z",
   "model": "glm-5.3"
 }

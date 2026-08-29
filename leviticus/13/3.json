@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 13,
-  "translation": "Qaalliin miidhamaa ⟨את⟩ gogaa lafa isaa keessatti ilaala; yoo ri'oon miidhamaa keessaa gara adii jijjiirame, mul'anni miidhamaa gogaa lafa isaa irraa gadii ta'uu yoo qabaate, miidhamni tsara'at ti; qaalliin ilaalee ∙namicha kamuu∙ akka hin-qulqulluume labsa.",
+  "translation": "Abbaan qulqullummaa inni negaa'aa sana gogaa qaamaa ilaala; yoo rimeen gogaa negaa'aa keessatti adii ta'ee jiraate, rifeensi negaa'aa sana keessatti gara adiiitti jijjiirame, ufaciisni negaa'aa sanaas gogaa qaamaa isa irraa gadi fageenyaan ol ta'e, negaa'i taayii'innaa (tsara'at) dha; abbaan qulqullummaa inni ⟨את⟩ akkaataa itti mul'atuutti ilaala, isaas mikirimmii mormaa taasise.",
   "tokens": [
     {
       "surface": "וראה",
@@ -13,32 +13,32 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "Qaalliin"
+      "gloss": "abbaan qulqullummaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miidhamaa"
+      "marks": "negaa'aa sana"
     },
     {
       "surface": "הנגע",
-      "gloss": "miidhamaa"
+      "gloss": "negaa'aa sana"
     },
     {
       "surface": "בעור",
-      "gloss": "gogaa keessatti"
+      "gloss": "gogaa"
     },
     {
       "surface": "הבשר",
-      "gloss": "lafa"
+      "gloss": "qaamaa"
     },
     {
       "surface": "ושער",
-      "gloss": "ri'oon"
+      "gloss": "rimeen gogaa"
     },
     {
       "surface": "בנגע",
-      "gloss": "miidhamaa keessaa"
+      "gloss": "negaa'aa sana keessatti"
     },
     {
       "surface": "הפך",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "לבן",
-      "gloss": "gara adii"
+      "gloss": "gara adiiitti"
     },
     {
       "surface": "ומראה",
-      "gloss": "mul'anni"
+      "gloss": "ufaciisni"
     },
     {
       "surface": "הנגע",
-      "gloss": "miidhamaa"
+      "gloss": "negaa'aa sanaas"
     },
     {
       "surface": "עמק",
-      "gloss": "gadii"
+      "gloss": "gadi fageenyaan ol"
     },
     {
       "surface": "מעור",
@@ -66,38 +66,38 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "lafa isaa"
+      "gloss": "qaamaa isa"
     },
     {
       "surface": "נגע",
-      "gloss": "miidhamni"
+      "gloss": "negaa'i"
     },
     {
       "surface": "צרעת",
-      "gloss": "tsara'at"
+      "gloss": "taayii'innaa"
     },
     {
       "surface": "הוא",
-      "gloss": "ti"
+      "gloss": "dha"
     },
     {
       "surface": "וראהו",
-      "gloss": "ilaalee"
+      "gloss": "ilaala"
     },
     {
       "surface": "הכהן",
-      "gloss": "qaalliin"
+      "gloss": "abbaan qulqullummaa"
     },
     {
       "surface": "וטמא",
-      "gloss": "akka hin-qulqulluume labsa"
+      "gloss": "mikirimmii mormaa taasise"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "namicha kamuu"
+      "gloss": "⟨את⟩",
+      "marks": "isa (nama negaa'aa qabu)"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.135299438Z",
+  "timestamp": "2026-08-29T16:44:28.918057476Z",
   "model": "glm-5.3"
 }

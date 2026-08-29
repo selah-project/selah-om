@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 16,
-  "translation": "Mosheeniifi Aharooniis gara ilmaan Yisraa'el hundaanii jedhan: galgalatti akka Yahwe ⟨את⟩ ⟨אתכם⟩ biyya Mitsraayim irraa baase beektanu.",
+  "translation": "Moshee fi Aharoonis ilmaan Israa'el hunda jedhan sanatti: «Gaafa galgala, Yahwe isin biyya Mitsraayim irraa baase akka beektaniitu dha.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosheen"
+      "gloss": "Moshee"
     },
     {
       "surface": "ואהרן",
-      "gloss": "Aharooniis"
+      "gloss": "Aharoonis"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "sanatti"
     },
     {
       "surface": "כל",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "ilman"
+      "gloss": "ilmaan"
     },
     {
-      "surface": "ישראל",
-      "gloss": "Yisraa'el"
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'el"
     },
     {
       "surface": "ערב",
-      "gloss": "galgalatti"
+      "gloss": "gaafa galgala"
     },
     {
       "surface": "וידעתם",
-      "gloss": "beektanu"
+      "gloss": "beektaniitu"
     },
     {
       "surface": "כי",
@@ -57,18 +57,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ isin",
       "marks": "isin"
     },
     {
       "surface": "מארץ",
-      "gloss": "biyya"
+      "gloss": "biyya irraa"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsraayim irraa"
+      "gloss": "Mitsraayim"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.109025285Z",
+  "timestamp": "2026-08-29T16:41:44.812339651Z",
   "model": "glm-5.3"
 }

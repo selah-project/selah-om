@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "ezekiel 44:23",
-  "book": "ezekiel",
-  "lang": "om",
-  "chapter": 44,
-  "translation": "Sanyii koo ni barsiisatu: waan hiikkaa-Qulqullummaa fi waan hiikaa adda baasaniif, akkasumas waan hiikaa fi waan Qulqullummaa adda baasaniif.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:32:52.255430512Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":23,"ref":"ezekiel 44:23","book":"ezekiel","lang":"om","chapter":44,"translation":"Fi ⟨את⟩ umatta kiyya ni barsiisu — gidduu qulqullummaa fi al-qulqullummaa, fi gidduu isaa hin-qulqulleessinee fi qulqulleessaa ni beeksiisu.","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"umatta kiyya"},{"surface":"עמי","gloss":"umatta kiyya"},{"surface":"יורו","gloss":"ni barsiisu"},{"surface":"בין","gloss":"gidduu"},{"surface":"קדש","gloss":"qulqullummaa"},{"surface":"לחל","gloss":"al-qulqullummaa"},{"surface":"ובין","gloss":"fi gidduu"},{"surface":"טמא","gloss":"isaa hin-qulqulleessinee"},{"surface":"לטהור","gloss":"qulqulleessaa"},{"surface":"יודעם","gloss":"ni beeksiisu"}],"timestamp":"2026-08-29T16:22:03.928700144Z","model":"glm-5.3"}

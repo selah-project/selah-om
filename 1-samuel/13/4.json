@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":4,"ref":"1-samuel 13:4","book":"1-samuel","lang":"om","chapter":13,"translation":"Israa'iil hundi akka Saawul ⟨את⟩ qabatamaa Filistiiyyanotaa rukute, Israa'iilis Filistiiyyanota wajjin bohhate dhageesseef. Ummatnis Saawul booda Galgaalatti iyyate.","tokens":[{"surface":"וכל","gloss":"hundi"},{"surface":"ישראל","gloss":"Israa'iil"},{"surface":"שמעו","gloss":"dhageesseef"},{"surface":"לאמר","gloss":"akka"},{"surface":"הכה","gloss":"rukute"},{"surface":"שאול","gloss":"Saawul"},{"surface":"את","gloss":"⟨את⟩","marks":"qabatamaa Filistiiyyanotaa"},{"surface":"נציב","gloss":"qabatamaa"},{"surface":"פלשתים","gloss":"Filistiiyyanotaa"},{"surface":"וגם","gloss":"…-is"},{"surface":"נבאש","gloss":"bohhate"},{"surface":"ישראל","gloss":"Israa'iilis"},{"surface":"בפלשתים","gloss":"Filistiiyyanota wajjin"},{"surface":"ויצעקו","gloss":"iyyate"},{"surface":"העם","gloss":"Ummatnis"},{"surface":"אחרי","gloss":"booda"},{"surface":"שאול","gloss":"Saawul"},{"surface":"הגלגל","gloss":"Galgaalatti"}],"timestamp":"2026-08-29T14:42:29.927788622Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Israa'el hundinuu \"Sha'uul ⟨את⟩ taatee warra Filistii rukute, akkasumas Israa'el Filistota biratti hammaawwaa ta'e\" jedhanii dhageessan; sabachi akkasumas Sha'uul duuba Gilgaalitti waamamee dhukaabe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taatee warra Filistii"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "taatee"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "warra Filistii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "hammaawwaa ta'e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistota biratti"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "waamamee dhukaabe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabachi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaal"
+    }
+  ],
+  "timestamp": "2026-08-29T16:50:10.356894166Z",
+  "model": "glm-5.3"
+}

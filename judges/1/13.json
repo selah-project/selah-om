@@ -5,8 +5,66 @@
   "book": "judges",
   "lang": "om",
   "chapter": 1,
-  "translation": "Ottni'eel ilma Keenaz, obboleessa Kaaleb xiqqaa, ishee fudhate; Kaalebinsa akka obboleessa isaa godheef Akksah ilmoo isaa ⟨את⟩ akka dubartii isaa godhe.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:59:50.707213064Z",
+  "translation": "Gatiin sana Otoni'eel ilma Kenaaz, obboleessa Kaleb xiqqaa ta'e, fudhate; Kabelees immoo gatumsa isaatiif ⟨את⟩ Akasa da'ii isaa haadha manaa isaatti kenne.",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Otoni'eel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaaz"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleessa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatiif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akasa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akasa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "da'ii isaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "haadha manaa isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:10.219657521Z",
   "model": "glm-5.3"
 }

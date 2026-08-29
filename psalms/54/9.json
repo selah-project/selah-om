@@ -5,17 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 54,
-  "translation": "Sababa <he> ⟩in ni baraarfate» — sababa: sababa duubaa; ⟨is⟩: Maqaan yaadannoo.",
+  "translation": "Sababiin isaatti hamtuu hunda irraa na baraarfate; iji kiyyas diina kiyya irratti argate.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sababa"
+      "gloss": "Sababiin isaatti"
     },
     {
       "surface": "מכל",
-      "gloss": "hamma"
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "na baraarfate"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "fi diina kiyya irratti"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "argate"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iji kiyyas"
     }
   ],
-  "timestamp": "2026-08-29T11:26:45.558872826Z",
+  "timestamp": "2026-08-29T16:23:09.722713221Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 10,
-  "translation": "Innis ni jedhe: Maaloo nu hin dhiifannaa ⟨את⟩ nu; sababa kanaaf nuti akka biyya-duwwaa keessatti haffannoo keenya beektu, ati nutiif ⟨is⟩ ija taatus.",
+  "translation": "Akkas jedhe: “Maaltuu nuti ⟨את⟩ hin dhiifnu, sababni isaas akkasitti beekta akkamitti kabajamnu gimmata keessatti, fi nutiif ija taateetta.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ni jedhe"
+      "gloss": "Akkas jedhe"
     },
     {
       "surface": "אל",
@@ -17,44 +17,44 @@
     },
     {
       "surface": "נא",
-      "gloss": "maaloo"
+      "gloss": "Maaltuu"
     },
     {
       "surface": "תעזב",
-      "gloss": "dhiifattu"
+      "gloss": "dhiifnu"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "nu"
+      "marks": "nuti (akkas jedhe: nuti hin dhiifnu)"
     },
     {
       "surface": "כי",
-      "gloss": "sababa"
+      "gloss": "sababni isaas"
     },
     {
       "surface": "על",
-      "gloss": "kana"
+      "gloss": "akkasitti"
     },
     {
       "surface": "כן",
-      "gloss": "aaf"
+      "gloss": "akkasitti"
     },
     {
       "surface": "ידעת",
-      "gloss": "beektu"
+      "gloss": "beekta"
     },
     {
       "surface": "חנתנו",
-      "gloss": "haffannoo keenya"
+      "gloss": "kabajamnu"
     },
     {
       "surface": "במדבר",
-      "gloss": "biyya-duwwaa keessatti"
+      "gloss": "gimmata keessatti"
     },
     {
       "surface": "והיית",
-      "gloss": "taatus"
+      "gloss": "taateetta"
     },
     {
       "surface": "לנו",
@@ -65,6 +65,6 @@
       "gloss": "ija"
     }
   ],
-  "timestamp": "2026-08-29T05:54:31.040631999Z",
+  "timestamp": "2026-08-29T16:45:38.787859506Z",
   "model": "glm-5.3"
 }

@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "numbers 6:2",
-  "book": "numbers",
-  "lang": "om",
-  "chapter": 6,
-  "translation": " gara ilmaan Israa'elatti haasofi, isaanis akkas jedhi: namni yoo dubartii waadaa addaa waadachiisuu fi naazirummaa Yahwef adda ta'uuf itti肯 Kennite— dogoggorri seera. fix: redo properly.",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:52:36.427834787Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":2,"ref":"numbers 6:2","book":"numbers","lang":"om","chapter":6,"translation":"Ilmota Israa'elitti dubbadhu; isaaninis jedhi: Yoo namni ykn dubartii waadaa Waadaa Naaziraa adda ba'uuf waadaa seene, Yahweef of adda qooduuf—","tokens":[{"surface":"דבר","gloss":"dubbadhu"},{"surface":"אל","gloss":"itti"},{"surface":"בני","gloss":"Ilmota"},{"surface":"ישראל","gloss":"Israa'el"},{"surface":"ואמרת","gloss":"isaaninis jedhi"},{"surface":"אלהם","gloss":"isaanitti"},{"surface":"איש","gloss":"namni"},{"surface":"או","gloss":"ykn"},{"surface":"אשה","gloss":"dubartii"},{"surface":"כי","gloss":"yoo"},{"surface":"יפלא","gloss":"adda ba'uuf"},{"surface":"לנדר","gloss":"waadaa"},{"surface":"נדר","gloss":"Waadaa Naaziraa"},{"surface":"נזיר","gloss":"Naaziraa"},{"surface":"להזיר","gloss":"of adda qooduuf"},{"surface":"ליהוה","gloss":"Yahweef"}],"timestamp":"2026-08-29T16:17:22.015009836Z","model":"glm-5.3"}

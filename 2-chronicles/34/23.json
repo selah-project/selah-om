@@ -5,23 +5,23 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 34,
-  "translation": "Isheen isaaniitti akkas jedhte: Akka kana jedha Yahwe, Eloohiimii Israa'elii: 'Namicha kan isin ⟨את⟩ ⟨אתכם⟩ Anaatti ergan saniif jedhaa:'",
+  "translation": "Isheen isaan jedhe: \"Akka kan Yahwe, Eloohiim Biyya Israa'el, jedhuutti, namicha sin ergu natti jedhutti jedhaa:",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "jedhte"
+      "gloss": "isheen isaan jedhe"
     },
     {
       "surface": "להם",
-      "gloss": "isaaniitti"
+      "gloss": "isaan"
     },
     {
       "surface": "כה",
-      "gloss": "Akka kana"
+      "gloss": "akka"
     },
     {
       "surface": "אמר",
-      "gloss": "jedha"
+      "gloss": "jedhuutti"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohiimii"
+      "gloss": "Eloohiim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'elii"
+      "gloss": "Biyya Israa'el"
     },
     {
       "surface": "אמרו",
@@ -49,18 +49,18 @@
     },
     {
       "surface": "שלח",
-      "gloss": "ergan"
+      "gloss": "sin ergu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isin"
+      "gloss": "⟨את⟩",
+      "marks": "sin (isintu)"
     },
     {
       "surface": "אלי",
-      "gloss": "Anaatti"
+      "gloss": "natti"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.114091382Z",
+  "timestamp": "2026-08-29T17:05:42.428463647Z",
   "model": "glm-5.3"
 }

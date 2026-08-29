@@ -5,15 +5,11 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 2,
-  "translation": "Illaali, si wajjin jira Shimii ilmaan Geeraa, ilmaan Benyaamini, Baxuuriim irraa; inni yeroo ani Mahanaayim deemu abuusa cimaa naa abuuse; inni Yarden irratti naa argachuuf bu'es, ani Yahweenin isaa kakadhe jedhu: 'Ani si qarmaanan hin ajjeesu.'",
+  "translation": "Akkasumas ilaali, si wajjin jira Shiimeeyi ilma Geraa, ilma ilmo Yaminiitii, Baahuuriim irraa; inni guyyaa Maaxanayiimtti naanuutti abuuraa ulfaanaa na abuure; yeroo Yarduun garatti na wal-bu'u nan si meeysa malee jechuudhaan Yahweenin isaa kakadhe.",
   "tokens": [
     {
-      "surface": "ויהוה-placeholder",
-      "gloss": ""
-    },
-    {
       "surface": "והנה",
-      "gloss": "Illaali"
+      "gloss": "Akkasumas ilaali"
     },
     {
       "surface": "עמך",
@@ -21,27 +17,27 @@
     },
     {
       "surface": "שמעי",
-      "gloss": "Shimii"
+      "gloss": "Shiimeeyi"
     },
     {
       "surface": "בן",
-      "gloss": "ilmaan"
+      "gloss": "ilma"
     },
     {
       "surface": "גרא",
-      "gloss": "Geeraa"
+      "gloss": "Geraa"
     },
     {
       "surface": "בן",
-      "gloss": "ilmaan"
+      "gloss": "ilma ilmo"
     },
     {
       "surface": "הימיני",
-      "gloss": "Benyaamini"
+      "gloss": "Yaminiitii"
     },
     {
       "surface": "מבחרים",
-      "gloss": "Baxuuriim irraa"
+      "gloss": "Baahuuriim irraa"
     },
     {
       "surface": "והוא",
@@ -49,43 +45,43 @@
     },
     {
       "surface": "קללני",
-      "gloss": "naa abuuse"
+      "gloss": "na abuure"
     },
     {
       "surface": "קללה",
-      "gloss": "abuusa"
+      "gloss": "abuuraa"
     },
     {
       "surface": "נמרצת",
-      "gloss": "cimaa"
+      "gloss": "ulfaanaa"
     },
     {
       "surface": "ביום",
-      "gloss": "yeroo"
+      "gloss": "guyyaa"
     },
     {
       "surface": "לכתי",
-      "gloss": "ani deemu"
+      "gloss": "naanuutti"
     },
     {
       "surface": "מחנים",
-      "gloss": "Mahanaayim"
+      "gloss": "Maaxanayiimtti"
     },
     {
       "surface": "והוא",
-      "gloss": "inni"
+      "gloss": "yeroo inni"
     },
     {
       "surface": "ירד",
-      "gloss": "bu'e"
+      "gloss": "wal-bu'e"
     },
     {
       "surface": "לקראתי",
-      "gloss": "naa argachuuf"
+      "gloss": "na wal-bu'u"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yarden"
+      "gloss": "Yarduun"
     },
     {
       "surface": "ואשבע",
@@ -97,25 +93,25 @@
     },
     {
       "surface": "ביהוה",
-      "gloss": "Yahweenin"
+      "gloss": "Yahween"
     },
     {
       "surface": "לאמר",
-      "gloss": "jedhu"
+      "gloss": "jechuudhaan"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "malee"
     },
     {
       "surface": "אמיתך",
-      "gloss": "si ajjeesu"
+      "gloss": "nan si meeysa"
     },
     {
       "surface": "בחרב",
-      "gloss": "qarmaanan"
+      "gloss": "meeysa malee"
     }
   ],
-  "timestamp": "2026-08-29T08:04:23.351044941Z",
+  "timestamp": "2026-08-29T16:20:08.439039905Z",
   "model": "glm-5.3"
 }

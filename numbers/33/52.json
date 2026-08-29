@@ -5,46 +5,54 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 33,
-  "translation": "Biyyattii ⟨the⟩ jiraatoo hunda isinii duraa baafattanu; ⟨את⟩ wanta meeḍee isaanii hunda ⟨את⟩ baddeessitu, wanta sooratawwan isaanii cifaamuu hundaas ⟨את⟩ balleessiftu; ⟨את⟩ gaarreen gabbaraa isaanii hundaas ⟨את⟩ ni balleessiftu.",
+  "translation": "Lakkawwataniis hunda warra samii-lafaa kana jiraatanis saffisan bultii isiniirraa baafattaniitti, meeshaalee ijaarsa isaanii hunda balleessitu; ⟨את⟩ wantoota dhullaa-bocamanii hunda balleessitu, ⟨את⟩ gidaddeessawwan isaanii hundas gad-buusitu.",
   "tokens": [
     {
       "surface": "והורשתם",
-      "gloss": "baafattanu"
+      "gloss": "balleessitu-haadhattu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jiraatoo hunda"
+      "marks": "hunda"
     },
     {
       "surface": "כל",
       "gloss": "hunda"
     },
     {
-      "surface": "יושבי את הארץ מפניכם",
-      "gloss": "biyyattii jiraatoo isinii duraa"
+      "surface": "ישבי",
+      "gloss": "warra jiraatan"
     },
     {
-      "surface": "והאבדתם",
-      "gloss": "baddeessitu"
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "saffisan bultii isiniirraa"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "fi balleessittu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wanta meeḍee isaanii hunda"
+      "marks": "hunda"
     },
     {
       "surface": "כל",
       "gloss": "hunda"
     },
     {
-      "surface": "משכיותם",
-      "gloss": "⟨את⟩ wanta meeḍee isaanii"
+      "surface": "משכיתם",
+      "gloss": "meeshaalee ijaarsa isaanii"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "cifaawwan isaanii hunda"
+      "marks": "hunda"
     },
     {
       "surface": "כל",
@@ -52,34 +60,34 @@
     },
     {
       "surface": "צלמי",
-      "gloss": "⟨את⟩ cifaawwan"
+      "gloss": "wantoota dhullaa-bocamanii"
     },
     {
-      "surface": "מסכותם",
-      "gloss": "sooratawwan isaanii"
+      "surface": "מסכתם",
+      "gloss": "gidaddeessawwan isaanii"
     },
     {
       "surface": "תאבדו",
-      "gloss": "balleessiftu"
+      "gloss": "balleessitu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "gaarreen gabbaraa isaanii hunda"
+      "marks": "hunda"
     },
     {
       "surface": "כל",
       "gloss": "hunda"
     },
     {
-      "surface": "במותם",
-      "gloss": "⟨את⟩ gaarreen gabbaraa isaanii"
+      "surface": "במתם",
+      "gloss": "iddoo-ol-ka'aa isaanii"
     },
     {
       "surface": "תשמידו",
-      "gloss": "ni balleessiftu"
+      "gloss": "gad-buusitu"
     }
   ],
-  "timestamp": "2026-08-29T06:12:16.968025461Z",
+  "timestamp": "2026-08-29T16:46:19.266678427Z",
   "model": "glm-5.3"
 }

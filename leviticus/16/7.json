@@ -5,41 +5,41 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 16,
-  "translation": "Lamittaa foonii lamaa fudhate, ⟨את⟩ lamaan Isa dura Akka Sumaatii Yaahwee bira dhaabbata.",
+  "translation": "Lakkisaa lama Fanteechchota fudhachuun, Isaan duraan Yahwe dura, balbala teentii walgaheeff dhaabbisu.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "fudhate"
+      "gloss": "fudhachuun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lamittaa foonii lamaa"
+      "marks": "Lakkisaa lama Fanteechchota"
     },
     {
       "surface": "שני",
-      "gloss": "lamaa"
+      "gloss": "Lakkisaa lama"
     },
     {
       "surface": "השעירם",
-      "gloss": "lamittaa foonii"
+      "gloss": "Fanteechchota"
     },
     {
       "surface": "והעמיד",
-      "gloss": "dhaabbata"
+      "gloss": "dhaabbisu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "lamaan"
+      "gloss": "⟨את⟩",
+      "marks": "Isaan (Fanteechchota lama)"
     },
     {
       "surface": "לפני",
-      "gloss": "dura"
+      "gloss": "duraan"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yaahwee"
+      "gloss": "Yahwe"
     },
     {
       "surface": "פתח",
@@ -47,13 +47,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "Akka Sumaatii"
+      "gloss": "teentii"
     },
     {
       "surface": "מועד",
-      "gloss": "Sumaatii"
+      "gloss": "walgaheeff"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.134502728Z",
+  "timestamp": "2026-08-29T16:43:55.703631022Z",
   "model": "glm-5.3"
 }

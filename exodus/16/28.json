@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 16,
-  "translation": "Yahween Moshee'is jedhe: \"Yeroo dheeraa kanatti ajajoota koo seeraas koo tikuu isin diddaniittan maalif?\"",
+  "translation": "Yahween Mosheetti jedhe: “Hangammee akkaataa ajajoota koo fi seera koo eegguu diddittu?”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "'is"
+      "gloss": "-tti"
     },
     {
       "surface": "משה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "yeroo dheeraa kanatti"
+      "gloss": "hangammee"
     },
     {
       "surface": "אנה",
-      "gloss": "maalif"
+      "gloss": "akkasumas"
     },
     {
       "surface": "מאנתם",
-      "gloss": "diddaniittan"
+      "gloss": "diddittu"
     },
     {
       "surface": "לשמר",
-      "gloss": "tikuu"
+      "gloss": "eegguu"
     },
     {
       "surface": "מצותי",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "ותורתי",
-      "gloss": "seeraas koo"
+      "gloss": "fi seera koo"
     }
   ],
-  "timestamp": "2026-08-29T14:18:00.385356948Z",
+  "timestamp": "2026-08-29T16:41:59.267567705Z",
   "model": "glm-5.3"
 }

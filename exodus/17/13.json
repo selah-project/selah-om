@@ -5,8 +5,43 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 17,
-  "translation": "Yihoshuwaan Amaleekii fi ⟨את⟩ ummata isa ⟨את⟩ gabee mootii-cufaa ti'ina adda banaa bakkatti buusaa banaa ti'inaan morma seeffee ti'in — Yihoshuwaan Amaleekii fi ⟨את⟩ ummata isa ti'in caasatti seeffee irratti morma se'eerra.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:54:43.656319029Z",
+  "translation": "Yihoshuwaan Amaleekii fi ⟨את⟩ ummata isaa ⟨את⟩ ajjeesu dandaachise, afuriin meeṛiin.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "dandaachise"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshuwaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleekii"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleekii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ummata isaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afuriin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meeṛiin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:41:29.347506424Z",
   "model": "glm-5.3"
 }

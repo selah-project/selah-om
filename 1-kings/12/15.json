@@ -5,23 +5,19 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 12,
-  "translation": "Mootummaanis gara mootummaa namaa shororkeeffamuutti haa deebi'u malee, sababni garuu Yahwe irraa ta'e; jechoota Isaa Kan Dibame, Ahiiyaan Siilooniin yeroo hiika jenne dubbatamuun, Yerobeaam ilma Nebaatii irratti akka ⟨את⟩ kaka'uuf.",
+  "translation": "Mootichiis garaawaatti dhufeetti hin dhageenye, sababoonni waan Yahwe irraa ta'ee jira, akka jecha Isaa dhaabbatuuf, waan Yahwe harka Axiyaa Siilooniitiin gara Yaarab'aam ilma Nabatiitiin jedheef.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "לא",
-      "gloss": "hin"
+      "surface": "ולא",
+      "gloss": "hin dhageenye"
     },
     {
       "surface": "שמע",
-      "gloss": "dhaggeeffate"
+      "gloss": "dhageette"
     },
     {
       "surface": "המלך",
-      "gloss": "mootichi"
+      "gloss": "Mootichiis"
     },
     {
       "surface": "אל",
@@ -29,19 +25,19 @@
     },
     {
       "surface": "העם",
-      "gloss": "sabni"
+      "gloss": "awaatti"
     },
     {
       "surface": "כי",
-      "gloss": "sababniis"
+      "gloss": "sababoonni"
     },
     {
       "surface": "היתה",
-      "gloss": "ta'e"
+      "gloss": "ta'ee jira"
     },
     {
       "surface": "סבה",
-      "gloss": "haala jijjiiramaa"
+      "gloss": "waan"
     },
     {
       "surface": "מעם",
@@ -53,20 +49,20 @@
     },
     {
       "surface": "למען",
-      "gloss": "akkaataa"
+      "gloss": "akkanaaf"
     },
     {
       "surface": "הקים",
-      "gloss": "⟨את⟩ kaka'uuf"
+      "gloss": "dhaabbatuuf"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jechoota Isaa"
+      "marks": "jecha Isaa"
     },
     {
       "surface": "דברו",
-      "gloss": "jechoota Isaa"
+      "gloss": "jecha Isaa"
     },
     {
       "surface": "אשר",
@@ -74,7 +70,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "dubbatamuun"
+      "gloss": "jedheef"
     },
     {
       "surface": "יהוה",
@@ -82,15 +78,15 @@
     },
     {
       "surface": "ביד",
-      "gloss": "harkaan"
+      "gloss": "harka"
     },
     {
       "surface": "אחיה",
-      "gloss": "Ahiiyaan"
+      "gloss": "Axiyaa"
     },
     {
       "surface": "השילני",
-      "gloss": "Siilooniin"
+      "gloss": "Siiloonii"
     },
     {
       "surface": "אל",
@@ -98,7 +94,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yerobeaam"
+      "gloss": "Yaarab'aam"
     },
     {
       "surface": "בן",
@@ -106,9 +102,9 @@
     },
     {
       "surface": "נבט",
-      "gloss": "Nebaatii"
+      "gloss": "Nabatiitii"
     }
   ],
-  "timestamp": "2026-08-29T15:57:09.570017245Z",
+  "timestamp": "2026-08-29T16:51:54.519710991Z",
   "model": "glm-5.3"
 }

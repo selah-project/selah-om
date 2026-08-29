@@ -5,8 +5,50 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 27,
-  "translation": "PLACEHOLDER",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:30:10.919010892Z",
+  "translation": "Abbaantootan isaani irratti baradhu ⟨את⟩ jechoota Toora kanaa hunda ifa tasgabbeeqoodhaan.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "baradhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "abbaantootan isaani irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota Toora kanaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toora kanaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "tasgabbeeqoodhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:18:17.947847178Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 105,
-  "translation": "Ishee Ya'aqobiif seeraa, Israa'eliif immoo kakuwaa duldul taasise.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:45:25.959900316Z",
+  "translation": "Akkasumas ishee Ja'aqoobiif seera ta'ee, Israa'eliif kakuwaa dachaa taasise.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ja'aqoobiif"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "seera"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'eliif"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuwaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dachaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:10.818926260Z",
   "model": "glm-5.3"
 }

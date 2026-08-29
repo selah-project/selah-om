@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 33,
-  "translation": "Ummanni ⟨the⟩ lafaa warra hunda kan mooticha Aamoona waliin wal-qabsiifan ajjeesan; ummanni ⟨the⟩ lafaa ⟨את⟩ Yooshiyaahu ilma isaa eegala isaa irratti mootii godatan.",
+  "translation": "Sabiin lafaa warra mooticha Amoon waliin boondoddan hunda rukutanii; sabiin lafaa ⟨את⟩ ilma isaa Yooshiyaahu isa irraa eegamu mootii godhan.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "ajjeesan"
+      "gloss": "rukutanii"
     },
     {
       "surface": "עם",
-      "gloss": "ummanni"
+      "gloss": "sabiin"
     },
     {
       "surface": "הארץ",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "warra hunda kan wal-qabsiifan"
+      "marks": "hunda (boondoddan hunda)"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "הקשרים",
-      "gloss": "warra wal-qabsiifan"
+      "gloss": "boondoddan"
     },
     {
       "surface": "על",
-      "gloss": "waliin (against)"
+      "gloss": "waliin (irraa)"
     },
     {
       "surface": "המלך",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "אמון",
-      "gloss": "Aamoona"
+      "gloss": "Amoon"
     },
     {
       "surface": "וימליכו",
-      "gloss": "mootii godatan"
+      "gloss": "mootii godhan"
     },
     {
       "surface": "עם",
-      "gloss": "ummanni"
+      "gloss": "sabiin"
     },
     {
       "surface": "הארץ",
@@ -59,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yooshiyaahu ilma isaa"
+      "marks": "Yooshiyaahu"
     },
     {
       "surface": "יאשיהו",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "eegala isaa irratti"
+      "gloss": "isa irraa eegamu"
     }
   ],
-  "timestamp": "2026-08-29T14:09:42.643630448Z",
+  "timestamp": "2026-08-29T17:06:00.116447245Z",
   "model": "glm-5.3"
 }

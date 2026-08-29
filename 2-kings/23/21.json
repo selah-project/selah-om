@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 23,
-  "translation": "Mootichi miseensota ⟨hunda〉 ajajee jedhe: \"Fasakkaa Yahwe Eloohiim keessaniif godhaa, akka barreeffama barra kakuu kanaa.\"",
+  "translation": "Mootichiimmis ⟨את⟩ ummata hunda ajaje akka jedhu: \"Paasakaa Yahwe Eloohiim keessaniif godhaa, akkuma barreeffame kitaba kakuu kana irratti.\"",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "ajajee"
+      "gloss": "ajajees"
     },
     {
       "surface": "המלך",
-      "gloss": "mootichi"
+      "gloss": "mootichiimmis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hunda"
+      "marks": "ummata hunda"
     },
     {
       "surface": "כל",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "miseensota"
+      "gloss": "ummata"
     },
     {
       "surface": "לאמר",
-      "gloss": "jedhe"
+      "gloss": "akka jedhu"
     },
     {
       "surface": "עשו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "פסח",
-      "gloss": "Fasakkaa"
+      "gloss": "Paasakaa"
     },
     {
       "surface": "ליהוה",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "ככתוב",
-      "gloss": "akka barreeffama"
+      "gloss": "akkuma barreeffame"
     },
     {
       "surface": "על",
-      "gloss": "irra"
+      "gloss": "irratti"
     },
     {
       "surface": "ספר",
-      "gloss": "barra"
+      "gloss": "kitaba"
     },
     {
       "surface": "הברית",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "kanaa"
+      "gloss": "kana"
     }
   ],
-  "timestamp": "2026-08-29T14:54:54.770746772Z",
+  "timestamp": "2026-08-29T16:53:49.803368143Z",
   "model": "glm-5.3"
 }

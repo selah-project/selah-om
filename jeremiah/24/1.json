@@ -5,8 +5,137 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 24,
-  "translation": "Yahwe na agarsiise, akkaataa kennaa, dho'oowwan toora lama galmeeffaman fuulla mana heykan Yahwe duraa dhaaban, booda drawn akka king Baabiloon.",
-  "tokens": [],
-  "timestamp": "2026-08-29T09:39:16.566707442Z",
+  "translation": "Yahwe na agarsiise, akkasumas san, duda'ii figii lama mana yaabbachuu Yahwe duratti kan dhiyyataman turan, erga Nebuukadnetsar mootii Baabell ⟨את⟩ Yekonyaahu ilma Yehoojaakiim, mootii Yahuudah, fi ⟨את⟩ abbootii mootummaa Yahuudaa fi ⟨את⟩ ogeesaa meeshaalee fi ⟨את⟩ sibiulaa Yerushalaam irraa baqsee Baabel geessiseen booda.",
+  "tokens": [
+    {
+      "surface": "הראני",
+      "gloss": "na agarsiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akkasumas san"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "duda'ii"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "figii"
+    },
+    {
+      "surface": "מועדים",
+      "gloss": "kan dhiyyataman"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "mana yaabbachuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga... booda"
+    },
+    {
+      "surface": "הגלות",
+      "gloss": "baqsee"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebuukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonyaahu"
+    },
+    {
+      "surface": "יכניהו",
+      "gloss": "Yekonyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoojaakiim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii mootummaa Yahuudaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii mootummaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogeesaa meeshaalee"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ogeesaa meeshaalee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sibiulaa"
+    },
+    {
+      "surface": "המסגר",
+      "gloss": "sibiulaa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalaam irraa"
+    },
+    {
+      "surface": "ויבאם",
+      "gloss": "isaan geessise"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabell"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:10.713612075Z",
   "model": "glm-5.3"
 }

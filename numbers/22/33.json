@@ -5,31 +5,31 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 22,
-  "translation": "Hangaattin na argtee na dura gatte yeroo sadi'i; yoo na irraa hin deebibneef, ammas ⊂amma⊆ ana ajjeesa turre, isheens immoo jiraachisa turre.",
+  "translation": "Hiyyeesi dhalaan na argatee, yeroo sadi'ii kanaaf ana dura gara gale; yoo inni na irraa gara hin gaane, amma dabalatee ⟨את⟩ si ajjeesa ture, ⟨את⟩ isa ammoo jiraachisa ture.",
   "tokens": [
     {
       "surface": "ותראני",
-      "gloss": "na argtee"
+      "gloss": "na argatee"
     },
     {
       "surface": "האתון",
-      "gloss": "hangaattin"
+      "gloss": "hiyyeesi dhalaan"
     },
     {
       "surface": "ותט",
-      "gloss": "gattee"
+      "gloss": "gara gale"
     },
     {
       "surface": "לפני",
-      "gloss": "na dura"
+      "gloss": "ana dura"
     },
     {
       "surface": "זה",
-      "gloss": "yeroo"
+      "gloss": "kanaaf"
     },
     {
       "surface": "שלש",
-      "gloss": "sadi'i"
+      "gloss": "sadi'ii"
     },
     {
       "surface": "רגלים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נטתה",
-      "gloss": "hin deebibneef"
+      "gloss": "gara gaane"
     },
     {
       "surface": "מפני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "hin"
     },
     {
       "surface": "עתה",
@@ -57,27 +57,27 @@
     },
     {
       "surface": "גם",
-      "gloss": "ammans"
+      "gloss": "dabalatee"
     },
     {
       "surface": "אתכה",
-      "gloss": "⟨את⟩ ⊂אתכה⊆",
-      "marks": "ana (si)"
+      "gloss": "⟨את⟩ si",
+      "marks": "si ajjeesa ture"
     },
     {
       "surface": "הרגתי",
-      "gloss": "ajjeesa turre"
+      "gloss": "ajjeesa ture"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩ ⊂אותה⊆",
-      "marks": "isheens (hangaattii)"
+      "gloss": "fi ⟨את⟩ isa",
+      "marks": "isa jiraachisa ture"
     },
     {
       "surface": "החייתי",
-      "gloss": "jiraachisa turre"
+      "gloss": "jiraachisa ture"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.138496035Z",
+  "timestamp": "2026-08-29T16:46:23.608425213Z",
   "model": "glm-5.3"
 }

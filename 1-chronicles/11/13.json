@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 11,
-  "translation": "Inni Daawid wajjin Pas-Dammim keessa ture, Pilishtimoonniis echuma walitti qabaman duulaaf; qoxinni ⟨the⟩ qonnaa fuduraatiin guutame, ummataanis fuula Pilishtimootaa irraa dheessanii.",
+  "translation": "Inni Daawid waliin ture, Pas-Dammim keessatti; Filistootni(s) ergasii achitti waraanaaf walitti qabamanii turan; bakki qonnaa gararoo eeboo guutaa ture; namootni immoo Filistoota achiin jalaa baqatan.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "inni"
+      "gloss": "Inni"
     },
     {
       "surface": "היה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "wajjin"
+      "gloss": "waliin"
     },
     {
       "surface": "דויד",
@@ -25,35 +25,35 @@
     },
     {
       "surface": "בפס",
-      "gloss": "Pas-"
+      "gloss": "Pas- keessatti"
     },
     {
       "surface": "דמים",
-      "gloss": "Dammim"
+      "gloss": "-Dammim"
     },
     {
       "surface": "והפלשתים",
-      "gloss": "Pilishtimoonniis"
+      "gloss": "Filistootni(s) immoo"
     },
     {
       "surface": "נאספו",
-      "gloss": "walitti qabaman"
+      "gloss": "walitti qabamanii turan"
     },
     {
       "surface": "שם",
-      "gloss": "echuma"
+      "gloss": "achitti"
     },
     {
       "surface": "למלחמה",
-      "gloss": "duulaaf"
+      "gloss": "waraanaaf"
     },
     {
       "surface": "ותהי",
-      "gloss": "taate"
+      "gloss": "ergasii ture"
     },
     {
       "surface": "חלקת",
-      "gloss": "qoxinni"
+      "gloss": "bakki qonnaa gararoo"
     },
     {
       "surface": "השדה",
@@ -61,29 +61,29 @@
     },
     {
       "surface": "מלאה",
-      "gloss": "guutame"
+      "gloss": "guutaa ture"
     },
     {
       "surface": "שעורים",
-      "gloss": "fuduraa"
+      "gloss": "eeboo"
     },
     {
       "surface": "והעם",
-      "gloss": "ummataanis"
+      "gloss": "namootni immoo"
     },
     {
       "surface": "נסו",
-      "gloss": "dheessanii"
+      "gloss": "baqatan"
     },
     {
       "surface": "מפני",
-      "gloss": "fuula … irraa"
+      "gloss": "achiin jalaa"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pilishtimootaa"
+      "gloss": "Filistoota"
     }
   ],
-  "timestamp": "2026-08-29T13:34:52.181501569Z",
+  "timestamp": "2026-08-29T17:10:20.461005402Z",
   "model": "glm-5.3"
 }

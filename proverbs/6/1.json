@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "om",
   "chapter": 6,
-  "translation": "Ilmi koo, yoo akka waadaa gabaa meeсincee of dhiyyatte friendii kiyyaaf, harka tapijte dhiyaa tarti",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:00:04.062419379Z",
+  "translation": "Ikoolki, yoo karraa garaa garaa mitti kan hojjedhe garaa dhoksu, ergasii hojjedheeni dhibu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ikoolki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "karraa dhoksu mitti hojjedhe"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "garaa garaa dhoksu"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "dhibu"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "garaa garaa dhoksu"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "harka kee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:59.439939748Z",
   "model": "glm-5.3"
 }

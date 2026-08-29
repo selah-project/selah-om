@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 46,
-  "translation": "Lambuu ilma waggaa tokkoo kan guutuu, dhibaa guyyaatti Yahweef taasisa; ganama ganama ⟨את⟩ ⟨אתו⟩ taasisa.",
+  "translation": "fi Ha'iiwwan waggaa tokko qulqulluu ta'e guyyaatti gatan Yahweef taasisa; ganama ganama ⟨את⟩ isa taasisa.",
   "tokens": [
     {
       "surface": "וכבש",
-      "gloss": "Lambuu"
+      "gloss": "fi Ha'iiwwan"
     },
     {
       "surface": "בן",
-      "gloss": "ilma"
+      "gloss": "ija"
     },
     {
       "surface": "שנתו",
-      "gloss": "waggaa tokkoo"
+      "gloss": "waggaa tokko"
     },
     {
       "surface": "תמים",
-      "gloss": "kan guutuu"
+      "gloss": "qulqulluu ta'e"
     },
     {
       "surface": "תעשה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עולה",
-      "gloss": "dhibaa"
+      "gloss": "gatan"
     },
     {
       "surface": "ליום",
@@ -53,10 +53,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lambuu sana"
+      "gloss": "⟨את⟩",
+      "marks": "isa (gatan isa)"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.125374269Z",
+  "timestamp": "2026-08-29T16:57:26.243216219Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 4,
-  "translation": "\"Abba diiguun malaqota sanduuqa ragaa ⟨את》 sandyachuu ajaji, Yardoonaan irraas haa ba'an.\"",
+  "translation": "Ajaji qoftoota ⟨את⟩ sanduuqa ragaa baatan akka Yarduunittiin ol-bahan.",
   "tokens": [
     {
       "surface": "צוה",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "malaqota sanduuqa ragaa"
+      "marks": "qoftoota sanduuqa ragaa baatan"
     },
     {
       "surface": "הכהנים",
-      "gloss": "malaqota"
+      "gloss": "qoftoota"
     },
     {
       "surface": "נשאי",
-      "gloss": "sandyachuu"
+      "gloss": "baatan"
     },
     {
       "surface": "ארון",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "haa ba'an"
+      "gloss": "ol-bahan"
     },
     {
       "surface": "מן",
-      "gloss": "irraas"
+      "gloss": "-ttiin"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yardoonaan"
+      "gloss": "Yarduun"
     }
   ],
-  "timestamp": "2026-08-29T06:42:00.978583305Z",
+  "timestamp": "2026-08-29T16:48:50.791886424Z",
   "model": "glm-5.3"
 }

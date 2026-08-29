@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 10,
-  "translation": "Mosheenis Aharoofi, El'azaarifi, Iittaamaar ilmaan isaaf jedhe: Mataa kee hin furinaaaa, uffata kee hin booyinaa, akka hin duutinneefi, akkasumas hedduun isaa hunda irratti hin ajeefanneef; obboleeyyan keessan however — mana Israa'el hundi ibidda san Yaawwe baafatte ⟨את⟩ ibaafaa.",
+  "translation": "Mosheenis Aharooniinis, El'azaarattiinis, Iitaamaar ilmaan isaatiitiin jedhe: matni keessan hin hiikinaa, uffannni keessanis hin wol-moorinaa, akka hin duutanii fi garee hunda irratti qaqaabuuf; obboleeyyan keessan, mana guutuu Israa'iel, gubicha ⟨את⟩ kan Yahwe gube bakka bu'aa bishubbisaa.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,44 +17,39 @@
     },
     {
       "surface": "אל",
-      "gloss": "-tti (gara)"
+      "gloss": "isaa irratti"
     },
     {
       "surface": "אהרן",
       "gloss": "Aharoon"
     },
     {
-      "surface": "ויאמר אל אהרן",
-      "gloss": "",
-      "note": "placeholder"
-    },
-    {
       "surface": "ולאלעזר",
-      "gloss": "El'azaarafi"
+      "gloss": "El'azaarattiinis"
     },
     {
       "surface": "ולאיתמר",
-      "gloss": "Iittaamaarifi"
+      "gloss": "Iitaamaarattiinis"
     },
     {
       "surface": "בניו",
-      "gloss": "ilmaan isaaf"
+      "gloss": "ilman isaatii"
     },
     {
       "surface": "ראשיכם",
-      "gloss": "mataa kee"
+      "gloss": "matni keessan"
     },
     {
       "surface": "אל",
-      "gloss": "hin (negation)"
+      "gloss": "hin"
     },
     {
       "surface": "תפרעו",
-      "gloss": "furinaa"
+      "gloss": "hiikinaa"
     },
     {
       "surface": "ובגדיכם",
-      "gloss": "uffata kee"
+      "gloss": "uffannni keessan"
     },
     {
       "surface": "לא",
@@ -62,15 +57,15 @@
     },
     {
       "surface": "תפרמו",
-      "gloss": "booyinaa"
+      "gloss": "wol-moorinaa"
     },
     {
       "surface": "ולא",
-      "gloss": "akkasumas hin"
+      "gloss": "hin"
     },
     {
       "surface": "תמתו",
-      "gloss": "duutinineefi"
+      "gloss": "duutaniin"
     },
     {
       "surface": "ועל",
@@ -78,15 +73,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "hedduu"
+      "gloss": "garee hunda"
     },
     {
       "surface": "העדה",
-      "gloss": "isaa hunda"
+      "gloss": "garee ummataa"
     },
     {
       "surface": "יקצף",
-      "gloss": "ajeefanneef"
+      "gloss": "qaqaabuuf"
     },
     {
       "surface": "ואחיכם",
@@ -94,7 +89,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "hundi"
+      "gloss": "guutuu"
     },
     {
       "surface": "בית",
@@ -102,34 +97,34 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'el"
+      "gloss": "Israa'iel"
     },
     {
       "surface": "יבכו",
-      "gloss": "⟨את⟩ ibaafaa"
+      "gloss": "bishubbisaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ibidda san"
+      "marks": "gubicha"
     },
     {
       "surface": "השרפה",
-      "gloss": "ibidda san"
+      "gloss": "gubicha"
     },
     {
       "surface": "אשר",
-      "gloss": "(waan)"
+      "gloss": "kan"
     },
     {
       "surface": "שרף",
-      "gloss": "baafatte"
+      "gloss": "gube"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yaawwe"
+      "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-29T05:34:50.509507320Z",
+  "timestamp": "2026-08-29T16:17:35.552506588Z",
   "model": "glm-5.3"
 }

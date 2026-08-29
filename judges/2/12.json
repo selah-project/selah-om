@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "judges 2:12",
-  "book": "judges",
-  "lang": "om",
-  "chapter": 2,
-  "translation": "Yahwe, Waaqayyoo abbootii isaanii, Isaan gidduun Israa'iil Gibxii baafate, dhiisan; mootummaa Birraa ergasii ergamtoota Birraa ergamtootaatti: kaabaan Israa'iil Birraa ergamtoota Sabaa lafa Olta'aa isaanii ergamtootaatti. Hakka Sabaa isaanii ergamtootaatti; -ii abbaa isaa ergamtootaaf ergamtootaatti abbaa isaanii ergamtootaaf.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:58:02.689298823Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":12,"ref":"judges 2:12","book":"judges","lang":"om","chapter":2,"translation":"Dhiisanii ⟨את⟩ Yahwe, Eloohiim abbootii isaanii, kan ⟨את⟩ isaan biyya Mitsraayim irraa baase; waaqottii biroo — waaqottii ummatootaa naannoo isaanii jiran — hordofan, isaaniif suuxananii, fi ⟨את⟩ Yahwe boo'achaan aarse.","tokens":[{"surface":"ויעזבו","gloss":"dhiisanii"},{"surface":"את","gloss":"⟨את⟩","marks":"Yahwe"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"אלהי","gloss":"Eloohiim"},{"surface":"אבותם","gloss":"abbootii isaanii"},{"surface":"המוציא","gloss":"kan baase"},{"surface":"אותם","gloss":"⟨את⟩ isaan","marks":"biyya Mitsraayim"},{"surface":"מארץ","gloss":"biyya irraa"},{"surface":"מצרים","gloss":"Mitsraayim"},{"surface":"וילכו","gloss":"hordofan"},{"surface":"אחרי","gloss":"duudhabuudhaan"},{"surface":"אלהים","gloss":"waaqottii"},{"surface":"אחרים","gloss":"biroo"},{"surface":"מאלהי","gloss":"waaqottii irraa"},{"surface":"העמים","gloss":"ummatootaa"},{"surface":"אשר","gloss":"kan"},{"surface":"סביבותיהם","gloss":"naannoo isaanii"},{"surface":"וישתחוו","gloss":"suuxananii"},{"surface":"להם","gloss":"isaaniif"},{"surface":"ויכעסו","gloss":"boo'achaan aarse"},{"surface":"את","gloss":"⟨את⟩","marks":"Yahwe"},{"surface":"יהוה","gloss":"Yahwe"}],"timestamp":"2026-08-29T16:20:04.549709365Z","model":"glm-5.3"}

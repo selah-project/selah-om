@@ -5,8 +5,65 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 29,
-  "translation": "Faarfannaa kan warqeeef warqee, kan kummee kuma baatii, hojii hunda harka ogeeyyii keessatti; eenyummullee harka isaa har'aa Yahwef guutuuf of duuchiitanii kenna?",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:48:05.652674794Z",
+  "translation": "Warra dahaaatif dahaa, warra meeqaaatif meeqaa, akkasumas hojii hundaaf harka ogeessotaa tiin; namni eeyyamuu barbaadu, har'a harka isaa Yahwef guutu?",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "dahaa hammanaaf"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "dahaa (kana) hammanaaf"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "akkasumas meeqaatti"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "meeqaa hammanaaf"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "akkasumas hundaaf"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ogeessotaa tiin"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "eenyummuus namni"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "eeyyamuu barbaadu"
+    },
+    {
+      "surface": "למלאות",
+      "gloss": "guutuuf"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    }
+  ],
+  "timestamp": "2026-08-29T16:25:03.259158862Z",
   "model": "glm-5.3"
 }

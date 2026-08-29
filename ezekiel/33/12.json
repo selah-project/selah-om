@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 33,
-  "translation": "Atis ilma namaa, ilmaan ummata keetti himi: 'Qajeelfa qajeelaan Guyyaa fincilmuu isaa keessatti isa hin baraaru; mokkorrataan mokkorrummaan isaa Guyyaa mokkorrannoo isaa irraa yoo deebi'e isa hin kufe; qajeellaanis Guyyaa balleessuu isaa qajeelfaan isaa isaatiin jiraachuu hin danda'u.'",
+  "translation": "Ati ilma namaa, gara ilmaawwan ummata keetti jedhi: qajeelummaan qajeelchaa guyyaa fincila isaa isa hin baraaru; badaan badtootaas guyyaa badaa isaa irraa yeroo deebi'u isaatti kufa hin taatu; qajeelchaanis guyyaa badii isaa keessatti isa keessatti jiraachuu hin danda'u.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "atis"
+      "gloss": "Ati"
     },
     {
       "surface": "בן",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אמר",
-      "gloss": "himi"
+      "gloss": "jedhi"
     },
     {
       "surface": "אל",
-      "gloss": "itti"
+      "gloss": "gara"
     },
     {
       "surface": "בני",
-      "gloss": "ilmaan"
+      "gloss": "ilmaawwan"
     },
     {
       "surface": "עמך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "צדקת",
-      "gloss": "qajeelfa"
+      "gloss": "qajeelummaan"
     },
     {
       "surface": "הצדיק",
-      "gloss": "qajeelaan"
+      "gloss": "qajeelchaa"
     },
     {
       "surface": "לא",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "תצילנו",
-      "gloss": "isa baraaru"
+      "gloss": "baraaru"
     },
     {
       "surface": "ביום",
-      "gloss": "Guyyaa"
+      "gloss": "guyyaa"
     },
     {
       "surface": "פשעו",
-      "gloss": "fincilmuu isaa keessatti"
+      "gloss": "fincila isaa"
     },
     {
       "surface": "ורשעת",
-      "gloss": "mokkorrummaan"
+      "gloss": "badaan"
     },
     {
       "surface": "הרשע",
-      "gloss": "mokkorrataan isaa"
+      "gloss": "badtootaa"
     },
     {
       "surface": "לא",
@@ -73,31 +73,27 @@
     },
     {
       "surface": "יכשל",
-      "gloss": "isa kufe"
+      "gloss": "kufu (taatu)"
     },
     {
       "surface": "בה",
-      "gloss": "isaatiin"
+      "gloss": "isaatti"
     },
     {
       "surface": "ביום",
-      "gloss": "Guyyaa"
+      "gloss": "guyyaa"
     },
     {
       "surface": "שובו",
-      "gloss": "deebi'e"
+      "gloss": "deebi'uu isaa"
     },
     {
       "surface": "מרשעו",
-      "gloss": "mokkorrannoo isaa irraa"
-    },
-    {
-      "surface": "ורשעת",
-      "gloss": "yoo"
+      "gloss": "badaa isaa irraa"
     },
     {
       "surface": "וצדיק",
-      "gloss": "qajeellaanis"
+      "gloss": "qajeelchaanis"
     },
     {
       "surface": "לא",
@@ -113,17 +109,17 @@
     },
     {
       "surface": "בה",
-      "gloss": "isaatiin"
+      "gloss": "isaatti"
     },
     {
       "surface": "ביום",
-      "gloss": "Guyyaa"
+      "gloss": "guyyaa"
     },
     {
       "surface": "חטאתו",
-      "gloss": "balleessuu isaa"
+      "gloss": "badii isaa"
     }
   ],
-  "timestamp": "2026-08-29T10:25:34.205474838Z",
+  "timestamp": "2026-08-29T16:22:15.406310841Z",
   "model": "glm-5.3"
 }

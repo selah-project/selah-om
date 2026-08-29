@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "om",
   "chapter": 14,
-  "translation": "Akkuma kana irrattis ija kee banee, ⟨את⟩ na si wajjin murtii keessa seensisaa?",
+  "translation": "Dabalataanis waan kana irratti ijii kee banitee, aniis ⟨את⟩ murtii keessa si wajjin seensiftaa?",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "Akkuma…is"
+      "gloss": "Dabalataanis"
     },
     {
       "surface": "על",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "זה",
-      "gloss": "kana"
+      "gloss": "waan kana"
     },
     {
       "surface": "פקחת",
-      "gloss": "banee"
+      "gloss": "banitee"
     },
     {
       "surface": "עינך",
-      "gloss": "ija kee"
+      "gloss": "ijii kee"
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩",
-      "marks": "na (ani)"
+      "gloss": "⟨את⟩ aniis",
+      "marks": "murtii keessa seensiftaa"
     },
     {
       "surface": "תביא",
-      "gloss": "seensisaa"
+      "gloss": "seensiftaa"
     },
     {
       "surface": "במשפט",
@@ -45,6 +45,6 @@
       "gloss": "si wajjin"
     }
   ],
-  "timestamp": "2026-08-29T12:21:35.804459032Z",
+  "timestamp": "2026-08-29T17:02:14.741184885Z",
   "model": "glm-5.3"
 }

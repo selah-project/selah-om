@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "ezekiel 47:21",
-  "book": "ezekiel",
-  "lang": "om",
-  "chapter": 47,
-  "translation": "Lafa kana ⟦⟨את⟩ lafa kana⟧ isinitti gargar-qaqqabsiifattaa gara mootummaa Israa'elootaatti.",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:17:41.464978843Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":21,"ref":"ezekiel 47:21","book":"ezekiel","lang":"om","chapter":47,"translation":"Lafa kana ⟨את⟩ isinitti hiiksitan, akkaaBiyya keessatti","tokens":[{"surface":"וְחִלַּקְתֶּ֞ם","gloss":"hiiksitan"},{"surface":"אֶת","gloss":"⟨את⟩","marks":"lafa kana"},{"surface":"הָאָ֥רֶץ","gloss":"lafa"},{"surface":"הַזֹּ֛את","gloss":"kana"},{"surface":"לָכֶ֖ם","gloss":"isinitti"},{"surface":"לְשִׁבְטֵ֥י","gloss":"akkumoota"},{"surface":"יִשְׂרָאֵֽל","gloss":"Israa'eliitiin"}],"timestamp":"2026-08-29T16:57:25.580598336Z","model":"glm-5.3"}

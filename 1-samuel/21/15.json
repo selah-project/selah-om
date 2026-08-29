@@ -5,39 +5,39 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 21,
-  "translation": "Akishis gabroota isaatti jedhe: “Kunii! Namicha maddawwaa ta'e argaa; maaliif isaa ⟨את⟩ ⟨אתו⟩ anaatti fidattan?”",
+  "translation": "Akiishinis gabboota isaa jedan: \"Kun aga, nama maddaawaa waan argitanii, maaliif ⟨את⟩ isa gara kiyyaatti baattan?\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jedhe"
+      "gloss": "jedan"
     },
     {
       "surface": "אכיש",
-      "gloss": "Akish"
+      "gloss": "Akiishi"
     },
     {
       "surface": "אל",
-      "gloss": "-tti"
+      "gloss": "gara"
     },
     {
       "surface": "עבדיו",
-      "gloss": "gabroota isaa"
+      "gloss": "gabboota isaa"
     },
     {
       "surface": "הנה",
-      "gloss": "Kunii!"
+      "gloss": "kun aga"
     },
     {
       "surface": "תראו",
-      "gloss": "argaa"
+      "gloss": "argitanii"
     },
     {
       "surface": "איש",
-      "gloss": "namicha"
+      "gloss": "nama"
     },
     {
       "surface": "משתגע",
-      "gloss": "maddawwaa ta'e"
+      "gloss": "maddaawaa"
     },
     {
       "surface": "למה",
@@ -45,18 +45,18 @@
     },
     {
       "surface": "תביאו",
-      "gloss": "fidattan"
+      "gloss": "baattan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "isaa"
+      "gloss": "⟨את⟩",
+      "marks": "isa"
     },
     {
       "surface": "אלי",
-      "gloss": "anaatti"
+      "gloss": "gara kiyyaatti"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.115352751Z",
+  "timestamp": "2026-08-29T16:50:57.297018455Z",
   "model": "glm-5.3"
 }

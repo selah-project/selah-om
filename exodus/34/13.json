@@ -5,8 +5,52 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 34,
-  "translation": "Sababatiin mizbaawwan isaanii tuqaa-tuqaa hojjattaniitu,马s的方向不对——",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:20:33.582275115Z",
+  "translation": "Waan ⟨את⟩ altareewwan isaanii burtu burtuuittaan babal'iftanii, ⟨את⟩ obboleewwan dhaabboo isaanii gorr gorruutti caccabsuu, ⟨את⟩ Asheraawwan isaa muruu qabdu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altareewwan isaanii"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "altareewwan isaanii"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "burtu burtuuittaan babal'iftanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obboleewwan dhaabboo isaanii"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "obboleewwan dhaabboo isaanii"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "gorr gorruutti caccabsuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asheraawwan isaa"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Asheraawwan isaa"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "muruu"
+    }
+  ],
+  "timestamp": "2026-08-29T16:42:36.845169760Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,71 @@
   "book": "ruth",
   "lang": "om",
   "chapter": 2,
-  "translation": "Innis Ra'el galmee bashannan keennameef maqaa Israa'el erguuf ergamaa ergameera.",
+  "translation": "Fuudhee magaalatti galte; haadha manaa isheen ⟨את⟩ waan funaanfamte ilaalte; isiinis baaftee ⟨את⟩ waan silaa ishee irraa haftee isheef kennette.",
   "tokens": [
     {
-      "surface": "וישלח",
-      "gloss": "erguuf ergameera"
+      "surface": "ותשא",
+      "gloss": "fuudhee"
     },
     {
-      "surface": "ביד",
-      "gloss": "harkaan"
+      "surface": "ותבוא",
+      "gloss": "galte"
     },
     {
-      "surface": "משה",
-      "gloss": "Mosis"
+      "surface": "העיר",
+      "gloss": "magaalatti"
     },
     {
-      "surface": "עבדו",
-      "gloss": "qaama isaa"
+      "surface": "ותרא",
+      "gloss": "ilaalte"
     },
     {
-      "surface": "הואיל",
-      "gloss": "hawwiidhaan"
+      "surface": "חמותה",
+      "gloss": "haadha manaa ishee"
     },
     {
-      "surface": "תת",
-      "gloss": "⟨את⟩ kennumaaaf"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan funaanfamte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "funaanfamte"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "baaftee"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "kennette"
     },
     {
       "surface": "לה",
-      "gloss": "isaaf"
+      "gloss": "isheef"
     },
     {
-      "surface": "חלקה",
-      "gloss": "qooda"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan silaa ishee irraa haftee"
     },
     {
-      "surface": "על",
-      "gloss": "irratti"
+      "surface": "אשר",
+      "gloss": "waan"
     },
     {
-      "surface": "כל",
-      "gloss": "hunda"
+      "surface": "הותרה",
+      "gloss": "haftee"
     },
     {
-      "surface": "ישראל",
-      "gloss": "Israa'el"
+      "surface": "משבעה",
+      "gloss": "silaa ishee irraa"
     }
   ],
-  "timestamp": "2026-08-29T12:41:09.367617007Z",
+  "timestamp": "2026-08-29T16:24:13.577630098Z",
   "model": "glm-5.3"
 }

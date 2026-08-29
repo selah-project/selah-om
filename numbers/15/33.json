@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 15,
-  "translation": "Warri isa argan ⟨אתו⟩ isa baafachaa muka baafatu, dhiyeessan ⟨אתו⟩ gara Moshee fi gara Aharoon fi gara garee hundaatti.",
+  "translation": "Warra akkaataa bishaan hin qabne muka baatuu isa kana argan ⟨את⟩ isa akkaataa bishaan hin qabne muka baatuutti argaman, isaa dhiheessan Isa Moshee fi Isa Aharooniifi gonfala waldaa hundaaf.",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "gloss": "dhiyeessan"
+      "gloss": "dhiheessan"
     },
     {
       "surface": "אתו",
@@ -18,16 +18,16 @@
     },
     {
       "surface": "המצאים",
-      "gloss": "warri argan"
+      "gloss": "argan"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "isa baafachaa muka baafatu"
+      "marks": "isa"
     },
     {
       "surface": "מקשש",
-      "gloss": "baafachaa"
+      "gloss": "muka baatuu"
     },
     {
       "surface": "עצים",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "Isa"
     },
     {
       "surface": "משה",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "fi gara"
+      "gloss": "fi Isa"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoon"
+      "gloss": "Aharoonii"
     },
     {
       "surface": "ואל",
-      "gloss": "fi gara"
+      "gloss": "fi Isa"
     },
     {
       "surface": "כל",
@@ -59,9 +59,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "garee"
+      "gloss": "waldaa"
     }
   ],
-  "timestamp": "2026-08-29T05:59:52.892416287Z",
+  "timestamp": "2026-08-29T16:46:42.215711323Z",
   "model": "glm-5.3"
 }

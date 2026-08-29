@@ -5,25 +5,33 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 92,
-  "translation": "Yaa Yahwe, du'a kee hin dhiisu; yeroo du'a hin qabdu.",
+  "translation": "Tole Yahwe galateffachuuf, maqaa kee kan olaanaa Elyooniif sagaleedhaan faaruuf.",
   "tokens": [
     {
-      "surface": "עוד",
-      "gloss": "hin dhiisu"
+      "surface": "טוב",
+      "gloss": "Tole"
     },
     {
-      "surface": "יהוה",
+      "surface": "להדות",
+      "gloss": "galateffachuuf"
+    },
+    {
+      "surface": "ליהוה",
       "gloss": "Yahwe"
     },
     {
-      "surface": "בל",
-      "gloss": "hin qabdu"
+      "surface": "ולזמר",
+      "gloss": "faaruuf"
     },
     {
-      "surface": "עולם",
-      "gloss": "yeroo du'a"
+      "surface": "לשמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kan olaanaa Elyoon"
     }
   ],
-  "timestamp": "2026-08-29T11:42:24.984366179Z",
+  "timestamp": "2026-08-29T16:23:15.148757013Z",
   "model": "glm-5.3"
 }

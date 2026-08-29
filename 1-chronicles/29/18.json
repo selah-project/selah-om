@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 29,
-  "translation": "Yahwe, Eloohiim Avrahaam, Is-haaq fi Israa'el abbootii keenyaa, kun haa eegamu yeroo hunda, yaada yaadannoo onnee umatta kee keessatti; fi onnee isaanii siif haa qopheessitu.",
+  "translation": "Yahwe, Eloohiimii Avrahaam, Yitsaaqii fi Israa'el abbootii keenyaa, kana eegi adeemsaan; yaadannoo yaadannoowwan onnee umatta kee keessatti; onnee isaanii si biratti qopheesi.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohiim"
+      "gloss": "Eloohiimii"
     },
     {
       "surface": "אברהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Is-haaq"
+      "gloss": "Yitsaaqii"
     },
     {
       "surface": "וישראל",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "שמרה",
-      "gloss": "haa eegamu"
+      "gloss": "eegi"
     },
     {
       "surface": "זאת",
-      "gloss": "kun"
+      "gloss": "kana"
     },
     {
       "surface": "לעולם",
-      "gloss": "yeroo hunda"
+      "gloss": "adeemsaan"
     },
     {
       "surface": "ליצר",
-      "gloss": "yaada"
-    },
-    {
-      "surface": "מחשבות",
       "gloss": "yaadannoo"
     },
     {
+      "surface": "מחשבות",
+      "gloss": "yaadannoowwan"
+    },
+    {
       "surface": "לבב",
-      "gloss": "onnée"
+      "gloss": "onnee"
     },
     {
       "surface": "עמך",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "והכן",
-      "gloss": "fi haa qopheessitu"
+      "gloss": "fi qopheesi"
     },
     {
       "surface": "לבבם",
-      "gloss": "onnée isaanii"
+      "gloss": "onnee isaanii"
     },
     {
       "surface": "אליך",
-      "gloss": "siif"
+      "gloss": "si biratti"
     }
   ],
-  "timestamp": "2026-08-29T15:41:20.490535984Z",
+  "timestamp": "2026-08-29T17:05:09.852937633Z",
   "model": "glm-5.3"
 }

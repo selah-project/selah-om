@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":13,"ref":"job 28:13","book":"job","lang":"om","chapter":28,"translation":"Nam-tolchuu hin beeku gatii ishee; teessoo namoota jiraniis hin argamu.","tokens":[{"surface":"לא","gloss":"hin"},{"surface":"ידע","gloss":"beeku"},{"surface":"אנוש","gloss":"Nam-tolchuu"},{"surface":"ערכה","gloss":"gatii ishee"},{"surface":"ולא","gloss":"...is hin"},{"surface":"תמצא","gloss":"argamu"},{"surface":"בארץ","gloss":"teessoo ... keessa"},{"surface":"החיים","gloss":"namoota jiraniis"}],"timestamp":"2026-08-29T16:00:16.253284574Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 28:13",
+  "book": "job",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Namrii hin beeku gatii ishee; kan hafu immoo biyya jirattoottii hin argamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namrii"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "gatii ishee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kan hafu immoo hin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "argamu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jirattoottii"
+    }
+  ],
+  "timestamp": "2026-08-29T17:02:33.614062386Z",
+  "model": "glm-5.3"
+}

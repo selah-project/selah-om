@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 19,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:14:56.704220991Z",
+  "translation": "Akkaasumas gabrichaan isaa isaanitti akka ibsamtuu irratti, isaannas eeguun mindaa guddaa jira.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akkaasumas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabrichaan Atii"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "akkA ibsamtu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "isaannas eeguun"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "akkuma hafu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T17:00:20.542342180Z",
   "model": "glm-5.3"
 }

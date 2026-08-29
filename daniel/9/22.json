@@ -5,8 +5,45 @@
   "book": "daniel",
   "lang": "om",
   "chapter": 9,
-  "translation": "خ",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:06:52.416612005Z",
+  "translation": "Nutiinsa isaatti Daani'el, amma ani bahanee akka beekumsa siif kennuu fi si hubachiisuu [jecha] dhiyeesse.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Nutiinsa isaatti"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akkasumas si dubbise"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "na wajjin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkasumas jedhe"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daani'el"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ani bahanee"
+    },
+    {
+      "surface": "להשכילך",
+      "gloss": "si hubachiisuu"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "beekumsa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:03.472056318Z",
   "model": "glm-5.3"
 }

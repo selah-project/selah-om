@@ -5,8 +5,89 @@
   "book": "joel",
   "lang": "om",
   "chapter": 3,
-  "translation": "Waanti hundi waan maqaa Yahwee waamaa ni baraaru; karratti gaarreen Tsiyoonii fi Yerushaalayim keessatti ‹sirtuu› ta'a, Akka Yahwe jedhe, fi ‹sirtuu san keessatti› waan Yahwe waamu qofa ni baraaru.",
-  "tokens": [],
-  "timestamp": "2026-08-29T10:45:18.093920240Z",
+  "translation": "Akkasumas ta'a: nama kamiyyuu maqaa Yahwe dibatu, ni baraarama; kanaafuu gaarreen Tsiyoonii fi Yerushaalayim keessatti miliqaa ni ta'a, akka Yahwe jedhe, fi warra hafaniin keessaa isaan Yahwe waamu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Akkasumas ta'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "dibatu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ni baraarama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoonii"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "fi Yerushaalayim keessatti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ni ta'a"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "miliqaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "fi warra hafaniin keessaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamu"
+    }
+  ],
+  "timestamp": "2026-08-29T16:21:50.170073209Z",
   "model": "glm-5.3"
 }

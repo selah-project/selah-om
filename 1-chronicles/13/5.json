@@ -5,8 +5,79 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 13,
-  "translation": "Daawidiis ⟨את⟩以色列 Israa'iel hunda kufe, Shihoor Mitsraayimiirraa kaasee hanga seenu Hamaat, akka ⟨את⟩ sanduqa Eloohiim Kiryaat-Ye'ariim irraa fidanii.",
-  "tokens": [],
-  "timestamp": "2026-08-29T13:38:13.588486648Z",
+  "translation": "Daawidis dalgee Israa'el hunda ⟨את⟩ kan Israa'el hunda, Shiihorii Mitsraayim irraa hanga seenu Hammaatti, akka sanduqa Eloohiim ⟨את⟩ Kiryaat Ye'ariim irraa fidaachuuf walitti qabse.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "walitti qabse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shiihorii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hammaatti"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "fidaachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa Eloohiim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Kiryaat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Ye'ariim"
+    }
+  ],
+  "timestamp": "2026-08-29T16:24:29.457525854Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,94 @@
   "book": "nehemiah",
   "lang": "om",
   "chapter": 2,
-  "translation": "Aniis isaan jedhedhi: \"Isin hamittii ishee nutti jiru argittani — Yerushaalayim bakka balleessamee, balballoonnis ibiddaatin gubamani jiru. Ka'i, balballi Yerushaalayim iinsinaa, achumaan qaammii-dhokkaa hin taane, garuu aarsaa (reproach) osoo hin taane haalcha (disgrace) — sirriitti: aarsaa hin taanu.\"",
+  "translation": "Ani isiniitti himadhe harka Waaqaa koo kan Eloohiim, waan inni ⟨את⟩ harka isaa gaarii na waliin hojjedhe, akkasumas jechoota mootummaa isa na jedhe; isiinis jedhan: \"Ka'iyyaa, ijaaruu hafna!\" Harkaan isaanii hojii gaarii irratti cimsanii.",
   "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "himadhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isiniitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan inni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na waliin"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootummaa isa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
     {
       "surface": "ויאמרו",
       "gloss": "jedhan"
     },
     {
-      "surface": "עלי",
-      "gloss": "irra"
+      "surface": "נקום",
+      "gloss": "Ka'iyyaa"
     },
     {
-      "surface": "אנחנו",
-      "gloss": "⟨את⟩ nuti"
+      "surface": "ובנינו",
+      "gloss": "ijaaruu hafna"
     },
     {
-      "surface": "אין",
-      "gloss": "hin jiru"
+      "surface": "ויחזקו",
+      "gloss": "cimsanii"
     },
     {
-      "surface": "חלק",
-      "gloss": "qooda"
+      "surface": "ידיהם",
+      "gloss": "Harkaan isaanii"
     },
     {
-      "surface": "וצדקה",
-      "gloss": "dirqama-sirna"
-    },
-    {
-      "surface": "וזכרון",
-      "gloss": "yaadannoo"
-    },
-    {
-      "surface": "בירושלם",
-      "gloss": "biyya Keenya Yerushaalayim keessatti"
+      "surface": "לטובה",
+      "gloss": "hojii gaarii irratti"
     }
   ],
-  "timestamp": "2026-08-29T13:22:30.560295891Z",
+  "timestamp": "2026-08-29T17:10:01.644561529Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 6,
-  "translation": "Eeliishaan isaan jedhe: Kun karaan miti, kunis magaalaa miti; Ana hordofaa, ani ⟨את⟩ ⟨אתכם⟩ isaan nama sana biraa isin geessa barbaaddaniif. Isaan gara Shomeroon geesse.",
+  "translation": "Eliishaan isaan jedhe: \"Kun karaa miti, kunis magaalaa miti; ana hordofaa, ani ⟨את⟩ isaanii namicha barbaaddan biraan siqadha.\" Isaan Shomrooniitti siqe.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Eeliishaan"
+      "gloss": "Eliishaan"
     },
     {
       "surface": "לא",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "זה",
-      "gloss": "Kun"
+      "gloss": "kun"
     },
     {
       "surface": "הדרך",
-      "gloss": "karaan"
+      "gloss": "karaa"
     },
     {
       "surface": "ולא",
-      "gloss": "kunis ... miti"
+      "gloss": "kunis"
     },
     {
       "surface": "זה",
-      "gloss": "kun"
+      "gloss": "miti"
     },
     {
       "surface": "העיר",
@@ -49,47 +49,47 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "Ana"
+      "gloss": "ana"
     },
     {
       "surface": "ואוליכה",
-      "gloss": "isin geessa"
+      "gloss": "siqadha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "isin"
+      "gloss": "⟨את⟩",
+      "marks": "isaanii"
     },
     {
       "surface": "אל",
-      "gloss": "gara ... biraa"
+      "gloss": "biraan"
     },
     {
       "surface": "האיש",
-      "gloss": "nama sana"
+      "gloss": "namicha"
     },
     {
       "surface": "אשר",
-      "gloss": "... -iif"
+      "gloss": "barbaaddan"
     },
     {
       "surface": "תבקשון",
-      "gloss": "barbaaddaniif"
+      "gloss": ""
     },
     {
       "surface": "וילך",
-      "gloss": "gesse"
+      "gloss": "siqe"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "gloss": "⟨את⟩",
       "marks": "isaan"
     },
     {
       "surface": "שמרונה",
-      "gloss": "Shomeroon"
+      "gloss": "Shomrooniitti"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.129689987Z",
+  "timestamp": "2026-08-29T16:53:31.432767822Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,72 @@
   "book": "nehemiah",
   "lang": "om",
   "chapter": 2,
-  "translation": "Aniis isaan jedhedhi: \"Isin hamittii ishee nutti jiru argittani — Yerushaalayim bakka balleessamee, balballoonnis ibiddaatin gubamani jiru. Ka'i, balballi Yerushaalayim iinsinaa, achumaan qaammii-dhokkaa hin taane, garuu aarsaa (reproach) osoo hin taane haalcha (disgrace) — sirriitti: aarsaa hin taanu.\"",
+  "translation": "Anaas isaanii deebisee jecha dabarsa jedhes: Eloohiim samiiwwanii, Inni nu bulchiinsa taasisa; nuti kanabni Isaa, kaaynee ijjina; kan isinii ammoo, qooda, mirgaafi yaadannoo Yerushaalayim keessatti hin qabdan.",
   "tokens": [
     {
-      "surface": "ויאמרו",
-      "gloss": "jedhan"
+      "surface": "ואשיב",
+      "gloss": "deebisee jecha dabarsa jedhe"
     },
     {
-      "surface": "עלי",
-      "gloss": "⟨את⟩ irra"
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jecha"
     },
     {
-      "surface": "אנחנו",
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "jedhes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "nu bulchiinsa taasisa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ואנחנו",
       "gloss": "nuti"
     },
     {
+      "surface": "עבדיו",
+      "gloss": "kanabni Isaa"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "kaaynee"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "ijjina"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "kan isinii"
+    },
+    {
       "surface": "אין",
-      "gloss": "hin jiru"
+      "gloss": "hin qabdan"
     },
     {
       "surface": "חלק",
@@ -29,7 +78,7 @@
     },
     {
       "surface": "וצדקה",
-      "gloss": "dirqama-sirna"
+      "gloss": "mirga"
     },
     {
       "surface": "וזכרון",
@@ -37,9 +86,9 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "biyya Keenya Yerushaalayim keessatti"
+      "gloss": "Yerushaalayim keessatti"
     }
   ],
-  "timestamp": "2026-08-29T13:22:30.560679572Z",
+  "timestamp": "2026-08-29T16:24:52.099481451Z",
   "model": "glm-5.3"
 }

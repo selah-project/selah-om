@@ -5,29 +5,37 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 92,
-  "translation": "Kunoota waan ol-ka'an ani uumeen, akkasuma ni bu'u.",
+  "translation": "Keessoo qarqara kudhan qabu irratti, nabeelaa irratti, sagalee hiiggaayon xinxinaa irratti kinnoraatiin.",
   "tokens": [
     {
-      "surface": "פעלי",
-      "gloss": "Kunoota"
+      "surface": "עלי",
+      "gloss": "irratti"
     },
     {
-      "surface": "רמים",
-      "gloss": "waan ol-ka'an"
+      "surface": "עשור",
+      "gloss": "keessoo qarqara kudhan qabu"
     },
     {
-      "surface": "גם־",
-      "gloss": "akkasuma"
+      "surface": "ועלי",
+      "gloss": "nabeelaa irratti"
     },
     {
-      "surface": "עשיתי",
-      "gloss": "ani uumeen"
+      "surface": "נבל",
+      "gloss": "nabeelaa"
     },
     {
-      "surface": "יריעו",
-      "gloss": "ni bu'u"
+      "surface": "עלי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "sagalee hiiggaayon xinxinaa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnoraatiin"
     }
   ],
-  "timestamp": "2026-08-29T11:42:24.984639594Z",
+  "timestamp": "2026-08-29T16:23:29.277852784Z",
   "model": "glm-5.3"
 }

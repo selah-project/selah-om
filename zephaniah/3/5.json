@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "om",
   "chapter": 3,
-  "translation": "Yahwe toltee irra caalatti <b>kan<\/b> <i>kabaja qabu<\/i> — akka <i>abiyyee<\/i> hundaatiin, <i>barbaachisaadha<\/i>.",
+  "translation": "Yahwe sirrii ⟨ishee⟩ giddu keessatti jira; miidhaa hin hojjadhu; ganama, ganama murtii Isaa ifaaf kenna; hin dhabamu; miidhaa hojjatu however booda shame hin beeku.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "abbaa dhugaa"
+      "gloss": "sirrii"
     },
     {
       "surface": "בקרבה",
-      "gloss": "keessa ishee"
+      "gloss": "giddu ishee keessatti"
     },
     {
       "surface": "לא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "hojjatu"
+      "gloss": "hojjadhu"
     },
     {
       "surface": "עולה",
-      "gloss": "mida'aa"
+      "gloss": "miidhaa"
     },
     {
       "surface": "בבקר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "משפטו",
-      "gloss": "murtiin Isaa"
+      "gloss": "murtii Isaa"
     },
     {
       "surface": "יתן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לאור",
-      "gloss": "ifiinatiif"
+      "gloss": "ifaaf"
     },
     {
       "surface": "לא",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "נעדר",
-      "gloss": "hin dhabamne"
+      "gloss": "dhabamu"
     },
     {
       "surface": "ולא",
-      "gloss": "akkasumas hin"
+      "gloss": "however hin"
     },
     {
       "surface": "יודע",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "עול",
-      "gloss": "mida'aan"
+      "gloss": "miidhaa hojjatu"
     },
     {
       "surface": "בשת",
-      "gloss": "yaaddoo"
+      "gloss": "booda shame"
     }
   ],
-  "timestamp": "2026-08-29T11:01:39.000992800Z",
+  "timestamp": "2026-08-29T16:58:54.201470922Z",
   "model": "glm-5.3"
 }

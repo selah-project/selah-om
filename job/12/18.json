@@ -5,8 +5,33 @@
   "book": "job",
   "lang": "om",
   "chapter": 12,
-  "translation": "Hanga moototaattis bana, marsaa lifee isaaniis lifee isaaniitti hundeessa.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:19:54.900230665Z",
+  "translation": "Himamsa moototaa dhiisa, diriinis maatin isaaniitti mari.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "himamsa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "moototaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dhiisa"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "ergasii mari"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "dirii"
+    },
+    {
+      "surface": "במתניהם",
+      "gloss": "maatin isaaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:57.537956017Z",
   "model": "glm-5.3"
 }

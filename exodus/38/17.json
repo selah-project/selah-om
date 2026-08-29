@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":17,"ref":"exodus 38:17","book":"exodus","lang":"om","chapter":38,"translation":"Bu'oonni utubootaaf naannaa; walnyaachiftuun utubootaa fi sirreewwan isaanii xaalii, haguugduun mataa isaanii xaalii; isaan xaalii sirreeffaman — utuboota ⟨the⟩ gorsaa hunda.","tokens":[{"surface":"והאדנים","gloss":"Bu'oonni"},{"surface":"לעמדים","gloss":"utubootaaf"},{"surface":"נחשת","gloss":"naannaa"},{"surface":"ווי","gloss":"walnyaachiftuun"},{"surface":"העמודים","gloss":"utubootaa"},{"surface":"וחשוקיהם","gloss":"sirreewwan isaanii"},{"surface":"כסף","gloss":"xaalii"},{"surface":"וצפוי","gloss":"haguugduun"},{"surface":"ראשיהם","gloss":"mataa isaanii"},{"surface":"כסף","gloss":"xaalii"},{"surface":"והם","gloss":"isaan"},{"surface":"מחשקים","gloss":"sirreeffaman"},{"surface":"כסף","gloss":"xaalii"},{"surface":"כל","gloss":"hunda"},{"surface":"עמדי","gloss":"utuboota"},{"surface":"החצר","gloss":"gorsaa"}],"timestamp":"2026-08-29T05:27:59.691147250Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 38:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Bakka-ijjannoo alaabbee gererarraa sea'oo haadhaa godhame; haakonni alaabbee gereraa fi marfannoon isaanii kummee, uwwisni gubbee isaanii immoo kummee; alaabbiin gererarraa hundi kummeen marfame.",
+  "tokens": [
+    {
+      "surface": "והאדנים",
+      "gloss": "ijjannoon gererarraa"
+    },
+    {
+      "surface": "לעמדים",
+      "gloss": "gereraa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sea'oo haadhaa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "haakonni"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "gereraa"
+    },
+    {
+      "surface": "וואשיהם",
+      "gloss": "marfannoo isaanii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummee"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "uwwisni"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "gubbee isaanii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummee"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaaniitu"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "marfame"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "gererarraa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "gereraa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:43:02.127357294Z",
+  "model": "glm-5.3"
+}

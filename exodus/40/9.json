@@ -5,68 +5,68 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 40,
-  "translation": "Dibaa fatansaa fudhatteetta, teessoo waan dheeffannaa (Mishkan) fi ⟨את⟩ waan hunda isii jiru dibeessa; teessoo sanaa fi ⟨את⟩ meeshaalee isii hunda qulqulleessitissa, innis ⟨is⟩ qulqullummaa ta'a.",
+  "translation": "Bitaa dhiita dibanee fi dibadhu ⟨את⟩ Misriqicha fi ⟨את⟩ waan hundi isa keessaa; Akka qulqulluutti kadhadhu ⟨את⟩ isaa fi ⟨את⟩ meeshaalee isaa hunda, akkasumas qulqullummaa ta'a.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "fudhatteetta"
+      "gloss": "bitaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fatansaa"
+      "marks": "dhiita dibanee"
     },
     {
       "surface": "שמן",
-      "gloss": "dibaa"
+      "gloss": "dhiita dibanee"
     },
     {
       "surface": "המשחה",
-      "gloss": "fatansaa"
+      "gloss": "dibanee"
     },
     {
       "surface": "ומשחת",
-      "gloss": "dibeessa"
+      "gloss": "dibadhu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mishkan"
+      "marks": "Misriqicha"
     },
     {
       "surface": "המשכן",
-      "gloss": "teessoo waan dheeffannaa (Mishkan)"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "hunda isii jiru"
-    },
-    {
-      "surface": "כל",
-      "gloss": "hunda"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "waan"
-    },
-    {
-      "surface": "בו",
-      "gloss": "isii jiru"
-    },
-    {
-      "surface": "וקדשת",
-      "gloss": "qulqulleessitissa"
-    },
-    {
-      "surface": "אתו",
-      "gloss": "⟨את⟩ inni",
-      "marks": "teessoo sanaa"
+      "gloss": "Misriqicha"
     },
     {
       "surface": "ואת",
       "gloss": "fi ⟨את⟩",
-      "marks": "meeshaalee isii hunda"
+      "marks": "waan hundi isa keessaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "akka qulqulluutti kadhadhu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaa",
+      "marks": "isaa (Misriqicha)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isaa hunda"
     },
     {
       "surface": "כל",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "כליו",
-      "gloss": "meeshaalee isii"
+      "gloss": "meeshaalee isaa"
     },
     {
       "surface": "והיה",
-      "gloss": "ta'a"
+      "gloss": "akkasumas ta'a"
     },
     {
       "surface": "קדש",
       "gloss": "qulqullummaa"
     }
   ],
-  "timestamp": "2026-08-29T05:29:23.709095233Z",
+  "timestamp": "2026-08-29T17:07:21.604411012Z",
   "model": "glm-5.3"
 }

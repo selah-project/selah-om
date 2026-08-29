@@ -5,36 +5,36 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 32,
-  "translation": "Inni of jabeessitee ⟨את⟩ fooli booda-boodaa hunda ijaare, dheerina mooraa irratti ol baasee moora biraa alaa ijaare, Moolooda ⟨את⟩ Biyya Daawid keessatti jabeessate, meeshaalee waraanaa baay'ee fi gaachana mijeesse.",
+  "translation": "Ammas ofiirra cimsee ⟨את⟩ gaarii gabaa diiggame hundeese, (gabicha) gad-bahee minnoowwan irratti ol baase; alattiis gabaa biraa hojjete; Milloo gadhee Daawid keessatti cimse; adda baay'ee fi gaachana mijeese.",
   "tokens": [
     {
       "surface": "ויתחזק",
-      "gloss": "of jabeessitee"
+      "gloss": "ofiirra cimsee"
     },
     {
       "surface": "ויבן",
-      "gloss": "ijaare"
+      "gloss": "hundeese"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fooli booda-boodaa hunda"
+      "marks": "gaarii gabaa diiggame"
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "gaarii"
     },
     {
       "surface": "החומה",
-      "gloss": "fooli"
+      "gloss": "gabaa"
     },
     {
       "surface": "הפרוצה",
-      "gloss": "boda-boodaa"
+      "gloss": "diiggame"
     },
     {
       "surface": "ויעל",
-      "gloss": "ol baasee"
+      "gloss": "ol baase"
     },
     {
       "surface": "על",
@@ -42,28 +42,36 @@
     },
     {
       "surface": "המגדלות",
-      "gloss": "dheerina mooraa"
+      "gloss": "minnoowwan"
     },
     {
-      "surface": "ויחזק... ולחוצה החומה אחרת",
-      "gloss": "moora biraa alaa ijaare"
+      "surface": "ולחוצה",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "gabaa"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "biraa"
     },
     {
       "surface": "ויחזק",
-      "gloss": "jabeessate"
+      "gloss": "cimse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moolooda"
+      "marks": "Milloo"
     },
     {
       "surface": "המלוא",
-      "gloss": "Moolooda"
+      "gloss": "Milloo"
     },
     {
       "surface": "עיר",
-      "gloss": "⟨את⟩ Biyya"
+      "gloss": "gadhee"
     },
     {
       "surface": "דויד",
@@ -71,11 +79,11 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "mijeesse"
+      "gloss": "mijeese"
     },
     {
       "surface": "שלח",
-      "gloss": "meeshaalee waraanaa"
+      "gloss": "adda"
     },
     {
       "surface": "לרב",
@@ -86,6 +94,6 @@
       "gloss": "gaachana"
     }
   ],
-  "timestamp": "2026-08-29T14:07:58.713517019Z",
+  "timestamp": "2026-08-29T16:25:19.321718436Z",
   "model": "glm-5.3"
 }

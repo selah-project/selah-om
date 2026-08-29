@@ -5,56 +5,56 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 46,
-  "translation": "Isaanis ⟨את⟩ lambuu sanaa, ⟨ואת⟩ minchaa sanaa fi ⟨ואת⟩ zayitaa sanaa ganama ganama taasisu — dhibaa yeroo hundaaf.",
+  "translation": "Hunda qaama hirqiqan: ibsaa fi qurbaanna zayitaa ganama-ganama, qurbaanna gubaa dhaabbataa ta'uun.",
   "tokens": [
     {
-      "surface": "ועשו",
-      "gloss": "Isaanis taasisu"
+      "surface": "וְעָשׂוּ",
+      "gloss": "hunda qaama"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "lambuu sanaa"
+      "marks": "ibsaa (הכבש)"
     },
     {
-      "surface": "הכבש",
-      "gloss": "lambuu sanaa"
+      "surface": "הַכֶּבֶשׂ",
+      "gloss": "ibsaa"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "minchaa sanaa"
+      "surface": "וְאֶת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qurbaanna (המנחה)"
     },
     {
-      "surface": "המנחה",
-      "gloss": "minchaa sanaa"
+      "surface": "הַמִּנְחָה",
+      "gloss": "qurbaanna"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "zayitaa sanaa"
+      "surface": "וְאֶת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "zayitaa (השמן)"
     },
     {
-      "surface": "השמן",
-      "gloss": "zayitaa sanaa"
+      "surface": "הַשֶּׁמֶן",
+      "gloss": "zayitaa"
     },
     {
-      "surface": "בבקר",
+      "surface": "בַּבֹּקֶר",
       "gloss": "ganama"
     },
     {
-      "surface": "בבקר",
+      "surface": "בַּבֹּקֶר",
       "gloss": "ganama"
     },
     {
-      "surface": "עולת",
-      "gloss": "dhibaa"
+      "surface": "עֹלַת",
+      "gloss": "qurbaanna gubaa"
     },
     {
-      "surface": "תמיד",
-      "gloss": "yeroo hundaaf"
+      "surface": "תָּמִיד",
+      "gloss": "dhaabbataa"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.124942724Z",
+  "timestamp": "2026-08-29T16:58:21.952550256Z",
   "model": "glm-5.3"
 }

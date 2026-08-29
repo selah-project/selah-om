@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 17,
-  "translation": "Kan itti aanee ammoo Amasyaa, ilma Zikriii, kan of eeyyeeffate Yahwef; isaa wajjinis dhibba lama kuma mootummaa gibira kennanii.",
+  "translation": "Hanga harka isaatiis Amasjiyaa ilma Zikrii, kan ofi tolche Yahweef, fi isa wajjin dhiibbaa kuma lama warra cimoo humnaa.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "kan itti aanee"
+      "gloss": "hanga"
     },
     {
       "surface": "ידו",
-      "gloss": "harka isaa"
+      "gloss": "harka isaatiis"
     },
     {
       "surface": "עמסיה",
-      "gloss": "Amasyaa"
+      "gloss": "Amasjiyaa"
     },
     {
       "surface": "בן",
@@ -25,33 +25,37 @@
     },
     {
       "surface": "זכרי",
-      "gloss": "Zikriii"
+      "gloss": "Zikrii"
     },
     {
       "surface": "המתנדב",
-      "gloss": "kan of eeyyeeffate"
+      "gloss": "kan ofi tolche"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahwef"
+      "gloss": "Yahweef"
     },
     {
       "surface": "ועמו",
-      "gloss": "isaa wajjinis"
+      "gloss": "fi isa wajjin"
     },
     {
       "surface": "מאתים",
-      "gloss": "dhibba lama"
+      "gloss": "kuma lama"
     },
     {
       "surface": "אלף",
-      "gloss": "kuma"
+      "gloss": ""
     },
     {
       "surface": "גבור",
-      "gloss": "mootummaa gibira kennanii"
+      "gloss": "warra cimoo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humnaa"
     }
   ],
-  "timestamp": "2026-08-29T13:56:19.754332601Z",
+  "timestamp": "2026-08-29T16:24:57.955760357Z",
   "model": "glm-5.3"
 }

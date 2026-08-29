@@ -5,8 +5,81 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 18,
-  "translation": "Eeliyaahu lubbuu lakkoofsaa mootummaa biyyaa Keenyaa tokko tokko maqaa Keenyaa jennee filannoo keenya haaraa taasifne",
-  "tokens": [],
-  "timestamp": "2026-08-29T15:57:04.251202066Z",
+  "translation": "Eeliyaahu lamee abbanii fudhate, akka lakkoofsa mootummaa (sabaa) ilmaan Ya'aqobi, kan jechi Yahwe isaaniitti dhufe jedhuuti, \"Israa'el maqaa kee ta'a\" (jedhe).",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eeliyaahu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "lamee"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-kurnee (12)"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "abbanii"
+    },
+    {
+      "surface": "כמספר",
+      "gloss": "akka lakkoofsa"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mootummaa (sabaa)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:20:19.043799391Z",
   "model": "glm-5.3"
 }

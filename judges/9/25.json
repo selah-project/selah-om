@@ -5,8 +5,78 @@
   "book": "judges",
   "lang": "om",
   "chapter": 9,
-  "translation": "Abbootiin Shekem isaa irratti wardii hidhan gaarreen gubbaa irratti, fi warra karaa isaan bira darbu hunda ⟨את⟩ hin fandartokkooneen Marsariitii (Fandartokkoo) bishaan bishaan qabu jenne hiikkaa dhabbataa dhabbataa (gadhiisuuf) kufaniitti — garuu: warri karaan isaan bira darbu hunda mindaa bahasan, fi Abimelechiin isaatti himame.",
-  "tokens": [],
-  "timestamp": "2026-08-29T07:06:18.345095425Z",
+  "translation": "Abbootiin Shekemi akkaataa kufaatii marsiitii isaa irratti maaramtoota dhaabani; hunda kan isaanitti daandaa darbu gararraa saamsaniis; kunis Abiimeleekhiin himame.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dhaabani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemi"
+    },
+    {
+      "surface": "מארבים",
+      "gloss": "maaramtoota"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "raacha"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ויגזלו",
+      "gloss": "saamsaniis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "daandaa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "himame"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Abiimeleekhiin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:26.483825644Z",
   "model": "glm-5.3"
 }

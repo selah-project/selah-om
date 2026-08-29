@@ -5,8 +5,61 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 15,
-  "translation": "Eeylamah dhaaf himata.",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:18:37.852687328Z",
+  "translation": "Eeyyamanitti ba'anii Eelim geessanii; achitti gadhhata maneen lama affur (kudhan-lama) fi muka datee torbaan afurtam (daddeebba) tuqaman; achitti bishaan sana irratti qubatanii hordofan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba'anii geessanii"
+    },
+    {
+      "surface": "אילמה",
+      "gloss": "Eelim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "affur (kudhan-lama)"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "gadhhata maneen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "torbaan afurtam"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "muka datee"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "qubatanii hordofan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan sana"
+    }
+  ],
+  "timestamp": "2026-08-29T16:15:52.050113166Z",
   "model": "glm-5.3"
 }

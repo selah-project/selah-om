@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 31,
-  "translation": "Moshee Yehooshuaa waamte, itiin jedhe, iji Israa'el hunda duratti: \"Cimaadhu, jabaadhu; sababiin isaas ati ⟨את⟩ ummata kanatti seeta, biyya Yahwe abbootii isaanitti kakate isaaniif kennuuf; atinis isaa isaanitti dhaalgifta ⟨את⟩ ⟨אתם⟩.\"",
+  "translation": "Moshee Yihoshuaa waame, isaattis akkas jedhe, ijjii Israa'el hundaatiin: cimadhu, ajajadhu, sababa ati ⟨את⟩ sabaa kana wajjin gara biyya kan Yahwe abbootii isaaniif kakate, isaaniif kennuuf seena; atis ⟨את⟩ isaani dhaaltota taasifta.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "waamte"
+      "gloss": "waame"
     },
     {
       "surface": "משה",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "ליהושע",
-      "gloss": "Yehooshuaa"
+      "gloss": "Yihoshuaa"
     },
     {
       "surface": "ויאמר",
-      "gloss": "itiin jedhe"
+      "gloss": "jedhe"
     },
     {
       "surface": "אליו",
-      "gloss": "itiin"
+      "gloss": "isaatti"
     },
     {
       "surface": "לעיני",
-      "gloss": "iji ... duratti"
+      "gloss": "ijjii"
     },
     {
       "surface": "כל",
-      "gloss": "hunda"
+      "gloss": "hundaatiin"
     },
     {
       "surface": "ישראל",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "חזק",
-      "gloss": "Cimaadhu"
+      "gloss": "cimadhu"
     },
     {
       "surface": "ואמץ",
-      "gloss": "jabaadhu"
+      "gloss": "ajajadhu"
     },
     {
       "surface": "כי",
-      "gloss": "sababiin isaas"
+      "gloss": "sababa"
     },
     {
       "surface": "אתה",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "seeta"
+      "gloss": "seena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ummata kana"
+      "marks": "sabaa kana"
     },
     {
       "surface": "העם",
-      "gloss": "ummata"
+      "gloss": "sabaa"
     },
     {
       "surface": "הזה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "...tti"
+      "gloss": "wajjin gara"
     },
     {
       "surface": "הארץ",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "waan"
+      "gloss": "kan"
     },
     {
       "surface": "נשבע",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "לאבתם",
-      "gloss": "abbootii isaanitti"
+      "gloss": "abbootii isaaniif"
     },
     {
       "surface": "לתת",
@@ -106,18 +106,18 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "atinis"
+      "gloss": "atis"
     },
     {
       "surface": "תנחילנה",
-      "gloss": "isaatti dhaalgifta"
+      "gloss": "dhaaltota taasifta"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isaan"
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.119647658Z",
+  "timestamp": "2026-08-29T16:47:35.533520778Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,87 @@
   "book": "judges",
   "lang": "om",
   "chapter": 1,
-  "translation": "Ilmoon Keenii, warra Moshee abbaa haadha-manaa, magaalaa dateewwanii irraa ⟨את⟩ ilmaan Yaaquuda waliin ol ba'anii, bosona Yaaquuda jiru kan Negeebii Araad keessaa. Kan san booda deemanii ⟨את⟩ saba wajjin jiraatan.",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:59:50.707830012Z",
+  "translation": "Ilmooleen Keenii, baacaa Moshee, magaalaa tuuta-tamarootii irraa ⟨את⟩ ilmooleen Yahuudaa waliin ol ba'anii, gara gammaddii Yahuudaa kan Negeeb Arad keessaa jiru; deemanii ⟨את⟩ saba wajjin jiraatanii.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ilmooleen"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "Keenii"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "baacaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ol ba'anii"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalaa irraa"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "tuuta-tamarootii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmooleen Yahuudaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gammaddii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negeeb keessaa"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    }
+  ],
+  "timestamp": "2026-08-29T16:19:25.160465553Z",
   "model": "glm-5.3"
 }

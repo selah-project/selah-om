@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "om",
   "chapter": 29,
-  "translation": "Guyyootni Isa irratti mootaa ture Israa'eli irratti waggaa afurtamii; Hebroonitti waggaa torbaan mootaa ture, Yerushaalayimiinis waggaa soddoma-saddeetii mootaa ture.",
+  "translation": "Guyyootni inni Israa'el irratti mootummaa ture waggaa afurtama; Hebroon keessatti waggaa torba mootummaa ture, Yerushaalayim keessattis waggaa soddoma-sadas mootummaa ture.",
   "tokens": [
     {
       "surface": "והימים",
-      "gloss": "Guyyootni"
+      "gloss": "guyyootni"
     },
     {
       "surface": "אשר",
-      "gloss": "Is...ture"
+      "gloss": "waan"
     },
     {
       "surface": "מלך",
-      "gloss": "mootaa"
+      "gloss": "mootummaa ture"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israa'eli"
+      "gloss": "Israa'el"
     },
     {
       "surface": "ארבעים",
-      "gloss": "afurtamii"
+      "gloss": "afurtama"
     },
     {
       "surface": "שנה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "בחברון",
-      "gloss": "Hebroonitti"
+      "gloss": "Hebroon keessatti"
     },
     {
       "surface": "מלך",
-      "gloss": "mootaa ture"
+      "gloss": "mootummaa ture"
     },
     {
       "surface": "שבע",
-      "gloss": "torbaan"
+      "gloss": "torba"
     },
     {
       "surface": "שנים",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ובירושלם",
-      "gloss": "Yerushaalayimiinis"
+      "gloss": "Yerushaalayim keessattis"
     },
     {
       "surface": "מלך",
-      "gloss": "mootaa ture"
+      "gloss": "mootummaa ture"
     },
     {
       "surface": "שלשים",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "ושלוש",
-      "gloss": "saddeetii"
+      "gloss": "-sadas"
     }
   ],
-  "timestamp": "2026-08-29T13:47:35.242171193Z",
+  "timestamp": "2026-08-29T17:05:10.636959530Z",
   "model": "glm-5.3"
 }

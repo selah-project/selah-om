@@ -5,8 +5,90 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 28,
-  "translation": "Adeemumsaatti,Transformation: see below",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:35:15.290428400Z",
+  "translation": "Ati immoo ‹s» culti ⟨את⟩ diinaa kee, isaan Yahwe siif ergu, beelaatiifi obbolaaatiifi alattiatiifi wanta hunda dhabuudhaan; ‹s» miilaa sibiilaa molu si gonyaa irrattiaa, ‹s» balleessuu keetti.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "s» culti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diinaa kee"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diinaa kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "siif ergu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "beelaatiifi"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "obbolaaatiifi"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "alattiatiifi"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "dhabuudhaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanta hunda"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "s» moluu"
+    },
+    {
+      "surface": "על",
+      "gloss": "miilaa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sibiilaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "gonyaa kee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangoggoo"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "balleessuu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si"
+    }
+  ],
+  "timestamp": "2026-08-29T16:17:58.211510668Z",
   "model": "glm-5.3"
 }

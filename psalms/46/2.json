@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 46,
-  "translation": "Eloohiim nuuf ⟨is⟩ ogomaa fi humna, gargaarsa rakkooteen filled baay'ee argamtu dha.",
+  "translation": "Eloohiim keenyaaf dhokfaa fi humna ti; rakko keessatti gargaara baay'ee argamaa dha.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לנו",
-      "gloss": "nuuf"
+      "gloss": "keenyaaf"
     },
     {
       "surface": "מחסה",
-      "gloss": "ogomaa"
+      "gloss": "dhokfaa"
     },
     {
       "surface": "ועז",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "עזרה",
-      "gloss": "gargaarsa"
+      "gloss": "gargaara"
     },
     {
       "surface": "בצרות",
-      "gloss": "rakkooteen"
+      "gloss": "rakko keessatti"
     },
     {
       "surface": "נמצא",
-      "gloss": "argamtu"
+      "gloss": "argamaa"
     },
     {
       "surface": "מאד",
       "gloss": "baay'ee"
     }
   ],
-  "timestamp": "2026-08-29T11:25:01.505226442Z",
+  "timestamp": "2026-08-29T17:00:02.443877736Z",
   "model": "glm-5.3"
 }

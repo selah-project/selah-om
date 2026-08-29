@@ -5,32 +5,32 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 9,
-  "translation": "Akka kana isaaniitti hojjates, ⟨את⟩ isaanis harka ilmaan Israa'el irraa bara kaase, isaan ajjeesanii miti.",
+  "translation": "Akka jenne isaaniif hojjee; handaara ilmaan Israa'el irraa isaan baraar; henceesis isaan ajjeesuu.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "hojjates"
+      "gloss": "hojjee"
     },
     {
       "surface": "להם",
-      "gloss": "isaaniitti"
+      "gloss": "isaaniif"
     },
     {
       "surface": "כן",
-      "gloss": "akka kana"
+      "gloss": "akka jenne"
     },
     {
       "surface": "ויצל",
-      "gloss": "bara kaase"
+      "gloss": "baraar"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "isaan"
+      "marks": "handaara ilmaan Israa'el"
     },
     {
       "surface": "מיד",
-      "gloss": "harka irraa"
+      "gloss": "handaara irraa"
     },
     {
       "surface": "בני",
@@ -41,19 +41,14 @@
       "gloss": "Israa'el"
     },
     {
-      "surface": "ויצל",
-      "gloss": "—",
-      "marks": ""
-    },
-    {
       "surface": "ולא",
-      "gloss": "miti \/ hin"
+      "gloss": "henceesis"
     },
     {
       "surface": "הרגום",
-      "gloss": "ajjeesanii"
+      "gloss": "isaan ajjeesuu"
     }
   ],
-  "timestamp": "2026-08-29T06:45:52.761410038Z",
+  "timestamp": "2026-08-29T16:18:04.320325895Z",
   "model": "glm-5.3"
 }

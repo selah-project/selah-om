@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 28,
-  "translation": "Sararoo lama kan warqee qulqulluu, daangaa irratti, isaan ⟨את⟩ ⟨אתם⟩ hojjedhu, hojii wal-tokkomtee; sararoo wal-tokkomtee ⟨את⟩ tamsaasotarratti kaaftu.",
+  "translation": "Lama sarara dahabbuu qulqulluu, daangaa irraa; ⟨את⟩ isaan akka hojii marartuu taasiftu, sarara marartuu ⟨את⟩ immoo mishbetsota irratti kaafta.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שרשרת",
-      "gloss": "sararoo"
+      "gloss": "sarara"
     },
     {
       "surface": "זהב",
-      "gloss": "warqee"
+      "gloss": "dahabbuu"
     },
     {
       "surface": "טהור",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "מגבלת",
-      "gloss": "daangaa irratti"
+      "gloss": "daangaa"
     },
     {
       "surface": "תעשה",
-      "gloss": "hojjedhu"
+      "gloss": "taasiftu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "isaan"
+      "gloss": "⟨את⟩",
+      "marks": "hojii marartuu"
     },
     {
       "surface": "מעשה",
@@ -42,34 +42,34 @@
     },
     {
       "surface": "עבת",
-      "gloss": "wal-tokkomtee"
+      "gloss": "marartuu"
     },
     {
       "surface": "ונתתה",
-      "gloss": "kaaftu"
+      "gloss": "kaafta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sararoo"
+      "marks": "sarara marartuu"
     },
     {
       "surface": "שרשרת",
-      "gloss": "sararoo"
+      "gloss": "sarara"
     },
     {
       "surface": "העבתת",
-      "gloss": "wal-tokkomtee"
+      "gloss": "marartuu"
     },
     {
       "surface": "על",
-      "gloss": "-rratti"
+      "gloss": "irratti"
     },
     {
       "surface": "המשבצת",
-      "gloss": "tamsaasa"
+      "gloss": "mishbetsota"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.100563721Z",
+  "timestamp": "2026-08-29T16:42:15.857174031Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "esther",
   "lang": "om",
   "chapter": 9,
-  "translation": "Yahuudonnis ⟨את⟩ waan raawwachuu jalqabaniiti ⟨את⟩ fi ⟨את⟩ waan Mordekai isaanitti barreesse fudhataniiru.",
+  "translation": "Yihuudonni immoo ⟨את⟩ waan jalqabamanii hojjachuu fiabuu fi ⟨את⟩ waan Mordeekhayi isaanitti barreesse fudhachuu qabu.",
   "tokens": [
     {
       "surface": "וקבל",
-      "gloss": "fudhataniiru"
+      "gloss": "fudhachuu qabu"
     },
     {
       "surface": "היהודים",
-      "gloss": "Yahuudonnis"
+      "gloss": "Yihuudonni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "waan raawwachuu jalqabaniiti"
+      "marks": "waan jalqabamanii hojjachuu"
     },
     {
       "surface": "אשר",
@@ -26,20 +26,16 @@
     },
     {
       "surface": "החלו",
-      "gloss": "jalqabaniiti"
+      "gloss": "jalqabamanii"
     },
     {
       "surface": "לעשות",
-      "gloss": "raawwachuu"
+      "gloss": "hojjachuu"
     },
     {
-      "surface": "ו",
-      "gloss": "⟨את⟩ fi"
-    },
-    {
-      "surface": "את",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "waan Mordekai barreesse"
+      "marks": "waan Mordeekhayi isaanitti barreesse"
     },
     {
       "surface": "אשר",
@@ -51,13 +47,13 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordekai"
+      "gloss": "Mordeekhayi"
     },
     {
       "surface": "אליהם",
       "gloss": "isaanitti"
     }
   ],
-  "timestamp": "2026-08-29T12:58:03.966740580Z",
+  "timestamp": "2026-08-29T16:24:21.561562497Z",
   "model": "glm-5.3"
 }

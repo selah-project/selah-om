@@ -5,19 +5,19 @@
   "book": "esther",
   "lang": "om",
   "chapter": 5,
-  "translation": "Haamaan isaanii himeesse ⟨את⟩ ulfina qabeenya isaa fi baay'ina ilmaan isaa, fi ⟨את⟩ waan hunda waan mootichi guddiseef, fi ⟨את⟩ waan isaa sararoota fi tajaajiltoota mootichii irratti ⟨את⟩ ol ka'eeef.",
+  "translation": "Hamanis isaanitti himesse ⟨את⟩ ulfina qabeenya isaaii fi baay'ina ilmaan isaa, fi ⟨את⟩ waan mootichi guddise isa, fi ⟨את⟩ waan inni mooticha biraa ol qabadde, dargaggoota mootichaa fi qorattoota mootichaa irratti.",
   "tokens": [
     {
       "surface": "ויספר",
-      "gloss": "himeesse"
+      "gloss": "himesse"
     },
     {
       "surface": "להם",
-      "gloss": "isaanii"
+      "gloss": "isaanitti"
     },
     {
       "surface": "המן",
-      "gloss": "Haamaan"
+      "gloss": "Hamanis"
     },
     {
       "surface": "את",
@@ -33,21 +33,29 @@
       "gloss": "qabeenya isaa"
     },
     {
-      "surface": "וירב",
-      "gloss": "baay'ina ilmaan isaa",
-      "marks": "waan mootichi guddiseef"
+      "surface": "ורב",
+      "gloss": "fi baay'ina"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "waan mootichi guddise"
     },
     {
       "surface": "כל",
-      "gloss": "waan hunda"
+      "gloss": "waan"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨את⟩ waan"
+      "gloss": "waan"
     },
     {
       "surface": "גדלו",
-      "gloss": "guddiseef"
+      "gloss": "guddise"
     },
     {
       "surface": "המלך",
@@ -55,8 +63,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "waan isaa ol ka'eeef"
+      "gloss": "fi ⟨את⟩",
+      "marks": "waan inni ol qabadde"
     },
     {
       "surface": "אשר",
@@ -64,7 +72,7 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "⟨את⟩ ol ka'eeef"
+      "gloss": "ol qabadde"
     },
     {
       "surface": "על",
@@ -72,17 +80,17 @@
     },
     {
       "surface": "השרים",
-      "gloss": "sararoota"
+      "gloss": "dargaggoota"
     },
     {
       "surface": "ועבדי",
-      "gloss": "fi tajaajiltoota"
+      "gloss": "fi qorattoota"
     },
     {
       "surface": "המלך",
-      "gloss": "mootichii"
+      "gloss": "mootichaa"
     }
   ],
-  "timestamp": "2026-08-29T15:35:11.118370144Z",
+  "timestamp": "2026-08-29T16:23:43.797809039Z",
   "model": "glm-5.3"
 }

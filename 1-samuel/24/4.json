@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "1-samuel 24:4",
-  "book": "1-samuel",
-  "lang": "om",
-  "chapter": 24,
-  "translation": "Achii wanti inni tiwwaa horeeitti dhufe, karaa irratti; achitti holqa jirti; She'ool-dhibataa osoo hin jedhin, Sa'uuli ⟨את⟩ milla isaa dhokee seenuuf holqa seene, Daawidis fi dheerbtuu isaa daangaa keessaa hafe.",
-  "tokens": [],
-  "timestamp": "2026-08-29T14:43:53.201088355Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":4,"ref":"1-samuel 24:4","book":"1-samuel","lang":"om","chapter":24,"translation":"Bakka gibiraoota hantuutaa kan daandii irratti ga'e; achitti holqa jirti; She'ool… — Sa'uumtaan Shaa'uli holqa seenedde hiikkaa ⟨את⟩ miilla isaa argachuuf; Daawidis fi namootni isaa dhibeeffaman holqaa keessaa taa'anii turan.","tokens":[{"surface":"ויבא","gloss":"ga'e"},{"surface":"אל","gloss":"bira"},{"surface":"גדרות","gloss":"gibiraoota"},{"surface":"הצאן","gloss":"hantuutaa"},{"surface":"על","gloss":"irra"},{"surface":"הדרך","gloss":"daandii"},{"surface":"ושם","gloss":"achitti"},{"surface":"מערה","gloss":"holqa"},{"surface":"ויבא","gloss":"seenedde"},{"surface":"שאול","gloss":"Shaa'uli"},{"surface":"להסך","gloss":"hiikkaa…argachuuf"},{"surface":"את","gloss":"⟨את⟩","marks":"miilla isaa"},{"surface":"רגליו","gloss":"miilla isaa"},{"surface":"ודוד","gloss":"Daawidis"},{"surface":"ואנשיו","gloss":"fi namootni isaa"},{"surface":"בירכתי","gloss":"dhibeeffaman…keessaa"},{"surface":"המערה","gloss":"holqaa"},{"surface":"ישבים","gloss":"taa'anii turan"}],"timestamp":"2026-08-29T16:19:16.823272020Z","model":"glm-5.3"}

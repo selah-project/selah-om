@@ -5,8 +5,89 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 40,
-  "translation": "Miilaa gubannaa barren Isa\/organiittiin lallaba... — correction below",
-  "tokens": [],
-  "timestamp": "2026-08-29T05:29:10.378207864Z",
+  "translation": "Bakka bu'uuraa mana walgaheeitti, waamicha kabajaa fi waamicha soorataa akka Yahwe Moshee ajajetti irratti ol kaa'e. Waamichi kabajaa fi waamichi soorataa irratti ol baafame.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "waamicha kabajaa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "waamicha kabajaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bakkatti bu'uuraa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mana (Mishkan)"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walgahee"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "fi irratti ol baafe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waamicha kabajaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "waamichi soorataa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "waamichi soorataa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T16:16:51.090513820Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 13,
-  "translation": "Yoo saartichi ilaale, akkuma dhukkubni ⟨אתו⟩ hiikamee booda booda'aa ta'e, wanticha uffataa ykn gogaa ykn sararaa ykn aanaa irraa mure.",
+  "translation": "Yoo kohanni ilaale, akka dhiibeen sun erga facaafamee booda ifa hin qabaatu, sana ⟨את⟩ uffata irraa ykn gogaa irraa ykn marsee irraa ykn meena irraa baafata.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "saartichi"
+      "gloss": "kohanni"
     },
     {
       "surface": "והנה",
-      "gloss": "akkuma"
+      "gloss": "akka"
     },
     {
       "surface": "כהה",
-      "gloss": "booda'aa ta'e"
+      "gloss": "ifa-hin-qabaatu"
     },
     {
       "surface": "הנגע",
-      "gloss": "dhukkubni"
+      "gloss": "dhiibeen"
     },
     {
       "surface": "אחרי",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "הכבס",
-      "gloss": "hiikamee"
+      "gloss": "facaafamee"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dhukkubicha"
+      "marks": "facaafamee (erga itti facaafame) — sana (dhiicha dhiibee)"
     },
     {
       "surface": "וקרע",
-      "gloss": "mure"
+      "gloss": "baafata"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "wanticha"
+      "marks": "uffata irraa… baafama"
     },
     {
       "surface": "מן",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "הבגד",
-      "gloss": "uffataa"
+      "gloss": "uffata"
     },
     {
       "surface": "או",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "השתי",
-      "gloss": "sararaa"
+      "gloss": "marsee"
     },
     {
       "surface": "או",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "aanaa"
+      "gloss": "meena"
     }
   ],
-  "timestamp": "2026-08-29T05:37:11.901153887Z",
+  "timestamp": "2026-08-29T16:44:42.986133253Z",
   "model": "glm-5.3"
 }

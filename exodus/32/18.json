@@ -5,47 +5,15 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 32,
-  "translation": "Inni ammoo jedhe: \"Sagaleen waamuu injifannaa miti; sagaleen waamuu mo'amuutti miti; sagalee waamuu sirbaa ani dhagaya.\"",
+  "translation": "Innis ni jedhe: Sagalee ol-oluu humnaa hin qabu, sagalee ol-oluu dadhabbii hin qabu; sagalee heesa anaan dhagahaa jira.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Inni ammoo jedhe"
+      "gloss": "ni jedhe"
     },
     {
       "surface": "אין",
-      "gloss": "miti"
-    },
-    {
-      "surface": "קול",
-      "gloss": "sagaleen"
-    },
-    {
-      "surface": "ענות",
-      "gloss": "waamuu"
-    },
-    {
-      "surface": "גבורה",
-      "gloss": "injifannaa"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
-      "surface": "ואין",
-      "gloss": "miti"
-    },
-    {
-      "surface": "קול",
-      "gloss": "sagaleen"
-    },
-    {
-      "surface": "ענות",
-      "gloss": "waamuu"
-    },
-    {
-      "surface": "חלושה",
-      "gloss": "mo'amuutti"
+      "gloss": "hin qabu"
     },
     {
       "surface": "קול",
@@ -53,17 +21,45 @@
     },
     {
       "surface": "ענות",
-      "gloss": "waamuu"
+      "gloss": "ol-oluu"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "humnaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ol-oluu"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "dadhabbii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "heesa"
     },
     {
       "surface": "אנכי",
-      "gloss": "ani"
+      "gloss": "anaan"
     },
     {
       "surface": "שמע",
-      "gloss": "dhagaya"
+      "gloss": "dhagahaa jira"
     }
   ],
-  "timestamp": "2026-08-29T14:21:53.407485624Z",
+  "timestamp": "2026-08-29T16:42:47.906672995Z",
   "model": "glm-5.3"
 }

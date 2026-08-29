@@ -5,8 +5,77 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 9,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T06:45:55.808596551Z",
+  "translation": "Abbaawan hundi gara walittigamtaa hundaatti \"Ani keenya Yahwe, Eloohiim biyya Israa'eliitiin isaanitti kakadhannee; ammoo yeroo kanatti isaaniin hin tuqinu\" jedhan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "abbaawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "walittigamtaa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ani keenya"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "kakadhannee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe-tiin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "biyya Israa'eliitiin"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ammoo yeroo kanatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "dandeenyu"
+    },
+    {
+      "surface": "לנגע",
+      "gloss": "tuqinu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniin"
+    }
+  ],
+  "timestamp": "2026-08-29T16:18:40.589081432Z",
   "model": "glm-5.3"
 }

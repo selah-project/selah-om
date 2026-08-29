@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":33,"ref":"deuteronomy 5:33","book":"deuteronomy","lang":"om","chapter":5,"translation":"Daandoo hunda kan Yahwe Eloohiim keessan akka isin ajajettiin, <⟨את⟩ isin> deema; akkasumas akka jiraattaniifi akka isiniif tolfamu, akkasumas akka guyyaa keessan biyya isin dhibatanitti dheerattan.","tokens":[{"surface":"בכל","gloss":"daandoo hunda"},{"surface":"הדרך","gloss":"daandoo"},{"surface":"אשר","gloss":"kan"},{"surface":"צוה","gloss":"ajajettiin"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"אלהיכם","gloss":"Eloohiim keessan"},{"surface":"אתכם","gloss":"⟨את⟩ isin","marks":"deema (isinni deemu)"},{"surface":"תלכו","gloss":"deema"},{"surface":"למען","gloss":"akkasumas akka"},{"surface":"תחיון","gloss":"jiraattaniif"},{"surface":"וטוב","gloss":"akkasumas akka ... tolfamu"},{"surface":"לכם","gloss":"isiniif"},{"surface":"והארכתם","gloss":"akkasumas akka ... dheerattan"},{"surface":"ימים","gloss":"guyyaa keessan"},{"surface":"בארץ","gloss":"biyya"},{"surface":"אשר","gloss":"kan"},{"surface":"תירשון","gloss":"isin dhibatanitti"}],"timestamp":"2026-08-29T06:16:22.505493779Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 5:33",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Daandaa hunda kan Yahwe Eloohiim keenya ⟨את⟩ isin ajajee keessa deemuun, akka jiraattanii fi akka gaariin isiniif ta'uu fi akka guutaa keessan biyya kan dhuftanitti dheerinaa jiraattuuf.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "daandaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "deemuun (keessa deemuun)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka...uuf"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "jiraattanii"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "fi gaariin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "והארכתם",
+      "gloss": "fi guutaa keessan...dheerinaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jiraattuuf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תירשון",
+      "gloss": "dhuftanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T16:46:55.948797901Z",
+  "model": "glm-5.3"
+}

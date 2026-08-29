@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 10,
-  "translation": "⟨את⟩ Yahwe Eloohiim kee sodaadhu, ⟨את⟩ ⟨אתו⟩ Isa tajaajadhu, Isaatti maxxansoo, maqaa isaatii kakadhu.",
+  "translation": "Yahwe Eloohiim kee ⟨את⟩ si gutu; ⟨את⟩ Isa akka kabajjetti tajaajilu, Isa wajjin maxxanu, fi maqaan Isaatiin kakadhu.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe Eloohiim kee"
+      "marks": "Yahwe"
     },
     {
       "surface": "יהוה",
@@ -22,34 +22,34 @@
     },
     {
       "surface": "תירא",
-      "gloss": "sodaadhu"
+      "gloss": "si gutu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Isa"
+      "gloss": "⟨את⟩ Isa",
+      "marks": "tajaaluu"
     },
     {
       "surface": "תעבד",
-      "gloss": "tajaajadhu"
+      "gloss": "tajaaluu"
     },
     {
       "surface": "ובו",
-      "gloss": "Isaatti"
+      "gloss": "Isa wajjin"
     },
     {
       "surface": "תדבק",
-      "gloss": "maxxansoo"
+      "gloss": "maxxanu"
     },
     {
       "surface": "ובשמו",
-      "gloss": "maqaa isaatii"
+      "gloss": "maqaan Isaatiin"
     },
     {
       "surface": "תשבע",
       "gloss": "kakadhu"
     }
   ],
-  "timestamp": "2026-08-29T16:15:02.117746837Z",
+  "timestamp": "2026-08-29T16:47:45.001899119Z",
   "model": "glm-5.3"
 }

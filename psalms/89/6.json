@@ -5,19 +5,15 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 89,
-  "translation": "Samiiwwanis yaaddu raawwii kee, Yahwe; akkasumas amantamummaa kee walitti qabama qulqulloowwan keessatti.",
+  "translation": "Samiiwwanis raawwii kee kan yaaddessu, Yahwe; amantii kees immoo garee qulqullumootaa keessatti.",
   "tokens": [
     {
-      "surface": "ולכן",
-      "gloss": "akkasumas"
-    },
-    {
-      "surface": "יודוך",
-      "gloss": "yaaddu"
+      "surface": "ויודו",
+      "gloss": "nis yaaddisan"
     },
     {
       "surface": "שמים",
-      "gloss": "samiiwwan"
+      "gloss": "samiiwwanis"
     },
     {
       "surface": "פלאך",
@@ -29,21 +25,21 @@
     },
     {
       "surface": "אף",
-      "gloss": "akkasumas"
+      "gloss": "immoo"
     },
     {
       "surface": "אמונתך",
-      "gloss": "amantamummaa kee"
+      "gloss": "amantii kee"
     },
     {
       "surface": "בקהל",
-      "gloss": "walitti qabama keessatti"
+      "gloss": "garee keessatti"
     },
     {
       "surface": "קדשים",
-      "gloss": "qulqulloowwan"
+      "gloss": "qulqullumootaa"
     }
   ],
-  "timestamp": "2026-08-29T11:40:11.590558251Z",
+  "timestamp": "2026-08-29T16:22:57.612328197Z",
   "model": "glm-5.3"
 }

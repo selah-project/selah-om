@@ -5,19 +5,23 @@
   "book": "job",
   "lang": "om",
   "chapter": 38,
-  "translation": "Meerqoo ergattuu dandeessa, isaan deemanii siin 'Kunoo nu' jedhuuf?",
+  "translation": "Sinni balaalee erguu dandeessa, akka deemanii fi akka siin jedhan «Innu jirra»?",
   "tokens": [
     {
       "surface": "התשלח",
-      "gloss": "ergattuu dandeessa"
+      "gloss": "erguu dandeessa"
     },
     {
       "surface": "ברקים",
-      "gloss": "meerqoo"
+      "gloss": "balaalee"
     },
     {
-      "surface": "ולכוויאמרו",
-      "gloss": "deemanii jedhuuf"
+      "surface": "וילכו",
+      "gloss": "akka deemanii"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "akka jedhan"
     },
     {
       "surface": "לך",
@@ -25,9 +29,9 @@
     },
     {
       "surface": "הננו",
-      "gloss": "Kunoo nu"
+      "gloss": "Innu jirra"
     }
   ],
-  "timestamp": "2026-08-29T12:35:11.002508893Z",
+  "timestamp": "2026-08-29T16:24:01.397598960Z",
   "model": "glm-5.3"
 }

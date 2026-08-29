@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":14,"ref":"isaiah 21:14","book":"isaiah","lang":"om","chapter":21,"translation":"To meet the thirsty they brought water; the inhabitants of the land of Teemaa, with his bread they met the one fleeing.","tokens":[{"surface":"לקראת","gloss":"to meet"},{"surface":"צמא","gloss":"the thirsty"},{"surface":"התיו","gloss":"they brought"},{"surface":"מים","gloss":"water"},{"surface":"ישבי","gloss":"inhabitants"},{"surface":"ארץ","gloss":"the land"},{"surface":"תימא","gloss":"of Teemaa"},{"surface":"בלחמו","gloss":"with his bread"},{"surface":"קדמו","gloss":"they met"},{"surface":"נדד","gloss":"the one fleeing"}],"timestamp":"2026-08-29T08:51:58.169969688Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Dheebuuf bishaan fidaniiru; jiraattoonni biyya Teemaa, miccaan isaa waliin nama balleeçaan bahe dhiyaataniiru.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "dhiyaachuuf"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "fidaniiru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jiraattoonni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Teemaa"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "miccaan isaa waliin"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "dhiyaataniiru"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "nama balleeçaan bahe"
+    }
+  ],
+  "timestamp": "2026-08-29T16:54:09.950394448Z",
+  "model": "glm-5.3"
+}

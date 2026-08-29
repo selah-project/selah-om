@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 96,
-  "translation": "Fuuldura Yahwe, sababiin inni dhufee, sababiin inni dhufee ⟨the⟩ lafa murtii gochuuf; inni ⟨the⟩ addunyaa qajeelfiin murtii gochaa jira, sababiin ⟨the⟩ saboota amantii isaatii keessatti.",
+  "translation": "Yahwe fuula duraatti, sababaa inni dhufeetti, sababaa inni dhufeetti lafa murtii gochuuf; tebeelaa gara qajeelfamaa tiin murtii gochaa jira, saboonniis amantii isaatiin.",
   "tokens": [
     {
       "surface": "לפני",
-      "gloss": "fuuldura"
+      "gloss": "fuula duraatti"
     },
     {
       "surface": "יהוה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "sababiin"
+      "gloss": "sababaa"
     },
     {
       "surface": "בא",
-      "gloss": "inni dhufee"
+      "gloss": "inni dhufeetti"
     },
     {
       "surface": "כי",
-      "gloss": "sababiin"
+      "gloss": "sababaa"
     },
     {
       "surface": "בא",
-      "gloss": "inni dhufee"
+      "gloss": "inni dhufeetti"
     },
     {
       "surface": "לשפט",
@@ -41,25 +41,25 @@
     },
     {
       "surface": "ישפט",
-      "gloss": "inni murtii gochaa jira"
+      "gloss": "murtii gochaa jira"
     },
     {
       "surface": "תבל",
-      "gloss": "addunyaa"
+      "gloss": "tebeelaa"
     },
     {
       "surface": "בצדק",
-      "gloss": "qajeelfiin"
+      "gloss": "gara qajeelfamaa tiin"
     },
     {
       "surface": "ועמים",
-      "gloss": "saboota"
+      "gloss": "saboonniis"
     },
     {
       "surface": "באמונתו",
-      "gloss": "amantii isaatii keessatti"
+      "gloss": "amantii isaatiin"
     }
   ],
-  "timestamp": "2026-08-29T11:40:47.078570094Z",
+  "timestamp": "2026-08-29T17:09:41.404447516Z",
   "model": "glm-5.3"
 }

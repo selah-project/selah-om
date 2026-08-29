@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "om",
   "chapter": 2,
-  "translation": "<the> Haadhaa fi hiika isaa yoo argamsiifatan, kennaa, mindaa fi guddina guddaa <the> fuuldura kiyyaa <will> fudachuu — <the> Kanaaf, haadhaa fi hiika isaa naa argamsiisaa.",
+  "translation": "Haa ta'u, yoo hiikaa fi hiika isaa natti agaaddan, kennaa, mindaa fi ulfina guddaa kiirra fudhattu; kanaafuu, hiikaa fi hiika isaa natti agaaddaa.",
   "tokens": [
     {
       "surface": "והן",
-      "gloss": "yoo"
+      "gloss": "Haa ta'u"
     },
     {
       "surface": "חלמא",
-      "gloss": "haadhaa"
+      "gloss": "hiikaa"
     },
     {
       "surface": "ופשרה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תהחון",
-      "gloss": "argamsiifatan"
+      "gloss": "natti agaaddan"
     },
     {
       "surface": "מתנן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויקר",
-      "gloss": "guddina"
+      "gloss": "ulfina"
     },
     {
       "surface": "שגיא",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "תקבלון",
-      "gloss": "fudachuu"
+      "gloss": "fudhattu"
     },
     {
       "surface": "מן",
-      "gloss": "irraa"
+      "gloss": "-ra"
     },
     {
       "surface": "קדמי",
-      "gloss": "fuuldura kiyyaa"
+      "gloss": "ki"
     },
     {
       "surface": "להן",
-      "gloss": "kanaaf"
+      "gloss": "kanaafuu"
     },
     {
       "surface": "חלמא",
-      "gloss": "haadhaa"
+      "gloss": "hiikaa"
     },
     {
       "surface": "ופשרה",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "החוני",
-      "gloss": "naa argamsiisaa"
+      "gloss": "natti agaaddaa"
     }
   ],
-  "timestamp": "2026-08-29T12:58:04.931475356Z",
+  "timestamp": "2026-08-29T17:03:39.598734908Z",
   "model": "glm-5.3"
 }

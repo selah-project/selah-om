@@ -5,8 +5,29 @@
   "book": "job",
   "lang": "om",
   "chapter": 12,
-  "translation": "Gargaarota ogummaa hoo'aa barbaachisaa ta'e godaabbisa, abbaa seeraas moggaasa isaanii hoo'aa isaan godha.",
-  "tokens": [],
-  "timestamp": "2026-08-29T12:19:54.899769231Z",
+  "translation": "Gargaarota hoo hiika bafachiisa, ajajaa warraa immoo gad-maakima.",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "hoo hiika bafachiisa"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "Gargaarota"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "bafachiisa (hiika ala-baaftee)"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "ajajaa warraa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "gad-maakima"
+    }
+  ],
+  "timestamp": "2026-08-29T16:23:52.249257478Z",
   "model": "glm-5.3"
 }

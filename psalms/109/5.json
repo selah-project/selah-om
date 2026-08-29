@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 109:5",
-  "book": "psalms",
-  "lang": "om",
-  "chapter": 109,
-  "translation": "Raawwattoonni rakkoo baduurraa natti madaajaniif; jaalala koo jaalalaa jalatti boonuuf kennaniif — rakkoo koo kanaan baduuf, jaalala koo boonaafi.",
-  "tokens": [],
-  "timestamp": "2026-08-29T11:46:46.548198742Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":5,"ref":"psalms 109:5","book":"psalms","lang":"om","chapter":109,"translation":"Akkaataa isaan itti godhanitti, rakkoo falaa goodinaa goataniiru — raateef jaalala koo.","tokens":[{"surface":"וישימו","gloss":"godhaniiru"},{"surface":"עלי","gloss":"annot"},{"surface":"רעה","gloss":"rakkoo"},{"surface":"תחת","gloss":"falaa"},{"surface":"טובה","gloss":"goodinaa"},{"surface":"ושנאה","gloss":"raateef"},{"surface":"תחת","gloss":"falaa"},{"surface":"אהבתי","gloss":"jaalala koo"}],"timestamp":"2026-08-29T16:23:06.941848332Z","model":"glm-5.3"}

@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":28,"ref":"genesis 46:28","book":"genesis","lang":"om","chapter":46,"translation":"Yihuudaas ⟨את⟩ dura isaa gara Yoosafiif ergu, kallattiin dura isaatti Goshenitti argachiisuuf; Goshen biyya ⟨את⟩ seenu.","tokens":[{"surface":"ואת","gloss":"⟨את⟩ seenu"},{"surface":"יהודה","gloss":"biyya"},{"surface":"שלח","gloss":"Goshen"},{"surface":"לפניו","gloss":"Goshenitti"},{"surface":"אל","gloss":"dura isaatti"},{"surface":"יוסף","gloss":"kallattiin argachiisuuf"},{"surface":"להורת","gloss":"Yoosafiif"},{"surface":"לפניו","gloss":"gara"},{"surface":"גשנה","gloss":"dura isaa"},{"surface":"ויבאו","gloss":"ergu"},{"surface":"ארצה","gloss":"Yihuudaas"},{"surface":"גשן","gloss":"⟨את⟩","marks":"Yihuudaas"}],"timestamp":"2026-08-29T04:53:13.778329111Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Isa Yihuudaa ⟨את⟩ duraa ergu gara Yoosiph, akka Isa duraa Goshenitti barsiisuuf; isaanis biyya Goshen seenan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yihuudaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Isa duraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosiph"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "barasiisuuf"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Isa duraa"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "Goshenitti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "seenan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-08-29T16:36:37.253064060Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "om",
   "chapter": 94,
-  "translation": "Ni jedhu: \"Yaah hin argu; Eloohiim Ya'aqoobis hin hubatu.\"",
+  "translation": "Akkasanis jedhu: \"Yaah hin argu; Eloohiimii Ya'aqoobis hin hubatu.\"",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ni jedhu"
+      "gloss": "jedhu"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "-is hin"
+      "gloss": "hin hubatu"
     },
     {
       "surface": "יבין",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohiim"
+      "gloss": "Eloohiimii"
     },
     {
       "surface": "יעקב",
       "gloss": "Ya'aqoob"
     }
   ],
-  "timestamp": "2026-08-29T11:41:45.280512494Z",
+  "timestamp": "2026-08-29T17:00:51.297120954Z",
   "model": "glm-5.3"
 }
