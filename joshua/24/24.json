@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Sabaan Yehooshuatti jedhe: \"Yahwe ⟨את⟩, Eloohiim keenya, ni tajaajilla; akeekkachiisa isaatis ni dhokonna.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ni tajaajilla"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "akeekkachiisa isaatis"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ni dhokonna"
+    }
+  ],
+  "timestamp": "2026-08-29T06:58:56.506178253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "\"Jechi aanoo isa ijaaraniitii qofa, yaada imaltuu fi humna lolaa taasisanii jedhachaa? Amma kan kamitti amattaa, akka anaarratti isaa fincilitteef?\"",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "jedhachaa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi aanoo"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "isa ijaaraniitii"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "yaada"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "fi humna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "lolaa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan kamitti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "amattaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "fincilitteef"
+    },
+    {
+      "surface": "בי",
+      "gloss": "anaarratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:37:38.822357015Z",
+  "model": "glm-5.3"
+}

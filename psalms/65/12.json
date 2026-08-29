@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Waggaa toltummaa keetiin ajaja; karaawwan kee dheecha ni rafisan.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "toltummaa keetiin"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "karaawwan kee"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ni rafisan"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "dheecha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:38.193523988Z",
+  "model": "glm-5.3"
+}

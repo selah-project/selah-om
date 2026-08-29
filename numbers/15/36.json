@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 15:36",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Gareen hundi ⟨אתו⟩ baafatan, mana mootummaa alatti baafataniiguu, ⟨אתו⟩ dhagaa irratti rukutan, ajajes; akka Yahwe ⟨את⟩ Mosheetti ajajetti.",
+  "tokens": [
+    {
+      "surface": "ויציאו",
+      "gloss": "baafatan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gareen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mana mootummaa"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "rukkutan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ajajes"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:59:52.892947336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Mootichi erga namoota ergeree isa hiike; mootiin ummootaa isa banee baase.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "erga namoota ergere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "isa hiike"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ummootaa"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "isa banee baase"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:42.891684652Z",
+  "model": "glm-5.3"
+}

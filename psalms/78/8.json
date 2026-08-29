@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Abbootii isaanii akka hin ta'ane — dhiira hiittaa fi fincila qabu, dhiira onnee isaa hin qopheessine, safiisa isaa ⟨את⟩ Eel irratti hin amanne.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'ane"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "akka abbootii isaanii"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "hiittaa"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "fi fincila qabu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "qopheessine"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "amanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "safiisa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:23.510070285Z",
+  "model": "glm-5.3"
+}

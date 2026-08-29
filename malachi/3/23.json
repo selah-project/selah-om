@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kunii! Ani isin ergegomsa — ⟨את⟩ Eeliyaah raajicha — guyyaa Yahwe guddaa fi rabdabduu dhufu dura.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunii!"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergegomsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eeliyaah raajicha"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eeliyaah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "raajicha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "fi rabdabduu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:46.653562420Z",
+  "model": "glm-5.3"
+}

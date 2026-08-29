@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Anis akkas jedhe: faciin keessan irraa ⟨את⟩ isaan hin baasu; isaan sidee keessaniif ta'u, gosoota isaanii immoo mo'ata keessaniif ta'u.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "baasu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "isaan"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "faciin keessan irraa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessaniif"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "sidee keessaniif"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "gosoota isaanii"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessaniif"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mo'ata"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:27.873093986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Eshtonis ⟨את⟩ Beet-Raafaa, ⟨את⟩ Paasee'aa fi ⟨את⟩ Techiinnaa abbaa gaara Naahaash dhalche; kunoon namoota Reekaa ti.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Eshtonis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beet-Raafaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Raafaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paasee'aa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paasee'aa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Techiinnaa"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techiinnaa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naahaash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kunoon"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reekaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:32:14.184835988Z",
+  "model": "glm-5.3"
+}

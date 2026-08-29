@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Mootichi Yehoraam guyyaa sanaa samariyaa irraa bahe, ⟨את⟩ Israa'el hunda lakkaawe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoraam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "samariyaa irraa"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "lakkaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:02.832026075Z",
+  "model": "glm-5.3"
+}

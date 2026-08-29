@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Koroonkaa, saasuu, yaachmur, aqqu, dishoon, te'o fi zammer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "koroonkaa"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "saasuu"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "yaachmur"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "aqqu"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "dishoon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "te'o"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "zammer"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:44.727576423Z",
+  "model": "glm-5.3"
+}

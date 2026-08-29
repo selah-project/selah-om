@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimiinis ⟨את⟩ raajii uume; bishaanota raajii jala jiranii fi bishaanota raajii ol jiranii gidduu hate. Akkasumas ta'e.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raajii"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "raajii"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "hate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jala jiranii"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raajii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ol jiranii"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raajii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Akkasumas"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:30.203185110Z",
+  "model": "glm-5.3"
+}

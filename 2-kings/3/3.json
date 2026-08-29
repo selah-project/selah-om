@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Garuu Yaarobeaam ilma Nabaat balleessoo Israa'el ⟨את⟩ dogoggorsanitti maxxaneef, ishee irraa hin deebinne.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "balleessoo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaarobeaam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nabaat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "dogoggorsanitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "maxxaneef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "deebinne"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:02.412785088Z",
+  "model": "glm-5.3"
+}

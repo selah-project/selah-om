@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Daawidis isaatti jedhe: \"Sodaachuu akkasitti akka hin qabne harka kee baafachuuf Maashiyaak Yahwe balleessuuf?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "איך",
+      "gloss": "akkasitti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sodaanne"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "baafachuuf"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "balleessuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maashiyaak Yahwe"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Maashiyaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:43:07.209151154Z",
+  "model": "glm-5.3"
+}

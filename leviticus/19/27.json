@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Cinaacha mataa keessanii hin cirinaa, cinaacha gogaa keessanii hin balleessinaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "cirinaa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "cinaacha"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "mataa keessanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "balleessinaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinaacha gogaa keessanii"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "cinaacha"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "gogaa keessanii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:33.670819449Z",
+  "model": "glm-5.3"
+}

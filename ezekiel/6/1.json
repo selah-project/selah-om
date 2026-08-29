@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Jecha Yahwe naaya kotte, akka akka jedhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "naaya kotte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naaya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:03:15.181486503Z",
+  "model": "glm-5.3"
+}

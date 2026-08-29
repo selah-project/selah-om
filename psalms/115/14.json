@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Yahwe isin irratti, isin irratti fi ilmaan keessani irrattis dabalata.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "dabalata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi … irrattis"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ilmaan keessani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:10.449217213Z",
+  "model": "glm-5.3"
+}

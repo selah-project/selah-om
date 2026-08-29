@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "⟨את⟩ eenyutti dubbatte jechoota? Hafuurri eenyuu si irraa baate?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eenyutti (to whom)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyuu"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "dubbatte"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "Hafuurri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyuu"
+    },
+    {
+      "surface": "יצאא",
+      "gloss": "baate"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "si irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:27:06.838979702Z",
+  "model": "glm-5.3"
+}

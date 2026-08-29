@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Innis akka jedhe: \"Wajjiin deemuu qabna; sochaa haa ta'u, ani si duraa deemadhuus.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "sochaa haa ta'u"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "wajjiin deemuu qabna"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "deemadhuus"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "si duraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:41.696319288Z",
+  "model": "glm-5.3"
+}

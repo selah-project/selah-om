@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Akka hoolaa ummata kee harka Moshee fi Aharooniin qabsiifte.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "qabsiifte"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "akka hoolaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka…-iin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "fi Aharoon"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:20.529316595Z",
+  "model": "glm-5.3"
+}

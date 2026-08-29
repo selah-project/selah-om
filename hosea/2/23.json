@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Guyyaa sanas ta'a — Yahwe jedheen debii nan kenna; ⟨את⟩ samiiwwanitti debii nan kenna, isaanis ⟨את⟩ lafatti ni debii.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "debii nan kenna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jedheen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "debii nan kenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samiiwwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaanis"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ni debii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:25.694781479Z",
+  "model": "glm-5.3"
+}

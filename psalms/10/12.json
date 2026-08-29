@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kaadhi, Waaqayyo! Waaqayyo harka kee ol kaasi! Habreewwan hin dhiifadhu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kaadhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Waaqayyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Waaqayyo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ol kaasi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin dhiifadhu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "hin dhiifadhu"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "habreewwan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:09.425200171Z",
+  "model": "glm-5.3"
+}

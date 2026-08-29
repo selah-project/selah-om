@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Abrahaam egeree fuulduraa du'a isa irrattii ka'e, Ijoollee Kheetiitutti himachiise, jedhuu:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "egreee ka'e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahaam"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irrattii"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "du'a isa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "himachiise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ijoollee"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kheetii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:56.381994573Z",
+  "model": "glm-5.3"
+}

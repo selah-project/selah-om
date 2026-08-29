@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Saba biyyootaatti isaani facaafsuu kiyya keessaa, biyyoota keessattis isaani barbaasuun kiyya keessaa, Ani Yahwe akka ta'e isaan beeku.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "isaan beeku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "isaani facaafsuu kiyya keessaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "isaani (saba biyyootaatti)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "saba biyyootaatti"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "isaani barbaasuun kiyya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "isaani (biyyoota keessatti)"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "biyyoota keessattis"
+    }
+  ],
+  "timestamp": "2026-08-29T10:08:28.415492014Z",
+  "model": "glm-5.3"
+}

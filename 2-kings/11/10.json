@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Qeesiichi sarroota mi'a dhibbaaf ⟨את⟩ ronjoo fi ⟨את⟩ gaachcha adda kan mootii Daawid, kan mana Yahwe keessa jiru kene.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kene"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qeesiichi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sarroota"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "mi'a dhibbaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ronjoo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ronjoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gaachcha adda"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "gaachcha adda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T08:34:07.471783149Z",
+  "model": "glm-5.3"
+}

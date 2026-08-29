@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Guyaa Shabbatii ⟨את⟩ eegadhu akka qulqulleessituuf, akka Yahwe Eloohiim kee si ajajef.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "eegadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Guyaa Shabbatii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Guyaa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatii"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "akka qulqulleessituuf"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "si ajajef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:52.412381498Z",
+  "model": "glm-5.3"
+}

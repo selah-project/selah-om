@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Guyyaa sanas haa kan akka gurgurame nyaatamu; sarara biraatiif isaa irraa hin haa dhabdanu — Ani Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "haa kan akka gurgurame nyaatamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "haa dhabdanu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sarara biraatiif"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:55.228557332Z",
+  "model": "glm-5.3"
+}

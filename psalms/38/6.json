@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Madaawwan koo finsiisaa ta'aniituu hiyyiifu, sababa atisummaa kiyyaatiif.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "finsiisaa ta'aniitu"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "hiyyiifu"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "madaawwan koo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "atisummaa kiyyaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:03.093563744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Fuula kee nurraa hin dhoksi; dhiqaa keessatti addessoo kee hin fili. Deggersa kiyya ⟨turte⟩. Hin naa darbisi, hin naa dhiifatinaas, yaa Eloohiim baraataa kiyyaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dhoksi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nurraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תט",
+      "gloss": "fili"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dhiqaa keessatti"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addessoo kee"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "deggersa kiyya"
+    },
+    {
+      "surface": "היית",
+      "gloss": "turte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "hin naa darbisi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "na dhiifatinaa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "baraataa kiyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.632395869Z",
+  "model": "glm-5.3"
+}

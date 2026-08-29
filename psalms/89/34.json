@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Kheesed kiyyas irraa isa hin fixu; amantii kiyya keessattis hin sobu.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "kheesed kiyyas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "fixu"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "irraa isa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "sobu"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "amantii kiyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:24.950612114Z",
+  "model": "glm-5.3"
+}

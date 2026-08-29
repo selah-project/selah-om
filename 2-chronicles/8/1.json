@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yeroo dhuma waggaa digdamii lamaanii, waan Shelomoo ⟨את⟩ manci Yahwe fi ⟨את⟩ mantii isaa iyyu uume, ta'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdamii lamaanii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manci Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "mantii isaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mantii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:53:49.344762858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Ifa isaa dhaamsite; gabatee isaaas lafatti buusite.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "dhaamsite"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ifa isaa"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "gabatee isaa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafatti"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "buusite"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:37.114263145Z",
+  "model": "glm-5.3"
+}

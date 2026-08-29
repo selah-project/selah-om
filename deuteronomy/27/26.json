@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Abdiarramuu kan ⟨את⟩ jechoota toorichaa kana hojjachuuf ⟨את⟩ isaan hin dhoorsu; sabni hundinuu ni jedha, Aamiin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Abdiarramuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "dhoorsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota toorichaa kana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "toorichaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ isaan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:32:51.964231679Z",
+  "model": "glm-5.3"
+}

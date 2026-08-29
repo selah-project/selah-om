@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Ilaali, si qulqulleesseera garuu warqeedhaan miti; hiikkaa rakkichaa keessatti si filadheera.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "si qulqulleesseera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "warqeedhaan"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "si filadheera"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "rakkichaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:00.187247288Z",
+  "model": "glm-5.3"
+}

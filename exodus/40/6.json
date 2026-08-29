@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Waamicha gadi-qabaa banaa Maakanaa, Manatti Walgargaaraa, duraas kaafti.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kaafti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waamicha gadi-qabaa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "waamicha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gadi-qabaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Maakanaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Manaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Walgargaaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:18.774858405Z",
+  "model": "glm-5.3"
+}

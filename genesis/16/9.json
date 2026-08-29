@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ergaan Yahwees isheetti jedhe: gara gabroottiitti deebi'i, harka ishee jalatti of xiqqeessi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Ergaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "deebi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "gabroottiitti"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "of xiqqeessi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "harka ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:38.448944597Z",
+  "model": "glm-5.3"
+}

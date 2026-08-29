@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Yahwe ⟨את⟩ Yoosefi wajjin ture; inni namicha milkaa'aa ture; mana abbaa bulchaa isaa, namicha Mitsraayimaa, keessatti ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "inni ture"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "milkaa'aa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "abbaa bulchaa isaa"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "namicha Mitsraayimaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:34.079084700Z",
+  "model": "glm-5.3"
+}

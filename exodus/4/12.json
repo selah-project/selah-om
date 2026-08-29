@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ammas deemi; aniis afaan kee waliin ta'a, waan ati dubbattus si barsiisa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "si barsiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dubbattu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:42.016976281Z",
+  "model": "glm-5.3"
+}

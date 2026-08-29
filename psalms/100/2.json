@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 100,
+  "translation": "Yahwe ⟨את⟩ gaddeessaa simachaa; fuulla isaa dura galaa sirna gegeessaa.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "gaddeessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "simachaa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "galaa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuulla isaa dura"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "sirna gegeessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:58.103485724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Abiishaan ilma Seruyaa ⟨את⟩ Edom Dalgaa Miidaa keessatti miidhe — kuma tokko dhibba saddeetii.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Abiishaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Seruyaa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "miidhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "Dalgaa keessatti"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Miidaa"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "saddeetii"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T13:40:03.200654869Z",
+  "model": "glm-5.3"
+}

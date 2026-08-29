@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Waan kirganaa irraa ni dhugee, sakkatees; manaa isa giddu galeessaa keessatti ofsaa'e.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ni dhugee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "היין",
+      "gloss": "waan kirganaa"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "sakkatees"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "ofsaa'e"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giddu galeessaa keessatti"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "manaa isa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:41.427151379Z",
+  "model": "glm-5.3"
+}

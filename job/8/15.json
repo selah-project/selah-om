@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mana isaa irratti hirkata, hin dhaabbatu; isatti haphaachisa, hin ka'u.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "hirkata"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "Mana isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "haphaachisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ka'u"
+    }
+  ],
+  "timestamp": "2026-08-29T12:18:47.518888907Z",
+  "model": "glm-5.3"
+}

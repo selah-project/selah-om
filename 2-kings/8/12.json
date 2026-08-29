@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 8:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Haza'elis jedhe: \"Eeyyummaan kiyya maaltaf ita?\" Inniis jedhe: \"Ani ⟨את⟩ waan Ati ilmaan Israa'iil irratti raawwachuu beeka — dogoggora: magaalottee cufaman isaaniitiin bishaan irraa ergitee, dargaggoo isaaniitiin meeqa ajjeesa, muccaa isaaniitiin booressa, durba ulfaa isaaniitiin caccabsa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'el"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maaltaf"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Eeyyummaan kiyya"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ani beeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Ati raawwachuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "raawwachuu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "מבצריהם",
+      "gloss": "magaalottee cufaman isaaniitiin"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "irraa ergitee"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ובחריהם",
+      "gloss": "dargaggoo isaaniitiin"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "meeqa"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ajjeesa"
+    },
+    {
+      "surface": "ועלליהם",
+      "gloss": "muccaa isaaniitiin"
+    },
+    {
+      "surface": "תרטש",
+      "gloss": "booressa"
+    },
+    {
+      "surface": "והרתיהם",
+      "gloss": "durba ulfaa isaaniitiin"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "caccabsa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:29:22.798849462Z",
+  "model": "glm-5.3"
+}

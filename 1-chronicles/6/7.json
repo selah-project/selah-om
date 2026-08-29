@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mucaa Kehaati: Amiinaadaab mucaa isaa, Koraah mucaa isaa, Asiir mucaa isaa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehaat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amiinaadaab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mucaa isaa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mucaa isaa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asiir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mucaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:38:56.020059011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ergaan Yahwees isheetti jedhe: baay'isee baay'isa ⟨את⟩ sanyii kee; baay'inaatiif hin lakkoofamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Ergaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'isee"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "baay'isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanyii kee"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sanyii kee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "lakkoofamu"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "baay'inaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:38.449278462Z",
+  "model": "glm-5.3"
+}

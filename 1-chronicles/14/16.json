@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Daawid akkuma Eloohiim ajajettiiti hojjete; ⟨את⟩ kootaa Filistootaa Gibe'on irraa Gezer dhumaatti rukutanii.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ajajettiiti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kootaa Filistootaa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kootaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistootaa"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Gibe'on irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dhumaatti"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:36.498780996Z",
+  "model": "glm-5.3"
+}

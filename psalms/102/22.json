@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Maqaa Yahwe Sihiiyooni keessatti himachuuf, faarfama Isaa Yerushaalayim keessatti.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "himachuuf"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sihiiyooni keessatti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "faarfama Isaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:56.758399982Z",
+  "model": "glm-5.3"
+}

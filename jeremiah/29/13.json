@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Isin ⟨את⟩ na barbaadda fi na argitu, sababaa isaas onnee keessan hundaan ana barbaachiftu.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "isin na barbaadda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na",
+      "marks": "na (ani)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "fi na argitu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa isaas"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ana barbaachiftu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onnee keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T09:43:12.106651698Z",
+  "model": "glm-5.3"
+}

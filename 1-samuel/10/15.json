@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Obboleessi abbaa Sha'uul 'Maal akkaataa Shamuu'ee nu irratti jedhe, na himi' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "obboleessi abbaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "himi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa irratti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal akkaataa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:13.855439175Z",
+  "model": "glm-5.3"
+}

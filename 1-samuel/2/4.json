@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Warra cimoo shaawwiiwwan isaanii caccabanii; warri kufanis dandeettiin of marsaniiru.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "shaawwiiwwan"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "warra cimoo"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "caccabanii"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "warri kufanis"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "of marsaniiru"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dandeettiin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:24.408609203Z",
+  "model": "glm-5.3"
+}

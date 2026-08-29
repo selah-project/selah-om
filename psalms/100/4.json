@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 100,
+  "translation": "Balbaloota isaa galataan galaa; marsaa isaa faarfannaa seena; faarfadhaa, maqaa isaa eebbissaa.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "galaa"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "Balbaloota isaa"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "galataan"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "marsaa isaa"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "faarfadhaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "eebbissaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:58.103813256Z",
+  "model": "glm-5.3"
+}

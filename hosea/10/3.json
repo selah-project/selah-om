@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Sababa amma ni jedhu: 'Mootiin nu hin jiru, sababa Yahwe ⟨את⟩ hin sollersanne; mootichi nuuf maal hojjeta?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "sollersanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjeta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T10:41:12.399307847Z",
+  "model": "glm-5.3"
+}

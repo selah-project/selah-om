@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Yoosuuphiis obboleeywan isaatii jedhe, \"Na biraa dhuhaa, maaloo.\" Isaanis dhuhaan. \"Ani Yoosuuph, obboleeywan keessanii, isin nan gurgurtan ⟨את⟩ na biyya Mitsraayimitti\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosuuph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeywan isaatii"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "dhuhaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na biraa"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "dhuhaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosuuph"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "obboleeywan keessanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "gurgurtan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "na (gurgurtan)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "biyya Mitsraayimitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:54.659865985Z",
+  "model": "glm-5.3"
+}

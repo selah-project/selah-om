@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 24:50",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Labaan fi Betu'eel deebisanii jedhan: «Jecha kun Yahwe irraa bahe; hamuu ykn tole si waliin himuu hin dandeennoo.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labaan"
+    },
+    {
+      "surface": "ובתואל",
+      "gloss": "fi Betu'eel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe irraa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha kun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "dandeennoo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "himuu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si waliin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamuu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tole"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:08.121600270Z",
+  "model": "glm-5.3"
+}

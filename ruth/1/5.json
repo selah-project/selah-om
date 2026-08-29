@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Maakloon fi Kilyoon lamaanuu du'an; dubartii suni ilmaan ishee lamaaniifi hiika ishee irraa hafte.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "du'an"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inis"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "lamaanuu"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maakloon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "fi Kilyoon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "hafte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubartii suni"
+    },
+    {
+      "surface": "משני",
+      "gloss": "lamaaniirraa"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ilmaan ishee"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "fi hiika ishee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:40:41.776611768Z",
+  "model": "glm-5.3"
+}

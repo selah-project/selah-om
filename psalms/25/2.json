@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Eloohiim koo, si irratti amanadhe; akka inebbaramu na hin godhi; diinnonni koo na irratti hin ammaananinaa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim koo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "amanadhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "innebbaramu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ammaananinaa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinnonni koo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.389371539Z",
+  "model": "glm-5.3"
+}

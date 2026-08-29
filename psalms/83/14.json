@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Eloohiim kiyya, isaan akka wanti-dabarsaa, akka boolessa duraa hanqinnu godhi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "isaan godhi"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "akka wanti-dabarsaa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "akka boolessa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hanqinnu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:31.271309728Z",
+  "model": "glm-5.3"
+}

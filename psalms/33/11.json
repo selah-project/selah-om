@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Gabaa Yahwe yeroo hunda dhaabbata; yaada onneeti Isaa durtii durtiitti.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "gabaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yaada"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onneeti Isaa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "durtiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:35.467405394Z",
+  "model": "glm-5.3"
+}

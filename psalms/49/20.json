@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Dhaloota abbootii isaatti dhufa; yeroo hunda ifa hin argan.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dhaloota"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "argan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:25:10.242161544Z",
+  "model": "glm-5.3"
+}

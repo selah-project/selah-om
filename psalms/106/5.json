@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Wanti goodaa filattootaa kee argachuuf, sabni kee gammachuuf dhaalatti kee wajjin faarfamuuf ⟨is⟩",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "argachuuf"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "wanti goodaa"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "filattootaa kee"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "gammachuuf"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "gammacha"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "sabni kee"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "faarfamuuf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhaalatti kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:27.700948275Z",
+  "model": "glm-5.3"
+}

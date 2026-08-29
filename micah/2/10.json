@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ka'aa, deemaa; sababiin, kun ittuun isin hin turre; sababa waan wahshoomseef, balleetti hamaan balleeffamuu qabda.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Ka'aa"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "deemaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ittuun"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "waan wahshoomseef"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "balleeffamuu"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "balleetti"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "hamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:05.652146649Z",
+  "model": "glm-5.3"
+}

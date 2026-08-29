@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yehoshuas ganama obbise, abbaonni-lubummanis ⟨את⟩ sanduuqa Yahwe baatan.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ganama obbise"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baatan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abbaonni-lubumman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T06:45:01.442751528Z",
+  "model": "glm-5.3"
+}

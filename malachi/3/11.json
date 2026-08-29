@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "malachi 3:11",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kan nyaatu ni kuffisa isiniif; midhaan lafaa isinii hin balleessu; wayiniin qonna keessatti hin dhabamtu, jedhe Yahwe Tseva'ot.",
+  "tokens": [
+    {
+      "surface": "וגערתי",
+      "gloss": "ni kuffisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "kan nyaatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "balleessu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaan lafaa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "hin dhabamtu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinii"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "wayiniin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "qonna keessatti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:06.679039725Z",
+  "model": "glm-5.3"
+}

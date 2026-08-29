@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Meecciinsa fi miidhaa irraa lubbuu isaanii ni gatamuu isa; dhiiga isaanii ija isaa irratti gatii qaba.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "fi miidhaa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ni gatamuu isa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lubbuu isaanii"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "fi gatii qaba"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dhiiga isaanii"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:54.297128868Z",
+  "model": "glm-5.3"
+}

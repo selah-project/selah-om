@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "⟨את⟩ bittoota keenya isiniif kennina; ⟨את⟩ bittoota keessanis isa nu fudhanna; isin ⟨את⟩ wajjin jiraanna, sababa tokko taanna.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "kennina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bittoota keenya"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "bittoota keenya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bittoota keessan"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bittoota keessan"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "fudhanna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "jiraanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wajjin (isin)"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "taanna"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:10.789869465Z",
+  "model": "glm-5.3"
+}

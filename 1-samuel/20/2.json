@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Innis isaatti jedhe: Hin taane, ati hin duutu; ilaali, abbaan koo hojii guddaa ykn xiqqaa kamiyyuu ⟨is⟩ hin hojjatu, gara gurra koo hin ifeessu malee; maaliifis abbaan koo jecha kana ⟨את⟩ koo irraa dhoksa? Kun hin taane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Hin taane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "duutu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjatu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaan koo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ifeessu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurra koo"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "gara gurra koo"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "maaliifis"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "dhoksa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaan koo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "koo irraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "taane"
+    }
+  ],
+  "timestamp": "2026-08-29T07:31:15.037609311Z",
+  "model": "glm-5.3"
+}

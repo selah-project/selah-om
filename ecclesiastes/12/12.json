@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isaan caalattis, ilma koo, ittisadhu: kitaabota baay'ee hojjachuun dhuma hin qabu, fi dubbachuu baay'een dhibi gogaa ti.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "caalattis"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma koo"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "ittisadhu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "hojjachuun"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kitaabota"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "fi dubbachuu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "dhibi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gogaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:53:44.948385586Z",
+  "model": "glm-5.3"
+}

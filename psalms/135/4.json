@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Sababa Yaah Ya'aqoobof filate, Israa'el kaayyoo dargaggaa isaa taatee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "filate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaaf"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "kaayyoo dargaggaa isaa taatee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:54.272892408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Altaroota isaanii ⟨את⟩ ni-tumeesitaa, wantoota dhaabbatanis ⟨את⟩ ni-caccabsitaa, Asheeraawwan isaanii ibiddaatin ni-birbirsitaa, dhokhii waaqee isaanii ni-puttomsitaa, maqaa isaanii ⟨את⟩ garuu iddoo sanaa irraa ni-balleessitaa.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "ni-tumeesitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaroota isaanii"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "altaroota isaanii"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "ni-caccabsitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wantoota dhaabbatan"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "wantoota dhaabbatan"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "Asheeraawwan isaanii"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "ni-birbirsitaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "dhokhii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "waaqee isaanii"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "ni-puttomsitaa"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ni-balleessitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaanii"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maqaa isaanii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:45.990944595Z",
+  "model": "glm-5.3"
+}

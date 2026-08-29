@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akka fakkaatty gaaffiwwan seenaa jalatti — maramii, maramii — naacha ⟨את⟩ gaaffiwwan seenaa hunda naacha; cuupha tokko irratti kudhan, Bicha naacha maramaa; cuunfaa lama ta'een gaaffiwwan seenaa Bicha sana waliin dhangaggoofame.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "akka fakkaatty"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "gaaffiwwan seenaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "maramii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "maramii"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "naacha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cuupha tokko irratti"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "naacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bicha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Bicha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "maramii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "cuunfaalee"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gaaffiwwan seenaa"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "dhangaggoofaman"
+    },
+    {
+      "surface": "במוצקתו",
+      "gloss": "Bicha isa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T13:51:37.513538557Z",
+  "model": "glm-5.3"
+}

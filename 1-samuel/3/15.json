@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Samuweel hanga ganama gamee, ⟨את⟩ balbala manaa Yahwe bane; Samuweel immoo ⟨את⟩ mul'ata gara Eelii himuu irraa sodaate.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "gamee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "bane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balbala manaa Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuweel immoo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sodaate"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "himuu irraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mul'ata"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "mul'ata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eelii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:47.822798544Z",
+  "model": "glm-5.3"
+}

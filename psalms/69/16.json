@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Hurrisaan bishaanii na hin dhoqqabsiisu; cukkallicuus na hin liqimsiisu; godda bishaaniiis afansa irratti koo hin cufi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "na dhoqqabsiisu"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "hurrisaan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "na liqimsiisu"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "cukkallicuu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin cufi"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "cufi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti koo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "godda bishaanii"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afansa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:25.130016995Z",
+  "model": "glm-5.3"
+}

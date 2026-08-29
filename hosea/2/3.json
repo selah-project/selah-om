@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Obboleeyyan keessanitti 'Ammii' jedhaa; obboleettiiwwan keessanittis 'Ruhamaa' jedhaa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "jedhaa"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "obboleeyyan keessanitti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammii"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "obboleettiiwwan keessanittis"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:37:51.417454068Z",
+  "model": "glm-5.3"
+}

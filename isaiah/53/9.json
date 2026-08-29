@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Kabaja isaa ⟨את⟩ warra raawwatuu wajjin ni kenna, fi ⟨את⟩ dheebuu qabeessa du'a isaa wajjin; sababa inni miidhaa hin hojjenne, maldhawwan afaan isaatiinis hin jiru.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ni kenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra raawwatuu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra raawwatuu"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kabaja isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheebuu qabeessa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "dheebuu qabeessa"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "du'a isaa wajjin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjenne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "maldhawwan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afaan isaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:16.185005970Z",
+  "model": "glm-5.3"
+}

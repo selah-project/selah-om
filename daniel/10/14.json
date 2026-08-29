@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ani si beeksisuuf dhufee jira, ⟨את⟩ waan ummata kee irratti dhufu guyyoota dhumaatti; sababiin mul'ichi dabalataan guyyootaaf jira.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "dhufee jira"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "si beeksisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ummata kee irratti dhufu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ummata kee irratti"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "dhumaatti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "mul'ichi"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "guyyootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:54.980382576Z",
+  "model": "glm-5.3"
+}

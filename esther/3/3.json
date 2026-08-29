@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Qunxa mootichaa balbala mootichaa keessaa taanis Mordekaayiin 'Maaliif ajaja mootichaa darbita?' jedhan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qunxa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taanis"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaayiin"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "darbita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajaja"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:55:16.651322996Z",
+  "model": "glm-5.3"
+}

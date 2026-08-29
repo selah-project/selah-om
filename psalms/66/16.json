@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kottaa, dhageessaa, warra Eloohiimatti sodaatu hunda; waan lubbuu koo godhe isin himadha.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kottaa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "isin himadha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "sodaatu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lubbuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:44.518516448Z",
+  "model": "glm-5.3"
+}

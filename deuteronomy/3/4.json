@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo sana magaalota isaa hunda ⟨את⟩ qabanne; magaala nuti isaan irraa hin fudhinne miti ⟨את⟩ turte; magaaloota digdamii jahan, naannoo Argob hunduma, mootummaa Oog kan Bashan keessaa.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "qabanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalota isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "magaalota isaa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "turte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "fudhinne"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ irraa isaan"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "digdamii jahan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaaloota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduma"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oog"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashan keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:35.870418252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Ol liqimadhu, Murtu lafaa; deebii gara gornoo irratti galchi.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Ol liqimadhu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Murtu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "השב",
+      "gloss": "galchi"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "gornoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:12.720712370Z",
+  "model": "glm-5.3"
+}

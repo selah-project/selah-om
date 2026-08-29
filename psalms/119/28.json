@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Nafiilki gad-bu'a irra caalaa dhiphachaa jira; jecha keetiin na dhaabsiisi.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "gad-bu'a"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafiilki"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "irra caalaa dhiphachaa jira"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "na dhaabsiisi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "jecha keetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:10.195275357Z",
+  "model": "glm-5.3"
+}

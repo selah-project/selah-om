@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Guddaadhu Adoonaay keenya, humna baay'ee qaba; beekumsa Isaatiif lakkoofsi hin jiru.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Guddaadhu"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adoonaay keenya"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humna"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "beekumsa Isaatiif"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:37.579233024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kuni makaan abbaa isaa ti; intalti haadha isheetii irratti ka'te; garbooti hamaa isheetii irratti; diinni namaa namoota mana isaa ti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "makaan"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "abbaa isaa ti"
+    },
+    {
+      "surface": "אב",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intalti"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ka'te"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "haadha isheetii irratti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "garbooti"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "hamaa isheetii irratti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa ti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:56:42.531402382Z",
+  "model": "glm-5.3"
+}

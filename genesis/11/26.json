@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Toorri waggaa torbaatanii jiraatee, ⟨את⟩ Abramii, ⟨את⟩ Naxoriifi ⟨את⟩ Haran horomsee.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraatee"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Toorri"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "torbaatanii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "horomsee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramii"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxorii"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxorii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:32.520108910Z",
+  "model": "glm-5.3"
+}

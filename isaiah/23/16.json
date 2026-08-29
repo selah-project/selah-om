@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Masaankoo fudhadhu, magaalaa naannaadhu, hoonqoo yoo dagattamteetti; tartuubaa toltadhu, faarfannaa baay'isadhu, akka ati yaadatamuuf.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "fudhadhu"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "Masaankoo"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "naannaadhu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "hoonqoo"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "yoo dagattamteetti"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "toltadhu"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "tartuubaa"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "baay'isadhu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka ... uuf"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "ati yaadatamu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:57:48.042369870Z",
+  "model": "glm-5.3"
+}

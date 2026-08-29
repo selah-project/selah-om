@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Eloohiim haa ka'u; diinni Isaa haddu'u; warri Isaa jibbanis fuula Isaa irraa hadduu.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "haa ka'u"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "haddu'u"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "diinni Isaa"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "haa hadduu"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "warri Isaa jibban"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fuula Isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:11.118227952Z",
+  "model": "glm-5.3"
+}

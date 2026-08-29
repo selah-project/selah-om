@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Illoonni Laawiyyaa akka Moshee ajajetti, akka jecha Yahwe, sanduqa ⟨את⟩ Eloohiim goga isaanii irratti mita'oota isaaniirratti ol baasan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "baasan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Illoonni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawiyyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "goga isaanii irratti"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "mita'oota isaaniirratti"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ol"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:51.830380467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Biyyoota isaan duraa baase; saaphana dhaalaatin isaan buuse; galmeewwan isaanii keessattis gosaalee Israa'el jiraachise.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "baase"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "isaan duraa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "isaan buuse"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "saaphanaan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dhaalaa"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "jiraachise"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "galmeewwan isaanii keessatti"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "gosaalee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:17.280849210Z",
+  "model": "glm-5.3"
+}

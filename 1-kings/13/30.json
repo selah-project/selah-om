@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "[אֶת\/] [נְבֵלָה\/] [בְּ\/] awwaaltii isaa keessatti naannaawwaa'ee; \"Hoy, obboleessa kiyya!\" jedhuun isa irratti jajjabeessan.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "naannaawwaa'ee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nooncaa isaa"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "nooncaa isaa"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "awwaaltii isaa keessatti"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "jajjabeessan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleessa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:53.358106921Z",
+  "model": "glm-5.3"
+}

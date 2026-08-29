@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Daawid erge, dubartii kanaaf xaadhate. Namni tokko isaan jedhe: 'Kun mituu Bat-Shebaa, ilma Eel-Elyaam, kan durba Uuriyaah Hiitii'aa?'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "xaadhate"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dubartii kanaaf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mituu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eel-Elyaam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "durba"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiitii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:23.076797668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ni jedhan: Sababni isaas kakuu Yahwe Eloohiim isaanii kan dabamsaniiniif, Eloohiim biroo ti suuqanii, isaan gabbaraniiru.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ni jedhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dabamsaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "suuqanii"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiim biroo ti"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "gabbaraniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T09:37:03.412456015Z",
+  "model": "glm-5.3"
+}

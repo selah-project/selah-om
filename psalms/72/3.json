@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Gaarreen nagaa sabaaf baasu, teboonni immoo faarfamaan.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "baasu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sabaaf"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "teboonni"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "faarfamaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:24.012703333Z",
+  "model": "glm-5.3"
+}

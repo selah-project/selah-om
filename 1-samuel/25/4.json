@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Daawidis baddadare keessatti dhok'e — Nabaal ⟨את⟩ hoolaa isaa ciruudhaan murutu jira.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhok'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "baddadare keessatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ciruudhaan murutu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoolaa isaa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "hoolaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:15.698639402Z",
+  "model": "glm-5.3"
+}

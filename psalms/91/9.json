@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Sababiin ati, Yahwe, haafoota koo ⟨dha⟩; Eelyoon iddoo-jireenyaa kee taasifteetta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "haafoota koo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eelyoon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "taasifteetta"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "iddoo-jireenyaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.930986427Z",
+  "model": "glm-5.3"
+}

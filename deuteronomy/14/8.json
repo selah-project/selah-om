@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Fi ⟨את⟩ nguffataa — paarsa inni qoodu, garaacha garuu hin deebisu; balaa ta'e isiniif jira. Foora isaanii hin nyaamneessu; cisaasa isaanii illee hin tuqneessu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nguffataa"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "nguffataa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "qoodu"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "paarsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "garaacha"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "balaa ta'e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "foora isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaamneessu"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "cisaasa isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tuqneessu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:44.728564247Z",
+  "model": "glm-5.3"
+}

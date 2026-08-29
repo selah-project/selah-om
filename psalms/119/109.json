@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Nafseen kiyya yeroo hunda harka kiyya keessa jirti; seera Ke garuu hin dagadhe.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafseen kiyya"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "harka kiyya keessa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "seera Ke garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "dagadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:16.291253938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Keessa keettiis sabaa miidhamaa fi hoo'aa hafsisadha; isaanis maqaa Yahweetiin hirkatu.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "hafsisadha"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "keessa keetti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miidhamaa"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "fi hoo'aa"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "hirkatu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:59:23.609071679Z",
+  "model": "glm-5.3"
+}

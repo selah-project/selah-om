@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Sababa boodaa Yahwe Yerushaalayim fi Yahuuda irratti argameef, isaan ⟨את⟩ fuula isaa irraa darbuuf ta'ee, Tsidiqiyyahu mootii Baabilon irratti gooGodhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa... ta'ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "boodaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "argameef"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "fi Yahuuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "darbuuf"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "darbuuf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalayim fi Yahuuda (isaan)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuula isaa"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "gooGodhe"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidiqiyyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilon"
+    }
+  ],
+  "timestamp": "2026-08-29T10:01:35.398672892Z",
+  "model": "glm-5.3"
+}

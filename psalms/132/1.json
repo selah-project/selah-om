@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Faarsa ol-ka'umsaa. Yaadadde, Yahwe, Daawidaf ⟨את⟩ gaddaa isaa hunda.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ol-ka'umsaa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Yaadadde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaddaa isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "gaddaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:33.739437356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Keennaa keessatti, naannoo Adonai bultuu-hedduudhaan; barummaan qunxoo-lakkoofsaa kudhaan Isa gaafadhaa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Keennaa keessatti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "naannoo Adonai"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bultuu-hedduudhaan"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "barummaan"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "qunxoo-lakkoofsaa kudhaan"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gaafadhaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:47.760161086Z",
+  "model": "glm-5.3"
+}

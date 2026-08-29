@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Saffisa(דੌగ్గడ) Yahwe Eloohiim keetii dhageessa; ajajoota Isaa fi seera Isaa, Ani guyyaa har'a keetti ajaju, siin-taasisa.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dhageessa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "saffisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim keetii"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "siin-taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajoota Isaa"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ajajoota Isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seera Isaa"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "seera Isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waan)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ajaju"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa har'a"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:46.028992885Z",
+  "model": "glm-5.3"
+}

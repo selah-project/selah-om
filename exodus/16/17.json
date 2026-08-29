@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ilmi Israa'el akkas taasifaniis; tokkon baay'ee, tokkon xiqqaa funaananii.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "taasifani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "funaananiis"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "baay'ee funaane"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "xiqqaa funaane"
+    }
+  ],
+  "timestamp": "2026-08-29T05:05:57.981025595Z",
+  "model": "glm-5.3"
+}

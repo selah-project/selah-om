@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yeroo ⟨את⟩ qabeenya kabaja mootummaa isaa fi ⟨את⟩ ultuumaa gebena guddina isaa agarsiisu — guyyoota hedduu, saddeettamii fi dhibba guyyaa.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "Yeroo ... agarsiisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabeenya kabaja mootummaa isaa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "qabeenya"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mootummaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ultuumaa gebena guddina isaa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ultuumaa"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "gebena"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "guddina isaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hedduu"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "saddeettamii"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "fi dhibba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:37.641386695Z",
+  "model": "glm-5.3"
+}

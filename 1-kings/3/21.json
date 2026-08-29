@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ganama ilmoo koo eeguutti dhahuuf yoo ani ka'e, eey! inni du'eera; ganama isa xiyyale, eey! ilmaan koo kan ani dhalche miti ta'eera.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "eeguutti dhahuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo koo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoo koo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "eey!"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "xiyyale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "eey!"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ani dhalche"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:03.542750081Z",
+  "model": "glm-5.3"
+}

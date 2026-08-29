@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Dubartootni hunduu onneen ⟨את⟩ isaan ogummaattiin kaasan keessatti, ⟨את⟩ gurra reettotaa sirran.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "Dubartootni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kaasan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "onneen"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ isaan"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ogummaattiin"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "sirran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurra reettotaa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "reettotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:50.731347400Z",
+  "model": "glm-5.3"
+}

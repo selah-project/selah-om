@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Inni injifannoo isaa isa waggaa dhibbaa bulchisa; ijaan Isaa biyyoota ilaala; kan dhiibuu didan ol hin kaafaman. Seelaa.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "bulchisa"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "injifannoo isaa isa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waggaa dhibbaa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ijaan Isaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "kan dhiibuu didan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "kaafaman"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:35.203940305Z",
+  "model": "glm-5.3"
+}

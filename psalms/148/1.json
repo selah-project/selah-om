@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Gammadhaa Yaah! Yahwe ⟨את⟩ samiiwwanii irraa gammadhaa; rooba olaanaa keessatti Isa gammadaa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "gammadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "gammadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa gammadaa"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "rooba olaanaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.303911155Z",
+  "model": "glm-5.3"
+}

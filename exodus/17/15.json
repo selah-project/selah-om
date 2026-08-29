@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Mosheeensee miizbeecha iyyarees; maqa isaa Yahwe-Nisii jedhees.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "iyyarees"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "miizbeecha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaa isaas jedhees"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:19:13.911533299Z",
+  "model": "glm-5.3"
+}

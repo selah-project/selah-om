@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Akkuma kanaanis, nikawwan alaa isaatti hundaaf hojjedhe — isaan quraa hiyyeessanii fi gummachiisaniif gara Eloohiim isaanii.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Akkuma kanaanis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "nikawwan"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "quraa hiyyeessanii"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "fi gummachiisaniif"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "gara Eloohiim isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:19.113745844Z",
+  "model": "glm-5.3"
+}

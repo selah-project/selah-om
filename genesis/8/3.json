@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Bishoonni lafa irraa deebi'anii deemuun-deebi'uun, bishoonni guutuu dheeraa kiyyataffaa fi dhibba (=150) guyyaatiitii hir'atan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "deebi'an"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishoonni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "deemuun"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "deebi'uun"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "hir'atan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishoonni"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kiyyata"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dheeraa kiyyataffaa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaatiitii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:57.803695157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Kohanni kan dibame dhiiga baaticha irraa fudhatee, mana walitti dhufeenyaatti ni ∙ ∙ ∙",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohanni"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "kan dibame"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiiga irraa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "baaticha"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ni ∙ ∙ ∙"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "manatti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walitti dhufeenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:28.162142236Z",
+  "model": "glm-5.3"
+}

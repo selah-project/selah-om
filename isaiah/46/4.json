@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Finnaan titiqaatti ani Inni; cirrachaarraattiis ani baafadha; ani uume, aniin baafadha; aniin baafadha, aniin nan baafadha.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "finnaan titiqaatti"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "titiqaatti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cirrachaarraattiis"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "cirrachaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "uume"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniin"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniin"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "aniin nan baafadha"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:24.094236462Z",
+  "model": "glm-5.3"
+}

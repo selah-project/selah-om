@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Fi sabni akka gubannaa liimii ta'a; mokkoonni buqqisaman ibiddaan ni gubamu.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "fi… ta'a"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "gubannaa"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "liimii"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "mokkoonni"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "buqqisaman"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaan"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "ni gubamu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:32.876857201Z",
+  "model": "glm-5.3"
+}

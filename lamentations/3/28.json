@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Achtiin qofa haa taa'u, haa dhiifatu, sababa inni ejjaa isa irratti kaaseef.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "achiis-qofa"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "fi haa dhiifatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "kaase"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:29.303171413Z",
+  "model": "glm-5.3"
+}

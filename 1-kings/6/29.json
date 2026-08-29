@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "حਕੀਰያዊነት... በአማርኛ ሳይሆን በኦሮምኛ: Ubajee gargaraniifi, akkaataa zaarutti hiikkaa: 'Fi ⟨את⟩ cimdaawwan mana hunda naannoo geeṭi, barreeffamoota cimdoo keessatti—Keruboota, tuultoota (paalmii), fi urjilee banaa—keessaa fi alatti.'",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cimdaawwan mana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "cimdaawwan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "geṭe\/barreeffame"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "barreeffamoota"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "cimdoo barreeffamaa"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Keruboota"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "fi tuultoota paalmii"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "fi banoota"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "urjilee"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "fi alatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:49:16.071952546Z",
+  "model": "glm-5.3"
+}

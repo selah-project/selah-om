@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 7:19",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Isaan ni dhufu; hundi isaanii godaana dhibee dheedhaa keessaa, fi holqa ciiqilee keessaa, fi muka lafa-kaararii hunda irratti, fi muka-mareeqaa hunda irratti ni boqatan.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ni dhufu"
+    },
+    {
+      "surface": "ונחו",
+      "gloss": "ni boqatan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hundi isaanii"
+    },
+    {
+      "surface": "בנחלי",
+      "gloss": "godaana ... keessaa"
+    },
+    {
+      "surface": "הבתות",
+      "gloss": "dhibee dheedhaa"
+    },
+    {
+      "surface": "ובנקיקי",
+      "gloss": "fi holqa ... keessaa"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "ciiqilee"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "fi ... hunda irratti"
+    },
+    {
+      "surface": "הנעצוצים",
+      "gloss": "muka lafa-kaararii"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "fi ... hunda irratti"
+    },
+    {
+      "surface": "הנהללים",
+      "gloss": "muka-mareeqaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:11.616419597Z",
+  "model": "glm-5.3"
+}

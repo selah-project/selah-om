@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Raajeffannaa dheebii hin hafuu; kan faashifaa hin baafatu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "raajeffannaa"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dheebii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "hafuu"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "kan faashifaa"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "dheebii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "baafatu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:08:05.239172845Z",
+  "model": "glm-5.3"
+}

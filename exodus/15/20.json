@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Miiryaams faartuu, obboleettii Aharoon, harka ishee keessatti ⟨את⟩ tumburaa fudhatte; dubartoonni hundi tumburaa fi meelleedhaan ishee duuba ba'an.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "fi fudhatte"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miiryaam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "faartuu"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "obboleettii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumburaa"
+    },
+    {
+      "surface": "התף",
+      "gloss": "tumburaa"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "harka ishee keessatti"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "fi ba'an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dubartoota"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ishee duuba"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "tumburaa"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "fi meelleedhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:47.527822451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Yeroo bakka Yahweef argadhu sanaa, mana-jireenyaa kan Abiiraa Jaakobitiif.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "yeroo…sanaa (hangafa)"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "argadhu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mana-jireenyaa"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abiiraa (kan cimaa)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:40.529280764Z",
+  "model": "glm-5.3"
+}

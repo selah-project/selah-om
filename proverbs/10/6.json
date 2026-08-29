@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Eebbifannoon mataa qajeelaa irratti ⟨jira⟩; afaan warra dogoggoraa miidhaa dheessa.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "eebifannoon"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "mataa irratti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra dogoggoraa"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dheessa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "miidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:26.235175558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Maakiiriifis ⟨את⟩ Giil'ad kenne.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Maakiiriifis"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giil'ad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giil'ad"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:24.052367390Z",
+  "model": "glm-5.3"
+}

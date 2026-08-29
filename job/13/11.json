@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Sila ol-ka'umsi Isaa ⟨את⟩ isin hin baatinnaa, fi sodaan Isaa isin irratti hin kufuu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sila … mitii"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ol-ka'umsi Isaa"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "baatii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "sodaan Isaa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "kufuu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:32.989555654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Kun hunda wajjinis ammas balleessan, fojjiwwan Isaa keessatti amananii miti.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "hunda wajjinis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammās"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "amananii"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "fojjiwwan Isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:18.853863238Z",
+  "model": "glm-5.3"
+}

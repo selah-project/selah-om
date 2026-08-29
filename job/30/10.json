@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Na jibbu; na irraa fagaatanii; fuulduratti kophii dhaddachsuu hin dandeenyan.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "na jibbu"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "fagaatanii"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "dandeenyan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kophii dhaddachsuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:29:32.176407361Z",
+  "model": "glm-5.3"
+}

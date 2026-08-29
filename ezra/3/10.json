@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Hiikoowwan immoo ijuu mana yaadannoo Yahwe haa jalqaban jedhanii, yeroo ijuu ⟨את⟩ heekaala Yahwe kaa'anitti, abiyyoonni soorata lubbuu keessaa ofuun maallaqanii bakka isaanii dhaabbatan; Leeviyoonnis ilmaan Aasaaf sibiilaawwan mukaatiin, maqaa Yahwe akka ajaja Daawid mootii Israa'elitiin galateeffachuuf dhaabbatan.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "ijuu…kaa'anitti"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "hiikoowwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heekaala Yahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heekaala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abiyyoonni"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "soorata lubbuu keessaa ofuun"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "maallaqanii"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Leeviyoonnis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Aasaaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "sibiilaawwan mukaatiin"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "galateeffachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "akka…tiin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T16:01:01.149580224Z",
+  "model": "glm-5.3"
+}

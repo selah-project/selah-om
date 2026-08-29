@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jechoonni hundi daangeffamanii; namni tokko isaa dubbachuu hin danda'u; iyyi arguu hin guutamu, gurrinis dhageetti guutamuu hin danda'u.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "daangeffamanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "isaa dubbachuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "guutamu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iyyi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arguu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gurrinis"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "guutamuu hin danda'u"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "dhageetti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:43.073513008Z",
+  "model": "glm-5.3"
+}

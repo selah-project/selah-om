@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Yišra'el Yaaddin hawwachuu qaba, sababaa Yahwe waliin kheesed jira, fi Isaa waliin badhaasa guddaa jira.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "hawwachuu qaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yišra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yaaddin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "fi guddaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Isaa waliin"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "badhaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:09.834760851Z",
+  "model": "glm-5.3"
+}

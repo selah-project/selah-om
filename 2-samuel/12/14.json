@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Garuu, waan jecha kanaan ⟨את⟩ diinaota Yahwe sila tumtee dhaaf, ilmi sii dhalate akkasumas dhugumatti du'a.”",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "tumtee"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "sila tumtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diinaota Yahwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinaota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "jecha kanaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "sii dhalate"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T14:48:32.899385067Z",
+  "model": "glm-5.3"
+}

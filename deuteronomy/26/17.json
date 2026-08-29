@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "⟨את⟩ Yahwe har'a vaadi jabeessite, akka ati isiif Eloohiim ta'u, karaawwan Isaatti deemuu, seera Isaa ajajawwan Isaa fi murannoo Isaa eeguu, fi sagalee Isaa dhageeffachuuuf.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "vaadi jabeessite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati isiif"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "fi deemuu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "karaawwan Isaa keessa"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "fi eeguu"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "seera Isaa"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ajajawwan Isaa"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "murannoo Isaa"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "fi dhageeffachuu"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sagalee Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:31:04.528295214Z",
+  "model": "glm-5.3"
+}

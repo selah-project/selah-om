@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kanaafuu onneen keetii yeroo baay'ee beekti, akka atumaanis ⟨את⟩ namoota biroo abuute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akka"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beekti"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onneen keetii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "atumaanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abuute"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "abuute"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "namoota biroo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:28.344243273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Isin qofa ⟨את⟩ beeka, gosota lafaa hunda keessaa; kanaafuu yakka isinii hunda ⟨את⟩ isin irratti nan qoranna.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "beekee (Yahwe akkas jedhe)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda keessaa"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "gosota"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ddoo (kanaafuu)"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "nan qoranna"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakka isinii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "yakka isinii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:47:03.453315314Z",
+  "model": "glm-5.3"
+}

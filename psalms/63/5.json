@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Akka kana si eebbissa jireenya koorratti; maqaa keetiin harka kooflamaa ol baafna.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "si eebbissa"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "jireenya koorratti"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaa keetiin"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ol baafna"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "harka kooflamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:32.719191928Z",
+  "model": "glm-5.3"
+}

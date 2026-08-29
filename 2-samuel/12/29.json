@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Daawidis ⟨את⟩ ummata hunda walitti qabuun Rabbbaatti deeme; ishee waliin warraanii, ishees fudhate.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "walitti qabuun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbbaatti"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "warraanii"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee waliin"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ishees fudhate"
+    }
+  ],
+  "timestamp": "2026-08-29T07:49:10.437744429Z",
+  "model": "glm-5.3"
+}

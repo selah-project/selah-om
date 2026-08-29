@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mosheenis gara gareetti jedhe: \"Kun jecha kan Yahwe ajajsee hojjachuuf jecha dha.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gareetti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajsee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:35.163528836Z",
+  "model": "glm-5.3"
+}

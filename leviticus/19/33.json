@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yoo geeri wajjin keessan ⟨את⟩ biyya keessanitti jiraate, ⟨את⟩ isaa hin miinina.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "wajjin keessan ⟨את⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "geeri"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "biyya keessanitti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "miinina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:30.465127407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Adeemis aduu hin argu, hin beekus; kunis sana caalaa nagaa qaba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "adeemis"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "argu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin beekus"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sana caalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:33.518369887Z",
+  "model": "glm-5.3"
+}

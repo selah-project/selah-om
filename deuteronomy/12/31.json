@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Akkasuma Yahwe Eloohiim keef hin godhu; waan Yahwe jibbu — to'atota — hunda isaan Eloohiim isaanii waliif raawwatan; kanaafuu ⟨את⟩ ilmaan kormaa isaanii fi ⟨את⟩ ilmoo dubaraa isaanii Eloohiim isaanii waliif ibiddaatti gubu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "to'atota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "jibbu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "raawwatan"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "Eloohiim isaanii waliif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan kormaa isaanii"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilmaan kormaa isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ilmoo dubaraa isaanii"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "ilmoo dubaraa isaanii"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "gubu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatti"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "Eloohiim isaanii waliif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:24:40.878494793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Lebaan ⟨את⟩ Ya'aqoob ga'e; Ya'aqoob ammoo ⟨את⟩ teenta isaa gaarreen kaase; Lebaanis ⟨את⟩ obboleeyyan isaa gaarreen Giil'aaditti kaase.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "ga'e"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lebaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aqoob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'aqoob ammoo"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "kaase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teenta isaa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "teenta isaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Lebaanis"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "kaase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeyyan isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giil'aaditti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:49.900293031Z",
+  "model": "glm-5.3"
+}

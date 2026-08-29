@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo abbaan ishee isaaf kennuu diduu dide, qulqullummaa akka gatii mahrii dubartoota dhaltuu ni madaala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "diduu"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "abbaan ishee"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "isaaf kennuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "ni madaala"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "akka gatii mahrii"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "dubartoota dhaltuu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:04.632065286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ka'i, ⟨את⟩ ilmaicha ol qabi, harka keetinis ⟨את⟩ isa qabadhu; kaan sabaa guddaadhaaf isa taasisa.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "ol qabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaicha"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmaicha"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "qabadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka kee"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka keetinis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaan"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaadhaaf"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "isa taasisa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:19.557546232Z",
+  "model": "glm-5.3"
+}

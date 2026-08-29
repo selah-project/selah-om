@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahween Mooshee fi Aharoonitti akkana jedhe:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana jedhe:"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:15.199891367Z",
+  "model": "glm-5.3"
+}

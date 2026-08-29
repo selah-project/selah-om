@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Daandii mootota Israa'el deemeera; akkasumas ⟨את⟩ ilma isaa bishaan isaa irratti darbe — akka arrabni mootummaa — akka waan sammu sabootaa, kan Yahwe ⟨את⟩ isaan balleessaa Yahuudaa qaananitti, sabootaa Israa'el dura.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deemeera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "daandii ... irratti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma isaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibidda keessa"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "akka waan sammumaawaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sabootichaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "balleessaa\/hojjachiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sabootichaa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dura\/dhoksuudhaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sabootaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:50.643147358Z",
+  "model": "glm-5.3"
+}

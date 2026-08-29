@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Daawid fi namootni isaa Ke'eelaatti deemanii Faalistiinota wajjin lolan, ⟨את⟩ beelada isaanii baatanii mooka guddaa isaanii irratti hojjetenii; Daawidiinis ⟨את⟩ jiraattoota Ke'eelaa naamsise.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "fi namootni isaa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'eelaatti"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lolan"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Faalistiinota wajjin"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "baatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beelada isaanii"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "beelada isaanii"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "hojjetenii"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaanii irratti"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mooka"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "naamsise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidiinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiraattoota Ke'eelaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jiraattoota"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'eelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:43.770125311Z",
+  "model": "glm-5.3"
+}

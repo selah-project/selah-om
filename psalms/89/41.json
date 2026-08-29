@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Ati dallasoota isaa hunda cabse; midhagoota isaa balleeffamaa taasifte.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "cabse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "dallasoota isaa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "taasifte"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "midhagoota isaa"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "balleeffamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:22.617589471Z",
+  "model": "glm-5.3"
+}

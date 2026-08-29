@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Bulchitichaaf, Shoshannim irratti, mughaan Daawit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchitichaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mughaan Daawit"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:29.558849169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Garuu rab-tabaachiimtii maatii dhaddachoowwan lafaa hafuusoota fi qonnaan bulotaaf hafe.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "dhaddachoowwan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabaachiimtii"
+    },
+    {
+      "surface": "לכורמים",
+      "gloss": "hafuusotaaf"
+    },
+    {
+      "surface": "וליוגבים",
+      "gloss": "qonnaan bulotaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:58.532159745Z",
+  "model": "glm-5.3"
+}

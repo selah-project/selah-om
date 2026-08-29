@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Tola kana akka kuufattu, akkasumas kana irraa ⟨את⟩ harka kee hin hinaanu; sababaa kan Eloohiim sodaatu ⟨את⟩ hunda irraa baha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "kuufattu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kana irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "hinaanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka kee"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kan sodaatu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "baha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hunda irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:13.483204386Z",
+  "model": "glm-5.3"
+}

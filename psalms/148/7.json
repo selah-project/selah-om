@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Yahwe lafa irraa malaalchaa — ⟨את⟩ Yahwe; bishan-geettotaawaa fi guutuu gadi-baabboolessa hunda.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "malaalchaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "bishan-geettotaawaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi guutuu"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "gadi-baabboolessa hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:20.552351647Z",
+  "model": "glm-5.3"
+}

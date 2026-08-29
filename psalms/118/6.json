@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Yahwe natti qaba; nan sodaanna; namni maal na godha?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti qaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nan sodaanna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "na godha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:46.007926871Z",
+  "model": "glm-5.3"
+}

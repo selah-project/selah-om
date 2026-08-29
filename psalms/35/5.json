@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Akka furdaataan fuulduraa qilleensaa haa ta'an; malaa'ikti Yahwees haa dirqisu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "haa ta'an"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "akka furdaataa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleensaa"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "malaa'iktiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "haa dirqisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:50.176736190Z",
+  "model": "glm-5.3"
+}

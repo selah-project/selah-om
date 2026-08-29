@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sabbata ishee hin fayyudhu, sababa [balaan] Yihuudaas dhufe; balalli baawwu umata kiyyaa, Yerushaalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "hin fayyudhu"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "sabbata ishee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaas"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "balalli baawwu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "baawwu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umata kiyyaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:27.862580827Z",
+  "model": "glm-5.3"
+}

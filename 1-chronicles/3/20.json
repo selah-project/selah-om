@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Hashubaa, Ohel, Berekyaa, Hasadjaah fi Yushab-kheesed — shan.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "Hashubaa"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "Berekyaa"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "Hasadjaah"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yushab-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:21.128486021Z",
+  "model": "glm-5.3"
+}

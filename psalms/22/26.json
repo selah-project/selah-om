@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Si irraa ⟨את⟩ faarfanna koo ta'a; shirni gurguddoo keessatti kabajoota koo akka shallaguuf, fuula warra Isa sodaataniitti.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "Si irraa ⟨את⟩",
+      "marks": "faarfanna koo"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "faarfanna koo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "shirni keessatti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gurguddoo"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "kabajoota koo"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "shallagu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuula...itti"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "warra Isa sodaataniif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:25.064932644Z",
+  "model": "glm-5.3"
+}

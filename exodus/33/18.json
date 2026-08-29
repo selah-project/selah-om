@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Inni immoo jedhe: \"Maaloo, ⟨את⟩ ulfina kee naa mul'isi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "naa mul'isi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulfina kee"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ulfina kee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:21.724360905Z",
+  "model": "glm-5.3"
+}

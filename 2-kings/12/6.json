@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ilmaan kadhataa haa isaanitiif fudhatan, tokko tokko ⟨את⟩ beekamtii isaa irraa; isaanis ⟨את⟩ balleetti manaas haa cimchisan, iddoo balleetti egerratti argamu hundaaf.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "haa fudhatan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitiif"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ilmaan kadhataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tokko tokko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "beekamtii isaa irraa"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "beekamtii isaa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaanis"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "haa cimchisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balleetti manaa"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "balleetti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "argamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "egerratti"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "balleetti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:41.105263877Z",
+  "model": "glm-5.3"
+}

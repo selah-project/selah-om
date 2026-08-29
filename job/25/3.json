@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Saddun waraana isaa lakkoofamaa? Iddo kam irratti iffanni isaa hin kajjabamu?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Saddun"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofamaa"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "waraana isaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iddo kam irratti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kajjabamu"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "iffanni isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:26:37.753645389Z",
+  "model": "glm-5.3"
+}

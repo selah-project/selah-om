@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahwe, Adoonaay keenya, maatiin Maqaa kee guutuu lafa irratti ulfaataa dha!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adoonaay keenya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maatiin"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Maqaa kee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:37.921206408Z",
+  "model": "glm-5.3"
+}

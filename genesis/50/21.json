@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Amma immoo hin sodaadhaa; ani ⟨את⟩ isin neen soorara, ⟨את⟩ islaawwan keessaninis. Isaan qopheessaa qopheesse, fi gara onnee isaanii dubbate.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sodaadhaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "neen soorara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "islaawwan keessaninis"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "islaawwan keessaninis"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "qopheessaa qopheesse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:45.890563248Z",
+  "model": "glm-5.3"
+}

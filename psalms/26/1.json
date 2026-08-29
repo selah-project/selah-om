@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Kan Daawid. Yahwe na ajaji, sababiin ani tomummaa koo keessa deemeera, Yahwe irrattis amaneera, hin sochoofadhu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawid"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "na ajaji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "tomummaa koo keessa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "deemeera"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "Yahwe irrattis"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "amaneera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "sochoofadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:40.940717306Z",
+  "model": "glm-5.3"
+}

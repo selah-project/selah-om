@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Waaqni alaa tokko si keessatti hin jiraatu; waaqa alaa tiinis hin sagadamtu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waaqni"
+    },
+    {
+      "surface": "זר",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sagadamtu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "waaqa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:06.543251949Z",
+  "model": "glm-5.3"
+}

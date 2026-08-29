@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Adaamaa kee yeroo hin xumurametti dhaabsiisa; mo'aa kees dhalootaa dhalootaatti ijsa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "finno"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hin xumurametti"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "dhaabsiisa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "adaamaa kee"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ijsa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dhalootaa"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dhalootaatti"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "mo'aa kee"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:11.590334713Z",
+  "model": "glm-5.3"
+}

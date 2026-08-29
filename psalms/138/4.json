@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Mootonni dachee hundaa, Yahwe, si galata; sababa jechoota afaan kee isaan dhageenaniif.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "si galata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "isaan dhageenaniif"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:58.800399752Z",
+  "model": "glm-5.3"
+}

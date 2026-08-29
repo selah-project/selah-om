@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Onneen Parapharaa ciminaa isaa eegchtee, ilmaan Israa'elii ⟨את⟩ hin ergines, akka Yahween hundeessaa harka Mosheettiin jedhe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ciminaa isaa eegchtee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onneen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parapharaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergines"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'elii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheettiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:10.494601615Z",
+  "model": "glm-5.3"
+}

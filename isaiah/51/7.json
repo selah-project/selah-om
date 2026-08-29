@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Qajeelummaa beekan, seera kiyya onnee isaanii keessa qabu, na dhageessaa; aarrinsa namootaa hin-sodaatinaa, iyyansa isaaniinis haa hin-circifaminaa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "beekan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "qajeelummaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "seera kiyya"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "onnee isaanii keessa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hin-sodaatinaa"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "aarrinsa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "iyyansa isaaniis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "hin-circifaminaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:06.476742546Z",
+  "model": "glm-5.3"
+}

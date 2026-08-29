@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Yahwe mirgaan isaatiin fi lola jabinaan isaatiin kakate: qeexumaa kee as booda soorata diinaa keefitti hin kennu, fi ilmaota alaa wayinii haaraa kee hin dhugu, kan ittiin hojjattudhu.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "kakate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "mirgaan isaatiin"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "fi lola"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "jabinaan isaatiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hinchallu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "hin kennu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qeexumaa kee"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "qeexumaa kee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "as booda"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "diinaa keefitti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fi hinchallu"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "hin dhugu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaota"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "wayinii haaraa kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "hojjattudhu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ittiin"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:41.881837692Z",
+  "model": "glm-5.3"
+}

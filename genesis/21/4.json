@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Avraaraamis Yitsaaq ilma isa, ilma guyyoota saddeet, akka Eloohiimin ajajetti saawwii isa baafate.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "saawwii baafate"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraaraamis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaaq ilma isa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:38.112594233Z",
+  "model": "glm-5.3"
+}

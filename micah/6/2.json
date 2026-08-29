@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Simu, gaaraawwan, ⟨את⟩ morka Yahwe, cimtoonnis bu'uurawwan lafaa; kan Yahweeti morki uummata isaatti qaba, Israa'iilis wajjin ni waldhaba.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "simu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaaraawwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "morka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "cimtoonnis"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "bu'uurawwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "morki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweeti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uummata isaatti"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "Israa'iilis wajjin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "ni waldhaba"
+    }
+  ],
+  "timestamp": "2026-08-29T10:56:33.107751997Z",
+  "model": "glm-5.3"
+}

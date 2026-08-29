@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Rahmata qabu fi mararfataa Yahwe ⟨is⟩; dheera aaree fi kheesed guddaa qabu.",
+  "tokens": [
+    {
+      "surface": "חַנּ֣וּן",
+      "gloss": "Rahmata qabu"
+    },
+    {
+      "surface": "וְרַח֣וּם",
+      "gloss": "mararfataa"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אֶ֥רֶךְ",
+      "gloss": "dheera"
+    },
+    {
+      "surface": "אַ֝פַּ֗יִם",
+      "gloss": "aaree"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:59.326162479Z",
+  "model": "glm-5.3"
+}

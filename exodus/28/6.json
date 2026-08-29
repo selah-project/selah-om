@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Isaan ⟨את⟩ Eefoodicha hojjetu — waaraa, tikkeeleet fi argamaan, diinni shaanii fi hidda maraataa qulqulluu — hojii ogeesaa.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Isaan hojjetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eefoodicha"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "Eefoodicha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waaraa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tikkeeleet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "fi argamaan"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diinni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shaanii"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "fi hidda qulqulluu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "maraataa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ogeesaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:28.097848455Z",
+  "model": "glm-5.3"
+}

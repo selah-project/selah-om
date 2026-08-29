@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Booda kanaan Daawid ⟨את⟩ Pilistoshiin tuqe, isaan maddisiise; Daawid ⟨את⟩ halgammee magaalaa-haadhaa harka Pilistoshiin irraa fudhate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tuqe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pilistoshiin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistoshiin"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "maddisiise"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halgammee magaalaa-haadhaa"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "halgammee"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "magaalaa-haadhaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistoshiin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:47:32.707295338Z",
+  "model": "glm-5.3"
+}

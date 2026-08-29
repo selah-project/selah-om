@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mootonni lafaa of dhaabbatu, boonni misoomuu, kan Waaqaa Yahweefi Kan Dibame isaa irratti walitti gurruu.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "of dhaabbatu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mootonni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "boonni"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "misoomuu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "walitti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi…irratti"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Kan Dibame isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:46.673788831Z",
+  "model": "glm-5.3"
+}

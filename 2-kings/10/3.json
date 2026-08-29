@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kan gaariifi kan sirrii ilmaoo gooftaruu keessan keessaa argadhaa, kursii abbaa isaa irratti haa ta'u — baadiyyee mana gooftaruu keessaniif nugoolcha.\"",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "argadhaa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kan gaarii"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "kan sirrii"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilmaoo ... keessaa"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gooftaruu keessan"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "nugoolcha"
+    },
+    {
+      "surface": "על",
+      "gloss": "baadiyyee ... fi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gooftaruu keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:00.367714145Z",
+  "model": "glm-5.3"
+}

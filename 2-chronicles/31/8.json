@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Hizqiyaahu abbootii mootummaa isaa wajjin seenaan ⟨את⟩ garaarota argan, Yahwe ⟨את⟩ fi ummata Isaa Israa'eel ⟨את⟩ eebbessan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "seenaan"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizqiyaahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "abbootii mootummaa isaa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "argan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garaarota"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "garaarota"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "eebbessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ummata Isaa Israa'eel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata Isaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T14:07:20.708149247Z",
+  "model": "glm-5.3"
+}

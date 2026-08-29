@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Sagaleen tokko jedhi: 'Buushi.' Innis jedhe: 'Maal bausha?' Dirreen hundi marga dha, kheesed isaa immoo akka durba dachii ti.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "buushi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bausha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dirreen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "marga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "immoo hundi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed isaa"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "akka durba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dachii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:31.324555588Z",
+  "model": "glm-5.3"
+}

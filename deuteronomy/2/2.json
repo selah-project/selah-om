@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahweis nutti jedhe, akka jedhamuuf:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhamuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:57.979016833Z",
+  "model": "glm-5.3"
+}

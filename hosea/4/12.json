@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sabni kiyya muka isaa irratti gaafata, reeda isaaas isatti hima; sababa kanaas ruuhiin zinnaa isaatii jeeqse, isaanis Eloohiim isaanii jalaa zinaa hojjatan.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "sabni kiyya"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "muka isaa irratti"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "gaafata"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "reeda isaa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "isaatti hima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhiin"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zinnaa"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "isaatii jeeqse"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "zinaa hojjatan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jalaa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:50.187958205Z",
+  "model": "glm-5.3"
+}

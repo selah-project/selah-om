@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Isaan garagara Re'uuel abbaa isaanii deebi'uun; innis jedhe, \"Maaliif guyyaa har'aa akka kana saffisan dhuftan?\"",
+  "tokens": [
+    {
+      "surface": "ויבאנה",
+      "gloss": "garagara... deebi'uun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "garagara"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Re'uuel"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "abbaa isaanii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "saffisan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhuftan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa har'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:39.875450226Z",
+  "model": "glm-5.3"
+}

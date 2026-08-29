@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ija kiyya bana, akka ilaaluu dandaadhuuf waan ajaa'ibaa taate seera kee irraa.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "bana (uwwisaa haqi)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyya"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "akka ilaaluu dandaadhuuf"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "waan ajaa'ibaa taate"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "seera kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:53.501983849Z",
+  "model": "glm-5.3"
+}

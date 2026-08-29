@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Dhageessi, Yahwe, naa araarami; Yahwe, deggartaa ta'i naa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "naa araarami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'i"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "deggartaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:10.777019642Z",
+  "model": "glm-5.3"
+}

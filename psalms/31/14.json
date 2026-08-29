@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Sababa kuniin dhaddacha baay'ee dhagaye; yaaddii na marsiteetti; yeroo walitti wal qabatan na irratti, lubbuu koo fudhachuuf yaadaniiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa kuniin"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "yaaddii"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "na marsiteetti"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "yeroo walitti wal qabatan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "walitti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na irratti"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "fudhachuuf"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "yaadaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:52.553567517Z",
+  "model": "glm-5.3"
+}

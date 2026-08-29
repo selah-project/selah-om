@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Uffata duubaa ⟨את⟩ isa irratti kaafe; Uuriimii fi ⟨את⟩ Tuumiimii uffata duubaa keessaa kaafe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffata duubaa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "uffata duubaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "uffata duubaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriimii"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Uuriimii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Tuumimii"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tuumimii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:04.759841745Z",
+  "model": "glm-5.3"
+}

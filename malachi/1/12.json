@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isin immoo isaa ni-haq-haadhattu, waan 'Tapha...Faalaa Adoonaay mooraa dha, mittoo isaa illee ni-qadaduu' isin jeddaniif.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "isin immoo"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ni-haq-haadhattu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa (Maqaa)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "waan...isin jeddaniif"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Tapha...Faalaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "mooraa dha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "mittoo isaas"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "ni-qadaduu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nyaata isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:07:11.847779175Z",
+  "model": "glm-5.3"
+}

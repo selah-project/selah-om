@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ganama garuu jechi Yahwe kan na biraa dhufe akka jedhu:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na biraa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama garuu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:07:52.908003381Z",
+  "model": "glm-5.3"
+}

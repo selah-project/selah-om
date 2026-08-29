@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Adoonaay Yahwe gurra naa bane, ani immoo hin tumsine; duuba hin deebine.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "tumsine"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "deebine"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:42.527002239Z",
+  "model": "glm-5.3"
+}

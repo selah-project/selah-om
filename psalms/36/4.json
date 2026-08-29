@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Jechoonni afaan isaa mo'aa fi marmii dha; ogeessummaa hojjachuu fi toltuu hojjachuu dhaabateera.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afaan isaa"
+    },
+    {
+      "surface": "און",
+      "gloss": "mo'aa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "fi marmii"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "dhaabateera"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ogeessummaa hojjachuu"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "toltuu hojjachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:19.621849427Z",
+  "model": "glm-5.3"
+}

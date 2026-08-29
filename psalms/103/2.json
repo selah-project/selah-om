@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Nafsee kiyyaa, Yahwe ⟨את⟩ barkeessi; fi tola Isaa hunda hin dagatin.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "barkeessi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsee kiyyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "dagatin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "tola Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:58.612866548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Argaannaa Yooseeph irratti kan kaa'e, yeroo ardiin Mitsraayim irraa ba'u isaa; afaan ani hin beekne nan dhageeffadhe.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "argaannaa"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yooseeph irratti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kan kaa'e"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ba'uu isaa irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ardii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beekne (ani)"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nan dhageeffadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:50.488057207Z",
+  "model": "glm-5.3"
+}

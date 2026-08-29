@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Kan lafa ilaalchisu, inni rukuta; gaarreen moo'atu, isaan addaan baafamu duumessa.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Kan ilaalchisu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "inni rukuta"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "moo'atu"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "isaan addaan baafamu duumessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:45.467105069Z",
+  "model": "glm-5.3"
+}

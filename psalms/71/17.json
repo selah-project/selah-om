@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Eloohiim, yeroo dargummaa keeerraatti na barsiisaa turre; hanga yeroo kanatti raajjoolee kee eege.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "na barsiisaa turre"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "yeroo dargummaa keeerraatti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangatti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yeroo kana"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "naan eegeerra"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "raajjoolee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:57.556503965Z",
+  "model": "glm-5.3"
+}

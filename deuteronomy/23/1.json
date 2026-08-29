@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Dhiirni tokko haadha abbaa isaa hin fuudhu, akkasumas bofa abbaa isaa hin mul'isu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fuudhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiirni tokko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haadha abbaa isaa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "haadha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "mul'isu"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bofa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:54.737248637Z",
+  "model": "glm-5.3"
+}

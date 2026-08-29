@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mootittii Shebaa maqii Shelomoottii kan Maqaa Yahweetiin dhooqqee dhageessee, akka qoratuuf riddles-wwanii biroo dhiyaatteetti.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Mootittii"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dhageessee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqii"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqii\/dhooqqee"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dhiyaatteetti"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "akkas qoratuuf"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "riddles-wwan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:47.343276474Z",
+  "model": "glm-5.3"
+}

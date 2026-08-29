@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Abiimelekiis Tebeezitti deeme, Tebeez irratti kampa godhe, qabatteessis.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tebez"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "kampa godhe"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tebez irratti"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "qabatteesse"
+    }
+  ],
+  "timestamp": "2026-08-29T07:06:22.449513797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Onnee kee gara leenjiitti geessi, gogaa kee ammoo gara jechoota beekumsaatti.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "geessi"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "gara leenjiitti"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "gogaa kee ammoo"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "gara jechoota"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:11:17.823107551Z",
+  "model": "glm-5.3"
+}

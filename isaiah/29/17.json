@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sila hin taane, yeroo xiqqoo dheeraa hin taane, Libaanoon gara biqilaatti ni dheerofama, biqillichis akka bosonatti lakkoofama?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "sila hin taane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan hin taane"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "yeroo xiqqoo dheeraa hin taane"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ni dheerofama"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libaanoon"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "gara biqilaatti"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "biqillichis"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "akka bosonatti"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "lakkoofama"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:21.383152599Z",
+  "model": "glm-5.3"
+}

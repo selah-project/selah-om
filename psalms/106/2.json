@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Eenyummaan gaaffola geessota Yahwe danda'a? Eenyummaan dogoggora hunda faarfama isaa dhageessisa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyummaan"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "danda'a gaaffola"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "geessota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "dhageessisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "faarfama isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:09.475215214Z",
+  "model": "glm-5.3"
+}

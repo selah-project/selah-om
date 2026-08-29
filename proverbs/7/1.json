@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Intala-koo! Jechootan koo eegi, ajajawwan koo ⟨את⟩ si wajjin kuffadhu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Intala-koo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechootan koo"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ajajawwan koo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "kuffadhu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si wajjin",
+      "marks": "si wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:19.071046404Z",
+  "model": "glm-5.3"
+}

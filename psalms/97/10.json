@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Warra Yahwe jaalatan, hamtuu jedhii! Inni lubbuu warra kheesed isaa eega; harka raawwattootaa irraa isaaniin nasisa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Warra...jaalatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "jedhii (jalaa)"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "warra kheesed isaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka...irraa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "raawwattootaa"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "isaaniin nasisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:26.760156233Z",
+  "model": "glm-5.3"
+}

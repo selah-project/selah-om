@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Achittis heela iyyeese; 'Eel, Eloohiim Israa'el' jechuun maqaa isaaniif moggaase.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "iyyeese"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achittis"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "heela"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaa isaaniif moggaase"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:53.270030316Z",
+  "model": "glm-5.3"
+}

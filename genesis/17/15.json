@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Eloohiimiis Avrahaamiin jedhe: Saaray, niitiin kee, maqaa ishee ⟨את⟩ Saaray jedhiituu hin waamatin; Saaraa maqaa isheeti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "niitii kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "waamattuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa ishee"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "maqaa ishee"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaraa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "maqaa isheeti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:54.011758271Z",
+  "model": "glm-5.3"
+}

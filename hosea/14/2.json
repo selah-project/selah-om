@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Deebi'i, Israa'el, gara Yahwe Eloohiim keetti, sababaoo cubbuu kee keessatti.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Deebi'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaoo"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "cubbuu kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:08.642789240Z",
+  "model": "glm-5.3"
+}

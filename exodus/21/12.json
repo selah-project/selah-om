@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kan nama rukutee du'e, dhugumatti du'aatiin ajajama.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "kan rukutee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aatiin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ajajama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:28.345559890Z",
+  "model": "glm-5.3"
+}

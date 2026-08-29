@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Gara keetti na darbe, garaa irraa; garaa haadha kiyyaa irraa ati Eela kiyya taate.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Gara keetti"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "na darbe"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "garaa irraa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "garaa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha kiyyaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eela kiyya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati...taate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:44.469376122Z",
+  "model": "glm-5.3"
+}

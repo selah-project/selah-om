@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ani si beekadhe dirree keessatti, biyya gogaan guuttame keessatti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "si beekadhe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dirree keessatti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "gogaan guuttame keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:26.826527899Z",
+  "model": "glm-5.3"
+}

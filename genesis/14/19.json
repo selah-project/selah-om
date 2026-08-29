@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Innis isa eebbisees jedhe: Abraam gaarummaan Eel Elyoon, kan samii fi lafa uume, eebbifamee haadhaatu.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "isa eebbisees"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "eebbifamee haadhaatu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abraam"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kan uume"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "fi lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:06.131781173Z",
+  "model": "glm-5.3"
+}

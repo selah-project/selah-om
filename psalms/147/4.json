@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Lakkoofsa urjiiwwanii lakkaa'ee beeka; maqaa hundaanii isaanii maqeecha.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "lakkaa'ee beeka"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsa"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "urjiiwwanii"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "hundaanii"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "maqeecha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:10.350491111Z",
+  "model": "glm-5.3"
+}

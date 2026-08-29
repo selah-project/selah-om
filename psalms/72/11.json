@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Mootonni hundi isa suubbisu; ummatonni hundi isa tajaajilu.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "isa suubbisu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ummatonni"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "isa tajaajilu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:44.963681536Z",
+  "model": "glm-5.3"
+}

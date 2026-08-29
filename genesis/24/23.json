@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Nii jedhe, ati inti eenyu taate? Maaloo natti himi; mana abbaa kee keessatti nuuf hirituuf iddoo ⟨jira⟩ moo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "inti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "natti himi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "היש",
+      "gloss": "jira moo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "hirituuf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:41.579668282Z",
+  "model": "glm-5.3"
+}

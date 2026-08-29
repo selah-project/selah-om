@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Firii isaanii lafarraa ni balleessa; sanyiin isaanii ilmoo namootaa irraas.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Firii isaanii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafarraa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ni balleessa"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "sanyiin isaanii"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilmoo ... irraas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:56.284892706Z",
+  "model": "glm-5.3"
+}

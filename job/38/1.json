@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Yahween Akkaataa dhoo'insa qilleenaa gibira deebisee jedhe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayiyub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayiyub"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "dhoo'insa qilleenaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T12:35:11.788901124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Isaan irraa tokko hunda faaya irraa akka kennaa Yahweef ni dhiyeessa; kadhataa ⟨את⟩ dhiiga nagaas facaasu — isaaf ni ta'a.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ni dhiyeessa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "faaya"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kadhataa"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "facaasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "nagaas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:06.111059013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yahwe akka dubbii Isaa gara Avrahaamiti xumuruun deemaa deeme, Avrahaamiis gara teessoo isaa deebi'e.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deemaa deeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "xumuruun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dubbii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaamiti"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "Avrahaamiis"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebi'e"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "gara teessoo isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:53.225526591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Nafeen kiyya kunooftiin sii hordofte, kiyya harka mirgaan kee na tumsa.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kunooftiin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafeen kiyya"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sii hordofte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kiyya"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "na tumsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "harka mirgaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:41.056981275Z",
+  "model": "glm-5.3"
+}

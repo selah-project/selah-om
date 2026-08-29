@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "\"Dhiirootta kee ⟨את⟩ gaafadhu, isaan si himu; dhiironni si ilaalatti jaalala arginaa, guyyaa gaarii irratti nuti dhufnee waan, maaloo, harkaan kee argitu ⟨את⟩ gabboota kee fi ilmaa kee Daawidif kennaa siif.\"",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "gaafadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiirootta kee"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "dhiirootta kee"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "isan si himu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "argin"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "dhiironni"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ilaalatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dhufnee"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan... argitu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "argitu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harkaan kee"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "gabboota kee"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "ilmaa kee"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidif"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:35.440357155Z",
+  "model": "glm-5.3"
+}

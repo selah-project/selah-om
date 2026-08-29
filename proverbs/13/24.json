@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Inni biqidda isaa dhoorku ilitii ijaa daa'ima isaa jaalala hin qabu; kan jaalatu immoo yeroo hunda isaa leenjisa.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "dhoorku"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "biqidda isaa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ijaan hin qabu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "daa'ima isaa"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "kan jaalatu"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "leenjisa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:03.214286616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kan abbaa isaa ykn haadha isaa abiise, ajjeeffamaa ajjeeffama.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "kan...abiise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ykn haadha isaa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ajjeeffamaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ajjeeffama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:55.101127658Z",
+  "model": "glm-5.3"
+}

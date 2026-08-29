@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mosheen fuula Yahwe duratti dubbate akka jedhu: Raajii, ilmaan Israa'el natti hin dhaga'an; akkasitti Fir'oon maaltu na dhaga'aa jenna, ani iyyaa of-morman qabadhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula...duraatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Raajii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhaga'an"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "akkasitti...maaltu"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "na dhaga'aa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "of-morman"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "iyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:23.767964727Z",
+  "model": "glm-5.3"
+}

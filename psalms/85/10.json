@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Dhugumaa, gargaarsi Isaa kan Isa sodaatanitti dhiyoo ⟨is⟩ dha — kabaja lafa keenya keessatti haa jiraatu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dhugumaa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dhiyoo"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kan Isa sodaatanitti"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "gargaarsi Isaa"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "lafa keenya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:34.337595016Z",
+  "model": "glm-5.3"
+}

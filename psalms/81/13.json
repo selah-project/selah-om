@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Gara jabeenya onnee isaanii isaaniif dhiise; yaada isaanii keessatti ni deemu.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ni dhiise"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "gara jabeenya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ni deemu"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "yaada isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:12.264211381Z",
+  "model": "glm-5.3"
+}

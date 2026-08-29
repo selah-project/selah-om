@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Rukuttaa Yeremayaahu ⟨את⟩ baafataniin bitaa irraa baasaniiru; Yeremayaachu dallaa eegumsaa keessatti jiraateera.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "baafataniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeremayaahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremayaahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "baasaniiru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "innas (bitaa irraa)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "bitaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraateera"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremayaahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "dallaa"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "eegumsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:50:32.887413376Z",
+  "model": "glm-5.3"
+}

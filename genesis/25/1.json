@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Avrahaam dabalatee haadha manaa fudhate, maqaan isheetii Ketuuraa.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dabalatee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "haadha manaa fudhate"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haadha manaa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maqaan isheetii"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketuuraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:35.212965015Z",
+  "model": "glm-5.3"
+}

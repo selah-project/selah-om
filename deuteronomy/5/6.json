@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ani Yahwe, Eloohiim kiyya, kan si biyya Mitsraayim irraa, mana addaayyummaa irraa baase.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "si baase"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addaayyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:15.857619090Z",
+  "model": "glm-5.3"
+}

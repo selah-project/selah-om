@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ummanni Omriitti hordofu ⟨את⟩ ummatta Tibni ilma GiiNaatiiti hordofu irra cim ta'e; Tibnis du'e, Omriis moota ta'e.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "cim ta'e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hordofu"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omriitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummatta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hordofu"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "GiiNaatiiti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibnis"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "moota ta'e"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omriis"
+    }
+  ],
+  "timestamp": "2026-08-29T08:17:19.643553533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 126,
+  "translation": "Warri ⟨את⟩ buusaa ilii-dhiibaa buusan heesuu irratti ni qoratu.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "Warri buusaa"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ilii-dhiibaa"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "heesuu irratti"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ni qoratu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:05.558248328Z",
+  "model": "glm-5.3"
+}

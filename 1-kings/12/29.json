@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Inni ⟨את⟩ tokicha Beete El keessatti dhaabbe, ⟨את⟩ tokicha immoo Daan keessatti kenne.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dhaabbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokicha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokicha"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beete El keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tokicha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokicha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Daan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:31.530334212Z",
+  "model": "glm-5.3"
+}

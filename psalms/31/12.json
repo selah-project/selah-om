@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Diinoota koo hunda biratti arrabaan mormaa ta'ee, maree koo biratti baay'ee, beekktota kooaf gadoo; ijaan isaanii yoo natti argan, na irraa baqatanii.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "hunda biratti"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "diinoota koo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "arrabaan mormaa"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "maree koo biratti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "gadoo"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "beekktota kooaf"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ijaan isaanii yoo natti argan"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "alaa\/bakka bannee"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "baqatanii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:31.593221815Z",
+  "model": "glm-5.3"
+}

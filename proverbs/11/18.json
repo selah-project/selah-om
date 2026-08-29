@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Rashaan hojii mindaa ruchii hojjata; kan qajeelummaa facaasu immoo mindaa dhugaa argata.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "rashaan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjata"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hojii mindaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ruchii"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "kan facaasu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "qajeelummaa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mindaa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:02:26.902041766Z",
+  "model": "glm-5.3"
+}

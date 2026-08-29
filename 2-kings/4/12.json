@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 4:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Innis Gehezii, lalla isheetiin jedhe: \"Shuunamitti san kadhi.\" Lallanis kadhate; innis fuulduratti isaa dhaabbatte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehezii"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "lalla isee"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kadhi"
+    },
+    {
+      "surface": "לשונמית",
+      "gloss": "Shuunamitti san"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "san"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kadhate"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dhaabbatte"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuulduratti isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:25:27.356215486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Waan duraa hin yaadadinaa; waan darbee duraa irrattis hin xinxalinaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "yaadadinaa"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "waan duraa"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "waan darbee duraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "xinxalinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:53.774704796Z",
+  "model": "glm-5.3"
+}

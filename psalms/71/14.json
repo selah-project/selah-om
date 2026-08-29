@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Anis yeroo hunda abdii qabadhaa, faarfama kee hundumaatti dabaladha.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "abdii qabadhaa"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "dabaladha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "faarfama kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:53.281880349Z",
+  "model": "glm-5.3"
+}

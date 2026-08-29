@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Akka jecha Keetii natti deggersi, akka nan jiraadhu; yaada koo irratti na hin sammin.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "natti deggersi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "akka jecha Keetii"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "akka nan jiraadhu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "na sammin"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "yaada koo irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:46.273250539Z",
+  "model": "glm-5.3"
+}

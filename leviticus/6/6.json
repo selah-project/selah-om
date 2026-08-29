@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ibiddi yeroo hunda altarii irratti ni gubata; hin dhaamamuu.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ni gubata"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "dhaamamuu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:42.981462787Z",
+  "model": "glm-5.3"
+}

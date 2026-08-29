@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Baaloota muka shiittimii taasisuu dandeessa, isaanis warqeesi maki.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaloota"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baaloota"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiittimii"
+    },
+    {
+      "surface": "וצצפית",
+      "gloss": "makita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqeedhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:20.555385771Z",
+  "model": "glm-5.3"
+}

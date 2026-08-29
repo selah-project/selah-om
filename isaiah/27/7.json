@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Sila akka rukuttaa kan rukuteetti rukute? Yoo akka ajjeffaa ajjeffaman isaa ajjeffame?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "akka rukuttaa"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "kan rukute"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "rukube"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "akka ajjeffaa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ajjeffaman isaa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ajjeffame"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:48.067110321Z",
+  "model": "glm-5.3"
+}

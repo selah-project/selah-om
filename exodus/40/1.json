@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Yahween Mosheetti dubbate akka jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向...tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:03.454754404Z",
+  "model": "glm-5.3"
+}

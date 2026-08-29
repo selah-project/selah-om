@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Na dhageessaa, kanneen hiikkaa kabajaa hordofan, kanneen Yahwe barbaadan; gara dhagaa isin irraa cuunfametti ilaalaa, akkasumas gara godina boollaa isin irraa banametti ilaalaa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Na dhageessaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kanneen... hordofan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "hiikkaa kabajaa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kanneen... barbaadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "ilaalaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "isin irraa cuunfametti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akkasumas gara"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "godina"
+    },
+    {
+      "surface": "בור",
+      "gloss": "boollaa"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "isin irraa banametti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:14:42.324652588Z",
+  "model": "glm-5.3"
+}

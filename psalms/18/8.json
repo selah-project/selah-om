@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Lafuchaan daddarboonte riixantee, ijuuwwan gaarreen titan, daddarboonan, sababa isaatiif aangutti isa vanqolteef.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "fi daddarboonte"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "fi riixantee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafuchaan"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "fi ijuuwwan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "titan"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "fi daddarboonan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa isaatiif"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "aangutti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:19.927906419Z",
+  "model": "glm-5.3"
+}

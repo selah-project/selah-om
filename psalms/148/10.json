@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Bineensonni bosonaa fi beyladoota hundaa; raabsitoota fi simbirroottii kormaa.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "bineensonni bosonaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundaa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beyladoota"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "raabsitoota"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "fi simbirroottii"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kormaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:03.168130161Z",
+  "model": "glm-5.3"
+}

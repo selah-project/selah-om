@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Faaca isaa ⟨את⟩ gara dallaaatti garagale, Yahwe'itti kadhate, akkas jedhuuf:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "garagale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faaca isaa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "faaca isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dallaa"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "kadhate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:39:37.831886658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Mootonni isaanii silbbootaaniin hidhuuf, kabajamtoonni isaanii kiwwaa birtiiitiin.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "hidhuuf"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mootonni isaanii"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "silbbootaaniin"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "kabajamtoonni isaanii"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "kiwwaa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "birtii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:10.169962639Z",
+  "model": "glm-5.3"
+}

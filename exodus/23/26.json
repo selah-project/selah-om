@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Lafa keetti ciccatuu fi dheebanaa hin jiraatu; lakkoofsa guyyoota kee guuta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "ciccatuu"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "dheebanaa"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "lafa keetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakkoofsa guyyoota kee"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "guyyoota kee"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "guuta"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:03.123566435Z",
+  "model": "glm-5.3"
+}

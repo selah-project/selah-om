@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Isaanis tokkoon tokkiisaaniin jedhan: 'Bulchaa nuuf dhaabiinsaa, Italiinoo biyya Mitsraayimtti deebina.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tokkoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "isaaniitiin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "tokkiisaaniin"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nuuf dhaabiinsaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bulchaa"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "deebina"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "biyya Mitsraayimtti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:56:48.692222838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "VaWaan kun akkaan gaddise Avrahaam, waa'ee ilma isaa.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "akkaan gaddise"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waan kun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "akkaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gadde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "על",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:14.660329548Z",
+  "model": "glm-5.3"
+}

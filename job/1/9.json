@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Saataana ⟨את⟩ Yahwe deebisee jedhe: Sila garaa-dhumaan Iyyob Eloohiim sodaata?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Saataana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "garaa-dhumaan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sodaata"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:52.454994834Z",
+  "model": "glm-5.3"
+}

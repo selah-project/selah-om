@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Fi uummamuu midhaan lafa kee beelota kee irratti godha; atis ni nyaattas, ni guuttattas.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "fi ni kenna"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "midhaan \/ uummamuu lafaa"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "lafa kee irratti"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "beelota keef"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "atis ni nyaatta"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ni guuttatta"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:14.578604114Z",
+  "model": "glm-5.3"
+}

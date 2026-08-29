@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Hin dhageessinaa isaaniitti; mootii ⟨את⟩ Baabel ajajaa, jiraadhaa. Maaliif magaalaa tun haraamaa taati?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhageessinaa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ajajaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Baabel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "jiraadhaa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taati"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tun"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "haraamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:42:59.095148513Z",
+  "model": "glm-5.3"
+}

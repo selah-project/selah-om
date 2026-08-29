@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yahwe Seva'ot, Eloohiim Israa'el, Kerubiimotarratti kan ijaatu, Isaatu Eloohiim, ati qofa, mootummaalee dachee hunda irratti; ati ⟨את⟩ samiiwwanii fi ⟨את⟩ dachee uumte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Seva'ot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kan ijaatu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "Kerubiimotarratti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isaatu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummaalee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uumte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samiiwwanii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dachee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    }
+  ],
+  "timestamp": "2026-08-29T09:03:55.186344983Z",
+  "model": "glm-5.3"
+}

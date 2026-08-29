@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Qaalliin miidhamaa ⟨את⟩ gogaa lafa isaa keessatti ilaala; yoo ri'oon miidhamaa keessaa gara adii jijjiirame, mul'anni miidhamaa gogaa lafa isaa irraa gadii ta'uu yoo qabaate, miidhamni tsara'at ti; qaalliin ilaalee ∙namicha kamuu∙ akka hin-qulqulluume labsa.",
+  "tokens": [
+    {
+      "surface": "וראא",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Qaalliin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miidhamaa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "miidhamaa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "gogaa keessatti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ri'oon"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "miidhamaa keessaa"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "jijjiirame"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "gara adii"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "mul'anni"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "miidhamaa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "gadii"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "gogaa irraa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lafa isaa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "miidhamni"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וראאוו",
+      "gloss": "ilaalee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qaalliin"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "akka hin-qulqulluume labsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "namicha kamuu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:40.832012680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Lubbuun eebbistuu ichoo'a; kan bishaan marsus isumus ni marsama.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "lubbuun"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "eebbistuu"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ichoo'a"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "kan bishaan marsus"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isumus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isumus"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "ni marsama"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:52.407873157Z",
+  "model": "glm-5.3"
+}

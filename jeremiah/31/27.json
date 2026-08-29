@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Kunoo, guyyoonni dhufan jiru — ibdee Yahwe — ani ⟨את⟩ mana Israa'elii fi ⟨את⟩ mana Yahuudaa sanyii namichaa fi sanyii beellamaaariiin nan maaya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoonni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dhufan jiru"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ibdee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "nan maaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Israa'elii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahuudaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namichaa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beellamaaariiin"
+    }
+  ],
+  "timestamp": "2026-08-29T09:41:40.148608723Z",
+  "model": "glm-5.3"
+}

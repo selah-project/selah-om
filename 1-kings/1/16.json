@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Bat-Sheba moote, mootiif suute; mootiinis Maal siif ta'e? jedhe.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "moote"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "suute"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootiif"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootiinis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif ta'e"
+    }
+  ],
+  "timestamp": "2026-08-29T08:00:18.712067666Z",
+  "model": "glm-5.3"
+}

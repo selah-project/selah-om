@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Garuu qarooma isaatti, kan isatti dhihoo ta'ef — haadha isaa fi abbaa isaa fi ilmaa isaa fi intala isaa fi obboleessa isaatif qofa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "qarooma isaatti"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kan isatti dhihoo ta'ef"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "וילאביו",
+      "gloss": "fi abbaa isaa"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "fi ilmaa isaa"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "fi intala isaa"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "fi obboleessa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:01.469475534Z",
+  "model": "glm-5.3"
+}

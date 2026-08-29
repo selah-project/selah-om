@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Aharoonis harka isaa bishaanota Mitsraayim irratti baballe; boosoonnis ol ba'ee dachii Mitsraayim hunde.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "baballe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "bishaanota"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ol ba'ee"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "boosoonnis"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "hunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dachii Mitsraayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:23.893330096Z",
+  "model": "glm-5.3"
+}

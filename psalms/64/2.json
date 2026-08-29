@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Eloohiim, saffisa qeebala kiyya dhageessi; jireenyaa kiyya rakkoo diinaa irraa eegi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "qeebala kiyya"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "himata kiyya keessatti"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "rakkoo irraa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jireenyaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:25.649426060Z",
+  "model": "glm-5.3"
+}

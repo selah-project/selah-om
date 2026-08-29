@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Yoosifiinis isaaniinis jedhe: Kun hiika isaa ti; baaqqoleen sadii guyyoota sadii ⟨isaaniiti⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaniinis"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosifiinis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "hiika isaa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "baaqqoleen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨isaaniiti⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:48.832922942Z",
+  "model": "glm-5.3"
+}

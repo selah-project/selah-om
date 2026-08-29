@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Sababa kanaatiif, ilaali, diifanttota kee samiiddha, abbooti samnaa kee mataa ol kaasanu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa kanaatiif"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "diifanttota kee"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "samiiddha"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "abbooti samnaa kee"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ol kaasanu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:06.715040566Z",
+  "model": "glm-5.3"
+}

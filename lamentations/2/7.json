@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Adoonaay sandafa isaa deebiseera, qulqullummaa isaa hin barbaaddanedha; katta armoonoota ishee harka diinaatti kenne; mana Yahwe keessatti sagalee gargaaraa kennaniiru, akka guyyaa ayyaana murtaa'etti.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "deebiseera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "sandafa isaa"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "hin barbaaddanedha"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "qulqullummaa isaa"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka ...itti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "katta"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "armoonoota ishee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kennaniiru"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana ... keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ayyaana murtaa'etti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:46:45.656246765Z",
+  "model": "glm-5.3"
+}

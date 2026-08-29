@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Bishaan-diraaf, ilmaan Qoraachiin ti, giishii-muusiqaa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bishaan-diraaf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraachiin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "giishii-muusiqaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:32.262698413Z",
+  "model": "glm-5.3"
+}

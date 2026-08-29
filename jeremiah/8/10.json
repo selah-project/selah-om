@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Kanaafuu niitiwwan isaanii ⟨את⟩ akka birootti nan kennaa, qonnaawwan isaanii dhaaltotaatti; xiqqaarraa hanga guddaatti hundi bittaa buuxsu, raajjumootaa hanga ogeessa waldaatti hundi soba hojjedaniiru.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nan kennaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niitiwwan isaanii"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "niitiwwan isaanii"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "akka birootti"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "qonnaawwan isaanii"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "dhaaltotaatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa … ti"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "xiqqaa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "bittaa buuxsu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "buuxsaa"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "raajjumootaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ogeessa waldaa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedaniiru"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "soba"
+    }
+  ],
+  "timestamp": "2026-08-29T09:28:20.076874209Z",
+  "model": "glm-5.3"
+}

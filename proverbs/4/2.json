@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sababoonis kennaan gaarii isiniif kenne; seera koos hin dhiisin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababoonis"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kennaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "seera koos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "dhiisin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:59:20.800220762Z",
+  "model": "glm-5.3"
+}

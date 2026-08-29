@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Yahwe kabaja kee; Yahwe gaari kee, harka mirga kee irratti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "kabaja kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "gaari kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mirga kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:35.511154761Z",
+  "model": "glm-5.3"
+}

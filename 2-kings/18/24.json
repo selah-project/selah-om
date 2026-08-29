@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Akkasumas akkamitti ⟨את⟩ fuula jaajalaa tokkoo, kan tajaajiltoota xiqqoo gooftaa kooyaa keessaa, deebisaa? Maaltu si ajajee of Mitsraayim irratti, baaburaaf fi farda-fee'anootaaf hirkachaa jirta?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "Akkasumas akkamitti"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "deebisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula jaajalaa tokkoo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "jaajalaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kan tajaajiltoota"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gooftaa kooyaa"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "hirkachaa jirta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "of"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "baaburaaf"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "fi farda-fee'anootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:10.330326745Z",
+  "model": "glm-5.3"
+}

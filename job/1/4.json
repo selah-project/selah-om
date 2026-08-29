@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mucaan isaa ni deemanii, bageecha mana namaa guyyaa isaa irratti ni godhanii; ni erganii, obboloota dubartoo sadii isaaniiti nyachuuf fi isaAN wajjin dhugachuuf ni waamaniiru.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ni deemanii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mucaan isaa"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ni godhanii"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "bageecha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "guyyaa isaa"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ni erganii"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ni waamaniiru"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "obboloota dubartoo isaanii"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nyachuuf"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "dhugachuuf"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "isaan wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:30:43.882345851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Bisaan gadii. Maashiyaak Daawid. Yahwe, natti himamsitees, ni beeka.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bisaan gadii"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Maashiyaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "natti himamsitees"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ni beeka"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:27.655776539Z",
+  "model": "glm-5.3"
+}

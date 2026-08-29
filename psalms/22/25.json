@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sababiin isaas hin salphifne, hin jibbisne hirmina kan hirme; fuula isaais isa irraa hin dhokatre; yeroo inni isa gara isaa dhukutti, ni dhageesse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "salphifne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin jibbisne"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "jibbisne"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "hirmina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kan hirme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin dhokatre"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "dhokatre"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuula isaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "yeroo inni dhukutti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa gara isaa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ni dhageesse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:25.064578532Z",
+  "model": "glm-5.3"
+}

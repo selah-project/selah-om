@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sababiin gati Israa'el fi gati Yahuudaa fagarummaadhaan na rratti mormaniiru, ijeecha Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "fagarummaadhaan"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "mormaniiru"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na rratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "fi gati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ijeecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:25:14.575362589Z",
+  "model": "glm-5.3"
+}

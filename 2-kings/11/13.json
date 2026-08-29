@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Atalya sagalee warra fiigatanii fi ⟨את⟩ sagalee sabaa dhageessee, sabaa biratti galee mana Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "dhageessee"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "warra fiigatanii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "galee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:20.432616266Z",
+  "model": "glm-5.3"
+}

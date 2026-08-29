@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Jireenyi ilgittota Israa'eelii waan Misrii keessatti jiraatanii waggaa afurtama fi dhibba afur ti.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "jireenyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilgittota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eelii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatanii"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrii keessatti"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "afurtama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "fi dhibba afur"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:19.163760230Z",
+  "model": "glm-5.3"
+}

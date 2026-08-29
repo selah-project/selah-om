@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Ni midhagsiisu; arrabaan isaanii isaan irratti ta'e; isaan ilaalan hundi ni gad-daddarbu.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "ni midhagsiisu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "arrabaan isaanii"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "ni gad-daddarbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "isaan ilaalan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:18.432254822Z",
+  "model": "glm-5.3"
+}

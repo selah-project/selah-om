@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Lootinis, waan Avrahaam ⟨את⟩ waliin deemuu ture, hoolaa fi loonii gaarii fi teentoota qaba ⟨tur⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "-inis"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Loot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "deemuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahaam waliin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "fi loonii gaarii"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "fi teentoota"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:32.097262972Z",
+  "model": "glm-5.3"
+}

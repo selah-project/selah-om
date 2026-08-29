@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Onnee kiyya ni dhaabbatte, yaa Eloohiim; ani ni sinhoola, akkasumas kabajaan koo waliin ni faarfa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ni dhaabbatte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ani ni sinhoola"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ni faarfa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kabajaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:57.704211524Z",
+  "model": "glm-5.3"
+}

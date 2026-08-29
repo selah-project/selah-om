@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Gaachaannoo keenya ilaali, ayee Eloohiimii, fi fuula Kan Dibamee ilaali.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Gaachaannoo keenya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "fi ... ilaali"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Kan Dibamee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:45.634505019Z",
+  "model": "glm-5.3"
+}

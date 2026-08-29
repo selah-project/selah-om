@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Abaaramuun abbaa isaa fi haadha isaa salphisu; ummannis hundi ni jedhu: Aameen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Abaaramuun"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "salphisu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummannis"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aameen"
+    }
+  ],
+  "timestamp": "2026-08-29T06:31:04.009920327Z",
+  "model": "glm-5.3"
+}

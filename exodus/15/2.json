@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Humna kiyyaa fi yaada-laaluu kiyyaa Yaah; inni akka goraa tokko na ta'eera. Kunoo Eel kiyya, ani isa kajaa'a; Eel abbaa kiyyaas ta'e, ani isa ol-kaasa.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "humna kiyyaa"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "fi yaada-laaluu kiyyaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "inni ta'eera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "akka goraa tokko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel kiyya"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "ani isa kajaa'a"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa kiyyaa"
+    },
+    {
+      "surface": "וארוממנהו",
+      "gloss": "ani isa ol-kaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:30.847707531Z",
+  "model": "glm-5.3"
+}

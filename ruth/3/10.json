@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Inniis jedhe, “⟨את⟩ Yahwee tiin si eebbisi, intala tee! kheesed kee kan dhumaa kan jalqabaatiin caalti — akka dargaggoota hiyyeesaa ykn qabeessaa booda hin deemuuf.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inniis jedhe"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "eebbisamtuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "intala tee"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "caalti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "kan dhumaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caalmaa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kan jalqabaa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akka hin"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "deemuuf"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "dargaggoota"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hiyyeesaa ykn"
+    },
+    {
+      "surface": "דל",
+      "gloss": "hiyyeessa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "qabeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:41:35.579926136Z",
+  "model": "glm-5.3"
+}

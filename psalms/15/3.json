@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Arraba isaatiin nam-tumuu hin hojjatu, hiikkaa isaaf hamtaa hin godhu, fi arraba nama dhiyoo isaattiin gaddisaa ol hin qaqqabu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nam-tumuu hin hojjatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "isaatiin"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "arraba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hin godhu"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "hiikkaa isaaf"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtaa"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "arraba gaddisaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ol hin qaqqabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "isaattiin"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nama dhiyoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:36.278178702Z",
+  "model": "glm-5.3"
+}

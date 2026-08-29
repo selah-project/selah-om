@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 131,
+  "translation": "Israa'el Yahwe eeggadhaa, ammaa irraa eegammaa finfiniinaa.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "eeggadhaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ammaa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "eegammaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "finfiniinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.667544270Z",
+  "model": "glm-5.3"
+}

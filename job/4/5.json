@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Garuu amma inni siitti dhufe, si hoo'ise; si tuqe, si rakkise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "hoo'ise"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "tuqe"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "rakkise"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:31.422402220Z",
+  "model": "glm-5.3"
+}

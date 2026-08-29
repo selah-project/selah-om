@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "«Nuti obboleeyyii lamii-kudhan, ilman abbaa tokkoo taane; tokko immoo hin jiru; xiqqaan har'a abbaa keenya ⟨את⟩ waliin biyya Keena'aan jira.»",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "lamii"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "obboleeyyii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "abbaa keenyaa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkichi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "xiqqaan immoo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa keenya"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "abbaa keenya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Keena'aan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:37.361074496Z",
+  "model": "glm-5.3"
+}

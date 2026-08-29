@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Booda Yahwe Eloohiim keessan deema; ⟨את⟩ Isaa sodaadhaa; ⟨את⟩ ajajoota Isaa tiiksa; sagalee Isaas dhageessa; ⟨את⟩ Isaa tajaajila; Isatti maxxandhaa.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "deema"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ Isaa",
+      "marks": "sodaadhaa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sodaadhaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ajajoota Isaa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ajajoota Isaa"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tiiksa"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "sagalee Isaa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhageessa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ Isaa",
+      "marks": "tajaajilaa"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "tajaajilaa"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "Isa keessatti"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "maxxandhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:25:56.180696837Z",
+  "model": "glm-5.3"
+}

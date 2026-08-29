@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Hojiin Yaah yaadadha; sila waan duraatiif dinqisiifataa kee yaadadha.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "yaadadha"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "hojiin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "yaadadha"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "waan duraatiif"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dinqisiifataa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:10.898114773Z",
+  "model": "glm-5.3"
+}

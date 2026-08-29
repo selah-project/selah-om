@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Niitii gosa keessan, gosa daa'imanii keessan ni doomtuu; gosa daa'immoo keessanis ni doomtanu.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ni doomtuu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "daa'imanii keessan"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "daa'immoo keessan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni doomtanu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:22.671886407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yeroo Efiraayim ni dubbatu, sullanni ture; inni Israa'el keessatti ol-ka'e ture; Baal irratti yakka hojjeechuun du'e.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "yeroo...ni dubbatu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efiraayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "sullanni"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ol-ka'e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el keessatti"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "yakka hojjeechuun"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal irratti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:48.429495528Z",
+  "model": "glm-5.3"
+}

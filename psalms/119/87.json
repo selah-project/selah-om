@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Dhiyootti lafa irratti na xumuraa; ani garuu rickoota kee hin dhiinee.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "dhiyootti"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "na xumuraa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "dhiinee"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "rickoota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:34.289544280Z",
+  "model": "glm-5.3"
+}

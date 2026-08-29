@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Gama gurra isaaniitiis leenjii isaaniif bana, akkasumas akka bultii miidhaa deebi'uuf jedha.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "gurra isaaniitiis"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "leenjii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "deebi'uuf"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "bultii miidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:32:14.529433521Z",
+  "model": "glm-5.3"
+}

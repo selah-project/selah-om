@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Esuus jedhe: \"To! Ani du'uuf deemeera; ikki baaburaanis aniif maaltu fayyada?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esuus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "To!"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "deemeera"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uuf"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniif"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ikki baaburaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:05.706651401Z",
+  "model": "glm-5.3"
+}

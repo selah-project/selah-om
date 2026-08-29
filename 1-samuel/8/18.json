@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 8:18",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Guyyaa sanas waamicha isinii kan mooticha isanii filachuu isanii irratti dhiiqabdu, Adoniiminis guyyaa san isin hin deebisu.",
+  "tokens": [
+    {
+      "surface": "וזעקתם",
+      "gloss": "waamicha isinii dhiiqabdu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kan ... irratti"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mooticha isanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "filachuu isanii"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "deebisu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Adoniim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:10.971154491Z",
+  "model": "glm-5.3"
+}

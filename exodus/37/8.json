@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Keruub tokko cinaacha tokkoo kan biraa irraa, Keruub tokkos cinaacha tokkoo kan biraa irraa; kappooretti irraa ⟨את⟩ Keruubota cinaacha lamaa isaa irratti hojjete.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Keruub tokko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "cinaacha tokkoo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kan biraa irraa"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "Kerub tokkos"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "cinaacha tokkoo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kan biraa irraa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kappooretti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keruubota"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "Keruubota"
+    },
+    {
+      "surface": "משני",
+      "gloss": "cinaacha lamaa"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:15.275934194Z",
+  "model": "glm-5.3"
+}

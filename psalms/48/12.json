@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Gaara Tsiyoon haa gammadhu, ilmoo dubartootaa Yahuudaa haa bidhaatu, murtii kee irratti.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "haa gammadhu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "haa bidhaatu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ilmoo dubartootaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murtii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:31.022899535Z",
+  "model": "glm-5.3"
+}

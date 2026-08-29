@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 120,
+  "translation": "Qararoota warra cimaa dhoksisiisoo, gatiilee muka riitamaa wajjin.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "qararoota"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "warra cimaa"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "dhoksisiisoo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "gatiilee"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "muka riitamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:32.824704479Z",
+  "model": "glm-5.3"
+}

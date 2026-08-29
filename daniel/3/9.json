@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Deebisanii jedhan Nebukadnetsar mootiitti: \"Mooticha, yeroo hunda jiraadhu!\"",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Deebisan"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mootiitti"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Mooticha"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiraadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:00:28.760085793Z",
+  "model": "glm-5.3"
+}

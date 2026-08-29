@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Eesviis akka jedhe: \"Wanti baay'ee natti jira obboleey; waan ati qabaatu siif haa ta'u.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eesav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleey"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati qabaatu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:41.693301766Z",
+  "model": "glm-5.3"
+}

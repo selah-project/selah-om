@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sirrii hidha maatii isaa ta'a, doggoggummaan hidha cinaacha isaa ta'ati.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "hidha"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "maatii isaa"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "doggoggummaan"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "hidha"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "cinaacha isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:50:32.429449666Z",
+  "model": "glm-5.3"
+}

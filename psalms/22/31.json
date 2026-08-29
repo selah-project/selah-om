@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sanyiin isaa isa tajaajila; kunis gara duraatti dhaddachaatiif kan Adoonaay herregaamamu ta'a.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "sanyiin"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "isa tajaajila"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "herregaamamu ta'a"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kan Adoonaay"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "gara duraatti dhaddachaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:08.788714478Z",
+  "model": "glm-5.3"
+}

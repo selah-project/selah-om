@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Qaamoleen miidhaa faayidaa hin qabaatan; dhugaan amantoonis du'aa hin baafachu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "faayidaa hin qabaatan"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Qaamoleen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dhugaan amantoonis"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "hin baafachu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:39.351532684Z",
+  "model": "glm-5.3"
+}

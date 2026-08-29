@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "fi dhaddachaan santii, fi ⟨את⟩ dhaddacha bantii santii isa gorsaa fi guddiftuu naa, naannoo, fi ⟨את⟩ heeriboonni isaa, tajaajila isaa hundaaf.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "fi dhaddachaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "santii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhaddacha bantii santii"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bantii"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "santii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "על",
+      "gloss": "naa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "gorsaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi naa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guddiftuu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heeriboonni isaa"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "heeriboonni isaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "taajaajila isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:43.619095081Z",
+  "model": "glm-5.3"
+}

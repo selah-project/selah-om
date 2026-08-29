@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmoon Aazgaad, kuma tokko, dhibba lamaafi digdamii lamii.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmoon"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Aazgaad"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dhibba lamaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdamii"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "afi lamii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:11:24.571046857Z",
+  "model": "glm-5.3"
+}

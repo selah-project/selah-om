@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Ni walitti toggu, ni dhoksatu; miilla kiyya ni eegatu, akka lubbuu kiyya hammeessuuf eeganitti.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "ni walitti toggu"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "ni dhoksatu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "miilla kiyya"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ni eegatu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka … itti"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "eegan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:33.721121609Z",
+  "model": "glm-5.3"
+}

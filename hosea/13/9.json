@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yaa Israa'el, shiitni kee kan ati of irratti fidde; garuu gargaarsaan kee Ani bira.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "shiitni kee kan ati of irratti fidde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaa Israa'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu\/sababa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ani bira"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "gargaarsa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:37.214594055Z",
+  "model": "glm-5.3"
+}

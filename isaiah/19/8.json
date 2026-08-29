@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Warra qurxummii qabdan aanan; warra hukkii lagaa keessatti rukutan hundi dhaddacha; warra saaphana bishaan fuullatti baballisan dadarbu.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "warra qurxummii qabdan"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "warra rukutan"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "lagaa keessatti"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "hukkii"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "warra baballisan"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "saaphana"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuullatti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "dadarbu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:38.382573678Z",
+  "model": "glm-5.3"
+}

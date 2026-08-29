@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Adii yeroo biyya ga'e, inni qulqullaa'a, booda waan qulqullummaa keessaa nyaata, kunoo waan isaa soorataa ti.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ga'e"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adii"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "qulqullaa'a"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "waan qulqullummaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "waan isaa soorataa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:53.412795509Z",
+  "model": "glm-5.3"
+}

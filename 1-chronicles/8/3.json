@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Belaafis ilmaan ta'an: Addar, Geraa fi Abiihuud.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Belaaf"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Addar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "Geraa"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "Abiihuud"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:16.247405808Z",
+  "model": "glm-5.3"
+}

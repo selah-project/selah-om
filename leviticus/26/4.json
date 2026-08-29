@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Roobii keessan yeroo isaa isaatti nan kennaa; lachi miira ishee kenniti, mukni dirree firii isaa kenna.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nan kennaa"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "roobii keessan"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "yeroo isaa isaatti"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "kenniti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lachi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "miira ishee"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mukni"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "firii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:30.782048338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akkamitti ani qofa ulfina keessan, baadhii keessan fi khiiroo keessan baadha?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "baadha"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ani qofa"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ulfina keessan"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "baadhii keessan"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "khiiroo keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:02.245792550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Eebbissaa, yeroo ajajawwan Yahwe Eloohiim keessan kan ani har'a isin ajaju dhageessan <⟨את⟩>",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eebissaa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "eebissaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhageessan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajajawwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ajaju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    }
+  ],
+  "timestamp": "2026-08-29T06:21:07.616133782Z",
+  "model": "glm-5.3"
+}

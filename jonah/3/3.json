@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yuunaanis ka'e, akka gaaffii Yahweetti gara Niinweeetti deeme. Niinween magaala guddaa Waaqayyoo-ttiif taate, imaltii guyyoota sadiiti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaanis"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwee"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka gaaffii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Niinween"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaala"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Waaqayyoo-ttiif"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "imaltii"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:22.177984383Z",
+  "model": "glm-5.3"
+}

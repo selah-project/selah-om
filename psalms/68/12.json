@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Adoonaay jecha kenna; dubartoonni gammachiisaa waraana baay'ee dha.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "dubartoonni gammachiisaa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:59.567472890Z",
+  "model": "glm-5.3"
+}

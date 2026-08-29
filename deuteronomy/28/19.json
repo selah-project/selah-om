@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Ati abbaraa'i yeroo ati seetu, ati abbaraa'i yeroo ati baatu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "abbaraa'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "yeroo ati seetu"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ati abbaraa'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "yeroo ati baatu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:48.605914257Z",
+  "model": "glm-5.3"
+}

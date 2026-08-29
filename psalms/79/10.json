@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Maalif sabaawwan akka jedhan «Eloohiim isaanii eessa jira?» haa beekamu sabawwan keessatti iji keenyaaf, ittii-dhiifama dhiiga gabroota kee kan dhangame.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maalif"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sabaawwan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "eessa jira"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "haa beekamu"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "sabaawwan keessatti"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "iji keenyaaf"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "itti-dhiifama"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabroota kee"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "kan dhangame"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:49.686536328Z",
+  "model": "glm-5.3"
+}

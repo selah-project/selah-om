@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yeroo ani naamu natti deebii, Eloohiim kiyya sirrii ta'uu; bala'aa keessatti naa bal'isite; natti arar godhi, fi kadaja kii na dhageessi.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "yeroo ani naamu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "natti deebii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kiyya sirrii ta'uu"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "bala'aa keessatti"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "naa bal'isite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "natti arar godhi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "fi na dhageessi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadaja kii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:22.160526676Z",
+  "model": "glm-5.3"
+}

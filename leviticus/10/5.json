@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Achumaan dhiyaatan, isaan kutaan isaanii keessatti baatan, ala mana-campuutti, akkuma Moshee jedhe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "dhiyaatan"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "isaan baatan"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "kutaan isaanii keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bifteen ala"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mana-campuu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:50.508703678Z",
+  "model": "glm-5.3"
+}

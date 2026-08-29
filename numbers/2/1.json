@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe haasawse Mosheetiif Aharooniif akka jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haasawse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…iif"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…iif"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:15.610488580Z",
+  "model": "glm-5.3"
+}

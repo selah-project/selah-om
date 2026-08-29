@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yooseeph du'e, obboleeywan isaa hundi du'an, sanyiin (dorgommiin) sana hundiis du'e.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooseeph"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeywan isaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundiis"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "sanyiin (dorgommiin)"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:20.399718098Z",
+  "model": "glm-5.3"
+}

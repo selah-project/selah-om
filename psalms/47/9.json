@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Eloohiim biyyoota irratti bulchaa ta'eera; Eloohiim gadee-qooddii isaa qulqulluu irratti taa'ee jira.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "bulchaa ta'eera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "taa'ee jira"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "gadee-qooddii"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:43.722280595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Guddisaa Yaah; maqaa Yahwe guddisaa ⟨את⟩; gabroota Yahwe, guddisaa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "guddisaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "guddisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "guddisaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:54.272415786Z",
+  "model": "glm-5.3"
+}

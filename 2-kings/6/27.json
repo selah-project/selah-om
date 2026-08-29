@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Inni ammoo, 'Yahwe si hin oolchu — ani eesseet si nan oolcha? Iddoo booccii irraa yookiin dhaddacha wayinii irraa?' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inni ammoo... jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "si oolchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "eesseet"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "si nan oolcha"
+    },
+    {
+      "surface": "המן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "iddoo booccii"
+    },
+    {
+      "surface": "או",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "dhaddacha wayinii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:24:52.199203125Z",
+  "model": "glm-5.3"
+}

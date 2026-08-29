@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Fi mursa isaa — mursa yeroo hunda — mooticha biraa ⟨את⟩ isaaf kennamu, baay'ina guyyaa guyyaan, guutuu guutuu guyyaa jireenya isaa ti.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "fi mursa isaa"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "mursa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kennamu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ biraa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "baay'ina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "guyyaan guyyaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu guutuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "jireenya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:43.100795525Z",
+  "model": "glm-5.3"
+}

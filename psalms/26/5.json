@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Qamalee warra facaafaman jibba; fi wajjin bichoota hindhibu.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "jibba"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "qamalee"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "warra facaafaman"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "fi wajjin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bichoota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "dhibu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:59.662469683Z",
+  "model": "glm-5.3"
+}

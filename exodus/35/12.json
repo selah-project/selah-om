@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "⟨את⟩ sanduqa fi ⟨את⟩ baammoota isaa, ⟨את⟩ kapporeeta fi ⟨את⟩ uqqee dhaddachaa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "baammoota isaa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "baammoota isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporeeta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporeeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "uqqee dhaddachaa"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "uqqee"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "dhaddachaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:04.125397452Z",
+  "model": "glm-5.3"
+}

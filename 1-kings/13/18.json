@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 13:18",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Innis isaatti jedhe: \"Anis akka sii rabbi-areetti rabbi-aree dha; maleektinis ergaan Yahwe natti dubbate: 'Deebisi; ⟨את⟩ hundaan mana kee galchi, dheebuu haa nyaatu, bishaanis haa dhugu.'\" Inni isa gowwomsuun sobsiise.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isaatti jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "rabbi-aree"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka sii"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "maleekti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ergaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "השבהו",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hundaan",
+      "marks": "hundaan (waliin maqaa 'with you' — preposition את, DOM miti)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gali"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "haa nyaatu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "haa dhugu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "sobsiise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:52.320637733Z",
+  "model": "glm-5.3"
+}

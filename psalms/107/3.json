@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Lamuurraaksaa walitti qaba; baha irraa fi dhiha irraa, kaaba irraa fi bishaan irraa.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "lamuurraa"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "walitti qaba"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "baha irraa"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "fi dhiha irraa"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaaba irraa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "fi bishaan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:58.744277920Z",
+  "model": "glm-5.3"
+}

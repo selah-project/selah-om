@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Miidhaa warra hiyyeessaa seera keessaa baasuuf, fi seera warra gaddaa ummata kiyyaa hambisuuf, boontoonni akka boontoota isaaniitti akka ta'anuf, fi ⟨את⟩ ijoollee hambisan.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "seera"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "warra hiyyeessaa"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "fi hambisuuf"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "warra gaddaa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata kiyyaa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "akka ta'anuf"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "boontoonni"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "boontoota isaaniitti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijoollee"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ijoollee"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "hambisan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:52.012578971Z",
+  "model": "glm-5.3"
+}

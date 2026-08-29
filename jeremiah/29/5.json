@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Manoota ijaaraa jiraadhaa; moonnaa biqisaa fi mudura isaanii ⟨את⟩ nyaadhaa.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ijaaraa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manoota"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jiraadhaa"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "biqisaa"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "moonnaa"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "nyaadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudura isaanii"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "mudura isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:43:52.231474033Z",
+  "model": "glm-5.3"
+}

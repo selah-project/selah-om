@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Ijji kiyya yeroo hunda gara Yahwe; Innis randii irraa miila kiyya ni baasa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ijji kiyya"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ni baasa"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "randii irraa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miila kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:38.552514263Z",
+  "model": "glm-5.3"
+}

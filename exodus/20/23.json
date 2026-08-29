@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Natti ⟨את⟩ Eloohiim kummee fi Eloohiim warqee hin godhinaa; ofiifiis hin godhinaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "godhinaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ natti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummee"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "godhinaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ofiifiis"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:13.701819523Z",
+  "model": "glm-5.3"
+}

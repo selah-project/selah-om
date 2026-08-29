@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Gudda godhi gabbara keetiif, akka jiraadhuufi jecha kee eeguuf.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Gudda godhi (gaaffii to'annoo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "...tiif"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara kee"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "akka jiraadhuuf"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "fi (ani) eeguuf"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "jecha kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:53.501753849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Maalif ifa miidhaa qabuuf kenname, fi jireenya lubbuu qallattuuf?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maalif"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenname"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "miidhaa qabuuf"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "fi jireenya"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "qallattuuf"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:07.098869280Z",
+  "model": "glm-5.3"
+}

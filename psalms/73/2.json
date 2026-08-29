@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Aniimmoo — vaan koo kutaadhaan ni darbe; bultuuwwan koo kutaadhaan ole, daddarbu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniimmoo"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kutaadhaan"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ni darbe"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "vaan koo"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kutaadhaan ole"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "daddarbu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bultuuwwan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:57.607057099Z",
+  "model": "glm-5.3"
+}

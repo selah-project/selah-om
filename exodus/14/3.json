@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Farraon ilmaan Israa'ieli waa'ee ni jedha: isaan dachii keessatti bisoo dha; baballi isaan cufeera.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farraon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "waa'ee ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'ieli"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "bisoo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii keessatti"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "cufeera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baballi"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:49.978831256Z",
+  "model": "glm-5.3"
+}

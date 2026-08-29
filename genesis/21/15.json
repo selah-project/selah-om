@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Bishni dheebuu sanii keessaa xumure, ⟨את⟩ ilma sana michuuwanii tokko jalatti teense.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "xumure"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "dheebuu sanii"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "teense"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma sana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilma sana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "michuuwanii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:51.077602798Z",
+  "model": "glm-5.3"
+}

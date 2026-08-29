@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Gaarri Eloohiim gaarri Bashaan ti; gaarri gombifaa gaarri Bashaan ti.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashaan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "gombifaa (ooloota gombilee)"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:21.882952210Z",
+  "model": "glm-5.3"
+}

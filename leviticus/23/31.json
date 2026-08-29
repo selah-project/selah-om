@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Hojii kamiyyuu hin hojjedhaa; seera dhaadataa kan durtii dha, dargaggoota keessaniif, teessan hunda keessatti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjedhaa"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dhaadataa"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "dargaggoota keessaniif"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "teessan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:31.727622366Z",
+  "model": "glm-5.3"
+}

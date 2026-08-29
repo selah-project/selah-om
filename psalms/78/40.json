@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Yeroo baay'ee biyya barbaachaa keessatti Isa morme, lafa gogaa keessattis Isa gaddaan buuse!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Yeroo baay'ee"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "Isa morme"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "biyya barbaachaa keessatti"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "Isa gaddaan buuse"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "lafa gogaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:42.322857266Z",
+  "model": "glm-5.3"
+}

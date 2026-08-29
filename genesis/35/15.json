@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Ya'aqoobis maqaa iddoo sanii — Eloohiim ⟨את⟩ Isa itti waliin dubbachaa ture — Beet-El jedhe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhe maqaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "iddoo sanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbachaa ture"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Isa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:41.090324863Z",
+  "model": "glm-5.3"
+}

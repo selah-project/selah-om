@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Abiimelek hoolaa fi gabbisota, gabroota fi gabritoota fudhatee Avrahaamif kenne; Saaraa, hatattara isaa, ⟨את⟩ isaaf deebise.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "gabbisota"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "gabritoota"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahaamif"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "deebise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saaraa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaraa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hatattara isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:12.760599952Z",
+  "model": "glm-5.3"
+}

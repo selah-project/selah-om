@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Samiiwwan samiiwwanii Isa gammadaa; bishaanwwan samiiwwan ol ta'anis Isa gammadaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa gammadaa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ו המים",
+      "gloss": "bishaanwwanis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ol ta'an"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.304373018Z",
+  "model": "glm-5.3"
+}

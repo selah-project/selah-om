@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Akkasumas Yahwe Eloohiim kee ⟨את⟩ bookee isaan irratti erga, kaan hafee fi si irraa dhokatan bittinnaa'anii fixameera.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bookee"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "bookee"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "erga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fixameera"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bittinnaa'anii"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "kaan hafee"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "fi... dhokatan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "si irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:05.038108426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Keesilicha akka boonsa isaatiifi deebisi, akka inni ija ofii keessatti gargaaraa hin ta'u.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "keesilicha"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "akka boonsa isaatiifi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka...hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "gargaaraa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija ofii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:33.496138121Z",
+  "model": "glm-5.3"
+}

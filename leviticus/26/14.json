@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yoo isin na hin dhageessine, fi ⟨את⟩ ajajota kana hunda hin hojjene:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhageessine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajota kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ajajota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:13.029689010Z",
+  "model": "glm-5.3"
+}

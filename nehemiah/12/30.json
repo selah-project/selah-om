@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Qaa'iloonni fi Leeviwwanis hagamsuutan, ergasii ⟨את⟩ sababa fi ⟨את⟩ baakkiiwwan balbalaawaa fi ⟨את⟩ gorfii dhaabbataa mijeessanii qulqulleessan.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "hagamsuutan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Qaa'iloonni"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "fi Leeviwwanis"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "qulqulleessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sababa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "baakkiiwwan balbalaawaa"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "baakkiiwwan balbalaawaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "gorfii dhaabbataa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "gorfii dhaabbataa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:27:36.322223062Z",
+  "model": "glm-5.3"
+}

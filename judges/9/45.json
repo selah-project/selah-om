@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Abiimeleechiis guyyaa guutuu sanaa magaalaa sana irratti lolte; magaalaa sana fudhatee, ⟨את⟩ namoota ishee keessa jiran ajjeese, ⟨את⟩ magaalaa sana balleesse, isheeddis soogidda dargaase.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abiimeleechiis"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "lolte"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa sana irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa sana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa sana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "namoota"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "balleesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa sana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa sana"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "isheeddis dargaase"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soogidda"
+    }
+  ],
+  "timestamp": "2026-08-29T07:07:45.327921882Z",
+  "model": "glm-5.3"
+}

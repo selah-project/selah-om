@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Badii dargaggummaa koo fi sababa koo hin yaadadhu; akkuma kheesed kee natti yaadadhu Ati, miira toltumaa kee ti, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "badii"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "dargaggummaa koo"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "fi sababa koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yaadadhu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "akkuma kheesed kee"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yaadadhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miira"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "toltumaa kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:07.042828313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ati obboleessa kee harree ykn gafarsa isaa karaa irratti kufan arguu hin qabdu, akkasumas isaan irraa of dhoksuudhaan; dhugumatti isa wajjin kaasuu qabdu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "arguu hin qabdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harree"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "gafarsa isaa"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "akkasumas of dhoksuudhaan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "dhugumatti kaasuu"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "qabdu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:27:33.005837245Z",
+  "model": "glm-5.3"
+}

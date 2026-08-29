@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Isaaniifs nii jedhi: Akka kana jedhe Yahwe — hin kufanuu, ka'anuu malee? hin deebi'anuu, deebi'uu malee?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "nii jedhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniifs"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "hin kufanuu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ka'anuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hin deebi'anuu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "deebi'uu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "deebi'uu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:28:37.594917131Z",
+  "model": "glm-5.3"
+}

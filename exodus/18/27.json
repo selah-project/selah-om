@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Mosheenis ⟨את⟩ obboleessa-sodaa isaa deebisee; innis gara biyya isaa deeme.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa-sodaa isaa"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "obboleessa-sodaa isaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "innis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:05:42.771151164Z",
+  "model": "glm-5.3"
+}

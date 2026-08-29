@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Beekumsi sun anaaf danda'amaa miti; ol-kaaye, isa bahu hin danda'u.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "danda'amaa miti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Beekumsi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ol-kaaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isa bahu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.279119063Z",
+  "model": "glm-5.3"
+}

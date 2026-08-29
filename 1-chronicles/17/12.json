@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Inni naaf mana ijaara, ani ammoo ⟨את⟩ garbi isaa yeroo dhumaa hin qabuuf dhaabbisa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ijaara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "dhaabbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garbi isaa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "garbi isaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…f"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo dhumaa hin qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:39:31.532478548Z",
+  "model": "glm-5.3"
+}

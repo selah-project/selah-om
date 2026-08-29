@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Ani jedhe, Eeloo kiyya, gidduu guyyoota koo hin naa baasi; waggooti Keeyyaan durtii durii dha.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eeloo kiyya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "naa baasi"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota koo"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "durii"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "waggooti Keeyyaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:40.427176204Z",
+  "model": "glm-5.3"
+}

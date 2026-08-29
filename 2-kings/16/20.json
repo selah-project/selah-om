@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Achaz abbootii isaa waliin rafee, abbootii isaa waliin magaalaa Daawid keessatti awwaallame; ilmaan isaa Hizqiyaahu inni booda isaa mootummoo ture.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "rafee"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "awwaallame"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummoo ture"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyaahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "inni booda isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:57.624214098Z",
+  "model": "glm-5.3"
+}

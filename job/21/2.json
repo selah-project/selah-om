@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Jecha koo dhiisaa dhiisuu dhiisaa; kunis boqonnaa keessan haa ta'u.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhiisaa"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "dhiisuu dhiisaa"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "jecha koo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "boqonnaa keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:33.603138028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Gaara Efrayim keessa darbe, biyya Shalishah keessattis darbe, hin arganine; biyya Sha'aliim keessattis darban, hin jirane; biyya Benyaamini keessattis darbe, hin arganine.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaara ... keessa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya ... keessattis"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Shalishah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "arganine"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "darban"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya ... keessattis"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Sha'aliim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jirane"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya ... keessattis"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyaamini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "arganine"
+    }
+  ],
+  "timestamp": "2026-08-29T07:20:21.616312598Z",
+  "model": "glm-5.3"
+}

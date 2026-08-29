@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Kan isaan bilisoomsu ⟨is⟩ cimaa dha; inni koondichii isaanii ⟨את⟩ si wajjin ni morka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "kan isaan bilisoomsu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ni morka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koondichii isaanii"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "koondichii isaanii"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:11:17.822998818Z",
+  "model": "glm-5.3"
+}

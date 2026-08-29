@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Seera kana yeroo murtaa'eetti, guyyaa irraa guyyaatti eegadhu.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "eegadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera kana"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "seera kana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "yeroo murtaa'eetti"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "guyyaa irraa"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "guyyaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:02.484260053Z",
+  "model": "glm-5.3"
+}

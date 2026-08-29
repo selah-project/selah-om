@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yeroo ani ⟨את⟩ haala kana dhaggeeffadhu, ⟨את⟩ waan anaan uffadhu fi meela kiyya reebudhe, rifeensa mataa kiyyaa fi garra kiyyaa irraa baafadhe, akka dhiibameetti taa'adhe.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "yeroo ani dhaggeeffadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "reebudhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan anaan uffadhu fi meela kiyya"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "waan anaan uffadhu"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "fi meela kiyya"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "baafadhe"
+    },
+    {
+      "surface": "משער",
+      "gloss": "rifeensa irraa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa kiyyaa"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "fi garra kiyyaa"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "taa'adhe"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "akka dhiibameetti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:18:13.694676742Z",
+  "model": "glm-5.3"
+}

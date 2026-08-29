@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Isaanis tokkoon tokkoo kan isaatin rukutan; Araam immoo dheessee, Israa'elinis isaan hordofee ajjeessee; Ben-Hadad mootii Araam immoo fardaa fi fardaa-ffannoon haadha rukutanii miliqee.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "rukutan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tokkoon tokkoo"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "kan isaatin"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dheessee"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "hordofee ajjeessee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elinis"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "miliqee"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "על",
+      "gloss": "haadha"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "fardaa"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "fardaa-ffannoon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:15.038832381Z",
+  "model": "glm-5.3"
+}

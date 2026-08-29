@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 24:30",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Isa daanga dhaala isaa keessatti, gaarreen Efrayim irratti, gaarree Ga'ash kaaba jiru Timnat-Serah keessatti achan.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "achan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (Yehooshua)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "daanga"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaala isaa"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Serah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti argamu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaabaan"
+    },
+    {
+      "surface": "להר",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Ga'ash"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:51.060588927Z",
+  "model": "glm-5.3"
+}

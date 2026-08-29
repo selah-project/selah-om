@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Daawidis jedhe: \"Abbootiin Ke'eeila ⟨את⟩ ana fi ⟨את⟩ warra koo harka Sha'uul galchu?\" Yahweenis \"Ni galchu\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "galchu?"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'eeila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warra koo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "warra koo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweenis"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Ni galchu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:22.686671391Z",
+  "model": "glm-5.3"
+}

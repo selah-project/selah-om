@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ilma namaa, fuula kee kan isaan fuula isaanii caalu taasiseera, fi mataa kee kan isaan mataa isaanii caalu taasiseera.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ilmi namoo ilaali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "taasiseera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kee"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "kan isaan caalu"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fuula isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mataa kee"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "mataa kee"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kan isaan caalu"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "mataa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:03:28.517645512Z",
+  "model": "glm-5.3"
+}

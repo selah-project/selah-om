@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Meeqaan Yahwe irratti ni gammadda, Isaatti hirkata; onnee qajeelaa hundi Isaan faalu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ni gammadda"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Meeqaan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "hirkata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isaatti"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "Isaan faalu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:18.432663732Z",
+  "model": "glm-5.3"
+}

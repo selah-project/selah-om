@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 23:25",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Riyya kiyya si irratti nan qaba, isaan hammeeffaan ⟨את⟩ si hojjatu; funyaan kee fi gurrguurronni kee ni baafaman, hafe si meeshaan seenaa kufa; isaan—daa'iman kee fi intalan kee ni fudhatu, hafe si ibiddaan ni nyaadamu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nan qaba"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "riyya kiyya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "hojjatu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "si"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "hammeeffaan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "funyaan kee"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "gurrguurronni kee"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "ni baafaman"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "hafe si"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "meeshaan seenaan"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "daa'iman kee"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "intalan kee"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ni fudhatu"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "hafe si"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ni nyaa'amu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:19:53.395740952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Namoonni Baabilonaa ⟨את⟩ Sukkoos-Benoot uuman; namoonni Kuutaa ⟨את⟩ Nergal uuman; namoonni Hammaataa ⟨את⟩ Ashiimaa uuman.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilonaa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkoos-Benoot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkoos"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benoot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuutaa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hammaataa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashiimaa"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashiimaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:54:07.475146483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Yahwe, hinナ godhi inbadduu, sababoon isaan atiin na waamallee jira; rakkoon hoolaa diddaa badda'u, She'ool keessatti hadi'i.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin godhi... (hin)"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "inbadduu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababoon isaan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "na waamallee"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "badda'u"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rakkoon hoolaa diddaa"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "hadi'i"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "She'ool keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:16.749536888Z",
+  "model": "glm-5.3"
+}

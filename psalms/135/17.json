@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Gurra isaniitu jira, garuu hin dhageessanu; akkasumas haffurri isa hin jiru afaan isaaniitiin.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "dhageessanu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨jira⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "haffurri isa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "afaan isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:30.484673806Z",
+  "model": "glm-5.3"
+}

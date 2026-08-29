@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ahiishaar mana mootichaa irratti; Adoniiraam ilma Abdaa giba'aa irratti.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "Ahiishaar"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana <mootichaa>"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "Adoniiraam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Abdaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המס",
+      "gloss": "giba'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:03.498435956Z",
+  "model": "glm-5.3"
+}

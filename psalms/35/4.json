@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Warra nafa koo barad'an akka salphatanii akkadan; duubatti akka deebi'anii akka rakkatan, warra hamtii koo yaadatan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "akka salphatan"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "akka dan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "warra barad'an"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa koo"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "akka deebi'an"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "duubatti"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "akka rakkatan"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "warra yaadatan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "hamtii koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:16.414654620Z",
+  "model": "glm-5.3"
+}

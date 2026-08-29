@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Saboota keessatti murti godha; ⟨iddoon⟩ namoota du'aan ni guutama; mataa dachii bal'aa irratti caccabsa.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "murti godha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "saboota keessatti"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ni guutama"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "namoota du'aan"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "caccabsa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bal'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.013174198Z",
+  "model": "glm-5.3"
+}

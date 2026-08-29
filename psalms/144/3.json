@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Yahwe, maaliif namni akka ati beektu? Ilma nammaa akka ati herregguu?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "akka ati beektu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nammaa"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "akka ati herregguu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:09.607359278Z",
+  "model": "glm-5.3"
+}

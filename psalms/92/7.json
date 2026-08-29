@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Nama gargar baate hin beeku; sillalloonis waan kana hin hubattu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Nama"
+    },
+    {
+      "surface": "בער",
+      "gloss": "gargar baate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "sillalloonis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "hubattu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan kana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waan kana"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:10.048048202Z",
+  "model": "glm-5.3"
+}

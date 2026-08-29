@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Fa ati leenjii jibbisa, jechoota kiyya duwwaa keetti darbisita.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ati"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "jibbisa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "leenjii"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "darbisita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota kiyya"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "duwwaa keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:10.447572882Z",
+  "model": "glm-5.3"
+}

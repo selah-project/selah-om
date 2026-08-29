@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kan miilni koo bane, afaan koo rakkina koo keessatti dubbachuutti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "bane"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "miilni koo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dubbachuutti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan koo"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "rakkina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:44.518220930Z",
+  "model": "glm-5.3"
+}

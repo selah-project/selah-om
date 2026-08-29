@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Yahwe ⟨את⟩ Yoosef wajjin ture, kheesed isa irraatti baafatee, fayyadama isa abbaan bulchiinsa mana hidhaa ilaalcha keessatti isaaf kene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "baafatee"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa irraatti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kene"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "fayyadama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ilaalcha keessatti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "abbaan bulchiinsaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "hidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:39.040328908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Innis akkas jedhe: \"Hintalii, obboleessa koo, na hin tiisinaa; sababni isaas waan akkasaa biyya Israa'el keessatti hin hojjatamu; hoonga'aa kana ⟨את⟩ hin hojjedhu.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hintalii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleessa koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "tiisinaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjatamu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waan akkasaa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "biyya Israa'el keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoonga'aa kana"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "hoonga'aa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:52.648465983Z",
+  "model": "glm-5.3"
+}

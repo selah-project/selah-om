@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akka jecha isaa muta isaa keessatti Waaqayyo'n ‏‏\nhomaa dhoowwateera, fuula isaa dhokatee, yeroo hunda homaa argu jechaa jira.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jechaa jira"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "muta isaa keessatti"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "homaa dhoowwateera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Waaqayyo"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "dhokatee"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuula isaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "homaa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "argu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:09.425100896Z",
+  "model": "glm-5.3"
+}

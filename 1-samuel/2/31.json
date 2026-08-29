@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kunoo, guyyoonni dhufaa jiraniitu; fuula-lolaan kee ⟨את⟩ fi fuula-lola mana abbaa kee ⟨את⟩ rukutta, mana kee keessatti jaarsaan hin jiraatuuf.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoonni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dhufaa jiraniitu"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "fi rukutta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula-lolaan kee"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "fuula-lolaan kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "fuula-lola mana abbaa kee"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "fuula-lola"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "hin jiraatuuf"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "jaarsaan"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mana kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:44.113074396Z",
+  "model": "glm-5.3"
+}

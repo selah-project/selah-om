@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Faafa koo ni bobbaasu — Wantoonni sun waan siin zimreesuufi; Nafi koo, waan si bitaateef.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ni bobbaasu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "faafa koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zimreesuuf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siin"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "Nafi koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "sii bitaateef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:04.860902528Z",
+  "model": "glm-5.3"
+}

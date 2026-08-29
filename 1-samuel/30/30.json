@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Warra Chormaahitti turanifs, warra Bor-Ashanitti turanifs, warra Ataakitti turanifs.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "warra …turanifs"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Chormaahitti"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "warra …turanifs"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor-Ashanitti"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "warra …turanifs"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Ataakitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:35:39.174716781Z",
+  "model": "glm-5.3"
+}

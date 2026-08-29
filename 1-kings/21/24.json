@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kan Akkaabaatii magaalatti duutu sareen ni-nyaattifti; kan dirree irratti duutu simbirroon samii ni-nyaattifti.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kan duutu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Akkaabaatii"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalatti"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni-nyaattifti"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "sareen"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kan duutu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dirree irratti"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni-nyaattifti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "simbirroon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:37.402480503Z",
+  "model": "glm-5.3"
+}

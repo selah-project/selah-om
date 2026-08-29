@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "⟨את⟩ gabatee, ⟨את⟩ meeshaalee isaa hundaa, fi ⟨את⟩ maarata fuulaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabatee"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee isaa hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maarata fuulaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maarata"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "fuulaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:20.583032431Z",
+  "model": "glm-5.3"
+}

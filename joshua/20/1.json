@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yahween Yehooshuatti dubbate akka jedhuutti.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:57:06.090306783Z",
+  "model": "glm-5.3"
+}

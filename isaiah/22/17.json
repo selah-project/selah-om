@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Kunii, Yahwe si ni rukuta, rukuttaa gaaddissa; si ni hantuuta daddacha.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "si rukuta"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gaaddissa"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "fi si hantuuta"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "daddacha"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:50.056216604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Ka'i, Yahwe! Namni du'aan hin ciminaatin; sabni fuula kee irraa murtii hafu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ciminaatin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namni du'aan"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "murtii hafu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:02.230600490Z",
+  "model": "glm-5.3"
+}

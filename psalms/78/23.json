@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Akkasumas giddugaleessa ol gubbatti ajajee, balbala samiis banaa jire.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "giddugaleessa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ol gubbatti"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "banaa jire"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:56.041288676Z",
+  "model": "glm-5.3"
+}

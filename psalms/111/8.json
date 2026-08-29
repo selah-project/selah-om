@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Dhaabbatanii Yeroo hunda yoo ta'u, dhugaa fi qajeelummaadhaan hojjetame.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Dhaabbatanii"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "Yeroo hunda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yoo ta'u"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "hojjetame"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "fi qajeelummaadhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:52.378467133Z",
+  "model": "glm-5.3"
+}

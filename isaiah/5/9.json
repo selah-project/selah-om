@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Dhagaa kiyya keessatti Yahwe Sebaa'oot jedhe: «Dhugumatti manneen baay'een balleessummaa ta'u; gurguddoonni fi toonni, jiraatu hin qabne.»",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "dhagaa kiyya keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaa'oot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "balleessummaa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gurguddoonni"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "fi toonni"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jiraatu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:55.544063699Z",
+  "model": "glm-5.3"
+}

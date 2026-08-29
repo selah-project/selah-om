@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 37:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Gogoonni isaanii fi baqaarxeen isaanii ishee irraa ⟨turan⟩; hundi ishee hojii tokkoo callaa hojjatamee warqee qulqulluu ti.",
+  "tokens": [
+    {
+      "surface": "כפתריהם",
+      "gloss": "gogoonni isaanii"
+    },
+    {
+      "surface": "וקנתם",
+      "gloss": "baqaarxeen isaanii"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee irraa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨turan⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hundi ishee"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hojii tokkoo callaa hojjatamee"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:25:51.694407736Z",
+  "model": "glm-5.3"
+}

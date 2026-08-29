@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Kanaaf, Eloohiimoonni saboota hundaa falmoota ⟨dha⟩; Yahwe ammoo ⟨את⟩ samii uume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiimoonni"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "falmoota"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe ammoo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:25.680854585Z",
+  "model": "glm-5.3"
+}

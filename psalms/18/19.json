@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Guyyaa rakkina koo keessatti dura na ga'aniiru; Yahwe immoo deeggarsa naaf ta'eera.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "dura na ga'aniiru"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "rakkina koo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "deeggarsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:37.655894Z",
+  "model": "glm-5.3"
+}

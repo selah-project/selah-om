@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Halkaniifi guyyaa, guutuu guyyoota isaan wajjin taaneerraa hoola hoorsineerraa, nu irratti cidha turan.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "cidha"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "taaneerraa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "isaan wajjin"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hoorsineerraa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hoola"
+    }
+  ],
+  "timestamp": "2026-08-29T07:35:21.808136648Z",
+  "model": "glm-5.3"
+}

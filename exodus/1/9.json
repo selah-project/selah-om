@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaattiinis ummata isaatti jedhe: \"Iddhu, ummanni ilmaan Israa'el baay'ee dha, innis nutirra caalaa jabaadha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ittiin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iddhu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee dha"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "jabaadha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nutirra caalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:48.472693406Z",
+  "model": "glm-5.3"
+}

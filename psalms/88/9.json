@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Beekoo-keeyyuu na irraa fagaachoo jette; natti godhitee isaanitti daddarbaa taasifte; cufamee jira, hin baafadhu.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "fagaachoo jette"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "beekoo-keeyyuu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "natti godhitee"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "daddarbaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "cufamee jira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "baafadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.645418597Z",
+  "model": "glm-5.3"
+}

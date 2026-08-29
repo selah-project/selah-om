@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Akka jedhe Yahwe, Eloohiim Israa'el, si waa'ee, yaa Baruukh.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si waa'ee"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yaa Baruukh"
+    }
+  ],
+  "timestamp": "2026-08-29T09:54:29.339513995Z",
+  "model": "glm-5.3"
+}

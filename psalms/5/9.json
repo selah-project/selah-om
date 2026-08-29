@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yahwe, na qopheessi bikkeessummaa kee keessa, sababaa diinaan kiyyaa; karaa kee faana kiyya duraa sirrees si.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "na qopheessi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "bikkeessummaa kee keessa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "diinaan kiyyaa"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "sirrees si"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "faana kiyya duraa"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:19.869212027Z",
+  "model": "glm-5.3"
+}

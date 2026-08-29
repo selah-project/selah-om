@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Isaaniifis ⟨את⟩ Hebroni dachee Yahuudaa keessatti, akkasumas ⟨את⟩ margaalee ishee naannee ishee kennaniiru.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kennaniiru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniifis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebroni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachee…keessatti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "margaalee ishee"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "margaalee ishee"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "naannee ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:39:25.188106203Z",
+  "model": "glm-5.3"
+}

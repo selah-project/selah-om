@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Isaan akka balleessaman godhi, yaa Eloohiim; maree isaanii irraa haa kufan; dhoorkaa isaanii baay'inaan isaan balleessi; sababaa sii morman.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "isaan akka balleessaman godhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "haa kufan"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "maree isaanii irraa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'inaan"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "dhoorkaa isaanii"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "isaan balleessi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "morman"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:19.869604396Z",
+  "model": "glm-5.3"
+}

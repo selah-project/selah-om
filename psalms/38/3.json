@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Sababa isaasummoo, xiinxallonnii kee na keessatti bu'an, harki kees na irratti buute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa isaasummoo"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "xiinxallonnii kee"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "bu'an"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na keessatti"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "buute"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na irratti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harki kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:15.153302809Z",
+  "model": "glm-5.3"
+}

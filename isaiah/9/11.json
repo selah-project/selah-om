@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Araam duraatti fi Filistii duubatti; Israa'el afaan guutuudhaan ni bittinaasan. Kun hunda keessatti hubachiisa isaa hin deebine, harki isaa ammas orgoomfamaadha.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "duraatti"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "fi Filistii"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "duubatti"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ni bittinaasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuudhaan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebine"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hubachiisa isaa"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ammās"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harki isaa"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "orgoomfamaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:56:14.344630556Z",
+  "model": "glm-5.3"
+}

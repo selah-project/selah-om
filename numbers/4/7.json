@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Gabatee fuulduraa irrattis maraa buluukoo babalani; isa irratti ⟨את⟩ waan-nyaachisaa, ⟨את⟩ kofaawwan, ⟨את⟩ fincaawwan fi ⟨את⟩ dhonqoolee waan hutaman kaasani; dheebuun itti fufu isa irratti ta'a.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "babalani"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "maraa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluukoo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kaasani"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan-nyaachisaa"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "waan-nyaachisaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kofaawwan"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "kofaawwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fincaawwan"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "fincaawwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhonqoolee waan hutaman"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "dhonqoolee"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "waan hutaman"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "itti fufu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:50:19.585515016Z",
+  "model": "glm-5.3"
+}

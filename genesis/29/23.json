@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Galgala galgala keessatti Laabaan ilmoo isaa ti Le'aa fudhate, ishee gara isaa geessisees; innis ishee bira seene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galgala keessatti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Le'aa ilmoo isaa ti"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'aa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ilmoo isaa ti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "geessisees"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (gara isaa)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gara isaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "seene"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ishee bira"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:01.891048847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Eegasii eeguu waggeeffannoo koo qabaatu; yoo kabaja isaa diigu, badii isaa isaan irraa hin baafatanii, sababa kanaanis hin du'an, ani Yahwe, isaan qulqulleessuudha.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "eegasii eeguu qabaatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waggeeffannoo koo"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "waggeeffannoo koo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "baafatanii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kabaja isaa irratti"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "badii"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "hin du'an"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sababa kanaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "isa diigu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "isaan qulqulleessuudha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:23.759081106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ati, Yahwe, isaani eegda; kana Sanyii (generation) irraa isa eegda yeroo duuba.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "isaani eegda"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "isa eegda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "Sanyii kana"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo duuba"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:32.058263152Z",
+  "model": "glm-5.3"
+}

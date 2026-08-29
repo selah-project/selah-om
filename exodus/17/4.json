@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Mosheenis Yahwe gara fiige, \"Gara saba kanaaf maal hojjadha? Xiqqoo yoo dhihaate dhigaa na rukutanii ajjeesa\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "fiige"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hojjadha"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "saba kanaaf"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yoo dhihaate"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "dhigaa na rukutanii ajjeesa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:13.814044354Z",
+  "model": "glm-5.3"
+}

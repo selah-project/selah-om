@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Guyyootni namaa akka marga dha; akka dali dirree, akkasuma Innis danca'a.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "akka marga"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "guyyootni isaa"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "akka dali"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "danca'a"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:50.371266087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kan bulchiinsaaf; gabatee, faarfannaa. Eloohiimitti boollaa, lafti hundaa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kan bulchiinsaaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "boollaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimitti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:16.748590509Z",
+  "model": "glm-5.3"
+}

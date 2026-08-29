@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Abboon isaa tokko isaatti jedhe: Gooftaa koo mooticha, miti; Eeliisha'aa nabiichi Israa'eel keessaa jiru, jechoota ati mana foo'aa kee keessatti dubbattu ⟨את⟩ mooticha Israa'eeliitiif himaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Gooftaa koo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eeliisha'aa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiichi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'eel keessaa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "himaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootichaaf"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dubbattu"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "mana keessaa"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "foo'aa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:27:19.334539310Z",
+  "model": "glm-5.3"
+}

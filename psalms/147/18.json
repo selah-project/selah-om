@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Jecha isaa erga, inni isaan baasa'isa; haawaa isaa haawisa, bishaanon ni yaa'u.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "erga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Jecha isaa"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "inni isaan baasa'isa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "haawisa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "haawaa isaa"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ni yaa'u"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanon"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:15.760863734Z",
+  "model": "glm-5.3"
+}

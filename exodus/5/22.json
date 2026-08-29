@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Moshees Yahwe deebi'ee jedhe: \"Adoonaay, sababa maaliif ummata kana rakkisite? Maaliif kana natti ergite?\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshees"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sababa maaliif"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "rakkisite"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "natti ergite"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:53.223423768Z",
+  "model": "glm-5.3"
+}

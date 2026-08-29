@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Kun dhaggeessaa, isin mootummaa dheebuu barbaadan, sababa garaachaa hiikkaa dhabamtoota lafaa kan haqaniif.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhaggeessaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "mootummaa dheebuu barbaadan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "sababa haqaniif"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "dhabamtoota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "garaachaa lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:50:08.733970192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Akkasumas achii irraa ⟨את⟩ lafee Sha'uulii fi ⟨את⟩ lafee Yehoonaataan ilma isaa ol baase; lafee warra hangamanis qabatan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol baase"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achii irraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafee Sha'uulii"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafee Yehoonaataan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafee"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonaataan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "fi qabatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafee warra hangaman"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafee"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "warra hangaman"
+    }
+  ],
+  "timestamp": "2026-08-29T07:56:55.752939448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Lafeen kiyya sirraa hin dhokanne; yeroo anddara keessatti na uumteetti, jalooddii lafaa keessatti na miidhagessiteetti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "dhokanne"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Lafeen kiyya"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sirraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na uumteetti"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "anddara keessatti"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "na miidhagessiteetti"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "jalooddii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:53.623328924Z",
+  "model": "glm-5.3"
+}

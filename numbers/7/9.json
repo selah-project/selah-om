@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Warra Kehatiif immoo hin kennine, kakkasabaa hojii waan qulqullummaa isaan irratti; sooma baachisu.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "warra …-iif"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kakkasabaa"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "waan qulqullummaa"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "sooma"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "baachisu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:56.185972202Z",
+  "model": "glm-5.3"
+}

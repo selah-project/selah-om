@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Isaan keessaa — shallaggii (hojjeta) mana Yahwe irratti hogganuuf: kuma shan afur (24,000); ajajamtootaa fi murtiiftotaattis kuma jaha (6,000).",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Isaan keessaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hogganuuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "shallaggii (hojjeta)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kuma shan afur"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "(24,000)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ajajamtootaa"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "murtiiftotaattis"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "kuma jaha"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(6,000)"
+    }
+  ],
+  "timestamp": "2026-08-29T13:42:54.043551282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Nyaata mi'aawaa isaa hin barbaadin; kunis nyaata sobaati.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "barbaadin"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "nyaata mi'aawaa isaa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nyaata"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "sobaati"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:30.100556185Z",
+  "model": "glm-5.3"
+}

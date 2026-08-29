@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Bulchiinsaaf; mizmoori Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiinsaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:16.374235364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sarara gadii manaicha mara irratti iya gadii hunde; olka'iinsaan cuunfaa shan; mukoon seddarii isa manaicha waliin qabate.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "hunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarara gadii"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "sarara gadii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mara"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaicha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cuunfaa"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "olka'iinsaan"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "qabate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaicha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaicha"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mukoon"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seddarii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:12.582065538Z",
+  "model": "glm-5.3"
+}

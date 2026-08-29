@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Biyya marga marga keessaa na hoo'isa; bishaan nagaa irratti na qajeelcha.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "biyya marga (naannoo margaa)"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "marga marga"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "na hoo'isa (na dhaabbacha)"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "nagaa (itti boqonnaa)"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "na qajeelcha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:35.570542672Z",
+  "model": "glm-5.3"
+}

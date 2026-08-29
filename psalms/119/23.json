@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Bulchitootnis numatti teessanii, ana ko'ani haasofani turan; gabbara kee immoo seera kee keessatti xiinxala.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nis"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "teessanii"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "bulchitootni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "numatti"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "haasofani turan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara kee"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "xiinxala"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "seera kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:00.570121498Z",
+  "model": "glm-5.3"
+}

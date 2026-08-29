@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Hojjettotni baay'een boqqoo koo balleessan; dachii koo ⟨את⟩ dhumeesan; dachii jaalala koo gammaddii balleessaatti gatan.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "hojjettotni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "boqqoo koo"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "dhumeesan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dachii koo"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "dachii koo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dachii koo jaalala koo"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "jaalala koo"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "gammaddiitti"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "balleessaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:07.626770336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Waaqota qalbii biratti hin jaabadan; waaqota biqixaa ofii keessanii hin hojjadhaa; ani dha Yahwe Eloohiim keessan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "jaabadan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "waaqota qalbii"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "waaqota"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "biqixaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjadhaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ofii keessanii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:58.179095124Z",
+  "model": "glm-5.3"
+}

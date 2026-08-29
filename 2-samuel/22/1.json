@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Daawid Yahween ⟨את⟩ jechoota gososaa kanaa dubbate, guyyaa Yahwe inni ⟨את⟩ isa hafe balaa diinaa isaa hundumaarraa fi hafe She'uul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "gososaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaarraa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "fi hafe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'uul"
+    }
+  ],
+  "timestamp": "2026-08-29T07:56:00.116958024Z",
+  "model": "glm-5.3"
+}

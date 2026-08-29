@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Faana hiriinaa lubbuu isaa irratti ni arga, ni guutamas; beekumsa isaatiin eedduu kiyya qabatamu baraa warra baay'eef taasise; badiiwwan isaaniis inni mataan isaa baata.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "faana hiriinaa irratti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ni arga"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ni guutama"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "beekumsa isaatiin"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "baraa taasise"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qabatamu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "eedduu kiyya"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "warra baay'eef"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "badiiwwan isaaniis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni mataan isaa"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "baata"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:16.185410744Z",
+  "model": "glm-5.3"
+}

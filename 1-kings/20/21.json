@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Mootichi Yisra'el bahe, ⟨את⟩ fardee fi ⟨את⟩ gabatee (rekeb) miidhe, Araamis miidhaa guddaan miidhe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "miidhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fardee"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "fardee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabatee (rekeb)"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "miidhe"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:22.705133534Z",
+  "model": "glm-5.3"
+}

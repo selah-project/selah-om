@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Sababiin ana dheebanaa fi hiyyeessa dha, onneen koo keessatti miidhaa'aa dha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dheebanaa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi hiyyeessa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "fi onneen koo"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "miidhaa'aa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:03.079770008Z",
+  "model": "glm-5.3"
+}

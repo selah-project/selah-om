@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yoo gogaa irratti bal'inaan babal'ate, kahiiniin isaa ⟨את⟩ najiisaa ta'e ajaja; dhibeen dha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "babal'achuu"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "bal'inaan babal'ate"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "gogaa irratti"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "najiisaa ta'e ajaja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahiiniin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dhibeen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:51.018497248Z",
+  "model": "glm-5.3"
+}

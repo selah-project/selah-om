@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Nagasummaan lubbuu koo kaasee natti dhihaate irraa bilise; sababiin waldorgomtoonni baay'een natti turan.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "kaasee"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "Nagasummaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "natti dhihaate irraa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "natti (waliin)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:32.274781806Z",
+  "model": "glm-5.3"
+}

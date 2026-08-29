@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Warri Gibee'on jiraatan, Yehooshu'aan ⟨את⟩ waan Yeriichoofi Ayiitiif godhe dhageeffatan.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "warri jiraatan"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibee'on"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageeffatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan godhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshu'aa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yeriichoofi"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "Ayiitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:47:04.992601614Z",
+  "model": "glm-5.3"
+}

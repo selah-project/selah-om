@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Yaaqobi ilman isaa waame; jedhe, \"Walitti koowaa; waan bara boodaa dhumatti ⟨את⟩ isin qunnamsiisu isin himadha.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilman isaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "walitti koowaa"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "isin himadha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "qunnamsiisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "dhumatti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "baroota"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:25.174624521Z",
+  "model": "glm-5.3"
+}

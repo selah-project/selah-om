@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Akkasumas ⟨את⟩ wantoota mi'aawoo fi ⟨את⟩ dhibbaa isa isheen hojjettu harka Ya'aqoob ilmaa ishee irratti kenne.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Akkasumas kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wantoota mi'aawoo"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "wantoota mi'aawoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dhibbaa"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "dhibbaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "isheen hojjettu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ilmaa ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:32.396269882Z",
+  "model": "glm-5.3"
+}

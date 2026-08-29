@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Ammas Tofeet waan Giddugala Ilmootaa Hinoom keessa jiru ni daake, akka namni kamiyyuu ⟨את⟩ ilmoo isaa fi ⟨את⟩ immoo isaa ibiddaan Molok irratti hin darbisuuf.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ni daake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofeet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofeet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan...jiru"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "Giddugala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmootaa"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinoom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akka...hin...uuf"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "darbisuuf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni kamiyyuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo isaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "immoo isaa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "immoo isaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molok irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:41:10.741131020Z",
+  "model": "glm-5.3"
+}

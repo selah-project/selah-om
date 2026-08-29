@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Kanaafuu, kuma waggaa isla keessatti akka guyyaa isa darbee — yeroo dabru — fi akka eeganna halkanitti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "isla keessatti"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "isa darbee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "dabru"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "eeganna"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:32.791676797Z",
+  "model": "glm-5.3"
+}

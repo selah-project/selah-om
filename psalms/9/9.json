@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Innis addunyaa qabuu keessatti murti godha; ummatoota sirna qabeen murti kenna.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "murti godha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "qabuu keessatti"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "murti kenna"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ummatoota"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sirna qabeen"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:11.195925964Z",
+  "model": "glm-5.3"
+}

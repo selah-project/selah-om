@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Qofa Eloohiimiif lubbuun koon hacuucii malee haa jiraattu; Inni irraa badhaasni koo ti.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Qofa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloohiimiif"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "hacuucii malee haa jiraattu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koon"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Inni irraa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "badhaasni koo ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:40.439975956Z",
+  "model": "glm-5.3"
+}

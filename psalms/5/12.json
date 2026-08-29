@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Kanoota sitti hirkatan hundinuu haa gammadhan; yeroo hunda haawwisan; ati isaani haa dachaattu; maqaa kee jaalachtan isa keessatti haa boonatan.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "haa gammadhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "kanoota sitti hirkatan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sitti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "haawwisan"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "haa dachaattu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "isaani irratti"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "haa boonatan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "isa keessatti"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "jaalachtan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:19.869746905Z",
+  "model": "glm-5.3"
+}

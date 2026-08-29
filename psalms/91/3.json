@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Kunuu inni si qabsiistuu faaltii irraa fi daardara balleessaa irraa nan-dhiyeessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "si nan-dhiyeessa"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "faaltii irraa"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "qabsiistuu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "daardara irraa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "balleessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:06.663342190Z",
+  "model": "glm-5.3"
+}

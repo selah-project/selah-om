@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Innis mala sheegota kuma sadii dubbachiise; lakkoofsi shaanuu isaa kuma shan fi dhibba shan ture.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbachiise"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mala sheegota"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "shaanuu isaa lakkoofsi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "kuma shan fi dhibba shan"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "fi kuma tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:56.868495145Z",
+  "model": "glm-5.3"
+}

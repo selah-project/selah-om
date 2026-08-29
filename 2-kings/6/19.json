@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Eeliishaan isaan jedhe: Kun karaan miti, kunis magaalaa miti; Ana hordofaa, ani ⟨אתכם⟩ isaan nama sana biraa isin geessa barbaaddaniif. Isaan gara Shomeroon geesse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eeliishaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "karaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kunis ... miti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hordofaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "isin geessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara ... biraa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nama sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "... -iif"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "barbaaddaniif"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gesse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:27:08.149489302Z",
+  "model": "glm-5.3"
+}

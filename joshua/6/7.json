@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ummattatti immoo akkas jedhan: \"Darbaa, magaalaa ⟨את⟩ naanneessaa; warri qopheessan sanduuqa Yahwe duraa darbu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "akkas jedhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummattatti"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "darbaa"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "naanneessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "warri qopheessan"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:37.771388814Z",
+  "model": "glm-5.3"
+}

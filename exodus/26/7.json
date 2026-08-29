@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Fi birda'oota reettii Mishkanicha irra jiruuf dasoo tolfedha; kurnayii tokko birda'oota ⟨את⟩ isaan tolfedha.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "fi tolfedha"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "birda'oota"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "reettii"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "dasoo ... -uuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanicha"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "kurnayii tokko(jeen)}"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kurnayii tokko"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "birda'oota"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tolfedha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (birda'oota)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:38.727558467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Deebii ilmaan Israa'iel ⟨את⟩ Midyaanota irraa raawwadhaa; sana booda ummata kee waliin qabamta.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "deebii raawwadhaa"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyaanota irraa"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyaanota"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sana booda"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "qabamta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "ummata kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:10:47.765535640Z",
+  "model": "glm-5.3"
+}

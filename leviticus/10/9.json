@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Dhiigee fi dheebuu hin dhugaa — ati fi ilmoon kee waliin ⟨את⟩ — yeroo mana walga'aa seenattan, akka hin du'aniif; kun seera yeroo hundaaf dha, dhaaltoota kee illee.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "dhiigee"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "fi dheebuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "fi ilmoon kee"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "waliin ⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "yeroo seenattan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "seenuu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'aa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akka hin"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "du'aniif"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "dhaaltoota kee illee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:40.004136137Z",
+  "model": "glm-5.3"
+}

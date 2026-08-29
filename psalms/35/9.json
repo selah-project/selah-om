@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Nafseen kiyyoos Yahwe keessatti ni hawwatti; gargaarsa Isaatti ni gammaddi.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "nafseen kiyyoos"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ni hawwatti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe keessatti"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ni gammaddi"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "gargaarsa Isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:26.548878273Z",
+  "model": "glm-5.3"
+}

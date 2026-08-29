@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Gabroota fardaa irratti argadhe, saroonni immoo akka gabroota lafa irratti deeman.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "fardaa"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "saroonni"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "akka gabroota"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:18.057379074Z",
+  "model": "glm-5.3"
+}

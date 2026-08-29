@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ramicha ajjeesi;ini ⟨את⟩ du'a isaa fudhadha, altarii irratti naannawaan dhiigsi.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ajjeesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramicha"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ramicha"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'a isaa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "du'a isaa"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "dhiigsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:00.655804111Z",
+  "model": "glm-5.3"
+}

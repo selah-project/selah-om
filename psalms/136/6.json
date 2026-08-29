@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Kan dachii bishaan irratti baballise: kiyaa Ol kheesedi isaa ti.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Kan baballise"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiyaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "Ol"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedi isaa ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.493826890Z",
+  "model": "glm-5.3"
+}

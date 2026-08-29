@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Wantoota du'anii yookiin wantoota raidamaniis hin nyaatu, kanaanis of hin makkitu; ani Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "wantoota du'anii"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "wantoota raidamaniis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaatu"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "of hin makkitu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kanaanis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:53.413071028Z",
+  "model": "glm-5.3"
+}

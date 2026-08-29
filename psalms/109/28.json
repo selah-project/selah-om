@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Isaan arrabsuu qabu; atis eebbissa. Ka'u — isaatu dirqama — walitti hundeeffachuutti saaxilamu, kan garuu gabbaraan kee kan gamaddala.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "arrabsuu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "eebissa"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "Ka'u"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "saaxilamu"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "gabbaraan kee"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gamaddala"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:03.890561282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Kanaafuu ⟨את⟩ Yahwe Eloohiim kee jaaladhu; kakaansa isaa eegi, akkasumas seerota isaatiif, murannoo isaatiif, ajajawwan isaatiif guyyoota hunda.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Kanaafuu jaaladhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "kakaansa isaa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "seerota isaatiif"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "murannoo isaatiif"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ajajawwan isaatiif"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:30.596025115Z",
+  "model": "glm-5.3"
+}

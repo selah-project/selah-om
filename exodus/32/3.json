@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Sabaanni hundi margaa warra gurra isaaniitti faghate ⟨את⟩ haadhaniituu Aharoondhuunfataniiru.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "haadhaniituu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Sabaanni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "margaa warra"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "margaa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "gurra isaaniitti"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dhuunfataniiru"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:30.309305255Z",
+  "model": "glm-5.3"
+}

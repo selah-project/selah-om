@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Faarfaman warra ragaa Isaa eegan, onnee hundaan Isaa barbaadan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Faarfaman"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "eegan"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ragaa Isaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "Isaa barbaadan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:04.730046317Z",
+  "model": "glm-5.3"
+}

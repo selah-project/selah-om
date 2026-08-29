@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Namni dogoggoraan ⟨waa'ee⟩ arga, dhiphata; ilkaan isaa cirrisa, dhiifata; kaka'umsi warra dogoggoraa bada.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "namni dogoggoraan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arga"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "dhiphata"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ilkaan isaa"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "cirrisa"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "dhiifata"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kaka'umsi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra dogoggoraa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bada"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:12.235712419Z",
+  "model": "glm-5.3"
+}

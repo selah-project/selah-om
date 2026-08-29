@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Kabajaa ⟨את⟩ abbaa kee fi ⟨את⟩ haadha kee, akka guyyaan kee lafa Yahwe Eloohiim siif kennu irratti dheeratan.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kabajaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa kee"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haadha kee"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha kee"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "dheeratan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "guyyaan kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": " kennu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:08:02.161064922Z",
+  "model": "glm-5.3"
+}

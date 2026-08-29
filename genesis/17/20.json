@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yishmaae'elfiin immoo si dhagayeera: kunoo, ⟨את⟩ isa eebbiseera, ⟨את⟩ isa baay'iseera, ⟨את⟩ isa baay'ee baay'ee baay'iseera; mootummaa-dureeyyii kudhan-lama horata; sabaa guddaa isa taasa.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Yishmaae'elfiin immoo"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "si dhagayeera"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "eebbiseera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa",
+      "marks": "isa"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "baay'iseera (horachuu)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa",
+      "marks": "isa"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "baay'iseera (dabaladhe)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa",
+      "marks": "isa"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee baay'ee"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama (kudhan-)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "mootummaa-dureeyyii"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "horata"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "isa taasa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:50.843319540Z",
+  "model": "glm-5.3"
+}

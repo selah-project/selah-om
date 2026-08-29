@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jechi Yahwe harka Haggaayi raajaa ttiin akka jedhu dhufe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Haggaayi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "raajaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:10.522233431Z",
+  "model": "glm-5.3"
+}

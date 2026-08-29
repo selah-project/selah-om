@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 67,
+  "translation": "Saboonni si galmeessan, Eloohiimyoo; saboonni hundinuu si galmeessan.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "si galmeessan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Saboonni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimyoo"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "si galmeessan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hundinuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:48.241588582Z",
+  "model": "glm-5.3"
+}

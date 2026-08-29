@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Yaalas harka Isaa isaaniif ol kaase, ⟨את⟩ bi-gammaddii akka kufuuf.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ol kaase"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "kufuuf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bi-gammaddii"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bi-gammaddii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:57.024159675Z",
+  "model": "glm-5.3"
+}

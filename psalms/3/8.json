@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ka', Yahwe! Na haa baraar,Eloohiim kiyya; sababa waan ⟨את⟩ diinaan kiyya hundaakkoo murtii, faayyaa mootummaa wicked please foddii cabsiteetta waan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ka'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Na haa baraar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa waan"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diinaan kiyya hundaakkoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaakkoo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinaan kiyya"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "שני",
+      "gloss": "foddii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mootummaa wicked please"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "cabsiteetta waan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:47.177579498Z",
+  "model": "glm-5.3"
+}

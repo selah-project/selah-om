@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yaaqobbiinis jedhe: \"Har'as ⟨את⟩ ikka baaburaa kee na gurgur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqobbiinis"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "gurgur"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "Har'as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikka baaburaa kee"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ikka baaburaa kee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:05.706430417Z",
+  "model": "glm-5.3"
+}

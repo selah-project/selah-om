@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Dogoggoroota irratti saaphana, ibidda fi salfara ni roobsisa; haawaa gubduu qooda finjalii isaanii taate.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "ni roobsisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggoroota"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "saaphana"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "salfara"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "haawaa"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "gubduu"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "finjalii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:29.886895719Z",
+  "model": "glm-5.3"
+}

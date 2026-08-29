@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Cimina fi kabaja hojii isaa ti; kakaan-qajeelaa isaa yeroo hunda dhaabbata.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "cimina"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "fi kabaja"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hojii isaa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "fi kakaan-qajeelaa isaa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.993167585Z",
+  "model": "glm-5.3"
+}

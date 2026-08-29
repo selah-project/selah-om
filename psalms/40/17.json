@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Warra si barbaadan hundi jaangooruun si keessatti gammadu; kan faldeetta kee jaalatu yeroo hunda \"Yahwe ni guddatu\" jedhu.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "jaangooruun"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "gammadu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "warra si barbaadan"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ni guddatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "kan jaalatu"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "faldeetta kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:05.496878820Z",
+  "model": "glm-5.3"
+}

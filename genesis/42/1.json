@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Ya'aqob akka xaafaan Mitsraayim keessatti jiru arguudhaan, Ya'aqobis ilmaan isaaf jedhe: \"Maalif wal-ilaalaa?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arguudhaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "xaafaa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobis"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ilmaan isaaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maalif"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "wal-ilaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:54.662145971Z",
+  "model": "glm-5.3"
+}

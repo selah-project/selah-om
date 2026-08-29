@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yeroon lafattii ⟨את⟩ waammetu, humna ishee sii kennu hin dabalatu; lafa irratti daawwaa fi utaalchaa taata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "waammetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafattii"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafattii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "dabalatu"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "humna ishee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "נע",
+      "gloss": "daawwaa"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "fi utaalchaa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:21.254677838Z",
+  "model": "glm-5.3"
+}

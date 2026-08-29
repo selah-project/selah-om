@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Hin beekan, hin hubatanis; dukkana keessa deeman; hundeefoonni ⟨the⟩ lafaa hunda ni sochooftu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin...is"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hubatan"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "dukkana keessa"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ni sochooftu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "hundeefoonni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:00.971369734Z",
+  "model": "glm-5.3"
+}

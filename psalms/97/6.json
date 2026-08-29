@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Samoonni righteousness isaa mul'isan; ummootni hunduu kabaja isaa arganiiru.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "mul'isan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samoonni"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "righteousness isaa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "arganiiru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ummootni"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kabaja isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:43.428465197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ani immoo kheesed kee irratti amanadha; onnee kiyya keessa-meecha kee irratti ni gammadadha. Yahweefin ni laala, waan inni ana waliin tolcheef.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ani immoo"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "kheesed kee irratti"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "amanadha"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ni gammadadha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "keessa-meecha kee irratti"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ni laala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan … -eef"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "tolche"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:17.455179667Z",
+  "model": "glm-5.3"
+}

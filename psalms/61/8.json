@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Eloohiim fuulduratti yeroo hundaaf haa taa'u; kheesed fi dhugaa qindaa'i — isaan haa eeguu.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "haa taa'u"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "fi dhugaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "qindaa'i"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "isa haa eeguu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:39.083304357Z",
+  "model": "glm-5.3"
+}

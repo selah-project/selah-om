@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Belaan biyya keessatti ta'e; Avrahaamis jiraachuuf gara Mitsraayim gadi bu'e, sababiin beelaan biyya keessatis ulfaate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "belaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "gadi bu'e"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahaamis"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "gara Mitsraayim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "jiraachuuf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "itti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ulfaate"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "beelaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatis"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:01.078031951Z",
+  "model": "glm-5.3"
+}

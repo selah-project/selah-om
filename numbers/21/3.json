@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yahweis gara Yisraa'el dhageessees Kenaanota harka isaaniiatti kennees; isaanis magaaloota isaanii waliin ḥerem godhe; bakas 'Chormah' jedhamee moggaafame.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageessees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweis"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kennees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanota"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanota"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ḥerem godhes"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magaaloota isaanii"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "magaaloota isaanii waliin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "moggaafames"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakas"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "'Chormah'"
+    }
+  ],
+  "timestamp": "2026-08-29T06:04:01.840208823Z",
+  "model": "glm-5.3"
+}

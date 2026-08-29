@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Fi meʼicha keessaa dhiigaa shaashaannessaa hojjetan — hojii meeshaa — Aharooniifi ilmaan isaa anni.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjetanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigaa shaashaannesaa"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "dhiigaa shaashaannesaa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shaashaannee"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "meeshaa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "fi ilmaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:32.327876110Z",
+  "model": "glm-5.3"
+}

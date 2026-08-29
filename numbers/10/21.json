@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kehaatootiin yaalan, baatota waan qulqullummaa; Mooxaawaa ⟨את⟩ akka isaani hin dhufinii dura dhaabbisan.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "yaalan"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehaatootiin"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "baatota"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "waan qulqullummaa"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "dhaabbisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mooxaawaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mooxaawaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dura"
+    },
+    {
+      "surface": "באם",
+      "gloss": "isaani hin dhufinii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:49.702987327Z",
+  "model": "glm-5.3"
+}

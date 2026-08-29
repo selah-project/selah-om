@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Nafa kiyyoo, gara boqonnaa keetti deebi'; sababiin isaas Yahwe siif tola guddaa hojjedheera.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "deebi'"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafa kiyyoo"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "gara boqonnaa keetti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "tola guddaa hojjedheera"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:01.470062602Z",
+  "model": "glm-5.3"
+}

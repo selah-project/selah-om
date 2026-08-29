@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kun kan miidhaa waamute; Yahwe dhagaye, rakko isaa hunda irraas isa barbaachise.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kan miidhaa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamute"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "hunda irraas"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "rakko isaa"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "isa barbaachise"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:14.582823214Z",
+  "model": "glm-5.3"
+}

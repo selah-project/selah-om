@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Geejjibaaaf; \"Hin balleessiin\"; miktaam Daawitiif, yeroo Sha'uliin facaafii baraaffiisee holqa keessatti.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geejjibaaaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "balleessiin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawitiif"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktaam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "yeroo baraachi'eetti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "duucha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "holqa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:55.135385679Z",
+  "model": "glm-5.3"
+}

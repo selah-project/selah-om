@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 10:8",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo sana isaan ⟨את⟩ ilmaan Israa'elaa rukutanii dhiphisani; waggaa kudhanii saddeet ⟨את⟩ ilmaan Israa'elaa hunda — kan Yarduun darbee, biyya Amorootaa keessaa Gileedi keessa jiru — dhiphisani.",
+  "tokens": [
+    {
+      "surface": "וירעצו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "וירצצו",
+      "gloss": "dhiphisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'elaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elaa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhanii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "darbee"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gileedi"
+    }
+  ],
+  "timestamp": "2026-08-29T07:05:58.087890881Z",
+  "model": "glm-5.3"
+}

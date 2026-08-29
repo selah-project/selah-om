@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Abbaan-beekaa kan Dibame dheeda gafarsaa ergee gabaa walitti-qunnamsiisaatti fida",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "fida"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abbaan-beekaa"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "kan Dibame"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dheeda"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "gafarsaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ergee"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "gabaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walitti-qunnamsiisaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:34.531897930Z",
+  "model": "glm-5.3"
+}

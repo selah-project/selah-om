@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ijitti She'aaq abbaa Madmannaa, ⟨את⟩ Shevaa abbaa Makbeenaa fi abbaa Giv'aa dhalatte; Aksa immoo inteenta Kaaleeb ti.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "She'aaq"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmannaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shevaa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Shevaa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makbeenaa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "fi abbaa"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Giv'aa"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "fi inteenti"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaaleeb"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:36.165485993Z",
+  "model": "glm-5.3"
+}

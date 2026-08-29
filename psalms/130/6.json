@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Lubbuun koo Adoonaay caalatti barsiisota ganama eeganiitu eegu — barsiisotu ganama eega, ganama eega.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "caalatti barsiisota ganama eeganiitu"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "barsiisotu"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ganama eega, ganama eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:09.834582893Z",
+  "model": "glm-5.3"
+}

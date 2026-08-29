@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Loocha lamaanuu harka lamaan kiyya irraa fageensee isa cabsuudhaaf isa qabadde, gara gambii ttursiise, ija keessanitti isa cabsuudhaaf.",
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "qabadde"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "lamaanuu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "loocha"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "fageensee"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lamaanuu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka kiyya"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "isa cabsuudhaaf"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ija keessanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:19:48.186881474Z",
+  "model": "glm-5.3"
+}

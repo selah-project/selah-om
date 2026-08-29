@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kan Daawid, yeroo amala isaa Abiimelek duratti jijjiiru; innis ni baafte, isas deeme.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "yeroo amala isaa jijjiiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amala isaa"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "amala isaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "innis ni baafte"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "isas deeme"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:27.017226608Z",
+  "model": "glm-5.3"
+}

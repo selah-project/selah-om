@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hangaawaa isaa ⟨את⟩ Yahweef ni fida — gafursa guutuu horda hoolaa irraa, akka madaallii keetti, hangaawuuf, gara kaayimichaatti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hangaawaa isaa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "hangaawaa isaa"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ni fida"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "איל",
+      "gloss": "gafursa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "horda hoolaa"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "akka madaallii keetti"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "hangaawuuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaayimichaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:00.776346893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Dargaggoota isaa ibiddi nyaate, dubartoota dukanaanoota isaa immoo hin sifatamne.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "dargaggoota isaa"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "nyaate"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "dubartoota dukanaanoota isaa immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "sifatamne"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:26.631760923Z",
+  "model": "glm-5.3"
+}

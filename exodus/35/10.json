@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Fi wanta onnee beekaa keessan hundi, nagaanaa, waan Yahwe ajajetti waan hundee ⟨את⟩ hojjadhaa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "beekaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "keessan"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "nagaanaa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "fi hojjadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hundee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hundee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:45.527522388Z",
+  "model": "glm-5.3"
+}

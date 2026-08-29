@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe Eloohiimis barra Edeniitti godina dhaate, achisis namicha uume ⟨את⟩ ⟨isaa⟩ bakka dhaate jala kaafe.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "dhaate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "godina"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Edeniitti"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "barra"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namicha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "uume"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:07.120921786Z",
+  "model": "glm-5.3"
+}

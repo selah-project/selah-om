@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 38:26",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Isaanitti akkana jedhita: 'Kadhannaa koo mooticha dura kaa'eera; mana Yehoonaataanii deebisuu akka na hin deebisneef, achuma du'uuf na hin deebisin jedheera.'",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jedhita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "kaa'eera"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "kadhannaa koo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": " akka hin deebisneef"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "na deebisu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonaataan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uuf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achuma"
+    }
+  ],
+  "timestamp": "2026-08-29T09:49:45.928875709Z",
+  "model": "glm-5.3"
+}

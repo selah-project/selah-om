@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Jecha ⟨את⟩ dhuma kan ani isin ajaju, ⟨אתו⟩ isin eegasaa, hojjachuuf; isa irratti hin dabalinaa, isaa irraas hin hir'inaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha dhuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ajaju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jecha"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eegasaa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "dabalinaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "hir'inaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:36:20.748539986Z",
+  "model": "glm-5.3"
+}

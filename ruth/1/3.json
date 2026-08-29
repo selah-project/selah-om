@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eliimeelek, diida No'oomi, du'e; isheen fi ilmaan ishee lamaan hafe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Eliimeelek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "diida"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "No'oomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lamaan"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ilmaan ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:40:28.491360715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Mootonni Yihuudaa akka daangaa dhiiraniitti ta'an; isaan irratti akka bishaanii bishaan chiyyaa koo baafadha.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "akka dhiiraniitti"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "akka bishaanii"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "chiyyaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:18.160859939Z",
+  "model": "glm-5.3"
+}

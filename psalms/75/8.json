@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Sababa Eloohiim ni murti; kana ni gadi buusa, kana immoo ni ol qaaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ni murti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ni gadi buusa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kana immoo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ni ol qaaba"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.557922911Z",
+  "model": "glm-5.3"
+}

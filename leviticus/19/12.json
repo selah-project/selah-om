@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Akka maqaa koo hin moggaasinaa, (akkasumas) (akkasumas) (akkasumas) — Maqaa Eloohiim koo maqaa koo hin moggaasinaa; maqaa Eloohiim kee hin moggaasinaa — Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kakuu gootinaa hin"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "maqaa koo"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "sodhaa (kakuu sobaa)"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "akkasumas (isaas) ni saddessitu qulqullummaa isaa irraa buqqisitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:17.624441400Z",
+  "model": "glm-5.3"
+}

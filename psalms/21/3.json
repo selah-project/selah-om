@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Hawwii onnee isaa isaas kenniteef; waan ijuun isaa kadhes hin dhorkanne. Seelaa.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Hawwii"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "kenniteef"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaas"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "waan... kadhes"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ijuun isaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin (gonkumaa miti)"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "dhorkanne"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:43.185192332Z",
+  "model": "glm-5.3"
+}

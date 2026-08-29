@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Gatiin fidii nafaa isaanii qaala'aa dha, fi yeroo hundaaf dhaabbachuu dhaabe.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "qaala'aa dha"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "fidii"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafaa isaanii"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "dhaabbachuu dhaabe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hundaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:57.657021373Z",
+  "model": "glm-5.3"
+}

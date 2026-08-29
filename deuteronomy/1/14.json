@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaanis ani deebii ⟨את⟩ siif kennaniitiin je'attan: waan ati dubbattu gaarii ta'ee hojjachuuf jedhe.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "deebii je'attan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ani (siif kennaniitiin)"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "je'attanii"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan...jedhu"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ati dubbattu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:50.476542045Z",
+  "model": "glm-5.3"
+}

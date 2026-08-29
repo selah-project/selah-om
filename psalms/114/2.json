@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 114,
+  "translation": "Yahuudaa qulqullummaa Isaa ta'e, Yisra'el bullaa Isaa ta'e.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ta-e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "qulqullummaa Isaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "bullaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:23.517657274Z",
+  "model": "glm-5.3"
+}

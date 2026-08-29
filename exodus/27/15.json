@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Akkaataa koo, ceena lammaffaa irratti faaruuwwan dheerina kurnee-shan qabaatu; si'aarri isaanii sadii, hundee isaanii sadii.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "akkaataa koo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ceena lammaffaa irratti"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kurnee-"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "faaruuwwan"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "si'aarri isaanii"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "hundee isaanii"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:39.145599928Z",
+  "model": "glm-5.3"
+}

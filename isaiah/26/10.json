@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Himaatamni raawwaatiif kennames, sirrummaa hin baratu; dachii sirrummaa keessatti dogoggora, gimamaa kan Yahwe hin argatu.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "himaatamni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raawwaatiif"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "למד",
+      "gloss": "baratu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sirrummaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "sirrummaa keessatti"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "argatu"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "gimamaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:43.925319700Z",
+  "model": "glm-5.3"
+}

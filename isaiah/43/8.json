@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Saba dheengaa yoo qabaatu ija qabu baasi; dheengootas gurra qabu baasi.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "baasi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dheengaa"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ija"
+    },
+    {
+      "surface": "יש",
+      "gloss": "qabu"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "dheengootas"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "למו",
+      "gloss": "qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:13.573806774Z",
+  "model": "glm-5.3"
+}

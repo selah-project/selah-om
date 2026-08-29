@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 26:42",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Kunniin ilmaan Daan, akka maatiwwanii ti: Sheexaamiin, maati sheexaamawwan; kunniin maatiwwan Daan, akka maatiwwanii ti.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunniin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Daan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "akka maatiwwanii"
+    },
+    {
+      "surface": "לשוחם",
+      "gloss": "Sheexaamiin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maati"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "sheexaamawwan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kunniin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatiwwan"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Daan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "akka maatiwwanii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:07:39.919113822Z",
+  "model": "glm-5.3"
+}

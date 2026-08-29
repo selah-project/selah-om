@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Yihuudaanis Onaaniin jedhe: 'Bira obboleessa keetti darbi; Yibbum sheerradhu, hafuura obboleessa keetti haa kaafamu.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onaaniin"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "darbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "agaana"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "Yibbum sheerradhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "agaana obboleessa kee"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "haa kaafamu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hafuura"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "obboleessa kee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:25.966581852Z",
+  "model": "glm-5.3"
+}

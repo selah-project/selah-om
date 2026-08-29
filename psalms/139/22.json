@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Raawwinni jibbummaatiin nan jibbe; diinotaaf ta'anii natti.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "raawwinni"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "jibbummaa"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nan jibbe"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "diinotaaf"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'anii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:47.240564990Z",
+  "model": "glm-5.3"
+}

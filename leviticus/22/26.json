@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yahween Mosheetti dubbate akka jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:02.731237651Z",
+  "model": "glm-5.3"
+}

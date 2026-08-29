@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Akkuma ana dubbachaa jedhe, ruuhun sii kessaan seetti, akkasumas jaloota koo irratti na dhaabbachte; aniis ⟨את⟩ kan na wajjin dubbatu tessenche.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "seetti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sii kessaan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbachaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "na dhaabbachte"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jaloota koo"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "aniis tessenche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan na wajjin dubbatu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kan dubbatu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:01:32.711913254Z",
+  "model": "glm-5.3"
+}

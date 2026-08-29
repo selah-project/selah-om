@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ad'eessa, guyyaan fi ifti, ji'a fi urjiiwwan hin duskamanii, gammoojjis rooba booda hin deebiini.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ad'eessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "duskamanii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "guyyaan"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ifti"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "urjiiwwan"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "hin deebiini"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "gammoojjis"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "rooba"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:57.450036668Z",
+  "model": "glm-5.3"
+}

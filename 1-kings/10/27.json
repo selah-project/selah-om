@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mootichi ⟨את⟩ kumme Yerushaalayim keessatti akka dhangaggee taasise; ⟨את⟩ shantootas akka buna-harree, waan lafa gad-aanaa keessa jiru, baay'ee taasise.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumme"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumme"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "akka dhangaggee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shantoota"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "shantoota"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "akka buna-harree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "lafa gad-aanaa keessatti"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:02.221327074Z",
+  "model": "glm-5.3"
+}

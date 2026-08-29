@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Mitsraayimonni nu ⟨את⟩ hammeessan, nu rakkisan, hojii raskaa nu irratti kaasan.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "hammeessan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nu",
+      "marks": "nu"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mitsraayimonni"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "rakkisan"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kaasan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "raskaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:31:34.957427967Z",
+  "model": "glm-5.3"
+}

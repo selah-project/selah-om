@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Fi ta'a, yoo karaa-dhiiraan abjuu galchuun (madaalu) qaba, akka kufu godhu murtoon, fi ajajamu dura isaa, umama isaa (hamma) rukuttaa isaa lakkoofsaa",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "fi ta'a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "abjuu galchuun"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "(madaalu)"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "karaa-dhiiraan"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "akka kufu godhu"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "murtoon"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "ajajamu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "dura isaa"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "(hamma)"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "umama isaa"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "rukuttaa isaa lakkoofsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:44.360159977Z",
+  "model": "glm-5.3"
+}

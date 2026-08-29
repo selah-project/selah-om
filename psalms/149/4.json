@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Yahwe ummata isaa irratti hawwa qaba; aaroonni bahaatiin haa boonsessamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "hawwa qaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ummata isaa irratti"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "haa boonsessu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "aaroonni"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "bahaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:09.332896018Z",
+  "model": "glm-5.3"
+}

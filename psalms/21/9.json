@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Harka keeti diigdotaa kee hunda ni argiti; mirgaan kee kan jaammatan kee ni argiti.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ni argiti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka keeti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diigdotaa kee"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mirgaan kee"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ni argiti"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "kan jaammatan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:56.284527040Z",
+  "model": "glm-5.3"
+}

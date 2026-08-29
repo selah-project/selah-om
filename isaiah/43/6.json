@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Kaabaatti 'Nama kenni' jedha, kibbaatti 'Hin dhorkiin' jedha; ilmaan koo fageetti irraa fid, ilmoota koo dhuma lafaa irraas fid.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kaabaatti"
+    },
+    {
+      "surface": "תני",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "kibbaattis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "dhorkiin"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "fid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan koo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fageetti irraa"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ilmoota koo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:13.573542886Z",
+  "model": "glm-5.3"
+}

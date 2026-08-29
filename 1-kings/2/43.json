@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Maaloo kakaakun Yahwe fi ajaja ani siif kennee seeraa maaloo hin eegne?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "maaloo…maaloo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "eegne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakaakun Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kakaakun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ajajicha"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ajajicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waan)"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ani kennee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T08:03:28.484578430Z",
+  "model": "glm-5.3"
+}

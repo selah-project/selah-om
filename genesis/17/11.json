@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Isinis ⟨את⟩ makaan gogaa keessan ni murattu; kunis mallannoo kakuu ta'a, gidduu koo fi gidduu keessan.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Isinis ni murattu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makaan gogaa keessan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "makaan keessan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kunis ta'a"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "mallannoo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gidduu koo"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "fi gidduu keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:14.542149725Z",
+  "model": "glm-5.3"
+}

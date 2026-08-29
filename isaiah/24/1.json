@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Kuus! Yahwe dachee dhiifachiisa, dhiifachiifamteesis; fuulli ishees ni waalaba, jiraattootii ishees ni bittinneessa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kuus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "dhiifachiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "dhiifachiifamteesis"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ni waalaba"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "fuulli ishee"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "ni bittinneessa"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "jiraattootii ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:00.699496905Z",
+  "model": "glm-5.3"
+}

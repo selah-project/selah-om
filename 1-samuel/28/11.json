@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Dubbartuun ishee, \"Eenyum ⟨את⟩ ol baafadhu sii?\" Inni ammas, \"⟨את⟩ Shemu'el natti ol baafadhu.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dubbartuun ishee jedhi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubbartuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eenyu (ol baafamu)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenumma"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ol baafadhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inni jedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "ol baafadhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:36:01.514390073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Kunis dhaloota Yitsaaq, ilma Avrahaam: Avrahaamis ⟨את⟩ Yitsaaq dhalatte.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dhaloota"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaamis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:55.989351277Z",
+  "model": "glm-5.3"
+}

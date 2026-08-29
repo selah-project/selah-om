@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaa, achii booda ⟨את⟩ Sihoon mootii Emorootaa isa Chesboon jiraatu, fi ⟨את⟩ Oog mootii Baashaan isa Ashtaroot Edre'ii keessatti jiraatu, rukutee booda.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "achii booda"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "rukutee booda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihoon mootii Emorootaa"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Chesboon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Oog mootii Baashaan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baashaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Ashtaroot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edre'ii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:49.094311479Z",
+  "model": "glm-5.3"
+}

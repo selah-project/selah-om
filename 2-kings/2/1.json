@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kun ta'e: Yahwe yeroo Eliyaahu ⟨את⟩ rukuttaa qilleensaa samii keessatti ol baasuu yaaddu, Eliyaahu fi Elishaa Gilgaal irraa deeman.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kun ta'e"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "yeroo ol baasuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyaahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "rukkuttaa qilleensaa keessatti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "Elishaawan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaal"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:10.354113364Z",
+  "model": "glm-5.3"
+}

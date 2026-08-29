@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Maanookhis jedhe: \"Yeroo jechi keetiin dhufu, muddee mucaa kanaa maali ta'a, hojiinis maal ta'a?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Maanookhis"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jechi keetiin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maali"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "muddee"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mucaa kanaa"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "hojiinis"
+    }
+  ],
+  "timestamp": "2026-08-29T07:10:03.769457469Z",
+  "model": "glm-5.3"
+}

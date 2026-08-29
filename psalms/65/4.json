@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Jechoonni badii na caalaniiran; fincilii keenya immoo Ata ni uwwifta.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Jechoonni"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "badii"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "na caalaniiran"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "fincilii keenya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ni uwwifta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:10.724100893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Warri karaa darban hundi saaphanii isa; aarsaa taasifte kan boonda isaatii.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "saaphanii isa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "warri darban"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "taasifte"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aarsaa"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kan boonda isaatii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:22.617843257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Eliyhuunis Iyyoob ⟨את⟩ jechawwan irratti eegaa ture, waan isaan isa caalaa guyyootaatti dargaggoo ta'anii.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Eliyhuunis"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "eegaa ture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyoob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyoob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "jechawwan irratti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "dargaggoo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isa caalaa"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "guyyootaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:30:09.833238776Z",
+  "model": "glm-5.3"
+}

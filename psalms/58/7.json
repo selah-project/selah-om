@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Yaa Eloohiim, ilkaan isaanii afaan isaanii keessaa balleessi; yaa Yahwe, ijji kobbaawwan galmeessi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "balleessi"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ilkaan isaanii"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "afaan isaanii keessaa"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "ijjii"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "kobbaawwan"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "galmeessi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:55.440957164Z",
+  "model": "glm-5.3"
+}

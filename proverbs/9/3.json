@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Shalaaltota ishii ergatte; gargar baafte ol-iddoowwan magaalaa irratti.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ergatte"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "shalaaltota ishii"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "gargar baafte (waamte)"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "ol-iddoowwan (gara gubbaa)"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ol"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:34.629002456Z",
+  "model": "glm-5.3"
+}

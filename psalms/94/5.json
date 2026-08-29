@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Saba kee, yaa Yahwe, ni-daa'u; dhaaltota kee ni-rakkisu.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "saba kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ni-daa'u"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "dhaaltota kee"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ni-rakkisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:45.280140816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Daandii amantatti filadhe; murtoonni kee fuulduratti koo kaa'adhe.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "amantatti"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "filadhe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murtoonni kee"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "fuulduratti koo kaa'adhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:11.791373909Z",
+  "model": "glm-5.3"
+}

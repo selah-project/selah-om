@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahween Moshee'ef jedhe: \"Nama sinnaa Waa biratti na biratti hafu, nama sana barreeffama kiyyaa irraa haqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'ef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nama sinnaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Waa biratti"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na biratti"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "nama sana haqa"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "barreeffama kiyyaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:47.207397929Z",
+  "model": "glm-5.3"
+}

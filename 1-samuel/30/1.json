@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yeroo Daawid fi namoota isaa guyyaa sadaffaa irrá Tsiklag gayanii, warri Amaleekii kibbaa fi Tsiklag irratti kuffamanii, ⟨את⟩ Tsiklag rukutanii, ibiddaatin gubaniif.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ga'anii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "fi namoota isaa"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sadaffaa irrá"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "warri Amaleekii"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "kuffamanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kibbaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi... irratti"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "gubaniif"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isshee"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:45:23.305870001Z",
+  "model": "glm-5.3"
+}

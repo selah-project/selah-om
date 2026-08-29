@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Keesan qulqulleessaa nama qulqulleeffamu ⟨את⟩ sanaa qulqulleeffamuus fi ⟨את⟩ wantoota sanii Yahwe fuulduratti, balaxa gaaddisa walgaheessaa irratti dhaabbata.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Keesan"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "qulqulleessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama qulqulleeffamu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "qulqulleeffamu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fi ⟨את⟩",
+      "marks": "wantoota sanii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balaxa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "gaaddisa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walgaheessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:57.282072472Z",
+  "model": "glm-5.3"
+}

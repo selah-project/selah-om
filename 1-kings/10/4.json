@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mootittiin Shebaas ⟨את⟩ ogeessii Shelomoo hunda fi mana isa ijaare argitti.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "argitti"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Mootittiin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogeessii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogeessii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ijaare"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:47.343845108Z",
+  "model": "glm-5.3"
+}

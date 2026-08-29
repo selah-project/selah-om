@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Innis akka jedhe: Himi maaloo mooticha Shelomootti, sababa inni ⟨את⟩ facaasa kee hin deebisuf; fi Abishaag Shuunamittiyyeet ⟨את⟩ akka dubartii naa haa kenne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akka jedhe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "himi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomootti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "deebisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "facaasa kee"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "facaasa kee"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "haa kenne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishaag Shuunamittiyyee"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishaag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shuunamittiyyee"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "akkuma dubartii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:03:59.699059752Z",
+  "model": "glm-5.3"
+}

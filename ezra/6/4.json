@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Qindinoota dhagaa gurguddoo sadii fi qindinni mukaa haaraa tokko; baasniis mana mootichaa irraa kennamu.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "qindinoota"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "gurguddoo"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "qindinni mukaa"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אע",
+      "gloss": "mukaa"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "baasniis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "kennamu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:22.840400945Z",
+  "model": "glm-5.3"
+}

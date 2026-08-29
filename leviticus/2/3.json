@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Waan minchaa kaffaldii irraa hafu immoo kan Aharooni fi ilmaan isaa ti ⟨is⟩; waan qulqullaa'aa qulqullummaa irraa ta'e, kan ibidda-qorba Yahwe irraa.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "waan hafu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaa kaffaldii"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kan Aharooni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "fi ilmaan isaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "waan qulqullaa'aa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kan ibidda-qorba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:20.157173294Z",
+  "model": "glm-5.3"
+}

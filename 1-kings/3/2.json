@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Garuu sabbatan hafuura bakkoota ol-olaa irratti gatan, sababaan isaas maqaa Yahweef mana hin ijjaramne gara paawwawwan sanaa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabbatan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "gatan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bakkoota ol-olaa irratti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ijjaramne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "maqaa ... f"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara ... paawwawwan sanaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "paawwawwan"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:03:30.653568583Z",
+  "model": "glm-5.3"
+}

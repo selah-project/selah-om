@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ilmi Israa'el Gilgaal keessatti haa'ani; Pesaakhis guyyaa kurnan-afuraffaa ji'aa galgalala, dirree Yeriihoo keessatti raawwadani.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "haa'ani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgaal keessatti"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "raawwadani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaakh"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kurnan-afur"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "affaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'aa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galgalala"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriihoo keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:37.186208495Z",
+  "model": "glm-5.3"
+}

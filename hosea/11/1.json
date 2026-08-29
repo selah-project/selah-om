@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yeroo Yisraa'el ilma xiqqaa ta'etti, ani jaalladhe; Mitsraayim irraa ilma koo waama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ilma xiqqaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "jaalladhe"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "waama"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilma koo"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:33.138740525Z",
+  "model": "glm-5.3"
+}

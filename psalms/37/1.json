@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Maalimoo Daawitiiti. Hin hiiqammu bifaattii warra hamtuu irratti, hin abluu gaggee sodaa hojjattootaa irratti.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Maalimoo Daawitiiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "hiiqammu"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "bifaattii warra hamtuu irratti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "abluu"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "gaggee sodaa hojjattootaa irratti"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sodaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:58.613403675Z",
+  "model": "glm-5.3"
+}

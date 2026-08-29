@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Sababiin isaatis Yahwe Eel guddaadha, fi mooton guddaa kan hunda waliiloota irraa ta'eedha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaatis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaadha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "fi mooton"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waliiloota"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:06.303940630Z",
+  "model": "glm-5.3"
+}

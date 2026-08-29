@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Tsephanjaan qoteeyyuu barreeffama kana ⟨את⟩ gulaalee, giigii Yirmiyaah nabiyyicha irratti.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gulaalee"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsephanjaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qoteeyyuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barreeffama kana"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "barreeffama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "giigii"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiyyicha"
+    }
+  ],
+  "timestamp": "2026-08-29T09:42:17.933326526Z",
+  "model": "glm-5.3"
+}

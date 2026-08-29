@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe kana irratti nachaate; kunuus hin ta'u, jedhe Adoonaay Yahwe.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "nachaate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-uus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:50:06.707130651Z",
+  "model": "glm-5.3"
+}

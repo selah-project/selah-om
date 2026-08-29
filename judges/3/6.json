@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Intaltota isaanii ⟨את⟩ fudhatanii isaaniif haadha manaa taasisan; intaltota isaanii ⟨את⟩ immoo ijoollee isaanii godaanan; waaqoota isaanii ⟨את⟩ gabbaran.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaltota isaanii"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "intaltota isaanii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "haadha manaa taasisan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intaltota isaanii"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "intaltota isaanii"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "godaanan"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ijoollee isaanii"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "gabbaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waaqoota isaanii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "waaqoota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:42.680380499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 4:15",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "«Dabaa, dogoggore!» isaaniif waamaniiru; «dabaa, dabaa, hin tuqinaa!» Sababa isaan baqatanii akkasumas tumsaniif, biyyoota keessatti ni jedaniiru: «Dachii jiraachuu hin dabalatanu.»",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Dabaa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "dogoggore"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamaniiru"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "dabaa"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "dabaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tuqinaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נצו",
+      "gloss": "baqatanii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "tumsaniif"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ni jedaniiru"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "biyyoota keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "dabalatanu"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "dachii jiraachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:46:07.867671922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Kan Shelomoo ti. Eloohiim, murtii kee mootii’if kenni, faarfamaa kees immoo ilma mootii’if kenni.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Kan Shelomoo ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murtii kee"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootii’if"
+    },
+    {
+      "surface": "תן",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "faarfamaa kees"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:24.012304903Z",
+  "model": "glm-5.3"
+}

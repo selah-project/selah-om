@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ya'aqob Raheet mala, ⟨את⟩ iyya isaa ol kaasee boone.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raheet"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ol kaasee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyya isaa"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "iyya isaa"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "boone"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:08.362912308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Yahween akka jedhuuf Mosheetti dubbateetti, akkas jedhee:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbateetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mosheetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:41.311954507Z",
+  "model": "glm-5.3"
+}

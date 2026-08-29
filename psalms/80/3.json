@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Efrayim fi Binyamayin fi Menashee duratti, humna kee kaasi, ⟨את⟩ ol-danda'aa kee, nuu kenni fayyisuu.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "fi Binyamayin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "fi Menashee"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "kaasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol-danda'aa kee"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ol-danda'aa kee"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "nuu kenni"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "fayyisuu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:53.764567248Z",
+  "model": "glm-5.3"
+}

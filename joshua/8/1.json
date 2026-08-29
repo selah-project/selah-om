@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 8:1",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahween Yehooshuaf jedhe: hin sodaadhu, hin dhiphadhu; warri waraanaa hunda waliin kee qabadhu, ka'i, Ha'iidhi ol'i; ilaali, ⟨את⟩ mooticha Ha'ii harka keetti kenne, fi ⟨את⟩ sabni isaa, fi ⟨את⟩ magaalaan isaa, fi ⟨את⟩ dacheen isaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodaadhu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dhiphadhu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "qabadhu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "waliin kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warri waraanaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "warri"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "ווקום",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol'i"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha'iidhi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha Ha'ii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha'ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "sabni isaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sabni isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "magaalaan isaa"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaalaan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dacheen isaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dacheen isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:48:33.612432628Z",
+  "model": "glm-5.3"
+}

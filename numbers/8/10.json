@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ati ⟨את⟩ Laawiyim Yahwe dura dhiyeessitu; mucoonni Israa'el harka isaanis ⟨את⟩ Laawiyim irratti saamsu.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "dhiyeessitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laawiyim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawiyim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "saamsu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaanii"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawiyim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:53:48.471737949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sabbonni godaannahooddaa isaan hojjatanii keessatti faallamanii; saaphana isaaniitiin dhokatan keessatti miila isaanii qabadamte.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "faallamanii"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Sabbonni"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "godaannahooddaa... keessatti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjatanii"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "saaphana... keessatti"
+    },
+    {
+      "surface": "זו",
+      "gloss": "isaaniitiin"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "dhokatan"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "qabadamte"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "miila isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:17.788583748Z",
+  "model": "glm-5.3"
+}

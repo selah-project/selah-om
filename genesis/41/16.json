@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Yoosefis ⟨את⟩ Fir'oon deebisee akkana jedhe: \"Ani malee, Eloohiim ⟨את⟩ deebii nagaa Fir'oon ni taasisa.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Fir'oon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana jedhe"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Ani malee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ni taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deebii nagaa Fir'oon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:34.841480683Z",
+  "model": "glm-5.3"
+}

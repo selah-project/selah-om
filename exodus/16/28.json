@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yahween Moshee'is jedhe: \"Yeroo dheeraa kanatti ajajoota koo seeraas koo tikuu isin diddaniittan maalif?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'is"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo dheeraa kanatti"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "maalif"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "diddaniittan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "tikuu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajajoota koo"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "seeraas koo"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:00.385356948Z",
+  "model": "glm-5.3"
+}

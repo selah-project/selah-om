@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Amma nimbaduu: kana gabatee irratti ⟨אתם⟩ barreessi, kitaaba irrattis kaawwi; guyyaa boodaa kan dhugaa ragaa ta'uuf — yeroo hundaaf, dheeraadhaa dheeraa.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "nimbaduu"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "barreessi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaanitti (with them)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaaba"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "kaawwi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "boodaa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dheeraadhaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dheeraa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:00:39.594856014Z",
+  "model": "glm-5.3"
+}

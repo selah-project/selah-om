@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Kunoo, inni karaa wajjin koo beeka; yeroo na qoratu, akka dahiitti ba'a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wajjin koo"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "na qoratu"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "akka dahiitti"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ba'a"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:14.824080056Z",
+  "model": "glm-5.3"
+}

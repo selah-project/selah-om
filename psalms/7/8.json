@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Garee ilma sabaa si haa marsuu; isheetti olitti, deebi'i.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Garee"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ilma sabaa"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "si haa marsuu"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "olitti"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "deebi'i"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:54.162856407Z",
+  "model": "glm-5.3"
+}

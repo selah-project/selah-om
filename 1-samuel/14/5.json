@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Iddoon tokkoo kaabaatti Miikmaashitti mul'attu kan daga; kan biraa immoo kibbaatti Gaab'atti mul'atu.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "iddoon tokkoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaabaatti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mul'attu"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Miikmaashitti"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kan biraa immoo"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kibbaatti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mul'atu"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gaab'atti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:45.941340754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Anis immoo siif godhe ⟨את⟩ akka jaammamtootaatti fi akka gadi-jijjiiramanitti hunda warra sabaa fuuldura, akka kakaan kee kan karaa kiyya hin eegnuu fi fuula kan Toraa keessatti hin ol-qabuutti.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "anis immoo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "siif — akka jaammamtootaatti fi akka gadi-jijjiiramanitti"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "jaammamtootaatti"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "gadi-jijjiiramanitti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "warra sabaa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akka kakaan kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "eegnuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaa kiyya"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa kiyya"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "ol-qabuutti"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "Toraa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:06:38.385109112Z",
+  "model": "glm-5.3"
+}

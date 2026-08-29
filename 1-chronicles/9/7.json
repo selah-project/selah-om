@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Muuxa Binyamiin irraas: Salluu muuxa Meshullaam ti, muuxa Hodawya ti, muuxa Hassenu'aa ti.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "irraas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "muuxa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamiin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Salluu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "muuxa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshullaam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "muuxa"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodawya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "muuxa"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassenu'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:35:07.022221984Z",
+  "model": "glm-5.3"
+}

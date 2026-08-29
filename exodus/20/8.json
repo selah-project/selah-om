@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Guyyaa Sabbaatii ⟨את⟩ yaadadhu, qulqulleeffachuuf.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "yaadadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyyaa Sabbaatii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabbaatii"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "qulqulleeffachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:16.715842276Z",
+  "model": "glm-5.3"
+}

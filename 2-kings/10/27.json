@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mataan dhaabbataa Baal ciraniiranii, mana Baal ciraniiranii, mana finciin isa godhaniif gara guyyaa kanaatti.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ciraniiran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataan dhaabbataa Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "mataan dhaabbataa"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ciraniiran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "godan isa"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "man'a finciin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa kanas"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:32.643239341Z",
+  "model": "glm-5.3"
+}

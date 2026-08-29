@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Eebbifamu Yahwe, Eloohiim Israa'elii, ⟨kan⟩ bara hundumaa irraa hanga bara hundumaatti; namoonni hundi 'Aameen' jedhan; Yaah faaradaa!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Eebbifamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "bara hundumaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangatti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "bara hundumaa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aameen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faaradaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:54.252259305Z",
+  "model": "glm-5.3"
+}

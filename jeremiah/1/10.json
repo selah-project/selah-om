@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 1:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Argii, guyyaa har'aa biyyootaa fi mootummaawwan irratti si kaa'e — ni hiiku, ni cabsu, ni balleessu, ni kuffisu; ni ijaara, ni laalu.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Argii"
+    },
+    {
+      "surface": "הפקדתיך",
+      "gloss": "si kaa'e"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "har'aa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "biyyootaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "mootummaawwan"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "ni hiiku"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "ni cabsu"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "ni balleessu"
+    },
+    {
+      "surface": "ולהרוס",
+      "gloss": "ni kuffisu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ni ijaara"
+    },
+    {
+      "surface": "ולנטוע",
+      "gloss": "ni laalu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:01:57.166552494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Dhugumaa Eloohiim mataa diinoota isaa ni-cufa; gubbaa mataa riwa kan dogoggora isaa keessatti sochoofamu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dhugumaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "ni-cufa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "diinoota isaa"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "gubbaa mataa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "riwa"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "sochoofamu"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "dogoggora isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:37.093793207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Akkaataa kanaan G'eebar jiraachaa ture; erga ⟨את⟩ Peleg dhalee booda, waggoota afurtamii fi soddoma-lama-tamantama jiraachaa ture, ilmaan fi intalan dhalatee.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "G'eebar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dhalee booda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "afurtamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "fi soddoma-tamantama"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "soddoma-lama-tamantama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalatee"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi intalan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:37.546096888Z",
+  "model": "glm-5.3"
+}

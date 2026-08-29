@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yahuudaanis obboleeyyan isaa irraa jedhe: yeroo obboleessa keenya ajjeesnaa dhiiga isaa dhoksinuu maaltu nuu bu'a?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "bu'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "ajjeesnaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa keenya"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "obboleessa keenya"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "dhiiga isaa dhoksinuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga isaa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiiga isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:47:12.527673752Z",
+  "model": "glm-5.3"
+}

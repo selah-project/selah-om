@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "⟨את⟩ Warra kana isaan irraa isin nyaadhu: ⟨את⟩ Aarbe gosa isaa, fi ⟨את⟩ Sol'aam gosa isaa, fi ⟨את⟩ Chargol gosa isaa, fi ⟨את⟩ Chagab gosa isaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra kana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "warra kana"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aarbe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "Aarbe"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "gosa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Sol'aam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "Sol'aam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "gosa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "Chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "gosa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Chagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "Chagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "gosa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:24.678375544Z",
+  "model": "glm-5.3"
+}

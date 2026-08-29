@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Waraana gabatee mucaa Gaad irra caaluu Eljasaph ilma De'uel ti.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "irra caaluu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaph"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "De'uel"
+    }
+  ],
+  "timestamp": "2026-08-29T05:53:38.153625695Z",
+  "model": "glm-5.3"
+}

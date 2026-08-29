@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Tolaa waliin abba kee hojjitaa, yaa Yahwe, akka jecha keetti.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tolaa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjitaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abba kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akka jecha keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:56.040901224Z",
+  "model": "glm-5.3"
+}

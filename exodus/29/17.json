@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Horiisicha ⟨את⟩ immoo meenta-meentaa taasi; al-choo isaa fi luka isaa tiisaa fi, meentota isaa irratti fi mataa isaa irratti kaa'i.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "horiisicha"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "horiisicha"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "meenta-meentaa taasi"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "meentota isaa"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "tiisaa fi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "al-choo isaa"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "luka isaa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaa'i"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "meentota isaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:23.964433265Z",
+  "model": "glm-5.3"
+}

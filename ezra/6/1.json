@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sana booda Daaryaaweesh mootichi ajaja murteessaa kenne, fi mana barreeffamota keessatti barbaadan — mana gabaa qabeenyaa kan sana keessatti Babylon keessatti kufee jiru keessatti.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "sana booda"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daaryaaweesh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ajaja kenne"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "murteessaa"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana ... keessatti"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "barreeffamota"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "gabaa qabeenyaa"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "kufee jiru"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "sana keessatti"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babylon"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:22.839850396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Ani jechoota si deebisa; ⟨את⟩ hiriyoota kee si waliin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "si deebisa"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hiriyoota kee"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "hiriyoota kee"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:31:59.935533677Z",
+  "model": "glm-5.3"
+}

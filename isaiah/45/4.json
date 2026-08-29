@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Gaafata abdiicha kiyya Ya'aqob fi Israa'el filadhee kiyya, maqaa kee siitiin sadaasa, maqaa dabalataa sii kenadha, Ani si hin beekte.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Gaafata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdiicha kiyya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "filadhee kiyya"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "sadaasa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siitiin"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "maqaa dabalataa sii kenadha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "beekte"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:45.933603366Z",
+  "model": "glm-5.3"
+}

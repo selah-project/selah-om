@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "To the one who leads; upon Shushan-Eduth; a Mikhtam of Daawid, to teach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "To the one who leads"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "a Mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of Daawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "to teach"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:05.808629250Z",
+  "model": "glm-5.3"
+}

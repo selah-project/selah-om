@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Zayyittaa ifaaf, qaqqaboota zayyittaa dibaa fi kunnafaa waan mi'aawaa tiif.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "zayyittaa"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "ifaaf"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "qaqqaboota"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "zayyittaa...tiif"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dibaa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "fi kunnafaatiif"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "waan mi'aawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:33.163074726Z",
+  "model": "glm-5.3"
+}

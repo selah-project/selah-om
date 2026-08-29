@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Yeroo san ijjiwwan ijaan of-booratanii ni banamu, gurrniwwan gurraa dhokatanii ni banaa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo san"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "ni banamu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijjiwwan"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ijaan of-booratanii"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "gurrniwwan"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "gurraa dhokatanii"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ni banaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:03:24.783540688Z",
+  "model": "glm-5.3"
+}

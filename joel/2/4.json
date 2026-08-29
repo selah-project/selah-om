@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Akka mul'icha fardoonni akka mul'icha isaaniitti, akka farda-fageenytoota, akkasuma akkuma isaan ni fiigan.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "akka mul'icha"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "fardoonni"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "mul'icha isaa"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "akka farda-fageenytoota"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ni fiigan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:48:06.852932236Z",
+  "model": "glm-5.3"
+}

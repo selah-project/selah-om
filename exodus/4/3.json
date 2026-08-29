@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Innis jedhe:Nammeedhi lafa irratti! Nammeedhe lafa irratti; mooti mooraa ta'ee Moshee fuulduraa isaa irraa baqe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Nammeedhi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "Nammeedhe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "mooti mooraa"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "baqe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fuulduraa isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:05.042261253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "«Amma immoo, ilmaa koo, sagalee koo dhaggeedhu; waan ani ⟨את⟩ si ajaju akka ta'u.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaa koo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhaggeedhu"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sagalee koo"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "akka ta'u"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ajaju"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si",
+      "marks": "si (Yaaqob)"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:45.494771933Z",
+  "model": "glm-5.3"
+}

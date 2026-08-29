@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ammals miseensa ⟨את⟩ Pilishtiim wajjin taatte; Elqaanaan ilma Ya'iir ⟨את⟩ Laahmi obboleessa Golyaat Gitaawaa ajjeese; muka meeshaa waraanaa isaa akka bullaa saaphanootaa ture.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "taatte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammals"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "miseensa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pilishtiim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilishtiim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elqaanaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Ya'iir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laahmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Laahmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleessa"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyaat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitaawaa"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "meeshaa waraanaa isaa"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "akka bullaa"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "saaphanootaa ture"
+    }
+  ],
+  "timestamp": "2026-08-29T13:39:50.195092748Z",
+  "model": "glm-5.3"
+}

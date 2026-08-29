@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kuni beylada sin nyaaqqaa dha: sa'a, boru hoolaa fi boru beeladaa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "beylada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaaqqaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "שה",
+      "gloss": "boru"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "fi boru"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "beeladaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:06.209503898Z",
+  "model": "glm-5.3"
+}

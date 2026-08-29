@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Innis Isaa waliin guutamaa ta'e; badii kiyya irraas of eegadheera.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutamaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Isaa waliin"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "of eegadheera"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "badii kiyya irraas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:12.066474065Z",
+  "model": "glm-5.3"
+}

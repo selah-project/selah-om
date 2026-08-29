@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Seera Yahwe karaadha: Yahwe natti jedhe — ilma koo atti taate; guyyaa kana Ani si uume.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "karaadha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waa'ee (seera)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma koo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atti taate"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa kana"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "si uume"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:09.336499204Z",
+  "model": "glm-5.3"
+}

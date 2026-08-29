@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "\"Hiikaa isaa; namni tokkollee lafeewwan isaa hin sochisiin\" jedhe. Lafeewwan isaa lafeewwan nabiichaa waliin, kan Shomeroon dhufe, eegamsanii bahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "Hiikaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkollee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "sochisiin"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "lafeewwan isaa"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "bahan"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "lafeewwan isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafeewwan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafeewwan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiichaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:41:10.127792591Z",
+  "model": "glm-5.3"
+}

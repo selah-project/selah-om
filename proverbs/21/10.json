@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Nafseen raawwaa hamtuu hawwata; hiriyi isaa ija isatti qarsummaa hin argatu.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Nafseen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "hawwata"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "qarsummaa hin argamsiisu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija isaatiin"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hiriyi isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:00.943836703Z",
+  "model": "glm-5.3"
+}

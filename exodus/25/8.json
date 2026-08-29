@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Manaa qulqulluu naaf haa hojjetan; ani gidduu isaanii haa jiraadhu.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "haa hojjetan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "manaa qulqulluu"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ani...haa jiraadhu"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "gidduu isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:33.163414220Z",
+  "model": "glm-5.3"
+}

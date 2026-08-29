@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Wanti isaas jedhe: \"Kunoo, akka xaafaan Mitsraayim keessatti jiru dhagayeera. Gadi ba'aa gara sanaa, nuuf siin bitaa sanaa irraa; jiraanna, hin duunu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wanti isaas jedhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhagayeera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "xaafaa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "gadi ba'aa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara sanaa"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "siin bitaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sanaa irraa"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "jiraanna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "duunu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:54.662612054Z",
+  "model": "glm-5.3"
+}

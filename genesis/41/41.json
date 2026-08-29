@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Parohiin Yossefiin jedhe: «Argaadhu, ani ⟨את⟩ si dachii Mitsraayim hundaa irratti dhaabbadheera.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-iin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Argaadhu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ani dhaabbadheera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:51:38.238494687Z",
+  "model": "glm-5.3"
+}

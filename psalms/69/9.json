@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Alagaa ta'eera obboleeyn kootiif, adaa ta'eera ilmaan haadha kootiif.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "alagaa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "obboleeyn kootiif"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "adaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha kootiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:47.458443109Z",
+  "model": "glm-5.3"
+}

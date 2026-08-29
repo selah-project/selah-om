@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Bishaan gallaa akka raaddaatti walitti qaba; yaadannoo gadi fageenyaa kuusaa keessatti kaa'a.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "walitti qaba"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "akka raaddaatti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gallaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kaa'a"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "kuusaa keessatti"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "yaadannoo gadi fageenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:00.441383129Z",
+  "model": "glm-5.3"
+}

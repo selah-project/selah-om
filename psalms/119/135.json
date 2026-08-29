@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Fuula kee gabbara keetti ifii baasi; seera kee ⟨את⟩ na barsiisi.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ifii baasi"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "gabbara keetti"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "na barsiisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera kee"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:02.429806944Z",
+  "model": "glm-5.3"
+}

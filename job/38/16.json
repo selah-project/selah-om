@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 38:16",
+  "book": "job",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Gara horriistoolee galaanaa seenaa bee? Ce'umsaa gadi fageenyaa keessatti daawattaa bee?",
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "seenaa bee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נבכי",
+      "gloss": "horriistoolee"
+    },
+    {
+      "surface": "ים",
+      "gloss": "galaanaa"
+    },
+    {
+      "surface": "ובחקר",
+      "gloss": "ce'umsaa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "gadi fageenyaa"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "daawattaa bee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:35:23.795838562Z",
+  "model": "glm-5.3"
+}

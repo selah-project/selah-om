@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Moshee ⟨את⟩ fi Aharoon ⟨את⟩ ergifadhe; akka waan isa keessatti hojjedheenitti Mitsraayim ⟨את⟩ rinjiifadhe; booda ⟨את⟩ isin baafadhe.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ergifadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "rinjiifadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "isa keessatti"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "baafadhe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:12.097691135Z",
+  "model": "glm-5.3"
+}

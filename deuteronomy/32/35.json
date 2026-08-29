@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 32:35",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Naqmi kiyya, deebiin kiyya ta'a — yeroo miiliin isaanii salphatu naachaafadha. Kangaroo guyyaa bala'aa isaanii dhiyaateef, waan isaan mudatu saffisaan dhufti.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kiyya"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "naqmi"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "deebiin"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "salphatu"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "miiliin isaanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kangaroo... dhiyaateef"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dhiyaate"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "bala'aa isaanii"
+    },
+    {
+      "surface": "וחש",
+      "gloss": "saffisaan dhufti"
+    },
+    {
+      "surface": "עתדת",
+      "gloss": "waan isaan mudatu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:35:38.649348898Z",
+  "model": "glm-5.3"
+}

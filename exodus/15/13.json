@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Kheesed-keetiin ummata kana kan ati fayysisite qajeelsite; humna keetiin gara mana qulqullummaa kee si qajeelsite.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "qajeelsite"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "kheesed-keetiin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kana"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "kan ati fayysisite"
+    },
+    {
+      "surface": "נהלת",
+      "gloss": "si qajeelsite"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "humna keetiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qulqullummaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:14.990919985Z",
+  "model": "glm-5.3"
+}

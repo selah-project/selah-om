@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Sukkot irraa immatani, daangaa baddaddeen caasaa Eetaamitti hatani.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "immatani"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot irraa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "hatani"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Eetaamitti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "daangaa caasaa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baddaddee keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:12:21.040343475Z",
+  "model": "glm-5.3"
+}

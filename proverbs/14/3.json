@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Afaan wallaa keessatti buddee boontummaa jira; muucni ogeeyyii isaani eega.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "afaan ... keessatti"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wallaa"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "buddee"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "boontummaa"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "muucni"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ogeeyyii"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "isaani eega"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:17.212031392Z",
+  "model": "glm-5.3"
+}

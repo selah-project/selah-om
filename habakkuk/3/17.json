@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sababiin isaas immoo figeen hin bitu, wedeedeen dirra michuuwwanii keessas hin jiru; hojichi zayitaa ni kachesa, sheedemootiinis ata'aa hin hojjedhu; hoolonnis margaa isanii irraa ni gamfaman, loonnis fuul-dhiyaa keessatti hin jiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas immoo"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "figeen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "bitu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "wedeedeen"
+    },
+    {
+      "surface": "בגפנים",
+      "gloss": "dirra michuuwwanii keessatti"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ni kachesa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojichi"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "ושדמות",
+      "gloss": "sheedemootiinis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ata'aa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ni gamfaman"
+    },
+    {
+      "surface": "ממכלה",
+      "gloss": "margaa isanii irraa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoolonnis"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "loonnis"
+    },
+    {
+      "surface": "ברפתים",
+      "gloss": "fuul-dhiyaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:59:02.366250923Z",
+  "model": "glm-5.3"
+}

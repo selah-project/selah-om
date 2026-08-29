@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kamala hundaaf xumura argadhe; ajaja kee ⟨ise⟩ baay'ee bal'ata.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kamala"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "xumura"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bal'ata"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ajaja kee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:58.156127400Z",
+  "model": "glm-5.3"
+}

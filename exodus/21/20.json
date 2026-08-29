@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo namni ⟨את⟩ gabrumaa isaa ykn ⟨את⟩ gabrumtuu isaa birkuun rukute, innis harka isaa jalatti du'e, naneeffamaa naneeffama.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabrumaa isaa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "gabrumaa isaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabrumtuu isaa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "gabrumtuu isaa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "birkuun"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "naneeffamaa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "naneeffama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:55.102374427Z",
+  "model": "glm-5.3"
+}

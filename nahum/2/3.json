@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kanaaf Yahwe ⟨את⟩ geessayaa Ya'aqoob, akka geessayaa Israa'el, deebiseera; kanaaf balleessaan balleessaniiru, dhaddacha wayinii isaanii balleessaniiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebiseera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geessayaa Ya'aqoob"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "geessayaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "akka geessayaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "balleessaan"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "dhaddacha wayinii isaanii"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "balleessaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T10:58:27.247594817Z",
+  "model": "glm-5.3"
+}

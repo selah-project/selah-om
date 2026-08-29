@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Moosheenis isaanirratti jedhe, Yoo ⟨את⟩ waan kana hojjitan, yoo Yahwe duratti loluuf of-meelessa taatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanirratti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooshee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hojjitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "of-meelessa taatan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "loluuf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:11:15.206712838Z",
+  "model": "glm-5.3"
+}

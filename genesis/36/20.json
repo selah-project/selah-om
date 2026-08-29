@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Kunniin ilmaan Se'iir, Hoorigee, warra biyya sana jiraatan: Lootaan, fi Shobaal, fi Tsib'oon, fi Anaa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunniin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hoorigee"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warra jiraatan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya sana"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lootaan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "fi Shobaal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "fi Tsib'oon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "fi Anaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:30.258704413Z",
+  "model": "glm-5.3"
+}

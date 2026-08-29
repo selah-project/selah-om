@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababa jaalala Yahwe ⟨את⟩ isin jaalachuu fi kakuu abbootiikeef kakuu isaatti godhe waan eeguuf, Yahwe harka cimaa isaatiin ⟨את⟩ isin baase, fi ⟨את⟩ isin mana gabroomaa irraa, harka Par'oo mootii Mitsraayim irraa bilisoomse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "jaalala irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "eegu (waan Yahwe isin jaalachuuf)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "fi eegu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kakuu godhe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "abbootiikeef"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "baase (harka cimaa isaatiin)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "fi bilisoomse"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gabroomaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T15:56:34.780624461Z",
+  "model": "glm-5.3"
+}

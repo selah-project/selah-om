@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Sababa siitiis guyyaa guutuu ajajamnaa jirra; horee gatamtuu taatee lakkoofsifna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa siitiis"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "ajajamnaa jirra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "lakkoofsifna"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "akka horeetti"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "gatamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:29.842486234Z",
+  "model": "glm-5.3"
+}

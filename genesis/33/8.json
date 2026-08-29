@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 33:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Innis ni jedhe: \"Baay'ee qophii seenaa kana ani si wajjin argadhe maaliif siif?\" Innis ni jedhe: \"Chaen jal'ina Gooftaa kiyya argachuuf.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "innis ni jedhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "qophii seenaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "פגשתי",
+      "gloss": "ani argadhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "innis ni jedhe"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "argachuuf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chaen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "jal'ina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Gooftaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:20.026415308Z",
+  "model": "glm-5.3"
+}

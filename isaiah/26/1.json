@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Guyyaa san sirni kun biyya Yahuudaa keessatti ni sirreeffama: magaalaa cimaa taate nuuf, badhaasaa akkaittaa ujaummaa fi iccitii godha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "ni sirreeffama"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "sirni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "badhaasaa"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "godha"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ujaummaa"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "fi iccitii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:46.529660822Z",
+  "model": "glm-5.3"
+}

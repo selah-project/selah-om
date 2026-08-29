@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Humna guddaatiin natti wal-qaqaa? Lakki—inni iyyuu ijjaa na irratti godha.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "guddaatiin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humna"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "wal-qaqaa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lakki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "iyyuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ijjaa godha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:57.929033890Z",
+  "model": "glm-5.3"
+}

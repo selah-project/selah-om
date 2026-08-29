@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Baaffa eefodii, hojii meejaa ta'e, guutummaatti tekelet ta'e uume.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaffa eefodii"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "baaffa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eefodii"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "meejaa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "guutummaatti"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:15.258032479Z",
+  "model": "glm-5.3"
+}

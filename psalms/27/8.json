@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Sii jechaa onnee kiyyoo: 'Faca kiyyaa barbaadaa.' ⟨את⟩ Faca kee, Yahwe, kiyyaa barbaada.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jechaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyyoo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barbaadaa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faca kiyyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faca kee"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "faca kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "kiyyaa barbaada"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:18.432312950Z",
+  "model": "glm-5.3"
+}

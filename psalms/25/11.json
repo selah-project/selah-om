@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Maqaa Kee irratti, Yahwe, yakka koo dhiifama — inni guddaadha.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iraatti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Maqaa Kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "dhiifama naa godhe"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "yakka koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:36.358444138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 25:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Baraawwan Daawid gara karaa isaanii deebi'anii dhufanii akka jechoota kana hundaa isa himaniif deebi'an.",
+  "tokens": [
+    {
+      "surface": "ויהפכו",
+      "gloss": "deebi'anii"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "baraawwan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "gara karaa isaanii"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "deebi'an"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "himaniif"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka hundaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:33.458361496Z",
+  "model": "glm-5.3"
+}

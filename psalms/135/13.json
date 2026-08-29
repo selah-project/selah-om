@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Yahwe, maqaan kee ⟨halla⟩; Yahwe, yaadannoon kee dhaloota dhalootatti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨halla⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "yaadannoon kee"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dhaloota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dhalootatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:21.724811583Z",
+  "model": "glm-5.3"
+}

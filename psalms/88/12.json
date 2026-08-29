@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Ka'umsa keessaa kheesed-ke si himamuu? Amantaa kee Abaddoon keessaa?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "si himamuu"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "Ka'umsa keessaa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-ke"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "Amantaa kee"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Abaddoon keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.646089751Z",
+  "model": "glm-5.3"
+}

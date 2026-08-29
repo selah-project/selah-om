@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Fi ⟨את⟩ hasiidahaa, anaafaaphaa gosa isheetiin, fi ⟨את⟩ dukiiphathaa, fi ⟨את⟩ atalaapphaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "hasiidah"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hasiidah"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anaafaaph"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "gosa isheetiin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dukiiphath"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dukiiphath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "atalaapph"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "atalaapph"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:12.937205864Z",
+  "model": "glm-5.3"
+}

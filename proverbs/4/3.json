@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sababoonis abbaa koof kan da'aa ture, mijaala fi tokko-of haadha koo fuulduratti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababoonis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "da'aa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "abbaa koof"
+    },
+    {
+      "surface": "רך",
+      "gloss": "mijaala"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "tokko-of"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha koof"
+    }
+  ],
+  "timestamp": "2026-08-29T11:59:20.800333783Z",
+  "model": "glm-5.3"
+}

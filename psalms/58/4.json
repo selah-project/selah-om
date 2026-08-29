@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Dogoggorronni garaacha irraa addaan bahan; garaacha irraa sabbabu, dubbattota sobaa.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "addaan bahan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggorronni"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "garaacha irraa"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "sabbabu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "garaacha irraa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dubbattota"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sobaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:10.208920094Z",
+  "model": "glm-5.3"
+}

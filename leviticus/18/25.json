@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Lafiinis tilmoomte, kojonni ishee irratti ilaaldhe, lafiinis jiraatoota ishee ⟨את⟩ hilgisiifti.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "tilmoomte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafiin"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ilaaldhe"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kojonni ishee"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "hilgisiifti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiraatoota ishee"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "jiraatoota ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:13.352408813Z",
+  "model": "glm-5.3"
+}

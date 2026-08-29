@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Dubartiis yoo mana abbaa ishee keessatti, umurii ganna ishee keessatti kakuu Yahweef kakatte, hidhannoo of irratti hidhatte.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "dubartiis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "kakatte"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "hidhatte"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "hidhannoo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "abbaa ishee"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "umurii ganna ishee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:10:10.621254871Z",
+  "model": "glm-5.3"
+}

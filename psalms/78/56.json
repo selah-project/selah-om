@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Isaan qormaatanii, ⟨את⟩ Eloohiim Ol'aanaa haasa'anii; raggoo Isaatis hin eegane.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "qormaatanii"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "haasa'anii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim Ol'aanaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ol'aanaa"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "raggoo Isaatis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eegane"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:17.280991379Z",
+  "model": "glm-5.3"
+}

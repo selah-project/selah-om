@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Inni singingee irratti iyya ishee kane; laggeedhanis sirreesseera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "singingee"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "iyya ishee kane"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dhanis"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "laggee"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "sirreesseera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:02.264274760Z",
+  "model": "glm-5.3"
+}

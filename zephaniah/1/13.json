@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Qabeenya isaanii booqamaa ta'a, manneen isaanii mo'ata; manneen ijaru garuu hin jiraatan, irree boban garuu ⟨את⟩ waan booba isaanii hin dhugan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "qabeenya isaanii"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "booqamaa"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "manneen isaanii"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "mo'ata"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "ijaru"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "boban"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "irree"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dhugan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan booba isaanii"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "waan booba isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:00:39.207163122Z",
+  "model": "glm-5.3"
+}

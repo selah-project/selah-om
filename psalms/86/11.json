@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Karaa kee natti barsiisi, Yahwe; dhugaan kee isa deema. Onnee koo tokko godhi maqaa kee sodaachuuf.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "natti barsiisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaa kee"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "isa deema"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dhugaan kee"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tokko godhi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "sodaachuuf"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:05.598096585Z",
+  "model": "glm-5.3"
+}

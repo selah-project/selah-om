@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Minni kee irra gaala hin fudhadhu, qajeeffannoo kee irra immeelee.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "fudhadhu"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "minni kee irra"
+    },
+    {
+      "surface": "פר",
+      "gloss": "gaala"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "qajeeffannoo kee irra"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "immeelee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:35.138396902Z",
+  "model": "glm-5.3"
+}

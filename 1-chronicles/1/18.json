@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Arpaaksadis ⟨את⟩ Sheelach guute; Sheelachinis ⟨את⟩ Eever guute.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpaaksadis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "guute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sheelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Sheelachinis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "guute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eever"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:15.074884913Z",
+  "model": "glm-5.3"
+}

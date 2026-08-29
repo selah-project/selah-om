@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yeroon isinitti ta'aa, isin mana keessan haguuggaman keessaa jiraachuu, manni immoo kun badaa ta'ee jiraa?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Yeroon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "jiraachuu"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "mana keessan"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "haguuggaman"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "manni immoo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "badaa ta'ee jiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:10.522359307Z",
+  "model": "glm-5.3"
+}

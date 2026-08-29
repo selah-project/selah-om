@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Hundi namootaa magaalaa isaa eebuu isaa rukutanii, innis du'a; atimmoo hamtuu hamma bultii baafadhu; Israa'el hundi dhageettii sodaatu.",
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaalaa isaa"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "eebuu isaa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "baafadhu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "hamma bultii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dhageettii"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "sodaatu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:26:49.428375075Z",
+  "model": "glm-5.3"
+}

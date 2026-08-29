@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Qorbaanni isaa yoo ol-ahee lofaa irraa ta'e — korma guutuu ta'uu qaba; seensa mana walga'ii irratti isa dhiyeessa, ⟨את⟩ fudhamaa ta'uuf, fuula Yahwe duratti.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol-ahee"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qorbaanni isaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lofaa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "korma"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "isa dhiyeessa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "seensa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "dhiyeessa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (ol-ahee sana)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "fudhamaa ta'uuf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:34.381779935Z",
+  "model": "glm-5.3"
+}

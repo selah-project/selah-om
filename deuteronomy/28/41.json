@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Ilmoo dhiiraa fi dubartaa walakkaa; garuu isaan sii ta'u hin ta'u, sababoonis gara hiikkaa (shebii) ni deemu.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ilmoolee dhiiraa"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi ilmoolee dubartaa"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "walakka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u hin ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababoonis"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ni deemu"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "gara hiikkaa (shebii)"
+    }
+  ],
+  "timestamp": "2026-08-29T06:32:50.050377901Z",
+  "model": "glm-5.3"
+}

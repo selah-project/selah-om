@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani ofiif margaalee fi boqqoowwan diimaa hojjedhe; mukawwan miira hunda isaan keessatti nan biqise.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "margaalee"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "fi boqqoowwan diimaa"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "nan biqise"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan keessatti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mukawwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "miira"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:14.343894402Z",
+  "model": "glm-5.3"
+}

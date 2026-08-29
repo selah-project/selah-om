@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yeroo diyyankey kiyya gara duubatti deebi'an, fuulkee irraa dadacha'uun, bittinan hafaatu.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Yeroo ... deebi'an"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "diyyankey kiyya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "gara duubatti"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "dadacha'uun"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "bittinan hafaatu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fuulkee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:53.585337680Z",
+  "model": "glm-5.3"
+}

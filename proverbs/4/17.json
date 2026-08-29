@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sababa isaaniif kabraa (lee) mootummaa ni sooratan; khamasaa dhugaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ni sooratan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kabraa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "lee"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "khamaa"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ni dhugan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:59:01.119303800Z",
+  "model": "glm-5.3"
+}

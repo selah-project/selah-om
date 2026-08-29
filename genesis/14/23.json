@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yoo sarara tokkos, hanga rukuttaa sandalaa, waan sii ta'e kamiinuu hin fudhadhu, akka ati 'Ani ⟨את⟩ Avraam qabeessa godhe' jennuu hafte.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "sarara"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "sandalaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "hin fudhadhu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kamiinuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii ta'e"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hafte"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "jennuu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "qabeessa godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraam"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraam"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:45.834481732Z",
+  "model": "glm-5.3"
+}

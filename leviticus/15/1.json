@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Yahwe hiika Moshee fi hiika Aharoon haasofteedha, akka jedhaniti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haasofteedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hiika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi hiika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhaniti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:58.100989001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Yahwe abdachiise, miira qabummaa Isaa tiif, seera guddisuu fi gatiisuuf.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "abdachiise"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miira … tiif"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "qabummaa Isaa"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "guddisuu"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "seera"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "fi gatiisuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:33.620382318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "fi ⟨natti-hiiquun⟩ waliin godhaa; intaltotan keessan nuu kennaa, fi ⟨את⟩ intaltota keenya isiniif fudhattaa.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "natti-hiiquun waliin godhaa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "intaltotan keessan nuu kennaa"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "intaltotan keessan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intaltota keenya"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "intaltota keenya"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "fudhattaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:30.875496156Z",
+  "model": "glm-5.3"
+}

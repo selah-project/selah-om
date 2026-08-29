@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Nu saaphanaa keessa seensiste; dhiphina maatisa keenya irratti baadde.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "nu seensiste"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "saaphanaa keessa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "baadde"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "dhiphina"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "maatisa keenya irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:21.140234215Z",
+  "model": "glm-5.3"
+}

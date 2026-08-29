@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Qabeenyi guyyaa boodaa hin fayyadu; dhugaan immoo du'aa bara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "fayyadu"
+    },
+    {
+      "surface": "הון",
+      "gloss": "qabeenyi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "boodaa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dhugaanis"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:22.823403605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Akka gindiiboo dhangaa'aa darbu, akka baay'ii du'aa dubartii — aduu hin argan.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "gindiiboo"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "dhangaa'uu"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "baay'ii du'aa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "argan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:53.065768592Z",
+  "model": "glm-5.3"
+}

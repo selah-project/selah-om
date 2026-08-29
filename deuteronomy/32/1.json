@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Garaacha samiiwwanii, ani ni dubbadha; laftinis jechoota afaan koo haadhaa.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Garaacha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ani ni dubbadha"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "haadhaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "laftinis"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T06:36:57.529406752Z",
+  "model": "glm-5.3"
+}

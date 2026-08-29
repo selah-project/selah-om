@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Balballi qallattii immoo ilmaan Hassenaahee ⟨את⟩ ijjaniiru; isaan cufu, daangee isaa dhaabbaniiru, cufumsa isaa fi rukuttaa isaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balballi qallattii"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balballi"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "qallattii"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ijjaniiru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassenaahee"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "cufu"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "dhaabbaniiru"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "daangee isaa"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "cufumsa isaa"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "rukuttaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:37:33.493618244Z",
+  "model": "glm-5.3"
+}

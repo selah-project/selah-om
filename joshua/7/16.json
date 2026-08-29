@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yehooshua ganama booda ka'e, ⟨את⟩ Israayel gosoota isaatii dhiyeesse; gosi Yihuudaa hammee fudhate.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ganama booda ka'e"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "gosoota isaatii"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hammee fudhate"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:47:14.417910061Z",
+  "model": "glm-5.3"
+}

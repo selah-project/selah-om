@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Balleessaa gidduu ishee keessatti ⟨jirti⟩; wooddoo fi xiinxala gabaaba ishee irraa hin deemu.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "balleessaa"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "gidduu ishee keessatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "gabaaba ishee irraa"
+    },
+    {
+      "surface": "תך",
+      "gloss": "wooddoo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "fi xiinxala"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:59.339814163Z",
+  "model": "glm-5.3"
+}

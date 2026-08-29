@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ani si galmeesse, sababiin si naa deebiftu; Eel, gurra kee naa gadii-bentii, jechi kiyya dhaggeeffadhu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "si galmeesse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin \/ akka"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "si naa deebiftu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "הט",
+      "gloss": "gadii-bentii (naa gadii-bentii)"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhaggeeffadhu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jechi kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:49.544562638Z",
+  "model": "glm-5.3"
+}

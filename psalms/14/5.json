@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Achitti isaan ⟨sodaa⟩ sodaachaniittu — kyaa Eloohiim ⟨is⟩ dargaggoo goaticha keessatti jira.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Achitti"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sodaachaniittu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "sodaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kyaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dargaggoo keessatti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "goaticha"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:42.322187024Z",
+  "model": "glm-5.3"
+}

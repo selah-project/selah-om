@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Afuun kiyya irratti namaan nagaa, aniis jedhe, Kun afuun kee irratti namaan nageenya; yaa balleessan kee deebite, yaa dhiigaa kees haaramaamaa taate.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "namaan nagaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Afuun kiyya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aniis jedhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "namaan nageenya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "afuun kee"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "deebite"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "yaa balleessan kee"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "yaa dhiigaa kees"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "haaramaamaa taate"
+    }
+  ],
+  "timestamp": "2026-08-29T08:47:17.795871829Z",
+  "model": "glm-5.3"
+}

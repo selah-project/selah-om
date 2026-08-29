@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Eloohiim ⟨את⟩ Israa'el hamaa isaa hunda irraa hiiki.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "hiiki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "hamaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:11.350493139Z",
+  "model": "glm-5.3"
+}

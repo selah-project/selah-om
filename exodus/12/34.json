@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Sabaanxii ⟨את⟩ waamicha isaanii hin boqolin dura baasuudhaan, maraata isaanii uffata isaanii keessatti hidhatee moo'a isaanii irratti baafate.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "baafate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Sabaanxii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waamicha isaanii"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "waamicha isaanii"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hin boqolin dura"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "baasuudhaan"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "maraata isaanii"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "hidhatee"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "uffata isaanii keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "moo'a isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:41.405634133Z",
+  "model": "glm-5.3"
+}

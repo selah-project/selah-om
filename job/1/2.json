@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaa isaatti ilmaan dhibba torba fi ilmoo sadii dhalatan.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "dhibba torba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ilmoo sadii"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ilmoo"
+    }
+  ],
+  "timestamp": "2026-08-29T16:00:11.273426233Z",
+  "model": "glm-5.3"
+}

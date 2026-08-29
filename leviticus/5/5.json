@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Akkasumas yoo tokko kanneen keessaa inni abbaa balmummaa ta'e, waan inni ishee irratti balleessaa tokko dabarseef qaama isaa galata galchi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Akkasumas yoo ta'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "abbaa balmummaa ta'e"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kanneen keessaa"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "qaama isaa galata galchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "balleessaa dabarse"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:40.534634736Z",
+  "model": "glm-5.3"
+}

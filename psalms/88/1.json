@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Faarsa, mizmoor kan ilmaan Qoraah; kan bulchaaf, irratti Machalat Le-anot; barsiisaa kan Heemaan Eezraahii.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kan ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraah"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kan bulchaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Le-anot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "barsiisaa"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "kan Heemaan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Eezraahii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:46.292097075Z",
+  "model": "glm-5.3"
+}

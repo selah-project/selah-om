@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Innis ni jedhe: Maaloo nu hin dhiifannaa ⟨את⟩ nu; sababa kanaaf nuti akka biyya-duwwaa keessatti haffannoo keenya beektu, ati nutiif ⟨is⟩ ija taatus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "dhiifattu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aaf"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "haffannoo keenya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "biyya-duwwaa keessatti"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "taatus"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nutiif"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ija"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:31.040631999Z",
+  "model": "glm-5.3"
+}

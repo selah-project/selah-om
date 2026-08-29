@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 7:27",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe, Eloohiim abbootii keenyaa, kan kana gara onnee mootichaa kennee mana Yahwe ⟨את⟩ isa Yerushaalayim keessa jiru mijeessuuf, eebbamaa ta'aa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "eebbamaa ta'aa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abbootii keenyaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennee"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "kana akka"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "gara onnee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "לפאר",
+      "gloss": "mijeessuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:19:51.937181896Z",
+  "model": "glm-5.3"
+}

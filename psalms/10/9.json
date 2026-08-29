@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Bakka-tokko akka arbaatti soorata; soorata dhukkubsataa fudhachuuf; dhukkubsataa makalaan isaa haa qabatu, saaphana isaa keessatti.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "bakka-tokko"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "akka arbaatti"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "fageenya hiding place keessatti"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "haa qabatu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhukkubsataa"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "qabata"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhukkubsataa"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "makalaan isaa"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "saaphana isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:09.424804185Z",
+  "model": "glm-5.3"
+}

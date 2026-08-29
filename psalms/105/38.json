@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Mitsraayim ba'u isaaniin jaalachiise, sababaa cituun isaanii isaan irra kufteetti.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "jaalachiise"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ba'u isaaniin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kufteetti"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "cituun isaanii"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irra"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:59.617127384Z",
+  "model": "glm-5.3"
+}

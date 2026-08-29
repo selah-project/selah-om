@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ani obboleessa koo Xananii fi ⟨את⟩ XananYaah, abbaa bulchiinsaa qilleensaa bittaa, Yerushaalayimi irratti ajajadhe; sababiin inni akka nama dhugaa ta'ee fi ⟨את⟩ Eloohiim baay'een irra kabajuuf.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ani ajajadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xananii"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Xananii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleessa koo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "XananYaah"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "XananYaah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "abbaa bulchiinsaa"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qilleensaa bittaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "akka nama"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "fi kabaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "baay'een irra"
+    }
+  ],
+  "timestamp": "2026-08-29T13:22:04.138968135Z",
+  "model": "glm-5.3"
+}

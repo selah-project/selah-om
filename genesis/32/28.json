@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Innis isaatti, 'Maqaan kee maal jedhama?' jedhe; innis, 'Ya'aqob' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:25.689933582Z",
+  "model": "glm-5.3"
+}

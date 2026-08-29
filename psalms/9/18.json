@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Margoonni She'oolatti deebifamu; sabni hundi kan Eloohiim dagatan.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "deebifamu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Margoonni"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "She'oolatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "dagatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:02.230286845Z",
+  "model": "glm-5.3"
+}

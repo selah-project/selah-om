@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Nu gargaar, Eloohiim gadi-lakkisaa keenyaa, waan kabaja maqaa keetiif; nu oolchi, balleessoo dhimbiilee keenyaa irratti kaffalii, maqaa kee maalif.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Nu gargaar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "gadi-lakkisaa keenyaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "keetiif"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "nu oolchi"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kaffalii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "dhimbiilee keenyaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "maalif"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:49.686341336Z",
+  "model": "glm-5.3"
+}

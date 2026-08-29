@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Dhiiga barbaadu ⟨את⟩ isaan yaadate; qeeqaa ⟨the⟩ gad-aananiitiis hin dagate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin (akkuma)"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "barbaadu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yaadate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "dagate"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "qeeqaa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "gad-aananiitiis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:17.788093287Z",
+  "model": "glm-5.3"
+}

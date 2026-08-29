@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ilmoota Meraariy, akka maatiwwan isaanii, mana abbootii isaanii, lakkaawwadhu ⟨את⟩ isaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmoota"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Meraariy"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "akkka maatiwwan isaanii"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "lakkaawwadhu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "isaan (Meraariy ilmoota)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:50:30.198507706Z",
+  "model": "glm-5.3"
+}

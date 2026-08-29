@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Faaruu kee keessatti xinxallaa; karaawwan kee ilaala.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "faaruu kee keessatti"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "xinxallaa"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "karaawwan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:00.438465051Z",
+  "model": "glm-5.3"
+}

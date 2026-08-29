@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Kabaja ishee guutuu ⟨dha⟩; intalti mootichaa mana keessaa, uffannaan ishee meeshaalee warqii soorfamanootaati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "kabaja ishee"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intalti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "mana keessaa"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "meeshaalee soorfamanootaati"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqii"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "uffannaan ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.090254752Z",
+  "model": "glm-5.3"
+}

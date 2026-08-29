@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ajjajaanis gara baay'ina dhunfaatti iyyate: \"Isin gosa, sabaafi afaan hundaaf, akka jettan:",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Ajjajaanis"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "iyyate"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "gara baay'ina dhunfaatti"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "akka jettan"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "sabaafi"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "afaan hundaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:01:14.563202148Z",
+  "model": "glm-5.3"
+}

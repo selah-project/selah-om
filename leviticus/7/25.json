@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababaa dhiigansa kamiyyuu dhiigansa beyladaa kan qurba ibiddaa Yahweef isa biraa irraa dhiyyatamu nyaachuufee, nafiichi nyaatu ummata isaa irraa muramee haqama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaachuufee"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "dhiigansa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "beyladaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "dhiyyatamu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "isa biraa irraa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qurba ibiddaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "muramee haqama"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nafiichi"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "nyaatu"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ummata isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:30:31.180282538Z",
+  "model": "glm-5.3"
+}

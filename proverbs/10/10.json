@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kan ija isaa rratti gammooressu, gadda fiddi-baheera; ammoontuu gabrotoa-labiin gadi kufa.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "gammooressu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija isaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fidde-baheera"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "gadda"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "amammoontuu"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "labii"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "gadi kufa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:52.633263189Z",
+  "model": "glm-5.3"
+}

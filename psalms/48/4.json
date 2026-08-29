@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Eloohiim walgaarii ishee keessatti utubaa ta'ee beekama.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "walgaarii ishee keessatti"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "beekama"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "utubaa ta'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.274858062Z",
+  "model": "glm-5.3"
+}

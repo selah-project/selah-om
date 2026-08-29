@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Bololota sanas weeziiwwan cifachaawwan sanduuqaa irratti jiran keessa seeniisa, sanduuqa isaanitiin waan baatuuf.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "seeniisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bololota"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bololota"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "weeziiwwan keessa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "cifachaawwan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqaa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "waan baatuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqaa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:29.864574930Z",
+  "model": "glm-5.3"
+}

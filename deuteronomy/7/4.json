@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababa isa (thee) ilmaal kee ⟨את⟩ booda kiyyaa irratti maal-maalchisuuf, waaqota biroo gabbaruuf; aheeti (angeri) Yahwe isinitti ibidda baatu, si saffisaan balleessifata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa isa"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "maal-maalchisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaal kee"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ilmaal kee"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "booda kiyyaa irratti"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "gabbaruuf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim (waaqota)"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ibidda baatu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ahee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "si balleessifata"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "saffisaan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:11.616037484Z",
+  "model": "glm-5.3"
+}

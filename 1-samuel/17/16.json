@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Filistiin immoo duratti dhihaata ganama fi galgala, tortor sagantaa afuritti-of dhaabbata.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "duratti dhihaata"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiin"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "fi galgala"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "of dhaabbata"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afuritti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tortor sagantaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:39.529070514Z",
+  "model": "glm-5.3"
+}

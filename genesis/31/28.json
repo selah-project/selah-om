@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 31:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Ilma koo fi intaloota koo akka aanuuf na hin dhiifne; amma waan hojjete wallaalti hojjete.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נטשתני",
+      "gloss": "na dhiifne"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "akka aanuuf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilma koo"
+    },
+    {
+      "surface": "ולבנתי",
+      "gloss": "intaloota koo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "הסכלת",
+      "gloss": "wallaalti hojjete"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waan hojjete"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:13.122070875Z",
+  "model": "glm-5.3"
+}

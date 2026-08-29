@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Samuweelis ⟨את⟩ Israa'el guutuu yeroo jireenya isaa murtii hojjedaa ture.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "murtii hojjedaa ture"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweelis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jireenya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:05.797827202Z",
+  "model": "glm-5.3"
+}

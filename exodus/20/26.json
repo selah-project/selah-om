@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Miidhaga koo irrattis dacheewwan ol baafamuu tiin hin ol baafnu, akka hiikkaa kee ishee irratti hin mul'anneef.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ol baafnu"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "dacheewwan ol baafamuu tiin"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "miidhaga koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mul'aneef"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "hiikkaa kee"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ishee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:23.673897437Z",
+  "model": "glm-5.3"
+}

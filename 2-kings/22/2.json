@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Waan sirrii ta'e ayina Yahwe tiif hojjedhe, karaa Daawid abbaa isaa hunda irratti deeme; mirgaa fi bitaa hin mo'anne.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "waan sirrii ta'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ayina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mo'anne"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mirgaa"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "bitaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:40:09.342933140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Aniis manna Ahab akka manna Yarobeam ilma Nebat, akka manna Baasha ilma Achiyaa taasifna.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Aniis … taasifna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manna Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "akka manna"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "akka manna"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:29:23.206867093Z",
+  "model": "glm-5.3"
+}

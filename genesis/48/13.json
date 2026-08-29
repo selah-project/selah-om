@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Yoosif lamaan isaanii fudhate — ⟨את⟩ Efrayim harka mirga isaatti, bitaa Yisraa'el galii, ⟨את⟩ Menasheh harka bitaa isaatti, mirga Yisraa'el galii — isatti dhiyate.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamaan isaanii"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "lamaan isaanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "harka mirga isaatti"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "bitaa"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "harka bitaa isaatti"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "mirga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "dhiyate"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:11.419735519Z",
+  "model": "glm-5.3"
+}

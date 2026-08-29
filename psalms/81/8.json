@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Adabbii keessatti si waaddatte; ani si bilisise; dhokataa ra'amaa keessatti si deebise; bishaan Meriibaa irratti si yaaladhe. Seelaa.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "adabbii keessatti"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "waaddatte"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ani si bilisise"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "si deebise"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dhokataa keessatti"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ra'amaa"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "si yaaladhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriibaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:50.488347405Z",
+  "model": "glm-5.3"
+}

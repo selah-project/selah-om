@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ija keetti akka ogeessa taate hin godhi; Yahwe'ti ⟨את⟩ sodaadhu, fi hamtuu irraa garagali.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "taate"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ija keetti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sodaadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "fi garagali"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "hamtuu irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:43.369446786Z",
+  "model": "glm-5.3"
+}

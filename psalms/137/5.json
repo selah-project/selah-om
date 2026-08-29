@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 137,
+  "translation": "Yoon si dagadhu, Yerushaalaym yoo, mijaa kiyya haa dagattu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "yoon si dagadhu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalaym"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "haa dagattu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mijaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:21.599310485Z",
+  "model": "glm-5.3"
+}

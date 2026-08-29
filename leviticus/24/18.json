@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Lubbuu beyladaa rukute, gatii isaa kenna; lubbuu lubbuu jalatti.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beyladaa"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "gatii isaa kenna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:52.796461766Z",
+  "model": "glm-5.3"
+}

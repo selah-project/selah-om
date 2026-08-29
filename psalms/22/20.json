@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ati ammoo, Yahwe, fageetti miti; humna koo, gargaarsa koof saffisi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati ammoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miti"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fageetti"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "humna koo"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "gargaarsa koo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "saffisi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:41.978484869Z",
+  "model": "glm-5.3"
+}

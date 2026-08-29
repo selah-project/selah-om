@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Ilmoon kee dagatanii, mataa karaa hundaatti li'an, akka saaltaa qoxaa keessaa argaamu; addunyaa Yahwe, akeekkachiisa Eloohiim kee isaan guute.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Ilmoon kee"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "dagatanii"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "li'an"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "akka saaltaa"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "qoxaa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "guute"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "akeekkachiisa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    }
+  ],
+  "timestamp": "2026-08-29T09:13:59.298596143Z",
+  "model": "glm-5.3"
+}

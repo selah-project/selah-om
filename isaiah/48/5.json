@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Kanaaf isiniif himadheera, gara hin dhufu dura si dhamsesse, akka ati hin jenneef — «gabbaraa koo isaan hojjate, wantoon barbaabsamoo koo fi dhangaggeessaa koo immoo isaam ajajaniini» jiraachuuf.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "isiniif himadheera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hin dhufu"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "si dhamsesse"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin jenneef"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ati jirtuu"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "gabbaraa koo"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "wanton barbaabsamoo koo"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "dhangaggeessaa koo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ajajaniini"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:02.748517533Z",
+  "model": "glm-5.3"
+}

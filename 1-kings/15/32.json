@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Fi, gidduu Asaafi fi gidduu Baashaa, mootan Isra'elii, lolli ta'ee ture, guyyoota isaanii hunda keessatti.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "fi...lolli"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta'ee ture"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asaafi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "guyyoota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:48.799128448Z",
+  "model": "glm-5.3"
+}

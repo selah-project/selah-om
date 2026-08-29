@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Hirriba koo irratti, halkanoota, kan jaallattu lubbuun koo ⟨את⟩ barbaadde; barbaaddeef, garuu hin argadhu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "hirriba koo"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "halkanoota"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "barbaadde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan jaallattu lubbuun koo"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "kan jaallattu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "barbaaddeef"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "argadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:43.142478828Z",
+  "model": "glm-5.3"
+}

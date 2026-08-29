@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmoon Yehuudaa Yerushaalayim irratti warraanan, ishee ⟨את⟩ qabatanii, malmala si'aatin ajjeesanii, magaalaa ⟨את⟩ ibiddaatti laalan.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "warraanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim irratti"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "qabatanii"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ajjeesanii"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "malmala"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "si'aa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "laalan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:10.587397552Z",
+  "model": "glm-5.3"
+}

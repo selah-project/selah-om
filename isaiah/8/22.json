@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Gara lafaattis ilaalu; kunoo, dhiphinaa fi dukkana, if-dhiigaa rukuttaa, dukkana gurguddaas ni kuffamu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaatti"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ilaalu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiphinaa"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "dukana"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "if-dhiigaa"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "dukana gurguddaa"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "ni kuffamu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:48.899553790Z",
+  "model": "glm-5.3"
+}

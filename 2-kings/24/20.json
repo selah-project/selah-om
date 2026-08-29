@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Sababa hamma Yaahween kun Yerushaalaym fi Yahuudaa keessatti ta'ee ture, hanga isaan ⟨אתם⟩ fuulla isaa irraa darbiteef; Sidqiyaachu immoo mooticha Baabel ittiin morrate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta'ee ture"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalaym keessatti"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "Yahuudaa keessattis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "darbiteef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaan (Yerushaalaym fi Yahuudaa)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulla isaa"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "morrate"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidqiyaachu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:31.556154406Z",
+  "model": "glm-5.3"
+}

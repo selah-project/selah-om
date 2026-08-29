@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Haarveesti darbe, ganni dhume; nuti immoo hin baraabbanne.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "Haarveesti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dhume"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ganni"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nuti immoo"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "baraabbanne"
+    }
+  ],
+  "timestamp": "2026-08-29T09:29:20.622560197Z",
+  "model": "glm-5.3"
+}

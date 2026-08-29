@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "akkasumas ⟨את}$ moxaa fi meeshaalee isaa, akkasumas ⟨את}$ shaammee jaalduu fi meeshaalee isaa hunda, akkasumas ⟨את}$ galtii qurnaalee —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moxaa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "moxaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee isaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shaammee jaalduu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "shaammee"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "jaalduu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "galtii qurnaalee"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "galtii"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qurnaalee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:33.501062122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Akkasumas geessoo isaa (qarqara) afur irratti godaawwan isaa isaa irraa ta'an hojjete; godaawwan isaa innuma irraa ta'aniiru; akkasumas isaa dheerina dheessuun hiikkaa (dhoqqaa) oole.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "godaawwan isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "qarqaroota isaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "godaawwan isaa"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "oole (dheesse)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (altarii)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "dheerina dheessuun"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:18.477211821Z",
+  "model": "glm-5.3"
+}

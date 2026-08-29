@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahween Mosheetti dubbachiise jecha jedhuuf jedhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbachiise jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuf jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:53.755085691Z",
+  "model": "glm-5.3"
+}

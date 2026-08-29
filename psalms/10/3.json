@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Diinni hammanga sammu isaa irratti faarfata, barbaachisaan tokko of eebbisa; Yahwe sodaachisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Duba"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "faarfata"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "diinni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "hammanga"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sammu isaa"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "barbaachisaan tokko"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "of eebbisa"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "sodaachisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:51.837265911Z",
+  "model": "glm-5.3"
+}

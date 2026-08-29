@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isaan wajjin akka gorsi daa'immanii dubrate, \"Abbootiin hin booda kiyyaaa — abboon kee holka isinii raskese, aniis holka isinii irratti dabaluu; abboon kee ⟨את⟩ isaan biqilaattiin addeessaa ture, aniis biqiloota kiraaqamaa (scorpion) ta'aninis isin addeessa jedhe.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubrate"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaan wajjin"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "akka gorsi"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "daa'immanii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuf"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "raskese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "holka isinii"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "holka isinii"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "dabaluu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "holka isinii"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abboon"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "addeessaa ture"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "biqilaattiin"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "biqilaattiin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "isin addeessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "biqiloota kiraaqamaa"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "biqiloota kiraaqamaattiin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:58:00.051432200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kunun warra waamamtanii turan walitti dhufanii fi; mootummaa mootummoota abbootii isaanii; mataa kumaawwan Israa'elii ta'anii.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunun"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "warra waamamtanii turan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "walitti dhufanii fi"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "mootummoota"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "kumaawwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ta'anii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:20.443683142Z",
+  "model": "glm-5.3"
+}

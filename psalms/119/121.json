@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Murtii fi qajeelfama hojjedhe; ana hin dhiisin warra ani miilan.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "fi qajeelfama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ana hin dhiisin"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "warra ani miilan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:40.027972776Z",
+  "model": "glm-5.3"
+}

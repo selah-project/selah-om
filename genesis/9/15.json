@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Ani kakaa koo ⟨את⟩ yaadadha — waan anaan fi isin, fi lubbuu jireessaa qaama meeshaa hunda gidduu jiru — bishaanis booda hin taanu bishaan guutuu meeshaa balleessuuf.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ani … yaadadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakaa koo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakaa koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "anaan"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "fi isin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu jireessaa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jireessaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "qaama … hunda"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meeshaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin taanu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "taanu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "booda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "bishaan guutuu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "balleessuuf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meeshaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:53.827820349Z",
+  "model": "glm-5.3"
+}

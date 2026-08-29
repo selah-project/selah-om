@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yisraa'el hundi, Daan irraa hanga Beer-Sheebaas, Shamuu'el akka raajii Yahweef amanamaa ta'e beekan.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "beekan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Daan irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheebaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "amanamaa ta'e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'el"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "raajii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:13.919354932Z",
+  "model": "glm-5.3"
+}

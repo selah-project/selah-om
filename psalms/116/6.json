@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Yahwe warra salphattootaa eega; ani gadi-bu'aa ture, inni na oolche.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "warra salphattootaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ani gadi-bu'aa ture"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "inni na"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "oolche"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:01.469957977Z",
+  "model": "glm-5.3"
+}

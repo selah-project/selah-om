@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Ati immoo ilmaan Israa'el tajaajisuun ⟨את⟩ ilmaan Israa'el si biraatti fidaniif dhiitaa eyerantii qulqulluu ittiin tumame ifaaf, akka ifti itti fufe haa ta'u kan itti fufu dha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati immoo"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "taajaajisuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "fidaniif"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si biraatti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dhiitaa"
+    },
+    {
+      "surface": "זית",
+      "gloss": "eyerantii"
+    },
+    {
+      "surface": "זך",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ittiin tumame"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ifaaf"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "akka ifti itti fufe"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ifti"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "itti fufu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:55.503363430Z",
+  "model": "glm-5.3"
+}

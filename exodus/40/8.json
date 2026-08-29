@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Eessoo naannoo kalaafti, mahallida balbala eessootiis kaafti.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kalaafti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eessoo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "eessoo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaafti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahallida balbala eessoo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "mahallida"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "eessoo"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:18.775360056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Ergamtoonni Isa hundi Isa gammadaa; qajaalli Isa hundi Isa gammadaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa gammadaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ergamtoonni Isa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa gammadaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "qajaalli Isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.304122027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kana yoo ummata kiyya baafuu didde, anni bori ⟨את⟩ raammii daangaa kee keessatti fidu jira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kana yoo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "didde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "baafuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata kiyya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata kiyya"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "anni"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "fidu jira"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "bori"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "raammii"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "daangaa kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:13.777483739Z",
+  "model": "glm-5.3"
+}

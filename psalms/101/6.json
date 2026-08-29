@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Ijoon kiyya amantamtoota biyyaa irratti ti, waliin na jiraachuuf; karaa guutuu guutuudhaan dege, inni na tajaajila.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ijoon kiyya"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "amantamtootaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyyaa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "jiraachuuf"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "waliin natti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dege"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaadhaan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu guutuudhaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "na tajaajila"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:05.416619363Z",
+  "model": "glm-5.3"
+}

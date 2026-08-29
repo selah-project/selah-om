@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Sababiin ani jedhe, akka isaan ana irratti hin gammadan; yeroo miilaan koo dadacha'u, isaan ana irratti guddisan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka...hin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gammadan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "yeroo dadacha'u"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miilaan koo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "guddisan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:44.549289516Z",
+  "model": "glm-5.3"
+}

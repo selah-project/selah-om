@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Fayyummaan namaa wanti fayyaa hin jiru lafa keessatti, sababa boodataa kee; nagaan hin jiru lafee keessatti, sababa balleessaa kiyyaatiif.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "fayyummaan namaa wanti fayyaa"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "lafa keessatti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "bodataa kee"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "lafee keessatti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "balleessaa kiyyaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:15.153453363Z",
+  "model": "glm-5.3"
+}

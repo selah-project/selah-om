@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Akkuma onneen kiyya jaaja'ee fi kidneywwan kiyya na tiigaa jiraatti",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "jaaja'ee"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "onneen kiyya"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "kidneywwan kiyya"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "na tiigaa jira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:39.850913876Z",
+  "model": "glm-5.3"
+}

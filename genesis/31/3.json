@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Yahweenis Ya'aqoobiin jedhe: \"Bakka deebi'i gara biyya abboota keetii fi gara dhaloota keetii; aniis si wajjin jiraachadhaa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoobiin"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bakka deebi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "abboota keetii"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "fi gara dhaloota keetii"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "aniis jiraachadhaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:28.394352312Z",
+  "model": "glm-5.3"
+}

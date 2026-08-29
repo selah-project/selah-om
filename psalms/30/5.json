@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yaahweef sagalee mataa kennaa, kheesed-kan isaa; yaadannoo qulqullinnaa isaa arraabaa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "sagalee mataa kennaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaahweef"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kheesed-kan isaa"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "arraabaa"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqullinnaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:05.417373476Z",
+  "model": "glm-5.3"
+}

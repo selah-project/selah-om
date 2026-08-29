@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Simon: Sani, hojjattoonni <{}> sababa Gafuraa ni kufan; dananii dhiyaman, ka'uus hin danda'an.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "sani"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ni kufan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattoonni"
+    },
+    {
+      "surface": "און",
+      "gloss": "sababa Gafuraa"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "dananiidhiyaman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "danda'an"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka'uus"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:29.088696343Z",
+  "model": "glm-5.3"
+}

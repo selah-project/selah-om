@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Ani immoo Efiraayim deemsisu barbaachaa'e, harka isaa qabatee; garuu ani isaan Fayyisuu akka jedhu hin beekne.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ani immoo"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "deemsisu barbaachaa'e"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efiraayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "qabatee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra\/itti"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "Fayyisuu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:33.139184013Z",
+  "model": "glm-5.3"
+}

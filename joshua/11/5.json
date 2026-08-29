@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Mootonni kun hundi walitti walitti dhufanii, bishaan Meeroom birutti gama tokkotti buufatan, Israa'el wajjin loluuf.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "walitti dhufanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "buufatan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "gama tokkotti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Meeroom"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "loluuf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T14:37:45.313548039Z",
+  "model": "glm-5.3"
+}

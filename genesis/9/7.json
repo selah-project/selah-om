@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Isin ammoo horsiisaa, baay'aa; daaraa biyya guutuutti, fi ishee keessatti baay'aa.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "isin ammoo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "horsiisaa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "baay'aa"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "daaraa guutuutti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "baay'aa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:54.400440331Z",
+  "model": "glm-5.3"
+}

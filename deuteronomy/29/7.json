@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Dachii isaanii ⟨את⟩ fudhanne, dhalattootti Re'uubeenotaaf, Gaadotaaf fi walakka mootummaa Manaasseef kennine.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "fudhanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dachii isaanii"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dachii isaanii"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "kennine"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dhalattootti"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Re'uubeenotaaf"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gaadotaaf"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "walakkaaf"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Manaassee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:44.485789409Z",
+  "model": "glm-5.3"
+}

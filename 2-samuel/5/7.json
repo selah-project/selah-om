@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Daawidis ⟨את⟩ dhaabbata cimaa Tsiyoon qabate — innis magaalaa Daawid ti.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "qabate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaabbata cimaa Tsiyoon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "dhaabbata cimaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T07:46:21.113464726Z",
+  "model": "glm-5.3"
+}

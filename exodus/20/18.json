@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sabaan hundi ⟨את⟩ sagaleewwan ii fi ⟨את⟩ madasawwan ii fi ⟨את⟩ sagalee giishoo (shofaraa) ii fi ⟨את⟩ gaara aa upheachuu (asinii) arguunii; sabiinis yeroo arganii tiyoonni, fageetti dhaabbani.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "arguunii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagaleewwan ii"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "sagaleewwan ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "madasawwan ii"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "madasawwan ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "sagalee giishoo (shofaraa) ii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "giishoo (shofaraa) ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "gaara aa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaara aa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "upheachuu (asinii)"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yeroo arganii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabiinis"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "tiyoonni"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dhaabbani"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "fageetti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:53.077956829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Isaanitti jedhi: 'Kunuusa — ani nan jiraadhu, Yahwe isiiniin jedha — akkuma gurra kootiin jettan, akkasuma nan taasisa gara keessan.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan jiraadhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isiiniin jedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "jettan"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "gurra kootiin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nan taasisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gara keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:57:32.027829740Z",
+  "model": "glm-5.3"
+}

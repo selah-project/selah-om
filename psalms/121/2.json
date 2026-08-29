@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Eegumsi koo Yahwe irraa, kan uumaa samiiwwanii fi lafaa ti.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Eegumsi koo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan uumaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "fi lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:52.459701352Z",
+  "model": "glm-5.3"
+}

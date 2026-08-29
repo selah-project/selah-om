@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Inni Yahwe, Eloohiim keenya; murtoonni isaa ⟨салa⟩ biyya guutuu keessatti.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "murtoonni isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:05.404699763Z",
+  "model": "glm-5.3"
+}

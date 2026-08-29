@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahwe yeroo hundaattiin ⟨את⟩ ni eebbessa; faarfannaa Isaa hin cinne afaan koo keessatti ⟨ta'a⟩.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "ni eebbessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hin cinne"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "faarfannaa Isaa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afaan koo keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:27.017462178Z",
+  "model": "glm-5.3"
+}

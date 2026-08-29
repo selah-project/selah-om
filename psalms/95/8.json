@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Onnee keessanii akka Meriibaa hin ciminaa, akka guyyaa Maasaa biyya duwwaa keessatti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ciminaa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onnee keessanii"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "akka Meriibaa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Maasaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "biyya duwwaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:04.602815337Z",
+  "model": "glm-5.3"
+}

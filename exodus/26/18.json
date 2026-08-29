@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Caasolee Mana Wolfakkaatumsaas achitti dhiyeessa; lixini caasaa gabbaa faana gibbii ta'aanitti.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dhiyeessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caasolee"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "caasolee"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mana Wolfakkaatumsaas"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "lixini"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "caasaa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "faana"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "gibbii (gabbaa)"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "gibbii ta'aanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:38.069300360Z",
+  "model": "glm-5.3"
+}

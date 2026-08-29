@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Avrahaam ⟨את⟩ Saaray haadha manaa isaa fi ⟨את⟩ Loot ilma obboleessa isaa fi ⟨את⟩ maaltaa isaan himatan hunda fi ⟨את⟩ lubbuuwwan isaan Chaaraan uuman fudhatee, biyya Kenaan deemuu baheeraan; biyya Kenaanitti dhufaniiru.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saaray"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "haadha manaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Loot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maaltaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "maaltaa isaanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "himatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuuwwan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "lubbuuwwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uuman"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Chaaraan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "baheeraan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemuu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufaniiru"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:42.145356275Z",
+  "model": "glm-5.3"
+}

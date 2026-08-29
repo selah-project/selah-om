@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Teessa, obboleessa kee irratti dubbatta; ilma haadha kee irratti shallagii baafatta.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "teessa"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "obboleessa kee irratti"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dubbatta"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha kee"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "baafatta"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "shallagii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:10.448221200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Abshaalomooni fi ummanni hunda, gootonni Israa'el, Yerushaalayim dhufaniiru; Axitoofelis ⟨את⟩ isa waliin ture.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Abshaalomooni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gootonni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufaniiru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Axitoofelis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa waliin",
+      "marks": "isa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:53.935374151Z",
+  "model": "glm-5.3"
+}

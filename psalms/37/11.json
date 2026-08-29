@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Cittoonni immoo dachee dabalatanii qabatu, rakoo nagaa baay'ee irratti gammachu.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "cittoonni immoo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "dabalatanii qabatu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "gammachu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:47.387043752Z",
+  "model": "glm-5.3"
+}

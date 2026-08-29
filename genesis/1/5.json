@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis ifaa «Guyyaa» jedhe; ichaas «Halkan» moggaase. Gaararris booddee ta'e; booddeennis ganama ta'e — guyyaa tokko.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "iffaaf"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ichaaf"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "moggaase"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Halkan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "booddee"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:45.527976394Z",
+  "model": "glm-5.3"
+}

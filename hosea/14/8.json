@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Gara deebii isaa warri gadii isaa jiraatan deebi'u; daaddii ni jiraatu, akka madiiaa ni biraachatu; yaadannoon isaa akka waan Lebnoon ta'a.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warri...jiraatan"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "gadii isaa"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ni jiraatu"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "daaddii"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "ni biraachatu"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "akka madiiaa"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "yaadannoon isaa"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebnoon"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:43.223904288Z",
+  "model": "glm-5.3"
+}

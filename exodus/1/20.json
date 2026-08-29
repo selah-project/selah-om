@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis deeggartota dhalootaaf milkaa'e; sababni baay'ees, baay'ee humna guddaan cimani.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "milkaa'e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "deeggartota dhalootaaf"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "baay'ees"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "cimani"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee humna guddaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:05.964985992Z",
+  "model": "glm-5.3"
+}

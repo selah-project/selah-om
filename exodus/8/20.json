@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahwenis akkas hojjete; gareen zeenaa raskaantuu mana Par'oh, mana gabroottaa isaa fi biyya Mitsraayim hundumaatti dhufe; biyyi dachee gareen zeenaa gatiin balleeffamte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akkas hojjete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gareen zeenaa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskaantuu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "manas"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroottaa isaa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "balleeffamte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyi dachee"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gatiin"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gareen zeenaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:18.794841256Z",
+  "model": "glm-5.3"
+}

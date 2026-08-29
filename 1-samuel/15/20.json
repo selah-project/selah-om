@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sa'uliis Semu'iiliinis ni jedhe: «Ya'weegaa ergaa isaa dhageeffadheera, karaa Ya'ween na erguun n deemeera; ⟨את⟩ Agaag, mootii Amaleek, fudhadhee nan fiderra, ⟨וжאת⟩ Amaleek nan herregsera.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sa'uliinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…tti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semu'iiliinis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhageeffadheera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ergaa isaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ya'weegaa"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "n deemeera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "na erguun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ya'ween"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "nan fiderra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "nan herregsera"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:02.652358066Z",
+  "model": "glm-5.3"
+}

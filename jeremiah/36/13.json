@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Mikaayeli isaanitti himuu ⟨את⟩ jechoota hunda waan Barooki gurra namootaa keessatti barreeffama rullaa dubbise.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "himuu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikaayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "dubbisuu"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barooki"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "barreeffama rullaa keessatti"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "gurra keessatti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:46:41.023918104Z",
+  "model": "glm-5.3"
+}

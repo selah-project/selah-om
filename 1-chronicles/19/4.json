@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Chaanuun immoo ⟨את⟩ sooftota Daawid fudhatee goggee isaan mo'ate; uffata isaanis walakkaatti hanga mudura gadiitti baay'ee buuse; achumaan isaan erga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chaanuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sooftota Daawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sooftota"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "goggee isaan mo'ate"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "baay'ee buuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffata isaan"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "uffata isaan"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "walakkaatti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "mudura gadiitti"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "isaan erga"
+    }
+  ],
+  "timestamp": "2026-08-29T13:39:46.914597675Z",
+  "model": "glm-5.3"
+}

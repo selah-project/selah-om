@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Ashshur biyya kiyya keessatti cabsuuf, gaarreen kiyya irrattis ni ha'a; hiyyeen isaa isaan irraa fi, ulfaanni isaa geengoo isaa irraas ni deema.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "cabsuuf"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "biyya kiyya keessatti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gaarreen kiyya"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "ni ha'a"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ni deema"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hiyyeen isaa"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "ulfaanni isaa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "geengoo isaa irraa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "geengoo"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ni deema"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:34.875773400Z",
+  "model": "glm-5.3"
+}

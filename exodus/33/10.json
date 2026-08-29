@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Sardiin hundi utubaa duumotaa balaqqeessa edduutti dhaabbachuu agarte; sardiin hundi ka'e, namni tokkon balaqqeessa edduu isaa tiin suuge.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "agarte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sardiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utubaa duumotaa"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "utubaa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duumotaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dhaabbachuu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balaqqeessa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "edduutti"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sardiin"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "suuge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkon"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balaqqeessa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "edduu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:23:06.196148558Z",
+  "model": "glm-5.3"
+}

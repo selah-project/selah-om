@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Inni isaa akka uffata isa haguugu, fi akka hafuraa yeroo hunda isa marsu taadhaa.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "taadhaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "akka uffata"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "isa haguugu"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "akka hafuraa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "isa marsu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:13.240912537Z",
+  "model": "glm-5.3"
+}

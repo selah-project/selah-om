@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Bakka goongoo baadiyyaa taa'a; bakkee dhokataa keessatti nafiisa ajjeesa; iji isaa nama dhibbe irratti dhokatee eeggata.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "taa'a"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "bakka goongoo"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "baadiyyaa"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "bakkee dhokataa keessatti"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ajjeesa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nafiisa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iji isaa"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "nama dhibbe"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "dhokatee eeggata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:39.522486755Z",
+  "model": "glm-5.3"
+}

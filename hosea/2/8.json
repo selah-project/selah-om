@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kanaafuu, agarraa — karaa kee ⟨את⟩ muka-sammuu'n saamsa; godee ishee ⟨את⟩ iyyu dha; karaawwan ishee hin argitu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "agarraa"
+    },
+    {
+      "surface": "שך",
+      "gloss": "saamsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaa kee"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaa kee"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "muka-sammuu'n"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "iyyu dha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "godee ishee"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "godee ishee"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "karaawwan ishee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "argitu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:37:18.494216169Z",
+  "model": "glm-5.3"
+}

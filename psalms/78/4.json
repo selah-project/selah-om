@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Ijollee isaanii irraa hin dhoknu; kornyaan boodaa irratti faarfannaa Yahwe, humna Isaa fi raawwii Isaajajawoo Isaa hojjetedhaan himna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "dhoknu"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "Ijollee isaanii irraa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kornyaan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "boodaa irratti"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "himna"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "humna Isaa fi"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "raawwii Isaajajawoo Isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.416080546Z",
+  "model": "glm-5.3"
+}

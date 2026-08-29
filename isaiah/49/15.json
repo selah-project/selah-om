@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Sila dubartii daa'ima hojjachuu ishee dagee, mucaa garaa ishee irraa hin nampsiisu? Akka isaan daganiis, Ani si hin dagaadhu.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "hin dagee"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "daa'ima hojjachuu ishee"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "garaa ishee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "daganiis"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "dagaadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:00:30.783225204Z",
+  "model": "glm-5.3"
+}

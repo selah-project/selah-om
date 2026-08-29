@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Jechoota hunda kan liqimsuu jaallatte, yaa arraba riibaa!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "jaallatte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "kan liqimsuu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "arraba"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "riibaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:47.637707529Z",
+  "model": "glm-5.3"
+}

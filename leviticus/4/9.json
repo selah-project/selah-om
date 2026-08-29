@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Giddigala lamaan, fi ⟨את⟩ coomsa isaan irratti argamu — isa kan kallallii (כסלים) irratti — fi ⟨את⟩ dheerina keessaa kan tiruu irratti argamu, giddu giddigalaatti, ni haala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giddigala lamaan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lamaan"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "giddigala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "coomsa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "coomsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "isaan irratti argamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "kallallii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheerina"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "dheerina keessaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tiruu"
+    },
+    {
+      "surface": "על",
+      "gloss": "giddu"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "giddigalaatti"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ni haala"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:11.110030610Z",
+  "model": "glm-5.3"
+}

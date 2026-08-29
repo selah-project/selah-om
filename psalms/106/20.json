@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Fi kabaja isaanii ⟨את⟩ akka caasaa saaa marga nyaatu waliin jijjiiraniif dhiibanii.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "fi jijjiiraniif dhiibanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabaja isaanii"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kabaja isaanii"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "akka caasaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "saaa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaatu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "marga"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:35.657992778Z",
+  "model": "glm-5.3"
+}

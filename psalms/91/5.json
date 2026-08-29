@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Halkan rifeensa sodaachisa akkaataa dhokanii hin sodaatu, sagalee guyyaa akka naannataas hin sodaatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodaatu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sodaachisa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "rifeensa"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "akka naannata"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:11.718085771Z",
+  "model": "glm-5.3"
+}

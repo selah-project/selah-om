@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Citra-citra isaa gediti, akkasumas ⟨את⟩ mataa isaa fi ⟨את〕 boontaa isaa; abbaan-abbumaa ⟨אתם⟩ isaan mukewwan irratti — ibidda irratti, gorsaa irratti — haara-taasisa.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "gediti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "citra-citra isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "mataa isaa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "boontaa isaa"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "boontaa isaa"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "fi haara-taasisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abbaan-abbumaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mukewwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gorsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:01.918911753Z",
+  "model": "glm-5.3"
+}

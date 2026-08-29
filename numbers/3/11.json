@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahween Moshee wajjin dubbate akka jedhuu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjin gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:41.418703798Z",
+  "model": "glm-5.3"
+}

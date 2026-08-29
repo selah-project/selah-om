@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Gammachuu qabu nama humna isaa si keessatti qabu, daandiiwwan onneetti isaa keessatti qaban.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gammachuu qabu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "daandiiwwan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "onnee isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:00.406644539Z",
+  "model": "glm-5.3"
+}

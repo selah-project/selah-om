@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 134,
+  "translation": "Shiira Ol-ka'umsaa. Haaloo, haa eebbissanii ⟨את⟩ Yahwe, hundi keenya gabboofoota Yahwe, isaan mana Yahwe keessatti halkan halkaniitti dhaabbatan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shiira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Ol-ka'umsaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Haaloo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "haa eebbissanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabboofoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "halkan halkaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:24.286931837Z",
+  "model": "glm-5.3"
+}

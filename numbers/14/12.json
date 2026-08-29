@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Ani isaani dhukkuba baay'ee-du'aatiin rukuta, isaan irraas baafadha; si immoo ⟨את⟩ gosa isaani irra guddaa fi cimaa taasisa.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "rukuta (isaani)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dhukkuba baay'ee-du'aatiin"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "isaan irraa baafadha"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "fi cimaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaani irraa (isaani caalaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:58:00.181036737Z",
+  "model": "glm-5.3"
+}

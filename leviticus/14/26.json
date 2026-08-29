@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Qaalliinis zayitaa irraa caafa harka isaa bitaa irratti dhangalaasa.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "dhangalaasa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qaalliinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כף",
+      "gloss": "caafa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bitaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:30.039276217Z",
+  "model": "glm-5.3"
+}

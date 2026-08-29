@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Sanyii bilisummaa ani lafa irratti jira; ajajoota kee ani irraa hin dhoksi.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "sanyii bilisummaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin (dhorkaa)"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dhoksi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ani irraa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ajajoota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:53.502101880Z",
+  "model": "glm-5.3"
+}

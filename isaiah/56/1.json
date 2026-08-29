@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Akka kanatti Yahwe jedheera: murtii eegaa, karaa-qabummaa raawwadhaa, sababoonni gammachi kiyya dhufuuf dhihooti, karaa-qabummaan kiyyas ifa ba'uuf dhihooti.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka kanatti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedheera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "raawwadhaa"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "karaa-qabummaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababoonni"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "dhihooti"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "gammachi kiyya"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "dhufuuf"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "karaa-qabummaan kiyyas"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "ifa ba'uuf"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:32.688805538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Inni jedhe: \"Fuula kiyya arguu hin dandeessu, sababaa namni iyyoo koo hin argu, hin jiraatu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "dandeessu"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "arguuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kiyya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "iyyoo koo argu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "hin jiraatu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:21.724805174Z",
+  "model": "glm-5.3"
+}

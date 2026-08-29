@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Yeroo dheeraa fi, Yahwe, adabbii kee itti fufuu? Cirrattu akka ibiddaatti dhiigaa kee?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "yeroo dheeraa fi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "akkam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "adabbii kee"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "itti fufuu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "cirrattu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaatti"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "dhiigaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:47.382014268Z",
+  "model": "glm-5.3"
+}

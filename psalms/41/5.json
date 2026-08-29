@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Ani jedhe: Yahwe, natti mararfadhu, lubbuu koo adaasi, sababiin ani siif balleessaa jira.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "natti mararfadhu"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "adaasi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "balleessaa jira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:50.632595554Z",
+  "model": "glm-5.3"
+}

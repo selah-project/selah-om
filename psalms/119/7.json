@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Faarfama siin qaba onnee qajeelaa tiin yeroo murannoo miidhaginaa kee baraduu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Faarfama siin qaba"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "qajeelaa tiin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "yeroo baraduu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murannoo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "miidhaginaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:32.563519561Z",
+  "model": "glm-5.3"
+}

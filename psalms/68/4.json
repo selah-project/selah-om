@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Warri miidhagnaas haa gammadu, fuula Eloohiim dura haa boonsitan, haa jaallatan gammatadhaan.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Warri miidhagnaa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "haa gammadu"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "haa boonsitan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula ... dura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "haa jaallatan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "gammatadhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:11.118529272Z",
+  "model": "glm-5.3"
+}

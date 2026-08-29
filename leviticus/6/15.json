@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Abbaan qulqullummaa kan Dibame, Isa booda ilmaan isa keessaa taate, akka seera yeroo hundaa Yahwef ta'etti guutumaan guutuu ni too'atta — ⟨את⟩ seericha akka hojjette.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "ii Abbaan qulqullummaa"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "kan Dibame"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "Isa booda"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ilmaan isa keessaa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjetta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "seera yeroo hundaa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hundaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "guutumaan guutuu"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "too'atta"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:53.242006984Z",
+  "model": "glm-5.3"
+}

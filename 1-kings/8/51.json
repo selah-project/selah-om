@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sababaa sabni kee fi dhaaltummaan kee isaanii dha; Gibxii irraa, gidduu gulufa sibiilaa irraa waan baafte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sabni kee"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "fi dhaaltummaan kee"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaaniidha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "baafte"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Gibxii irraa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "כור",
+      "gloss": "gulufa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "sibiilaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:08:53.189436881Z",
+  "model": "glm-5.3"
+}

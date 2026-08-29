@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sabni koos deebii koo irratti dhoorkaa jira; gara Elyoon waamamu, hundi waliin tokkollee ol hin kaafaman.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "sabni koos"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "dhoorkaa jira"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "deebii koo irratti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "על",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "waamu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "ol kaafaman"
+    }
+  ],
+  "timestamp": "2026-08-29T15:19:55.797059704Z",
+  "model": "glm-5.3"
+}

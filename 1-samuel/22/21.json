@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Abiyyataaris Daawidiif himesaa, Saawuul akka ajjeese kaasanoota Yahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "himesaa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyyataar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidiif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saawuul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaasanoota Yahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kaasanoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:21.967153680Z",
+  "model": "glm-5.3"
+}

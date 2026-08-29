@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Isaaniinis Moshe duraan ⟨את⟩ kennaa hunda warra Israa'iel hojii qulqullummaa tajaajilaaf akka hojjataniif dhiyyeffaman fuudhan; isaan garuu ganama ganamatti kennaa fedhii isaa biratti itti fufuudhaan dhiyyeffatan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "fuudhan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "duraan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dhiyyeffaman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tajaajilaaf"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "akka hojjataniif"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isa (kennaa)"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaan garuu"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dhiyyeffatan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaa biratti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "itti fufuudhaan"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kennaa fedhii"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganamatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:05.905596128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Innis karaawwan moototaa Israa'eel keessa deeme; akkasumas fakkiiwwan bulbulaman Baalootaaf taasise.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "karaawwan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "moototaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "fakkiiwwan bulbulaman"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:04:22.829295789Z",
+  "model": "glm-5.3"
+}

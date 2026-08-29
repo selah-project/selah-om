@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yahween Mosheetti dubbate, akka jedhuutiin:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:43.399904842Z",
+  "model": "glm-5.3"
+}

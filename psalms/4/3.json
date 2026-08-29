@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ilmoolee namootaa, hanga kami kabaja koo rifeensa taasiif? Waan duwwaa jaalattanii soba barbaaddaa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmoolee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kabaja koo"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "rifeensa taasiif"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "jaalattanii"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "waan duwwaa"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "barbaaddaa"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "soba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:22.160652032Z",
+  "model": "glm-5.3"
+}

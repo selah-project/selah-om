@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani deebi'ee onnee koo hojii hundaa irratti kufsisuu godhe, ani hojjedhe jala aduu.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "kufsisuu godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee koo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aaduu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:48.672536470Z",
+  "model": "glm-5.3"
+}

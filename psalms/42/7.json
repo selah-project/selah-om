@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Eloohii koo, lubbuun koo kiyya irratti kuffatte; kanaafuu yaadadhe Si — biyya Yardeni irraa fi Hermooniwwan irraa, gaara Mitsariiti.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohii koo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kiyya irratti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "kuffatte"
+    },
+    {
+      "surface": "על",
+      "gloss": "… irratti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "yaadadhe Si"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya … irraa"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "Hermooniwwan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gaara … irraa"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:38.204025374Z",
+  "model": "glm-5.3"
+}

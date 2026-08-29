@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Fi ⟨את⟩ Keedemootiin fi ⟨את⟩ daawwana ishee, fi ⟨את⟩ Meefaatiin fi ⟨את⟩ daawwana ishee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Keedemootiin"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Keedemootiin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daawwana ishee"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "daawwana ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Meefaatiin"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meefaatiin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daawwana ishee"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "daawwana ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:51.248790480Z",
+  "model": "glm-5.3"
+}

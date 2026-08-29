@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Maqaa kooitiin waamame hundinuu — kabaja koo irratti — uume; caasaatti bogee; akkasumas hojjedhe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "waamame"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "maqaa kooitiin"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "kabaja koo irratti"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "uume"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "caasaatti bogee"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "hojjedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:13.573662951Z",
+  "model": "glm-5.3"
+}

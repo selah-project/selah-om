@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kunniin murtiwwan isaatiin Moshee duraa dhooftamu dha.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kunniin"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "murtiwwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaatiin"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "dhooftamu"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "dura"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:39.643830878Z",
+  "model": "glm-5.3"
+}

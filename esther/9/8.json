@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Akkasumas ⟨את⟩ Porathaa fi ⟨את⟩ Adalyaa fi ⟨את⟩ Aridathaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Porathaa"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Porathaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adalyaa"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adalyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aridathaa"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridathaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:20.118090075Z",
+  "model": "glm-5.3"
+}

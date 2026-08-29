@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Jechi kiyya baay'ee qulqullaa'e, kiyyas isa jaalladha.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "qulqullaa'e"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jecha kee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "abdi kiyya"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "jaalladha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:30.475576620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Maaltu faayidaa hojjetaaf jirti, waan inni itti dhibbatu keessatti?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "faayidaa"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "hojjetaa"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "waan…keessatti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhibbata"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:19.291083580Z",
+  "model": "glm-5.3"
+}

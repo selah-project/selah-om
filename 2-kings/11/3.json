@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Inni ishee wajjin mana Yahwee keessatti waggaa jaha dhokataa-dhokataa ture; Atalyaanis biyya irratti bulchite.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ishee wajjin ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "dhokataa-dhokataa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalyaanis"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "bulchite"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T08:30:27.629717146Z",
+  "model": "glm-5.3"
+}

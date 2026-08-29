@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Dhoqa irraa na ariifachiisi; akka hin lixinuus na godhi; warra na jibbu irraa fi cudduu bishaanii irraas na bitaadhii.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "na ariifachiisi"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dhoqa irraa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akka hin ... -nuus"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "lixinu"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "na bitaadhii"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "warra na jibbu irraa"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "cudduu ... irraas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:25.129861892Z",
+  "model": "glm-5.3"
+}

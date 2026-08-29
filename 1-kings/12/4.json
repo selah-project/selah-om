@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Abbaan kee handaara keenya ulfaatise; ati amma tajaajila abbaa kee aaraa fi handaara isaas ulfaataa inni nu irratti kaahe raksi; nutiis si tajaajilla.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "abbaan kee"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ulfaatise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handaara keenya"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "handaara keenya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "raksi"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "tajaajila"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "aaraa"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "handaara isaas"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kaahe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "si tajaajilla"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:08.979105400Z",
+  "model": "glm-5.3"
+}

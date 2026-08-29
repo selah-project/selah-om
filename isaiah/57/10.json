@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Baay'ina karaa keetiin guddessa deemuute, 'kuffadha' jettee miti; jireenyi harka keetti argameef, kanaaf hin dhukkubneetti miti.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "baay'ina"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaa keetiin"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "guddessa deemuute"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "jettee"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "kuffadha"
+    },
+    {
+      "surface": "חית",
+      "gloss": "jireenyi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "argameef"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "dhukkubneetti miti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:14:28.342341683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Simu naa ⟨את⟩ waan Yahwe jedhu: Ka'i, gaaraawwan wajjin waldhaadhu, gogeewwanis sagalee kee haa siman.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "simu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "waldhaadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaaraawwan"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaaraawwan"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "haa siman"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "gogeewwanis"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sagalee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:56:33.107526675Z",
+  "model": "glm-5.3"
+}

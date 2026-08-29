@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Gosa Asher irraas ⟨את⟩ Maashalii fi ⟨את⟩ lafa loltuu isaa, fi ⟨את⟩ Abdonii fi ⟨את⟩ lafa loltuu isaa.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "gosa ... irraas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maashalii"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Maashalii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa loltuu isaa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lafa loltuu isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Abdonii"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdonii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa loltuu isaa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lafa loltuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:32:47.880009819Z",
+  "model": "glm-5.3"
+}

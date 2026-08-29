@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yihonataanis deebisee ⟨את⟩ Sha'uul abbaa isaa, akkas isa jedhe: «Maaliif ajjeeffama? Maal raawwate?»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yihonataanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'uul abbaa isaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ajjeeffama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "raawwate"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:19.322736125Z",
+  "model": "glm-5.3"
+}

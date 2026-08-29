@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahween madda Israa'elii fi madda Mitsraayim gidduu adda baasa; mucaa Israa'elii wantoota hundumaatti wanti tokkolleen hin duutu.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "adda baasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "madda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "madda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "duutu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wantoota hundumaatti"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanti tokkolleen"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:53.655056440Z",
+  "model": "glm-5.3"
+}

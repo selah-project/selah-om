@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Eelii kiyya, Eelii kiyya, maaltu na dhiite? Fageetti badhaadhu kiyyaa irraa, jechoota saanaa kiyyaa irraas.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eelii kiyya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eelii kiyya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "na dhiite"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fageetti"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "badhaadhu kiyyaa irraa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "saanaa kiyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:24.281682794Z",
+  "model": "glm-5.3"
+}

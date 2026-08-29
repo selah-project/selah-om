@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Ati immoo, yaa Yahwe, naa genfadhu, naa kaasi, isaanittiin kaffaladha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati immoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "naa genfadhu"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "naa kaasi"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "kaffaladha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanittiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:23.743222232Z",
+  "model": "glm-5.3"
+}

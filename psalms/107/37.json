@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Baadiyywan zir'anii, margiiwan lonbu; mudura badhaadhaa hojjetan.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "zir'anii"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "baadiyywan"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "lonbu"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "margiiwan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjetan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mudura"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "badhaadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:40.835914330Z",
+  "model": "glm-5.3"
+}

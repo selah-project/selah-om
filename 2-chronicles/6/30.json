@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 6:30",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Atis samii irraa — teessoo jireenyaa kee irraa — dhageessaa, araaramuu, fi namicha tokkoffatti akka karaawwan isaa hundaatti kennitaa, waan onnee isaa ⟨את⟩ beektuuf; kanaaf Ati qofa onnee ⟨את⟩ ilmaan namoomaa beekta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Atis"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "jireenyaa kee"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "fi araaramuu"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "fi kennitaa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namicha tokkoffatti"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka...hundaatti"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "karaawwan isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee isaa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beekta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namoomaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:53:05.794198706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Dhiphinni hawwii irra caalmaa qaba, sababun fuulli raawwaan onnee ni tola.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caalmaa qaba"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "dhiphinni"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "hawwii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababun"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "raawwaan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fuulli"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ni tola"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:59.708577468Z",
+  "model": "glm-5.3"
+}

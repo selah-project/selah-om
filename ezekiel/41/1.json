@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Akkkasumas naan galeessa heekalaa; utuboota ⟨את⟩ safena: amaa jaha bal'ina dhuma tokko irraa, fi amaa jaha bal'ina dhuma biraa irraa — bal'ina teentii.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "naan galeessa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galeessa"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heekalaa"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "safena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utuboota"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "utuboota"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'ina"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "dhuma tokko irraa"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "fi jaha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'ina"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "dhuma biraa irraa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'ina"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teentii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:30:34.653535886Z",
+  "model": "glm-5.3"
+}

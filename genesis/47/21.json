@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Ammoo lammiilee ⟨את⟩ ni magaalotaatti godaanesse, margaa daangaa Mitsraayim irraa hanga dhuma isaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lammiilee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lammiilee"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "godaanesse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "magaalotaatti"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "magaalotaatti"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "margaa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangdhumaa"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "dhumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:58.294616437Z",
+  "model": "glm-5.3"
+}

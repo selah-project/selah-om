@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Yahwe ija boontoota bana; Yahwe kanneen kufan dhaabbata; Yahwe raawwattoota jaalata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ija bana"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "boontoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "kanneen kufan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalata"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "raawwattoota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:56.425623102Z",
+  "model": "glm-5.3"
+}

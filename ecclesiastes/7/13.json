@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Raadi ⟨את⟩ hojii Eloohiim, sababiin eenyu ⟨את⟩ waan inni xureesse sirreessee danda'a?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Raadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojii"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "danda'a"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "sirreessee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "xureesse"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:23.632092158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Kunoo, iji Yahwe gara warra Isa kabajaniitti, gara warra kheesed Isa eeganiitti.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "warra Isa kabajaniitti"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "eeganiitti"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kheesed Isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:52.667171429Z",
+  "model": "glm-5.3"
+}

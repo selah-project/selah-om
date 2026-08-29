@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Kanaafuu kheesed kee gara samiitti guuddaa dha, fi amantii kee gara shahaakotaatti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "guuddaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara samiitti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiitti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi gara shahaakotaatti"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "shahaakotaatti"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "amantii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:18.191808544Z",
+  "model": "glm-5.3"
+}

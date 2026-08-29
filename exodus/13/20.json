@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Misukkootti irraa socho'anii Eetaamtti qubaniiru, daangaa baddadare irratti.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "socho'anii"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Misukkootti"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "qubaniiru"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Eetaamtti"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "daangaa-irratti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baddadare"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:27.131983354Z",
+  "model": "glm-5.3"
+}

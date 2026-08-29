@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Hoolotaafi gabbisa; hundi isaanii, akkasumas beellota dachii.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Hoolotaa"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "gabbisa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hundi isaanii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "beellota"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dachii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:04.700330214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahween isaatti akkas jeeti: Maqaa isa Yizre'eel jedhi; sababiin isiin xiqqo dabre, akkaan dhiiga Yizre'eel ⟨את⟩ mana Yeehuu irratti nan murteessa, mootummaa mana Israa'elis dhaabuu nan godha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jeeti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Maqaa isa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'eel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isiin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqo"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "nan murteessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga Yizre'eel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'eel"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yeehuu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "dhaabuu nan godha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:03.358313221Z",
+  "model": "glm-5.3"
+}

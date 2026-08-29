@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Kadhannoon kiyya fuulduraa kee haa dhufu; gurra kee sagalee gurraacha kiyyaaf narteessiisi.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "haa dhufu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuulduraa kee"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannoon kiyya"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "narteessiisi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "sagalee gurraacha kiyyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:46.292572165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Khenok waggaa shanii fi jaantama jiraatee, ⟨את⟩ Metushelakh dhalse.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraatee"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khenok"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanii"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "fi jaantama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelakh"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelakh"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:03.015979538Z",
+  "model": "glm-5.3"
+}

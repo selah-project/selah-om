@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yerushaalayim hunda, abbaltota hunda fi waraanaa cimoota hunda — kuma kudhan isaan godaansa godaanessee — hojjatoota fi meeshaa-boccatoota hunda [isaa godaanessee]; namoota biyyaa madaawaa moo hafu malee hin hafne.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "godaanessee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalayim hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "abbaltota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "abbaltota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "waraanaa cimoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "cimoota"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "godaansa [isaan godaanessee]"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "hojjatota"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "fi meeshaa-boccatota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "hafne"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "malee"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "madaawaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:44:41.744349101Z",
+  "model": "glm-5.3"
+}

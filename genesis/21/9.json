@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Saarraan itti argite ⟨את⟩ ilma Haagaar Mitsraayimtii, kan Avrahaamif dhaltute, ni naachaa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "itti argite"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saarraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Haagaar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsraayimtii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhaltute"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahaamif"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "ni naachaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:14.659452739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Na kabajaa yaa Eloohiim, sababa nama du'aan hafa na na'eef; guyyaa guutuu warri laguu na gadi-dhiibaa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Na kabajaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "hafa na na'e"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nama du'aan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "laguu"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "na gadi-dhiibaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:03.415105802Z",
+  "model": "glm-5.3"
+}

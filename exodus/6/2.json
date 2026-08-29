@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Eloohiimiin Moshee'in haasofse; innis 'iin jedhe: «Ani Yahwe ti.»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haasofse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'iin (gara)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "'iin (gara isaa)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:41.114976250Z",
+  "model": "glm-5.3"
+}

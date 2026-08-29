@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Simannaa gogaa irratti na dhaggeeffatu; ilmootni alagaa na sobaan ajajamu.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "simannaa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "na dhaggeeffatu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmootni"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alagaa"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "na sobaan ajajamu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:18.704066888Z",
+  "model": "glm-5.3"
+}

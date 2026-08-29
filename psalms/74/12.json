@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Eloohiim immoo ⟨is⟩ Mootin koo jalqaba duraa, badhaasa cidha lafaa keessatti hojjeta.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Eloohiim immoo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mootin koo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "jalqaba duraa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojjeta"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badhaasa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "cidha lafaa keessatti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:57.854678110Z",
+  "model": "glm-5.3"
+}

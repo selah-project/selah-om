@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Eloohiimis Bil'aanitti mul'ate; innis Isaatti jedhe: ⟨את⟩ ijjeera torbeetti caaphadheer, sacuu fi boru tokko ijjeera irratti ol-anee.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "mul'ate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bil'aan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijjeera torbee"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torbee"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "ijjeera"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "caaphadheer"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ol-anee"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sacuu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "fi boru tokko"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ijjeera irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:05:05.901594322Z",
+  "model": "glm-5.3"
+}

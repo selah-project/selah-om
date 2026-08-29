@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yeroo hunda uffataan kee adi ta'; cubbuun mataa keetiis haa hir'atu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "uffataan kee"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "adi"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "cubbuun"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "mataa keetiis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "hir'atu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:00.529877500Z",
+  "model": "glm-5.3"
+}

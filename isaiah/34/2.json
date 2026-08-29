@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kanaaf, booda boodaan Yahwe irratti garaa garaawwan hundaatiif, aarseefis qajeelcha isaanii hunda irratti; balleessaa isaaniif hin dabarsitu, sluughteratti kenne isaaniiti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "booda boodaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "garaawwan"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "aarseefiis"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "qajeelcha isaanii"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "balleessaa isaaniif hin dabarsitu"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "kenne isaaniiti"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "sluughteratti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:02:53.309643234Z",
+  "model": "glm-5.3"
+}

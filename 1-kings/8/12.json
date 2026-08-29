@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yeroo sana Sileemooni jedhe: Yahwe ni jedhere, \"Bosonaa gogaa duubaa duubaa duubaa keessatti \"",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo sana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sileemooni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ni jedhere"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "jiraachuu"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "bosonaa gogaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:50:16.338928958Z",
+  "model": "glm-5.3"
+}

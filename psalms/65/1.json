@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Bisaasummaaf; mizmoora Daawidiif; gabatee (wajjinootaa).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bisaasummaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidiif"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "gabatee (wajjinootaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:10.723656494Z",
+  "model": "glm-5.3"
+}

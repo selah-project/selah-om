@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe isa eeganiif tola, lubbuu isa barbaadaniifi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "isa eeganiif"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "isa barbaadu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:29.302650785Z",
+  "model": "glm-5.3"
+}

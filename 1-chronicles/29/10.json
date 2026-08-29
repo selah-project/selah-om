@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Daawidis Yahwe ⟨את⟩ ilaaltii gamaddii hunda keessatti eebbissee, Daawid ni jedhe: \"Eebbifame taatus, Yahwe, Eloohiim Israa'el, abba keenya, bara dhokaa irraa hanga bara dhokatti.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "eebbissee"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ilaaltii keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gamaddii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Eebbifame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "taatus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "abba keenya"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "bara dhokaa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bara dhokatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:41:04.948310050Z",
+  "model": "glm-5.3"
+}

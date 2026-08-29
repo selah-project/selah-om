@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Bulchiisaa tiif; kan ilmaan Kooraach; mizmoorii.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bulchiisaa tiif"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kan ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kooraach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoorii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:04.993626784Z",
+  "model": "glm-5.3"
+}

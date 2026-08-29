@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Bullaa sana ajjeesaniis, ⟨את⟩ mucaa sana gara Eelii fidan.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ajjeesaniis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bullaa sana"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bullaa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "fidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa sana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eelii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:16.314456808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ya'aqob qofa hafe; namni tokko isa waliin sino goroon bahuutti rirfate.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "rirfate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa waliin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sino"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "bahuu"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "goroon"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:25.688111182Z",
+  "model": "glm-5.3"
+}

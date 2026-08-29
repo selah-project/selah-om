@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Maan isaan irratti roobee akka nyaachan; giddi samiis isaanitiin kenneefi.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "roobee"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Maan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "akka nyaachan"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "giddi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenneefi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:56.041399973Z",
+  "model": "glm-5.3"
+}

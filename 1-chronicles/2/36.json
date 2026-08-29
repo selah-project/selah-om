@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Attai immoo ⟨את}} Naataan dhalche; Naataanis ⟨את}} Zabaad dhalche.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Attai immoo"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naataan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naataan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Naataanis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabaad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabaad"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:38.149005601Z",
+  "model": "glm-5.3"
+}

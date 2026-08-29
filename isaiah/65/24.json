@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Ta'a: isaan hin waamuu duruu Ani deebisa; dubbachaa jiruu Ani dhagaha.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hin waamuu duruu"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "waamu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jiruu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "dubbachaa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dhagaha"
+    }
+  ],
+  "timestamp": "2026-08-29T09:20:58.454326131Z",
+  "model": "glm-5.3"
+}

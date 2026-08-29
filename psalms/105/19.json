@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Yeroo jechi isaa dhufuutti, jechi Yahwe isa qulqulleessee maddiise.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sino"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jechi isaa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "isa qulqulleesse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:42.891560258Z",
+  "model": "glm-5.3"
+}

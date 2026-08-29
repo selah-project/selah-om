@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Kadhannaa kan Daawid. Yahwe, gurra kee buusi, na deebisi, sababaa milli fi hiyyeessa ani.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "kadhannaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "buusi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "na deebisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "milli"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi hiyyeessa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:05.326082012Z",
+  "model": "glm-5.3"
+}

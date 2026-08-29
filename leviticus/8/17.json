@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sangaa, gogaa isaa, lafa isaa fi firi isaa ibiddaatin ala kampii gubse; akka Yahwe ⟨את⟩ Mosheetti ajaje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sangaa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sangaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gogaa isaa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "gogaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lafa isaa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lafa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "firi isaa"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "firi isaa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gubse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:41.607950376Z",
+  "model": "glm-5.3"
+}

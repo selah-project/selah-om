@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kingiin ⟨את⟩ mo'ataa isa harka isa irraa kaasee Haman ilma Medataataa Agaagawaa diina Yihudiidhuu isaaf kenne.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "kaasee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kingiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo'ataa isa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mo'ataa isa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isa"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kenneef"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medataataa"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agaagawaa"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "diina"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yihudiidhuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:49.795885875Z",
+  "model": "glm-5.3"
+}

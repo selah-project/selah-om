@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Araddoo obboleettii haadha kee hin mul'ifatin; qarfii haadha kee <haadha kee> inni <du'a> — inni <du'a> niiti; inni <maati> haadha kee <du'a>.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "araddoo"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "obboleettii"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mul'ifatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "maati"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha kee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni <du'a>"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:44.382361872Z",
+  "model": "glm-5.3"
+}

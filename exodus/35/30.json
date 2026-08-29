@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 35:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Mosheen ilmaan Israa'elittiinis jedhe: 'Ilaalaa; Yahween maqaan Betsaleel maqaa moo'aa, Uurii ilmoo, Huur ilmoo, gara mootummaa Yahuudaa jedhe waamettiira.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ilaalaa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamettiira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsaleel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uurii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "gara mootummaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:05.950388637Z",
+  "model": "glm-5.3"
+}

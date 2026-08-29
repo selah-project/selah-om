@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Akka kanas Eel si dhuma; dhuma-dhumaatti si fudhata, manaa kee keessaa si baasa, hiyyaa kee lafa jireenyaa irraas maddaasisa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akka kanas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "si dhuma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "dhuma-dhumaatti"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "si fudhata"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "si baasa"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "manaa kee"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "hiyyaa kee"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:47.637864866Z",
+  "model": "glm-5.3"
+}

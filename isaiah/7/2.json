@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Gara mana Daawitiitti himame, akka jedhu: \"Araam Efraayim waliin kufe.\" Onneen isaa ii fi onneen ummata isaa, akka sochii mukoota bosonii bifa qilleensaatti, sochooftan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "himame"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "gara mana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawitii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "על",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "sochooftan"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "onneen isaa ii"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "fi onneen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "akka sochii"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bosonii"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bifa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleensaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:58:37.154026769Z",
+  "model": "glm-5.3"
+}

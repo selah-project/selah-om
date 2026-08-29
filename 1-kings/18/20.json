@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Axaabis ilmaan Yisra'eel hunda biratti erge; raajjotis ⟨את⟩ gara gaara Kirmeelitti qabate.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erge"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eel"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "qabate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raajjota"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "raajjota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Kirmeelitti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:20:12.241546098Z",
+  "model": "glm-5.3"
+}

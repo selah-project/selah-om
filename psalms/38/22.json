@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Na da'amuu hin dadhabin Yahwe, Eloohiima koa, irraa na fageessuu hin godhin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "Na da'amuu dadhabin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiima koa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fageessuu godhin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "irraa na"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:20.171566058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Aadam waggaa dhibbatamii fi saddeet mi'aawaadhaan jiraachaa, fakkaata isaa akka suuraa isaatti ilma dhalate; maqaasaas Shet jedheera.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraachaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dhibbatamii"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "fi saddeet mi'aawaadhaan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ilma dhalate"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "fakkaata isaa"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "akka suuraa isaatti"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaasaas jedheera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:12.435436060Z",
+  "model": "glm-5.3"
+}

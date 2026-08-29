@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Si beeksisaa fi karaa itti si siqaa deemu qajeelcha; iji koo si irratti si gatii.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Si beeksisaa"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "fi qajeelcha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "זו",
+      "gloss": "itti si siqaa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "gatii"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iji koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:04.095788663Z",
+  "model": "glm-5.3"
+}

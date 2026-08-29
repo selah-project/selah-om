@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yehooshuaa irrattis \"Gabroota kee nuti\" jedhan. Yehooshuaanis isaan irratti \"Isin eeyyuu? Eessaa baatan?\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabroota kee"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaanis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eeyyuu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "eessaa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "baatan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:46:43.609636576Z",
+  "model": "glm-5.3"
+}

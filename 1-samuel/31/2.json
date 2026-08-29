@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Filistootiin Shawuliifi ilmoonsaa hordofanii isaan cinnaa; Filistootiin ⟨את⟩ Yehonataan, ⟨את⟩ Aviinaadaab fi ⟨את⟩ Malkii-shuwa ajjeesan — ilmoo Shawul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "hordofanii isaan cinnaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistootiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shawuliifi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoonsaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmoonsaa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ajjeesan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistootiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonataan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aviinaadaab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Aviinaadaab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkii-shuwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkii-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:42.941529274Z",
+  "model": "glm-5.3"
+}

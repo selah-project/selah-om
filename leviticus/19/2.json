@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Garee ilmaawwan Israa'iilii hundaan dubbadhu, isaaninis akk jedhuun issin himi: 'Qulqullooman ta'aa, ani Yahwe Eloohiim keessan qulqullaa'aa waan ta'eef.'",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "garee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iilii"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "isaaninis himi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullooman"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ta'aa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan ta'eef"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqullaa'aa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:58.178490891Z",
+  "model": "glm-5.3"
+}

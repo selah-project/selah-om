@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Namni yoo miira kan akka-lubbuu isaa irratti geesse, akka waan inni hojjeche sana akkaan isa irratti hojjedhamu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Namni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geesse"
+    },
+    {
+      "surface": "מום",
+      "gloss": "miira"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "kan akka-lubbuu isaa irratti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjeche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkaan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjedhamu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:52.796697829Z",
+  "model": "glm-5.3"
+}

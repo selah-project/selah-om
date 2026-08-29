@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Garuu namni tokkollee hin wal-ta'i, namni tokko tokkicha hin gorfina; sababaa umatti kee akka warra abjuu qabu kan kahuunii ta'aniiru.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "wal-ta'i"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "gorfina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkicha"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "umatti kee"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "akka warra abjuu qabu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kan kahuunii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:37:17.682563291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Booda isaatti Yisraa'eel ⟨את⟩ murtii hojjedhe Eelon kan Zebuluun; Eeloni Yisraa'eel ⟨את⟩ murtii hojjedhe waggaa kudhan.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "murtii hojjedhe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "booda isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'eel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eelon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "kan Zebuluun"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "murtii hojjedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'eel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:08:44.304009823Z",
+  "model": "glm-5.3"
+}

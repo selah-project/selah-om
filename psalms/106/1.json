@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Yaah wahaa simaadhaa; Yahwe galata galchaa, silaa kan tole, silaa kheesed isaa hore horee ta'a.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "wahaa simaadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "galata galchaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "silaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kan tole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "silaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hore horee"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:09.474995213Z",
+  "model": "glm-5.3"
+}

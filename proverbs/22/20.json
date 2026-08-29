@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sadii siif hin barree? — gorgormee fi beekumsaa keessa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hin barree?"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "barree"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "gorgormee keessa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "fi beekumsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:23.302307789Z",
+  "model": "glm-5.3"
+}

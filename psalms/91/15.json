@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Natti waamte; deebisa. Gadhee isaa keessatti ani isaa wajjin ta'a; ni baafata; ni kabaja.",
+  "tokens": [
+    {
+      "surface": "יקראאני",
+      "gloss": "natti waamte"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaa wajjin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "gadhee isaa keessatti"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ni baafata"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ni kabaja"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.525955773Z",
+  "model": "glm-5.3"
+}

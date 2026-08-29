@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Gorsa kiyya hunda ni diddan; gamaddoo kiyyas hin feetan.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "diddan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "gorsa kiyya"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "gamaddoo kiyyas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "feetan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:24.183506258Z",
+  "model": "glm-5.3"
+}

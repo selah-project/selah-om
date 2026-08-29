@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Wanti guutuu akka ta'e, warri san guyyaa sanii kufe, dhiiiraa irraa hanga dubartii, kuma dhibba lama, namootni Ayi hundi ta'an.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akka ta'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanti guutuu"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "warri kufe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanii"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dhiiiraa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namootni"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    }
+  ],
+  "timestamp": "2026-08-29T14:38:17.658460461Z",
+  "model": "glm-5.3"
+}

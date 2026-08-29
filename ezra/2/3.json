@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmooleen Parosh kuma lama, dhibba tokko, toddaa fi lama.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma lama"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dhibba tokko"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "toddaa"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "fi lama"
+    }
+  ],
+  "timestamp": "2026-08-29T13:11:39.542200382Z",
+  "model": "glm-5.3"
+}

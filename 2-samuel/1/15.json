@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Daawidis dargaggoota keessaa tokko waames; \"Achuma dhihu, isa rukuti\" jedhe. Innis isa rukutee ajjeese.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waames"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "tokkoffaaf"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "dargaggoota irraa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "גש",
+      "gloss": "dhihu"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "isa rukuti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "isa rukutee"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ajjeese"
+    }
+  ],
+  "timestamp": "2026-08-29T07:43:07.209293352Z",
+  "model": "glm-5.3"
+}

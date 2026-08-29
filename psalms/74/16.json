@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Guyyaa kan kiyya; halkaniis kan kiyya; Ati ifa fi aduu qopheessiteetta",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kan keetiiti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kan keetiiti"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "qopheessiteetta"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "fi aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:11.830269679Z",
+  "model": "glm-5.3"
+}

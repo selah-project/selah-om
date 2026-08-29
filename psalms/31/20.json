@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Akka ataamatti wanta ati kan ati kee-tumaa-tumaa godhu, wanta Waaqaan ati tumaa-tumaa irraa eegameefi, namoota biratti inbadduu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Waan jabaa! (maa-akka)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Waan jabaa"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wanta toltuu kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanta... (akkaataa)"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "tumaa-tumaa irraa eegamee"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kan ati kee-tumaa-tumaa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "kan ati keessatti hirkatanii"
+    },
+    {
+      "surface": "בך",
+      "gloss": "...keessatti (ati)"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "...biratti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "namoota (ijennoo)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:16.749828658Z",
+  "model": "glm-5.3"
+}

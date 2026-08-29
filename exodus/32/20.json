@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Gaphicha isaan hojjatan fudhatee, ibiddaatin gubee, haphii ta'utti xaxxee, bishaan fuulduratti rukutee, ilmaan Israa'eliin ⟨את⟩ dhugeesse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaphicha"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "gaphicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjatan"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "gubee"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "xaxxee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gadiitti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דק",
+      "gloss": "haphii ta'utti"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "rukutee"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dhugeesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'eliin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:49.945377752Z",
+  "model": "glm-5.3"
+}

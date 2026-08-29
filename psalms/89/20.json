@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Yeroo san mul'ataatti jaatamtoota keetiin tiyye, \"Danda'aa irratti gargaarsa kaafe, umurtoota irraa filadame ol baase\" jette.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo san"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tiyye"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "mul'ataatti"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "jaatamtoota keetiin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gargaarsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "danda'aa"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "ol baase"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "filadame"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "umurtoota irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:55.988995111Z",
+  "model": "glm-5.3"
+}

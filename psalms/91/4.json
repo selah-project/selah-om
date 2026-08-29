@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Baalli boonaa Isaatiin si moseesa; korma Isa jal si harka-qabaduu; ammuun Isa sirrii taate gaachana fi gargar-eeggataa siiti.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "baalli boonaa Isaatiin"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "si moseesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jal"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "korma Isa"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "si harka-qabaduu"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "gaachana"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "gargar-eeggataa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ammuun Isa sirrii taate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:06.663464840Z",
+  "model": "glm-5.3"
+}

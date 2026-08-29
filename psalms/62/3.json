@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Inni qofa dhagaa koo ti fi badhaasni koo ti; ol-dhiibaa koo ti; baay'ee hin sochoodhu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dhagaa koo ti"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "fi badhaasni koo ti"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ol-dhiibaa koo ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sochoodhu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:40.440106882Z",
+  "model": "glm-5.3"
+}

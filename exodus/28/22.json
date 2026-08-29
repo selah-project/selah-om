@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Hoshicha irrattis sararawwan ceenisaa, hojii ceenisaa, warqee qulqulluu irraa godhita.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "godhita"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshicha"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "sararawwan"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ceenisaa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ceenisaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:17:01.776828696Z",
+  "model": "glm-5.3"
+}

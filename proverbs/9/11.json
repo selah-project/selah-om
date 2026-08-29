@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kiyyaaniin guyyoonni kee ni dabalatu; bibbeelotni jireenyaa sii ni dabalaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kiyyaaniin"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "ni dabalatu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "guyyoonni kee"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "ni dabalaman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "bibbeelotni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:52.052398848Z",
+  "model": "glm-5.3"
+}

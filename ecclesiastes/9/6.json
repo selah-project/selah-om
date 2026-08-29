@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Jaalalloon isaanii, jaalalloon isaanii, ijaaroonis isaanii akkuma duraa ni bade; gatiin isaaniif yeroo hunda waan raawwatamu jalatti aduu hin qabaanu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "jaalalloon isaanii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "jeedhinsa isaanii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "ijaaroon isaanii"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "akkuma duraa"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ni bade"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "gatiin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "raawwatamu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:00.529584337Z",
+  "model": "glm-5.3"
+}

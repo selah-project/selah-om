@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 33:28",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Lafas ⟨את⟩ bulaamaa fi hawaa nan goda, faannoon jabina ishee dhaabbata, gaarreen Israa'el dariiccituu hin qabu malee ni bulaamu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nan goda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "bulaamaa"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "hawaa"
+    },
+    {
+      "surface": "ונשבת",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "faannoon"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "jabina ishee"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ni bulaamu"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hin qabu malee"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "dariiccituu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:25:57.038557209Z",
+  "model": "glm-5.3"
+}

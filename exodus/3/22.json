@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Dubartoonni hundi miira isaanii irraa fi kan mana ishee keessaa qubatte irraa meeshaalee kummakkaa fi meeshaalee warqee fi uffannaa gaafatu; isheen isaa ilmaan kee irratti fi daa'imumtuu kee irratti baaftee ⟨את⟩ Mitsraayim (warra Gibxii) hanqinaa isaa irraa baafatta.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "gaafatu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartoonni"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "miira isaanii"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "fi kan qubate"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana ishee keessaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummakkaa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "fi meeshaalee"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "fi uffannaa"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "baaftee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "daa'imumtuu kee"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "baafatta hanqinaa isaa irraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim (warra Gibxii)"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:06.573311262Z",
+  "model": "glm-5.3"
+}

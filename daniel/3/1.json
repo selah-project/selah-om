@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 3:1",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Nebukadnessar mooticha sangaa warqee hojjette, olka'umsi isaa cubbee afurtama, bal'inni isaa cubbee ja'a; Chaatni Duuraa irra, biyya Baabilon keessatti dhaabbette.",
+  "tokens": [
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "sangaa"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "olka'umsi"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "cubbee"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "afurtama"
+    },
+    {
+      "surface": "פתיה",
+      "gloss": "bal'inni"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "cubbee"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ja'a"
+    },
+    {
+      "surface": "אקימה",
+      "gloss": "dhaabbette"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "Chaatni"
+    },
+    {
+      "surface": "דורא",
+      "gloss": "Duuraa"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilon"
+    }
+  ],
+  "timestamp": "2026-08-29T13:01:14.562615634Z",
+  "model": "glm-5.3"
+}

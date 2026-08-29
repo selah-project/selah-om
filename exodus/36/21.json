@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Dheerinni laphicha tokko amaa kudhan ⟨is⟩ ture; bal'inni laphicha tokkoo amaa tokko fi walakkaa ⟨is⟩ ture.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerinni"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laphicha"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "fi amaa"
+    },
+    {
+      "surface": "ו",
+      "gloss": "fi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "walakkaa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amaicha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'inni"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laphicha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkocha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:08.783894102Z",
+  "model": "glm-5.3"
+}

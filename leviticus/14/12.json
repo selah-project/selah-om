@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Keesanis kormaa tokko ⟨את⟩ fudhatee baliif sanaaf dhiyeessa; ⟨את⟩ leegii zayitaa fi ⟨את⟩ wantoota sanii erga dhiibee-deebisuu Yahwe fuulduratti ni hojjeta.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Keesanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kormaa tokko"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kormaa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhiyeessa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "baliif"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "baliif"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "leegii zayitaa"
+    },
+    {
+      "surface": "לג",
+      "gloss": "leegii"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ni hojjeta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wantoota sanii"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "dhiibee-deebisuu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:57.282311600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo qixxeessa raawwatu ilma ogeessa ⟨dha⟩; yeroo qorammii hirribbuu ilma muddesaa ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "raawwatu"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "yeroo qixxeessa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "hirribbuu"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "yeroo qorammii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "muddesaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:26.234854870Z",
+  "model": "glm-5.3"
+}

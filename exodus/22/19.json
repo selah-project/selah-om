@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Kan Eloohiim biraa gennu sadarkaa kadhamu Yahwe qofa malee, kufaatii bu'aa — haqamee ni kufe.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "gennu sadarkaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiim biraa"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "haqamee ni kufe"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "malee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe qofa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa malee isa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:36.863549910Z",
+  "model": "glm-5.3"
+}

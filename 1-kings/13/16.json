@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Innis jedhe: \"Wajjin kee ⟨את⟩ deebi'uu hin danda'u, wajjin kee ⟨את⟩ seenuus hin danda'u; bakka kana dhadacha hin nyaadhu, wajjin kee ⟨את⟩ bishaan hin dhugaa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "deebi'uu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wajjin kee"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "seenuus"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wajjin kee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin...us"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaadhu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dhadacha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wajjin kee"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:43.882986073Z",
+  "model": "glm-5.3"
+}

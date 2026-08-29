@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Isaan irratti simbirroonni samii jiraatu; danxaa mukichaa jidduutti sagalee kennu.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "Isaan irratti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "simbirroonni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "jidduutti"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "danxaa mukichaa"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:36.859971655Z",
+  "model": "glm-5.3"
+}

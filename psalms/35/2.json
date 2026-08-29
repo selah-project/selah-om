@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Gaachanaa fi eddaana harka qabadhu; kakkabsiif akka na gargaaru.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "harka qabadhu"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaachanaa"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "eddaana"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "kakkabsiif"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "akka na gargaaru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:16.414284617Z",
+  "model": "glm-5.3"
+}

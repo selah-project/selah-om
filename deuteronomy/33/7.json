@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 33:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Kun immoo gadi Yihuudaa fi jedhe: 'Yahwe, sagalee Yihuudaa dhageessi; ummata isaa bira isaa qadhi. Harki isaa isaa ofiif baay'ee haa gargaaru, aarsaota isaa irraa gargaaraa ta'i.'",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kun immoo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "gadi Yihuudaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "fi jedhe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "isaa qadhi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "Harki isaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa ofiif"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "gargaaraa"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "aarsaota isaa irraa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'i"
+    }
+  ],
+  "timestamp": "2026-08-29T06:38:00.370700020Z",
+  "model": "glm-5.3"
+}

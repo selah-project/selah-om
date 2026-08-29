@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Sababa isaa, onnee isaanii bala'aa yaaddachiisa, afurteen isaanii hamtuu dubbarti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa isaa"
+    },
+    {
+      "surface": "שד",
+      "gloss": "bala'aa"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "yaaddachiisa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "afurteen isaanii"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "dubbarti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:04.043813006Z",
+  "model": "glm-5.3"
+}

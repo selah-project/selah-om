@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Baay'ee naa-baafadhu middhagaa koo irraa, badii koo irraas naa-qulqulleessi.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Baay'ee"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "naa-baafadhu"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "middhagaa koo irraa"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "badii koo irraas"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "naa-qulqulleessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:16.374745031Z",
+  "model": "glm-5.3"
+}

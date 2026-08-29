@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yahwe ⟨is⟩ hafuulee ta'uu fi gidduu koo fi kee muruun, arguu fi ⟨את⟩ kakkawwaa kooitti rakkachuu, harka kee irraa na-muruu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'uu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "hafuulee"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "muruun"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gidduu koo"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "fi gidduu kee"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "arguu"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "rakkachuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakkawwaa koo"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "kakkawwaa koo"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "na-muruu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "harka kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:19.188234842Z",
+  "model": "glm-5.3"
+}

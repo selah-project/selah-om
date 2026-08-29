@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yahwe eegi; cimiadhu, onnee kees immoo cimiadhu; yaa, Yahwe eegi.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "cimiadhu"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "cimiadhu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onnee kees"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "yaa...eegi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:36.381959389Z",
+  "model": "glm-5.3"
+}

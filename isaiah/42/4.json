@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Hin dadhabin, hin cabbamsin, yeroo murtii dachii irratti dhuguf kanutti; odoloonnis seera isaatif eegu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "dadhabin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "cabbamsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo... kanutti"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "dhuguf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii irratti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "seera isaatif"
+    },
+    {
+      "surface": "איים",
+      "gloss": "odoloonnis"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "eegu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:30.243900230Z",
+  "model": "glm-5.3"
+}

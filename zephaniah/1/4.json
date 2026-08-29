@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Fi harka kiyya Yihuudaa irratti fi gimbi keessa jiraataniitti Yerushaalayim hunda irratti ni dhiyeessa; bakka kana irraa ⟨את⟩ hafe Baal, ⟨את⟩ maqaa keemarimoota wajjin qessota ni muradha.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "ni dhiyeessa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka kiyya"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi ... irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "keessa jiraataniitti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ni muradha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hafe Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa keemarimoota"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "keemarimoota"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qessota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:42.738819055Z",
+  "model": "glm-5.3"
+}

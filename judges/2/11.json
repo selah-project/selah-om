@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmi Israa'iil kufrii Yahwe jalatti hojjachuu isaaniitiin balleessan: Bahalota tajaajilaniiru.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjachuu isaaniitiin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kufrii (hamtuu)"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "jalatti...keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "tajaajilaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bahalota"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Bahalota"
+    }
+  ],
+  "timestamp": "2026-08-29T06:58:02.689114613Z",
+  "model": "glm-5.3"
+}

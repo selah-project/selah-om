@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Namichis guddate, deemuudhaan deemuu fi guddachuu itti fufe, yeroo dhumaa baay'ee baay'ee guddachoo guddate.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "guddate"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deemuu itti fufe"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "deemuudhaan"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "guddachuu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo dhuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo dhumaatti"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "guddachoo guddate"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:25.485218166Z",
+  "model": "glm-5.3"
+}

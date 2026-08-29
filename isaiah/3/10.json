@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Jedhaa, warra qajeelaa akka tolaa ta'u isaanif; sababa kanaaf mida'aa hojii isaanii ni nyaach.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Jedhaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "warra qajeelaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaaf"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mida'aa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "hojii isaanii"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni nyaach"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:30.639646724Z",
+  "model": "glm-5.3"
+}

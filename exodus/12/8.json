@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Nyaanni Isaa seeraan keessaa, halkan kana — ibiddaaniin midhame; maandummaa hin-qabne fi xiqqoo qorarrisaa nyaachuu qabu.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Nyaanni Isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyaanni Isaa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "seeraan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "midhame"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaaniin"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "maandummaa hin-qabne"
+    },
+    {
+      "surface": "על",
+      "gloss": "fi"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "xiqqoo qorarrisaa"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "nyaachuu qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:26.446320339Z",
+  "model": "glm-5.3"
+}

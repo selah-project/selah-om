@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo namni marga yookiin fincilina balleessuuf ⟨את⟩ beylada ergaa unkaatee, marga namaa biroo irraasaa dhaqu, marga isaa gaarii fi fincilina isaa gaarii irraa bakka bu'aa kenna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "balleessuuf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "marga"
+    },
+    {
+      "surface": "או",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "fincilina"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ergaa unkaatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beylada"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "beylada"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "irraasaa dhaqu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "marga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "namaa biroo"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "gaarii irraa"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "marga isaa"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "gaarii irraa"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "fincilina isaa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bakka bu'aa kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:50.310360500Z",
+  "model": "glm-5.3"
+}

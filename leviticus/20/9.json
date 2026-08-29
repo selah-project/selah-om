@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sababiin, namni nama kamiyyuu yoo ⟨את⟩ abbaa isaa fi ⟨את⟩ haadha isaa abaare, du'uun ni ajajama; abbaa isaa fi haadha isaa abaareera; dhiigni isaa isumarratti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama kamiyyuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "abaare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa isaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "haadha isaa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'uun"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ajajama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "fi haadha isaa"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "abaare"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "dhiigni isaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isumarratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:32.244864487Z",
+  "model": "glm-5.3"
+}

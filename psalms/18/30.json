@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Kiyya si keessa gara guutuuta oota; Eloohiim koo keessatti siilii ni naanna'a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kiyya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessa"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "gara guutuuta oota"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "guutuuta"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "Eloohiim koo keessatti"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ni naanna'a"
+    },
+    {
+      "surface": "שור",
+      "gloss": "siilii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:09.187113367Z",
+  "model": "glm-5.3"
+}

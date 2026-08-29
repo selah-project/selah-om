@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yalota shan wal qabaman ta'uu; tokkoonis obboleettii ishee waliin qabamtu; yalota shanis tokkoon obboleettii ishee waliin qabaman.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "yalota"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ta'uu"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "wal qabaman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tokkoonis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "obboleettii ishee"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "shanis"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "yalota"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "qabaman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tokkoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "obboleettii ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:58.487934303Z",
+  "model": "glm-5.3"
+}

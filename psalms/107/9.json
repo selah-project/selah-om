@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Dhugumatti lubbuu dheeffattu ni gaaddisiisee; lubbuu beela ta'ees wanta tolaan guute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dhugumatti"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ni gaaddisiisee"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "dheeffattu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "beela ta'e"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanta tola"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:06.912834594Z",
+  "model": "glm-5.3"
+}

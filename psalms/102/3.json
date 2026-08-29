@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Fuula kee naa irraa hin dhoksi, guyyaa rakkina koo; gurra kee naa garaa gar, guyyaa na waamutti saffisan na deebisi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dhoksi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Fuula kee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "naa irraa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "rakkina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "koo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "garaa gar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "na waamu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "saffisan"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "na deebisi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:10.929011891Z",
+  "model": "glm-5.3"
+}

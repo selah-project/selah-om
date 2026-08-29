@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Innis argate, ka'ee lubbuu isaa tiin bahe, Be'er-Shebaa kan Yehudaatti dhufe, yeruum Atti ☞ ajajaa isaa ⟨את⟩ hafe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ka'ee"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tiin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudaatti"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajaa isaa"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ajajaa isaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yeruum Atti ☞"
+    }
+  ],
+  "timestamp": "2026-08-29T08:20:10.460091699Z",
+  "model": "glm-5.3"
+}

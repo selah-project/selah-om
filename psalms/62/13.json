@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Adoonaay, siifis kheesed ⟨jira⟩; sababiin abiin ati nama hunda hojii isaa hintiin galatteessa.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "siifis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin abiin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "galatteessa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nama hunda"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "hojii isaa hintiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:01.624005226Z",
+  "model": "glm-5.3"
+}

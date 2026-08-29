@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Akka kakuu barbaattaa waliin hin gootinuuf — aadaa biyya sanaa — seera isaaniitiin hoonganuu ergasii ⟨Eloohiim⟩ isaanii waliin boontanitti, tokko si waama, atis immoola isaa irraa nyaachuu — akka kanaan.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "akka...hin...uuf"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kakuu barbaattaa waliin gootinuuf"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "aadaa biyya sanaa waliin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya sanaa"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "hoonganuu ergasii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "seera isaaniitiin"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "boontanitti"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "Eloohiim isaanii waliin"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "tokko si waama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "nyaachuu"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "immoola isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:09.969716729Z",
+  "model": "glm-5.3"
+}

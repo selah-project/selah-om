@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Balbula kee bani, Lubnaan; ibiddi mukoota ardaarii kee keessa ni nyaata.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "bani"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnaan"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "balbula kee"
+    },
+    {
+      "surface": "ו\/תאכל",
+      "gloss": "ni nyaata"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "ב\/ארזיך",
+      "gloss": "mukoota ardaarii kee keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:05:19.911451365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "⟨את⟩ Aharooniis fi ⟨את⟩ ilmaan isaa bobaala waadaa walitti dhufaniitti dhiyaattu, bishaaniinis isaani dhiqattu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharooniis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "dhiyaattu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bobaala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "waadaa walitti dhufanii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waadaa"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "dhiqattu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaaniinis"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:34.295567602Z",
+  "model": "glm-5.3"
+}

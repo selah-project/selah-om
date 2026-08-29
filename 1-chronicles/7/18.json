@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Obboleettinis isaa Haammoleeket ⟨את⟩ Iishood fi ⟨את⟩ Abiyezer fi ⟨את⟩ Maahala dhalti.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Obboleettinis isaa"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Haammoleeket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhalti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iishood"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Iishood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abiyezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiyezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maahala"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Maahala"
+    }
+  ],
+  "timestamp": "2026-08-29T15:38:50.653879011Z",
+  "model": "glm-5.3"
+}

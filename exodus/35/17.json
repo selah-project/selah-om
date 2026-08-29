@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "⟨את⟩ hirribbawwan mana-keessaa, ⟨את〕 algaawwan isaa fi ⟨את〕 jijiifama isaa, fi ⟨את〕 hirribba balbala mana-keessaa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirribbawwan mana-keessaa"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "hirribbawwan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "mana-keessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "algaawwan isaa"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "algaawwan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "jijiifama isaa"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "jijiifama isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "hirribba balbala mana-keessaa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "hirribba"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "mana-keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:37.938996246Z",
+  "model": "glm-5.3"
+}

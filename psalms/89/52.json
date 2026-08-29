@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Waanti diinaan kee itti shameen Yahwe; waanti isaan itti shameen miila-jeejjiba Maashiyaak kee.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waanti"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "itti shameen"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "diinaan kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waanti isaan"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "itti shameen"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "miila-jeejjiba"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maashiyaak kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:10.612431024Z",
+  "model": "glm-5.3"
+}

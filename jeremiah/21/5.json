@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ani immoo ⟨את⟩ isin wajjin loluu koo — harka dhiyaateen, miknee cimaa ta'iiniiniin, fi aarruu keessaa, fi boonaa keessaa, fi booda booda rakkoo guddaatiin.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "loluu koo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani immoo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin wajjin",
+      "marks": "isin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dhiyaateen"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "miknee"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "cimaa ta'iiniiniin"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "aarruu keessaa"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "boonaa keessaa"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "booda booda rakkoo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:04:56.513862080Z",
+  "model": "glm-5.3"
+}

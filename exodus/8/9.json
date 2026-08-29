@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahwe akka jecha Mosheetti hojjete; rucaa'onni manaawwan irraa, mana-jireenyaa irraa fi lolaa irraa du'an.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jecha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "du'an"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "rucaa'onni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "manaawwan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "mana-jireenyaa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "fi irraa"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "lolaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:56.890314445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Jechichi ija mootichii fi ija waldaa hunda irratti sirrii ta'e.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "sirrii ta'e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Jechichi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ija…irratti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichii"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ija…irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "waldaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:08:50.439486570Z",
+  "model": "glm-5.3"
+}

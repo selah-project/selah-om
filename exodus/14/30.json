@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahwe gaafa sanaa ⟨את⟩ Israa'el harka Mitsraayim irraa baraarse; Israa'eliis ⟨את⟩ Mitsraayim daaka galaanaa irratti du'e ibe.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "baraarse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gaafa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "daaka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:37.573169913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Soorata Waaqaa isaa, waan qulqullummaa irraa qulqullamaa ta'e fi waan qulqullaa ta'e, ni nyaata.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Waaqaa isaa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "qulqullummaa irraa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qulqullamaa ta'e"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "fi irraa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qulqullaa ta'e"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni nyaata"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:35.506446502Z",
+  "model": "glm-5.3"
+}

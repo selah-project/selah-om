@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Obboleettii ishees fageenya dhiyaatti dhaabbattii, waan isatti gaggeeffamu beekuuf ⟨is⟩ eegdi.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "dhaabbattii"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "obboleettii ishee"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "fageenya dhiyaatti"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "beekuuf"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gaggeeffamu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:19:11.349703590Z",
+  "model": "glm-5.3"
+}

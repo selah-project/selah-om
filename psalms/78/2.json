@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Afaan kiyya waamicha keessatti bana; maammilaa gatii-dhokataa durii irraa baafadha.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "waamicha keessatti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Afaan kiyya"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "maammilaa gatii-dhokataa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "durii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.415848792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Faasikaa ⟨את⟩ ji'a jalqabaa keessaa, guyyaa afur-tamii irratti, galgala gidduutti, baraa Siinaayi keessatti raawwataniiru; akka waan Yahwe ⟨את⟩ Moshee ajajef hundumaatti, akkasumaan ilmaan Israa'el raawwatan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "raawwataniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faasikaa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Faasikaa"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "jalqabaa keessaa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "afur"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tamii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'a irratti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "baraa keessatti"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinaayi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka waan hundumaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumaan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "raawwatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:45.505870887Z",
+  "model": "glm-5.3"
+}

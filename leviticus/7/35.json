@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kun waan dibamu Aharoon fi waan ijoollee isaa dibamuudha, waan Yahwe irratti baay'uu irraa, guyyaa ⟨את⟩ isaan akka qessoo Yahwe ta'u isa fidaniitti.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "waan dibamu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "fi waan dibamu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ijoollee isaa"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "baay'uu irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "fidu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaanan",
+      "marks": "isaan akka qessoo ta'u"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "qessoo ta'uutti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:33:03.135710710Z",
+  "model": "glm-5.3"
+}

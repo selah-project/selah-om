@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yahwetti mormee fi anniyyuu hojjetanii; sababa waan ijoollee alotaaddin dhalattaniif, amma ji'ni ⟨את⟩ qooda isaanii waliin ni liqimsa.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwetti"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "mormee fi anniyyuu hojjetanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ijoollee"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "alotaaddin"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dhalattaniif"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ni liqimsa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ji'ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qooda isaanii"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "qooda isaanii waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:48.918900178Z",
+  "model": "glm-5.3"
+}

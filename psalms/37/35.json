@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Carrottaa humna-cimaa qabu, of-bal'isaa, akka muka dhalataa bulluqaa naan argadhe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "naan argadhe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "carrottaa"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "humna-cimaa qabu"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "of-bal'isaa"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "akkii muka dhalataa"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "bulluqaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:51.501955834Z",
+  "model": "glm-5.3"
+}

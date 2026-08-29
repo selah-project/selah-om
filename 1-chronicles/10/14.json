@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yahwetti gaafachuu hin godhaneef; innis ajjeese isa, mootummachaas ⟨את⟩ gara Daawid ilma Yishii'itti naanneesiise.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin godhaneef"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "gaafachuu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwetti"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ajjeese isa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "naanneesiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootummacha"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mootummacha"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "gara Daawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:34:24.358514996Z",
+  "model": "glm-5.3"
+}

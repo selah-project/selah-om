@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Ergaa Yoosuuphiif ergan, jedhan: abbaan kee du'u isa dura ajaje, akka jedhutti.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "ergaa ergan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yoosuuphiif"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosuuph"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaan kee"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "du'u isa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhutti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:23.229609131Z",
+  "model": "glm-5.3"
+}

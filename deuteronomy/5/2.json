@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yahwe Eloohiim keenya nutti wajjin kakuu Horeebitti muraa jette.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "muraa jette"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nutti wajjin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horeebitti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:41.209933251Z",
+  "model": "glm-5.3"
+}

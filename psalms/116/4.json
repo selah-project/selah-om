@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Maqaa Yahwe irrattis nan waada: yaa Yahwe, too, lubbii koo ol baasi.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Maqaa irrattis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nan waada"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "yaa… too"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ol baasi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbii koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:09.753931988Z",
+  "model": "glm-5.3"
+}

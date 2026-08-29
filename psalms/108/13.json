@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Nu siiqisiif nu kennaa dhaddacha cunqursaa keessaa; kinni namaa gonkumaa kan dogoggora dha.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "siiqisiif nu kennaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "cunqursaa"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "kan dogoggora"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kinni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:16.264289388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Ati garuu, Yahwe, isaanitti ni aaddeessa; saboota hunda ni qeexuma.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati garuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "aaddeessa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "qeexuma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:54.657501359Z",
+  "model": "glm-5.3"
+}

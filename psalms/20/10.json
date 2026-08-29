@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yahwe, hafuura! Mootichi guyyaa nu waamnutti nutti deebisu haa jennaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "hafuura!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "nutti deebisu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "nu waamnu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:01.428142494Z",
+  "model": "glm-5.3"
+}

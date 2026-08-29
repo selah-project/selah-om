@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Sababa isaan akka marga saffisaan ajjaraman, akka bulluqqee biqilaa danca'an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "akka marga"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "saffisaan"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ajjaraman"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "akka bulluqqee biqilaa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "biqilaa"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "danca'an"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:58.613634817Z",
+  "model": "glm-5.3"
+}

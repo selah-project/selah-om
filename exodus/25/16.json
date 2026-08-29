@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Ragaa ani atiif kennu ⟨את⟩ sanduuqa keessaa seensisita.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "seensisita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragaa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ani kennu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "atiif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:29.864917390Z",
+  "model": "glm-5.3"
+}

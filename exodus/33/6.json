@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Ilmooti Israa'eliin ⟨את⟩ qindaa'ina isaanii gaarri Horbii irraa dhiisan.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "dhiisan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmooti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eliin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qindaa'ina isaanii"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "qindaa'ina isaanii"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horbii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:22:51.717954441Z",
+  "model": "glm-5.3"
+}

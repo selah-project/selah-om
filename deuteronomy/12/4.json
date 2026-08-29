@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Akka kana Yaahwe, Eloohiim keessanitti hin raawwattan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "raawwattan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:45.991076624Z",
+  "model": "glm-5.3"
+}

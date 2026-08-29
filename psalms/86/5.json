@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Kunoo Adoonaay, ati tolaa fi dhiifamaa taate, kheesed-keessaa baay'ee qabdu, warra si waamaniitiif hundaaf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolaa"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "dhiifamaa taate"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "baay'ee qabdu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "warra si waamaniitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:17.789545578Z",
+  "model": "glm-5.3"
+}

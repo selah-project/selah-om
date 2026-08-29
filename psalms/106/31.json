@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Isaafiis herregame safara qajeelumaatti, durtii durtiitti, hanga yeroo dhuma hin qabne.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "herregame"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaafiis"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "safara qajeelumaatti"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "durtiitti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo dhuma hin qabne"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:28.696511115Z",
+  "model": "glm-5.3"
+}

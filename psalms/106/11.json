@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Bishni ajaa'ibbessota isaanii hoodsuu; tokkollee isaan irraa hafe miti.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "hoodsuu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishni"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ajaa'ibbessota isaanii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkollee"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "hafe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:44.075574010Z",
+  "model": "glm-5.3"
+}

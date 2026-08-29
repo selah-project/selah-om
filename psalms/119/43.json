@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Jecha dhugaa bocaan afana koo hin baatin, sababa murtii keetti koo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "baatin"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "afana koo irraa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bocaan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(bocaan waliin makameera)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "murtii keetti"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:36.462849327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Mootichi immoo Eloohiim keessatti hin gammada; Isaa kakuun kaka'u hundi ni faaru, sababiin arraasa dubbattoota sobaa ni cufama.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mootichi immoo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "hin gammada"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ni faaru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "kakuun kaka'u"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "ni cufama"
+    },
+    {
+      "surface": "פי",
+      "gloss": "arraasa"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "dubbattoota"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:41.057416877Z",
+  "model": "glm-5.3"
+}

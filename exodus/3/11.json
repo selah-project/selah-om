@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Mosheenis Eloohiimitti jedhe: ani eeyyuu, gara Fir'awn akka deemuu fi ⟨את⟩ ilmaan Israa'el Mitsraayimiirraa akka baasuuf?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eeyyuu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deemuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "fi akka"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "baasuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayimiirraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:15.350834627Z",
+  "model": "glm-5.3"
+}

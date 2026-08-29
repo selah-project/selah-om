@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Abaaboo kudhan-lama achitti ol-dhaqaa jaha irratti, kanaan fi kanaan, dhaabbatanii jiru; akkas ta'e mootummoota hundaaf hin uul'amne.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "abaaboo"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dhaabbatanii jiru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ol-dhaqaa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "uul'amne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas ta'e"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummoota"
+    }
+  ],
+  "timestamp": "2026-08-29T08:10:16.936908331Z",
+  "model": "glm-5.3"
+}

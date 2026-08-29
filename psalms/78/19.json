@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Eloohiimis irratti dubbatan; jedhan, «Eennumu Eel biyya qallatti keessatti mana nyaata gatuu danda'aa?»",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiimis irratti"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "danda'aa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "gatuu"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mana nyaata"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "biyya qallatti keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:02.138603963Z",
+  "model": "glm-5.3"
+}

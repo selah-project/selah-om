@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Mootii Yerushaalayim, tokko; mootii Hevron, tokko;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Mootii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T06:51:01.895710141Z",
+  "model": "glm-5.3"
+}

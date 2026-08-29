@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ilmi Israa'ieliis dhaalii isaaniis Lewiwwan akka afaan Yahwe ⟨את⟩ magaalota kana fi ⟨את⟩ mimdoonni isaanii isaaniif kennan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kennan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'ieliis"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiwwan…isaaniif"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "dhaalii isaaniis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalota kana"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mimdoonni isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:47.616131136Z",
+  "model": "glm-5.3"
+}

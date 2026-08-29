@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani dheericha kan hiphinaa ilaale, riigicha booda isaa keessatti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "dheericha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hiphinaa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "riigicha keessatti"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "booda isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:10.278005488Z",
+  "model": "glm-5.3"
+}

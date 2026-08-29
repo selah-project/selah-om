@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Dhiqqaaffadhu aarsitii kee isaan irratti, hiihama dheebuu sanyii kee isaan haa qabatu.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "dhiqqaaffadhu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "aarsitii kee"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "hiihama"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "dheebuu sanyii kee"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "isaan haa qabatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:13.415607650Z",
+  "model": "glm-5.3"
+}

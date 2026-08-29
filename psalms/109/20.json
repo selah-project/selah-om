@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Kun mindaa warra na siiqu koo — ⟨את⟩ Yahwe biraa — fi warra lubbuu koo irratti hammeeddu dubbatan.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mindaa"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "warra na siiqu koo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ... biraa",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "fi warra ... dubbatan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hammeeddu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:13.241053954Z",
+  "model": "glm-5.3"
+}

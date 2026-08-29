@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Obboleeywan isaanii walitti qabaniis, of qulqulleessaniis, akka ajaja mootichaa jechoota Yahwe ti mana Yahwe qulqulleessuuf seenuu jalqaban.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "walitti qabaniis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeywan isaanii"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "obboleeywan isaanii"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "of qulqulleessaniis"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "seenuu jalqaban"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "akka ajaja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "qulqulleessuuf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:05:13.318031279Z",
+  "model": "glm-5.3"
+}

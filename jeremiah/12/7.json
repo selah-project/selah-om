@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Manicha koo dhiise, ⟨את⟩ dhaala koo dabarse, ⟨את⟩ kan jaallatamtuu lubbuu koo harka diina ishee irratti kenne.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "dhiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana koo"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mana koo"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "dabarse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaala koo"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "dhaala koo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan jaallatamtuu lubbuu koo"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "kan jaallatamtuu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "harka irratti"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "diina ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:02:51.757112193Z",
+  "model": "glm-5.3"
+}

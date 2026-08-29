@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ani Efiraam beeka, Israa'elis ana irraa hin dhokatu; kanaafuu yeroo ammaa yaa Efiraam, ati seera cabdeera, Israa'el immoo wal faalleesseera.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efiraam"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'elis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "dhokatu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ana irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yeroo ammaa"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "seera cabdeera"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "yaa Efiraam ati"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "wal faalleesseera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T10:37:11.392245197Z",
+  "model": "glm-5.3"
+}

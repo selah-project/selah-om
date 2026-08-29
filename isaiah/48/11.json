@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Kiyyaaf, kiyyaaf kana raawadha; sababaan maqaan koo akkamitti akka cabu? kabaja kiyyas kan biratti hin kenna.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "Kiyyaaf"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "kiyyaaf"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "kana raawadha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "איך",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "akka cabu"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "kabaja kiyyas"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kan biratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:00.187361883Z",
+  "model": "glm-5.3"
+}

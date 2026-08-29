@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Duraaroo ⟨את⟩ eegaa; kien guyyaa kana ofii irratti ciigota keessan lafa Mitsraayim irraa baaseera; guyyaa kana sanyiiwwan keessaniif seera dorgomaa yeroo hundaatiif eegaa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duraaroo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "duraaroo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kien"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ofii irratti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "baaseera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciigota keessan"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "ciigota keessan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafa irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyyaa kana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sanyiiwwan keessaniif"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "seera dorgomaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hundaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:59.173584298Z",
+  "model": "glm-5.3"
+}

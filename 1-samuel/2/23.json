@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 2:23",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Isaanis, Maaloo akka jechoota kanaa hojjessitanii, ani ⟨את⟩ jechoota keessan hamtu umatta kana irraa hunda dhagaadha jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "Isaanis"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maaloo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hojjessitanii"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "akka jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagaadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota keessan"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jechoota keessan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hamtu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "irraa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umatta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:14:59.584670069Z",
+  "model": "glm-5.3"
+}

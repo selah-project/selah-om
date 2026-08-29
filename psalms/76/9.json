@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Samii irraa ⟨את⟩ murannoo dhageessifte; lafti sodaatte, boyyuttiis tasgabbaatte.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "samii irraa"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "dhageessifte"
+    },
+    {
+      "surface": "דין",
+      "gloss": "murannoo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sodaatte"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "tasgabbaatte"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:40.542130336Z",
+  "model": "glm-5.3"
+}

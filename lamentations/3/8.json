@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ammas yeroon ani gurraachuu fi waamu, kadhannaa kiyya ni cufa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ammas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "gurraachuu"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "waamu"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ni cufa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:02.356482686Z",
+  "model": "glm-5.3"
+}

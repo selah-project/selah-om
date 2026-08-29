@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Shaauulis sun du'e, ilmaan isaa sannis, mana isaa hundinis waliin du'an.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaauulis"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "sannis"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundinis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "du'an"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:03.244159147Z",
+  "model": "glm-5.3"
+}

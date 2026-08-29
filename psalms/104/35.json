@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Yaktoonni ⟨the⟩ lafarraa ha dhume; milktoonnis dabalataan hin jiru. Nafa koo, Yahwe ⟨את⟩ faarfadha; Yaah faarfadhaa!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ha dhume"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "yaktoonni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-rraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ lafa"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "milktoonnis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "faarfadha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa koo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faarfadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:52.860947020Z",
+  "model": "glm-5.3"
+}

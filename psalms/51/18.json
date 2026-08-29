@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Kanaafuu, sababa hin barbaaddu — yoo barbaadde kenna; gubaa hin jaallattu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "barbaaddu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "yoo barbaadde kenna"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "gubaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "jaallattu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:13.587211108Z",
+  "model": "glm-5.3"
+}

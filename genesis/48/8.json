@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Israa'el immoo ilmaan Yoosifii ilaale, ⟨את⟩ ni jedhe, \"Eenyummaatu isaan?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Yoosifii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosifii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eenyummaatu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:50.084970703Z",
+  "model": "glm-5.3"
+}

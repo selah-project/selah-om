@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahween Mosheetti ni jedhe: Maaltu natti iyyita? Ilmaan Israa'elitti himadhaa; isaanis ni deeman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "iyyita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "himadhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "ni deeman"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:51.610544507Z",
+  "model": "glm-5.3"
+}

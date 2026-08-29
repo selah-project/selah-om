@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoo inni wal qunnamsiisuu barbaade, namni tokko kumaatti tokko isaaf hin deebisu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "inni barbaade"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "wal qunnamsiisuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa waliin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "isaaf deebisu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kumaatti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:58.212545060Z",
+  "model": "glm-5.3"
+}

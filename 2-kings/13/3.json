@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Briiqqni Yahween Israa'el irratti ka'e; harka Chazaa'el mooticha Araamitti fi harka Ben-Hadaad ilma Chazaa'elitti, guyyoota hunda, isaan kenne.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "briiqqni … ka'e"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ibriisa\/booda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el irratti"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "isaan kenne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaa'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "fi harka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadaad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaa'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:36.488209150Z",
+  "model": "glm-5.3"
+}

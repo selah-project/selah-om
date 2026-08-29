@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Maqaan toltuu dhandhii toltuu irra caalmaa qaba, guyyaan du'aas guyyaa dhalootaatiin caalmaa qaba.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caalmaa qaba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dhandhii"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "toltuu"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "guyyaan du'aas"
+    },
+    {
+      "surface": "המות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "guyyaa dhalootaatiin"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "dhalootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:59.708183177Z",
+  "model": "glm-5.3"
+}

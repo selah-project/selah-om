@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Zicri, gibtoora Efrayim, ⟨את⟩ Maaseyaahu ilma mootichaa, ⟨את⟩ Azriqaam bulchaa mana mootichaa fi ⟨את⟩ Elkanaan isa lamaffaa mootichaa ajjeese.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zicri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gibtoora"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyaahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azriqaam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azriqaam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "bulchaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanaan"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanaan"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "isa lamaffaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:43:35.417187458Z",
+  "model": "glm-5.3"
+}

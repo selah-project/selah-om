@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Eenyummaan gaara Yahwe ol-baha? Eenummaan iddoo qulqulluu Isaa keessatti kenna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenummaan"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ol-baha"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Eenumaanis"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu Isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:02.264385677Z",
+  "model": "glm-5.3"
+}

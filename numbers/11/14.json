@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Ani tokkoon koo uumamoota hunda saba kanaa baachuu hin danda'u, sababa innis ana irraa ulfaataa dha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "tokkoon koo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "baachuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uumamoota hunda saba kanaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa innis"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ana irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:56:29.634824476Z",
+  "model": "glm-5.3"
+}

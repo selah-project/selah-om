@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Dheebuu Fuulduraa giddu Galeessaatti, fuula Keetti, yeroo hunda sajjedhu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "sajjedhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "giddu Galeessaatti (irra)"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Galeessa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Dheebuu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "Fuulduraa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula Keetti"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:12.895317201Z",
+  "model": "glm-5.3"
+}

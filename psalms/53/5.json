@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Sila hojjattootni madaa hin beekan, kanoota sanyii koo akka maasha nyaachuu nyatan, Eloohiimis hin waamne?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hin beekan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattootni"
+    },
+    {
+      "surface": "און",
+      "gloss": "madaa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "kanoota"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sanyii koo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nyatan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maasha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:53.954964683Z",
+  "model": "glm-5.3"
+}

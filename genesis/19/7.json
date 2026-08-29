@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Iseeniinis isaatti, \"Yaa obboleeywan koo, kanaan hamtuu haa hojjattanii - hamtuu akka hin hojjannedhaan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isaatti (iseeniinis) - jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin ( akka hin ) - hin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Yaa (kadacha) - naa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleeywan koo"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "hamtuu haa hojjattanii - hamtuu akka hin hojjannedhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:20.645623198Z",
+  "model": "glm-5.3"
+}

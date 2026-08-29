@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Dhugumaa, rageessi namootaa si gabbaraa; hafan ragee si haguugsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dhugumaa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "rageessi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "si gabbaraa"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hafan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ragee"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "haguugsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:40.542526492Z",
+  "model": "glm-5.3"
+}

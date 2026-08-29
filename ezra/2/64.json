@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Gareen hundi akka tokkottii afur-riboo kuma lama dhibba sadii afurtamii ta'e.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gareen"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "akka tokkottii"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "-riboo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma lama"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "afurtamii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:02.798900260Z",
+  "model": "glm-5.3"
+}

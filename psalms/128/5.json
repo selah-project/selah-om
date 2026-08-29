@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 128,
+  "translation": "Yahwe si eebbisu Tsiyo'on irraa, ati bultiiYerushaalayim argtuu haa argadhu, guutuu guyyoota jireenya keetii.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "si eebbisu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyo'on irraa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "haa argadhu"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "bultii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jireenya keetii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:19.273267493Z",
+  "model": "glm-5.3"
+}

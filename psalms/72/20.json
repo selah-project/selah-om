@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Xumuraniiru ka'umsiwwan kabaja Daawid, ilma Yishay.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Xumuraniiru"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ka'umsiwwan kabajaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:37.027948387Z",
+  "model": "glm-5.3"
+}

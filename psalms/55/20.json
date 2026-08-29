@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Eel ni dhaggeeffata, isaan immoo ni dukkana; Innis mo'ataa duraa dha. Seelaa. Isaan jijjiirama hin qaban; sababiin isaan Eloohiim hin sodaatan.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ni dhaggeeffata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "isaan immoo ni dukkana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Innis ... mo'ataa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qaban"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "jijjiirama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sodaatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:32.274939074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yahwe biratti darbaa; inni ni baasa, ni oolcha, sababni isaas inni isa jaallata.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "darbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "ni baasa"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "ni oolcha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jaallata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:44.469077627Z",
+  "model": "glm-5.3"
+}

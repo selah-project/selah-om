@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Waan baalliwwan goroo isaa ol-anaa bishaan irratti dhabe; waan gannaawwan raawaa isaa taasise; waan garaacha riiga irratti deemu.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "dhabe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan irratti"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "goroo isaa ol-anaa"
+    },
+    {
+      "surface": "השם",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "gannaawwan"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "raawaa isaa"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "garaacha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "riiga"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:54.895778185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Urjilee dheera lafaa irraa ol baasa; ittifaarfamo roobaa tiif hojjete; qilleensa goroo isaa irraa baafa.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ol baasa"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "urjilee"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dheera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ittifaarfamo"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "roobaa tiif"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "baafa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleensa"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "goroo isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:13.387063363Z",
+  "model": "glm-5.3"
+}

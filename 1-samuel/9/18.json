@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sha'uulis Shamuu'elitti ⟨את⟩ dhiyaatee dalga bawaa keessatti jedhe: Naa himi maaloo, maatin jira mana argaatu?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dhiyaatee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shamuu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'elitti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dalga... keessatti"
+    },
+    {
+      "surface": "השער",
+      "gloss": "bawaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Naa himi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "maatin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "argaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:15.141903905Z",
+  "model": "glm-5.3"
+}

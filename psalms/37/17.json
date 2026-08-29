@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Kabbataa cufaa harki dogoggoraa ni cinsamu; Yahwe immoo qajeelota ni tumsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kabbataa cufaa"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "harki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggoraa"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ni cinsamu"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ni tumsa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "qajeelota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:05.216577772Z",
+  "model": "glm-5.3"
+}

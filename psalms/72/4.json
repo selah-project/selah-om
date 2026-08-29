@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Daawwotoota saba ha murti, ilmaawwan hiyyeeyyaa ha baraaru, hiisisaas ha ciniinsu.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ha murti"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "daawwotoota"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ha baraaru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "hiyyeeyyaa"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ha ciniinsu"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "hiisisaas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:24.012920057Z",
+  "model": "glm-5.3"
+}

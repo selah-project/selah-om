@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Faarsa Daawid ti, yaadannoo godhuuf.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid ti"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "yaadannoo godhuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:15.152946552Z",
+  "model": "glm-5.3"
+}

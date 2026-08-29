@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Balbata keessaa ijaare: safartuu sadii dhagaa-cindoo fi safartuu tokko harkis-cindaa araaraa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ijaare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balbata keessaa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "balbata"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "safartuu"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "dhagaa-cindoo"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "fi safartuu tokko"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "harkis-cindaa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:06:39.083646447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe Eloohiim Adaamifi haadha manaa isaa gatiwwan gogaa taasiseefi isaan hoo'eesse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "taasiseefi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adaamifi"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "haadha manaa isaa"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "gatiwwan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "isaan hoo'eesse"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:25.994944080Z",
+  "model": "glm-5.3"
+}

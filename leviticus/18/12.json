@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ceeca obboleetti abbaa kee hin mul'iftu — beene abbaa kee ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ceeca"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "obboleetti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mul'iftu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "beene"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:46.484811370Z",
+  "model": "glm-5.3"
+}

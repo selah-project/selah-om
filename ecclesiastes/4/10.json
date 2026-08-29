@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yoo tokkoon kufe, hiriyyaan ⟨את⟩ isa haaraa kaasa; yookaan immoo tokko kufe, haaraa kaasu isaaf hin jiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkoon"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "haaraa kaasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isa (hiriyyaan isaa)"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "hiriyyaan"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "yookaan immoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "שני",
+      "gloss": "haaraa kaasu"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:07.643265559Z",
+  "model": "glm-5.3"
+}

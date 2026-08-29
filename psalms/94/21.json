@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Lubbuu sirrii beekaa irratti walitti hunda'u, dhiiga mil'oomaas murtaa'aa godhu.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "walitti hunda'u"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sirrii beekaa"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "mil'oomaa"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "murtaa'aa godhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:16.751115163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Innis intaltan isaa jedhe, \"Eessa jira? Maaliif namicha kana hafssitan ⟨את⟩? Isaa waamicha, maala wanti nyaachuu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...jedhe"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "intaltan isaa"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Eessa jira"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "hafssitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namicha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "waamicha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "nyyaachuu \/ nyaata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maala wanta"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:39.876146730Z",
+  "model": "glm-5.3"
+}

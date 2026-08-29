@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Saaphanwwan isaa, heddeewwan isaa, booraaleewwan isaa fi finciloota isaa — waan isaan ittiin dhiyyataman — warra qulna warqee qulqulluu tiin hojjedhu ⟨את⟩ isaan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "saaphanwwan isaa"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "heddeewwan isaa"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "booraaleewwan isaa"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "finciloota isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ittiin dhiyyataman"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "isaan keessatti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (meeshaalee Gabatee)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:12.894770071Z",
+  "model": "glm-5.3"
+}

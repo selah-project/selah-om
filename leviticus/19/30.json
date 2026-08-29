@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "⟨את⟩ sabbaatoota kiyya eegaa; maati kiyya uluulaa; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabbaatoota kiyya"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabbaatoota kiyya"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "maati kiyya"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "uluulaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:13.222472425Z",
+  "model": "glm-5.3"
+}

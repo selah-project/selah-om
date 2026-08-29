@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Israa'el gaarii dhiise; diina isa hordofa.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "dhiise"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diina"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "isa hordofa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:58.916068511Z",
+  "model": "glm-5.3"
+}

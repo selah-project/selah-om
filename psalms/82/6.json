@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Ani, “Eloohiim isin, ilmaan Elyoon — isin hunda” jedhe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "isin hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:00.971638240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Gara kiyya garagali, natti tola godhi; sababni isaas ani adda fi dhibbeeffamaadha.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "garagali"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "natti tola godhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "adda"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dhibbeeffamaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:38.552633707Z",
+  "model": "glm-5.3"
+}

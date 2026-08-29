@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Tsiydooniyotaas, Amaleekotas fi Ma'aonotas isin tuqaniitti ⟨את⟩; isinis gara kiyyaatti gurraakkattan, aniis isin harka isaanii irraa bilisoomse ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "Tsiydooniyotaas"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "Amaleekotas"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "Ma'aonotas"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "isin tuqaniitti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "gurraakkattan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyyaatti"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "aniis bilisoomse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "harka isaanii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:40:20.427605158Z",
+  "model": "glm-5.3"
+}

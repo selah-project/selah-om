@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Badii Yahwe iji isaa jalatti hojjedhe,akka abbaa isaa Menashsee hojjete.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "badii"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iji isaa jalatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsee"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:39:50.082598876Z",
+  "model": "glm-5.3"
+}

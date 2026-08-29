@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Akiishiinis ni jeete: «Bareessaa hin bareessanne hoo har'a?» Daawidis ni jeete: «Kibba Yihuudaa irratti, kibba Yerachme'elootaa irratti, kibba Keenitootaa irratti.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jeete"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "hin bareessanne"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jeete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kibba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kibba"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerachme'elootaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kibba"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keenitootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:57.253351502Z",
+  "model": "glm-5.3"
+}

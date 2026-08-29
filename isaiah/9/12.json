@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sababni gara Kan Isa Makuutti hin deebine, fi ⟨את⟩ Yahwe Seeba'aa hin barbaadan.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "Kan Isa Makuutti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Seeba'aa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Seeba'aa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "barbaadan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:56:14.344853864Z",
+  "model": "glm-5.3"
+}

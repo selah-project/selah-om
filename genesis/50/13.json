@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 50:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Illoonni isaa baasan ⟨את⟩ isa gara biyya Kenaan, awwaalanis ⟨את⟩ isa holqa sadee Maxpela, kan Avrahaam sadee sana ⟨את⟩ bituudhaan qabiyyee awwaannaa Efroon Hiitii biraa, fuula Mamreetti.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "baasan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "illoonni isaa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "awwaalanis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "במערת",
+      "gloss": "holqa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sadee"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Maxpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bituudhaan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadee sana"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sadee sana"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "qabiyyee"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "awwaannaa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ biraa"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "Efroon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiitii"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamreetti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:23.228852260Z",
+  "model": "glm-5.3"
+}

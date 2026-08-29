@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Kan to'annoo jaalatu, kan beekumsa jaalata; kan ratibaa jaju ammoo micireessa dha.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "jaalata"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "to'annoo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kan... jaju"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ratibaa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "micireessa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:04:12.458556690Z",
+  "model": "glm-5.3"
+}

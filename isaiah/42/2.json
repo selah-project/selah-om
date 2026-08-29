@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Hin chitu, hin ol-qaqqabu, sagalee isaa alaa hin dhukkubsisu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "chitu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ol-qaqqabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "dhukkubsisu"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sagalee isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:30.243623917Z",
+  "model": "glm-5.3"
+}

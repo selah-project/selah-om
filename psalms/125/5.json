@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 125,
+  "translation": "Warra karaa wal-dhoksaa isaanii gara miljetti dheeruu rabdanis, Yahwe ⟨את⟩ hojjattootaa miidhaa wajjin isaan horqisa; nagaan Israa'el irratti haa jiraatu.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "warra gara miljetti dheeruu rabdanis"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "karaa wal-dhoksaa isaanii"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "isaan horqisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojjattootaa miidhaa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattootaa"
+    },
+    {
+      "surface": "האון",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:42.137128382Z",
+  "model": "glm-5.3"
+}

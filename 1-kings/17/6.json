@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Raawwanii isaaf dudduwwan ni fidu; ganama dudduwwan fi foon, galgala dudduwwan fi foon; naannoo sanas ni dhiiga.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "raawwanii"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "fidu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dudduwwan"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "fi foon"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dudduwwan"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "fi foon"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ni (irraa)"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "naannoo sana"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "dhiiga"
+    }
+  ],
+  "timestamp": "2026-08-29T08:14:59.438455628Z",
+  "model": "glm-5.3"
+}

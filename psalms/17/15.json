@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ani immoo qajeelfiin fuula kee ilaala; ani yeroma hin-rafane, fakkaatta kee tiin ni guutama.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani immoo"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "qajeelfiin"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ni guutama"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "yeroma hin-rafane"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "fakkaatta kee tiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:00.745301963Z",
+  "model": "glm-5.3"
+}

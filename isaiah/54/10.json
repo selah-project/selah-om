@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Akkuma gaarreen ni sochoo'anii, tulluuwwanis ni rukutan; garuu kheesed-kiyyi ⟨את⟩ si irraa hin maqabu, kakuun nagaan kiyyaas hin sochootu, jedhe kan si rakkatu Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "ni-sochoo'anii"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "tulluuwwanis"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "ni-rukutan"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "kheesed-kiyyis"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ si-irraa",
+      "marks": "si irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "maqabu"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "kakuun"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "nagaan-kiyya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sochootu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "kan-si-rakkatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:49.189969616Z",
+  "model": "glm-5.3"
+}

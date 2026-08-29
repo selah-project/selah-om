@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eliis ishee jedhe: “Yeroo dheeraaf dhibbeeffamtaa taatus? Dhugaan kee si irraa hin baasi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dheeraaf?"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "dhibbeeffamtaa taatus?"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "hin baasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhugaan kee"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "dhugaan kee"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "si irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:16:16.516329775Z",
+  "model": "glm-5.3"
+}

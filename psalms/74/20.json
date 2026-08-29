@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Kakaticha ilaali; sababaa bakkoonni dukkanaa lafa iddoo jeequmsaatiin guutaniiru.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "Kakaticha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "guutaniiru"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "bakkoonni dukkanaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jeequmsaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:27.683575389Z",
+  "model": "glm-5.3"
+}

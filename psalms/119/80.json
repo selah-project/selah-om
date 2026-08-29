@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Onnee koo chuqqoo kee keessatti guutuu ta'u, akka ani hin yaaddoof.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "chuqqoo kee keessatti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka ... -f"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "yaaddoof"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:50.881711889Z",
+  "model": "glm-5.3"
+}

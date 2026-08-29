@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Sihoon mooticha Emoriitiifi, Oog mooticha Bashaniitiifi, mootummaan Kanaan hunda",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriitiif"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashaniitiif"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummaan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:16.455958338Z",
+  "model": "glm-5.3"
+}

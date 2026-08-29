@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Adeemsa keessaa, mana-boqonnaa keessatti, Yahwe isa mude, isa ajjeesuufis barbaade.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "adeemsa keessatti"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "mana-boqonnaa keessatti"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "isa mude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "isa ajjeesuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:48.363892721Z",
+  "model": "glm-5.3"
+}

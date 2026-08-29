@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahwe Eloohiim kee gara biyya ⟨the⟩ waan abbootii kee dhaalanitti si seensa; atis ishee ni dhaalta; si ni gaacha, abbootii kee irraas ni baay'isa.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "si seensa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "dhaalan"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "abbootii kee"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "atis ishee ni dhaalta"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "si ni gaacha"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ni baay'isa"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "abbootii kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:35:02.068216527Z",
+  "model": "glm-5.3"
+}

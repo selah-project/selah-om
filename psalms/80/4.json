@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Eloohiim, deebisi nu; fuula kee ifteessi; nu fayyina.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "deebisi nu"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ifteessi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "וונושעה",
+      "gloss": "nu fayyina"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:53.764668487Z",
+  "model": "glm-5.3"
+}

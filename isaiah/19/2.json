@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Mitsraayimis Mitsraayim waliin ka'ee wal-diddessu; namni obboleessa isaa waliin, namtiin moo'aa isaa waliin lolatu; magaalalli magaalaa waliin, mootummaan mootummaa waliin.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "wal-diddessu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim waliin"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "lolatu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "obboleessa isaa waliin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "namtiin"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "moo'aa isaa waliin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalalli"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa waliin"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mootummaan"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "mootummaa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:54:08.987334585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Fi maqaan kabajaa isaa yeroo hunda eebbisamaa ta'uun qaba; fi kabajni isaa ⟨את⟩ lafa guutuu haa guutu. Aamiin, fi Aamiin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "fi eebbisamaa ta'uun qaba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kabajaa isaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "haa guutu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kabajni isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa guutuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "fi Aamiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:37.027744388Z",
+  "model": "glm-5.3"
+}

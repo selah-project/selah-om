@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Daawidis isaatti jedhe: yoo ⟨את⟩ na wajjin darbite, waan ulfaa taate natti taata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "darbite"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "na wajjin"
+    },
+    {
+      "surface": "והית",
+      "gloss": "taate"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "waan ulfaa taate"
+    }
+  ],
+  "timestamp": "2026-08-29T07:52:00.456230501Z",
+  "model": "glm-5.3"
+}

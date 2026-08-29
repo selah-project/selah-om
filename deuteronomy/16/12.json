@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Fi yaadadhu akka abbaarfamaa taate Mitsraayim keessatti, kanaaf eegadhuudhaan seera waldurgawwan kana raawwadhu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "fi yaadadhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abbaarfamaa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "taate"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "eegadhuudhaan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "raawwadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera waldurgawwan kana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "seera waldurgawwan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:41.162659822Z",
+  "model": "glm-5.3"
+}

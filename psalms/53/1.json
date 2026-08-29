@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Bifa gumii-qopheessaaf; Maachalatti irratti; barsiisaa, Daawitiif.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bifa gumii-qopheessaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Maachalatti irratti"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "barsiisaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:43.926187297Z",
+  "model": "glm-5.3"
+}

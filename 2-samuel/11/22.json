@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Ergamaanis deeme, seen, Daawidiif ⟨את⟩ waan Yoowaabi isa ergu hunda himesse.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ergamaanis"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "seen"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "himesse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidiif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Yoowaabi isa ergu hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "isa ergu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaabis"
+    }
+  ],
+  "timestamp": "2026-08-29T14:48:15.753982210Z",
+  "model": "glm-5.3"
+}

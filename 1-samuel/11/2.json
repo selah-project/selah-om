@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 11:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Naaḥaash Ammoonaa isaaniin jedhe: \"Haadha si wajjin kakaada: ija mirga keessan hunda nuucuucuun, Israa'el hundumaa irratti salphannaa taasifadha.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naaḥaash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Ammoonaa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Haadha"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "kakaada"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si wajjin"
+    },
+    {
+      "surface": "בנקור",
+      "gloss": "nuucuucuun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mirga"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "taasifadha"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "salphannaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:56.960208384Z",
+  "model": "glm-5.3"
+}

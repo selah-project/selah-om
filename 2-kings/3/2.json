@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yihoraamis Yahwe ilaalcha keessatti hamtuu hojjate; garuu akka abbaa isaa fi haadha isaa miti — utubaata Baal abbaan isaa hojjate san irraa haqate.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ilaalcha keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "akka abbaa isaa"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "fi haadha isaa"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "haqate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utubaata Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "utubaata"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "san"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:02.412600146Z",
+  "model": "glm-5.3"
+}

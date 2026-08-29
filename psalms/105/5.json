@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Yaadadaa hojiiwwan isaa dhorkataa waan inni hojjechaa jiru, mallattoonni isaa fi murtoonni afurii isaa.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "yaadadaa"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hojiiwwan isaa dhorkataa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inni hojjechaa jiru"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mallattoonni isaa"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "fi murtoonni"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afurii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:05.404338415Z",
+  "model": "glm-5.3"
+}

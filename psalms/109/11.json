@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Debt-qabataa akka womba qabeenya isaa hunda marsu; alaggotiin hojii isaa bu'aa balleessan.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "akka womba marsu"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "debt-qabataa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "qabeenya isaa"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "akkas balleessan"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "alaggotiin"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "bu'aa hojii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:14.907976294Z",
+  "model": "glm-5.3"
+}

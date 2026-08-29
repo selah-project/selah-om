@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Yahwe ofraawaa fi qajeelaadha; Eloohiim keenya immoo rahmata guddaadha.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ofraawaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "fi qajeelaadha"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "Eloohiim keenya immoo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rahmata guddaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:01.469757765Z",
+  "model": "glm-5.3"
+}

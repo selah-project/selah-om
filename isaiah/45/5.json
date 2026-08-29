@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Ani Yahwe, kan biraa hin jiru; ala kiyya Eloohiim hin jiru; Ani si gorsaadhe, ati Ani hin beekne turre.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kan biraa"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ala kiyya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Ani si gorsaadhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "beekne turre"
+    }
+  ],
+  "timestamp": "2026-08-29T09:09:53.923290628Z",
+  "model": "glm-5.3"
+}

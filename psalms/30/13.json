@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Akkaa kabajaan kiyya si gorsuu fi hinhimatuuf, Yahwe Waaqayyo koo, yeroo hunda si galateeffadha.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Akkaa"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "si gorsuu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabajaan kiyya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "himatuuf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Waaqayyo koo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "si galateeffadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:54.041531812Z",
+  "model": "glm-5.3"
+}

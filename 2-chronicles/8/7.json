@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Saba hunda kan hafe — Hiitii, Emorii, Pirizii, Hiwii fi Yebusii irraa — isaan Israa'el irraa hin taane.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "kan hafe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiitii"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "fi Emorii"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "fi Pirizii"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "fi Hiwii"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "fi Yebusii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'el irraa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "taane"
+    }
+  ],
+  "timestamp": "2026-08-29T13:55:08.368304779Z",
+  "model": "glm-5.3"
+}

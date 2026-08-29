@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Amma immoo, kunoo, zeetti ilmaan Israa'el na ga'ee jira; akkasumas ⟨את⟩ rukuttaa isaani warri Mitsraayim itti rukuttan argadheera.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "zeetti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "באה",
+      "gloss": "na ga'ee jira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadheera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rukuttaa isaani"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "warri Mitsraayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "itti rukuttan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:15.350121881Z",
+  "model": "glm-5.3"
+}

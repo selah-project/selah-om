@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Sutti faarfannaa si eeggata, yaa Eloohiim, Siyoona keessatti; siif immoo kakuun ni guutama.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sutti (eeggata)"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siyoona keessatti"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "siif immoo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ni guutama"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kakuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:10.723869761Z",
+  "model": "glm-5.3"
+}

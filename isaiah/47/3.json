@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Alaabni kee ifama, soorumeen kees akkasumas mul'ata; malaan tokko nan fudhadha, namatti hin atile.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ifama"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "alaabni kee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "mul'ata"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "soorumeen kee"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "malaan"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nan fudhadha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "atile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:59.730307715Z",
+  "model": "glm-5.3"
+}

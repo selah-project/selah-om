@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Afaan kiyya banuun, megeesaa kana natti cuudche.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "afaan kiyya banuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan kiyya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan kiyya"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "natti cuudche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "megeesaa kana"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "megeesaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T10:03:30.081983876Z",
+  "model": "glm-5.3"
+}

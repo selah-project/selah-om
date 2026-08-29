@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ilmaan Liwiitiis kan hafan: ilmaan Amraam irraa — Shubaa'el; ilmaan Shubaa'el irraa — Yehdiyaahu.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ilmaan ... -s"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Liwiitii"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kan hafan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan ... irraa"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amraam"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shubaa'el"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan ... irraa"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shubaa'el"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Yehdiyaahu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:41:34.481976085Z",
+  "model": "glm-5.3"
+}

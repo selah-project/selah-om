@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Bofa kee irratti koo nii bu'a; moonfanwan bishaanii kee hundaanis na rakkissee jirta. Seelaa.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "irratti koo"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "nii bu'a"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "bofa kee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundaanis"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "moonfanwan bishaanii kee"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "na rakkissee jirta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:30.833000173Z",
+  "model": "glm-5.3"
+}

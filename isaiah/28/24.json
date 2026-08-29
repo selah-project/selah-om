@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Kunoo guutuu guutuutti, kan qonnaan qonnatu kun guyyaa guutuu qonna totobbachuuf qonna? Dachii isaa banaa fi riiba?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "kunoo guutuu guutuutti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "qonna"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "kan qonnaan qonnatu kun"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "totobbachuuf"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "fi riiba"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "dachii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:27.195059684Z",
+  "model": "glm-5.3"
+}

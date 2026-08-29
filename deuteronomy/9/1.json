@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Dhageessi Israa'el, ati har'a Yaradanii dhaqu ⟨את⟩, seenuudhaan biyyootaa guddoo fi ati caalmaan jaboo kabajjoomsu, magaalota guddoo fi boombawwan samii ga'u.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dhaqu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaradanii"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaradanii"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "seenuudhaan"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kabajjoomsu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyootaa"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "guddoo"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "fi jaboo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ati caalmaan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "guddoo"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "fi boombawwan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii ga'u"
+    }
+  ],
+  "timestamp": "2026-08-29T06:21:25.061602759Z",
+  "model": "glm-5.3"
+}

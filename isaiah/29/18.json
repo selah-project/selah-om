@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 29:18",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Guyyaa sanas dheebessoonni jechoota barruu ni dhageettu, ijiwwan wajjoleesis dhukkubbii faallaa dhukkubbii booda ni argatu.",
+  "tokens": [
+    {
+      "surface": "ושמעו",
+      "gloss": "ni dhageettu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "dheebessoonni"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "barruu"
+    },
+    {
+      "surface": "ומאפל",
+      "gloss": "dhukkubbii faallaa"
+    },
+    {
+      "surface": "ומחשך",
+      "gloss": "dhukkubbii booda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijiwwan"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "wajjoleesis"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ni argatu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:21.383424050Z",
+  "model": "glm-5.3"
+}

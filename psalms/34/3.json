@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Nafseen koo Yawaa irratti faarfachaa jirti; kan boonaan ni dhokamu, gammaddani.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawaa irratti"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "faarfachaa jirti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafseen koo"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ni dhokamu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kan boonaan"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "gammaddani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:27.017621269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Ati magaalaa keessatti faarfamaa, atioola keessattis faarfamaa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "faarfamaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magalaatii"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "faarfamaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tiolaatii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:32:57.262880876Z",
+  "model": "glm-5.3"
+}

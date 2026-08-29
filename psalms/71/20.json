@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Waan rakkoo gurguddoo fi hamtuu baay'ee na mul'isaa turre; deebitee na jiraachisa, miila-dhibee lafaa irraas deebitee na ol baafna.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "na mul'isaa turre"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "gurguddoo"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "hamtuu baay'ee"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "deebitee"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "na jiraachisa"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "miila-dhibee irraas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "deebitee"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "na ol baafna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:57.557136834Z",
+  "model": "glm-5.3"
+}

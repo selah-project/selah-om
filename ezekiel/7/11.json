@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hangaan miidhaa mii'aa miidhaa irra dhaabbate; isaan irraa miti, fi baay'ina isaaniis miti, fi gadi fageenya isaaniis miti; isaan irratti sinfannee hin jiru.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "hangaan miidhaa"
+    },
+    {
+      "surface": "קם",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mii'aa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi miti"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "baay'ina isaaniis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi miti"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "gadi fageenya isaaniis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi miti"
+    },
+    {
+      "surface": "נה",
+      "gloss": "sinfannee"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:03:22.491534670Z",
+  "model": "glm-5.3"
+}

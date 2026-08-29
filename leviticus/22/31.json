@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ajajoota koos eegaa; isaanis hojjadhaa — Ani Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "Ajajoota koos"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "hojjadhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaanis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:55.228806550Z",
+  "model": "glm-5.3"
+}

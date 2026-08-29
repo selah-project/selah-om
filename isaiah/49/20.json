@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 49:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Ammas ijoollileen hamilee kee gurra kee keessatti ni jedhu: 'Bakki naaf dhipphaadha; na dhiyaadhu ani nan jiraadhu.'",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "gurra kee keessatti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijoollileen"
+    },
+    {
+      "surface": "שכליך",
+      "gloss": "hamilee kee"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhipphaadha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakki"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "na dhiyaadhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ani nan jiraadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:13.124164908Z",
+  "model": "glm-5.3"
+}

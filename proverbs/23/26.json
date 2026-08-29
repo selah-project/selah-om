@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Ilmi koo, onnee kee natti kenni, ijiin kee immoo karaa koo haa jaallatu.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmi koo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "ijiin kee immoo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa koo"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "haa jaallatu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:29:46.377220029Z",
+  "model": "glm-5.3"
+}

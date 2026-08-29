@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Warra fageenya jiraatan, waan ani hojjedhe dhageessaa; warra dhiyoo jiraatan, humna koo beekaa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "warra fageenya jiraatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ani hojjedhe"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "beekaa"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "warra dhiyoo jiraatan"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "humna koo"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:35.321258232Z",
+  "model": "glm-5.3"
+}

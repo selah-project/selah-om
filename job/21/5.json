@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Na garaadhaa, ajaa'ibaa godhaa, harka keessan afaan irratti kaa'aa.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "na garaadhaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "ajaa'ibaa godhaa"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "kaa'aa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka keessan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פה",
+      "gloss": "afaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:24:31.377383955Z",
+  "model": "glm-5.3"
+}

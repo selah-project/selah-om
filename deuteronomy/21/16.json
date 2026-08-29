@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Guyyaa waan qabaatu ijji isaa dhaalchisuuf, ija jaallatamtuu dhalacha duraa taasisuuf hin danda'u, fuuldura ija mo'atamtuu — dhalacha duraa sanaa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "dhaalchisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijji isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ijji isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan qabaatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "dhalacha duraa taasisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ija jaallatamtuu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ija"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "jaallatamtuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ija"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "mo'atamtuu"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "dhalacha duraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:29:20.044165295Z",
+  "model": "glm-5.3"
+}

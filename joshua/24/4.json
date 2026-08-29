@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Is-haaqif Ya'iqob ⟨את⟩ fi Esaw ⟨את⟩ kenne; Esawif gaara Se'ir ⟨את⟩ dhaalachuuf isaaf kenne; Ya'iqobis ijoollonni isaa gara Mitsraayimitti bu'an.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Is-haaqif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'iqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'iqob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fi",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaara Se'ir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "dhaalachuuf"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (gaara Se'ir)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'iqobis"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ijoollonni isaa"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bu'an"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayimitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:59:46.477951798Z",
+  "model": "glm-5.3"
+}

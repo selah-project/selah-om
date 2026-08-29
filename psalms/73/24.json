@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Gorsa keetiin na qajeelcha; booda kabajaan na fudhatta",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "gorsa keetiin"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "na qajeelcha"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabajaan"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "na fudhatta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:39.851378085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Sii, Eloohiim kun hin qorattuu? Innis dhokatan onnee beeka.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sii… hin… uu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "qoratta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "innis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaaS"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "dhokatan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:29.842361801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Mootichi fi Haamaan Ester mootittii wajjin dhuguuf seenu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "fi Haamaan"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "dhuguuf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mootittii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:38.902988596Z",
+  "model": "glm-5.3"
+}

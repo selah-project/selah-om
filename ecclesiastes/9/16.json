@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Anis jedhe: ogummaan humna irra caalti; garuu ogummaan hiyyeessa falmaa, jechawnis isaas hin dhageeffataman.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "caalti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogummaan"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "humna irra"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "garuu ogummaan"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "hiyyeessa"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "falmaa"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "jechawnis"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "dhageeffataman"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:57.086553953Z",
+  "model": "glm-5.3"
+}

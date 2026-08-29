@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Obboleeyziinsi isaa ⟨את⟩ hoolota abba isaa Shekemiirra horsiisuu deeman.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyziinsi isaa"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "horsiisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoolota"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoolota"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abba isaa"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shekemiirra"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:39.384882851Z",
+  "model": "glm-5.3"
+}

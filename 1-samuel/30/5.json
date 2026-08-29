@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Manaa warraa Daawid lamman hijrooman: Achiinoam Yizre'elituu, fi Abiigayil, ⟨the⟩ barra Nabaal ⟨the⟩ Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "fi lamman"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "manaa warraa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "hijrooman"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achiinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "Yizre'elituu"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "fi Abiigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "barra"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabaal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-29T07:39:14.947690728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Addeetti yeroo baatu, isaan walitti kufu; boodonni isaanii keessattis dirqamu.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "yeroo baatu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "addeetti"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "isaan walitti kufu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi... keessatti"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "boodonni isaanii"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "dirqamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:20.625523932Z",
+  "model": "glm-5.3"
+}

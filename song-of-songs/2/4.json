@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mana waadii naan geesse; dirri isaa irratti jaalala dha.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "naan geesse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היין",
+      "gloss": "waadii"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "dirri isaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti kiyya"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "jaalala"
+    }
+  ],
+  "timestamp": "2026-08-29T12:36:47.179919968Z",
+  "model": "glm-5.3"
+}

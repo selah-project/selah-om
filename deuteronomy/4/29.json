@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Iddoo sanarraa Yahwe Eloohiim kee barbaanna, argittu, yeroo hundin ⟨את⟩ barbaannaaf onnee kee guutuu fi lubbuu kee guutuudhaan.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "barbaanna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iddoo sanarraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "argittu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "barbaannaaf"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "fi guutuu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:35.069845914Z",
+  "model": "glm-5.3"
+}

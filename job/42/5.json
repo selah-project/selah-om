@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Gara dhageettii gogaa ani si dhageesse; ammoo ijaan kiyya si argaadhe.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "gara dhageettii"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ani si dhageesse"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijaan kiyya"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "si argaadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T12:38:50.310545304Z",
+  "model": "glm-5.3"
+}

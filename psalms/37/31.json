@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Seera Eloohiim isaa onnee isaa keessa jira; miilla isaa hin socho'anu.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohiim isaa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "onnee isaa keessa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "socho'anu"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "miilla isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:29.238506305Z",
+  "model": "glm-5.3"
+}

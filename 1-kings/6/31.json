@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Baluqiin Daabiraas akkaataa kanaan kan uume: daloota muka zaytunaati; cufiinsa balbalaafi tarree balbalootaa khamsiin (kurmaana shanaffaa) ta'e.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baluqii (faana balbala daabiraas)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "baluqii"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Daabiraas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "daloota"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaytunaa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "cufiinsa balbalaa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tarree balbalotaa"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "shanaffaa (khamsiin)"
+    }
+  ],
+  "timestamp": "2026-08-29T14:49:20.177998446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Eloohiim irra xiqqoo gad-buuse; ulfinaafi mijeegnaan mukkeesse.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "gad-buuse"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Eloohiim irra"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ulfinaa"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "mijeegnaa"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "mukkeesse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:04.700054244Z",
+  "model": "glm-5.3"
+}

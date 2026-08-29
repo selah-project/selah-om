@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababaa Aram faaca xuraafeasaa keessan hasaasuf jabeessiseef, Efrayimifi ilma Remalyaahu, kan jedhu:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "f"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "hasaase"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "keessan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "faaca xuraafeasaa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimif"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyaahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kan jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:25.085368938Z",
+  "model": "glm-5.3"
+}

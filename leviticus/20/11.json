@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Namni yoo ⟨את⟩ dubartii abbaa isaa waldaale, hidda abbaa isaa mul'iseera; lachuu du'uun ni ajajamu; dhiigni isaanii isaanitti.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "waldaale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dubartii"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "hidda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "mul'iseera"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'uun"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ni ajajamu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "lachuu"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "dhiigni isaanii"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:32.245396148Z",
+  "model": "glm-5.3"
+}

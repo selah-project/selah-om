@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Sababiin abjuu irraatti jedha: \"Lafa irratti haa taatu\"; rooba xiqqoo fi roobawwan humna isaa tiin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "abjuu irraatti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haa taatu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "fi rooba xiqqoo"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rooba"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "fi"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "roobawwan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "humna isaa tiin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:32:45.993594269Z",
+  "model": "glm-5.3"
+}

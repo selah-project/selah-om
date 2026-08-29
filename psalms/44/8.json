@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Garuu Ati eenyuu keenya irraa nu baraarte; jaalalloo nu jalaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "nu baraarte"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "eenyuu keenya irraa"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "jaalalloo"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "nu jalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.623604917Z",
+  "model": "glm-5.3"
+}

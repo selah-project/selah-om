@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yoo hubachiisa mootaa irratti kee ol baate, iddoo kee hin dhiisin; sababni asaa, laaffinni yakka gurguddoo nagaa taasa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hubachiisa"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "mootaa"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ol baate"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "irratti kee"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "iddoo kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "dhiisin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni asaa"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "laaffinni"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "nagaa taasa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "yakka"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "gurguddoo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:05.588700722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hin raawwi baay'ee, akkasumas hin ta'in sageenna; maaltif du'aa oso yeroon kee hin gaadhu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "raawwi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "hin ta'in"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sageenna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltif"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "oso hin"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "yeroon kee hin gaadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:13.482963565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Sababni isaas, mejoonni hundi hargiinsaafi dakaan guutameera; iddoon qulqullaa hin jiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "mejoonni"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "guutameera"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "hargiinsaafi"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "dakaan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoon qulqullaa jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T14:56:30.588593835Z",
+  "model": "glm-5.3"
+}

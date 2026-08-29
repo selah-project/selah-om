@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isaanis ni jedhan, «Nutti milkessesse miti, nutti riixee miti, harka namaa kamiyyuu irraas waan tokkollee hin fudhanne.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Isaanis ni jedhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "nutti milkessesse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "nutti riixee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin fudhanne"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hin fudhanne"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waan tokkollee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:41:39.224875618Z",
+  "model": "glm-5.3"
+}

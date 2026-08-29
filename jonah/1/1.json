@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jecha Yahwe gara Yoonaa ilma Amtiitii tiimu dhufeera, akka jedhu:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'eeera"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amtiitii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:53.719245141Z",
+  "model": "glm-5.3"
+}

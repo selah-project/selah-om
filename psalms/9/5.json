@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sababaa isaatti murtii koo fi qorannoo koo raawwattaa taate; adaadaa irratti taa'attaa, murtii qajeelaa murtuudhaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa isaatti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "raawwattaa taate"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murtii koo"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "fi qorannoo koo"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "taa'attaa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "adaadaa irratti"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "murtuudhaan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "murtii qajeelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:53.211275793Z",
+  "model": "glm-5.3"
+}

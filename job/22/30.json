@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Kan midhaa hin qabne isaas ni baasa; harka kee qulqullummaatiin ⟨is⟩ ni baraarama.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "ni baasa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "kan midhaa"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "ni baraarama"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "qulqullummaatiin"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "harka kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:58.569213007Z",
+  "model": "glm-5.3"
+}

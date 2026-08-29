@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Kan dur-dhunkaneettii manaatti achiisuu — haadota ilmaanatti gammadduu; Yaah haa gabbifamaa!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "kan ... achiisu (haa ijjifamuu)"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "dur-dhunkaneettii"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haadota"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gammadduu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "haa gabbifamaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:11.962308803Z",
+  "model": "glm-5.3"
+}

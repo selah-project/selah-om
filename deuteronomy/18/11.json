@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Fi nama hareera hidhu, nama eebana jalaa dubbistu, beektuu, fi nama du'aa gara seenu.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "nama hareera hidhu"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "hareera"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "nama dubbistu"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "eebana jalaa"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "beektuu"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:26:34.106195402Z",
+  "model": "glm-5.3"
+}

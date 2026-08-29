@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ilmi koo, seera koo hin dagatin; ajajoota koo onneen kee haa eegdu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmi koo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "seera koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dagatin"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ajajoota koo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "haa eegdu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onneen kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:53.275753706Z",
+  "model": "glm-5.3"
+}

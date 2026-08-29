@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Eegi na, Yahwe, harka baha irraa; namoota miil-dhiigaa irraa na eeggi; waan tarkaanfii koo buusuuf yaadan.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Eegi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "baha"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "namoota irraa"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "miil-dhiigaa"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "na eeggi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yaadan"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "buusuuf"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "tarkaanfii koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:47.273344454Z",
+  "model": "glm-5.3"
+}

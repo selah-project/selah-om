@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mataalee dhaabbataa mana Baalii baafatanii guban.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "baafatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataalee dhaabbataa"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "mataalee dhaabbataa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "guban isa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:32.643112003Z",
+  "model": "glm-5.3"
+}

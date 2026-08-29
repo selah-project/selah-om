@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Kan walitti qabani ni sooratu, Yahwe ⟨את⟩ faarsu; kan funaananiinis manaawwan qulqullummaa kiyya keessatti ni argatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "kan walitti qabani"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ni sooratu"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "faarsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "kan funaananiinis"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "ni argatu"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "manaawwan keessatti"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qulqullummaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T09:18:54.101577954Z",
+  "model": "glm-5.3"
+}

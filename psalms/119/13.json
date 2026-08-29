@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Cimdii kiyya irratti seera murtii waan hundaa_aa kan afaan kee ti himadheera.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "cimdii kiyya irratti"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "himadheera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "seera murtii"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:58.547366795Z",
+  "model": "glm-5.3"
+}

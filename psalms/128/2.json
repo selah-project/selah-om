@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 128,
+  "translation": "Hoji harka keetii ni nyaatta; gammachuun si qaba, siifas gaarii ta'a.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "hoji"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "harka keetii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni (foonqoo)"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nyaatta"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "gammachuun si qaba"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "gaarii ta'a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siifas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:12.520407742Z",
+  "model": "glm-5.3"
+}

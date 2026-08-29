@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Halkan sanaa hirribi mootichaa baqate, akka ⟨את⟩ kitaabni yaadannootaa jechoota guyyootaa fidamu ni jedhe, mootichi duraa ta'ani dubbataman.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "baqate"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "hirribi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "fidamuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitaaba yaadannootaa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaaba"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "yaadannootaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyootaa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'ani"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "dubbataman"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:37.993382474Z",
+  "model": "glm-5.3"
+}

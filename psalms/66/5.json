@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kottaa fi argaa hojii Eloohiim, kan rabsuma hojii isaa irratti, ji'ooloota namaa irratti.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kottaa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "fi argaa"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kan rabsuma"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "hojii isaa irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ji'ooloota"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:35.203461528Z",
+  "model": "glm-5.3"
+}

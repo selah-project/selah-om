@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Mosheenis ⟨את⟩ karralota fi ⟨את⟩ sangota fudhatee, gara Leviiyootaatti ⟨את⟩ isaani kenne.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karralota"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "karralota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "sangota"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sangota"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Leviiyoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviiyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:59.922368672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Icciitti, yakkii keessatti dhaladhe, fi badii keessatti haadha koo ijaadhe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "icciitti"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "yakkii keessatti"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "dhaladhe"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "fi badii keessatti"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ijaadhe"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:29.337673924Z",
+  "model": "glm-5.3"
+}

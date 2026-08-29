@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yoonataanis ⟨את⟩ qabatamaa Filistiiyyanotaa kan Geebaa jiru rukute, Filistiiyyanonnis dhageessan. Saawulis zoofii ⟨the⟩ biyya guutuutti kufise, \"Ibrootaan dhageessaa!\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yoonataanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabatamaa Filistiiyyanotaa"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "qabatamaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiyyanotaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Geebaa jiru"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "dhageessan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiyyanonnis"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Saawulis"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "kufise"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "zoofii"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuutti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibrootaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:42:29.927542221Z",
+  "model": "glm-5.3"
+}

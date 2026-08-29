@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Maaltu Eel Yahwe jedhu ni dhaggeeffadha; kanatti sabaa Isaa fi warra kheesed Isaa irratti nagaa ni dubbata; garuu gara dogoggora dallaa akka hin deebi'an haa ta'u.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "ni dhaggeeffadha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanatti"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ni dubbata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sabaa Isaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "warra kheesed Isaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "hin deebi'an"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "gara dogoggora dallaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:34.337337392Z",
+  "model": "glm-5.3"
+}

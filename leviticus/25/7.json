@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Fi beyladaa keetiif fi binseensa lafaa kee keessa jiraatu tiif — bu'aan isaa hundinuu soorataaf ta'a.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "beyladaa keetiif"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "binseensatiif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamittuu"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "lafaa kee keessa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "bu'aan isaa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "soorataaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:52.600892064Z",
+  "model": "glm-5.3"
+}

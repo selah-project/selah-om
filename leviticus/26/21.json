@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yoo xiqqoo diinaa isa wajjin deemtanii, ana dhageessuu hin barbaadanne, akka ataawwan keessaniitiin mukaa baay'ee torbaan isiniirratti dabalcha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "deemtanii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "diinaa isa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "barbaadanne"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhageessuu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "dabalcha"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isiniirratti"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mukaa baay'ee"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "akka ataawwan keessaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:44.575516366Z",
+  "model": "glm-5.3"
+}

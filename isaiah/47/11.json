@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 47:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Rakkisni si irratti dhufa — akkaan hin beektu; balaan si irratti kufa — balleessuu hin dandeettu; addattis rakkinni si irratti dhufa — hin beektus.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakkisni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "שחרה",
+      "gloss": "akkaan"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "dandeettu"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "balleessuu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "addattis"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "rakkinni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "beektu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:09:45.358368896Z",
+  "model": "glm-5.3"
+}

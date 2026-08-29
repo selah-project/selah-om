@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Kadhannaa Mosheeti, nama Eloohiimaa. Adoonaay, teessoo ati taateetti nuuf, dummessaadha dummessaatti.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "kadhannaa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheeti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "היית",
+      "gloss": "taateetti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "dummessaadha"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dummessaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:32.791171498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Galgala deebi'u; akka sareetti iyyu; magaalaa naannoo'uu.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "Galgala"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "iyyu"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "akka sareetti"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "naannoo'uu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:59.901012086Z",
+  "model": "glm-5.3"
+}

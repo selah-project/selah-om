@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ilmoottanni hidhannoo ⟨את⟩ Pasakaalee ji'a tokkoffaa guyyaa kudha-affur irratti hojjedhan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjedhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoottanni"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "hidhannoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasakaalee"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasakaalee"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kudha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "affur"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "tokkoffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:15:50.444056192Z",
+  "model": "glm-5.3"
+}

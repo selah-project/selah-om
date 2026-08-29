@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Daawidis ⟨את⟩ Akhiino'am Yizre'el irraa fudhate; lamannis isaa lamaan niitoota isaa ta'aniiru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akhiino'am"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akhiino'am"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhateetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "Yizre'el irraa"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lamannis"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "isaa lamaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "niitoota"
+    }
+  ],
+  "timestamp": "2026-08-29T07:35:44.761379988Z",
+  "model": "glm-5.3"
+}

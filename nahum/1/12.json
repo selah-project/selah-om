@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akka kanas Yahwe jedhe: Yoo guutamanii fi akkana baay'een, akkana hammami — fi darbe. Si rakkiseera; yeroo dheeraaf si hin rakkisu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka kanas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "guutamanii"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "fi akkana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "akkana"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "hammami"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "fi darbe"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "Si rakkiseera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "rakkisu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yeroo dheeraaf"
+    }
+  ],
+  "timestamp": "2026-08-29T10:55:42.901206577Z",
+  "model": "glm-5.3"
+}

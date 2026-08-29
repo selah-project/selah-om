@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Namni eenyu Yahwe sodaata? Inni karaa filata isaaf isa barsiisa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sodaata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "isa barsiisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "isa filata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:36.358566507Z",
+  "model": "glm-5.3"
+}

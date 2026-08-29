@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Yaa Yahwe, biyya kee irratti jaalala mul'isaa jettee, yaa'a Ya'aaqob deebisaa jettee.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "jaalala mul'isaa jettee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaa Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "biyya kee"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "deebisaa jettee"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "yaa'a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aaqob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:04.993900620Z",
+  "model": "glm-5.3"
+}

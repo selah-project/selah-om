@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Ammas amma dhokasi, Ya'aqob gabbara keenya, fi Israa'el ana filadhe ⟨isaa⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhokasi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabbara keenya"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "fi Israa'el"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ana filadhe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:30.794684461Z",
+  "model": "glm-5.3"
+}

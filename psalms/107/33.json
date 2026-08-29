@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Laggootta (בור) gara gammoojjii godha, burqitoota bishaanis gara dachee dheebuutti.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "godha"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "laggootta"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "gara gammoojjii"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "burqitoota bishaanis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "gara dachee dheebuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:36.401964671Z",
+  "model": "glm-5.3"
+}

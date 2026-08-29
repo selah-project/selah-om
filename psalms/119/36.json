@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Onnee kiyya gara ragaa keeitti gadi-baasi, gara faayidaa miidhaatti garuu miti.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "gadi-baasi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ragaa kee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "faayidaa miidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:44.261277801Z",
+  "model": "glm-5.3"
+}

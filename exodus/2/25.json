@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Eloohiimiin ilaalon ⟨את⟩ ilmaan Israa'el; Eloohiimiin beeku.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ilaalon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:21.380053788Z",
+  "model": "glm-5.3"
+}

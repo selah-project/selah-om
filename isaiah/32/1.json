@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Dheessi! Mootichi <lammii> dhugaa isa murteessuu ti hogganuuf dhaabbata; <mootummaa> asee <eddammoo> hogganuu ti fageenyaa dhaabbata.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Dheessi"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "dhugaa isa murteessuu ti"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hogganuuf dhaabbata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "<mootummaa> asee"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hogganuu ti"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "fageenyaa dhaabbata"
+    }
+  ],
+  "timestamp": "2026-08-29T14:58:49.234224570Z",
+  "model": "glm-5.3"
+}

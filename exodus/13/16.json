@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Kun mallannoo harka keettiifi digdii isa gurguddaa gidduu kee ta'u qaba, sababun harka humna guddaa qabaan Yahwe nu baase Mitsraayim irraa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'u qaba"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "mallannoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "digdii isa gurguddaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "iyye kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababun"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "humna guddaa qabaan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "nu baase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:01.626195171Z",
+  "model": "glm-5.3"
+}

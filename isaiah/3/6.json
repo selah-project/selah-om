@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Waan namni obboleessa isaa mana abbaa isaa irraa qabatee jedhu: «Ganni si qaba; nuuf bulchaa ta'i; kuffamni kuni jala harkaa keetti haa ta'u.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "qabatee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ganni"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "si qaba"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "bulchaa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'i"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "fi kuffamni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harkaa keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:45.623049911Z",
+  "model": "glm-5.3"
+}

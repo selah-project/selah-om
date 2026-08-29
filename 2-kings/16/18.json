@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "⟨את⟩ kubbaa Sabat mana keessatti ijaarame fi ⟨את⟩ seensa mootichaa alaa mana Yahwe irraa naannofse, waan mooticha Ashur tureef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kubbaa Sabat"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "kubbaa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ijaarame"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seensa mootichaa alaa"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "seensa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "naannofse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "waan ... tureef"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:57.623945854Z",
+  "model": "glm-5.3"
+}

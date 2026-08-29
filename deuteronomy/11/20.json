@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Balbala mana keessanii fi balbala magaalaa keessanii irrattis barreessaa.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "barreessaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "Balbala [duraa-dhumaa balbala]"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana keessanii"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "balbala magaalaa keessanii irrattis"
+    }
+  ],
+  "timestamp": "2026-08-29T14:33:58.099395300Z",
+  "model": "glm-5.3"
+}

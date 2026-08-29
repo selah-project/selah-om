@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Nafa koo haa jiraatu; ⟨akkusumas⟩ haa si galateeffatu; murtiileen kee na gargaaruu haa jiraatan.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa koo"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "akkusumas haa si galateeffatu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "akkusumas murtiileen kee"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "na gargaaruu haa jiraatan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:33.529291212Z",
+  "model": "glm-5.3"
+}

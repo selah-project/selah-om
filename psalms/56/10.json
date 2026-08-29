@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Yeroo san faanaasoon kiyya deebi'u — guyyaa waan isaatii Waaqayyechuuf. Kun natti beekaamma: Waaqayyo na wajjin jira.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo san"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "faanaasoon kiyya deebi'u"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "faanaasoon kiyya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waan isaatii Waaqayyechuuf"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "natti beekaamma"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Waaqayyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na wajjin jira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:43.225456112Z",
+  "model": "glm-5.3"
+}

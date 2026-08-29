@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Dhugumatti Innis ⟨את⟩ isin ni gatii, yoo fuula dhokataadhaan fudhattan.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "haa gatii"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "Innis isin ni gatii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dhokataadhaan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "fudhattan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:32.989409027Z",
+  "model": "glm-5.3"
+}

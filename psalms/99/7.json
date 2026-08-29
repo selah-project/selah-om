@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Utubaa duudaa irratti isaanitti dubbata; ragaa isaa eegani, fi seera isaaniif kenne.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "utubaa-irratti"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "duudaa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbata"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eegani"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ragaa-isaa"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "fi-seera"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:25.972650363Z",
+  "model": "glm-5.3"
+}

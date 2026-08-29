@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sababiin ati Eel raawwaa fedhu miti; hamtuun sii dhiyoo hin jiraatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fedhu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "sii dhiyoo hin jiraatu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:48.856623584Z",
+  "model": "glm-5.3"
+}

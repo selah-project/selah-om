@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ka'i, lafa sana dheerina isheetiin fi bal'ina isheetiin socho'i; kan siif isa nan kennaaf.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "socho'i"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa sana keessa"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "dheerina isheetiin"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "fi bal'ina isheetiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "isa nan kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:20.872176067Z",
+  "model": "glm-5.3"
+}

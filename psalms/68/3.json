@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Akka safana haddaafamu sanaan haddaafi; akka doonaga ibidda dura dhaddaafamu sanaan, lubbumoonni facaafamu fuula Eloohiim dura.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Akka ... haddaafamu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "safana"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "haddaafi"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "Akka ... dhaddaafamu"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "doonaga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "facaafamu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "lubbumoonni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fuula ... dura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:11.118392484Z",
+  "model": "glm-5.3"
+}

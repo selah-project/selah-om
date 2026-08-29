@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Qulqullaaquun kan Yahwe fakkaatu hin jiru, sababas kan At irraa ala ta'e hin jiru; dhagaa guddaan kan Eloohiim keenya fakkaatu innis hin jiru.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqullaaquun"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kan Yahwe fakkaatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "kan At irraa ala ta'e"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "innis hin jiru"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagaa guddaan"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "kan Eloohiim keenya fakkaatu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:24.408336850Z",
+  "model": "glm-5.3"
+}

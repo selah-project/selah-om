@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Yoo nutti dhufu dhugaa hin dubbatu; onneen isaa badii isaa irratti walitti qaba; bahuutti bahee isa hima.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nutti dhufu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arguuf"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dhugaa hin"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onneen isaa"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "walitti qaba"
+    },
+    {
+      "surface": "און",
+      "gloss": "badii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bahuutti"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hima"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:50.632978793Z",
+  "model": "glm-5.3"
+}

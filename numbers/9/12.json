@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Isaan irraa hin hambisuu hanga ganama, lafee tokkollee isii hin cabsan; akka seera Paasxaa hunda, Isa kenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "hambisuu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "lafee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isii"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka hunda"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paasxaa"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "kenu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Isa (Paasxaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T14:29:29.433657961Z",
+  "model": "glm-5.3"
+}

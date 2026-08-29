@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Kanaaf ri'uun baay'ina hojii irraa dhufa, sagaaleen foolanii immoo baay'ina jechoota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ri'uun"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'ina"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sagaaleen"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "foolanii"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'ina"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "jechoota"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:08.263188471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Sabiin kiyya rakkoowwan badhaadheef; jireenyi kiyyas She'ool ga'eera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabiin... (akkuma)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "badhaadheef"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "rakkoowwan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sabiin kiyya"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "jireenyi kiyyas"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "She'ool"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ga'eera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:46.292681249Z",
+  "model": "glm-5.3"
+}

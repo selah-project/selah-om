@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Mootichiis du'e, Summareettiis dhufe; mooticha ⟨את⟩ Summareetti achan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Summareetti"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "achan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Summareetti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:22:34.930426463Z",
+  "model": "glm-5.3"
+}

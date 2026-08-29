@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Waggaa lammaffaa Yoash ilma Yooahaz, mootii Israa'el, irratti Amatsyaahu ilma Yoash, mootii Yahuudaa, mootummaa eegale.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "waggaa irratti"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yooahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootummaa eegale"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:52.977038953Z",
+  "model": "glm-5.3"
+}

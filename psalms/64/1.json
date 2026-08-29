@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Kan geeffamuuf — mazaamara Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kan geeffamuuf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazaamara"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:25.649158427Z",
+  "model": "glm-5.3"
+}

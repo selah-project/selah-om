@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Waan abbaa isaa yoo hojjete — abbaa isaa yoo hojjete — abbaa isaa yoo hojjete — abbaa isaa yoo hojjete.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "kan rukutu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ha du'amu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:44.886170117Z",
+  "model": "glm-5.3"
+}

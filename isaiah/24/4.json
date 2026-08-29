@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Dacheen gaddifti, laaftifti; addunyaa dhibamti, laaftifti; olaa uummata dachee dhibamu.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "gaddifti"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "laaftifti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dacheen"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "dhibamti"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "laaftifti"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "dhibamu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "olaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uummata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:00.700083934Z",
+  "model": "glm-5.3"
+}

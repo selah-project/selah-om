@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 21:1",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Jechi waan ta'e gara Yirmiyaahu ⟨את⟩ Yahwe irraa, yeroo mootichi Tsidiqiyahu ⟨את⟩ Pashchuur ilma Malkiyaa fi ⟨את⟩ Tsefanyaa ilma Ma'aseeyaa qeesi gara isaatti ergu, akka jedhuuti.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Jechi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "irraa ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "yeroo ergu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gara isaatti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidiqiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pashchuur"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchuur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Malkiyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Tsefanyaa"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Ma'aseeyaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qeesi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuuti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:06:41.505655169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Isaaniinis qabatee mana eegumsaatti seensise guyyoota sadiif.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "qabatee seensise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaaniinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara…tti"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mana eegumsaatti"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:43.548069462Z",
+  "model": "glm-5.3"
+}

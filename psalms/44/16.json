@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Guyyaa guutuu rakkinni kiyya fuulduratti, ibsiin fuula kiyya na hoolatee.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "rakkinni kiyya"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ibsiin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula kiyya"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "na hoolatee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:55.676105531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmoon Chetsron isa walduraa isaatii dhalatan immoo ⟨את⟩ Yerachme'el, ⟨את⟩ Raam fi ⟨את⟩ Kelubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ilmoon"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachme'el"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachme'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raam"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Raam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kelubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubay"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:22.050715783Z",
+  "model": "glm-5.3"
+}

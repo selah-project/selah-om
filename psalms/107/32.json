@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Garaawwan sombaa keessatti Isa ol-kaasaa; mu'annoo beeqqeffannoo isaas teessoo beeqqeffannoo duraa keessatti Isa faarsaa.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Isa ol-kaasaa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "garaawwan sombaa keessatti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sombaa"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "teessoo beeqqeffannoo duraa keessatti"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "beeqqeffannoo duraa"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "Isa faarsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:47.110533257Z",
+  "model": "glm-5.3"
+}

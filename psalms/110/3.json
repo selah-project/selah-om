@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Sanyiin kee qooda hawwaa ta'aniiti guyya humna kee irratti; miilliiwwan qulqullummaa keessaa, koombaa ganama irraa, roobni dargaggummaa kee kan kee ti.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "sanyiin kee"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "qooda hawwaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyya...irratti"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "miilliiwwan...keessaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "koombaa"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ganama irraa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kan kee"
+    },
+    {
+      "surface": "טל",
+      "gloss": "roobni"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "dargaggummaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:03.361248810Z",
+  "model": "glm-5.3"
+}

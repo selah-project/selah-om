@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ati na madda gadii irratti, onnee addunyaa bishaanii keessatti gattitte; naannoon bishaan na marsa; marsaan bishaan kee hundaan fi galgalaan kee si'ii koo irratti dararan.",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "nattigattitte"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "madda gadii"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "onnee ... keessatti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "addunyaa bishaanii"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "naannoon bishaan"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "na marsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "marsaan bishaan kee"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "galgalaan kee"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "si'ii koo irratti"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dararan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:35.930167219Z",
+  "model": "glm-5.3"
+}

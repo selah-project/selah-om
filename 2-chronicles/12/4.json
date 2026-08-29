@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Magaalota toophaa-cimoo kan Yihuudaa ⟨את⟩ qabate, Yerushaalayimtti yoo ga'e.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "qabate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalota toophaa-cimoo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "toophaa-cimoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kan Yihuudaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yoo ga'e"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T13:54:36.126493563Z",
+  "model": "glm-5.3"
+}

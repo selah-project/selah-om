@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Kohaanni baaldaa harka kee irraa fudhata, Akkaasumas altarii Yahwe Eloohiim kee duraa kenna.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohaanni"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "baaldaa"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "harka kee irraa"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:31:27.804461108Z",
+  "model": "glm-5.3"
+}

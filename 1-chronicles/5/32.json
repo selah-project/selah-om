@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Uuzziin immoo ⟨את⟩ Zerachyaah uume; Zerachyaahn immoo ⟨את⟩ Merayoot uume.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uuzziin immoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyaah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyaah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zerachyaahn immoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayoot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayoot"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:40.990674497Z",
+  "model": "glm-5.3"
+}

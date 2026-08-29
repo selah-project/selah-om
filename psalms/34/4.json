@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahwe guddisaa ana wajjin ⟨את⟩; maqaa Isaa waldahaa ni guddisnaa.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "guddisaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ana wajjin"
+    },
+    {
+      "surface": "וינרוממה",
+      "gloss": "ni guddisnaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa Isaa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waldahaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:27.017770511Z",
+  "model": "glm-5.3"
+}

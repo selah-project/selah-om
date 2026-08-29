@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Biyya Yahwe irratti hin jiraatan; Efrayim Gibxiitti deebi'a, Assiir keessas wanta qulqullummaa hin qabne nyaachu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Gibxii"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "Assiir keessas"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wanta qulqullummaa hin qabne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "nyaachu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:41:25.064686562Z",
+  "model": "glm-5.3"
+}

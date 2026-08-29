@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Kan dhokata Eel Elyoon keessa jiraatu, ga'eella Shaddaay jal dhaabbatee jiraata.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dhokata keessa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eel Elyoon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ga'eella jal"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaay"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "dhaabbatee jiraata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:06.663010030Z",
+  "model": "glm-5.3"
+}

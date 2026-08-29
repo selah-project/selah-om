@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Yaaday sirrii jedhanii natti dubbatu: «Yeroo eegu du'a, maqaan isaa bahaa?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Yaaday"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Yeroo eegu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "bahaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:50.632845182Z",
+  "model": "glm-5.3"
+}

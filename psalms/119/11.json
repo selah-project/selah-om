@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Jecha kee onnee kiyya keessaa iccitiin kuufee jira, si irratti akka hin dogoggorref.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "onnee kiyya keessaa"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "iccitiin kuufee jira"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jecha kee"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka ... -ref"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:25.827136684Z",
+  "model": "glm-5.3"
+}

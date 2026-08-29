@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 14:10",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Dogoggoree isaanii akka dogoggora barsiisaa, akka dogoggora raajicha ta'u, baadan.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "baadan"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dogoggoree isaanii"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "akka dogoggora"
+    },
+    {
+      "surface": "הדרש",
+      "gloss": "barsiisaa"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "akka dogoggora"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "raajicha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T10:11:01.177649496Z",
+  "model": "glm-5.3"
+}

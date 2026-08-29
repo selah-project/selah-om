@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Kanaafuu akka urjii ganamaa, akka rooba ganamaa dhiyaatu, akka meenti andarratti baafamu warra budenaa irraa, fi akka sumsumni balbala irraa baatu, ta'u.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "akka urjii"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganamaa"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "akka rooba"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "ganamaa dhiyaatu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "akka meenti"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "andarratti baafamu"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "warra budenaa irraa"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "akka sumsumni"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "balbala irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:48.429987671Z",
+  "model": "glm-5.3"
+}

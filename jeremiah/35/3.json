@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Ani ⟨את⟩ Yaazanyaa ilma Yirmiyaahu, ilma Havatsanyaa fudhe, akkasumas ⟨את⟩ obboleeywan isaa fi ⟨את⟩ ilmaan isaa hundaa, akkasumas ⟨את⟩ mana Reekaab hunda.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ani fudhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyaa"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Havatsanyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeywan isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeywan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana Reekaab hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Reekaab"
+    }
+  ],
+  "timestamp": "2026-08-29T09:46:29.728233666Z",
+  "model": "glm-5.3"
+}

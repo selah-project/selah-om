@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Kanaaf, sabniwwan, dhukaadhaa; walitti dhufni, beekaa ⟨את⟩ waan isaan irra jiru.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhukaadhaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sabniwwan"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "beekaa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "walitti dhufni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan isaan irra jiru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan irra"
+    }
+  ],
+  "timestamp": "2026-08-29T09:24:21.255801438Z",
+  "model": "glm-5.3"
+}

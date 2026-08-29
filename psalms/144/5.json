@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Yahwe, samii kee dadachaasi haa gadi buutu; gaarreen tuqi, isaan ni saalan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "dadachaasi"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "samii kee"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "haa gadi buutu"
+    },
+    {
+      "surface": "גע",
+      "gloss": "tuqi"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "n(i) saalan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:45.521009487Z",
+  "model": "glm-5.3"
+}

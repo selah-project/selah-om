@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Miiddaaghan kana hoo attaan keessaa baadhat, isaanis mallannole ⟨את⟩ isa wajjin taasisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miiddaaghan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "miiddaaghan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "baadhat"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "attaan keessaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaanis"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa wajjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mallannole"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "mallannole"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:22.820621747Z",
+  "model": "glm-5.3"
+}

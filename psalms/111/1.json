@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Yaah madaalaa! Ani galmee kakaasaa Yahwe irratti godha, onnee guutuu wajjin, mariinsa duqqeeffattootaa fi gimxuxaa keessatti.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "madaalaa godhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "galata kakaasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu wajjin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mariinsa icciitii keessatti"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "duqqeeffattootaa"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "fi gimxuxaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.992861496Z",
+  "model": "glm-5.3"
+}

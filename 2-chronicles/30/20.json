@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahwe Yihizqiyaahu dhagaye, ummataas ⟨את⟩ fayyise.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhiyootti"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yihizqiyaahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "fayyise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    }
+  ],
+  "timestamp": "2026-08-29T14:08:29.523691614Z",
+  "model": "glm-5.3"
+}

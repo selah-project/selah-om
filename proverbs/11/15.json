@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Namni alaa irratti waadaa galmeesse gadda, sababni isaas alaa qabamaa ta'eera; warra harka tumuu jaammate immoo tasgabbii qaba.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "gadda"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ni eega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qabamaa waadaa galmeesse"
+    },
+    {
+      "surface": "זר",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "jaammate immoo"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "harka tumuu"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "tasgabbii qaba"
+    }
+  ],
+  "timestamp": "2026-08-29T12:02:31.270019561Z",
+  "model": "glm-5.3"
+}

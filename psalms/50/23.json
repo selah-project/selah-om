@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Kan galata kaffalutu ana ulfinna; karaa sirrii geessuus, fidna Eloohiim isa agarsiisa.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "kaffalutu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "galata"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "ana ulfinna"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "fi geessuu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "isa agarsiisa"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "fidna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:08.917227260Z",
+  "model": "glm-5.3"
+}

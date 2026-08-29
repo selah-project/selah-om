@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mitini akka ogeessaa? Mitini hiikkaa jechaa beekaa? Ogummaan nam-tokkoo fuula isaa ifteessa, humnni fuula isaa ammoo ni jijjiirama.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mitini"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "akka ogeessaa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mitini"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "beekaa"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechaa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogummaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nam-tokkoo"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ifteessa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuula isaa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "humnni"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuula isaa"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ni jijjiirama"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:04.032177149Z",
+  "model": "glm-5.3"
+}

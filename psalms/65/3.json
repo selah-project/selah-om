@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Kan kadannaa dhaga'u, sitti lafeen hundi ni dhufu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "kan ... dhaga'u"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kadannaa"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sitti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lafeen"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ni dhufu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:10.723977131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kanaafuu ajaja ⟨את⟩ waan Ani har'a siif ajaju — seerota fi murannoo, isaan hojjachuuf — eegi.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Kanaafuu eegi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajaja"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seerota"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "seerota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murannoo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "murannoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "siif ajaju"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "isaan hojjachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:19:57.647477983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Innis waan Yahwe ijii keessatti sirrii ta'e hojjedhe, akka waan abbaan isaa Amatsyaahu hojjedhe hunda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "waan sirrii ta'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ijii keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka ... hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyaahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:03:19.428430132Z",
+  "model": "glm-5.3"
+}

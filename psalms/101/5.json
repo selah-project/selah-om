@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Kan arraba isaa duubatti dhiyeesu kijibsa michuu isaa, ⟨את⟩ kana nagaa baafata; kan iji ol-ka'e fi onnee bal'aa qabu, ⟨את⟩ sana nan dandahu miti.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "kan arraba isaa duubatti dhiyeesu kijibsa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dhokataadhaan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "michuu isaa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ kana"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "nagaa baafata"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ol-ka'e"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "iji"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "fi bal'aa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nan dandahu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:05.416412848Z",
+  "model": "glm-5.3"
+}

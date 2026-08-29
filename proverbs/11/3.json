@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Qulqullinni warra sirrii isaan qajeelcha; kakaabni warra kufatan immoo balleettummaa isaaniiti.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "qulqullinna"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "warra sirrii"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "isaan qajeelcha"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "kakaabnis"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "warra kufatan"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "balleettummaa isaaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:22.823292949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 27:25",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Adeemun dhaaddachawwan mootichaa irratti immoo Aazmaawet ilma Aadi'eel ture; dhaaddachawwan irra caalaatti gala keessaa — magaalota keessatti, ganda dachii keessatti fi burjujota keessatti — immoo Yehonataan ilma Uzziyyaa ture.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "irratti immoo"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "dhaaddachawwan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Aazmaawet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עדיאל",
+      "gloss": "Aadi'eel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti immoo"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "dhaaddachawwan irra caalaatti gala keessaa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "galoota keessaa"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "magaalota keessatti"
+    },
+    {
+      "surface": "ובכפרים",
+      "gloss": "ganda dachii keessatti"
+    },
+    {
+      "surface": "ובמגדלות",
+      "gloss": "burjujota keessatti"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzziyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:46:51.581260094Z",
+  "model": "glm-5.3"
+}

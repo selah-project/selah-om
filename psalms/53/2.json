@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Sillyooni onneetti isaa jedhe, \"Eloohiim hin jiru\"; balleessaniiru, waan fokkatan hojjedhaniiru; gaggaariin hojjetu hin jiru.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Sillyooni"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "onneetti isaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "balleessaniiru"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "waan fokkatan hojjedhaniiru"
+    },
+    {
+      "surface": "עול",
+      "gloss": "waan fokkatan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaggaariin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:43.926399341Z",
+  "model": "glm-5.3"
+}

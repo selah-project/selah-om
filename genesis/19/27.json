@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Avrahaam waraqaa faginaatti bakkatti gale — bakkaa suniin ⟨את⟩ fuula Yahwe dura dhaabbate sanaa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "waraqaa faginaatti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganaatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bakkatti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakkaa sanaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:05.134692516Z",
+  "model": "glm-5.3"
+}

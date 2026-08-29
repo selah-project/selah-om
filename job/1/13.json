@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Guyyaa tokko ta'e, ilmaan isaa fi ilmoon isaa mana obboleessa isaanii tokkoffaa keessatti moomee nyaachaa fi dhugaa turan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa tokko"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "ilmoon isaa"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "nyaachaa jiru"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dhugaa jiru"
+    },
+    {
+      "surface": "יין",
+      "gloss": "moomee"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "obboleessa isaanii"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "tokkoffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:51.670670122Z",
+  "model": "glm-5.3"
+}

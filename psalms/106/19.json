@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Garga Horrep irratti uumaniis, wanta dhokatanii argamsiifaman caqanii.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "uumaniis"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "garga"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horrep irratti"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "caqanii"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "wanta dhokatanii argamsiifaman"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:35.657846252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sababa fakkaattoo, sabni hamtuu hatattootaa na marsuudha; akka arseenti harka koo fi miilla koo (na tuule).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa fakkaattoo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "na marsuudha"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "eelee"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "hamtuu hatattootaa"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "na marsuudha"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "akka arseenti"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka koo"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "fi miilla koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:41.977909301Z",
+  "model": "glm-5.3"
+}

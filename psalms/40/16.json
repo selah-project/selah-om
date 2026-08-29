@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Warra naan jedhan «He'aa, he'aa» waan earmataa isaanii haa buneessanii haa bashaanan.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "haa buneessanii haa bashaanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "batti (akkuma hiikkaatti)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "earmataa isaanii"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "warra jedhan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naan"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He'aa"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:58.625691188Z",
+  "model": "glm-5.3"
+}

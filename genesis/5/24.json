@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Khenok Eloohiim ⟨את⟩ wajjin dheessaa deeme; inni hin jiru ta'e, kiinii Eloohiim ⟨את⟩ isa fudhate.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "dheessaa deeme"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khenok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wajjin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "inni hin jiru ta'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiinii"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa",
+      "marks": "Khenok (isa)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:03.017296434Z",
+  "model": "glm-5.3"
+}

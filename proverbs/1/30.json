@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Gorsa koo hin fudhatanne; gorgorsi koo hunda warraabani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "fudhatanne"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "gorsa koo"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "warraabani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "gorgorsi koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:35.785703537Z",
+  "model": "glm-5.3"
+}

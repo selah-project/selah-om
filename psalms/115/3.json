@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Eloohiimon keenya ⟨is⟩ samii keessatti; waan hunda kan barbaade hojjateera.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Eloohiimon keenya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjateera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:50.630321741Z",
+  "model": "glm-5.3"
+}

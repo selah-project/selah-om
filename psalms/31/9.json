@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Lubbuu koo hafe, ana harka diinaatti hin cufne; miila koo iddoo bal'aa irratti dhaabbafte.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin cufne"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ana hin cufne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "dhaabbafte"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "iddoo bal'aa irratti"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miila koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:31.592646511Z",
+  "model": "glm-5.3"
+}

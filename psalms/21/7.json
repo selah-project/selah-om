@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kiyyaa, ati isa eebbissaadhaa taasifta yeroo dachaaf; ati isa simachisa gammachaan, ⟨את⟩ fuula kee tiin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kiyyaa"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "isa taasifta"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "eebissaadhaa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo dachaaf"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "isa simachisa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "gammachaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kee tiin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee tiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:41.240176406Z",
+  "model": "glm-5.3"
+}

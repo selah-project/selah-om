@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yahwe'nis jedhe: Eenyu Ahaab ⟨את⟩ foolachisee ol-bahee Raamooti Gilead keessatti akka kufu? Tokkon akka kana jedhe; kaanis akka kana jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "foolachisee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahaab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ol-bahee"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kufu"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Raamooti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tokkon"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kaanis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "akka kana"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:34.846701105Z",
+  "model": "glm-5.3"
+}

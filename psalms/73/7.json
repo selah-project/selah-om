@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Iji isaanii eega (oolaa) irraa bahee mul'ata; yaadannoo onnee isaaniitiin daangaa dabranii jiru.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "bahee mul'ata"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "eega (oolaa) irraa"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "iji isaanii"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "daangaa dabranii"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:46.967563496Z",
+  "model": "glm-5.3"
+}

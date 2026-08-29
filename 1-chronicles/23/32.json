@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Akkasumas eeguuf — ⟨את⟩ dargaggaa walga'ii, ⟨את⟩ dargaggaa qulqullummaa, dargaggaa ilmaan Aharoon obboleeywan isaanii — tajaajila mana Yahweef.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "eeguuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dargaggaa walga'ii"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "dargaggaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dargaggaa qulqullummaa"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "dargaggaa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "dargaggaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "obboleeywan isaanii"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "tajaajila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T13:43:48.938393745Z",
+  "model": "glm-5.3"
+}

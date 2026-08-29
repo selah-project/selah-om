@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Samiiwwan ifa-diiqinaan uffadha; dhugaa-garraacha ammoo teessoo isaaniitiif taasisa.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "uffadha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ifa-diiqinaan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "dhugaa-garraacha"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "teessoo isaaniitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:30.259812097Z",
+  "model": "glm-5.3"
+}

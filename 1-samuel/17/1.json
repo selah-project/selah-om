@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Filistiin ⟨את⟩ kampaanota isaani waraanaaf walitti qabaniiru; Sooqohaa isa Yihuudaa irratti walitti qabamaniiru, Sooqohaa fi Azeqaah gidduutti, Efees-Damiim irratti kampaane.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "walitti qabaniiru"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampaanota isaani"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampaanota isaani"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "waraanaaf"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "walitti qabamaniiru"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sooqohaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kampaane"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduutti"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sooqohaa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqaah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efees"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damiim"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:11.630441543Z",
+  "model": "glm-5.3"
+}

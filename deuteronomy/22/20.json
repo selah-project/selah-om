@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Odoo immoo jechi kun dhugaa ta'ee, naannoo-gummaan naannoo-gumaa intaltatti hin argamuu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Odoo immoo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "argamuu"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "naannoo-gumaa"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "intaltatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:13.982439371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Boazimmoo ⟨את⟩ Oobed horookhate; Oobedimmoo ⟨את⟩ Yishii horookhate.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boazimmoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horookhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oobed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oobed"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "Oobedimmoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horookhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishii"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:22.051492804Z",
+  "model": "glm-5.3"
+}

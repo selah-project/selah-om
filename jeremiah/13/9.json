@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Akka jedha Yahwe: akka kana ⟨את⟩ dheebaa Yihuudaa fi ⟨את⟩ dheebaa Yerushaalayim guddaa balleessa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "balleessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dheebaa Yihuudaa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "dheebaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dheebaa Yerushaalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "dheebaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:34:18.877851015Z",
+  "model": "glm-5.3"
+}

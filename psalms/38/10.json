@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Adoonaay, hawwiin kiyya hundi fuulduraa Keetti; sunfiin kiyya Siirraa hin dhokatamtu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fuulduraa Kee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "hawwiin kiyya"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "sunfiin kiyya"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Siirraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "dhokatamtu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:57.534494239Z",
+  "model": "glm-5.3"
+}

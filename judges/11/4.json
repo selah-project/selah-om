@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yeroo dabare booda ilmaan Ammoni Israa'el wajjin wal lolan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "Yeroo dabare"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wal lolan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T07:09:13.247733522Z",
+  "model": "glm-5.3"
+}

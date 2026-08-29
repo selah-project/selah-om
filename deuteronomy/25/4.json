@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Afaan gaafeella daadhii (agamsu) keessaa hin cufu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "cufu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "gaafeella"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "daadhii (agamsu) keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:44.360418463Z",
+  "model": "glm-5.3"
+}

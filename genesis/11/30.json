@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Saaray seenna-hin-qabdu ⟨⟨ti⟩⟩; mucaa isaatti hin qabdu.",
+  "tokens": [
+    {
+      "surface": "ו תהי",
+      "gloss": "⟨⟩ taate"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "seenna-hin-qabdu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "mucaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:59.596621024Z",
+  "model": "glm-5.3"
+}

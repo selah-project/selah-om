@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Du'a irraa nafasaa isaaniitiin bilisoomsuuf, fi beela keessatti jiraachisuuf.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "bilisoomsuuf"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "du'a irraa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafasaa isaaniitiin"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "fi jiraachisuuf"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "beela keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:52.667318436Z",
+  "model": "glm-5.3"
+}

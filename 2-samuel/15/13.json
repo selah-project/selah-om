@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Achii barsiisichi Daawid bira dhufe, akkas jedhu: \"Onniin namoota Israa'el Avshalom booda taate.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "barsiisichi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onniin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-29T07:51:39.126960991Z",
+  "model": "glm-5.3"
+}

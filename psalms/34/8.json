@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Maleeka Yahwe kan Isaa sodaatan hunda mara dhiyata; isaan leeffachiisa.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "dhiyata"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Maleeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mara"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kan Isaa sodaatan"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "leeffachiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:14.582952467Z",
+  "model": "glm-5.3"
+}

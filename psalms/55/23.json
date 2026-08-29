@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Waan ati kennamte Yahwe irratti buusi; Innis si eega-taasisa; Inni dhiira qabaa yeroo hunda sochii hin kennu.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "buusi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "waan ati kennamte"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "si eega-taasisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "sochii"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "dhiira qabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:13.524460421Z",
+  "model": "glm-5.3"
+}

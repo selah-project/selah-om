@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "fi ⟨את⟩ raagee hunda gosa isaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raagee hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "raagee"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "gosa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:53.815030416Z",
+  "model": "glm-5.3"
+}

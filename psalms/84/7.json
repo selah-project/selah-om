@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Gammoo baaqu darbu, burqaa ishee keessatti barbaadanii godhu; roobni ero-ganamaa eebbibiiwwanidhaan ishee hoddissa.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "gammoo"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "baaqu"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "burqaa"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "eebbibiiwwan"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "hoddissa"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "roobni ero-ganamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:00.406833038Z",
+  "model": "glm-5.3"
+}

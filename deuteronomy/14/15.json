@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "fi ⟨את⟩ intala geerraraa, fi ⟨את⟩ halkan-bocu, fi ⟨את⟩ bishaan-shimbiraa, fi ⟨את⟩ eyee gosa isaatii",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intala geerraraa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "geerraraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "halkan-bocu"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "halkan-bocu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan-shimbiraa"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "bishaan-shimbiraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eyee"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "eyee"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "gosa isaatii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:53.815152345Z",
+  "model": "glm-5.3"
+}

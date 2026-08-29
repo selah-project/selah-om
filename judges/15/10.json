@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Namootonni Yihuudaa isaaniin, \"Maaltif nu irratti ol baatan?\" jedhan. Isaanis, \"Shimshiin hin qunnamsiisuuf, akka nuuf hojjete islaa isa hojjedhuuf ol baanne\" jedhan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Namootonni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maaltiif"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "ol baatan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "hin qunnamsiisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimshiin"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshiin"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjedhuuf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "islaa isa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T07:10:52.714117816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Kanatti Yahwe sabaa isaa murtii godha, fi gaafa tumsaa isaa irratti gadi-bu'a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanatti"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "murtii godha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sabaa isaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi ... irratti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tumsaa isaa"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "gadi-bu'a"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:21.725061582Z",
+  "model": "glm-5.3"
+}

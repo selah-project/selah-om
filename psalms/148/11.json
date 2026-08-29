@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Mootannonni ⟨the⟩ lafaa fi saboota hundaa; abbootii bulchiinsaa fi murtessitoota ⟨the⟩ lafaa hundaa.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mootannonni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundaa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abbootii bulchiinsaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundaa"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "murtessitoota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:03.168258983Z",
+  "model": "glm-5.3"
+}

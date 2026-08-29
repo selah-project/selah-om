@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Gurra bakkaa, sagalee koo dhageessaa; hundoowaa, jechi koo dhageessaa.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "gurra bakkaa"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee koo"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "hundoowaa"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jechi koo"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:27.194946903Z",
+  "model": "glm-5.3"
+}

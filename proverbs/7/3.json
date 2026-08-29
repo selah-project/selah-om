@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Isaan llamaan maatii keenyaan mudhi kee irratti kuffi, kan biroo maxxansi lubbuu kee irratti.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "mudhi kee irratti kuffi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "mudhi kee"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "maxxansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lubbuu kee irratti"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "lubbuu kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:19.071366871Z",
+  "model": "glm-5.3"
+}

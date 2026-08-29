@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Eloohiim Israa'el natti jedhe; Dhagaa Israa'el natti dubrate — kan namoota bulcha abbaa-seena ta'uu qaba, kan sodaacha Eloohiimatti bulcha.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubrate"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Dhagaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kan bulcha"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "abbaa-seena ta'uu qaba"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kan bulcha"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sodaacha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:59:42.727983881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Ati, Yahwe, rahmata kee naa hin deebisu; kheesed kee fi dhugaa kee yeroo hunda na eegu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "deebisu"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmata kee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "naa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "fi dhugaa kee"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "na eegu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:36.921560997Z",
+  "model": "glm-5.3"
+}

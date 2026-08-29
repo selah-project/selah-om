@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Kunoonni ni gammadu, yeroo faarsa argatu; miila isaa dhiiga namootaa keessatti ni dhiqata.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ni gammadu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kunoonni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "argatu"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "faarsa"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "miila isaa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ni dhiqata"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:53.066095742Z",
+  "model": "glm-5.3"
+}

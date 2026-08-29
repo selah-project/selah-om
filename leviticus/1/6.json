@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Innis gogaa olkaa'aa baafata; kutaa-kutaawwaan isheetiif ⟨את⟩ ishee mura.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "gogaa baafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olkaa'aa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olkaa'aa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "mura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "kutaa-kutaawwaan isheetiif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:42.529509246Z",
+  "model": "glm-5.3"
+}

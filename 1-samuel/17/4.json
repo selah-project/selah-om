@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Namichi gidduu-bahotaa Filistii kampaanota irraa ba'e; maqaan isaa Golyaat, Gati irraa; dheerinni isaa cubbee jaha fi cinaa harkaa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namichi"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "gidduu-bahotaa"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "kampaanota irraa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistii"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyaat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Gati irraa"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "dheerinni isaa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubbee"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "fi cinaa harkaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:11.630940087Z",
+  "model": "glm-5.3"
+}

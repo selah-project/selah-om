@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Yahwe balessaa, malaa'iktoonni isaa, humnaan cimoo ta'an, jechoota isaa raawwatan, sagalee jechoota isaa dhaga'uuf!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "balessaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaa'iktoonni isaa"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "cimoo ta'an"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humnaan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "raawwatan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jechoota isaa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhaga'uuf"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jechoota isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:20.378280351Z",
+  "model": "glm-5.3"
+}

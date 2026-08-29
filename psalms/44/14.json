@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Ni godhita eagera makaanota keenyaaf, qeeqa fi riyyaa warra naannoo keenya jiranii.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ni godhita"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "eagera"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "makaanota keenyaaf"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "qeeqa"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "riyyaa"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "warra naannoo keenya jiranii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:55.675846765Z",
+  "model": "glm-5.3"
+}

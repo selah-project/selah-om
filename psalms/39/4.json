@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Onnee kiyyaKSAA keessa kulule; yaadannoo keessa ibiddin gubate; ergasii arrabaan kiyyaKSAA dubbadhe.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "kulule"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Onnee kiyya"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "yaadannoo keessa"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "gubate"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddin"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "dubbadhe"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "arrabaan kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.490357933Z",
+  "model": "glm-5.3"
+}

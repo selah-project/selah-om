@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Yahwe ⟨את⟩ alloggottaa eega; akkawaa fi waldaa haadha manaa gargaara; karaa dogoggora haa balleessu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alloggottaa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "alloggottaa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "akkawaa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "fi waldaa haadha manaa"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "gargaara"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "balleessu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:36.853386928Z",
+  "model": "glm-5.3"
+}

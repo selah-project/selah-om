@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akkasumas karaa irratti kan seelaa ta'e yeroo deemu, onneen isaa puuttuurteetti, hundaan ofii isaa seelaadhaa agarsiisa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "kan seelaa ta'e"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yeroo deemu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onneen isaa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "puuttuurteetti"
+    },
+    {
+      "surface": "ו אמר",
+      "gloss": "agarsiisa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "seelaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ofii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:05.588552001Z",
+  "model": "glm-5.3"
+}

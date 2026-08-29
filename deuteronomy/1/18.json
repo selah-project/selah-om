@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yeroo sanaas isin ajajee ⟨את⟩ waan hunda waan isin hojjachuu qabdan.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hojjachuu qabdan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:40.415190752Z",
+  "model": "glm-5.3"
+}

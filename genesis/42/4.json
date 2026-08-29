@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Benyamiinis, obboleessa Yoos'ephiiti, Ya'aqob ⟨את⟩ obboloota isa waliin hin ergine; waan \"yoo balaan isaa hin muddineef\" jedheef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Benyamiin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benyamiin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleessa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoos'ephii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergine"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboloota isa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboloota isa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedheef"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "isaan muddineef"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:54.663199294Z",
+  "model": "glm-5.3"
+}

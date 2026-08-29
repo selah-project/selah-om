@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Lafa Gooshen keessatti qofa — Biyyonni Israa'el itti jiran — bofoon hin turre.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa…keessatti"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gooshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jiran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Biyyonni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "turre"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "bofoon"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:50.335038771Z",
+  "model": "glm-5.3"
+}

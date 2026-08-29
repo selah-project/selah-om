@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 24:7",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ani isaanif onnee akka beeku ⟨את⟩ kennadha, ani Yahwe ta'eefi; isaan sahfa koo ta'u; aniis isaanif Eloohiim ta'a; sababniis, isaan gara kiyya onnee isaanii guutuu deebi'u.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ani kennadha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "akka beeku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ani (Waaqayyo beekame)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta'eefi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "isaan ta'u"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sahfa kiyya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sahfa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababniis"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:05:06.155572134Z",
+  "model": "glm-5.3"
+}

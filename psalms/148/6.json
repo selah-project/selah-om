@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Isaanis yeroo hundaaf, olaantuma dheeraa dhaabbate; seera murtee kenne, isaan iti hin darbanu.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olaantuma dheeraa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seera murtee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "darbanu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:20.552242544Z",
+  "model": "glm-5.3"
+}

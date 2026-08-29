@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Isaan kan si irratti yaada hamaan dubbachuu, diinonni kee maqaa duwwaatti fudhachuu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "si irratti dubbachuu"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "yaada hamaan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "fudhachuu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "maqaa duwwaatti"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "diinonni kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:41.691560074Z",
+  "model": "glm-5.3"
+}

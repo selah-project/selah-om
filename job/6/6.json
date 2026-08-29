@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Waanti inni mi'aawaa hin taane, soolddumaa malee ni soorammaa? Moo dhedheeraa mul'ata keessatti mi'aawwanni ni jira?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "ni soorammaa?"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "inni mi'aawaa hin taane"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "malee"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soolddumaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ni jira?"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "mi'aawwanni"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "dhedheeraa mul'ata"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:43.478364384Z",
+  "model": "glm-5.3"
+}

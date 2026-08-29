@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yookshaanis ⟨את⟩ Sheebaa fi ⟨את⟩ Dedaan dhalche; ilmaan Dedaan immoo Ashurim, Letushim fi Leummim turan.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yookshaanis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheebaa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheebaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedaan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedaan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedaan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turan"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:35.213695627Z",
+  "model": "glm-5.3"
+}

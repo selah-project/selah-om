@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Ani isiniif rahmata kenna, isinitti rahmata godha, isinis gara dachee keessan deebisa.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rahmata"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "rahmata godha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "dachee keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T09:55:52.299557903Z",
+  "model": "glm-5.3"
+}

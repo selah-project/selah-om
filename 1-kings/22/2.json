@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Bara sadaffaa irrattis ta'e, Yihoshafat mootii Yihuudaa mootii Yisra'elitti gadi bu'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "bara irratti"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "sadaffaa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "gadi bu'e"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yihoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:53.057541808Z",
+  "model": "glm-5.3"
+}

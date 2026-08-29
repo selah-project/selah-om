@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ji'oonni keessan fi beellamtoonni keessan lubbuu kiyya jalaa saafaru; ulfaanna natti ta'eera; baachuuf daangeetti.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "Ji'oonni keessan"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "fi beellamtoonni keessan"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "saafaru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "ulfaanna"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "daangeetti"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "baachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:16.383710639Z",
+  "model": "glm-5.3"
+}

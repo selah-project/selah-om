@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 17:19",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Isheetti je'i: “Ilma kee naa kenni.” Isheen ganna ishee irraa fudhatee, inni itti qubatu kutaa olaatti ol baasee, sofa isaa irratti liqimse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "je'i"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "תני",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma kee"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ilma kee"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "מחיקה",
+      "gloss": "ganna ishee irraa"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "ol baasee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "kutaa olaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qubatu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "itti"
+    },
+    {
+      "surface": "וישכבהו",
+      "gloss": "liqimse"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sofa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:17:25.058268510Z",
+  "model": "glm-5.3"
+}

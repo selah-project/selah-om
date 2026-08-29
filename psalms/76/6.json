@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Warra onnee cimaa bakka buutamanii, seena isaanii sinamee hafaniitu; warra humna qaban hundi harka isaanii arguu hin dandeenye.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "bakka buutamanii"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "warra cimoo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "sinamee"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "seena isaanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin dandeenye"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "arguu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "warra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humna qaban"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "harka isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:14.619991090Z",
+  "model": "glm-5.3"
+}

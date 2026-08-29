@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Atalyaan, haadha Arazyaahu, akka ilmaan isaa du'e ilaaltutti kaatte, ⟨את⟩ zadii mootummaa hunda balleessite.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalyaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haadha"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Arazyaahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ilaaltutti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "kaatte"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "balleessite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zadii mootummaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zadii"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mootummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:30:27.629190940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Aharoonis reetticha gorsan Yahwef jiru isa irratti bahe ⟨את⟩ ni dhiyeessa, akkasumas badii taasifamaa taasisa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ni dhiyeessa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reetticha"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "reetticha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "gorsicha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "badii taasifamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:13.354617345Z",
+  "model": "glm-5.3"
+}

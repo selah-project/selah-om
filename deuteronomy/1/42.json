@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahweinis naan jeede: «Isaan jedhi: ol hin ka'inaa, hin lolinaas; ani keessan keessa miti, waan diina keessan duratti hin ruftamaniif.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ol ka'inaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "lolinaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ani miti"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "keessan keessa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ruftamaniif"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "diina keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:37.159236113Z",
+  "model": "glm-5.3"
+}

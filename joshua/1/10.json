@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yehoshuaan ⟨את⟩ ogeessota ummataa ajajuu jedhe:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajajuu jedhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogeessota ummataa"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ogeessota"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummataa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe (akkana)"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:38.664798824Z",
+  "model": "glm-5.3"
+}

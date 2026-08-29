@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Kunoo, wantoonni duraa dhufaniiru; aniis wantoota haaraa himadha; dura isaan baay'anii ⟨את⟩ isin ani hima.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "wantootni duraa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufaniiru"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "wantoota haaraa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "himadha"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "isaan baay'anii"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ani hima"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:31.463270427Z",
+  "model": "glm-5.3"
+}

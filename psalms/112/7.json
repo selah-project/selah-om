@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Simmachuu hamaa hin sodaatu; onneen isaa dhaabbatamtee, Yahwe irratti amana.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "simmachuu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sodaatu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dhaabbatamtee"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onneen isaa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:43.751929286Z",
+  "model": "glm-5.3"
+}

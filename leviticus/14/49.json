@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Manaicha akka qulqulloomsifamuuf ⟨את⟩ manaichaa simbirreewwan lama, muka eerarii, diimaa tola'aa fi eezobii fudhata.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "akka qulqulloomsifamuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaichaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaicha"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "simbirreewwan"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "eerarii"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'aa"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "eezobii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:33.987560382Z",
+  "model": "glm-5.3"
+}

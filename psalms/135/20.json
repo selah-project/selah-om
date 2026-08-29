@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Kabaja mootummaa Leewii, Yahwe ⟨את⟩ eebbisaa; warra Yahwe sodaatan, Yahwe ⟨את⟩ eebbisaa.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "kabaja mootummaa"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Leewii"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "eebbisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "warra … sodaatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "eebbisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:30.485280453Z",
+  "model": "glm-5.3"
+}

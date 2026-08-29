@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Yoo yaaddoon si eegduu taate, yaa Yaah, yaa Adoonaay, abriin eenyu dhaabbata?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "yaaddoon"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "si eegduu taate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "yaa Yaah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "yaa Adoonaay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "abriin eenyu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dhaabbata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.542358720Z",
+  "model": "glm-5.3"
+}

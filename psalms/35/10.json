@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Lafee kiyya hundi ni jedhu: Yahwe, eenyu akka Atii? Kan miidhamaa of cimaa isa irraa haaromsu, kan miidhamaa fi hiyyeessaa of saalisaa isa irraas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "lafee kiyya"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka Atii"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kan haaromsu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miidhamaa"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "of cimaa isa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "miidhamaas"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "hiyyeessaa"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "of saalisaa isa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:26.549143772Z",
+  "model": "glm-5.3"
+}

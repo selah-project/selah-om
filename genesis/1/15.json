@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Raqaa samii keessatti ifaawwan haa ta'an, lafatti haa ifaasisan. Akkasinis ta'e.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "haa ta'an"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "ifaawwan"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "raqaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "haa ifaasisan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafatti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Akkasis"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:28.212799007Z",
+  "model": "glm-5.3"
+}

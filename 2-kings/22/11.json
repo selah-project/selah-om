@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yeroo mootichi ⟨את⟩ jechoota barruu seeraa dhaggeeffatu, uffata isaa boce.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "yeroo dhaggeeffatu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechootaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechootaa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "barruu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "seeraa"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "boce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffata isaa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uffata isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:40:21.265401357Z",
+  "model": "glm-5.3"
+}

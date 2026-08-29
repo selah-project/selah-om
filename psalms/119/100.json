@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Dargaggoota caalaa natti hubadha, sababa ajaja kee eegadhe.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "dargaggoota caalaa"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "natti hubadha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ajaja kee"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "eegadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:04.490869593Z",
+  "model": "glm-5.3"
+}

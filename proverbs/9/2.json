@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Goromsaa ishii gorce; waan dhugaa ishii makche; akkasumas maraata ishii hiike.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "gorce"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "goromsaa ishii"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "makche"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "waan dhugaa ishii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "hiike (maraateffatte)"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "maraata ishii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:34.628878133Z",
+  "model": "glm-5.3"
+}

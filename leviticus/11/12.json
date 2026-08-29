@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Waan baalu'uu fi dheelluu bishaan keessaa isaatti hin qabne hundi, rikkina isiniif ta'a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "baalu'uu"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "dheelluu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan keessaa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "rikkina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:11.267315161Z",
+  "model": "glm-5.3"
+}

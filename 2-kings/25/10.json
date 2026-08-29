@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Fortiiwwan Yerushaalayim ⟨את⟩ naannoo isii tamuu waraani Kasdiyim hundi, kan rab-tabaachiimtii wajjin ta'an, buuse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Fortiiwwan Yerushaalayim"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "Fortiiwwan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo isii"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "buuse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "war'aani"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiyim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabaachiimtii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:58.531822526Z",
+  "model": "glm-5.3"
+}

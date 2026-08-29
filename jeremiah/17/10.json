@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ani Yahwe, onnee qoratu, calallota madaadu; namni tokkof karaa isaatii akka akka fala mala isaatiin kennuuf.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "qoratu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "madaadu"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "calallota"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "kennuuf"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namni tokkof"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "karaa isaatii akka"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "fala"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "mala isaatiin akka"
+    }
+  ],
+  "timestamp": "2026-08-29T09:31:57.254024195Z",
+  "model": "glm-5.3"
+}

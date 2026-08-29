@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ani si gosa guddaa taasifna; si eebbissa, maqaa kee guddisa; atis eebbissa taatus.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ani si taasifna"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "si eebbissa"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "guddisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "taatus"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "eebissa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:24.008987850Z",
+  "model": "glm-5.3"
+}

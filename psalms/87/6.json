@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 87,
+  "translation": "Yahwe yeroo sababoota barreesisu isa lakkoofsa: \"Kun ofirraa dhalate.\" Seelaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "isa lakkoofsa"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "yeroo barreesisu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sababoota"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ofirraa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:49.939570741Z",
+  "model": "glm-5.3"
+}

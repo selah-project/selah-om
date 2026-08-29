@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Nafaca kooti waliin balleessattoota hin qusariin, jireenyaa kootiis waliin namoota dhiigaa hin qusariin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "qusariin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "balleessattoota"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafaca kooti"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "waliinis"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jireenyaa kooti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:08.063471472Z",
+  "model": "glm-5.3"
+}

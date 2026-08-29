@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yoo qurbaan kee gumaacha yaaddoo keessatti adhaanamu ta'e, midhaan dhiiqaa zayitaatiin hojjatama.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "gumaachaa"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "yaaddoo"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "qurbaan kee"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "midhaan dhiiqaa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "zayitaatiin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjatama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:10.662912167Z",
+  "model": "glm-5.3"
+}

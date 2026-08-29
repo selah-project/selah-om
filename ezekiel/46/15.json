@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Isaanis ⟨את⟩ lambuu sanaa, ⟨ואת⟩ minchaa sanaa fi ⟨ואת⟩ zayitaa sanaa ganama ganama taasisu — dhibaa yeroo hundaaf.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Isaanis taasisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lambuu sanaa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lambuu sanaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "minchaa sanaa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaa sanaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "zayitaa sanaa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa sanaa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "dhibaa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hundaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T10:34:15.716818745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "⟨את⟩ waggaa shanaffaa waggaa qulqulleessitu, biyya irratti jiraattoota ishee hundaaf bilisummaa waamitu; Yobbela inni taatu isiniif; nama hundinuu gara qabiyyee isaa deebitu, fi nama hundinuu gara maatii isaa deebitu.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "qulqulleessitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waggaa shanaffaa waggaa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "shanaffaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "waamitu"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "bilisummaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya irratti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "jiraattoota ishee"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yobbela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taatu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "deebitu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama hundinuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "qabiyyee isaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fi nama hundinuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "maatii isaa"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "deebitu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:37.130379368Z",
+  "model": "glm-5.3"
+}

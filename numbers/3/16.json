@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Moshees ⟨את⟩ isaan afaan Yahweetiin akka ajajame lakkoofse.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "lakkoofse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshees"
+    },
+    {
+      "surface": "על",
+      "gloss": "biraan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweetiin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajame"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:41.446974294Z",
+  "model": "glm-5.3"
+}

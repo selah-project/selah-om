@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yeshaayaachu Hizqiyaahuutiin jedhe: 'Dhageessi dubbii Yahwe.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayaachu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hizqiyaahuutiin"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyaahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T08:41:31.361104824Z",
+  "model": "glm-5.3"
+}

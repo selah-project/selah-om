@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Yahwe guddaa; magaalaa Eloohiim keenya keessatti, dirree qulqulluu Isaa irratti, baay'ee faarsama.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "faarsama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa ... keessatti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.274601440Z",
+  "model": "glm-5.3"
+}

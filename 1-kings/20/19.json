@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 20:19",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Isaanis — hiikonni mootummaa-naannolee fi qajeelfachaa isaaniiti — magaalaa irraa ba'an.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Isaanis"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "hiikonni"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mootummaa-"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "naannolee"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "qajeelfachaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaaniiti"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "isaaniiti... isaaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:15.038658270Z",
+  "model": "glm-5.3"
+}

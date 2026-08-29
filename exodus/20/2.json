@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ani Yahwe, Eloohiim kee, kan si biyya Mitsraayim irraa, mana gabrumaa irraa baanudha.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "si...baanudha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya...irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana...irraa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gabrumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:03.200465215Z",
+  "model": "glm-5.3"
+}

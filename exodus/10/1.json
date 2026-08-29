@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yahween Mosheetti jedhe: Paraawootti baji, kanaaf ani ⟨את⟩ onnee isaa fi ⟨את⟩ onnee gabroota isaa ulfaachiseera, akka mallattoonni kiyya kanaan gidduu isaatti dhiyeef.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraawoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ulfaachiseera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee isaa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onnee gabroota isaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dhiyeef"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mallattoonni kiyya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "gidduu isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:13.776341067Z",
+  "model": "glm-5.3"
+}

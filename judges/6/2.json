@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Harki Akka-Madiyaanii Israa'el irra cimte; sababa Akka-Madiyaanii, ilmoon Israa'el ofuuf ⟨את⟩ holqa sammuu gaarreen keessaa fi ⟨את⟩ holqa lafaa fi ⟨את⟩ minne cimdan godhatanii.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "cimte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Harki"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Akka-Madiyaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Akka-Madiyaanii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "godhatanii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ofuuf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "holqa sammuu gaarreen keessaa"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "holqa sammuu gaarreen keessaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gaarreen keessaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "holqa lafaa"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "holqa lafaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minne cimdan"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "minne cimdan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:03:42.633441606Z",
+  "model": "glm-5.3"
+}

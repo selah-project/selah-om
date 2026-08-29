@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Haaza'el mootii Araam ⟨את⟩ Israa'el guyyoota Yeho'aaz hunda ropheesse.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Haaza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ropheesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeho'aaz"
+    }
+  ],
+  "timestamp": "2026-08-29T08:32:29.036831607Z",
+  "model": "glm-5.3"
+}

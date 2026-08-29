@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Qooda torbaa fi akkasumas saddeetiif kenni; sababa lafa irratti hamtti kamidhaa ta'u beektu miti.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "torbaa fi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "saddeetiif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kamidhaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:06.999680830Z",
+  "model": "glm-5.3"
+}

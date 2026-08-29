@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Anaatti akka jedhe: 'Ilma namaa, ⟨את⟩ jechoota koo hunduma waan anaatti dubbadhu onneetti fudhad, gurra keetiinis dhageetti.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anaatti akka jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota koo hunduma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "anaatti dubbadhu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fudhad"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "onneetti"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "gurra keetiinis"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageetti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:04:26.248323901Z",
+  "model": "glm-5.3"
+}

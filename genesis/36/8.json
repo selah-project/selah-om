@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Esavi gaaruma Se'ir irratti jiraachaa jira; Esav inni Edoom dha.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jiraachaa jira"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaaruma ... irratti"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoom"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:03.544625321Z",
+  "model": "glm-5.3"
+}

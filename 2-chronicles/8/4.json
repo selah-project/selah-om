@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "⟨את⟩ Tadmor gammaggamii keessatti uume; fi ⟨את⟩ magaalee kuufamaa hunda Hamat keessatti uume wajjiis.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gammaggamii keessatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "magaalee kuufamaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalee"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "kuufamaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "Hamat keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:53:49.345272887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Dubadhu ila ilmaawwan Israa'el, akka kennaa anaaf fudhatan; nama hunda irratti, kan qalbiin isaa itti hundee'see ofii isaa (kan) kennu irraa, kennaa kiyya ⟨את⟩ fudhaa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Dubadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ irraa",
+      "marks": "nama hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "itti hundee'see ofii isaa (kan) kennu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbiin isaa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "fudhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennaa kiyya"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "kennaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:59.983410746Z",
+  "model": "glm-5.3"
+}

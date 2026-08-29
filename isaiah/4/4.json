@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yoo Adoonaay ⟨את⟩ makala intalota Siyon bahe, fi ⟨את⟩ dhiiga Yerushaalayim keessa ishee dhiqee bahe, ruuhaa seeraa fi ruuhaa gubaa tiin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makala intalota Siyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "makala"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "intalota"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga Yerushaalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "dhiqee bahe"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "keessa ishee"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruuhaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "seeraa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ruuhaa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "gubaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:38.024400830Z",
+  "model": "glm-5.3"
+}

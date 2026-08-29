@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Dhumatti waan tokkoo jalqaba isii caala; roga dheeraa qabaatu roga ol-kaawaa qabaatu caala.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caala"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhumatti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan tokkoo"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "jalqaba isii"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "caala"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheeraa qabaatu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roga"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ol-kaawaa qabaatu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roga"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:23.626374772Z",
+  "model": "glm-5.3"
+}

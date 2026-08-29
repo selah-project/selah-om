@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Yoo maqaa Eloohiim keenya hin gorfine, harka keenya oolessinee Eel awaa irratti fiduuf dhiifne,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "hin gorfine"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "oolessiinee dhiifne"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "harka keenya"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eel irratti"
+    },
+    {
+      "surface": "זר",
+      "gloss": "awaarraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:29.842165426Z",
+  "model": "glm-5.3"
+}

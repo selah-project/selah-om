@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yahwe, mootichi humna kee keessatti gammada; badhaasa kee keessatti maaltu kan isa gammachiise!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "humna kee keessatti"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gammada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "badhaasa kee keessattis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "gammachiise"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kan isa (baay'ee)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:43.185043993Z",
+  "model": "glm-5.3"
+}

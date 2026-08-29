@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahween Mosheetti fi Aharoontti akka isaaniin jedhuu dubbatte.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti (Mosheetti fi Aharoontti)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi itti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka isaaniin jedhuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:02:10.543699775Z",
+  "model": "glm-5.3"
+}

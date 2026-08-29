@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Inni immoo isaa ni jedhe: Ani; deemee, Gooftaa keettti himi: Akka qabamu Eltiiyaahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isaa ni jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deemee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "himi"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "Gooftaa keettti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Akka qabamu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eltiiyaahu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:16:07.054993699Z",
+  "model": "glm-5.3"
+}

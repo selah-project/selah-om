@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Beeka, Yahwe, murteewwan kee sirrii ta'ani, si amanamaan na rukute.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Beeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sirrii ta'ani"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murteewwan kee"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "si amanamaan"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "na rukute"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:45.625213593Z",
+  "model": "glm-5.3"
+}

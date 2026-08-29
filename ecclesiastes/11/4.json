@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Abbaan seenee ho'aa hin facinu; abbaan duumula ilaalu hin bullisu.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "abbaan seenee"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ho'aa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "facinu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "abbaan ilaalu"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "duumula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "bullisu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:32:49.441552413Z",
+  "model": "glm-5.3"
+}

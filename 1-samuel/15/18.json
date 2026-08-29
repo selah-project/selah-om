@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Yahwe si karaa tokko irratti erga jechuun ni jedhe: «Aadde, faaltota warra Amaleekiis herregsii, isaan waliin lolli, xumura isaanii gochuu danda'utti.»",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "si erga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa tokko irratti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Aadde"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "herregsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faaltota"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "faaltota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "lolli"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaan waliin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "… danda'utti"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "xumura isaanii gochuu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:02.652076585Z",
+  "model": "glm-5.3"
+}

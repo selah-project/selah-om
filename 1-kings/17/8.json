@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Jechi Yahwe isa biraa dhufe, akka kana jedhu:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "(ta'eera)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jeechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa biraa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka kana jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:14:59.438699095Z",
+  "model": "glm-5.3"
+}

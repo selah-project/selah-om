@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahwe guyyaa san ⟨את⟩ Israa'el baraarse; warri adaamsaas ⟨את⟩ Beyt-Aven darbiite.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "baraarse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "warri adaamsaas"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "darbiite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avwen"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:54.637238287Z",
+  "model": "glm-5.3"
+}

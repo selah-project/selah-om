@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Lamittaa foonii lamaa fudhate, ⟨את⟩ lamaan Isa dura Akka Sumaatii Yaahwee bira dhaabbata.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamittaa foonii lamaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaa"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "lamittaa foonii"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "lamaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaahwee"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Akka Sumaatii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Sumaatii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:19.975173216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 22:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Kanaaf, eebbisuudhaan si ni eebbissa, baay'isuudhaan ⟨את⟩ sanyii kee akka urjiiwwan samii, akka qorichaa kan daatee bahrichaa irra jirutti ni baay'isa; sanyiin kee ⟨את⟩ magaalota diina isaa ni fudhata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "eebbisuudhaan"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "si ni eebbissa"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "baay'isuudhaan"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ni baay'isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanyii kee"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sanyii kee"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "akka urjiiwwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "fi akka qorichaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "daatee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahrichaa"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ni fudhata"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sanyiin kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalota diina isaa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "diina isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:30.042787111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Isaan hin ajjeesin, sabni kiyya akka hin daganneef; humna keetiin isaan sochisi, gadiis buusisi, gaacha keenya, Adoonaay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ajjeesin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka... hin daganneef"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "daganu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabni kiyya"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "isaan sochisi"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "humna keetiin"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "gadiis buusisi"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "gaacha keenya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:54.658037709Z",
+  "model": "glm-5.3"
+}

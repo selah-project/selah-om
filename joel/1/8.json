@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akka dheemttu saqqa hoddeettiin, kan ba'ii dargaggummaa isheetiif, hafuuffadhu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "hafuuffadhu"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "dheemttu"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "hoddeettiin"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saqqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan...tiif"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ba'ii"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "dargaggummaa isheetii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:02.905479617Z",
+  "model": "glm-5.3"
+}

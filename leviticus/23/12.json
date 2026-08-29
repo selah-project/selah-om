@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Guyyaa oomerichaa ⟨את⟩ rukutan keessan, hoolaa dibee miidhagaa waggaa tokko Yaaweef gulufa godhattan.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "godhattan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "rukutan keessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oomericha"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "oomericha"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "hoolaa dibee"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "miidhagaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "qabu"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "waggaa tokkoo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "gulufa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaaweef"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:48.636338431Z",
+  "model": "glm-5.3"
+}

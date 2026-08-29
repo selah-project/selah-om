@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Anis sagalee galateeffannaa wajjin siif gabbara; waan adeemsee lubbuu koonii hiikadhe guutta; gammachuu Adonai inni Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee wajjin"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "galateeffannaa"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "gabbara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "adeemsee lubbuu koonii hiikadhe"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "guutta"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Adonai inni Yahwe ti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:04.553580494Z",
+  "model": "glm-5.3"
+}

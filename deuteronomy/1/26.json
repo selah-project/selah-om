@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Garuu ol ka'uu hin feettan; afaan Yahwe Eloohiim keessan faallaa rukuttattan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Garuu hin"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "feettan"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ol ka'uu"
+    },
+    {
+      "surface": "ויתמרו",
+      "gloss": "faallaa rukuttattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan (keessan)"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:49.614050160Z",
+  "model": "glm-5.3"
+}

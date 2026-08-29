@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Gareen hundi iyyatanii sagalee isaanii kaasani dubbatan; namoonni halkan sanaa sinnaatan.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "kaasani iyyatanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gareen"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee isaanii"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sagalee isaanii"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "sinnaatan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:56:48.691550963Z",
+  "model": "glm-5.3"
+}

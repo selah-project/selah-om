@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Minnaan biyya sanaa Ashur bahe, Niiniveefis ⟨את⟩ Rechobot-Iirfis ⟨את⟩ Kelachinis ⟨את⟩ iyyise.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Minnaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "iyyisefis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niinivee"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinivee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fis ⟨את⟩",
+      "marks": "Rechobot-Iir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iir (magaalaa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nis ⟨את⟩",
+      "marks": "Kelach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:45.046685473Z",
+  "model": "glm-5.3"
+}

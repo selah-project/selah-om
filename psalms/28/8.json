@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe isaanif humna dha; Innis humna-barbaachisaa badhaasaa Maashiyaak Isaa dha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "fi humna-barbaachisaa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badhaasaa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maashiyaak Isaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:10.230056300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ani Qoheleet abbaa-olaa Israa'ieliirratti Yerushaalayimitti ta'e.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qoheleet abbaa-olaa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "abbaa-olaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayimitti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:28.899502393Z",
+  "model": "glm-5.3"
+}

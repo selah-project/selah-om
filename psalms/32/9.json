@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Akka fardaa ykn akka mutuqaa hin taatinaa, waan hubannoo hin qabne; maatinii fi rasaan — meeshaan isaa — isa cabsuuf, akka siitti hin dhiyaanneef.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "taatinaa"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "fardaa"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "mutuqaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "hubannoo"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "maatinii"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "rasaan"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "meeshaan isaa"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "isa cabsuuf"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "dhiyaanneef"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:58.643987818Z",
+  "model": "glm-5.3"
+}

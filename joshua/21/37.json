@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemootii fi ⟨את⟩ laga ishee, ⟨את⟩ Meypaati fi ⟨את⟩ laga ishee — magaalota afur.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemootii"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemootii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "laga ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "laga ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Meypaati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meypaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "laga ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "laga ishee"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:35.551384797Z",
+  "model": "glm-5.3"
+}

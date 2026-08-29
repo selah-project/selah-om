@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Balleessaa dadachaafi hiyyeessaa, harka dogoggortootaa irraa baafadhaa.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "balleessaa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dadachaa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "hiyyeessaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka ... irraa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggortootaa"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "baafadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:07.374696240Z",
+  "model": "glm-5.3"
+}

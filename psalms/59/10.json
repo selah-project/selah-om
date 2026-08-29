@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Humna kiyya, sii nan eega; Eloohiim gadooda kiyya ⟨ti⟩.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Humna kiyya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "nan eega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "gadooda kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:54.657707984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edoomii fi ⟨את⟩ Mo'aabii fi ⟨את⟩ ilmaan Ammoonii.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edoomii"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoomii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Mo'aabii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aabii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ilmaan Ammoonii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoonii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:38:33.486559596Z",
+  "model": "glm-5.3"
+}

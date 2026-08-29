@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Ka'i, kabaja koo; ka'i, neebaraa fi qiindaara; barfakaa nan kaasa.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kabaja koo"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "neebaraa"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "fi qiindaara"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "nan kaasa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "barfakaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:18.191395666Z",
+  "model": "glm-5.3"
+}

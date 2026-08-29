@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Imimmiin koo miccii koo taate guyyaa fi halkan, isaan guyyaa guutuu 'Eloohiim kee eessa jira?' ani jedhanii.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "koo"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "imimmiin koo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "miccii"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "fi halkan"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "eessa jira"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:51.135923110Z",
+  "model": "glm-5.3"
+}

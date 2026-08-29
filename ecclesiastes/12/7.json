@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Dheebisni dacheetti akka tureetti deebi'a, sammuunis Eloohiim duraan kennes deebi'a.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dheebisni"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dacheetti"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "akka tureetti"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "sammuunis"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "duraan"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kennes"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:32.612825960Z",
+  "model": "glm-5.3"
+}

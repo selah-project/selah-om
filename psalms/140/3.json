@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Waan onnee isaanii keessatti hamtuwwan uffatan; guyyaa guyyaan warra hojjatu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "uffatan"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "hamtuwwan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "onnee keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa guyyaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "hojjatu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "warra"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:30.680124067Z",
+  "model": "glm-5.3"
+}

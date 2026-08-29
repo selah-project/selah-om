@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Harka kee ola irraa ergi; na facaafsi, na oolchi bishaan baay'ee irraa, harka ilmaan alagaa irraa.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ergi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ola irraa"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "na facaafsi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na oolchi"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "bishaan... irraa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka... irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:45.521370853Z",
+  "model": "glm-5.3"
+}

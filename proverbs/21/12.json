@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Koonnoonni mana raawwaa sirriidhaan ilaala; raawwan hamtuuf jalaa ni dhiga.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "sirriidhaan ilaala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Koonnoonni"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "jalaa ni dhiga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "raawwan"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "hamtuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:00.944068367Z",
+  "model": "glm-5.3"
+}

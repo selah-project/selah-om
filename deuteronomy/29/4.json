@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ani ⟨את⟩ isinii waggaa afurtama lagana keessatti geessiseera; uffata keessan irra keessan hin balu, kabajaan kees miila kee irraa hin baltu.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "geessiseera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isiin"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afurtama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "lagana keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "balu"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "uffata keessan"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "irra keessan"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "kabajaan kees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "baltu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "miila kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:52.024799201Z",
+  "model": "glm-5.3"
+}

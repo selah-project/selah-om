@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Beekumsi dhaala waliin tola; fi kan itti caalu warra aduu arganiif.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "tola"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "beekumsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "fi kan itti caalu"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "warra arganiif"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:43.672940697Z",
+  "model": "glm-5.3"
+}

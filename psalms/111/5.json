@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Nyaata waamicha kenne warra Isa-radiu; kakuu Isaa Yeroo hunda yaadata.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "nyaata waamicha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "warra Isa-radiu"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "yaadata"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "Yeroo hunda"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:52.377979198Z",
+  "model": "glm-5.3"
+}

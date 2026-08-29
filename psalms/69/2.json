@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Eloohiim na badhdhisi, sababiin bishoonni dhufaniiru lubbuu sahaa.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "na badhdhisi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufaniiru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishoonni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:29.559038329Z",
+  "model": "glm-5.3"
+}

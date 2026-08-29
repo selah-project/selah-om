@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Hafuurri Yahwe ummata isaa irratti ittiseef; dhaala isaa ⟨את⟩ lalleesef.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ittiseef"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hafuurri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ummata isaa irratti"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "lalleesef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaala isaa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaala isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:12.624058029Z",
+  "model": "glm-5.3"
+}

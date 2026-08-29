@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Gosa Menasheh irraa walakkaan, kuma saddeet-i-soddoma, kanneen maqaa qubeeffamanii Daawid ⟨את⟩ moota godhuuf dhufuuf.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "irraa walakkaan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "i-soddoma"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "qubeeffamanii"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "dhufuuf"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "moota godhuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:12.174936651Z",
+  "model": "glm-5.3"
+}

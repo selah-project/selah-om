@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Isaani irraa ⟨את⟩ fudhadhu, akka ⟨את⟩ tajaajila teentii walginneessaa tajaajalaniif; tajaajuloota Leviiyootaas dhuunfaa tokko tokboo akka tajaajila isaa isaani kennita.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "fudhadhu"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "isaani irraa ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'aniif"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "tajaaalu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tajaaala teentii walginneessaa"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tajaaala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walginneessaa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kennita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Leviiyoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviiyoota"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhuunfaa tokko tokboo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tajaaala isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:59.922040119Z",
+  "model": "glm-5.3"
+}

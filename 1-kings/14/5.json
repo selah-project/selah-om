@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 14:5",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahwe immoo Achiyyaahutti jedhe, «Kunoo, niitii Yarobeam si biraa jechaa barbaddaa dhuftee jirti, ilmaa ishee wajjiniif, sababa inni dhibee qabuuf. Akka kanaa fi akka kanaa isheetti himi; yeroo isheen seentu, isheen of-dhokseetti jirti.»",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe immoo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achiyyaahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "niitii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dhuftee jirti"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "barbaddaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechaa"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "si irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjiniif"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ilmaa ishee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "dhibee qabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "akka kanaa"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "fi akka kanaa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "himi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כבאה",
+      "gloss": "isheen seentu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "of-dhokseetti jirti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:54.602466155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Akka kanaan deebi'ee yaada kane; guyyoota kanaatti Yerushaalayim fi mana warra Yihuudaa gaggaarii hojjachuuf. Hin Rabbiinaa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Akka kanaan"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "yaada kane"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanaatti"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "gaggaarii hojjachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "mana warra Yihuudaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "warra Yihuudaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hin"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "Rabbiinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:25.811678464Z",
+  "model": "glm-5.3"
+}

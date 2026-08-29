@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Innis faaratii hojjete; maatii adda Mitsteer riitaa tokko jalatti hirribee. Kuniin ergaa tokko isa tuqee isaanis jedhe: Ka'i, nyaadhu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "faaratii hojjete"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "hirribee"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "riitaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuniin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tokko kun"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tuqee"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "isaanis jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "nyaadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:56.104122271Z",
+  "model": "glm-5.3"
+}

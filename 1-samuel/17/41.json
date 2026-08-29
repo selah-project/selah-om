@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Filistiinis Daawiditti adeemsa adeemee fi dhihaachaa dhihaate; namni hannaa baatu isa duratti ture.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "adeemsa adeemee"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiinis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "adeemee fi dhihaachaa"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "dhihaate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ווהאיש",
+      "gloss": "namnis"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "hannaa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isa duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:21.098539577Z",
+  "model": "glm-5.3"
+}

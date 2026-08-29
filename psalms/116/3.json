@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Heexanaawwan du'aa na marsaniiru, dhiphinni She'ool na arganiiru; dhiphina fi dhaddacha nan argadha.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "na marsaniiru"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "heexanaawwan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "dhiphinni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'ool"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "na arganiiru"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiphina"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nan argadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:09.753806132Z",
+  "model": "glm-5.3"
+}

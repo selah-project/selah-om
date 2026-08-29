@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Mootiin Israaʼel deebisee jedhe: Akka jecha keetti, Gooftaa kiyya mootihu; ani kiyya ofii, fi wanti hundi ani qabu kan ati ti.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaʼel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akka jecha keetti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootihu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ofii kan ati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi wanti hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ani qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:56.225512355Z",
+  "model": "glm-5.3"
+}

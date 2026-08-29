@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Saartichi ajaji, waan dhukkubni itti jiru ⟨את⟩ hiikaniifu, isa kufan guyyaa torbaa lammaffaa.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ajaji"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saartichi"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "hiikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan dhukkubni itti jiru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "itti"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "dhukkubni"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "isa kufan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torbaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyotaa"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lammaffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:11.900594511Z",
+  "model": "glm-5.3"
+}

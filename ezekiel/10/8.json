@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kerubimoota irratti caasaaleen harka namaa koolawwan isaanii jalatti mul'ate.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mul'ate"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "Kerubimoota irratti"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "caasaaleen"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "koolawwan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:08:18.187264806Z",
+  "model": "glm-5.3"
+}

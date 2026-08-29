@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "itti duubee intaltan isaa gatan seelataan, intaltan isaa waaqoota isaanii hordofuun raacicha raawwatu, maatii kee illee waaqoota isaanii hordofuun raacicha raawwachu;",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "gatan seelataan"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "intaltan isaa irraa"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ilooltaa kee irratti"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "raacicha raawwatu"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "intaltan isaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hordofuun"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "waaqoota isaanii"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "raacicha raawwachisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilooltaa kee"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilooltaa kee"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hordofuun"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "waaqoota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:38.087226341Z",
+  "model": "glm-5.3"
+}

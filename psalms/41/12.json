@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Kuninis beeka, akka natti hawwaddheef, waan diinni koo irratti koo hin booneef.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Kuninis"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "hawwaddhe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan ... eef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "boone"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinni koo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:23.743352237Z",
+  "model": "glm-5.3"
+}

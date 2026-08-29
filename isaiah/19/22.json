@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahwe ⟨את⟩ Mitsraayim rukuta — rukutu finfinisu; Yahwe gara deebi'anii deebi'u, isaanif deebi'ama, isaanis ni finfinisa.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "rukutu"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "finfinisu"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "deebi'ama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "isaanis ni finfinisa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:35.109914594Z",
+  "model": "glm-5.3"
+}

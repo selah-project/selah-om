@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Wantoo Yahwe murtii jaalala, kheesed-warruu isaa ⟨את⟩ dheessa-faanaa hin dhiisu; isaan eegamaa turu; ilmoon badoowwan garuu baafama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wantoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "dhiisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kheesed-warruu isaa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kheesed-warruu isaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dheessa-faanaa"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "eegamaa turu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "badoowwan"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "baafama"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:56.197228849Z",
+  "model": "glm-5.3"
+}

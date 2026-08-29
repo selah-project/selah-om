@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahween gara Moshee jedhe: onneen Fir'oon ulfaattee; ummata baasuu dida.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ulfaattee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "dida"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "baasuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:58.101369970Z",
+  "model": "glm-5.3"
+}

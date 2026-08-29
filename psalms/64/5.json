@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Waan iddoowwan dhokatan keessatti kan mooyyeeffamaniif; yeroo tokko tokkotti isaan mooyyeeffamu, hin sodaatan.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "wan mooyyeeffamaniif"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "iddoowwan dhokatan keessatti"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kammiloota"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "yeroo tokko tokkotti"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "isaan mooyyeeffamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "sodaatan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:55.113851005Z",
+  "model": "glm-5.3"
+}

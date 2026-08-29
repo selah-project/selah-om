@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Daawidiin fi Isaara'el hunda Yerushaalayimtti deeman — innis Yebuus ti; achis Yebuusonni, warra dache san keessa jiraatan, jiraatan.",
+  "tokens": [
+    {
+      "surface": "וַיֵּלֶךְ",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "Daawidiin"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Isaara'el"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ͏ם",
+      "gloss": "Yerushaalayimtti"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יְבוּס",
+      "gloss": "Yebuus"
+    },
+    {
+      "surface": "וְשָׁם",
+      "gloss": "achis"
+    },
+    {
+      "surface": "הַיְבוּסִי",
+      "gloss": "Yebuusonni"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "warra jiraatan"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "dache san"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:14.533057259Z",
+  "model": "glm-5.3"
+}

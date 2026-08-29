@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sagaleen tokko raqicha mataa isaanii irra jiru irraa dhufe; isaan dhaabbatanii turan, kongaoltuu isaanii gadi baafatanii turan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa (gara olii)"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqicha irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "mataa isaanii"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "dhaabbatanii"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "gadi baafatanii"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "kongaoltuu isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:02:39.271635352Z",
+  "model": "glm-5.3"
+}

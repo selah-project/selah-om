@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Samiiwwanis yaaddu raawwii kee, Yahwe; akkasumas amantamummaa kee walitti qabama qulqulloowwan keessatti.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "yaaddu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "raawwii kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amantamummaa kee"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "walitti qabama keessatti"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqulloowwan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:11.590558251Z",
+  "model": "glm-5.3"
+}

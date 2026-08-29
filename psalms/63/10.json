@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Isaan nafa kiyya balleessuuf barbaadan gadi-jijjiirraa lafaatti seenu.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "balleessuuf"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa kiyya"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "gadi-jijjiirraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:41.057182078Z",
+  "model": "glm-5.3"
+}

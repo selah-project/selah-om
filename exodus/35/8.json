@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "fi oomisha zayitaa ifaaf, fi biishamoota zayita mammaka'aa fi qittara biishamootaaf.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "fi oomisha zayitaa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ifaaf"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "fi biishamoota"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "zayita"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mammaka'aa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "fi qittara"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "biishamootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:34.678506952Z",
+  "model": "glm-5.3"
+}

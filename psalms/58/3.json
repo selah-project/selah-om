@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Kunis, onnee keessatti waan dogoggorsaa hojjattu; dachiitti handaarraa harka keessan baafattu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "onnee keessatti"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "waan dogoggorsaa"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "hojjattu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachiitti"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "handaarraa"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "harka keessan"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "baafattu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:10.208766904Z",
+  "model": "glm-5.3"
+}

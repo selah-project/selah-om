@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Daawidis qunnamsiisaa (laggitoota) erge; Sha'uul dhugumatti dhufee hube.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "qunnamsiisaa (laggitoota)"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "hube"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dhugumatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:37:20.362472730Z",
+  "model": "glm-5.3"
+}

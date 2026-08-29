@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Fardoonni irratti baasanii isa fudhatan; ⟨את⟩ Yerushaalayim keessatti abbootii isaa wajjin, magaalaa Daawid keessatti awwaalamuun qabame.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "baasanii fudhatan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "Fardoonni"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "awwaalamuun qabame"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:32.127859084Z",
+  "model": "glm-5.3"
+}

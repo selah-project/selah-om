@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kookkoo fi qaraaraa siif baaf taati; wantoota qoddii qonnaas ⟨את⟩ irree marmarsaa nyaachaa jiraatta.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "kookkoo"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "qaraaraa"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "baaf taati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "nyaachaa jiraatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irree marmarsaa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "irree marmarsaa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "qonnaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:04.522255730Z",
+  "model": "glm-5.3"
+}

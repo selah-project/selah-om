@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 4:17",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yeroo mana Eloohiimtti deemu, rifeensa lakkii kee eegi; fi dhaggeeffachuun dhiibbaa boroonaatiin caalaatti dhihaadha; sababni isaas isaan hamtuu hojjechuu hin beekanu.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "lakkii kee"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "dhihaadha"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhaggeeffachuun"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "dhiibbaa"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "boroonaatiin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sirna sanyii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "beekanu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjechuu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:47:47.161879792Z",
+  "model": "glm-5.3"
+}

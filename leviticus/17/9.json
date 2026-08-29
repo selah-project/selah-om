@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Balbala Hejumaa Walgahii isaatti hin fidu Isaaf kenna isaas bifa kuffisa jaamaicha san umummata isaa irraa haa kuffame.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hin fidu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Balbala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Hejumaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Walgahii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "fidu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kenna bifa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Isaaf"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "haa kuffame"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jaamaicha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "umummata isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:21.201472765Z",
+  "model": "glm-5.3"
+}

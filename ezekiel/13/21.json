@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 13:21",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Miilbunaan kee san nan baatu, sabaa kiyya harka kee irraas nan baafata; harka keetti hin turreef san arrabamuuf, Ani Yahwe akka ijettees ni beektanu.",
+  "tokens": [
+    {
+      "surface": "וקרעתי",
+      "gloss": "nan baatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miilbunaan kee"
+    },
+    {
+      "surface": "מספחתיכם",
+      "gloss": "miilbunaan kee san"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "nan baafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa kiyya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabaa kiyya"
+    },
+    {
+      "surface": "מידכן",
+      "gloss": "harka kee irraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin turreef"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "turu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "arrabamuuf"
+    },
+    {
+      "surface": "בידכן",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "למצודה",
+      "gloss": "arrabamuuf"
+    },
+    {
+      "surface": "וידעתן",
+      "gloss": "ni beektanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka ijettees"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:07:17.374493753Z",
+  "model": "glm-5.3"
+}

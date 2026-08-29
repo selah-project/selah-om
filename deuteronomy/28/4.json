@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Faarfamaa garaa kee biqila, biyya kee biqila, loonni kee biqila; waan gosa gelda kee dhalatan, hoolonni kee immoo ilmaan isaanii.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "faarfamaa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "biqila"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "garaa kee"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "biyya kee biqila"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "biyya kee"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "biqila"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "loonni kee"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "waan dhalatan"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "gelda kee"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ilmaan isaanii"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "hoolonni kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:32:57.263025769Z",
+  "model": "glm-5.3"
+}

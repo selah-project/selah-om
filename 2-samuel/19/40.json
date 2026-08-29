@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Sabaan hundi ⟨את⟩ Yirdenii darbe; mootichiis darbe. Mootichi Bartelemeetii funee eebbifte; inniis gara teessoo isaatti deebi'e.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirdenii"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yirdenii"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mootichiis"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "fune"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Bartelemeetii"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "eebbifte"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "deebi'e"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "gara teessoo isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:56:33.956954206Z",
+  "model": "glm-5.3"
+}

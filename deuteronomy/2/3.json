@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Baay'ee taatee isin gaafite; gaarri kana ⟨את⟩ marsaa marsaa; ka'i gara kaabaatti jeedhu.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "baay'ee taatee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin gaafite"
+    },
+    {
+      "surface": "סב",
+      "gloss": "marsaa marsaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaarri kana"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarri kana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ka'i jeedhu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "gara kaabaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:57.979157980Z",
+  "model": "glm-5.3"
+}

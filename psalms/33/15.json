@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Inni onnee isaanii hunda tokkoon uumu; hojii isaanii hunda hubacha.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Inni uumu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tokkoon"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "hubacha"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hojii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:37.066750591Z",
+  "model": "glm-5.3"
+}

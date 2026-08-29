@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Eeliyaatu gara sabicha hundaatti jedhe, «Gara kiyya naqaa.» Sabichi hundin gara isaatti dhiyaate; inni ⟨את⟩ manneen qalbii Yahwe kan balleessame deebisee ijjise.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eeliyaatu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gara ... hundaatti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "naqaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "dhiyaatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabichi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gara isaatti"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "deebisee ijjise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manneen qalbii Yahwe kan balleessame"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "manneen qalbii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "kan balleessame"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:34.496118814Z",
+  "model": "glm-5.3"
+}

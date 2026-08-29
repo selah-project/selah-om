@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ergasies ajajawwan Yahwe Eloohiim kee ⟨את⟩ eeguu qabda, karaawwan Isaa keessa deemuuf ﬁ Isaatiin sodaachuuf ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "eeguu qabda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajawwan Yahwe Eloohiim kee"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajajawwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemuuf"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "karaawwan Isaa keessa"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ﬁ Isaatiin sodaachuuf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:04.573484131Z",
+  "model": "glm-5.3"
+}

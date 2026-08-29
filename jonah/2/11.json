@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahween deltaatti dubbate, deltaatis Yoonaa ⟨את⟩ lafa gogaa irratti baafte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "deltaatti"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "baafte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoonaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lafa gogaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:04.553739366Z",
+  "model": "glm-5.3"
+}

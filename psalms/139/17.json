@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Aniif maaloo yaadonni kee, yaa Eloohiim, maaloo qaalii dha! Baay'inni mataa isaanii maaloo guddaa dha!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "aniif maaloo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "qaalii dha"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "yaadonni kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "baay'inni mataa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:41.691083692Z",
+  "model": "glm-5.3"
+}

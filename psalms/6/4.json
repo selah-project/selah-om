@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Lubbuun kiyya baay'ee addaan bhe; sii, Yahwe, yeroo kami?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "fi lubbuun kiyya"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "addaan bhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:25.797055824Z",
+  "model": "glm-5.3"
+}

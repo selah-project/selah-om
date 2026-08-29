@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yihonataan ⟨את⟩ meeshaaleesaa mucaa kan isheetiif kennaale, mucaatti ni jedhe: 'Adeemi, magaalatti geessi.'",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kennaale"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yihonataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaaleesaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaaleesaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isheetiif"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mucaatti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adeemi"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "geessi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:44.663948454Z",
+  "model": "glm-5.3"
+}

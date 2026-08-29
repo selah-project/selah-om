@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Akka Yahwe ⟨את⟩ Mooshee ajajetti, akka sanitti intalan Tselofchaad raawwataniiru.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mooshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooshee"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka sanitti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "raawwataniiru"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "intalan"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofchaad"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:17.668257878Z",
+  "model": "glm-5.3"
+}

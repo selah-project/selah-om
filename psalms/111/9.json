@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Badracha ergamsa isaas bara samii himaa warra isaatti; kakuu isaas hin-jabinaa-badee ajajaniif. Maqaan isaas qaama-qulqulluu fi kan-sodachisaa dha.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "badracha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergamsa isaa era"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "warra isaatti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajaniif"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hin-jabinaa-badee"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu isaas"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qaama-qulqulluu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kan-sodachisaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:06.876006929Z",
+  "model": "glm-5.3"
+}

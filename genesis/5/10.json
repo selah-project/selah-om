@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Anooshiin, Keenaan ⟨את⟩ kan dhalchee booda, waggaa dhibba saddeet fi shan-dhibbaa-tokko-shan jiraate; ilmaan fi intalan dhalche.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Anoosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kan dhalchee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keenaan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keenaan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-dhibbaa-tokko-shan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "intalan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:20.378347764Z",
+  "model": "glm-5.3"
+}

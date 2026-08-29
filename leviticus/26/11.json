@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Manjaallee koo gidduu keessan nan-goda; lubbuun koo ⟨את⟩keessan hin jibbatu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nan-goda"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "manjaallee koo"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gidduu keessan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "jibbatu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩keessan",
+      "marks": "keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:45.960183204Z",
+  "model": "glm-5.3"
+}

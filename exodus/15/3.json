@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Yahwe otoo warraa gargar baha hedduudhaan galateeffadhe; Yahwe maqaa isaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "otoo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "warraa gargar baha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:30.847989021Z",
+  "model": "glm-5.3"
+}

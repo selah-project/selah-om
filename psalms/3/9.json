@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahween irratti hafuura-badhaasuuf kan dha; barakaan kee siftii kee irratti haa jiraatu. Seelaa.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahween irratti"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "falfata-badhaasuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "siftii kee"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "barakaan kee"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:32.088091872Z",
+  "model": "glm-5.3"
+}

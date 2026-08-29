@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Guyyaa ni tuminnaatta; nabiinis akkasumas halkan si wajjin tuminnaata; aniis haadha kee balleessisa.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ni tuminnaatta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "tuminnaata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabiinis"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si wajjin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "aniis... balleessisa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:19:02.037632144Z",
+  "model": "glm-5.3"
+}

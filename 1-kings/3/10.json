@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Jechi sunis gara ija Adoonaayitti miidhagoo ta'e, Solomaan jecha kanaa gaafateef.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "miidhagoo ta'e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Jechi sun"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gara ija…itti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…taateef"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "gaafate"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha kanaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:39.685620722Z",
+  "model": "glm-5.3"
+}

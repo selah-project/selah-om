@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis ⟨את⟩ aadamii suuraa isaatii uume; suuraa Eloohiimiin ⟨את⟩ isa uume; dhiira fi dubaraatiin ⟨את⟩ isaan uume.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadamii"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamii"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "suuraa isaatii"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "suuraa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "fi dubaraa"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:00.730762165Z",
+  "model": "glm-5.3"
+}

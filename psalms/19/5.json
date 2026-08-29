@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Fiixoonsa (keessatti) sararaan isaa bahe, fi jechoonni isaa dhuma lafaa biraa; aduuf isaaf mana-tentii dhaabbate.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sararaan isaa bahe keessatti (fiixoonsa)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sararaan isaa"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "fi dhuma"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lafaa (gadaadammaa)"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "jechoonni isaa"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "aduuf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana-tentii"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:03.194185902Z",
+  "model": "glm-5.3"
+}

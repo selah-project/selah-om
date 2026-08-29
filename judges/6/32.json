@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Guyyaa sanas Yerubbaal jedhameetii waamame, \"Baal isa waliin haa falmu, sababaa inni ⟨את⟩ mizbe'aa isaa gad-buuseef\" jedhuun.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waamame"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatif"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "haa falmu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa waliin"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "gad-buuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbe'aa isaa"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "mizbe'aa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:04:51.998964815Z",
+  "model": "glm-5.3"
+}

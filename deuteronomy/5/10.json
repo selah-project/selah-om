@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Kan jaalalanii fi ajaja Isaa eeggan kumaan kumaan irratti kheesed hojjata.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hojjata"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kumaan kumaan irratti"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kan jaalatan"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "fi ajaja eeggan"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ajaja Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:52.412040621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Waan akka kanaa Yahwe-tsevaa'ot jedheef: \"Yeroo tokko dhiphaa dabalatee, Ani samiiwwanii fi ⟨את⟩ lafa fi ⟨את⟩ gaarroomaa fi ⟨את⟩ lafa gogaa ni riixxa.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waan akka kanaa jedheef"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka kanaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tsevaa'ot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Yeroo dabalatee"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "dhiphaa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "<elided — 'it is' implied in 'dhiphaa dabalatee'>"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ni riixxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samiiwwanii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "gaarroomaa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gaarroomaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa gogaa"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "lafa gogaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:59:35.841585293Z",
+  "model": "glm-5.3"
+}

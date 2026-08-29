@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Boonissonni biyyootaa walitti qabamanii, ummata Eloohiim kan Avrahaam ta'aniiru; kanatti gitaan dhaddachaawwan lafaa kan Eloohiim dha; inni baay'ee ol-ka'eera.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "boonissonni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "biyyootaa"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "walitti qabamanii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanatti"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kan Eloohiim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "dhaddachaawwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ol-ka'eera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:43.722569761Z",
+  "model": "glm-5.3"
+}

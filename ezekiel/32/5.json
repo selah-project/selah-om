@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Gogaa kee ⟨את⟩ gaarreen irratti nan dhiyeessa, bocoowwan bootni keetii ni guuta.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nan dhiyeessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gogaa kee"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "gogaa kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "ni guuta"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "bocoowwan"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "bootni keetii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:24:14.212430912Z",
+  "model": "glm-5.3"
+}

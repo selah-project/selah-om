@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Qabeenya fi dhiyeenya mana isaas; sirrummaan isaa yeroo hunda dhaabbata.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Qabeenya"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "fi dhiyeenya"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mana isaas"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "sirrummaan isaa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:16.632751941Z",
+  "model": "glm-5.3"
+}

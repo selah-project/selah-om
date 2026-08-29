@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sagalee gurraacha koo dhagaadhu, mootii koo fi Eloohiim koo; sababa gara keetti nan kadadhaaf.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "dhagaadhu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "gurraacha koo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootii koo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "fi Eloohiim koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara keetti"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "nan kadadhaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:54.619230473Z",
+  "model": "glm-5.3"
+}

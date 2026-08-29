@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Isaanis godeela isaanii keessatti rorgoraniituu sagalee Yahwe hin siman.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "rorgoraniituu"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "godeela isaanii keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "siman"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:57.023957760Z",
+  "model": "glm-5.3"
+}

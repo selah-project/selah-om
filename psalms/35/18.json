@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Wal-galata gudda keessatti si galateeffadha; ummata cimaa keessatti si faarsa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "si galateeffadha"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "wal-galata gudda keessatti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gudda"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ummata cimaa keessatti"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "si faarsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:40.523908995Z",
+  "model": "glm-5.3"
+}

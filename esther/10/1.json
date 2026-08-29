@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mootichi Akashveroosh masaa biyya irratti fi odoloota bahaa irratti kaa’e.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kaae"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Akashveroosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "masaa (harka-hojjeta belaicha)"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "fi odoloota"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:50.061379633Z",
+  "model": "glm-5.3"
+}

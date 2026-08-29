@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Mosheenis ⟨את⟩ ba'uu isaanii akka sochii isaanii barreesse, akka afaan Yahwe; kunis sochii isaanii, ba'uu isaanii irratti.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "barreesse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba'uu isaanii"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "ba'uu isaanii"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "sochii isaanii irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "akka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "sochii isaanii"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ba'uu isaanii irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:12:44.436626132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Garuu inni maqaa isaa tiif isaan baraarrese, humna isaa beeksisuuf.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "isaan baraarrese"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tiif"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "beeksisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "humna isaa"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "humna isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:49.620129882Z",
+  "model": "glm-5.3"
+}

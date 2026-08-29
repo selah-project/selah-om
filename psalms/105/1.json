@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Yahwe galata galchaa; maqaa isaatii waamtaa; hojii isaa gaggeessuu ulaanaganaa keessatti beeksifaa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "galata galchaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamtaa"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "maqaa isaatii"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "beeksifaa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ulaanaganaa keessatti"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hojii isaa gaggeessuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:10.659243313Z",
+  "model": "glm-5.3"
+}

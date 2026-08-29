@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahween Mosheetti dubbatee akk jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akk jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:58.177672648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 24:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yoo namni tokko dubartii fudhatee ishee seeneeraa, dubartinis yoo jaalala ija isaatti hin arganne — sababni isaas waan akkaan-ala tokko ishee keessatti argateeraa — barreeffama addaan-bahaa isheef barreessuu, harka ishee keessa kennuu, mana isaa irraas ishee baafachuu qaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "ובעלה",
+      "gloss": "ishee seeneeraa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "arganne"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija isaatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "argateeraa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessatti"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "akkaan-ala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan tokko"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "barreessuu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheef"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "barreeffama"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "addaan-bahaa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kennuu"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "harka ishee keessa"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "ishee baafachuu"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "mana isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:17.478805907Z",
+  "model": "glm-5.3"
+}

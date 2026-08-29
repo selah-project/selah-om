@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sha'atnez — rudaafi hulaa waliin — hin uffadhu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "uffadhu"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "sha'atnez"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ruda"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "fi hulaa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:27:39.143955054Z",
+  "model": "glm-5.3"
+}

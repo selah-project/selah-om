@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sababni isaas, namni rakkoo irratti dhalata; ilmootni ibiddaa ol ni lenaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "rakkoo irratti"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "dhalata"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ilmootni"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "ol"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ni lenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:21.278925400Z",
+  "model": "glm-5.3"
+}

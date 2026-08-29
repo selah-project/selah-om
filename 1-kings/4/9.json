@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ilmi Deker, Makatsitti, Shaalbimitti fi Biit-Shemeshitti, akkasumas Iloon-Biit-Haananitti.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ilmi"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Makatsitti"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "akkaasumas Shaalbimitti"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "akkaasumas Biit-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshitti"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "akkaasumas Iloon-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Biit-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Haanan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:13.609903866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Nachi gadi-jedhu ergammoo jedhamuu ergaa hin oolu; kan hojii hamaa 'dhibbaa' jedhamuus hin oolu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "jedhamuu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "nachi gadi-jedhu"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ergammoo"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "kan hojii hamaa irrattis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedhamuus"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "dhibbaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:42.808420063Z",
+  "model": "glm-5.3"
+}

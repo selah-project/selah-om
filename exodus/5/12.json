@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ummanni gara dheeraa biyya Mitsraayimtti bababbqate, qasaaraa raacaaf funaanuuf.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "bababbqate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ummanni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gara dheeraa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "funaanuuf"
+    },
+    {
+      "surface": "קש",
+      "gloss": "qasaaraa"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "raacaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:22.687445741Z",
+  "model": "glm-5.3"
+}

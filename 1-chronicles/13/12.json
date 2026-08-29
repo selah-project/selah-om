@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Daawit guyyaa sanas ⟨את⟩ Eloohiim sodaate, akka anaadetti: \"Akkaataa kamiin sanduuqa ⟨את⟩ Eloohiim ana biraa geessisa?\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "sodaate"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhettti"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Akkaataa kamiin"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "geessisa \/ fida"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ana biraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:25.503822715Z",
+  "model": "glm-5.3"
+}

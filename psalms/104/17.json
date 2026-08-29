@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Achitti simbiroota mana hojjachuu isaaniti; qoonaa bittinatti mana ishii kan muka birbirsaati.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "simbiroota"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "mana hojjachuu isaaniti"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "qoonaa bittinatti"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "muka birbirsaati"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana ishii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:29.842388422Z",
+  "model": "glm-5.3"
+}

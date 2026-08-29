@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Raawwaa irraa garagarii ba'i; gaarii raawwadhu; nagaa barbaadi, isa hordofi.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "garagarii ba'i"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "raawwaa irraa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "raawwadhu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "barbaadi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "isa hordofi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:53.779384755Z",
+  "model": "glm-5.3"
+}

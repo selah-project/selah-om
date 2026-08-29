@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Migdala Penuelis ⟨את⟩ buuse, namoota ⟨את⟩ magaalaa sanaa ajjeese.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Migdala Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "migdala"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "buuse"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota magaalaa sanaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:04:56.427036836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe Eloohiim namicha baadiyyaa Edni irraa erge, ⟨את⟩ lafa waan inni irraa fudhatame hojjachuuf.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "namicha erge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "baadiyyaa irraa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhatame"
+    },
+    {
+      "surface": "משם",
+      "gloss": "irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:25.996492539Z",
+  "model": "glm-5.3"
+}

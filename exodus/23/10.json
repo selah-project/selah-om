@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Lammaffaa-saddeet (waggaa jaha) laacha kee booqattu, ⟨את⟩ midhaan ishees baafatta.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "booqattu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laacha kee"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "laacha kee"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "baafatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaan ishee"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "midhaan ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:01.138564713Z",
+  "model": "glm-5.3"
+}

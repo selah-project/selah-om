@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Mootichi ni ergee, ⟨את⟩ hunda adaara Yihuudaa fi Yerushalaam walitti waame.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ni ergee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "walitti waame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "adaara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalaam"
+    }
+  ],
+  "timestamp": "2026-08-29T14:12:17.097167928Z",
+  "model": "glm-5.3"
+}

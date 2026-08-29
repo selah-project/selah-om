@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ni jedhe: Yahwe dhagaa kiyya, dhibdeessa kiyya, najaasaa kiyya natti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dhagaa kiyya"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "dhibdeessa kiyya"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "najaasaa kiyya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:56:00.117147306Z",
+  "model": "glm-5.3"
+}

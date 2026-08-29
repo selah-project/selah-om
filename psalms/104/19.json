@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Yaalusaa yeroo murtaa'eef uume; aduun seera hubachiifamaa ishii beeka.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "yaalusaa"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "yeroo murtaa'eef"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduun"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "seera hubachiifamaa ishii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:29.842751152Z",
+  "model": "glm-5.3"
+}

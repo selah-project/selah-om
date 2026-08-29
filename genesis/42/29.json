@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Isaan Ya'aqob abbaa isaanii gara biyya Keena'aanitti dhufanii; waan isaan mudate hunda ⟨את⟩ himanii isaatti akkas jedhan:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abbaa isaanii"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Keena'aan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "himanii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "waan mudate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:37.359949723Z",
+  "model": "glm-5.3"
+}

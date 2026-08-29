@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Achumaas Moshee fi Aharooni fi ilmaan isaa ⟨את⟩ harka isaanii fi ⟨את⟩ miila isaanii isaa irraa dhiqqeeffatan.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "dhiqqeeffatan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "fi Aharooni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "fi ilmaan isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaanii"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miila isaanii"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "miila isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:46.138588127Z",
+  "model": "glm-5.3"
+}

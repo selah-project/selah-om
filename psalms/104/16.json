@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Mukoonni Yahwe ni ga'u; arzaawwan Lebanona, kan Isaa dhaabe.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ni ga'u"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoonni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arzaawwan"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "dhaabe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:46.725144913Z",
+  "model": "glm-5.3"
+}

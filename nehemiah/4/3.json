@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Eloohiima keenya biraatti lallabbii goone, isaan irratti eegumsa guyyaafi halkan isaan irraa dhaabbessine.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "lallabbii goone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biraatti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiima keenya"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "dhaabbessine"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "eegumsa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "halkanis"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "isaan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:21:22.874517826Z",
+  "model": "glm-5.3"
+}

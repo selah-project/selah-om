@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Waa'ee dogoggora Baashaa hundaafi dogoggora Eelaa ilma isaas, waan isaan dogoggoranii fi waan Israa'eel ⟨את⟩ dogoggorsanii, Yahwe Eloohiim Israa'eel ⟨את⟩ waan-hunaa isaanii daddarbuuf.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashaa"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "fi dogoggora"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eelaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dogoggoranii"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi waan"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "dogoggorsanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'eel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "daddarbuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "waan-hunaa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:16:29.446171446Z",
+  "model": "glm-5.3"
+}

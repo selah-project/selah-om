@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Gorfoowwan akkasumas dubartoota dheeffannoo; lagaawwan wajjin daa'imman akka dureetti.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "gorfoowwan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "dubartoota dheeffannoo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "lagaawwan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "daa'imman akka dureetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:03.168385681Z",
+  "model": "glm-5.3"
+}

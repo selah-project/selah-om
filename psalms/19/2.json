@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Samoonni kabaja Eel ni bal'isanii, bal'inni hojii harka Isaa ni hima.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Samoonni"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "bal'isanii"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "hima"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "bal'inni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:51.921457046Z",
+  "model": "glm-5.3"
+}

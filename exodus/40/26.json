@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "⟨Isaa⟩ ⟨את⟩ altarii dahabaa Mana Walgatiitti, Paarooketii duratti kaa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarii dahabaa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabaa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Walgatii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Paarooketii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:14.797965470Z",
+  "model": "glm-5.3"
+}

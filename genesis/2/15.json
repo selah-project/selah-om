@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe Eloohiim nama ⟨את⟩ fudhatee, gaanda Edeniitti dhiyeesse—isa hojjachuuf, isa eeguuf.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "gaanda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "isa hojjachuuf"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "isa eeguuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:24.971164701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Badii iji Yahwe keessatti hojjedhe, garuu mitii akka mootota Israa'eel kan duratti isaaniif ture.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "badii"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iji … keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "akka mootota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ture"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "duratti isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:23.579609782Z",
+  "model": "glm-5.3"
+}

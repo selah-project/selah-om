@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Uffaannaa bordaa kee fudhatee ⟨את⟩ isaan magarsite; zayita kiyyaa fi hence kiyyaa isaan dura teesse.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffaannaa bordaa kee"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uffaannaa"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "bordaa kee"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "isaan magarsite"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "zayita kiyyaa"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "hence kiyyaa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "teesse"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "isaan dura"
+    }
+  ],
+  "timestamp": "2026-08-29T10:10:32.504660590Z",
+  "model": "glm-5.3"
+}

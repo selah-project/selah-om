@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Yahwen immoo jedhe: Kunoo, teessoo ⟨את⟩ kiyya jira, ati dheedicha irratti dhaabbatta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "immoo jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kiyya",
+      "marks": "teessoo kiyya"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "dhaabbatta"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dheedicha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:19.114753144Z",
+  "model": "glm-5.3"
+}

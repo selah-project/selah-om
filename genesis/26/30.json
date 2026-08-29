@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Israaqis isaanif imaammata godhe; ni nyaataniituu ni dhuganiituu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "imaammata"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ni nyaataniituu"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ni dhuganiituu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:17.253629260Z",
+  "model": "glm-5.3"
+}

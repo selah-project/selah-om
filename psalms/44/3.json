@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Ati harka keetiin saboota balleessitee, (abeboota keenya) isaan samii gadii; saboota biraa miidhee, isaan baafte.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka keetiin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "balleessitee"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "isiin samii gadii"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "miidhee"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "saboota biraa"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "isiin baafte"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:55.446845307Z",
+  "model": "glm-5.3"
+}

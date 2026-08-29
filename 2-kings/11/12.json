@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ilma mooticha baafate; mojjii fi ragaa isaa irratti kaa'e; mootii godhan, ⟨את⟩ isaa diban; harka rukutanii jedhan: Mootichi haa jiraatu!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "baafate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma mooticha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojjii"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "mojjii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ragaa"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "mootii godhan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "diban"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "כף",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    }
+  ],
+  "timestamp": "2026-08-29T08:34:07.472137050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Dukkana dhokata isaa godhate; sukaan naannoo isaatti — dukkanni bishanii, gorfawwan cirraasaa.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "godhate"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkana"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "dhokata isaa"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "naannoo isaatti"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "sukaan"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "dukkanni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishanii"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "gorfawwan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "cirraasaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.611039022Z",
+  "model": "glm-5.3"
+}

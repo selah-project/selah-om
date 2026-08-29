@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Namichi kheesed gara lubbuu isaa tiyyaa raawwata; kan finca isaa miidhu immoo cruudoo dha.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "raawwata"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa tiyyaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namichi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "kan miidhu"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "finca isaa"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "cruudoo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:02:26.901829110Z",
+  "model": "glm-5.3"
+}

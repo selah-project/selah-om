@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "\"Yahwe sabaa kana ⟨את⟩ biyya waan isaanitti kakateef seenchuudhaaf hin dandeenyeef, bowellessa keessatti isaan ajajjese.\"",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "sababa kanaan"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "hin dandeenyeef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "seenchuudhaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa kana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kakateef"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "isaan ajajjese"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bowellessa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:57:33.379036726Z",
+  "model": "glm-5.3"
+}

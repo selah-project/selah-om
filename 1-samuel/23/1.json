@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Daawiditti \"Polishtoonni Ke'eelaatti waraanaa jiru, akkasumas mindaa bosonaa addan baafachaa jiru\" jedhanii himaniiru.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "himaniiru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiditti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Polishtoonni"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "waraanaa jiru"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Ke'eelaatti"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "addan baafachaa jiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindaa bosonaa"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "mindaa bosonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:26.480357284Z",
+  "model": "glm-5.3"
+}

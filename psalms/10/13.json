@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Maaliif hamtuun Eloohiim naamuse? Gammee isaa keessatti ni jedhe: \"Ati hin qorofatu.\"",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "maaliif irratti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "naamuse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamtuun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "gammee isaa keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "qorofatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:06.618146954Z",
+  "model": "glm-5.3"
+}

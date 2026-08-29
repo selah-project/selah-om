@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hundinuu dibata kophessota keessaa ni yaal; iddoo qulqulluu keessatti ni yaalam; qulqullummaa qulqullaa'aa inni dha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dibata"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kophessota keessaa"
+    },
+    {
+      "surface": "י אכלנו",
+      "gloss": "ni yaal"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iddoo keessatti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni yaalam"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullaa'aa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T05:30:57.300231849Z",
+  "model": "glm-5.3"
+}

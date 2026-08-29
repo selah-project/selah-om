@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo eebbi chochchoosuu, yeroo eebbi walitti qabuu; yeroo marachuu, yeroo marachuu irraa fageessuu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "chochchoosuu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "eebbi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "walitti qabuu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "eebbi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "marachuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "fageessuu"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "marachuu irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:30.700773746Z",
+  "model": "glm-5.3"
+}

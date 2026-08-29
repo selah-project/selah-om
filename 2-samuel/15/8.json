@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sababiin isaas, kiin keessan Aram keessatti Geshuritti jiruu kakuu kudheera: Yahwe natti deebisee Yerushaalayim geessuu yoo jedhe, Yahwe ⟨את⟩ tajaajila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaas"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kudheera"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kiin keessan"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "jiruu"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "Geshuritti"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram keessatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jechuun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "natti deebisee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "geessuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe tajaajila"
+    }
+  ],
+  "timestamp": "2026-08-29T07:52:22.613899005Z",
+  "model": "glm-5.3"
+}

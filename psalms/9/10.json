@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe kan dhiphataniif misaantoo ta'a; yeroo rakkoo keessattis misaantoo ta'a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "misaantoo"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "kan dhiphataniif"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "misaantoo"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "rakkoo keessattis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:11.196131246Z",
+  "model": "glm-5.3"
+}

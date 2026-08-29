@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Shamuu'eliinis sabatti akkas jedhe: \"Kottaa nuti Giligiliin deenyaa, achis mootummaa haaromsinaa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kottaa"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "deenyaa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Giligil"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "haaromsinaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achis"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mootummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:06.367239535Z",
+  "model": "glm-5.3"
+}

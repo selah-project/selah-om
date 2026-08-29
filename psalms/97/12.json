@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Warra qajeelaa, Yahwe keessatti gammaddaa; yaadannoo qulqullummaa Isaa irratti galata galchaa.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "gammaddaa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "Warra qajeelaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe keessatti"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "galata galchaa"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yaadannoo...irratti"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqullummaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:26.760419108Z",
+  "model": "glm-5.3"
+}

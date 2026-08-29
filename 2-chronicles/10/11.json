@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Amma immoo abbaan kiyya haaddoo ulfaataa isin irratti baate, aniis haaddoo keessan irratti dabaluu fi; abbaan kiyya ⟨את⟩ isin mana'aan manaalee, aniis abbaaboolaan manaala.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaan kiyya"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "baate"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "haaddoo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "dabaluu fi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "haaddoo keessan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaan kiyya"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "manaalee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "mana'aan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "abbaaboolaan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:42:24.955412845Z",
+  "model": "glm-5.3"
+}

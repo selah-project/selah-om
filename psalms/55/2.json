@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Eloohiim, gurra naa-bani kadhannoo koo irratti, of hin dhoksiin hacuuccoomsuu koo irraa.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "gurra naa-bani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannoo koo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "of hin dhoksiin"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "of dhoksuu"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "hacuuccoomsuu koo irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:25.301573338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Gorsi jaartotas waan isaan gorsan dhiisee, dargaggoota ⟨את⟩ wajjin isaatti guddatan, isaa faana duraa dhaabbatan, wajjin mari'ate.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "dhiisee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorsi jaartota"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "gorsi"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "jaartota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waan)"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "isaan gorsan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "wajjin mari'ate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dargaggoota"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dargaggoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waan)"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "guddatan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wajjin (isaatti)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waan)"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isaa faana duraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:35.381361275Z",
+  "model": "glm-5.3"
+}

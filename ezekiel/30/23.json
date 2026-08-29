@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Fi ⟨את⟩ Mitsraayim saboota gidduu battisuu fi biyyoota keessatti babal'isaa.",
+  "tokens": [
+    {
+      "surface": "ו הפצותי",
+      "gloss": "battisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "saboota gidduu"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "babal'isaa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "biyyoota keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:24:09.549231538Z",
+  "model": "glm-5.3"
+}

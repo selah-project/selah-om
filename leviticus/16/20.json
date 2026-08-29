@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yeroo bakka qulqulluu ⟨את⟩, mana walga'ii ⟨את⟩ fi altara ⟨את⟩ kaffaluu xumuru, reeticha jiru ⟨את⟩ dhiyeesseessa.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "yeroo ... xumuru"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "kaffaluu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakka qulqulluu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bakka qulqulluu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana walga'ii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhiyeesseessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reeticha jiru"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "reeticha"
+    },
+    {
+      "surface": "החי",
+      "gloss": "jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:15.252142715Z",
+  "model": "glm-5.3"
+}

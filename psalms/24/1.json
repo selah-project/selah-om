@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Mizmuura Daawiditi. Kan Yahwe ⟨⟨dha⟩⟩ lafa fi guutuu ishee, addunyaa fi keessa-jiraattootteen ishee.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daawifi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmuura"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kan Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "fi guutuu ishee"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "fi keessa-jiraattootteen ishee"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:02.264081372Z",
+  "model": "glm-5.3"
+}

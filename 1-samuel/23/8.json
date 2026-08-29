@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Saawuliinis ⟨את⟩ hunda sabaa lolaa waame, Ke'eelaatti gad-bu'uuf, Daawid fi namoota isaa dhiyuuf.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "waame"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saawuliinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda sabaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "lolaa"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "gad-bu'uuf"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'eelaatti"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhiyuuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "namoota isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:43.770749852Z",
+  "model": "glm-5.3"
+}

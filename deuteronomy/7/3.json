@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Islaanan isaaniin hin walitti qabaatu; intala kee ilma isaa hin kennitu, intala isaa ammoo ilmaal kee irratti hin fudhattu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "walitti qabaatu islaanan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "intala kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "intala isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fudhattu"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ilmaal kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:11.615912038Z",
+  "model": "glm-5.3"
+}

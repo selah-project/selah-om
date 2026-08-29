@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Maaldaa kee dachii irraa kuusi, kan hooganaa keessa jiraatu.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dachii irraa"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "maaldaa kee"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kan … jiraatu"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "hooganaa keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:28:33.881579540Z",
+  "model": "glm-5.3"
+}

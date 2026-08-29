@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Moo'aab waan-bitaa koo ti; Edoomiirratti sandaala koo nan gatuu; Filisti'iirratti nan raawu.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "waan-bitaa"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "koo ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoomii"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nan gatuu"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandaala koo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisti'ii"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "nan raawu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:56.918323476Z",
+  "model": "glm-5.3"
+}

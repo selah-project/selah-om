@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Mosheenis jedhe: \"Akka jedhe Yahwe: 'Guyyaa halkan walakkeetti Ani gidduu Mitsraayim keessa ba'an jira.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "Guyyaa halkan walakkeetti"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ba'an jira"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduu keessa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:57.872453656Z",
+  "model": "glm-5.3"
+}

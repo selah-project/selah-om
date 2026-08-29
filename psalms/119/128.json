@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Sababa kanaaf himoota kee hunda sirrii taasiseera; karaa sobaa hunda jibbeera.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "himoota kee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "sirrii taasiseera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jibbeera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:36.624680454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Isaaniin isaatti jedhan: \"Saaraa, niitii kee, eessa ⟨jirti⟩?\" Inni immoo jedhe: \"Kunoo, das keessatti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "isaaniin jedhan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "איה",
+      "gloss": "eessa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaraa"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "niitii kee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inni jedhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "das keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:17.172560838Z",
+  "model": "glm-5.3"
+}

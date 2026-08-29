@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Dhiirri ⟨את⟩ jaartii-obboleetti abbaa isaa kan seenu, miila-dhaddugaa obboleetti abbaa isaa ifa baase; faalli isaaniiti ofirra kennu; ilmaan malee du'u.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dhiirri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaartii-obboleetti abbaa isaa"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "jaartii-obboleetti abbaa isaa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "miila-dhaddugaa"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "obboleetti abbaa isaa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ifa baase"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "faalli isaaniiti"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ofirra kennu"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ilmaan malee"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "du'u"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:03.532037525Z",
+  "model": "glm-5.3"
+}

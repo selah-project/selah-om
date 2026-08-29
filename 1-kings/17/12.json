@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 17:12",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Isheenis jedhi: “Yahwe Eloohiim kee jiraachaa jiruun ichaa, moogaa tokkollee an hin qabu; harka guutuu qamadii dhiphoota keessaa fi zayitaa xiqqaa qorree keessaa qofa qaba. Akkasumas, ilaali, an muka lamaa kuusaa jira; seenaan isa anaafii ijoolaa koo godha; nuti isa nyaannee duuna.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "isheenis jedhi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiraachaa jiru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ichaa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "an"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "moogaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "harka"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "qamadii"
+    },
+    {
+      "surface": "בכד",
+      "gloss": "dhiphoota keessaa"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "fi xiqqaa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "בצפחת",
+      "gloss": "qorree keessaa"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "akkasumas, ilaali"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "kuusaa jira"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ובאתי",
+      "gloss": "seenaan"
+    },
+    {
+      "surface": "ועשיתיהו",
+      "gloss": "isa godha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ijoolaa kooof"
+    },
+    {
+      "surface": "ואכלנהו",
+      "gloss": "isa nyaannee"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "duuna"
+    }
+  ],
+  "timestamp": "2026-08-29T15:58:05.994383435Z",
+  "model": "glm-5.3"
+}

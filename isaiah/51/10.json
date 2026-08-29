@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Ati mitii isheen kan bishaan goggooftte, bishaan tuulama guddaa kan teessuma gadii bahaa taasifte karaa warra bitamaniif dabruuf?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "atti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "kan goggooftte"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tuulama"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "kan taasifte"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "teessuma gadii"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "dabruuf"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "warra bitamaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T09:14:14.499545064Z",
+  "model": "glm-5.3"
+}

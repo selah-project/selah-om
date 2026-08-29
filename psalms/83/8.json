@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Gebaala, Ammoonii fi Amaleek; Filiistarii warra Tsoriin jiraatan wajjin.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebaala"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "fi Ammoonii"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "fi Amaleek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filiistarii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warra jiraatan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsoriin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:25.830996465Z",
+  "model": "glm-5.3"
+}

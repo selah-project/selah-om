@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Aboon Daawid ergaa ergatee, mana Makiir ilma Ammi'eel irraa, Loo Dabar irraa isa fudhate.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergaa ergatee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "aboon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "isa fudhate"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makiir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammi'eel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Loo Dabar"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:04.019423152Z",
+  "model": "glm-5.3"
+}

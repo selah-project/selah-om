@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Bishaan keessatti karaan kee ture; karaaronni kees bishaan baay'ee keessatti; miilla kee himmatan hin beekamne.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "bishaan keessatti"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaan kee"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "karaaronni kees"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan... keessatti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "miilla kee himmatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "beekamne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:09.309191064Z",
+  "model": "glm-5.3"
+}

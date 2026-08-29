@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Daawiti abbootii isaa waliin hirate, biyya Daawit keessatti in kabajameef.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hirate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "in kabajameef"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "biyya keessatti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawit"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:52.642676187Z",
+  "model": "glm-5.3"
+}

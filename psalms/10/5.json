@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Karaan isaa yeroo hunda ⟨ni⟩ dandeedha; murtoonni kee ol-ka'ani fageenyaan irraa; afantoota isaa hundaa irratti ni tuuta.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "dandeedha"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "karaan isaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ol-ka'ani"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murtoonni kee"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "fageenyaan irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "afantoota isaa"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ni tuuta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:39.521947919Z",
+  "model": "glm-5.3"
+}

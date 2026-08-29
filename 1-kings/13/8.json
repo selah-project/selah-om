@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Namichi Eloohiimiis mootichii jedhe: 'Yoo natti kennite ⟨את⟩ irmaata mana kee, si wajjin hin seenu; buddeenanis hin nyaadu, bishaninis hin dhugu bakka kana.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimiis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kennite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irmaata mana kee"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "irmaata"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si wajjin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaadu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buddeenaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "dhugu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:47.904010707Z",
+  "model": "glm-5.3"
+}

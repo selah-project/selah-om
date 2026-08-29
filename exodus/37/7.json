@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Keruubota lama warqii hojjete; hojii dallaa-dhukuraa ⟨את⟩ isaan hojjete, cinaacha lamaa kappooreticha irratti.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Keruubota"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqii"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hojii dallaa-dhukuraa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Keruubota lama"
+    },
+    {
+      "surface": "משני",
+      "gloss": "cinaacha lamaa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "cinaacha"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kappooreticha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:15.275686358Z",
+  "model": "glm-5.3"
+}

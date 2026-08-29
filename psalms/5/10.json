@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sababaa afaan isaanii keessatti sirrii hin jiru; garaa isaanii balleessummaa ti; lafee quduudduu isaanii qabri banaa dha; arraba isaanii ni laalfisu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "afaan isaanii keessatti"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "garaa isaanii"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "balleessummaa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabri"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "lafee quduudduu isaanii"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "arraba isaanii"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ni laalfisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:19.869453961Z",
+  "model": "glm-5.3"
+}

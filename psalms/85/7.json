@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Sila ati hin deebitu, nu jiraaddeessaa, sabni kee si keessatti akka hawwuu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hin deebitu"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "nu jiraaddeessaa"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sabni kee"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hawwuu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:18.526675468Z",
+  "model": "glm-5.3"
+}

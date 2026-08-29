@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Kan milledheen argu fi sodaatu, isarrattiis naa'u.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "argu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "milledheen"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sodaatu"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "isarrattiis"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "naa'u"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:47.637973449Z",
+  "model": "glm-5.3"
+}

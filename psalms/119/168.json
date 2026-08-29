@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ajajoota keE fi ragaa keE tikfadheera; sababni isaas karaawwan koo hundi fuuldura keE ti.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "tikfadheera"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Ajajoota keE"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ragaa keE"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaawwan koo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fuuldura keE"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:47.543785496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Mooticha waamaniis; Eelyaakim ilma Hiliqiyaahu, kan mana eegatu,hiikan barreessaa Sheebnaa fi Yoo'aah ilma Aasaaf, gorsaa ta'u, isaan bira ba'an.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "waamaniis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaan bira"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eelyaakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hiliqiyaahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "eegatu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "Sheebnaanis"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "barreessaa"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "Yoo'aahinis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Aasaaf"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "gorsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:37:38.822076196Z",
+  "model": "glm-5.3"
+}

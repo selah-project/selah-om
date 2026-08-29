@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Mootichiis Yoowaabiin jedhe: «Kunoo, tokko, jecha kana ⟨את⟩ godhe; maalii, deemi dargaggoo kana ⟨את⟩ Abshaalom ⟨את⟩ deebisi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichiis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "f"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaabiin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "maalii, deemi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dargaggoo kana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dargaggoo kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshaalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalom"
+    }
+  ],
+  "timestamp": "2026-08-29T07:53:32.717715163Z",
+  "model": "glm-5.3"
+}

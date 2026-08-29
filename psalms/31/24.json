@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Yahwe jaalalaa, waan hunda warra kheesed isaa kananiitu; Yahwe amanamoota eega, waan boonaa hojjetu dabalataan irraa kaffala.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "jaalalaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "warra kheesed isaa"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "amanamoota"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "kaffala"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "boonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:05.943400216Z",
+  "model": "glm-5.3"
+}

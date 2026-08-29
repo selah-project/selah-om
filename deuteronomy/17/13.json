@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Sabaan hundi ni dhageeffamu, ni sodatu, ammas boonsuu hin taasinaanu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ni dhageeffamu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ni sodatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "boonsuu hin taasinaanu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammoo"
+    }
+  ],
+  "timestamp": "2026-08-29T06:28:48.563551465Z",
+  "model": "glm-5.3"
+}

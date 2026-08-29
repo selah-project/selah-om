@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Qurba ol-kaawwaas ⟨את⟩ dhiyeesse, akka seeraatti hojjete.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurba ol-kaawwaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurba ol-kaawwaa"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akka seeraatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:33:54.347538232Z",
+  "model": "glm-5.3"
+}

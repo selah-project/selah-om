@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "⟨את⟩ waan qulqullume abbaa isaa fi waan isaa qulqullume mana Yahwe seensise; kibbaa fi daahabbii fi meeshaalee.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "seensise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan qulqullume abbaa isaa"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "waan qulqullume"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "waan isaa qulqullume"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kibbaa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "daahabbii"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "meeshaalee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:13.463833734Z",
+  "model": "glm-5.3"
+}

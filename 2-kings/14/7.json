@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Inni Edomii Godeena Mi'aawaa keessatti ⟨את⟩ ajjeese, kuma kudhan; Sheelaa waraanaan ⟨את⟩ fudhatee, maqaa ishee Yoktee'eel jedhee ⟨את⟩ waame, guyyaa har'aa gara kanaatti.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomii"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomii"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "Godeena...keessatti"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Mi'aa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheelaa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sheelaa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "waraanaan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa ishee"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "maqaa ishee"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yoktee'eel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara...kanaatti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "har'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:59.113701728Z",
+  "model": "glm-5.3"
+}

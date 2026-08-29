@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Waan ittiin faadamtu qulqulluu Aharoon obboleessa keef hojjedhu, kabajaafi miidhaginaaf.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "waan ittiin faadamtu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "kabajaaf"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "fi miidhaginaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:41.593263887Z",
+  "model": "glm-5.3"
+}

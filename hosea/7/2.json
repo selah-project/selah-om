@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Garuu onnee isaanii keessatti hin jedhan, «Hamtuu isaanii hunda yaadadhe»; amma hojii isaanii isaan marsaniif, fuulduraa kiyyaatti argamu.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "onnee isaanii keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "hamtuu isaanii"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "yaadadhe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "isaan marsaniif"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "hojii isaanii"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kiyyaatti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "argamu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:45.509631620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Ilmooleen Shime'on, maatii isaaniiti: Nemuu'eeliitiin maatii Nemuu'eelaa; Yaamiiniitiin maatii Yaaminaa; Yaakhiiniitiin maatii Yaakhiinaa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shime'on"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "maatii isaaniiti"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "Nemuu'eeliitiin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Nemuu'eelaa"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "Yaamiiniitiin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Yaaminaa"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "Yaakhiiniitiin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Yaakhiinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:19.401329607Z",
+  "model": "glm-5.3"
+}

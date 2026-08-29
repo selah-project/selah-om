@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Inis jedhe, \"Ishee waamadhaa.\" Inis ishee waame, innis bahira dhiibbana keessatti dhaabbatte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inis jedhe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamadhaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inis ishee waame"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dhaabbatte"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "bahira dhiibbana keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:26:27.974435482Z",
+  "model": "glm-5.3"
+}

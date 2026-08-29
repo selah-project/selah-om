@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yoo ilmaan kee isa irratti balleessaniif, isaan harka dargaggumsa isaaniitiin gatameef.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "balleessaniif"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "gatameef"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "dargaggumsa isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:18:26.427969649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yahwe irratti yeroo dachii-dheeraa itti amadadhaa; sababa Yaah Yahwe ciftuu dachii-dheeraa ti.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "itti amadadhaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dachii-dheeraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ciftuu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "dachii-dheeraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:46.530103928Z",
+  "model": "glm-5.3"
+}

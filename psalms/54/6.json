@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Ilaali! Eloohiim gargaaraa koo ti; Adoonaay lubbuu koo deeggartuu keessa jira.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gargaaraa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "koo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "deeggartuu keessa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:37.577421761Z",
+  "model": "glm-5.3"
+}

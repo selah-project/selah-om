@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mootiin Mitsraayimis deeggartota dhalootaa waamte, isaanitti immoo, \"Maaltu akka jechoota kana hojjeessitan, ilmoo dhiiraa haa jiraachiftan?\" jechuun jedhe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waamte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "deeggartota dhalootaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להן",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maaltu akka"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "hojjeessitan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "jiraachiftan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo dhiiraa"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ilmoo dhiiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:05.964528807Z",
+  "model": "glm-5.3"
+}

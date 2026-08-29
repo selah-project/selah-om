@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sagaleen mukkeewwan qararaarii waaninyaan jala dhaddacha'u akka, akkasuma hawwii wallaala; kunis balfaa dha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkasuma akka"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "sagaleen akka"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "mukkeewwan qararaarii"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "waaninyaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "hawwii"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "wallaala"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "balfaa dha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:23.626123491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Adoonaay yeroo duubaa ni dhiisa? Jaalacha dabalataa hin jaalatu?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "yeroo duubaa"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ni dhiisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "dabalataa"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "jaalacha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hin jaalatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:01.224166884Z",
+  "model": "glm-5.3"
+}

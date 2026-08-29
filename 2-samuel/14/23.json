@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yoowaabis ka'e deeme Geeshuuri, Abshaalomis ⟨את⟩ Yerushaalayim fide.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaabis"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geeshuuri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "fide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshaalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalomis"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T07:53:32.718188455Z",
+  "model": "glm-5.3"
+}

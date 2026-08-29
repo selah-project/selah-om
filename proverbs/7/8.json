@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Dirreewwan keessa darbuun, ciboo ishii bira darbuun, gara mana ishii deemuudhaan tarkaanfee.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "darbuun"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "dirreewwan keessa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ciboo ishii"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "deemuudhaan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "gara mana ishii"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "tarkaanfee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:23.167581009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isaanitti jedhe: \"Guyyoota sadihiif eegaa, sana booda gara kiyyaatti deebisaa.\" Sabaan deeme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Isaanitti jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eegaa\/deemaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan (guyyoota sadihiif)"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadihii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "deebisaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyyaatti"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:35.380663388Z",
+  "model": "glm-5.3"
+}

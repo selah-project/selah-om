@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yihoshu'aan isaanitti akkuma Yahwe isaatti jedhe godhe — farda isaanii ⟨את⟩ miilla-dabarsee, baabuna isaanii ⟨את⟩ immoo ibiddaatin gube.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshu'aan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farda isaanii"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "farda isaanii"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "miilla-dabarsee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baabuna isaanii"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "baabuna isaanii"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gube"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:37:21.656612300Z",
+  "model": "glm-5.3"
+}

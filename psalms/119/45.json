@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ani bakka bal'aa keessatti nan deema, sababiin isaas piqqudeewan kee nan barbaaduu jira.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "nan deema"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "bakka bal'aa keessatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "piqqudeewan kee"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nan barbaaduu jira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:52.912112796Z",
+  "model": "glm-5.3"
+}

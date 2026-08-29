@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Meeqa si gulaalii mataa kee irratti; yaa warra cimoo, weellistarri kee fi brikee kee!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "gulaali (meeqa si)"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "meeqa si"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yaa warra cimoo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "weellistarri kee"
+    },
+    {
+      "surface": "ווהדרך",
+      "gloss": "fi brikee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:11.136830575Z",
+  "model": "glm-5.3"
+}

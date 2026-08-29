@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yoo karaa kiyya keessa deemuun seera kiyyaas ajaja kiyyaas akka Daawid abbaa kee deeme eeggsite, laggeen kee ⟨את⟩ ni dheerfissa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "deemuun"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "karaa kiyya keessa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eeggsite"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "seera kiyyaas"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ajaja kiyyaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "ni dheerfissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laggeen kee"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "laggeen kee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:03:01.315410440Z",
+  "model": "glm-5.3"
+}

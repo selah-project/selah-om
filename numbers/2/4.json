@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kabajamtoonni isaa fi lakkoofsa isaanii afur fi torbaatam kuma jaha dhibba ta'a.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "kabajamtoonni isaa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "lakkoofsa isaanii"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afur"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "fi torbaatam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:15.611489750Z",
+  "model": "glm-5.3"
+}

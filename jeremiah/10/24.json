@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Na leekkis, yaa Yahwe, garuu murannoo qofaaf; boona kee keessatti miti, akka na hir'isuu kee hin jenneef.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Na leekkis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "garuu qofaaf"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "murannoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miti"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "boona kee keessatti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin jenneef"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "na hir'isuu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:28:39.687390727Z",
+  "model": "glm-5.3"
+}

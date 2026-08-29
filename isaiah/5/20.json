@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hoo! Isaan kara badaa toftuu, kara toftuus badaa jedhan; gurrundoo ifa, ifas gurrundoo godhu; kessaa mi'aa, mi'aas kessaa godhu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "Isaan jedhan"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kara badaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "toftuu"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "kara toftuus"
+    },
+    {
+      "surface": "רע",
+      "gloss": "badaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gurrundoo"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ifas"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "gurrundoo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kessaa"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "mi'aa"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "mi'aas"
+    },
+    {
+      "surface": "למר",
+      "gloss": "kessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:15.605451471Z",
+  "model": "glm-5.3"
+}

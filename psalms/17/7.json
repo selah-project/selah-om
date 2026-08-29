@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Kheesedoo kee morkaa-dhokomsuuditii hojjadhu, kan warra isaatii si qabani barsiisaa, handaara mirgaa kee irraa kaattoota irraa.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "morkaa-dhokomsuuditii hojjadhu"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "kheesedoo kee"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "barsiisaa"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "warra isaatii si qabani (siitti hirkatan)"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "kaattoota irraa"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "handaara mirgaa kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:49.544761538Z",
+  "model": "glm-5.3"
+}

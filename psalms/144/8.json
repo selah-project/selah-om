@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Isaan afaan isaanii soba dubbata, mirgi isaanii mirga dogoggora ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Isaan (isaan waan...)"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "afaan isaanii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbata"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "soba"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mirgi isaanii"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mirga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dogoggora"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:45.521490928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Midhaha jidduu yoo deeme, Ati na jiraachifta; riixa aleelota koo irratti harka Keetii na gaafatta; michuu Keetinis na barbaachifta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "jidduu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "na jiraachifta"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "riixa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aleelota koo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "na gaafatta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka Keetii"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "s na barbaachifta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "michuu Keetii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:39.420639304Z",
+  "model": "glm-5.3"
+}

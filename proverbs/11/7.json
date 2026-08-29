@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yeroo rashaan du'u, rajalli ni bada; yaadonni dandaawaa ni badan.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "yeroo ... du'u"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashaan"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ni bada"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "rajalli"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "yaadonni"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "dandaawaa"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ni badan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:28:27.334459122Z",
+  "model": "glm-5.3"
+}

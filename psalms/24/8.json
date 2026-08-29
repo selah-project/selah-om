@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Eenyumti kan Mooticha kabajaa kana? Yahwe — humna qabaa fi injifataa; Yahwe — injifataa waraanaa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyumti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan ... kana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mooticha"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "humna qabaa"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "fi injifataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "injifataa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "waraanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:49.562150523Z",
+  "model": "glm-5.3"
+}

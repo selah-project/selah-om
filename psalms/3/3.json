@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Baay'een lubbuu kiyyaatti, \"Yahween hafuura isaaf hin jiru Eloohiim birraa\" jedhu. Selaah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Baay'een"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lubbuu kiyyaatti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "hafuura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim birraa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:06.834402411Z",
+  "model": "glm-5.3"
+}

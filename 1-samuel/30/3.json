@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Daawidifi hiyyeessaan isaa maggalaatti dhufanii, akkaan ilaalan, ibiddaatin gubamteetti; dubartoonni isaanii, ilmoon isaanii fi intalan isaanii hiikkamananiitti.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "hiyyeessaan isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maggalaatti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "maggala"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akkaan ilaalan"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "gubamteetti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "dubartoonni isaanii"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ilmoon isaanii"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "intalan isaanii"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "hiikkamananiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:19.711739463Z",
+  "model": "glm-5.3"
+}

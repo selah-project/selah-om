@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Guyyaa sanas ni jenna: \"Yahwe, si galmeeffa; aniitti boaddessaa treete, boaddessi kee deebi'ee na gargar-baafatte.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ni jenna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "si galmeeffa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "boaddessaa treete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aniitti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "boaddessi kee"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "na gargar-baafatte"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:39.242044197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Onnee caccabsan rawwata, dogoggora isaanii marsa.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "rawwata"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "caccabsan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "marsa"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "dogoggora isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:10.350360907Z",
+  "model": "glm-5.3"
+}

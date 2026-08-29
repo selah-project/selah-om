@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Atiis, diiga kakuu kee irratti, hidhtoota kee bishaan hin qabne godda irraa ani bahe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "dabalataanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "atiis",
+      "marks": "atiis (yaadachiisa: kun as jechoota 'si' ti, mallattoon ⟨את⟩ hin qabu)"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "diiga irratti"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "kakuu kee"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ani bahe"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "hidhtoota kee"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "godda irraa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:06:25.684647967Z",
+  "model": "glm-5.3"
+}

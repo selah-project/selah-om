@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Guyyaa san Sirrii Yahwe ta'a, ifa fi kabajaaf; fi buna lafaa boonsa fi miidhagaaf, kan Israa'el irraa hafaniif.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Sirrii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "kabajaaf"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "buna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "boonsa"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "miidhagaaf"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "irraa hafaniif"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:38.024081936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yeroo mootummaan inni irratti cimee dhaabbatu, ajjeefachuun abbaa isaa mootichaa ajjeesan biyya-abbaa isaa (keessumaa) ajjeesuu abbaa isaa mootichaa hojjache hojjache — warra abbaa isaa mooticha ajjeesan biyya-abbaa isaa ajjeesuu hojjache.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "cimee dhaabbatu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mootummaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "inni irratti"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ajjeesuu hojjache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya-abbaa isaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "biyya-abbaa isaa (keessumaa)"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ajjeefachan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:04:48.845158491Z",
+  "model": "glm-5.3"
+}

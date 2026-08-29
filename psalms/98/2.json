@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Yahwe badhaasa Isaa beeksise; ija biyyoonnii duratti murteessa Isaa ifa baase.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "beeksise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "badhaasa Isaa"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ija... duratti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "biyyoonnii"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ifa baase"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "murteessa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:36.173444720Z",
+  "model": "glm-5.3"
+}

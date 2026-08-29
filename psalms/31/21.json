@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Fuula kee bakkatti-dhoksa keessatti isaan dhoksa, tooftaa namootaa irraa; mana-taawaa keessatti isaan dhoksesa, wal-diddaa arrabotaa irraa.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "isaan dhoksa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "bakkatti-dhoksa keessatti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "tooftaa irraa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "isaan dhoksesa"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mana-taawaa keessatti"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "wal-diddaa irraa"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "arrabotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:05.942914907Z",
+  "model": "glm-5.3"
+}

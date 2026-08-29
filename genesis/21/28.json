@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Avrahaamis ⟨את⟩ torban lafa hoolaa isiisis dhuunfaa isaaniitti dhaabee kenne.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "dhaabee kenne"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaamis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torban lafa hoolaa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torban"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "lafa hoolaa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "isiisis"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "dhuunfaa isaaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:34.299842544Z",
+  "model": "glm-5.3"
+}

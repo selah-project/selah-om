@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Daawidis dhageettee Yowaabii fi ⟨את⟩ waraana guutuu warra cimoo ergе eeggе; jechuunis, Daawid dhageettee, Yowaabii ergе ergе ⟨את⟩ waraana warra cimoo hundumaatti erge.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageettee"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "erge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowaabii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowaabii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waraana guutuu warra cimoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "warra cimoo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:40:41.983897682Z",
+  "model": "glm-5.3"
+}

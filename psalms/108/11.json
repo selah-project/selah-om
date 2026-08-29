@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Eenyumtu na gamsa gara magaalaa cindaa? Eenyumtu na qajeelcha hanga Edoomii?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyumtu"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "na gamsa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gara magaalaa"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "cindaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eenyumtu"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "na qajeelcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoomii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:56.918436698Z",
+  "model": "glm-5.3"
+}

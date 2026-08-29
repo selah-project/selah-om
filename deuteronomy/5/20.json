@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Akkasumas miseensa keeti irratti ragaa dheebaa hin taasisitu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "taasisitu"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "miseensa keeti irratti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dheebaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:37.178479173Z",
+  "model": "glm-5.3"
+}

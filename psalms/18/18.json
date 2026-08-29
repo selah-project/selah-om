@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Diina koo humna guddaa qabu irraa, fi warra na jaamuu irraas na oolche; sababiin ani irra cimaniiru.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "na oolche"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "diina koo irraa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna guddaa qabu"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "fi warra na jaamuu irraas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "cimaniiru"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ani irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:37.655743775Z",
+  "model": "glm-5.3"
+}

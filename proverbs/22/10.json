@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sassiisi qeebawaa, wal-dhabbni baatu; mul'annoon fi cunqursaan ni dhaabbatu.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "sassiisi"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "qeebawaa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "wal-dhabbni"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ni dhaabbatu"
+    },
+    {
+      "surface": "דין",
+      "gloss": "mul'annoon"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "cunqursaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:08:09.300268521Z",
+  "model": "glm-5.3"
+}

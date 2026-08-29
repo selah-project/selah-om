@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Saa'uulis gabatee isaatti jedhe: \"Jechaan gaarii dha; kootti, seenaa.\" Isaanis gara magaalaa namni Waaqaa (Eloohiim irraa) itti jiru deeman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saa'uulis"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "gabatee isaatti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Jechaan"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kootti"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "senaa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Waaqaa (Eloohiim irraa)"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:24.356669328Z",
+  "model": "glm-5.3"
+}

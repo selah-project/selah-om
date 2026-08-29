@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Lallaafoon ⟨את⟩ dhoqona altarii irratti bobaasa; konkobbaanni Aharooniifi ilmaan isaa ta'a.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "bobaasa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Lallaafoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhoqona"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "dhoqona"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarii irratti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "konkobbaan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ilmaan isaa iif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:05.900506501Z",
+  "model": "glm-5.3"
+}

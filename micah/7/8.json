@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ya diina koo, natti hin jaalanne; kuni kufe, ka'eerra; yeroo dukkana keessa taa'uu koo, Yahwe ifa natti ta'a.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "jaalanne"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "diina koo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "ka'eerra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "taa'uu koo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dukkana keessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T10:56:42.531654085Z",
+  "model": "glm-5.3"
+}

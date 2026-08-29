@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Meeqa keetiinis jiraatta, obboleessa kee ⟨את⟩ tajaajila; yeroo of baafu kee, ruuda isaa garaagi kee irraa baafatta.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "-tiin"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "meeqa keetii"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "jiraatta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa kee"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tajaajila"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "of baafu kee"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "baafatta"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ruuda isaa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "garaagi kee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:02.929240282Z",
+  "model": "glm-5.3"
+}

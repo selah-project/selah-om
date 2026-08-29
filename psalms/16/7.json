@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yahwe ⟨את⟩ ni eebbissa, Innis na gorsa; halkanootinis √ollee koo na barsiisa.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ni eebbissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "na gorsa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "halkanootinis"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "halkanoota"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "na barsiisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "√ollee koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:21.960010521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Lafeewwan isaanii fudhatanitti, fagasuudhaan ha-eeshel-jalatti Yabeshaa godananitti, torban guyyootaatiis sosomsuudhaan-jalqaban.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatanitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafeewwan isaanii"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "lafeewwan isaanii"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "fagasuudhaan godananitti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "eeshelicha"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Yabeshaa"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "sosomsuudhaan-jalqabanitti"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T07:42:38.643630367Z",
+  "model": "glm-5.3"
+}

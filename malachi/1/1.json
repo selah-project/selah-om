@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jeequmsa jechaa Yahwe ⟨את⟩ Israa'elitti, harka Maala'akiitiin.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Jeequmsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Maala'akii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:07:27.568537586Z",
+  "model": "glm-5.3"
+}

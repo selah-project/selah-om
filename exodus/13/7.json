@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Dureen hin-dinanii ⟨את⟩ guyyoota torbee nyaadamu; deemsa diname si hin mul'atu, fuudhiis daangaa kee keessatti hundaan si hin mul'atu.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "dureau hin-dinanii"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyyoota torbee"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torbee"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mul'atu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "deemsa diname"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mul'atu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "fuudhi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "keessatti hundaan"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "daangaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:13.977554751Z",
+  "model": "glm-5.3"
+}

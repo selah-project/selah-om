@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Yoosepis ilaalcha isaa keessatti jaalannaa argate; innis tajaajile; mana isaa irratti isa bulchaa taasise; waan qabaatu hunda harka isaatiin kenne.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosepis"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalannaa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ilaalcha isaa keessatti"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "tajaajile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "isa bulchaa taasise"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "יש",
+      "gloss": "qabaatu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:34.079558748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Karaan isaanii dukkana fi socho'a dhiphaa haa ta'u; malaa'ikti Yahwees isaan haa waraabbatu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "karaan isaanii"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkana"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "socho'a dhiphaa"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "malaa'iktiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "isaan waraabbatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:50.177006759Z",
+  "model": "glm-5.3"
+}

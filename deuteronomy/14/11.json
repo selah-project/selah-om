@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Shorookaa qulqullaa hunda ni dhuuktanu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "shorookaa"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "qulqullaa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni dhuuktanu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:36.133196854Z",
+  "model": "glm-5.3"
+}

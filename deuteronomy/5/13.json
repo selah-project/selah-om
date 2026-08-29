@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Guyyoota jaha hojjadhu, akkasumas hojii kee hunda godhu.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "akkasumas godhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "hojii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:19:12.729216158Z",
+  "model": "glm-5.3"
+}

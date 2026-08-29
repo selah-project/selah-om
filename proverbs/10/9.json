@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Inni goolessaan deemu, nagaa fi amanamaan deemu; kan karaawwan isaa goggsu immati beekama.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "goolessaan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagaa fi amanamaan"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "kan goggsu"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "karaawwan isaa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "beekama"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:52.633051440Z",
+  "model": "glm-5.3"
+}

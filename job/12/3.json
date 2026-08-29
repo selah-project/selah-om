@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Anis akka isinitti onnee tokko qaba; isin irraa hin kufadhu — akkasumas akkamitti akka ⟨את⟩ kana hin beekneef?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "akka isinitti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kufadhu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "isin irraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin beekneef"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T15:29:37.334456213Z",
+  "model": "glm-5.3"
+}

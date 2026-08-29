@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sababa isaas dagadagni hiikaa yeroo hunda hin taane; kakkellin kan diinnan qabamu yeroo hunda hin bada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "dagadagni"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "hiikaa"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "kakkellin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kan diinnan"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "hin bada"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:02.230422601Z",
+  "model": "glm-5.3"
+}

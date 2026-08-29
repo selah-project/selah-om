@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Akkasuma isarratti ta'e: ummataanis balbala keessatti ⟨את⟩ rukutanii, du'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "rukatanii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatanni"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "balbala keessatti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T08:30:21.235163467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Saaliwan Mana Ibaddaa fi ⟨את⟩ manni wal-gemmii, dirri isaa, dirri gogaa taachashii waan isaa irratti ol-ka'uu, fi ⟨את⟩ fuuldura-dhirrii manni wal-gemmii ba'u.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "ba'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaliwan Mana Ibaddaa"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "saaliwan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mana Ibaddaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manni wal-gemmii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "manni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wal-gemmii"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "dirri isaa"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "dirri"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "gogaa taachashii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ol-ka'uu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fuuldura-dhirrii"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "fuuldura-dhirrii"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "manni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wal-gemmii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:55:49.111828596Z",
+  "model": "glm-5.3"
+}

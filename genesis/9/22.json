@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kam, abbaa Keenaan, ⟨את⟩ of eebba abbaa isaa argate, lammataa obboleeyyan isaa alatti isaaniif himate.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Keenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "of eebba abbaa isaa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "of eebba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "himate"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "lammataa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "alatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:41.427458633Z",
+  "model": "glm-5.3"
+}

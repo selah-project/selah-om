@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Kan Daawid. Yahwee, siitti lubbuu koo ol kaasa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ol kaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.389138123Z",
+  "model": "glm-5.3"
+}

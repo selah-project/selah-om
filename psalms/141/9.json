@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Natti eeggi harka wantaa naaf hiikanii irraa, fi wantoota hojjattootaa hamtuu irraas.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "natti eeggi"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "harka... irraa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "wantaa"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "hiikanii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "fi wantoota"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattootaa"
+    },
+    {
+      "surface": "און",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:36.642388154Z",
+  "model": "glm-5.3"
+}

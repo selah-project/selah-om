@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Fi midhaan keessaa akka marga keessatti, akka booraanniwwaan kuusota bishaanii irratti ni maddu.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ni maddu"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "marga"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "akka booraanniwwaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "kuusota"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:30.795431337Z",
+  "model": "glm-5.3"
+}

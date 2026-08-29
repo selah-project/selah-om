@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Sababaa isaatiin warri al-jiraatan aniitti dhiyaataniiru, warri cimtoonis lubbuu koo barbaaduu; Eloohiim fuuldura isaaniitti hin godhane. Selaah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa isaatiin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "warri al-jiraatan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "dhiyaataniiru"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aniitti"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "warri cimtoonis"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barbaaduu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "godhane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "fuuldura isaaniitti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:37.577197853Z",
+  "model": "glm-5.3"
+}

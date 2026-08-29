@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani maleekticha na keessaa dubbatu jedhe: 'Kuus maal ta'ani?' Innis naa jedhe: 'Kuun kofota Yihuudaa, Israa'eliifi Yerushaalayim facaafsananii dha.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "maleekticha"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na keessaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naa jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuun"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "kofota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "facaafsananii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yihuudaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:03:18.306393119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yoo odoo jedhaniif, 'Wanti seera waliigalaa shanaffaa irratti nyaadhu maali? ila, hin bowinnes, ⟨את⟩ mija keenyas hin funanannee,'",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "jedhaniif"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maali"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "wanti nyaadhu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "seera waliigalaa irratti"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "shanaffaa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "bowinnes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "funanannee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mija keenya"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "mija keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:59.457575879Z",
+  "model": "glm-5.3"
+}

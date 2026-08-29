@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Bishaan Meriibaa irrattis hammaa tamataniifi; sababa isaanitiin Mosheellee hammaa ta'eef.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "hammaa tamatanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriibaa"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "hammaa ta'eef"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheellee"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "sababa isaanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:28.696799408Z",
+  "model": "glm-5.3"
+}

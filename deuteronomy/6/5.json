@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ati ⟨את⟩ Yahwe Eloohiim kee hunde onnee keetiin, hunde lubbuu keetiin, hunde humna keetiin jaaladhu.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "jaaladhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunde"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunde"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunde"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "humna kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:11.099400345Z",
+  "model": "glm-5.3"
+}

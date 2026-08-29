@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Daawid jechoota kanaa ⟨את⟩ onnee isaa keessatti kufe, Akish mootii Gat irraas darbeebalaan sodaate.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kanaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "onnee isaa keessatti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sodaate"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "darbeebalaan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "irraas"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:04.878274106Z",
+  "model": "glm-5.3"
+}

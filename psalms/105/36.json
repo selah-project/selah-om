@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Inni hundee (daa'iman duraa) hunda biyya isaanii rukute — isa durgaggaa humna isaanii hundaaf.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "Inni hundee (daa'iman duraa)"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "biyya isaanii"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "isa durgaggaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "humna isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:48.043453129Z",
+  "model": "glm-5.3"
+}

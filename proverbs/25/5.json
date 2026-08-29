@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Badii duruu mootichaa baafadhu, teessoon isaa mirgaan ni dhaabbatu.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "baafadhu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "badii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duruu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "ni dhaabbatu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "mirgaan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "teessoon isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:51.330008627Z",
+  "model": "glm-5.3"
+}

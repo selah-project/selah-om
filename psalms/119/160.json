@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Mata-durii jecha Kee dhugaa; fi yeroo hunda hundinuu murtii qajeelaa Kee.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "mata-durii"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "jecha Kee"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "fi yeroo hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "qajeelaa Kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:03.007530773Z",
+  "model": "glm-5.3"
+}

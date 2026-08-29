@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sirmaan kee hin guddaa mitii? Miidhaa keetiifis xumara hin jiru.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hin... mitii"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "sirmaan kee"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "xumara"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "miidhaa keetiif"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:50.527958239Z",
+  "model": "glm-5.3"
+}

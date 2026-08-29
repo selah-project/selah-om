@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Karaa siif qopheessi, daangaa biyya kee, kan Yahwe Eloohiim kee dhaala isaa siif kenna, saddutti qoodi; akkasanis ta'u qaba — ajjeestoon hundi gara sanaa baatuuf.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "qopheessi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "saddutti qoodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daangaa biyya kee"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "biyya kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "dhaala isaa siif kenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'u qaba"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "baatuuf"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara sanaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ajjeestaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:28:19.544288322Z",
+  "model": "glm-5.3"
+}

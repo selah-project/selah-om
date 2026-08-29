@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Fi ⟨את⟩ dhaabbannoowwan hojjete, fi ⟨את⟩ saa'elota dhaabbannoowwan irratti hojjete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dhaabbannoowwan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dhaabbannoowwan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "saa'elota"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "saa'elota"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dhaabbannoowwan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:50.839928143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Kheesed Yahwe immoo barra dhuma hin qabne irraa hanga bara dhuma hin qabne irratti, warra Isa sodaatan irratti; raga isaa immoo ilmaan ilmootti.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Kheesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "barra dhuma hin qabne irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bara dhuma hin qabne"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "warra Isa sodaatan"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "raga isaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmootti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:20.377836803Z",
+  "model": "glm-5.3"
+}

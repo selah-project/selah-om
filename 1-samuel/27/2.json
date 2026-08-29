@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Daawidinis ka'e; innii fi dheera dhibba ja'aa isa waliin jiraniinis gara Akiishii, ilmaa Ma'ookhii, mootii Gaatiiitti darban.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidinis"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "darban"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "innii"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja'aa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "waliin jiraniinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiishii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmaa"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Ma'ookhii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gaatiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:54.128130644Z",
+  "model": "glm-5.3"
+}

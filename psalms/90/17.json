@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Kunoo jaalala kennaa Adoonaay Eloohiim keenya nutti haa ta'u, hojii harka keenyaas nuttii haa iyyamu, hojii harka keenya iyyadhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "jaalala kennaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "harka keenya"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "haa iyyamu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nuttii"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "harka keenya"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "iyyadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:45.272693840Z",
+  "model": "glm-5.3"
+}

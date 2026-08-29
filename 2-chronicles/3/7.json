@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Fi ⟨את⟩ mana biiftuu (dictoo) sarara (tartiiba) bu'uura fi bal'ina (cufa isaa) guutuu fi bal'ina guutuu (daawwuu isaa) warqeedhaan daneeffate; bal'ina guutuu irrattis kerubiimoota banbaxxe.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "daneeffate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "biiftuu (dictoo)"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "sarara (tartiiba bu'uura)"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "fi bal'ina (cufa isaa) guutuu"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "fi bal'ina guutuu (daawwuu isaa)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqeedhaan"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "fi banbaxxe"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubiimoota"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "bal'ina guutuu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:51:58.038866629Z",
+  "model": "glm-5.3"
+}

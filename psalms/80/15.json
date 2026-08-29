@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Eloohiimii Tabaatan, sii deebi'i; samii irraa mul'ii fi ilaali, muka wirgirtu kanaas daawadhu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tabaatan"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebi'i"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sii"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "mul'ii"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samii irraa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "fi ilaali"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "daawadhu"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "muka wirgirtu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kanaas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:01.994827563Z",
+  "model": "glm-5.3"
+}

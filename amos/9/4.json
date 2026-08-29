@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoo diina isaanii dura hidhaa garaa galaan, hafurraa ⟨את⟩ muka faanaa ajaja kenna, isaan ajjeesuus natti tol'a; ijjii kiyyas isaan irratti rakkinaaf, fayyuumaa malee, tanzeessa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "galaan"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "hidhaa garaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "diina isaanii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hafurraa"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ajaja kenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muka faanaa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "muka faanaa"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "isaan ajjeesuus"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "tanzeessa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijjii kiyyas"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "rakkinaaf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "fayyuumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:51:52.059003388Z",
+  "model": "glm-5.3"
+}

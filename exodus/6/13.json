@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwein Moshee fi Aharoonitti dubbate, biiwwan Yisraa'elii fi mootii Mitsraayim, Paroo, ⟨את⟩ biiwwan Yisraa'el lafa Mitsraayim irraa baasuuf isaan ajajaniif isaan ajajte.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwein"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi...itti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "isaan ajajte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "biiwwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'elii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biiwwan Yisraa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "biiwwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafa...irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:32.110009940Z",
+  "model": "glm-5.3"
+}

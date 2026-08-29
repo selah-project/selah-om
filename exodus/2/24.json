@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Eloohiimiis boona isaaniiti dhagaye; Eloohiimis ⟨את⟩ kakuu isaa yaadate — ⟨את⟩ Avraahaam, ⟨את⟩ Yitsxaaq fi ⟨את⟩ Ya'aqoob wajjin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boona isaaniiti"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "boona isaaniiti"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "yaadate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu isaa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraahaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxaaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ya'aqoob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:58.127282851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Yoo beela'e si hin jedhu; sababaa addunyaan kan koof, guutummaa isheetis.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "beela'e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kan koof"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "guutummaa isheetis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:35.139068265Z",
+  "model": "glm-5.3"
+}

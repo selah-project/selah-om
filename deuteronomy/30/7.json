@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahwe Eloohiim kee ⟨את⟩ abbaalammoota kana hunda diinaa kee irratti fi warra si jibban irratti, isaan si hordofan irratti, ni kenna.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ni kenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaalammoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "abbaalammoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diinaa kee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "warra si jibban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "si hordofan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:35:02.068651659Z",
+  "model": "glm-5.3"
+}

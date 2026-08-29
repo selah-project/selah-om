@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Sila akka aannan na dhangumsitaa, fi akka cuuddee na geeddumsitaa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "akka aannan"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "na dhangumsitaa"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "fi akka cuuddee"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "na geeddumsitaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:19:44.831994594Z",
+  "model": "glm-5.3"
+}

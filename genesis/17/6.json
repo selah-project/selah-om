@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Si baay'isuu baay'ee baay'ee natti taasisa; sababootaaf si taasisa, mootonnis si irraa baatu.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "natti baay'isuu taasise"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si",
+      "marks": "si"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "si taasise"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "sababootaaf"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "mootonnis"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "si irraa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "baatu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:37.934558595Z",
+  "model": "glm-5.3"
+}

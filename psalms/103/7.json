@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Karaawwan isaa Mosheeef beeksise; hojiiwwan isaa ilmaan Israa'ieliif beeksise.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "beeksise"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "Karaawwan isaa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheeef"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hojiiwwan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:11.370012041Z",
+  "model": "glm-5.3"
+}

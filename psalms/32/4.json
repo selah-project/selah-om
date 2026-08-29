@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Sababni guyyaa fi gammaan harka kee kiyya irratti raskaatte; soogidni kiyya akka goga ginnaa jijjiiramee. Seelaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababni"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "fi gammaan"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "raskaatte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kiyya irratti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "jijjiiramee"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "soogidni kiyya"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "akka goga ginnaa"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ginnaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:03.119195863Z",
+  "model": "glm-5.3"
+}

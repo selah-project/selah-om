@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 32:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ergamtoonni Ya'aqobitti deebi'anii akkas jedhan: \"Ergaa kee gara Eesawuutti nu seenne; inni siif kufuuf deema'aa jira, hiikoo dhibba afurinis isa wajjin jira.\"",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "deebi'anii"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ergamtoonni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-itti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhan"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "nu seenne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ergaa kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eesawuutti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "innis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deema'aa jira"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "siif kufuuf"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "afurinis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiikoo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:52.817015467Z",
+  "model": "glm-5.3"
+}

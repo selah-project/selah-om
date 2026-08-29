@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "'Kakuu mooraa' hin jedhin, waan kana sabni jedhu hunda irratti; ⟨את⟩ sodaa isaanii hin sodaadhaa, akkasumas hin arajjessinaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "jedhin"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "Kakuu mooraa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "Kakuu mooraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sodaa isaanii"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "sodaa isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sodaadhaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "arajjessinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:59.100097261Z",
+  "model": "glm-5.3"
+}

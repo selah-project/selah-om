@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Jaalatamtoota kee akka baafaman baha; harka mirgaa keetiin baraari, nuu deebii.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "akka baafaman bahaaf"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "baafaman"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "jaalatamtoota kee"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "baraari"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "harka mirgaa keetiin"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "nuu deebii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:43.146732002Z",
+  "model": "glm-5.3"
+}

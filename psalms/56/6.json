@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Guyyaa guutuu jechoota kiyya ni madaqsu; yaada isaanii hundi na irratti hamtuuf.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota kiyya"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ni madaqsu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "yaada isaanii"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "hamtuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:33.720998980Z",
+  "model": "glm-5.3"
+}

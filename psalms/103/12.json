@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Akka fageencha bahaati dhihaatti, akka kanaan ⟨את⟩ bíduu keenya nu irraa fageessise.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "akka fageencha"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bahaati"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "dhihaatti"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "fageessise"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nu irraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bíduu keenya"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "bíduu keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:16.092897934Z",
+  "model": "glm-5.3"
+}

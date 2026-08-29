@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Akkansas kapporeeta waan dhahaa qulqulluu hojjedha; dheerina isaa amaa lamaa fi walakkaa, bal'ina isaa amaa tokkoo fi walakkaa ta'u.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kapporeeta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waan dhahaa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amaa lamaa"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi walakkaa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dheerina isaa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "amaa tokkoo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi walakkaa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bal'ina isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:03.561669281Z",
+  "model": "glm-5.3"
+}

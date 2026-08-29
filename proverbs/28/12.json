@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yeroo miliquwwan itti gamaddan, faarfachoon guddaatu jira; yeroo mardiitootni ka'an immaa namoonni dhoksatu.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "yeroo ... itti gamaddan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "miliquwwan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guddaatu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "faarfachoon"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "yeroo ... ka'an immaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mardiitootni"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "dhoksatu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoonni"
+    }
+  ],
+  "timestamp": "2026-08-29T12:11:56.597677566Z",
+  "model": "glm-5.3"
+}

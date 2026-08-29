@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "ↁ Akkasumas harki Yahwe isaan irratti taate, kaampii keessaa isaan balleessuuf, hanga xumuramuuf.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ↁ akkasumas"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "balleessuuf"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kaampii keessaa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "xumuramuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:26.764420402Z",
+  "model": "glm-5.3"
+}

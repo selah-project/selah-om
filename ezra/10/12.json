@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akkasumu qaamichi hundi deebisanii sagalee guddaadhaan jedhan: haqaan, akka jette nu irratti, hojjachuuf.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "qaamichi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haqaan"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "akka jette"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:18:16.206231045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sagaleen Yahwe saadaniwwan ajaa'ibsiisa, mukkeellee bulluqa; waan haykla Isaa keessatti hundi isaatti akka kabajaan jedhan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "ajaa'ibsiisa"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "saadaniwwan"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "bulluqa"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "mukkeellee"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "waan haykla Isaa keessatti"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabajaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:06.495282564Z",
+  "model": "glm-5.3"
+}

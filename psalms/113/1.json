@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Faarfadhaa Yaah; faarfadhaa, gabroota Yahwe; maqaa Yahwe faarfadhaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "faarfadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faarfadhaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faarfadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:56.653316100Z",
+  "model": "glm-5.3"
+}

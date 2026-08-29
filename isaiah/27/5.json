@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yookiin utubaan koo harka qabadhu — natti nagaa hojjedha; nagaa natti hojjedha.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "harka qabadhu"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "utubaan koo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:54.382136140Z",
+  "model": "glm-5.3"
+}

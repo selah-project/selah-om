@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Waan lafa qurbaicha irraa hafe guyyaa sadaffaa ibiddaatin ni gubama.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "waan hafe"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "irraa lafa qurbaicha"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "qurbaicha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sadaffaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ni gubama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:45.828751971Z",
+  "model": "glm-5.3"
+}

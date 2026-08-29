@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Guyyaa rakkina kootii Adoonaay barbaade; harki kiyya halkan tin dhangala'ee hin battisne, lubbuun kiyya tasgaddii irraa didde.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "rakkina kootii"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harki kiyya"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan tin"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "dhangala'ee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "battisne"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "didde"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "tasgaddii irraa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:48.226117432Z",
+  "model": "glm-5.3"
+}

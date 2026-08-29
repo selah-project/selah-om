@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Namoonni waan isaan sooratanitti isaan fudhatan; fi ⟨את⟩ afaan Yahwe hin gaafatanimu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "waan isaan sooratanitti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "afaan Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "gaafatanimu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:45:31.854192616Z",
+  "model": "glm-5.3"
+}

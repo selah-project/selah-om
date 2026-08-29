@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Keessa bodaatti haa bittinan; haa bittinan akka hin jiraanne; Eloohiim Ya'aqob keessatti akka bulchu, hanga dhuma lafaa, haa beekanan. Seelaa.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "haa bittinan"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "keessa bodaatti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "haa bittinan"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "akka hin jiraanne"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "haa beekanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "bulchu"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'aqob keessatti"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "hanga dhuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:11.654960453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Hojjetaan beekumsaa qaban hundi waan hojjatan hojii qulqullummaa ⟨את⟩ hunda irraa, namni nama hojii isaatiiti hojjatu irraa dhufan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "hojjetaan beekumsaa qaban"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "waan hojjatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "hojii isaatiiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "hojjatu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:05.905936404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Hojii kee gara Yahwe gadathiigsi; yaadannooteen kee immoo ni dhaabbatu.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "gadathiigsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojii kee"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ni dhaabbatu"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "yaadannooteen kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:09.292583999Z",
+  "model": "glm-5.3"
+}

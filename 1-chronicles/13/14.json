@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Sanduqa Eloohiim manasaa ObEdedom keessatti ji'a sadi'i teessaale; Yahwe ⟨את⟩ mana ObEdedom fi ⟨את⟩ waan isa qabu hunda eebbife.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "teessaale"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sanduqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manasaa…keessatti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ob"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ededom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "manasaa keessatti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadi'i"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "eebbife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana ObEdedom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ob"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ededom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan isa qabu hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:42.950425394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Beesleewaan ⟨את⟩ dirree shan tokkaa tokkitti walitti qabe; dirree shan immoo tokkaa tokkitti walitti qabe.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "walitti qabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirree shan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tokkitti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkaa"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "walitti qabe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tokkitti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:11.656964324Z",
+  "model": "glm-5.3"
+}

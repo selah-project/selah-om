@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 129,
+  "translation": "Waan harka muraa hin guuttine, mooraa wal-qabaa moorataas daboo.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guuttine"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "harka"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "muraa"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "mooraa ... moorataas"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "daboo wal-qabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:26.683579536Z",
+  "model": "glm-5.3"
+}

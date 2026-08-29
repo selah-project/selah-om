@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akkasuma booda ta'e, mootiin ilmaan Ammon du'e, Hanuunis ilmi isaa bakka isaa moota'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "moota'e"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmi isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "bakka isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:49:00.904351283Z",
+  "model": "glm-5.3"
+}

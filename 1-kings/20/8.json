@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Jaartonni hundi fi sabni hundi isaatti jedhan: hin dhaggeeffanne, fi hin hayyamne.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "jaartonni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dhaggeeffanne"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "hayyamne"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:10.869002755Z",
+  "model": "glm-5.3"
+}

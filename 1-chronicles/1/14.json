@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "fi ⟨את⟩ Yebusii, fi ⟨את⟩ Amorii, fi ⟨את⟩ Girgashii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Yebusii"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Amorii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Girgashii"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:09.267915003Z",
+  "model": "glm-5.3"
+}

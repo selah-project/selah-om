@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Geephen Mitsraayim irraa baafte; biyyoota ajeeftan, ishees taphattan.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "Geephen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "baafte"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ajeeftan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ishees taphattan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:22.274454974Z",
+  "model": "glm-5.3"
+}

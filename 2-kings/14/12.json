@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yihuudaan fuula Israa'elitti anfacame; namni hundi mana-tokko-tokkoo teentii isaatti baqate.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "anfacame"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula ... iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "baqate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni hundi mana-tokko-tokkoo"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "teentii isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:02.006540992Z",
+  "model": "glm-5.3"
+}

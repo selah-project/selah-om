@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Na ciccifadhu, ani nan baraara; seeraan kee irratti yeroo hunda ilaala.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "na ciccifadhu"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "ani nan baraara"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "seeraan kee irratti"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:50.617781156Z",
+  "model": "glm-5.3"
+}

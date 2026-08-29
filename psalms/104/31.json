@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Ulfaataa Yahwe haa ta'u yeroo hunda; Yahwe hojii isaatti haa gammadu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "haa gammadu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "hojii isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:45.466966618Z",
+  "model": "glm-5.3"
+}

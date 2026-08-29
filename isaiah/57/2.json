@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Nagasaa seenu; haadachiisan kan sirriitti deeman kee booressa isaanii irratti hirmitu.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagasaa"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "hirmitu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "booressa isaanii"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kan deeman"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "sirriitti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:14:48.786670416Z",
+  "model": "glm-5.3"
+}

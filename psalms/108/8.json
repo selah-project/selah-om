@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Eloohiim qulqullinna-Isaa keessatti dubbate: tanaan boonna, Shekemen qooda, fi gara Sukkoot safara.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "qulqullinna-Isaa keessatti"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "tanaan boonna"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemen"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkoot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "safara"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:24.398264587Z",
+  "model": "glm-5.3"
+}

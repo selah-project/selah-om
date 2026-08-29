@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Guyyoota sanaa, mootichi Akhashveerosh erga gola mootummaa isaa irratti taa'e — isa Shushan qilleencha keessaa jiru.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Guyyoota"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "erga ... taa'e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashveerosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "gola"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mootummaa isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa ... jiru"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qilleencha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:37.641086588Z",
+  "model": "glm-5.3"
+}

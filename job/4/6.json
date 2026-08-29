@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Siin kabajaa hin taane sirna amanmaa kee? Ticcaabni kee fi qajeelfa karaa keetii mitii?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "kabajaa kee"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "sirna amanmaa kee"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ticcaabni kee"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "qajeelfa"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "karaa keetii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:31.422608444Z",
+  "model": "glm-5.3"
+}

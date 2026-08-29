@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yaadaddee ⟨את⟩ waan Yahwe Eloohiim kee Miiryaam irratti hojje, karaa irratti, yeroo isin Mitsraayim irraa baatan.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Yaadaddee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Yahwe Eloohiim kee Miiryaam irratti hojje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miiryaam irratti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "yeroo isin baatan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:39.511099986Z",
+  "model": "glm-5.3"
+}

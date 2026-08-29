@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Galaana irraa hanga galaana, lagaa irraa hanga dhuma lafaa haa bulchisu.",
+  "tokens": [
+    {
+      "surface": "ושרד",
+      "gloss": "haa bulchisu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "galaana irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "galaana"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "lagaa irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:05.161890477Z",
+  "model": "glm-5.3"
+}

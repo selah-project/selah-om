@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Yihiinis ⟨את⟩ isaan akka rahmataf godhe, fuulduratti warra isaan boobe hunda.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "akka rahmataf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "warra isaan boobe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:53.949993248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Akkas jedhaa: \"Jireessaa jiraattu, nagaan si waliin haa jiraatu; manaan kee nagaan haa jiraatu; waan si caanqabaan hunda nagaan haa jiraatu.\"",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "jedhaa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akkas"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "jireessaa jiraattu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan... waliin"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "manaan kee"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:35.440032751Z",
+  "model": "glm-5.3"
+}

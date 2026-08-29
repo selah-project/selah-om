@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Natti jedhe: hanga galgala fi ganama, kuma lama fi dhibba sadi'i; yeroo san waanti qulqullaa haa mirkaneffamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma lama"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "fi sadii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "haa mirkaneffamu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "waanti qulqullaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:07:58.534257879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yeroo meeshaaleen guutu, ilmoo isheetiin \"Maaloo dabalataa na bira dhiyeessi\" jette; innis isheetti \"Maaloo dabalataa hin jiru\" jedhe; zayitaanis dhaabbate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "yeroo … guutu"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "meeshaaleen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ilmoo ishee"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "dhiyeessi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na bira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:25:54.572351803Z",
+  "model": "glm-5.3"
+}

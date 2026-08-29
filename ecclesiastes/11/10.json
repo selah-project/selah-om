@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Rakko onnee kee irraa haa kaatu; hamtuu lafee kee irraas haa deemsitu; sababiin xiqqummaan fi dargaggummaan daaraa dha.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "haa kaatu"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "rakko"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "onnee kee irraa"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "haa deemsitu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "lafee kee irraas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "xiqqummaan"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "fi dargaggummaan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "daaraa dha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:59.040503242Z",
+  "model": "glm-5.3"
+}

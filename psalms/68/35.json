@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Eloohiimitti humna kenkaa; kabajni isaa Israa'ieli irratti, humni isaa duumessa keessatti.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "kenkaa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimitti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'ieli"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "kabajni isaa"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "humni isaa"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "duumessa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:33.747468187Z",
+  "model": "glm-5.3"
+}

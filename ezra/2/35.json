@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmaan Senaa, kuma sadii dhibba jaha soddomaa fi sadii.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Senaa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "fi jaha"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi soddomaa sadii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:11:26.170448826Z",
+  "model": "glm-5.3"
+}

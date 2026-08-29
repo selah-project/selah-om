@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahween Sedom irratti fi Amoorah irratti sulfaa fi ibidda ademsise — Yahween ⟨bira⟩, samiiwwanii keessaa.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "ademsise"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi … irratti"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoorah"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "sulfaa"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "fi ibidda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahween"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:21.007316011Z",
+  "model": "glm-5.3"
+}

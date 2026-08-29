@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Yahwe booda dhukkubaa irratti inni deggera; hirriba isaatiis guutuu in geeddarta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "inni deggera"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "booda"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "dhukkubaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "hirriba isaatiis"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "in geeddarta"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "dhukkuba isaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:39.856579803Z",
+  "model": "glm-5.3"
+}

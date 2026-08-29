@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Akka lakkoofsa waan isin hojjettanitti, akka kana tokko tokkoof akka lakkoofsa isaanii hojjadhu.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "akka lakkoofsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "isin hojjettanitti"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "tokko tokkoof"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "akka lakkoofsa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:30:25.310117056Z",
+  "model": "glm-5.3"
+}

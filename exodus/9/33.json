@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Mosheen parapharaa birraa bahe, harka isaa gara Yahwee batte; raajoonni fi roobichi dhaaban, bishni roobaa dhula irratti hin dhangamsifamne.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "birraa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "parapharaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birmattii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birmattii"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "batte"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "dhaaban"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "raajoonni"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "fi roobichi"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "fi bishni roobaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "dhangamsifamne"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhula irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:10.493877948Z",
+  "model": "glm-5.3"
+}

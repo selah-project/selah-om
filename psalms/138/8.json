@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Yahwe naaf raawwata; Yahwe, kheesed-Keetii hafuura; hojii harka Keetii hin dhiifannee.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "raawwata"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-Keetii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hafuura"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "harka Keetii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "dhiifannee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:39.420773817Z",
+  "model": "glm-5.3"
+}

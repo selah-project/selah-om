@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Abbaraa'i firtii garaa kee fi firtii lola kee, waan gafarsaa kee dhalee fi waan hoolaa kee dhalee.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Abbaraa'i"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "firtii"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "garaa kee"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "fi firtii"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lola kee"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "waan gafarsaa kee dhalee"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "gafarsaa kee"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "fi waan hoolaa kee dhalee"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "hoolaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:48.605700839Z",
+  "model": "glm-5.3"
+}

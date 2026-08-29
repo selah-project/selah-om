@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ta'ees, waan ti ishee xiqqaa taateef lafti ⟨את⟩ lafa walitti haqamee, dhagaa fi mukaatii ⟨את⟩ dhagaa fi ⟨את⟩ mukaan sirnaan seente.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'ees"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "waan xiqqaa taateef"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ti ishee"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "walitti haqamee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "sirnaan seente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mukaa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mukaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:21:30.907780711Z",
+  "model": "glm-5.3"
+}

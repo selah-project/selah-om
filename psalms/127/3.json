@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 127,
+  "translation": "Kunoo, ilmaan dhaala Yahwe ti; firii garaas minda ti.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minda"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "firii"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "garaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:16.246536359Z",
+  "model": "glm-5.3"
+}

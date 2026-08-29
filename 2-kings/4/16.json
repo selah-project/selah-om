@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Inis isheetti jedhe, \"Yeroo murtaa'e kanatti, yeroo jireenyaa akka taatu, ilmmaa hoddata.\" Inis immoo dubbatte, \"Miti, Gooftaa kiyya, namma Waaqaa (kan) Eloohiim ti; kiyyeetti hin sobiin, gabreettaa kiyyootti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inis isheetti jedhe"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "yeroo murtaa'e"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanatti"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "yeroo akka taatu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "sii"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "hoddata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmmaa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "inis dubbatte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "sobiin"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "gabreettaa kiyyootti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:26:27.974572098Z",
+  "model": "glm-5.3"
+}

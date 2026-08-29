@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kahnichaan baadiyyaa gad liqqeeffamuutti ba'i; kahnichaanis ilaala, akkasumas duubatti waan miidhaan tsara'aa kan dheebanaa irraa akka fayye argame.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kahnichaanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "baadiyyaa gad liqqeeffamuutti"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahnichi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "duubatti"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "fayye"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "miidhaan"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsara'aa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "kan dheebanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:19.526767801Z",
+  "model": "glm-5.3"
+}

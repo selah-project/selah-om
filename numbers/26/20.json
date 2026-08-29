@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Ilmaan Yahuudaa maatiwwanii isaaniitti ta'an: Sheelaa'iin maatii Sheelanota, Pereetsiin maatii Paratsota, Zerahiin maatii Zarhoota.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "maatiwwanii isaaniitti"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "Sheelaa'iin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Sheelanota"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "Pereetsiin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Paratsota"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "Zerahiin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zarhoota"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:29.750201412Z",
+  "model": "glm-5.3"
+}

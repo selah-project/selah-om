@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 126,
+  "translation": "Yahwe-yoo, ⟨את⟩ deebii keenya akka baandirallee kaaba keessatti deebisi.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deebii keenya"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "deebii keenya"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "akka baandirallee"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "kaaba keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:28.266391704Z",
+  "model": "glm-5.3"
+}

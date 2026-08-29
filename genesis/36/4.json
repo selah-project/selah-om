@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Adaanis Eesawu'if ⟨את⟩ Eliifaaz dhalatte; Basematis ⟨את⟩ Re'uel dhalatte.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adaanis"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Eesawu'if"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliifaaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eliifaaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "Basematis"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re'uel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Re'uel"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:08.003813727Z",
+  "model": "glm-5.3"
+}

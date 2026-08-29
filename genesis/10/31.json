@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kun ilmoo Sheemii, gosa isaanitiin, afaan isaanitiin, biyya isaanii keessatti, sabummoota isaanitiin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheemii"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "gosa isaanitiin"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "afaan isaanitiin"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "biyya isaanii keessatti"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "sabummoota isaanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:44.489410792Z",
+  "model": "glm-5.3"
+}

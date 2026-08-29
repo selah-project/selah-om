@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kumaannamoota sababa mootummaa namaa irraa hin sodadhu, isaan na marsanii na waliin tokko tokko dhaabbani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sodadhu"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "kumaannamoota"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sababa mootummaa namaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na marsanii"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "dhaabbani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na waliin tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:47.177430536Z",
+  "model": "glm-5.3"
+}

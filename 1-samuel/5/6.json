@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Harki Yahwe warra Ashdood irratti ulfaattee isaan balleessise; ⟨את⟩ isaan rukkutaan rukute, ⟨את⟩ Ashdood fi ⟨את⟩ daangii ishee rukute.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ulfaattee"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "warra Ashdood"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "balleessise"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "rukkutaan rukute"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "rukkutaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdood"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daangii ishee"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "daangii ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:20:27.945084341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yoo obboleessi kee hiikkaa'ee fi dheedha qabaansaa gurgure, kan deebisaa isaa isaatti dhihaatu yoo dhufe, deebisa dheedha obboleesa isaa ⟨את⟩ deebisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "hiikkaa'ee"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessi kee"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "fi gurgure"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "dheedha qabaansaa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "yoo dhufe"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "kan deebisaa isaa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isaatti dhihaatu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deebisa dheedha"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "deebisa dheedha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleesa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:57.667199242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Warri poolaa isaa fi isaan lakkoofaman kuma afurtamii shanii fi dhibba jahaafi shantama dha.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "warri poolaa isaa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "fi isaan lakkoofaman"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "afi afurtamii"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "afi dhibba jahaafi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "shantama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:11.255233135Z",
+  "model": "glm-5.3"
+}

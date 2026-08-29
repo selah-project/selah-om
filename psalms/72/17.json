@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Maqaan isaa yeroo hunda haa jiraatu; duraan aduu maqaan isaa ni bul'a, fi isatti eebbisamu; sabni hundi isaa kerorfatu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "ni bul'a"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "fi eebbisamu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "kerorfatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:37.027373382Z",
+  "model": "glm-5.3"
+}

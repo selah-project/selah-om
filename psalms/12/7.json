@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Jechootni Yahwe jechoota qulqulloo dha; akka kumetaa, dhangaggee ⟨the⟩ lafaa keessatti baafamee, torba baay'ee qulqulleeffame dha.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "jechootni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "qulqulloo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumetaa akka"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "baafamee"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "dhangaggee keessatti"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "qulqulleeffame"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "torba baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:32.058154309Z",
+  "model": "glm-5.3"
+}

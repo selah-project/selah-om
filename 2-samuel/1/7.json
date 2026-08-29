@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Innis adda galee na arguuf, na waamuf; aniis: \"Kunoo ani!\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "adda galee"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "duuba isaa"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "na arguuf"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na waamuf"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na gaafuf"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kunoo ani!"
+    }
+  ],
+  "timestamp": "2026-08-29T07:42:54.597793065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "⟨את⟩ korkeessa xiqqaa fi ⟨את⟩ korkeessa guddaa fi korkeessa adi",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korkeessa xiqqaa"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "korkeessa xiqqaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korkeessa guddaa"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "korkeessa guddaa"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "fi korkeessa adi"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:53.815257530Z",
+  "model": "glm-5.3"
+}

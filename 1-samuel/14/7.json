@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Baatu meeshaalee isaa immoo isa jedhe: 'Waan onnee kee keessatti hundeeffame hunda hojjadhu; ati tilmaama. Ani si waliin jira, akkuma onnee keeti.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "Baatu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "onnee kee keessatti"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "tilmaama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin jira"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "akkuma onnee keeti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:45.941881339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Waan Ati gorra keessaa kiyya uumteef; daawwaddaa haadha kiyya keessatti na makuute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "uumteef"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "gorra keessaa kiyya"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "na makuute"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "daawwaddaa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:43.773200808Z",
+  "model": "glm-5.3"
+}

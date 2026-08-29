@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Hamaanis mootichatti jedhe: „Nama mootichi kabaja isaa hawwite.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamaanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mootichatti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichatti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Nama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hawwite"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "kabaja isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:26.248829689Z",
+  "model": "glm-5.3"
+}

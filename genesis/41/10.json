@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Firoon abbaa servaa isaa irratti boodaate; na kufsiise gannaa mana ajajicha bullaa-tumtuu keessatti, aniifi ajajicha dokuumaa <את>:",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Firoon"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bodaate"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abbaa servaa isaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na kufsiise"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "gannaa mana ajajicha bullaa-tumtuu"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "gannaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ajajicha"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "bullaa-tumtuu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniifi ajajicha dokuumaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ajajicha dokuumaa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ajajicha"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "dokuumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:47:35.963249971Z",
+  "model": "glm-5.3"
+}

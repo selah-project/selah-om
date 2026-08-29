@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Yerushaalayim ⟨та⟩ ijaarameedha — akka magaalaa isheetti walitti makameetti, tokkumatti.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "ijaarameedha"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "akka magaalaa"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "walitti makameetti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tokkumatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:08.151714701Z",
+  "model": "glm-5.3"
+}

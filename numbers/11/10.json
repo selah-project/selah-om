@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Mosheen saba ⟨את⟩ maatiwwan isaaniitti, namni tokko tokko balbala teentii isaa biratti kaddise dhagaye; ijaarsi Yahwe baay'ee ho'a'e, Mosheefimmoo ijaarra isaa keessatti waan fokkate ture.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kaddise"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "maatiwwan isaaniitti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko tokko"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "teentii isaa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ho'a'e"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ijaarsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ijaarra isaa keessatti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "רע",
+      "gloss": "fokkate"
+    }
+  ],
+  "timestamp": "2026-08-29T05:56:48.660286805Z",
+  "model": "glm-5.3"
+}

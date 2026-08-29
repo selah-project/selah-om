@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yaaktaanis ⟨את⟩ Almodad, fi ⟨את⟩ Sheleef, fi ⟨את⟩ Chatsarmavet, fi ⟨את⟩ Yerach dhalche.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yaaktaanis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sheleef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sheleef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:27.082700423Z",
+  "model": "glm-5.3"
+}

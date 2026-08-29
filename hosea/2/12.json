@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ammoo amma ⟨את⟩ raajaa ishee ija jaallatamtoota isheetii irratti raga; namni tokkolleen ishee harka koo irraa hin baraara.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ammoo amma"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "raga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raajaa isheetii"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "raajaa isheetii"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ija"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "jaallatamtoota isheetii"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "baraara ishee"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "harka koo irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:10.293113833Z",
+  "model": "glm-5.3"
+}

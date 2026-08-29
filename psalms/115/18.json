@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Nutis Yaah eebbissa; amalattii ol kanaa hanga yeroo dheeraa dhiyoo. Yaah faarsaa!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "nutis"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "eebissa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "amalattii ol kanaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo dheeraa dhiyoo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faarsaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:36.860599901Z",
+  "model": "glm-5.3"
+}

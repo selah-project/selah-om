@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Bu'aa Mo'aab. Waan halkan tokkotti Ar Mo'aab ni balleesse, mo'aa; waan halkan tokkotti Qiir Mo'aab ni balleesse, mo'aa.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bu'aa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "halkan tokkotti"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ni balleesse"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "mo'aa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "halkan tokkotti"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ni balleesse"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Qiir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "mo'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:09.763667426Z",
+  "model": "glm-5.3"
+}

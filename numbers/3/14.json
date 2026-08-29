@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe Moshee wajjin dheessaa Siinayi keessatti dubbate akka jedhu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dheessaa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:41.446537659Z",
+  "model": "glm-5.3"
+}

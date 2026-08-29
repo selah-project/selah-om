@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hebberis ⟨את⟩ Yaphleet, ⟨את⟩ Shoomer, ⟨את⟩ Hootam fi ⟨את⟩ Shuu'a obboleettii isaanii kenne (horreesse).",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Hebberis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "kenne (horreesse)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaphleet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaphleet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shoomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shoomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hootam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hootam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shuu'a"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shuu'a"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "obboleettii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:44.528375711Z",
+  "model": "glm-5.3"
+}

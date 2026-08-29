@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Hoo'a isaanii hin nyaattanu; wantoota du'anii irraas hin tuqattanu; isaan laktoowwan keessan ti.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "Hoo'a isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaattanu"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "wantoota du'anii irraas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tuqattanu"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "laktoowwan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessan ti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:47.450604591Z",
+  "model": "glm-5.3"
+}

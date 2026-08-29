@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroon boonuu, fi yeroon naacasuu; yeroon gadduu, fi yeroon riibuu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "boonuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "naacasuu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "gadduu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "riibuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:53.228302021Z",
+  "model": "glm-5.3"
+}

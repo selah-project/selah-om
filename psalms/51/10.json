@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Gammachuu fi booyyaa na dhageesii; lafeewwan ati dhoknee isaan gammadan.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "na dhageesii"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "booyyaa"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "isaan gammadan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafeewwan"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ati dhoknee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:00.726195256Z",
+  "model": "glm-5.3"
+}

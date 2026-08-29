@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Yaa Yahwe, du'a kee hin dhiisu; yeroo du'a hin qabdu.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hin dhiisu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin qabdu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:24.984366179Z",
+  "model": "glm-5.3"
+}

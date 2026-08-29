@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Na qoradhu, yaa Eel, onnee kiyya beeka; na yaaladhu, yaadasni kiyyas beeka.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "na qoradhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "na yaaladhu"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "yaadasni kiyyas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:47.240697188Z",
+  "model": "glm-5.3"
+}

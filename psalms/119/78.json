@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Gossoon boona'aa ha yaaddessanu; sababni isaas sowwaan na dogoggorsaniiru; ani immoo ajaja kee keessatti xiinxala.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ha yaaddessanu"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "gossoon boona'aa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sowwaan"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "na dogoggorsaniiru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "xiinxala"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "ajaja kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:50.881469354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Icciitti, dhugaa onnee keessaa jaallatta, fi bakka dhokataa keessatti beekumsa na barsiisitta.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "icciitti"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "jaallatta"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "onnee keessaa"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "fi bakka dhokataa keessatti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "na barsiisitta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:29.337819358Z",
+  "model": "glm-5.3"
+}

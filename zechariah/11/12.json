@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Ani isaaniitti ni jedhe: “Yoo ija keessanitti tole, mindaa koo naffaa; yoo hin taane, dhiisaa.” Isaanis ⟨את⟩ mindaa koo — shekela qarshii soddoma — safaraniiru.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tole"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ija keessanitti"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "naffaa"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mindaa koo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "dhiisaa"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "safaraniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindaa koo"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mindaa koo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "soddoma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qarshii (shekela)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:06:51.822902197Z",
+  "model": "glm-5.3"
+}

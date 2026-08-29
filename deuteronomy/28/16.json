@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Magaalaa keessatti abjuuraa taata, duddacha keessattis abjuuraa taata.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "abjuuraa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "fi abjuuraa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "duddacha keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:34:40.493837929Z",
+  "model": "glm-5.3"
+}

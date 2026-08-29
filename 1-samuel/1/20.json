@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Baga yeroo guututti ta'ee, Haanaa holomtee ilma dhalatteetee ⟨את⟩ maqaa isaa Samu'el jechuun moggaasfite, sababa Isa Yahwe irraa kadhadheef.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "baga"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "yeroo guututti"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "holomtee"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Haanaa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatteetee"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "moggaasfite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samu'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe irraa"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "kadhadheef"
+    }
+  ],
+  "timestamp": "2026-08-29T07:15:37.747143194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Balaarawwan arraawwan kee xuuxa; akka inniqaa cal'eessee, nama mormii hojjedhaan.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Balaarawwan"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "xuuxa"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "arraawwan kee"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "akka inniqaa"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "cal'eessee"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhaan"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mormii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:42.563776126Z",
+  "model": "glm-5.3"
+}

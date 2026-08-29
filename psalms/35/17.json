@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Adoonaay, yeroo meeqaaf ⟨ni⟩ argita? Nafi koo balleettiwwan isaanii irraa deebisi; qofa-taatee koo geerraafaawwan irraa hafuu baasi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "yeroo meeqaaf"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "argita"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafi koo"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "balleettiwwan isaanii irraa"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "geerraafaawwan irraa"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "qofa-taatee koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:40.523657122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Dubartoota waan ishee keessa jiran ⟨את⟩ hidhaan fudhatanii, xiqqaa irraa guddaatti; namattiilee ajjeesani miti, garuusootaa kuffamanii, karaa isaaniiti deemanii.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "hidhaan fudhatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dubartoota"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dubartoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan... jiran"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessa"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "xiqqaa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "guddaatti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ajjeesani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namattiilee"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "kuffamanii"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "karaa isaaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:45:23.306198913Z",
+  "model": "glm-5.3"
+}

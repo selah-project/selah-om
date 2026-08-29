@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Ni duru, dubbii goraa dubbatu; hojjattoota balleessaa hundi of guddisanu.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Ni duru"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "dubbii goraa"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "of guddisanu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattoota"
+    },
+    {
+      "surface": "און",
+      "gloss": "balleessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:12.721023129Z",
+  "model": "glm-5.3"
+}

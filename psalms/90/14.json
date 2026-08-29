@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Barnoota kheesed-kee isa nutti guutti, akkasumas nuti goofannaafi ittiin gammanna guyyoota keenya hunda.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "guutti"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Barnoota"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-kee"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "goofanna"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "gammanna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "guyyoota keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:04.185211683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 150,
+  "translation": "Isa faarfadhaa sirriwwan dhimashaa, Isa faarfadhaa sirriwwan qeeqqee\/boatiinsaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa faarfadhaa"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "sirriwwan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhimashaa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa faarfadhaa"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "sirriwwan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "qeeqqee\/boatiinsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:59.195087608Z",
+  "model": "glm-5.3"
+}

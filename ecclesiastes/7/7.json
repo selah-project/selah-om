@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababiin addattuun ogeessa margeessi, kenninis ⟨את⟩ onnee balleessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "addattuun"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "margeessi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "balleessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "kenninis"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:23.626261621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Waan mucaa keenya akka muka biqilchaa dargummaa isaanii keessaa guddatan, intala keenya immoo akka urjii meeshaa qubee-me'eramee — caasaatiin ga'aa mukaa qulqullummaa (heekalaa) — kan uumamaniidha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "mucaa keenya"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "akka muka biqilchaa"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "guddatan"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "dargummaa isaanii keessaa"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "intala keenya"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "akka urjii...qubee"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "meeshaa...qulqullummaa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "caasaatiin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ga'aa mukaa qulqullummaa (heekalaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:44.250790353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mosheeniifi Aharooniis gara ilmaan Yisraa'el hundaanii jedhan: galgalatti akka Yahwe ⟨אתכם⟩ biyya Mitsraayim irraa baase beektanu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharooniis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galgalatti"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "beektanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:08:16.767404852Z",
+  "model": "glm-5.3"
+}

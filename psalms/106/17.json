@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Lafni banaa Datan liqimte, fi gara zamicha Abiiraam irratti gabbate.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafni"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "fi liqimte"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "fi gabbate"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara ... irratti"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zamicha"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Abiiraam"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:35.657444976Z",
+  "model": "glm-5.3"
+}

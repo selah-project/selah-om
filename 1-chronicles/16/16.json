@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Kan Inni ⟨את⟩ Avrahaam waliin Kutaa-dhaan kutate, fi Kakatisa Isaaa Isaaqitti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kutate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "fi Kakatisa Isaaa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isaaqitti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:38:09.740228576Z",
+  "model": "glm-5.3"
+}

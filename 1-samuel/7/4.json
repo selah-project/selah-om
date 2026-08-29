@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ilmoonni Israa'el immoo ⟨את⟩ Baalota fi ⟨את⟩ Ashitarot haaranii, Yahwe ⟨את⟩ qofa ⟨את⟩ tajaajilan.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "haaranii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmoonni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalota"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalota"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "⟨את⟩ tajaajilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "⟨את⟩ qofa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ashitarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashitarot"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:07.518699903Z",
+  "model": "glm-5.3"
+}

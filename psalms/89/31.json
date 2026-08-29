@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Yoo ilmaan isaa seera kiyya dabansan, murtoota kiyya keessatis hin sochooman,—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "dabansan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "seera kiyya"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "murtoota kiyya keessatis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "sochooman"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:01.297185543Z",
+  "model": "glm-5.3"
+}

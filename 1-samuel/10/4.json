@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Siin nagaa gaafatu, marraa machaawaa lama siif kennu; atis harka isaanii irraa fudhatta.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "gaafatu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siin"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "marraa machaawaa"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhatta"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "harka isaanii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:15.183016170Z",
+  "model": "glm-5.3"
+}

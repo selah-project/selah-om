@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Shaddaay(otaaf) gorgortani — Elooha miti; Eloohiim waan hin beekneef, waan haaraa biraarraa dhufeef gorgortan, abbootiin keessan isaanhin sodatan.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "gorgortan"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "Shaddaay(otaaf)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "beekne"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "waan haaraa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "biraarraa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "sodatan(isaan)"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abbootiin keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:36:12.279966417Z",
+  "model": "glm-5.3"
+}

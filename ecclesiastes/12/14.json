@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Kanaafuu hojii hunda kan Eloohiim ⟨את⟩ murtii seensa waan dhokataa hunda irratti, gaarii yoo ta'e ykn hamtuu yoo ta'e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "murtii seensa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "murtii keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "waan dhokataa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo ta'e"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ykn yoo ta'e"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:46.475711606Z",
+  "model": "glm-5.3"
+}

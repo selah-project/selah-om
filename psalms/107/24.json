@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Isaan hojiiwwan Yahwe arganii, niinalee hojii isaa ijoo gaditti cufame keessattis arganii.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arganii"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hojiiwwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "niinalee hojii isaa ijoo"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "gaditti cufame keessattis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:27.293386409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Seera kee na ogeessisa warra naaaloo kiyya caalaa, sababa inni yeroo hunda wajjin koo ti.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "warra naaloo kiyya caalaa"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "na ogeessisa"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wajjin koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:04.490519399Z",
+  "model": "glm-5.3"
+}

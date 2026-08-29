@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Isheenis ilmaoota isaa dhugde — Ye'ush, ⟨את⟩ Shemaryaa fi ⟨את⟩ Zaahaam.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhugde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'ush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Ye'ush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shemaryaa"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaahaam"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaahaam"
+    }
+  ],
+  "timestamp": "2026-08-29T13:54:10.994289599Z",
+  "model": "glm-5.3"
+}

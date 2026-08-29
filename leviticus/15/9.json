@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Fi meencha riding hunda kan zabni irratti baay'u, hin qulqullu'u ta'a.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fi ... hunda"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "meencha riding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "irratti baay'u"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irra isaa"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zabni"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "hin qulqullu'u ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:28.258354493Z",
+  "model": "glm-5.3"
+}

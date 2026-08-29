@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Isaanis guddiftuu mana kee irratti fi balbala kee irratti barreessi.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "barreessi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "guddiftuu irratti"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "fi balbala kee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:48.322090373Z",
+  "model": "glm-5.3"
+}

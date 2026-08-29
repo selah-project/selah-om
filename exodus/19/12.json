@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Ummata ⟨את⟩ naannoo daangeessaa, akkas jedhiitii: of eegaa gaarumaa ol baafadhaa, dacha isaais hin ta'aninaa; gaarumaa tokko tuqu hafuura caalaa du'a.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "daangeessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhiitii"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "of eegaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ol baafadhaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarumaa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "hin ta'aninaa"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "dacha isaais"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tuqu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarumaa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "hafuura caalaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T14:19:55.754835167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Baksiisni isaanii fuuldura isaanii yaa ta'u faanja, fi warra nagaa qabaniif yaa ta'u moqqooda.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "yaa ta'u"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "baksiisni isaanii"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fuuldura isaanii"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "faanja"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "fi warra nagaa qabaniif"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "moqqooda"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:59.285675189Z",
+  "model": "glm-5.3"
+}

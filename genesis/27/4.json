@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Akkasumas akka ani jaalladheeru natti nyaata mi'aawaa godhi; natti baafachiisi, ani nyaadhu — akka lubbuun koo ana du'u koo dura si eebbisuuf.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "nyaata mi'aawaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ani jaalladheeru"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "baafachiisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ani nyaadhu"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "akka ... -uuf"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "si eebbisu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ana du'u"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:03.226976878Z",
+  "model": "glm-5.3"
+}

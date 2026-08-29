@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ilmma waggaa tokko ta'e Sha'uul yeroo mootummarratti seechu; waggaa lamaan Israa'iel irratti mootume.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ilmma"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa tokko ta'e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "yeroo mootummarratti seechu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "waggaa lamaan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootume"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    }
+  ],
+  "timestamp": "2026-08-29T14:42:50.563294548Z",
+  "model": "glm-5.3"
+}

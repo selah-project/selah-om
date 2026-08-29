@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ganama ganamatti ⟨את⟩ isa walitti qabani, nama waan nyaatu isaatiin; aduun yeroo hoifte, innis baqee.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "walitti qabani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganamatti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "waan nyaatu isaatiin"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nyaata"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "yeroo hoifte"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduun"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "baqee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:21.222154916Z",
+  "model": "glm-5.3"
+}

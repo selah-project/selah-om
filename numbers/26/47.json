@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 26:47",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Kunoon maatiiwwan ijoollee Asher, akka lakkoofsaa isaanii: kuma sadihii fi dhibba afurtamii fi afur.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kunoon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatiiwwan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijoollee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "akka lakkoofsaa isaanii"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadihii"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "fi dhibba afurtamii"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "fi afur"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(dhibba)"
+    }
+  ],
+  "timestamp": "2026-08-29T06:07:25.543327472Z",
+  "model": "glm-5.3"
+}

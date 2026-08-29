@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ruutiiwwan si irraa, manneen kee irraa, gabroottaa kee irraa fi ummata kee irraa deemani; yeroo yaa'i keessatti qofa haa hafan.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "deemani"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ruutiiwwan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "si irraa"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "manneen kee irraanis"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "gabroottaa kee irraanis"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "ummata kee irraanis"
+    },
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "yeroo yaa'i keessatti"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "haafan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:25.575272013Z",
+  "model": "glm-5.3"
+}

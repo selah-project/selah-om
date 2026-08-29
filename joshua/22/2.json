@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 22:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Isaanis jedhe: «Isin waan Moshee, baraataa Yahwe, isin ajajetti hunda ⟨את⟩ eegdanii; haadha kiyyaas waan isin ajajetti hundaatti dhageessanitanii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "eegdanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "baraataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשמעו",
+      "gloss": "dhageessanitanii"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "haadha kiyyaatti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T06:57:17.713782358Z",
+  "model": "glm-5.3"
+}

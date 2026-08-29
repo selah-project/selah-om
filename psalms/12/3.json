@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Sobaa nama tokkaan tokkoisaa wajjin ni dubbatu ⟨את⟩; lafe qopheessaa fi onneedhaan ondodiitti ni dubbatu.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ni dubbatu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokkoisaa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tokkoisaa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lafe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "qopheessaa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "onneedhaan"
+    },
+    {
+      "surface": "ו",
+      "gloss": ""
+    },
+    {
+      "surface": "לב",
+      "gloss": "ondodiitti"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ni dubbatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:57.258218262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Iddoowwan hunda keessatti iji Yahwe ṭoftaa baddaa fi toltuu ilaala.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoowwan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "baddaa"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "fi toltuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:14.560551738Z",
+  "model": "glm-5.3"
+}

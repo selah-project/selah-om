@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Daawid kolaa koo argadhe; zayita qulqulluu koo tiin dibadhe.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kolaa koo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "zayita"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qulqulluu koo"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "dibadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:53.910004731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Onnee keessan choora isheetti godaa, qaldeeyii ishee ilaalaa, akka durrii boodaa himattaniif.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "godaa"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "onnee keessan"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "choora isheetti"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "ilaalaa"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "qaldeeyii ishee"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka ... niif"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "himattan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "durrii"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "boodaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:43.460364317Z",
+  "model": "glm-5.3"
+}

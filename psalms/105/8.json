@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Kakuu isaa yeroo hunda yaadataa jira; jecha kumaa dargaggoo fi darbee ajaje.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yaadataa jira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu isaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "kumaa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dargaggoo fi darbee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:05.404878452Z",
+  "model": "glm-5.3"
+}

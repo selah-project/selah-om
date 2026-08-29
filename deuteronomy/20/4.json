@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Raaje — Yahwe Eloohiim keessan, Kan isin waliin deemu, diinaa keessan waliin loluuf isin eeggachuuf, ⟨את⟩ isin fayyisuuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Kan deemu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "isin waliin"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "loluuf"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin eeggachuuf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "diinaa keessan"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "fayyisuuf"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:29:15.633474447Z",
+  "model": "glm-5.3"
+}

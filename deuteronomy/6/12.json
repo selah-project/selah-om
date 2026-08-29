@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Atti of eeggadhu, Yahwe ⟨את⟩ ati duubatti haadhachuu akka hin dhabineef, waan si biyya Mitsraayim irraa, mana gabrumaa irraa baafu jedhe.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "of eeggadhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Atti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka...hin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "duubatti haadhachuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "si baafu jedhe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gabrumaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:48.322701720Z",
+  "model": "glm-5.3"
+}

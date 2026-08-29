@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Esteriins ni jedhe: \"Nam-tumtuu fi diina — Haamaan kanaan shorraa dha.\" Haamaanis fuula mootichaa fi mootittii irraa rakko'e.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nam-tumtuu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tumtuu"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "fi diina"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kanaan shorraa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Haamaanis"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "rakko'e"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fuula irraa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "fi mootittiitii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:59:15.469943539Z",
+  "model": "glm-5.3"
+}

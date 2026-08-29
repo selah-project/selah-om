@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Badii hojjetaa balleessitoota fi adda-baasitoota ⟨את⟩ hordoffa bishaan kiyyaa, waan Yahwe jedhe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Badii"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hojjetaa"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "balleessitoota"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "fi adda-baasitoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hordoffa bishaan kiyyaa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hordoffa"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "bishaan kiyyaa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "waan...jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:37:39.764622479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Kuni immoo waan isin isaan irraa ⟨את⟩ fudhattan qooda dha: warqee, xaalii fi birtii.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kuni immoo"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "fudhattan"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ isaani irraa",
+      "marks": "isaan (ilmee Israa'el)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "xaalii"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "birtii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:08.691223754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Na irraa hin fageessinu, sababni isaas rakkinni dhiyoo jira; sababni isaas gargaaraa hin jiru.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fageessinu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Na irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "rakkinni"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "dhiyoo jira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "gargaaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:44.469498261Z",
+  "model": "glm-5.3"
+}

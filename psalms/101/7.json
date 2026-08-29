@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Meechuu hojjatu mana kiyya keessatti hin jiraatu; kijibaa dubbatu bakka ijaa kiyya keessatti hin dhaabbatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mana kiyya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjatu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "meechuu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "kijibaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "bakka ... duratti"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:05.416748575Z",
+  "model": "glm-5.3"
+}

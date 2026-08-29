@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sardame dirree, gaddite lafti; sababiin midhaan sardame, waadiin haaraa hiikkame, zayitiin dhiphate.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "sardame"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "gaddite"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "sardame"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "midhaan"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "hiikkame"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "waadiin haaraa"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "dhiphate"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "zayitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:46:15.590443509Z",
+  "model": "glm-5.3"
+}

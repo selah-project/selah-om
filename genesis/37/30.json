@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Gara obboleeyziisaa deebi'ee jedhe: Mucaa hin jiru; aniis gara eetti nan deegaa?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyziisaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Mucaa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "gara eetti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nan deegaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:36.320779322Z",
+  "model": "glm-5.3"
+}

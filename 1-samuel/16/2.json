@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 16:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Samuweelis jedhe: \"Akkamitti deema? Sha'uulis dhokaa argatee na ajjeesa.\" Yahween jedhe: \"Sa'aattii saa'aa harka keetti qabaddee, 'Qalbii Yahweef baafachuuf ani dhufe' jechuu qabda.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweelis"
+    },
+    {
+      "surface": "איך",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "dhagee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulis"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "na ajjeesa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "sa'aattii"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "saa'aa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qabaddee"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jechuu qabda"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qalbii baafachuuf"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ani dhufe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:23.986916080Z",
+  "model": "glm-5.3"
+}

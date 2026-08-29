@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Fi ⟨את⟩ Raamootii fi ⟨את⟩ lafa loltuu isaa, fi ⟨את⟩ Aneemii fi ⟨את⟩ lafa loltuu isaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Raamootii"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamootii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa loltuu isaa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lafa loltuu isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Aneemii"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Aneemii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa loltuu isaa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lafa loltuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:32:47.879791712Z",
+  "model": "glm-5.3"
+}

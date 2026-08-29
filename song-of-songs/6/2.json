@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Jaallaa kiyya gara boonaa isaa, gara mandaroota qorichaa bu'e, boonoota keessatti bidiruuf fi lilleewwan funaanuuf.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "jaallaa kiyya"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "gara boonaa isaa"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "gara mandaroota"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "qorichaa"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "bidiruuf"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "boonoota keessatti"
+    },
+    {
+      "surface": "ו ללקט",
+      "gloss": "fi funaanuuf"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "lilleewwan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:34.715167875Z",
+  "model": "glm-5.3"
+}

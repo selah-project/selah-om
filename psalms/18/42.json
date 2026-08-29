@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ni iyyatu, bara-badhaasu tokkollee hin jiru; gara Yahwef iyyatanii, garuu inni isaaniif hin deebiin.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "ni iyyatu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "bara-badhaasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "isaaniif deebii'e"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:37.829647308Z",
+  "model": "glm-5.3"
+}

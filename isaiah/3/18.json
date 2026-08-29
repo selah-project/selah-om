@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Guyyaa sanatti Adoonaay miizzaa miilaa fi marsaa mataa fi ji'oodduu ⟨את⟩ bifa ijaa ishee ni haqa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanatti"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ni haqa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bifa ijaa ishee"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bifa ijaa ishee"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "miizzaa miilaa"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "marsaa mataa"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "ji'oodduu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:18.809185690Z",
+  "model": "glm-5.3"
+}

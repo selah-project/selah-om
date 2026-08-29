@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Sochii kee arganiiru, yaa Eloohiim — sochii Eel kiyya, mootii kiyya, biqqaa qulqulluu keessa.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "arganiiru"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "sochii kee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "sochii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel kiyya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootii kiyya"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "biqqaa qulqulluu keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:26.166314941Z",
+  "model": "glm-5.3"
+}

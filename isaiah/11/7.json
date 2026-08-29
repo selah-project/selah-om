@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Leensiidhaan fi beeraadis waliin sooratu, ilman isaanii waliin ciisanii; gorbi akka sa'aa boo ni soora.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "leensiidhaan"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "beeraadis"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "sooratu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ciisanii"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ilman isaanii"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "gorbi"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "akka sa'aa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "soora"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "boo"
+    }
+  ],
+  "timestamp": "2026-08-29T08:50:32.429895247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimiinis ni jedhe: \"Ifaawwan raqaa samiiatti haa jiraatan, guyyaa fi halkan adda baafaniif, mallatteewwan, yeroowwan, guyyootaafi waggootaafis haa ta'an.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiinis"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "haa jiraatan"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "Ifaawwan"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "raqaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiatti"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "adda baafaniif"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "haa ta'an"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "mallatteewwan"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "yeroowwan"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "guyyootaafi"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "waggootaafis"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:28.212338176Z",
+  "model": "glm-5.3"
+}

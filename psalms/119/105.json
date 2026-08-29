@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Jecha kee ifa miila koo ti, ifa karaa koo ti.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "miila koo ti"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Jecha kee"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "fi ifa"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "karaa koo ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:23.180913172Z",
+  "model": "glm-5.3"
+}

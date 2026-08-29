@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Mooddaan hattaa naaf dhaaban; ajaja Ke irraas hin balleen.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "dhaaban"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mooddaan"
+    },
+    {
+      "surface": "פח",
+      "gloss": "hattaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ajaja Ke irraas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "balleen"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:16.291461343Z",
+  "model": "glm-5.3"
+}

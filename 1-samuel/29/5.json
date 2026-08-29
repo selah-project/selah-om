@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sila kuni Daawid mitii, waan isaan michoo keessatti isaatif deebisan, jedhuun: «Sha'uul kuma tokko ajjeese, Daawiinis kuma kudhan ajjeese»?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "sila…mitii"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "isaan deebisan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatif"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "michoo keessatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "kuma adda isaa keessatti"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawiinis"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "kuma kudhan adda isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:44.283036469Z",
+  "model": "glm-5.3"
+}

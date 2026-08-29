@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "⟨את⟩ baddicha tokko, fi ⟨את⟩ saawwan kurnee-lama isaan jalatti.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baddicha tokko"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baddicha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "saawwan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "saawwan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kurnee"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "isaan jalatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:50.840628774Z",
+  "model": "glm-5.3"
+}

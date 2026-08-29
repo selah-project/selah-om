@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Daawidifi umni isa wajjin jiru ⟨את⟩ sagalee isaanii ol kaasanii bijaan; yeroo danda'aniitti bijani, yeroo humni isaaniitti bijuuf hin danda'amu sanatti.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ol kaasanii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "umni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wajjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee isaanii"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sagalee isaanii"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bijaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo danda'aniitti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sanatti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humni"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "bijuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:19.712007856Z",
+  "model": "glm-5.3"
+}

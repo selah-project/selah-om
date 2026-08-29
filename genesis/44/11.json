@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Achii saffisan, nama tokko tokkoon ⟨את⟩ booda kiyya lafa gadi buusaa, nama tokko tokkoon booda kiyya bana.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "saffisan"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "gadi buusaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama tokko tokkoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boda kiyya"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "boda kiyya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama tokko tokkoon"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "boda kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:46.645498150Z",
+  "model": "glm-5.3"
+}

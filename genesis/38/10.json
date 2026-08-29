@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Waan Onaan godhe gara Yunvahtti fudhachuu hin dandeenye; Waan inni godhe Yunvah biratti rakkisaa tureef, Yunvaahis Inaltotaan ajjeese.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "rakkisaa ture"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "Yunvah biratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Inaltotaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Onaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:52.297426860Z",
+  "model": "glm-5.3"
+}

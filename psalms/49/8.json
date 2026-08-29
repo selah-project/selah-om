@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Obbolaa dhugumatti namni kamiinuu hin kaffalu; kaffaltii isaas Eloohiimiif hin kennitu.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "obbolaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kaffalu"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "dhugumatti hin kaffalu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni kamiinuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimiif"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "kaffaltii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:03.051681321Z",
+  "model": "glm-5.3"
+}

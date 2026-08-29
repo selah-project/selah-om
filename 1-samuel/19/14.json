@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Sha'uulis ergamtoota Daawid ⟨את⟩ fudhachuu ergaa, isheen \"Dhukkubaadha\" jette.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulis"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ergamtoota"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "fudhachuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "Dhukkubaadha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:05.514257528Z",
+  "model": "glm-5.3"
+}

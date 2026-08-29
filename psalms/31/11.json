@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Sababa jireenyaan koo gaddaatti dhume, waggootni koo huuhaadhaan; humni koo yakka kootiin kufee, lafeen koo hiikaniiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dhume"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "gaddaatti"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jireenyaan koo"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "waggootni koo"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "huuhaadhaan"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "kufee"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "yakka koo tiin"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "humni koo"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "lafeen koo"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "hiikaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:31.593091059Z",
+  "model": "glm-5.3"
+}

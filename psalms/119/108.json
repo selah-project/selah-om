@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kennaa fedhii afaan koo, Yahwe, jaalladhu; miseensota kee na barsiis.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "kennaa fedhii"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan koo"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "jaalladhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jaalladhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "miseensota kee"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "na barsiis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:23.181335939Z",
+  "model": "glm-5.3"
+}

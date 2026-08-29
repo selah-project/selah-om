@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Niidhufu; miira isaa gara ummata dhalataniif himu — sababa innis hojjeteef.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "niidhufu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "himu"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "miira isaa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ummata...-iif"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "dhalataniif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa...-ef"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjeteef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:08.788839302Z",
+  "model": "glm-5.3"
+}

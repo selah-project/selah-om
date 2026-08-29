@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Eloohiimis Avrahaamiin jedhe: Ati immoo ⟨את⟩ kakuu koo eegda — ati fi sanyiin kee booda kee, durtii isaaniitiif.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avrahaamiin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ati immoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu koo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakuu koo"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "eegda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "fi sanyiin kee"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "booda kee"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "durtii isaaniitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:14.541092862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Hammachuun kiyya ani nan gatuu dha, sababni isaas yaadni kee ijaarsa koos ti.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "ani nan gatuu"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "hammachuun kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "yaaduu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jechoota kee"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "diinaan kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:30.475466274Z",
+  "model": "glm-5.3"
+}

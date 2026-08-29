@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Sababiin, akka olka'iinsa samiiwwanii lafa irra, akka kanaan kheesed Isaa kan Isa sodaatanii irratti jabaadha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "akka olka'iinsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "jabaadha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed Isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kan Isa sodaatanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:16.092767178Z",
+  "model": "glm-5.3"
+}

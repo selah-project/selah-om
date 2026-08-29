@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yeroo inni harree fuudhee gaarri dhokataa gadi bu'aatiin gadi bu'uttii, 'Kunoo!' — Daawidis dhargaa isaa isheettiin wal arguuf gadi bu'uu jiru turan; innis ⟨את⟩ isaan waliin wal qunnamteetti.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Yeroo ... inni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inni (isheenis)"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "harree fuudhee"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuudhee"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "gadi bu'uttii"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dhokataa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "Kunoo!"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dhargaa isaa"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "gadi bu'uu jiru turan"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "isheettiin wal arguuf"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "wal qunnamteetti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (Daawid fi dhargaa isaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:45.607880827Z",
+  "model": "glm-5.3"
+}

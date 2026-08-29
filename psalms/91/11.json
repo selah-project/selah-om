@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Sababaa maleeykoota Isaa si irratti ajaja, karaawwan kee hunda si eeguuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "maleeykoota Isaa"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "si eeguuf"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "karaawwan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.931414976Z",
+  "model": "glm-5.3"
+}

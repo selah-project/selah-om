@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Kanaaf Ya'qoobitti ragaa kakaase, Israa'ielif seera dhaabee, waan abbootii keenya ajajef, ilmaan isaanii beeksisuuf.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kakaase"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'qoobitti"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "fi seera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhaabee"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'ielif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii keenya"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abbootii keenya"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "isaan beeksisuuf"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ilmaan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:23.509587450Z",
+  "model": "glm-5.3"
+}

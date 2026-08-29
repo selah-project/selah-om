@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Eenyumti Shiyoona irraa gara-bilisummaa Israa'el kenna? Eloohiim yeroo gati-deebii sanyii isaa deebisu, Ya'aqoob ni gadi, Israa'el ni gammada.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyumti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Shiyoona irraa"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "gara-bilisummaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "yeroo ... deebisu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "gati-deebii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sanyii isaa"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ni gadi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ni gammada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:53.955363644Z",
+  "model": "glm-5.3"
+}

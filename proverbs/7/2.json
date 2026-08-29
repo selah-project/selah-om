@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ajajawwan koo eegi, jiraadhu; seera koo akka iffannaa ija kee godhi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajajawwan koo"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "seera koo"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "akka iffannaa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ija kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:19.071244581Z",
+  "model": "glm-5.3"
+}

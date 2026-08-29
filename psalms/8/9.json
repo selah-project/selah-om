@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Simbiroota samii, bineeldota bishanii bahaa, fi waan karaawwan bahaa keessa darbu.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "simbiroota"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "fi bineeldota bishanii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahaa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "karaawwan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bahaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:37.920939034Z",
+  "model": "glm-5.3"
+}

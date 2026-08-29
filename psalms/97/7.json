@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Waaqeffattoonniwwan sanamuuraa hunduu yaaddessaman; sanamuuraa boonsan, 'waaqoota' sanatti. Isaa hundaan walitti-kneelaa, waaqoota hundinuu!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "yaaddessaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "waaqeffattoonniwwan"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamuuraa"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "boonsan"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "'waaqoota' sanatti"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "walitti-kneelaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waaqoota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:43.428649127Z",
+  "model": "glm-5.3"
+}

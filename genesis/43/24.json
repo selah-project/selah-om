@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Dhiirichi ⟨את⟩ namoota mana Yoosifitti seensise; bishaan kennees mila isaanii dhiigan; sooranni harree isaaniitiinis kenne.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "seensise"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dhiirichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana ... itti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosif"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "dhiigan"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mila isaanii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "sooranni"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "harree isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:51:37.325549640Z",
+  "model": "glm-5.3"
+}

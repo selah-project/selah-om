@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Mootichi Sheelomoon mooticha ⟨is⟩ mooticumaa irratti Israa'el hunda caalchise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheelomoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:11.778636285Z",
+  "model": "glm-5.3"
+}

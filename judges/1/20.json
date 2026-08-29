@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kaleebiif ⟨את⟩ Chebroon kennani, akka Moshee dubbatetti; achii namaChebroonaa baasanii ⟨את⟩ saddet (sadii) ilmaan Anaaq dhibbate.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kennani"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleebiif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebroon"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebroon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbatetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "baasanii dhibbate"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadii"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaaq"
+    }
+  ],
+  "timestamp": "2026-08-29T06:59:27.814389708Z",
+  "model": "glm-5.3"
+}

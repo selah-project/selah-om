@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Shekemi Hamor abbaa isaa waliin akka jedhu: intaltu kana ⟨את⟩ naa fudhuu niitii koo taateef.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fudhuu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaltu kana"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "intaltu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "niitii koo taateef"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:07.738153148Z",
+  "model": "glm-5.3"
+}

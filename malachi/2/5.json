@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kakuu koo ⟨את⟩ isa wajjin jira ture — jireenyaa fi nagaa; ani isaaf sodaacha kennedhe, innis naa-sodaate, maqaa koo achiin inni mo'ateera.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "kakuu koo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨ture⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wajjin",
+      "marks": "isa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "fi nagaa"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "ani kennedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "sodaacha"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "naa-sodaate"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "achiin"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "maqaa koo"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mo'ateera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:07:05.136393257Z",
+  "model": "glm-5.3"
+}

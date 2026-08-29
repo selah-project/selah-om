@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Yeroo hiikanii Yahwe'atti ijiji'an; meeṭaawwan isaanii irraa isaan baraaru.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ijiji'an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahwe'atti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Yeroo hiikanii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "meeṭaawwan isaanii irraa"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "isaan baraaru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:03.256856628Z",
+  "model": "glm-5.3"
+}

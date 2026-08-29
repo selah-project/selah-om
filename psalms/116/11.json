@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Ani, dag-deemii kiyya keessatti, akka jedhu: nama hundi soba dha.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dag-deemii kiyya keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "soba dha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.489584282Z",
+  "model": "glm-5.3"
+}

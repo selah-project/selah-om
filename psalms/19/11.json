@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Kunis warra jaallatamoo irra caalaa; irra dahaa fi faayinaa baay'ee irra; mi'aawaa irra maatii fi droppii combii irra caalaa dha.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "warra jaallatamoo"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "irra dahaa"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "irra faayinaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "mi'aawaa"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "irra maatii"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "droppii"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "combii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:56.704078622Z",
+  "model": "glm-5.3"
+}

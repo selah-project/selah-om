@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Ya'aqoob abbaa isaanii isaaniif akkas jedhe: ⟨את⟩ ana mucaa natti baafachtan; Yoosif hin jiru, Shimoon hin jiru, ⟨את⟩ Binyam immoo fudhaduu; hundi isaas ana irratti ta'aniiru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abbaa isaanii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ana",
+      "marks": "natti baafachuu"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "mucaa natti baafachtan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosif"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "Shimoon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyam"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyam"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "fudhaduu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "hundi isaas"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:49.573454942Z",
+  "model": "glm-5.3"
+}

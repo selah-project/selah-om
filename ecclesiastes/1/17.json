@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Onneen koo akka beekuu ogeummaa, fi akka beekuu wallowwaa fi sillimuu kennadhe; beekadhe akkasumas kun raddachii qilleensaa akka ta'e.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kennadhe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onneen koo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "akka beekuu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogeummaa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "fi akka beekuu"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "wallowwaa"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "fi sillimuu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beekadhe"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kunu⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "raddachii"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleensaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:19.458899787Z",
+  "model": "glm-5.3"
+}

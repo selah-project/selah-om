@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Yossefiin Par'oh goduu jedhe: duubni Par'oh tokko ⟨dha⟩; waan Eloohiim hojjedhu Par'oh'if ibse ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossefiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "goduu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "duubni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dha⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Eloohiim hojjedhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ibse"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Par'oh'if"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:51.025103927Z",
+  "model": "glm-5.3"
+}

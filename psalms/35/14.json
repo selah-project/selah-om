@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Akka hiriyaa, akka obboleetti anaan ture; akka namatti haadha isaa hafuuree, hiriiran naan qoodde.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "akka hiriyaa"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "akka obboleetti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaan"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "akka namatti hafuuree"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "hiriiran"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "naan qoodde"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:08.900450745Z",
+  "model": "glm-5.3"
+}

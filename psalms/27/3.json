@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yoo warri waraanaa natti hirmaate, onnee kiyya hin sodaadu; yoo waraanni natti kaate, kanaan ani kan amanaadha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "hirmaate"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "warri waraanaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sodaadu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kaate"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "waraanni"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "kan amanaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:16.653432999Z",
+  "model": "glm-5.3"
+}

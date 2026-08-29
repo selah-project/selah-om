@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Harkaan koo isaa wajjin dhaabbatu; kophlan koois ni mirkaneessa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harkaan koo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaa wajjin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "kophlan koo"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ni mirkaneessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:53.910218670Z",
+  "model": "glm-5.3"
+}

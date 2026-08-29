@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Nakhashoonimmoo ⟨את⟩ Salmaa horookhate; Salmaa immoo ⟨את⟩ Boaz horookhate.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Nakhashoonimmoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horookhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmaa"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmaa"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "Salmaa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horookhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:22.051296149Z",
+  "model": "glm-5.3"
+}

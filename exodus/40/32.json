@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Yeroo geeđđaramtu manaa walga'ii fi yeroo hiikkaaman bittaa giddu galeessaa irratti, dhiqatan, akka Yahween Mosheeetti ajajetti.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "geyamanTurraYeroo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manaaGidduGaleessaaErratti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "guddaaManaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "hiikkaamanYerooFi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bittaaErratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gidduGaleessaaBitaa"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "dhiqatan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheetti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:42.532798298Z",
+  "model": "glm-5.3"
+}

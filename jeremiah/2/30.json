@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Dhihii keessan rukute; leenjii fudhachuu didan. Gulaantaan keessan raajota keessan akka leeja balleessituu ni nyaate.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Dhihii"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "rukuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhihii keessan"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "dhihii keessan"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "leenjii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "didan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "fudhachuu"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ni nyaate"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "gulaantaan keessan"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "raajota keessan"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "akka leeja"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "balleessituu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:22:00.568406004Z",
+  "model": "glm-5.3"
+}

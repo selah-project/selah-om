@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yihoshu'a biyya kana hunda fudhate — ⟨את⟩ gaarreen, ⟨את⟩ Negebi hunda, ⟨את⟩ biyya Goshen hunda, ⟨את⟩ Shephelaa, ⟨את⟩ Araabaa, ⟨את⟩ gaarreen Israa'el akkasumas Shephelaan isaa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Negebi hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Goshen hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shephelaa"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Shephelaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Araabaa"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araabaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gaarreen Israa'el"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "akkasumas Shephelaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:57:12.991202541Z",
+  "model": "glm-5.3"
+}

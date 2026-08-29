@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahweenis Mosheetti dubbate: \"Aadi, gad-bu'i; sabni kee kan ati biyya Mitsraayim irraa ol baafte balleeffameef.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aadi"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gad-bu'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-f"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "balleeffameef"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sabni kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ol baafte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:51.255388024Z",
+  "model": "glm-5.3"
+}

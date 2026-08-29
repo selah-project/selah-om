@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Ibidda fi cisa, adii fi baaruu; qilleen humna-guddaa qabe, jecha Isaa raawwata.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ibidda"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "fi cisa"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "adii"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "fi baaruu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleen"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "humna-guddaa qabe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "raawwata"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jecha Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:20.552476091Z",
+  "model": "glm-5.3"
+}

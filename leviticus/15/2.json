@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Ilmoottaa Israa'eelii dubbadhaa; isaanii jedhaa: Dhiirri dhiirri yoo qaama isaa irraa bishaan baatu ta'e, bishaan baatu sun hin-qulqulluu ta'a.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "dubbadhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hiika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoottaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eelii"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "isaanii jedhaa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiirri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiirri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "זב",
+      "gloss": "bishaan baatu"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "qaama isaa irraa"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "bishaan baatu sun"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hin-qulqulluu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:58.101485764Z",
+  "model": "glm-5.3"
+}

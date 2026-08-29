@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Tarkaanfii keenyaa amma na marsani; ija isaanii lafa jalatti nu kuffisuuf dhaabbani.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "tarkaanfii keenyaa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "na marsani"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ija isaanii"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "dhaabbani"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "kuffisuuf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:43.832109213Z",
+  "model": "glm-5.3"
+}

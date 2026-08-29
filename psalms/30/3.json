@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahwe Eloohiim kiyyaa, siitti hucaa, Ati na rakkooke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyyaa"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "siitti hucaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "Ati na rakkooke"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:18.742837713Z",
+  "model": "glm-5.3"
+}

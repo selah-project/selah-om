@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Akka yeroo sanas ani jedhe: \"Kunoo, ani dhufe\" — galmeewarruu keessatti waa'ee kiyya barreeffame.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "akka yeroo sanas"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ani dhufe"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "galmeewarruu keessatti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "barruu"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "barreeffame"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "waa'ee kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:18.170920928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Bittiin magaalota Yihuudaa keessaa ⟨את⟩ iddoowwan ol-ka'aa fi ⟨את⟩ fakkoota aduu baafate; mootummaan isa duratti nagaa ta'e.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "baafate"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bittiin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iddoowwan ol-ka'aa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "iddoowwan ol-ka'aa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "fakkoota aduu"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "fakkoota aduu"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "nagaa ta'e"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mootummaan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isa duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:57:00.746431048Z",
+  "model": "glm-5.3"
+}

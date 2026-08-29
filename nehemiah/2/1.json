@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 2:1",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Hagam 'Nisaan' jedhamuutti, waggaa digdamii lammaffaa mootichaa Artachshastaatti, waanni dhaddacha mootichi dura jiru ta'e; ani dhaddacha ⟨את⟩ fudhadhee mootichif kennadhe, ani duraa bifa hammaa isa duratti hin qabu turre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "'Nisaan' jedhamuutti"
+    },
+    {
+      "surface": "ניסן",
+      "gloss": "Nisaan"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdamii"
+    },
+    {
+      "surface": "לארתחשסתא",
+      "gloss": "Artachshastaatti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isa dura"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "fudhadhee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaddacha"
+    },
+    {
+      "surface": "היין",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kennadhe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootichif"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "turre"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bifa hammaa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isa duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:18:57.585271732Z",
+  "model": "glm-5.3"
+}

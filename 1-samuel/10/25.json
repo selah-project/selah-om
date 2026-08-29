@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Samuweelis sabicha wajjin haasa'e, seera mootummaa ⟨את⟩; kitaaba keessattis barreesse, Yahwe fuudurratti dhiyeesse. Samuweelis sabicha hunda ⟨את⟩ ergatee, namni tokko tokko mana isaatti deeme.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haasa'e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera mootummaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "seera"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "barreesse"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitaaba keessatti"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuudurratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ergatee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabicha hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko tokko"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "mana isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:15.198943539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Dalgeewwan cimse, ittiin bulchaa (mootaa) kaafe, fi kosoowan soorataa, zayitaa fi waan dhaddachaas.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "cimse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalgeewwan"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "dalgeewwan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ittiin"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "bulchaa (mootaa)"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "kosoowan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "soorataa"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "waan dhaddachaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:53:10.935943502Z",
+  "model": "glm-5.3"
+}

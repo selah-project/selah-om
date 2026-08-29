@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ni cufama, ni buusa; harka humna isaatiin bu'a.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ni cufama"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ni buusa"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "bu'a"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "harka humna isaatiin"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "Rakkoon-koo'oonni",
+      "rationale": "Himtuun 'חלכאים' jechuun 'of-lallaba' (rakkoon koo'aa) waan ta'eef hiikni Afan Oromoo dhihaataa akka ta'e isaa dubbaterra"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:09.424994227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sabboontoota adda addaatti awwaattaa, kufrii balleessitaa; maqaa isaanii dheessitaa, yeroo hunda fi kan dheeraa dhaan.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "awwaattaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabboontoota adda addaatti"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "balleessitaa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kufrii"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maqaa isaanii"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "dheessitaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi kan dheeraa dhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:53.211518288Z",
+  "model": "glm-5.3"
+}

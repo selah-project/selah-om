@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Kan abbaa fi haadha isaa abu, ifi (kaaruu) isaa duucha gogaa (aduun hin argamne) keessatti ni dhaama.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "abu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "fi haadha isaa"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ni dhaama"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "ifi isaa"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "duucha gogaa keessatti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "aduun hin argamne"
+    }
+  ],
+  "timestamp": "2026-08-29T12:08:11.850896102Z",
+  "model": "glm-5.3"
+}

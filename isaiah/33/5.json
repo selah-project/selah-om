@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Yahwe ol ta'e, sababaa irra ol jiraatu; Siyoon ⟨את⟩ mudaa fi qajeelfamaan guute.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ol ta'e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "irra ol"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mudaa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "fi qajeelfamaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:59:16.309453218Z",
+  "model": "glm-5.3"
+}

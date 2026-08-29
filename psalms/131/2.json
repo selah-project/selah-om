@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 131,
+  "translation": "Lakkisaa, ani hin xiyyeefne; lubbuu kiyyoo akka mucaa haati isaa hosisetti tolsee, ittis dhissee jira; lubbuun kiyyoo ana biratti akka mucaa hosiftuu dha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lakkisaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "xiyyeefne"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "tolsee ittis dhissee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyyoo"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "akka mucaa hosiftuu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irra"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haati isaa"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "akka mucaa hosiftuu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun kiyyoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.667426911Z",
+  "model": "glm-5.3"
+}

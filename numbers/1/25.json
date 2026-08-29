@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Lakkoofaman isaanii maatoo Gaad shanii fi afurtamii kumii, dhibba jahaaffamaa fi shaniffamaa.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "lakkoofaman isaanii"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "maatoo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shanii"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "fi afurtamii"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kumii"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jahaaffamaa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "shaniffamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:44.667823599Z",
+  "model": "glm-5.3"
+}

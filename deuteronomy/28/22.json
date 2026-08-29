@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe si tirisoon, dheeffannoon, dheebuudhaan, hoo'a ariifataan, gogdinaan, madaansaan fi cufinsaan haa rukutu; isaanis si balleessisuutti haa hordofanu.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "haa rukutu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "tirisoon"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "dheeffannoon"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "dheebuudhaan"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "hoo'a ariifataan"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "gogdinaan"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "madaansaan"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "cufinsaan"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "haa hordofanu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "si balleessisuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:26.946469948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 4:22",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Abbaa manaa isheetiin waamteetti: \"Ilaan, naaf tokko ilmaan dargaggootaa irraa fi tokko harreewwan irraa ergi; nama Eloohiim bira akka fiigeeyfuu, ani deebi'uuf.\"",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "waamteetti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "abbaa manaa ishee"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ergi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ilaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ilmaan dargaggootaa"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "fi tokko"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "harreewwan"
+    },
+    {
+      "surface": "וארוצה",
+      "gloss": "akka fiigeeyfuu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "ani deebi'uuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:25:18.190056637Z",
+  "model": "glm-5.3"
+}

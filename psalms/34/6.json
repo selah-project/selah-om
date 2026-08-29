@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Isaatti kan ilaalan ifatan; fuulli isaanii hin sodatu.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ilaalan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Isaatti"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ifatan"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "fuulli isaanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "sodatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:14.582673552Z",
+  "model": "glm-5.3"
+}

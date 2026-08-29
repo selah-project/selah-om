@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Kan dhiphaa fi kan hiyyeessaa irratti rakkinaa qaba; lubbuu warra hiyyeessaa ni baraara.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "rakkinaa qaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kan dhiphaa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi kan hiyyeessaa"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "warra hiyyeessaa"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ni baraara"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:54.296880402Z",
+  "model": "glm-5.3"
+}

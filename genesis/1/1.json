@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jalqabatti Eloohiim ⟨את⟩ samiiwwanii fi ⟨את⟩ lafa uume.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Jalqabatti"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samiiwwanii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:23:57.516419776Z",
+  "model": "glm-5.3"
+}

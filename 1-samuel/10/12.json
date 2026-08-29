@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Namni si'aa sanaas deebisee jedhe: Eeyyuu abboon isaanii? Sababa kanaaf matalaa ta'e: Silaa Sha'uulis raajotaa adda ta'ee?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "משם",
+      "gloss": "si'aa sanaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Eeyyuu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abboon isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "matalaaf"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "Silaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulis"
+    },
+    {
+      "surface": "בנבאים",
+      "gloss": "raajotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:08.466097271Z",
+  "model": "glm-5.3"
+}

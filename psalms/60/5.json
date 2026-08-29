@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Ummata kee waan rakkisaa agarsiisitaa; waan jajjaboo tarreessaa nuu dhugsiisitaa.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "agarsiisitaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "waan rakkisaa"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "nuu dhugsiisitaa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waan jajjaboo"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "tarreessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:43.146379812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ijuun dhagaawwan gatii qaban, dhagaawwan guddan — dhagaawwan amma kudhanii fi dhagaawwan amma saddeetii ⟨ta'ani⟩.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "fi ijuu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaawwan"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "gatii qaban"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaawwan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "guddan"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dhagaawwan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "fi dhagaawwan"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:30.772369819Z",
+  "model": "glm-5.3"
+}

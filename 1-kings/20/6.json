@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Garuu sa'a kana boru ⟨את⟩ gabroottii kiyya sii nan erga; ⟨את⟩ mana kee fi ⟨את⟩ manneen gabroottii kee iyyatu; waan ija kee jaallattu hunda harka isaaniitti godhanii fudhachuun ta'a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "sa'a kana"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "boru"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nan erga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabroottii kiyya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabroottii kiyya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "fi iyyatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana kee"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "manneen gabroottii kee"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabroottii kee"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "waan jaallatamu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ija kee"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "godhanii"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "harka isaaniitti"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "fi fudhachuun"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:10.868666276Z",
+  "model": "glm-5.3"
+}

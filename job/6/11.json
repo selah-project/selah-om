@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Humna koo maali, kanaaf eeguu qabaa? Dhumni koo maali, kanaaf lubbuu koo dheeressuu qabaa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maali"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "humna koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "eeguu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maali"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "dhuma koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "dheeressuu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:06.864746215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahweh ⟨את⟩ sodaatin tajaajilaa; rukuttaa keessinis bole.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "tajaajilaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "sodaatin"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "bole"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "rukuttaa keessinis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:29.268485289Z",
+  "model": "glm-5.3"
+}

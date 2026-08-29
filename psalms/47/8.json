@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Kaaku mootii maatii dachii Eldhiim dha; kabajaa laalaa sammuu qabaanii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kaaku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "kabajaa laalaa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sammuu qabaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:00.349057583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Namni tokko tokko ulee isaa darbe; hundi tininnaa ta'anii. Uleeni Aharoonis ⟨את⟩ uleewwan isaan ni liqimsan.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "darbee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko tokko"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ulee isaa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'anii"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "tininnaa"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "liqimsan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "uleeni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uleewwan isaan"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "uleewwan isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:09.455595785Z",
+  "model": "glm-5.3"
+}

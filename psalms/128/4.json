@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 128,
+  "translation": "Kunoo, akkasuma dhiirri ni eeyyamama kan Yahwe kabachu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasuma (fonqoo)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkusuma"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ni eeyyamama"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "dhiirri"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kan kabachu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:12.520703030Z",
+  "model": "glm-5.3"
+}

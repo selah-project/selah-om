@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Fi nama kamiyyuu waan isaa jala jiru tuqe, galgala dhumaatti hin qulqullu'u ta'a; fi nama isaan baatu uffata isaa dhiqata, bishaan dhiqata, fi galgala dhumaatti hin qulqullu'u ta'a.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fi nama kamiyyuu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tuke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waan kamiyyuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "isaa jala"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "hin qulqullu'u ta'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "galgala dhumaatti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galgala dhumaatti"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "fi nama baatu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (waan jala isaa turre)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "uffata isaa dhiqata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uffata isaa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "bishaan dhiqata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "hin qulqullu'u ta'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "galgala dhumaatti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galgala dhumaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:28.258615745Z",
+  "model": "glm-5.3"
+}

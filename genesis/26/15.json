@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Bontoonni hunda kan hojjattoonni abbaa isaa guyyoota Avrahaam abbaa isaa keessatti haalan, Filistiwwanis bontota hunda cufaniitii soorataan guutan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "bontoonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hojjattoonni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "cufan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiwwanis"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "guutan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "soorataan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:25.486332440Z",
+  "model": "glm-5.3"
+}

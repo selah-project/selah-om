@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Abiimileekis Avrahaamiin jedhe: maaltu argite, akka ⟨את⟩ jecha kana hojjette?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimileek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…iin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "argite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:27.171409090Z",
+  "model": "glm-5.3"
+}

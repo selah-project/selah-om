@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Akka namAA hin dhagahne ta'ee; afaan isaa keessatti maxxansaa hin jiru.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "akka namAA"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagahne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afaan isaa keessatti"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "maxxansaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:06.192212722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Baqqbaqqar, Hereshii fi Galalii; Matanyaa ilmi Mika, ilmi Zikrii, ilmi Asaafi.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Baqqbaqqar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Heresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "Matanyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikrii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:35:11.477183246Z",
+  "model": "glm-5.3"
+}

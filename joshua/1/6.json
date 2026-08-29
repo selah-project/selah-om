@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Cimadhaa, moojjadhaa; sababa isaas ati saba kanaa ⟨את⟩ dadaachaasitu lafa ⟨את⟩ isa Abbootii isaanitiif kakadhe isaaniif kennuuf.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Cimadhaa"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "moojjadhaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa isaas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "dadaachaasitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba kanaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "kakadhe"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "Abbootii isaanitiif"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kennuuf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:10.844126001Z",
+  "model": "glm-5.3"
+}

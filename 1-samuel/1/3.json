@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 1:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Namichi sun yeroo irraa yerootti magaalaa isa irraa ol baheera, Yahwe Tsaba'oota faana Shiloo keessatti suusaufiifi hiyyeessuuf; achis ammoo ilmoon lama kan Elii, Khopnii fi Piinechas, kan Yahwetti hojjatan ta'anii turan.",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "ol baheera"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Namichi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sun"
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "magaalaa isa irraa"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "yeroo irraa"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "yerootti"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "suusaufiif"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "fi hiyyeessuuf"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsaba'oota"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Shiloo keessatti"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "achis ammoo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elii"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Khopnii"
+    },
+    {
+      "surface": "ופנחס",
+      "gloss": "fi Piinechas"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kan Yahwetti hojjatan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "(ta'anii turan)"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:46.882799106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Si'oo kee simdiraadhe, Yahwe; seeraan kee gammachuu kiyya ⟨ti⟩.",
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "simdiraadhe"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "si'oo kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "akkusumas seeraan kee"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "gammachuu kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:33.529154394Z",
+  "model": "glm-5.3"
+}

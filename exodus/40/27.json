@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Irratti qurbaana samii faarfamaa qasaare, akka Yahwe ⟨את⟩ Moshee ajajetti.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "qasaare"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qurbaana samii"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "faarfamaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:14.798275577Z",
+  "model": "glm-5.3"
+}

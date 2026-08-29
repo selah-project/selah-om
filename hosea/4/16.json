@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Waan sanyii of-gaddhee taatee garuu, Israa'el ni gaddhe; amma immoo Yahwe akka iqqii ballina keessatti isaan horsiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "akka sanyii"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "of-gaddhee"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "ni gaddhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "horsiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "akka iqqii"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ballina keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:47.102876051Z",
+  "model": "glm-5.3"
+}

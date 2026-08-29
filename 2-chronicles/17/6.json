@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Onneen isaas karaa Yahweetti ol kaate; akkasumas bamaawwanifi Asheraawwan ⟨את⟩ Yihuudaa irraa haaquu jalqabe.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ol kaate"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onneen isaas"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweetti"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "haaquu jalqabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamaawwan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamaawwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asheraawwan"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asheraawwan"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yihuudaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:42:50.466995324Z",
+  "model": "glm-5.3"
+}

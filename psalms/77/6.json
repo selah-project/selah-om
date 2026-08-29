@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Guyyawwan durii yaadadhe, waggoota baroota dheeraa.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "yaadadhe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyawwan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "durii"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "baroota dheeraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:01.223874091Z",
+  "model": "glm-5.3"
+}

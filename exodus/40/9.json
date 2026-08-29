@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Dibaa fatansaa fudhatteetta, teessoo waan dheeffannaa (Mishkan) fi ⟨את⟩ waan hunda isii jiru dibeessa; teessoo sanaa fi ⟨את⟩ meeshaalee isii hunda qulqulleessitissa, innis ⟨is⟩ qulqullummaa ta'a.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhatteetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fatansaa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dibaa"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fatansaa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dibeessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "teessoo waan dheeffannaa (Mishkan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hunda isii jiru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isii jiru"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "qulqulleessitissa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inni",
+      "marks": "teessoo sanaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isii"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:23.709095233Z",
+  "model": "glm-5.3"
+}

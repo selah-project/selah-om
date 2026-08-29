@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Nu gargaari rakkina irraa; gargaarsi namaa hawwaadha.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "gargaar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "gargaarsa"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "rakkina irraa"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "hawwaa"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "gargaarsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:12.039458316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Hundi bakka tokkotti deema; hundi caasaa irraa ture; hundi caasaatti deebi'a.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Hundi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bakkatti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "caasaa"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "hundis"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bakkatti"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "caasaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:38.253321969Z",
+  "model": "glm-5.3"
+}

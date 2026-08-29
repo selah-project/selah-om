@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Shiime'iis kaatee, harree isaa ⟨את⟩ chiyaasee, Akishitti Gaatii akka ⟨את⟩ gabroota isaa barbaadu deeme. Shiime'iis deeme, ⟨את⟩ gabroota isaa Gaatii irraa deebisee fide.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kaatee"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shiime'ii"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "chiyaasee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harree isaa"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "harree isaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gaatii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "akkas barbaadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabroota isaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shiime'ii"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "deebisee fide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabroota isaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Gaatii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:28.308997017Z",
+  "model": "glm-5.3"
+}

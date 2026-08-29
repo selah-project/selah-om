@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Manneen ijaru fi jiraatu; mo'ota lagatanii fudura isaanii nyaatu.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ijaru"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "lagatanii"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mo'ota"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "nyaatu"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "fudura isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:20:58.453812975Z",
+  "model": "glm-5.3"
+}

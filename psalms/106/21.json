@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Eelisaa, baraachisaa kan isaan oolchuu dagatan, tokko guddoo hojjetuu biyya Mitsraayim keessatti.",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "dagatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eelisaa"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "baraachisaa kan isaan oolchuu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjetuu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "guddoo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "biyya Mitsraayim keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:47.249112253Z",
+  "model": "glm-5.3"
+}

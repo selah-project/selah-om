@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Mosheen Aharooniif ⟨את⟩ jechoota Yahwe hunda isa isa ergene, akkasumas ⟨את⟩ mallannolee hunda isa ajajamu ishee himatee.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "himatee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ergene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mallannolee hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "mallannolee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ajajamu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:18.446861984Z",
+  "model": "glm-5.3"
+}

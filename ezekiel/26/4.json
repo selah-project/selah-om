@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Fi balbaleen Tsor ni-cabsu, mukeen ishee ni-kuffisu; hoo'a ishee irraa naan-hoo'a, fi ⟨את⟩ ishee akka dhokaa qaallaa taasisa.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "ni-cabsu"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "balbaleen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "ni-kuffisu"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "mukeen ishee"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "naan-hoo'a"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "hoo'a ishee"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (Tsor)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "qaallaa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dhokaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:19:54.424596374Z",
+  "model": "glm-5.3"
+}

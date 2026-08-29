@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Akka arganii, beekanii, xiinxalaniis waliin hubatanis—harka Yahwe kana hojjete, Qulqulluun Israa'elis uumeef.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "arganii"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "beekanii"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "xiinxalanii"
+    },
+    {
+      "surface": "וישכילו",
+      "gloss": "hubatanii"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-f"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "Qulqulluun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "uume"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:12.767708353Z",
+  "model": "glm-5.3"
+}

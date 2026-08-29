@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sanduuqa Yahwe gaarii irratti kaa'anii, fi ⟨את⟩ sanduuqicha, fi ⟨את⟩ hantuutota dahaa, fi ⟨את⟩ fakkoo riboo isaanii.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "kaa'anii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqicha"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "sanduuqicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hantuutota dahaa"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "hantuutota"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fakkoo riboo isaanii"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "fakkoo"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "riboo isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:20:49.480617707Z",
+  "model": "glm-5.3"
+}

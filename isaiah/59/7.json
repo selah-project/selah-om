@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Mila isaanii badiitti ni oofamu, fi saffisan dhiiga qulqulluu dhiiguuf; yaadni isaanii yaaddoota faallaa ti — badaan fi cufinsa daandiiwwan isaanii keessatti.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "mila isaanii"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "badiitti"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ni oofamu"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "fi saffisan"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "dhiiguuf"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "yaadni isaanii"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yaaddoota"
+    },
+    {
+      "surface": "און",
+      "gloss": "faallaa"
+    },
+    {
+      "surface": "שד",
+      "gloss": "badaan"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "fi cufinsa"
+    },
+    {
+      "surface": "במסללותם",
+      "gloss": "daandiiwwan isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:47.433572803Z",
+  "model": "glm-5.3"
+}

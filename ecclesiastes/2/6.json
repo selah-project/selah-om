@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani ofiif pooliiwwan bishaan hojjedhe, akka isaan irraa bosona mukawwan umamu dhabamsiisuuf.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "pooliiwwan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "dhabamsiisuuf"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bosona"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "umamu"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mukawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:14.344109884Z",
+  "model": "glm-5.3"
+}

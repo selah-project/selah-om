@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Akka hoolaa bate garaaradhe; barbaadi gabroomaa kee, sababa ajajoota kee hin dagadheef.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "garaaradhe"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "akka hoolaa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bate"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "barbaadi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabroomaa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ajajoota kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "dagadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:33.529415765Z",
+  "model": "glm-5.3"
+}

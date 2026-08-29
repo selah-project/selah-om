@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Migaaretti kee irratti, yaa Eloohiimii Ya'aqob, reebichi fi fardichi hirriba cimaa rafaniiru.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "migaaretti kee irratti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "yaa Eloohiimii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "hirriba cimaa rafaniiru"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "reebichi"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "fardichi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:21.126121779Z",
+  "model": "glm-5.3"
+}

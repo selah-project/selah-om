@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sana booda mootichi Hizkiyaawu aktumatti kachiisee, ⟨את⟩moodleessa magaalaa isaa tokko tokkossee, mana Yahwe ol ba'e.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "aktumatti kachiisee"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyaawu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "tokko tokkossee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moodleessa magaalaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "moodleessa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:05:52.514794728Z",
+  "model": "glm-5.3"
+}

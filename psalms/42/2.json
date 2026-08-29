@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Akka hoofuu bishaan laaftuufi hawwitu, akka kanaan lubbuun keeni hawwitti si dhanda'a, yaa Eloohiim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "akka hoofuu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "laaftuufi hawwitu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawwitti"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "huungifaa bishaanii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kanaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun keeni"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "hawwitti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si dhanda'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:51.135619255Z",
+  "model": "glm-5.3"
+}

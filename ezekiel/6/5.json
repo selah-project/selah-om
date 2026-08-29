@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Gogaa ilmaan Yisraa'el gabateewwan isaanii duratti ni baasa; lafee keessanis bittaa-taateewwan keessan naannootti ni baasa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ni baasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gogaa"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "gabateewwan isaanii"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ni baasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafee keessan"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "lafee keessan"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "naannootti"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "bittaa-taateewwan keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:05:17.116689328Z",
+  "model": "glm-5.3"
+}

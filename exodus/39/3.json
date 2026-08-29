@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Foliiwwan dahaa ⟨את⟩ haphiifachisaniin baafani, dheeda baasaniis biluu keessaa, argee-diimaa keessaa, ruumee diinee shaniitii keessaa fi saaphana keessaa keessatti hojjachuuf — hojii ogeessa herrega qabu.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "haphiifachisaniin baafani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foliiwwan dahaa"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "foliiwwan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahaa"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "baasaniis"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "dheeda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "biluu"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argee-diimaa"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ruumee diinee"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shaniitii"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "השש",
+      "gloss": "saaphana"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ogeessa herrega qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:57.991620975Z",
+  "model": "glm-5.3"
+}

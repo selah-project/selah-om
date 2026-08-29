@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Innis ⟨את⟩ Yišra'el dogoggora Isaa hunda irraa bilisa baafata.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bilisa baafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yišra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yišra'el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dogoggora Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:09.834893270Z",
+  "model": "glm-5.3"
+}

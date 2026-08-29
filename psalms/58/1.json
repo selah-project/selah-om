@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Geeffamaaf — «Hin Balleessinaa» — kan Daawid, miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geeffamaaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "balleessinaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:10.208310030Z",
+  "model": "glm-5.3"
+}

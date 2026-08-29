@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Abiin mootichaa iceena jaallata; Ati sirna qindeessite; iceena fi qajeelina Ya'aqoob irratti hojjette.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Abiin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "iceena"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaallata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "qindeessite"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sirna"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "iceena"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "qajeelina"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'aqoob irratti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjette"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:00.923242044Z",
+  "model": "glm-5.3"
+}

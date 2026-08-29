@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Sana booda onnee Daawid isa tuukkte, waan cenqala waan Shaa'ul qabu buuseef.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sana booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tuukkte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan ... buuseef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "buuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cenqala"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cenqala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'ul qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:47.553146093Z",
+  "model": "glm-5.3"
+}

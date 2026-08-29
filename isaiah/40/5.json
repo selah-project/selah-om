@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Kabajni Yahwe ni mul'ata, dirreen hundi waliin ni argiti, sababaa afaan Yahwe ni dubbate.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ni mul'ata"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabajni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ni argiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dirreen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni dubbate"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:31.324283955Z",
+  "model": "glm-5.3"
+}

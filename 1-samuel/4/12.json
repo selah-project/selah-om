@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Namni Benyaamiin boca lolaa irraa fiizee, guyyaa sanarratti Shiloh dhufe; gaa'elni isaa ceranii, lafinis mataa isaa irratti.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "fiizee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyaamiin"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "boca lolaa irraa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiloh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "gaa'elni isaa"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ceranii"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "lafinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:32.805027732Z",
+  "model": "glm-5.3"
+}

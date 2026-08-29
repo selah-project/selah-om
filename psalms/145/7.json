@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Yaadannoo tollawaa gaarii kee yaachani; qajeelummaa kees shaman.",
+  "tokens": [
+    {
+      "surface": "זֵ֣כֶר",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "tollawaa"
+    },
+    {
+      "surface": "טוּבְךָ֣",
+      "gloss": "gaarii kee"
+    },
+    {
+      "surface": "יַבִּ֑יעוּ",
+      "gloss": "yaachani"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "qajeelummaa kees"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "shaman"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:59.326045080Z",
+  "model": "glm-5.3"
+}

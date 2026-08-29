@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Fi Aharooniin ilmi isaa bishaan ramaa fi dinniicha saffisa keessa jiru, balbala mana walga'ii irraa liqimfatu.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "liqimfatu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniin"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ilmi isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan ramaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ramaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dinniicha"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "dinniicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "saffisa keessa jiru"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:27.300449822Z",
+  "model": "glm-5.3"
+}

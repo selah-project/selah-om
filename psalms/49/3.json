@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Akkuma ilmaawwan aadamii, akkuma ilmaawwan namtoota, tokkummaan dureeyii fi hiyyeeyyii.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namtoota"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tokkummaan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "dureeyii"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi hiyyeeyyii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:04.545863885Z",
+  "model": "glm-5.3"
+}

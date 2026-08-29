@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akkasumas beakaadhaa, Yahwe kan Isatti amaname ofii isaaf akka adda baase; yeroo ani isatti naamu, Yahwe ni dhageessa.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "akkasumas beakaadhaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ofii isaaf adda baase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kan Isatti amaname"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ni dhageessa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "yeroo ani naamu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:22.160855571Z",
+  "model": "glm-5.3"
+}

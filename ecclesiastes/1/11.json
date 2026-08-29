@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yaadannoo warra duraa hin jiru; akkasumas warra boodaa taaniif, warra dhumaatti warra taan wajjin isaanitiif yaadannoon hin taatu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "warra duraa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "warra boodaa"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "taaniif"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "taatu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitiif"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "yaadannoon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wwajjin"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "warra taan"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "dhumaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:28.899286919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Akkansas keruubota lama waan dhahaa ta'an hojjedha; hojii maakusaa'n ⟨את⟩ isaan hojjedha, cinaacha lamaan kapporeetaa irratti.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruubota"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waan dhahaa"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hojii maakusaa'n"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "keruubota"
+    },
+    {
+      "surface": "משני",
+      "gloss": "cinaacha lamaan"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "cinaacha"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporeetaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:03.562100645Z",
+  "model": "glm-5.3"
+}

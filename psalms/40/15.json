@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Warra lubbuu koo barbaadan, na balleessuuf — haa earmataniitu haa itti-poseenu; warra hamtuu koo hawwatanis duubaatti deebi'aniitu haa salphatan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "haa earmataniitu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "haa itti-poseenu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "na balleessuuf"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "haa deebi'an"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "duubaatti"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "haa salphatan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "hawwatan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "hamtuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:58.625578337Z",
+  "model": "glm-5.3"
+}

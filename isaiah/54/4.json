@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Hin sodaatin, sababiin hin saawwamtu; hin aartamtuus, sababiin hin gurra-diigamtu; sababiin saawwinaa umurii da'ii kee ni takkattu, aarsa haadha-man'ummaa kee odoo dabalatti hin yaadattu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Hin"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "sodaatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "saawwamtu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin … -s"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "aartamtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "gurra-diigamtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "saawwinaa"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "umurii da'ii kee"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "ni takkattu"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "aarsa"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "haadha-man'ummaa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "yaadattu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "odoo dabalatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:32.252337980Z",
+  "model": "glm-5.3"
+}

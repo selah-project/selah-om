@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Ijji Yahwe gara warra\trighteous-tiitti, gurri isaa immoo gara baatii isaanii.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ijji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "warra righteous-tii"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "gurri isaa immoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "baatii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:39.845614028Z",
+  "model": "glm-5.3"
+}

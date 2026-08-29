@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Hunda-danda'uu isaaniitiin koohannoottiin taa'ee tajaajiluutti hin dandeenye, sababa fuuldura duubaa duubaa duubaa duubaa duubaa duubaa — maaltu isiitiin: kabaja Yahwe manca biqila — Duubaa duubaa duubaa duubaa duubaa duubaa duubaa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dandeenye"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "koohannoottiin"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "taa'ee"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "tajaajiluutti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "fuuldura duubaa duubaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maaltu isiitiin"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "manca biqila"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:50:16.338596880Z",
+  "model": "glm-5.3"
+}

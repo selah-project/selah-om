@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yerushaalayim dhufe, ji'a shanaffaatti — innis waggaa torbaffa Mootichaati.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ji'a ... ti"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "shanaffaa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "torbaffa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Mootichaati"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:34.001501168Z",
+  "model": "glm-5.3"
+}

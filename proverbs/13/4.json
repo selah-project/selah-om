@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Nefi kan hin hojjened barbaaddee hin qabdu; nefi kan humnaan hojjatan immoo ni ciccimti.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "barbaaddee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabdu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kan hin hojjened"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nefi"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "kan humnaan hojjatan"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ni ciccimti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:12.185042200Z",
+  "model": "glm-5.3"
+}

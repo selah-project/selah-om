@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Saaddiin kiyya Eloohiimtti, saaddiin kiyya Eloohiimtti, innis gurra haa naa kennu.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Saaddiin kiyya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloohiimtti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "saaddiin kiyya (irra-deemii)"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "saaddiin kiyya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloohiimtti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "gurra haa naa kennu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:48.225963090Z",
+  "model": "glm-5.3"
+}

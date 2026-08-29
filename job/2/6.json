@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahweenis Saataaniitti jedhe: Innis harka keetti jira; ⟨את⟩ lubbuu isaa qofa eegi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yahweenis jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Saataani"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu isaa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eegi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:26.384368413Z",
+  "model": "glm-5.3"
+}

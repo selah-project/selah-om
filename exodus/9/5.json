@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwen yeroo murteessaa godhe, akkas jedhe: “Boraa Yahwe jecha kana lafa irratti hojjedha.”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yeroo murteessaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "boraa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:22.260782199Z",
+  "model": "glm-5.3"
+}

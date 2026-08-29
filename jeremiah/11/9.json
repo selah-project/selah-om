@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwe natti jedhe: wal-qabsaa'aa hamaa namoota Yahuudaa keessatti fi kan Yerushaalayim bulchan keessatti argame.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "argame"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "wal-qabsaa'aa hamaa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "namoota... keessatti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "fi kan... bulchan keessatti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T09:30:29.426950807Z",
+  "model": "glm-5.3"
+}

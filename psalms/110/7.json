@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Dhangaggee karaa irraa ni dhuga; kanaafuu mataa isaa ol kaasa.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "dhangaggee"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irraa"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ni dhuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaafuu... irratti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ol kaasa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.013306557Z",
+  "model": "glm-5.3"
+}

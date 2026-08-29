@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Namni yoo raawwaa ta'e, murtee fi qajeelummaa hojjedhe —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "namni yoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtee"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "qajeelummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:13:52.722836503Z",
+  "model": "glm-5.3"
+}

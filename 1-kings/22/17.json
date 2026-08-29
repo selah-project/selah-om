@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Innis jedhe: Ani Israa'el hunda ⟨את⟩ akka hoolaa abbaa hoolaa hin qabne taatanitti gaarreen irratti baballamanii argadhe. Yahwe'nis jedhe: Kunoota bulchitoota hin qaban; namni tokko tokko mana isaa haa deebi'u, nagaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "baballamanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "akka hoolaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taatanitti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "abbaa hoolaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "bulchitoota"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "kunootaf"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "haa deebi'u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nagaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:34.846175766Z",
+  "model": "glm-5.3"
+}

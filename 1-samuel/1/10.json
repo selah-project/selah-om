@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isheenis waan sammuun ishee ibiddaa ta'eef, gara Yahwe haa kadhatuutti baate; akka jeeqamuutti jeeqde.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Isheenis"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "waan...ibiddaa ta'eef"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sammuun ishee"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "haa kadhatuutti baate"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "akka jeeqamuutti"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "jeeqde"
+    }
+  ],
+  "timestamp": "2026-08-29T14:41:35.926928718Z",
+  "model": "glm-5.3"
+}

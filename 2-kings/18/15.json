@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Hizqiyaayah ⟨את⟩ qulqullummoo hunda mana Yahwe keessatti argame, fi kuusota mana mootichaa keessatti argame isaaf kenne.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizqiyaayah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulqullummoo hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qulqullummoo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "argame"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "fi kuusota"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:30.188195911Z",
+  "model": "glm-5.3"
+}

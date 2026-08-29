@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Ani amaneera akka ani dubbadhu; ani baay'ee rakkateera.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "amaneera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka (sababa)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "rakkateera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.489433807Z",
+  "model": "glm-5.3"
+}

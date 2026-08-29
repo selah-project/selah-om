@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Rinjjeessaa, buni hin baneessinaa; onnee keessan keessatti himaa, hirriba keessan irratti, aa'dhaa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "rinjjeessaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "baneessinaa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "himaa"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "onnee keessan keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "hirriba keessan"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "aa'dhaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:45.070314925Z",
+  "model": "glm-5.3"
+}

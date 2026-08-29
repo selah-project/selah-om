@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ijooshaafaat ilma isaa booda mootan, ofii Israa'iil irratti cimsees dhaabate.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "mootan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Ijooshaafaat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "booda isaa"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ofii dhaabate"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-08-29T13:56:32.766766755Z",
+  "model": "glm-5.3"
+}

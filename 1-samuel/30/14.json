@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "\"Nutii humna Bobaatti Keeretii, Biyya Yehudaafi Bobaatti Kaaleeb irratti gargar-baane; Tsikilagamis ⟨את⟩ ibiddaatin gubne.\"",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "humna... gargar-baane"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Bobaatti"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "Keeretii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Biyya Yehudaati"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Bobaatti"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaaleeb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsikilag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsikilag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "gubne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:36:11.114533540Z",
+  "model": "glm-5.3"
+}

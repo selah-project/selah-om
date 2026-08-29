@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mosheenis jedhe: Kun jecha Yahwe ajajedha: guutuun oomera isaa irraa durtii kee isiniif eegamuu dhaan haa eegamu, akka isaan soorata akkan isin baafte Baadiyyaa keessatti, erga isin biyya Mitsraayim irraa baasee, argani danda'anuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guutuun"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "oomera"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "eegamuu dhaan haa eegamu"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "durtii kee isiniif"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "argani danda'anuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soorata"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akkan"
+    },
+    {
+      "surface": "האכלתי",
+      "gloss": "isin baafte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "Baadiyyaa keessatti"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "erga ... baasee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:30.984293947Z",
+  "model": "glm-5.3"
+}

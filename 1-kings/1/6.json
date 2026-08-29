@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Abbaan isaa immoo guyyoota isaa irratti hin geejjebamuu turre, 'Maalaf akkas taasisteetta?' jedhuuf; inni moo qaama caalaatti bareedaa ture; haati isaa ⟨את⟩ Avshalom booda isaa dhugutti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "geejjebamuu turre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "Abbaan isaa"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "guyyoota isaa irratti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuf"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maalaf"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "taasisteetta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "inni moo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "caalaatti"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "qaama bareedaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "al-likiinsaan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhugutti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:07.058682044Z",
+  "model": "glm-5.3"
+}

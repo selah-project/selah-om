@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Abbaa seeraa dallansuu hin ta'in, akka dallaa biqiltuu hin ta'in; maaliif of balleessisa?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ta'in"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "abbaa seeraa dallansuu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "dallansuu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "akka dallaa biqiltuu hin ta'in"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "dallaa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "of balleessisa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:23.632706660Z",
+  "model": "glm-5.3"
+}

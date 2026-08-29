@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Isin keessaa eenyu kun simata? Eenyu dadhabeessu fi fuulduraaf dhaggeeffata?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "isin keessaa"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "simata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "dadhabeessu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "fi dhaggeeffata"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "fuulduraaf"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:33.620821560Z",
+  "model": "glm-5.3"
+}

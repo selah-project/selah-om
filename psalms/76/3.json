@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "⟨Isaa⟩ taasise Saalaamitti ganna isaa, mana jireenyaa isaaas Siyoonitti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨Isaa⟩ taasise"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Saalaamitti"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ganna isaa"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "mana jireenyaa isaaas"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siyoonitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:14.092100695Z",
+  "model": "glm-5.3"
+}

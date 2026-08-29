@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Isaanis ummata irraa gara ummata biraa, mootummaa irraa gara ummata birooitti utuuqanii turan.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "utuuqanii turan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ummata irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ummata biraa"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "mootummaa irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata birooitti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biroo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:51.889956531Z",
+  "model": "glm-5.3"
+}

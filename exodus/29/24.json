@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Hunda harka Aharooni irratti fi harka ilmaan isaa irratti geessisa; isaanis ⟨את⟩ wajjin bay'ee sodhii (teenuphaa) Yahwe wajjin biraa taasifta.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "geessisa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilman isaa"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "bay'ee sodhii taasifta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaanis"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "(teenuphaa)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wajjin biraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:04.939880623Z",
+  "model": "glm-5.3"
+}

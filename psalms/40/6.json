@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Hojjetaa baay'ee hojjete Ata, Yahwe Eloohiim kiyya; ajajaawwan kee fi amalawwan kee nu wajjin — kan sirtuuatti sirreeffamu sii hin jiru; yoo himadhe ani, himaadha — baay'ina isaanii lakkoofsuu hin danda'u.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "ajajaawwan kee"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "fi amalawwan kee"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nu wajjin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "kan sirtuuatti sirreeffamu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "himaadha"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "fi himaadha"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "baay'ina isaanii"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsuu hin danda'u"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:24.374531094Z",
+  "model": "glm-5.3"
+}

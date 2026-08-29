@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Harka isaa biyyoottii irratti ni darguu; biyyi Mitsraayim milaawaa hin taatu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ni darguu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "biyyoottii irratti"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "biyyii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taatu"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "milaawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:12:02.718782509Z",
+  "model": "glm-5.3"
+}

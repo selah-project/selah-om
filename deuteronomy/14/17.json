@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "fi qaa'aa, fi ⟨את⟩ raahaamaa, fi ⟨את⟩ shaalak.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "fi qaa'aa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raahaamaa"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "raahaamaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shaalak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shaalak"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:41.263996442Z",
+  "model": "glm-5.3"
+}

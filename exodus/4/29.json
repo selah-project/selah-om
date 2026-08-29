@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Moshee fi Aharooni deemanii garoota ilmaan Israa'elii hunda ⟨את⟩ walitti qabani.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharooni"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "walitti qabani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "garoota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:21.135421721Z",
+  "model": "glm-5.3"
+}

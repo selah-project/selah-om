@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Isci ilmaan isaatii ajaje: Harree naa booda dhaabaa. Isan booda dhaabaniiru.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "garatti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaatii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "booda dhaabaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harree"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "dhaabaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:39.392315679Z",
+  "model": "glm-5.3"
+}

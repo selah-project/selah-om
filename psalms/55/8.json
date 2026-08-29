@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Kunoo, fageetti baafadha, bosonaatti hawwadha — Seelaa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "fageetti"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "hawwadha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bosonaatti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:37.585115013Z",
+  "model": "glm-5.3"
+}

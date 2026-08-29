@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 22:29",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Bilamis gaafa sanaa sanaatti, \"Sababa waan na geftee fi na qallinaa dhaabtee fi! Waan hattuu kiyya na jala taateetti, yeroo kana dhiiga na ajjeesa!\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לאתון",
+      "gloss": "gaafa sanaa sanaatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "התעללת",
+      "gloss": "na geftee fi na qallinaa dhaabtee"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viigi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hattuu"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "harka kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo kana"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yeroo kana"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "dhiiga na ajjeesa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:30:58.436523904Z",
+  "model": "glm-5.3"
+}

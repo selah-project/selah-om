@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Sakattaawwan galata galchuu godhuun, hojii isaa sirreeffatanis iiyyuun himanii haalatu.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "sakattaawwan godhuun"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sakattaawwan"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "galata galchuu"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "iyyuun himanii haalatu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hojii isaa"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "iiyyuun"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:27.293122412Z",
+  "model": "glm-5.3"
+}

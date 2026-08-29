@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Bakka bal'aa bahee ⟨את⟩ aniga na baafate; sababa inni ana jaalateef.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "bakka bal'aa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "na baafate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:59:34.723191011Z",
+  "model": "glm-5.3"
+}

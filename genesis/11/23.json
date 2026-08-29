@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Seerug erga ⟨את⟩ Naahor uumee booda waggaa dhibba lama jiraate; ilmoo fi intalan dhalate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seerug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga...booda"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "uumee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naahor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dhibba lama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi intalan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:34.627589450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Dhiira ⟨את⟩ wajjin dhaddacha dubartii ti'in hin seatu; baafamaa ⟨is⟩ dha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhiira"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "seatu"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "baafamaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:27:20.192663035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Garuu balleessaa mana Yaarobaam irraa hin deebiine, Isaara'el waan inni ⟨את⟩ Israa'el ishee balleessuuf isa hiikse san keessa deemanii; Asheeranis Shomeroon keessatti turre.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "deebiine"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "balleessaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaarobaam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "balleessuuf isa hiikse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "…nis"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asheeran"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "turre"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeroon keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:32:00.241005479Z",
+  "model": "glm-5.3"
+}

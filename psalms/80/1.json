@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Geejjibaraaf, irratti Shoshanniim-Edut — kan Asaaf ragaa, gabatee zaabaniaa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geejjibaraaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanniim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut (ragaa)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kan Asaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "gabatee zaabaniaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:53.764205330Z",
+  "model": "glm-5.3"
+}

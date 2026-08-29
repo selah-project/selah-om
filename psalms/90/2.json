@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Adoo daggaan dhalatan dura, akkasumas biyya fi addunyaa uumuu kee dura — bara hin dabarsaannee bara hin dabarsaanneetti, ati Eel taateetta.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "daggaan"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "uumuu kee dura"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "bara hin dabarsaannee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bara hin dabarsaanneetti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:32.791417319Z",
+  "model": "glm-5.3"
+}

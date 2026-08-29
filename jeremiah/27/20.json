@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Waan Nebukadnetsar, mootii Baabel, yeroo ⟨את⟩ Yekonyaa, ilma Yehooyaakiim, mootii Yehudaa, Yerushaalayim irraa gara Baabel hiikanuu isaa hin fudhanetti, fi ⟨את⟩ hunda gurguddoota Yehudaa fi Yerushaalayim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "fudhanetti"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "yeroo hiikanuu isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonyaa"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehooyaakiim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushaalayim irraa"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "gara Baabel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "hunda gurguddoota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "gurguddoota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "fi Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T09:42:59.095906954Z",
+  "model": "glm-5.3"
+}

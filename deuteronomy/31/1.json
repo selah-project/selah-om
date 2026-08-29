@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Mosheen deeme jechoota kanaan hundee Israa'iiliitiin dubbate.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kanaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hundee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iiliitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:37:07.981302415Z",
+  "model": "glm-5.3"
+}

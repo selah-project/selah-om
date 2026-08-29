@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Fi teessoo jireenyi isaanii Meshaa irraa, akka deemuutti gara Sefaaraa, gaaricha bahaatti ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "teessoo jireenyi isaanii"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "Meshaa irraa"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "akka deemuutti"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "gara Sefaaraa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaaricha"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "bahaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:44.489215198Z",
+  "model": "glm-5.3"
+}

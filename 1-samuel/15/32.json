@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Samu'els jedhe: Agaag mootii Amalek natti dhiyeessaa. Agaags gammachuudhaan isa bira dhufe. Akkas jedhe Agaag: dhugumatti miidhaan du'aa deemeera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samu'el"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "dhiyeessaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaag mootii Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa bira"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "gammachuudhaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Akkas jedhe"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "סר",
+      "gloss": "deemeera"
+    },
+    {
+      "surface": "מר",
+      "gloss": "miidhaan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:04.355831497Z",
+  "model": "glm-5.3"
+}

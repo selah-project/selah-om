@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Eel inni humna na heexora, karaa koo guutuu taasise.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "inni humna na heexora"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.971444902Z",
+  "model": "glm-5.3"
+}

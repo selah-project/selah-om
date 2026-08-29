@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Ya'aqoobis Raachielitti ofii balaaleffate; \"Ani Eloohiim bakka bu'aa, waan gara keetii haaroo garaa dhale hin deebisuuf?\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ofii balaaleffate"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ofii (hammu)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Raachielitti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "bakka bu'aa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "hin deebisuuf"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gara keetii"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "haaroo"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "garaa (dhaluu)"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:00.718127597Z",
+  "model": "glm-5.3"
+}

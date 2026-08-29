@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Samiiwwan fi ⟨the⟩ lafa xumuramanitti, akkaanotni isaanii hundiis.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "xumuramanitti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "fi ⟨the⟩ lafa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundiis"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "akkaanotni isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:22.567875900Z",
+  "model": "glm-5.3"
+}

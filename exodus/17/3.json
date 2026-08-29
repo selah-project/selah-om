@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Sabaan achitti bishaanitti dheebabde; sabaan immoo Moshee irratti fajjedde, \"Maaltu kun? Mitsraayim irraa nu ol baaftee, ⟨את⟩ ana fi ⟨את⟩ ilmaan koo fi ⟨את⟩ beylada koo dheebinaan ajjeefnuuf?\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "dheebabde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "למים",
+      "gloss": "bishaanitti"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "fajjedde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "nu ol baaftee"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ajjeefnuuf"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan koo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan koo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beylada koo"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "beylada koo"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "dheebinaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:13.813758295Z",
+  "model": "glm-5.3"
+}

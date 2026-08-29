@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Isin mirga Mitsraayim irraa fi mirga warra hunda isin miilessan irraa baase; ⟨את⟩ isaan fuula isinii dura gad-baase, ⟨את⟩ biyyi isaanii isiniif kenne.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "baase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "baafamuu isin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mirga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "fi mirga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "isin miilessan"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "fi gad-baase"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "isaan (warra ajajamtootaa)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "fuula isinii dura"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "fi kenne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyyi isaanii"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "biyyi isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:03:07.412793160Z",
+  "model": "glm-5.3"
+}

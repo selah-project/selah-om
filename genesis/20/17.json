@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Abraaraamis Eloohiimitti haafficatțe; Eloohiimiis ⟨את⟩ Abiimelekii fi ⟨את⟩ dheetti isaa fi dirtootii isaa rakkisee fayyissee; isaaninis ijji.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "haaffi-catțe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraaraam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimitti"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "fayyissee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiimelekii"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelekii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheetti isaa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "dheetti isaa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "dirtootii isaa"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ijji"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:08.086994560Z",
+  "model": "glm-5.3"
+}

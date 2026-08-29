@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Ani immoo, 'Dhukkubni kiyya kun' jedhe; yeroowwan harka mirgaa Kan Ol'aanaa yaadadhe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ani immoo jedhe"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "dhukkubni kiyya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "yeroowwan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "harka mirgaa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Kan Ol'aanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:10.898013474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Mootichi Yisraa'els ni je, \"Tookatoo! Yahwe mootota saddon kana waamuu ⟨את⟩ isaaniis harka Moo'aabitti kennuuf.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Tookatoo!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "saddon"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kennuuf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaaniis (mootota kana)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:43.850804220Z",
+  "model": "glm-5.3"
+}

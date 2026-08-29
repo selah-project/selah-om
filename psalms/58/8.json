@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Akka bishaanitti haa baddadan, haa imanu; yeroo sarara isaa tiru, akka jenne haa ciccitan.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "haa baddadan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "haa imanu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "yeroo tiru"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "sarara isaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יתמוללו",
+      "gloss": "haa ciccitan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:55.441103661Z",
+  "model": "glm-5.3"
+}

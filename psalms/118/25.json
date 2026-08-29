@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Yaa Yahwe, nan-tumaa nu-ebbisii; yaa Yahwe, nan-tumaa nu-milkeessii.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "nu-ebbisii"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nan-tumaa"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "nu-milkeessii"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nan-tumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:26.115052988Z",
+  "model": "glm-5.3"
+}

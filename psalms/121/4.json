@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Kunoo, kan eegu Israa'eel hin boco'u, hin hirribuus.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "boco'u"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "hirribuus"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "kan eegu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:52.460010616Z",
+  "model": "glm-5.3"
+}

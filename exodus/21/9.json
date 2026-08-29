@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo gara ilmaan isaa ishee qunnamsiise, akka seera intaltawaa ishee godha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "gara ilmaan isaa"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "ishee qunnamsiise"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akka seera"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "intaltawaa"
+    },
+    {
+      "surface": "יועשה",
+      "gloss": "godha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:28.344873718Z",
+  "model": "glm-5.3"
+}

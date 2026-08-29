@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Yahwe inni eega, inni jiraachisa; lafa irratti ⟨is⟩ eebbaa qaba; luba fojitootaa isaatti hin kennitu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "inni eega"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "inni jiraachisa"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "eebbaa qaba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "luba"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "fojitootaa isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:39.856441011Z",
+  "model": "glm-5.3"
+}

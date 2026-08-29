@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Gareen jireenyaa kee ishee keessa jiraachaa ture; ati, Eloohiim, toltummaa keetiin kan hiyyeentiif qopheessite.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "gareen jireenyaa kee"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessa"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "qopheessite"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "toltummaa keetiin"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kan hiyyeentiif"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:59.567273019Z",
+  "model": "glm-5.3"
+}

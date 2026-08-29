@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Sukkuume, hiriina guutuu; waan gaariis dhisuu dhisu; madaan kiyyaKSAA na daddabsiise.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Sukkuume"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "hiriina guutuu"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "dhisuu dhisu"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "waan gaariis"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "madaan kiyya"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "na daddabsiise"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.490252266Z",
+  "model": "glm-5.3"
+}

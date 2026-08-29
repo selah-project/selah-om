@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yeroo sagaleen isaa jaalallee mul'isu, isa hin amanin; sababiin abuusawwan torba onnee isaa keessatti jiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "jaalallee mul'isu"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sagaleen isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "amanin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "abuusawwan"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "onnee isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:11:48.409974981Z",
+  "model": "glm-5.3"
+}

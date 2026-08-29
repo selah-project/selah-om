@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Akkasumas Daawid ilma isaa Shelomohiif kenne ⟨את⟩ qaabni bocaa daawwaa fi ⟨את⟩ maneewwan isaa, gordinniwwan isaa, bitooteewwan ol-kaa'aa fi kutaawwan keessaa, akkasumas mana gatii araaraa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomohiif"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaabni bocaa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "qaabni bocaa"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "daawwaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maneewwan isaa"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "maneewwan isaa"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "gordinniwwan isaa"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "bitooteewwan ol-kaa'aa"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "kutaawwan"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "gatii araaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:48:21.151490340Z",
+  "model": "glm-5.3"
+}

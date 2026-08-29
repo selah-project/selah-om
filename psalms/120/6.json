@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 120,
+  "translation": "Baay'ee dheeraaf nafsi koo wajjin jiraatte kan shaloom jibbuu wajjin.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Baay'ee dheeraaf"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "jiraatte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nafsi koo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi koo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kan jibbuu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shaloom"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:47.690153560Z",
+  "model": "glm-5.3"
+}

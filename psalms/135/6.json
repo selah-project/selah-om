@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Wanta Yahwe fedhe hunda samii keessatti fi lafa keessatti, bishaan gurguddaa keessatti fi gadii bishaanii hunda irratti hojjete.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "fi lafa keessatti"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "bishaan gurguddaa keessatti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "gadii bishaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:13.386893151Z",
+  "model": "glm-5.3"
+}

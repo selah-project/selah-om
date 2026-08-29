@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Moo'aabnis Israa'el irratti fincile, booda du'a Achaab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "fincile"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aabnis"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el irratti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaab"
+    }
+  ],
+  "timestamp": "2026-08-29T08:22:04.180613848Z",
+  "model": "glm-5.3"
+}

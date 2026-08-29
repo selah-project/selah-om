@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Wanti hundaaf yeroo murtaa'eetu jira, fi wanta barbaaddamu hundaaf yeroon jira, adaadii samii jalatti.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "wanta hundaaf"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "yeroo murtaa'eetu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wanta barbaaddamu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "adaadii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii jalatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:53.227807564Z",
+  "model": "glm-5.3"
+}

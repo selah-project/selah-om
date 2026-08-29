@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Garuu kun ⟨את⟩ isin hin nyaatan: giraa ol-geessanoota irraa fi paarsicha qoodanoota irraa — ⟨את⟩ gaalichi; inni giraa ol-geessa, paarsa ammoo qooddee hin qabu; inni isiniif najaa dha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaatan"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "ol-geessanoota irraa"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "girrichaa"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "fi qoodanoota irraa"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "paarsichaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaalicha"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "gaalichi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ol-geessa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "giraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "fi paarsa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "qooddee"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:48.676478978Z",
+  "model": "glm-5.3"
+}

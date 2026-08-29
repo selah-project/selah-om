@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Yoo hattuu argite, isa wajjin ijaarrattaa; qoodduun kees warra saaxilaa wajjin ti.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "argite"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "hattuu"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ijaarrattaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "warra saaxilaa"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "qoodduun kees"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:10.447887788Z",
+  "model": "glm-5.3"
+}

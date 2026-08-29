@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Boollawwan isaanii uffaataa hin ta'an; hojii isaanii isaan hin lifatan. Hojii isaanii hojii faallaa ti, hojii miil-dhagaa harka isaanii keessatti.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "boollawwan isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "uffaataa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "lifatan"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "hojii isaanii isaaniin"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hojii isaanii"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "און",
+      "gloss": "faallaa"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "fi hojii"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "miil-dhagaa"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "harka isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:47.433388592Z",
+  "model": "glm-5.3"
+}

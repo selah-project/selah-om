@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Achaz immoo qurfii fi warqii mana Yahwe keessatti argame fi kuufama mana mootichaa keessatti argame fudhachuun, mootii Ashuritti kennaa godhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhachuun"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurfii"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qurfii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warqii"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warqii"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "argame"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "fi kuufama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootii... itti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kennaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:37:05.791328005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sanyunni qabancaa isaa beeka, harreenis booda abbaa isaa beeka; Israa'eli garuu hin beeku, ummatni kiyya hin xinxeeffatu.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sanyunni"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "qabancaa isaa"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "harreenis"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "booda"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummatni kiyya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "xinxeeffatu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:57:04.995608372Z",
+  "model": "glm-5.3"
+}

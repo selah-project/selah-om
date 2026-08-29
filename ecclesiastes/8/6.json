@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Waanti barbaachisaa hundaaf yeroo fi murtee jira; sababiin hamtiin namaa irra baay'ee guddaa dha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "waanti barbaachisaa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi murtee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "hamtiin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irra"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:04.308668745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Sababiin mirgaa fi bitaatti ni baafata, fi sanyii kee saboota ni qabata, fi magaalota dhiifaman ni jiraattu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mirgaa"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "fi bitaatti"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ni baafata"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "fi sanyii kee"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ni qabata"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "fi magaalota"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "dhiifaman"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "ni jiraattu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:32.252155472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Duumessi funyaan isaa keessaa ol ba'e, ibiddi afaan isaa irraa bahe ni baafate; gubaa-aduuwwan isarraa gubaniiran.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "duumessi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "funyaan isaa keessaa"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "afaan isaa irraa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ni baafate"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gubaa-aduuwwan"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "gubaniiran"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isarraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.610616444Z",
+  "model": "glm-5.3"
+}

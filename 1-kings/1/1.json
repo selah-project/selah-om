@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mootichi Daawid dulluu bahe, guutuu guutuu guyyootaatti dhufe; waan isaa soorataniiran, garuu ho'a isaa hin argatu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "dulluu bahe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "guutuu guutuu guyyootaatti"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "waan isaa soorataniiran"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "waan isaa soorataniiran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ho'a isaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "argatu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:00:35.722698225Z",
+  "model": "glm-5.3"
+}

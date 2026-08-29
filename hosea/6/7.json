@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Isaan garuu akka Aadaam kakuu dabran; achitti natti rikkatan.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "isaan garuu"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "akka Aadaam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dabran"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "rikkatan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:33.494070054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Yoon 'miila kiyya fo'aa'aa jedhe, kheesed-keey kiyya, yaa Yahwe, na regarsaa jira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "yoon jedhe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fo'aa'aa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miila kiyya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-keey kiyya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "na regarsaa jira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:15.914019019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Dullaa-dullaa keessatti, galgala guyyaa, dukkana guddaa halkanii fi dukkana guguddaa keessatti.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "dullaa-dullaa keessatti"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "dukkana guddaa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkanii"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "fi dukkana guguddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:50.416098699Z",
+  "model": "glm-5.3"
+}

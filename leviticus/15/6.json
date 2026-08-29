@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Namni meeshaa kan bahu irratti bobbe, uffata isaa ni dhiqata, bishaanitti dhiqata, hanga galgalaatti hin qulqulluune.",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "namni bobbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "meeshaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bobbe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "kan bahu"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ni dhiqata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uffata isaa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhiqata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaanitti"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "hin qulqulluune"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galgalaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:31.736622786Z",
+  "model": "glm-5.3"
+}

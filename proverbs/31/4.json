@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Moototaaf hin taane, yaa Lemu'el; moototaaf hin taane waan dhugaati, abbooti muraaafis wanta sammuu dancheessu hin taane.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "moototaaf"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "yaa Lemu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "moototaaf"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "waan dhugaati"
+    },
+    {
+      "surface": "יין",
+      "gloss": "dhugaati"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "abbooti muraaafi"
+    },
+    {
+      "surface": "או",
+      "gloss": "wanta...dancheessu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sammuu dancheessu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:09.688181686Z",
+  "model": "glm-5.3"
+}

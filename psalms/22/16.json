@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Humna koo akka meeshaa dhoqo qorroo ta'e, arrabaan koo massaawwan koo waliin maxxanne, maatisa biyye du'aa na gatte.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "qorroo ta'e"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "akka meeshaa dhoqo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "humna koo"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "arrabaan koo"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "maxxanne"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "massaawwan koo"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "maatisa biyye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "na gatte"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:48.004651031Z",
+  "model": "glm-5.3"
+}

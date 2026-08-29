@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Yahwe hundaaf tola ⟨dha⟩, rahmanni Isaa hojiiwwan Isaa hunda irratti ⟨jira⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "rahmanni Isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hojiiwwan Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:53.486258312Z",
+  "model": "glm-5.3"
+}

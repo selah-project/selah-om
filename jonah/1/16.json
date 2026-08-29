@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Namoonni Rabbiin ⟨את⟩ Yahwe sadarkaa guddaadhin beekabudaniis Yahwef bishan qalaniis kakuwwan kakatan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "beekabudaniis"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "Namoonni"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sadbii"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaadhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "bishan qalaniis"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "waldaan qalamaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "kakatan"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "kakuwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:10.271708345Z",
+  "model": "glm-5.3"
+}

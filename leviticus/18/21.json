@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Sanyi kee irraas Mooolekhiif dabarsuuf hin kennitu, maqaa Eloohiim kee hin dallamsiisin ⟨את⟩; ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "sanyi kee irraas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "dabarsuuf"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Mooolekhiif"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "dallamsiisitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:27:20.192435750Z",
+  "model": "glm-5.3"
+}

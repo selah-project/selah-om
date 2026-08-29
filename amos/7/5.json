@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Aniinis ni jedhe: Adoonaay Yahwe, maaloo dhiisi; eenyu Ya'aqobee ni kaata? sababa inni xiqqaa dha.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "aniinis ni jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "dhiisi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eeyu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ni kaata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T10:50:06.706942141Z",
+  "model": "glm-5.3"
+}

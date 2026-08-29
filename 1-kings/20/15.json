@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Achumaan dargaggoota abbootii biyyootaa tuule; dhibba lama fi soddoma lama ta'an; isaan booda immoo ummata hunda — ilmaan Israa'el hunda — kuma torba tuule.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "tuule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dargaggoota abbootii biyyootaa"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "dargaggoota"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "biyyootaa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dhibba lama"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi soddoma lama"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "isaan booda"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "tuule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:38.936199697Z",
+  "model": "glm-5.3"
+}

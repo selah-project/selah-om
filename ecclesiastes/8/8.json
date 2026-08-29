@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Hafuura too'achuu danda'u nama hin jiru, ⟨את⟩ hafuura dhaabachuuf; guyyaa du'aa irrattiis too'annaa hin jiru; lola keessattis dhiifama hin jiru; hamtuun ⟨את⟩ warra ishee qabdu hin baraarbartu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "too'achuu danda'u"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "hafuura"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "dhaabachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hafuura"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "hafuura"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "too'annaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "המות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "dhiifama"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "lola keessatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "baraarbartu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamtuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra ishee qabdu"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "warra ishee qabdu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:04.309054740Z",
+  "model": "glm-5.3"
+}

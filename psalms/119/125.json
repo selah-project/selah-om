@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ani gabicha keeti; hubachiisi na godhi, akkasumas ragoo kee beeku.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "gabicha keeti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "hubachiisi na godhi"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "akkasumas beeku"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ragoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:36.623981758Z",
+  "model": "glm-5.3"
+}

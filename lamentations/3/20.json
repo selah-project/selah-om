@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yaadachuun yaadadha; naphee kiyyas ana irratti gadi bu'a.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Yaadachuun"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "yaadadha"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "gadi bu'a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naphee kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T12:44:48.329389046Z",
+  "model": "glm-5.3"
+}

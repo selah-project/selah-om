@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Dhugumatti miphaasoon maqaa kee galata galchu; qajeelonni ⟨את⟩ fuula kee fuulduratti jiraatu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "miphaasoon"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "galata galchu"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "qajeelonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kee"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:51.819914164Z",
+  "model": "glm-5.3"
+}

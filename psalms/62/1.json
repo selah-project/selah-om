@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Bulucha muuziqaa qabuuf, Yeduutuuni irratti, miizwaamara Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulucha muuziqaa qabuuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yeduutuuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "miizwaamara"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:40.439796395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 14:40",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Israa'el hundaatis jedhe: «Isintokko walitti ta'aa koo tokko ta'aa; ani fi ilma koo Yonataanis koo biraa taana.» Ummataanis Sha'uuliin jedhan: «Waan ija keetti tolu hojjedhu.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaatis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ta'aa"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "walitti koo tokko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "fi Yonataanis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma koo"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "taana"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "koo biraa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ummataanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uuliin"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "Waan tolu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ija keetti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:26:25.834147804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Ruuḥooni kiyyas irratti koome — onnee kiyyas keessa dabarte.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "koome"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti kiyya"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuḥooni kiyya"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "keessa kiyya"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "dabarte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:06.970444478Z",
+  "model": "glm-5.3"
+}

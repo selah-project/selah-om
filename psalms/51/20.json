@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Jaalala keetiin ⟨את⟩ Tsiyoon toladdhu; cuukkeewwan Yerushaalayim iigadhu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "toladdhu"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "Jaalala keetiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyoon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "iigadhu"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "cuukkeewwan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:13.587531786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimni lafa hoojjettooftuu \"lafa\" jedhe; walitti qabamni bishaan immoo \"bishaan daloolaa\" jedhe. Eloohiimni akka ⟨inni⟩ gaarii ta'e argate.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimni"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "lafa hoojjettooftuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "walitti qabamni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bishaan daloolaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:40.314629296Z",
+  "model": "glm-5.3"
+}

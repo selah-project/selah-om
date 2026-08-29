@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Onnee isaanii keessatti jedhan: 'Hundi waliin isaan balleessinaa'; galmee Eel hunda biyya keessatti ni guban.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "onnee isaanii keessatti"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "isaan balleessinaa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hundi waliin"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ni guban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "galmee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:41.887808890Z",
+  "model": "glm-5.3"
+}

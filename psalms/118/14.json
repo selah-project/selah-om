@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Humna kiyyaasaa fi sirboota kiyyaasaa Yaah ⟨is⟩; Inni karaa-baasu'aa ta'ee naa-ta'ee ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "humna kiyyaasaa"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "sirboota kiyyaasaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Inni ta'ee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa-ta'ee"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "karaa-baasu'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:21.647472046Z",
+  "model": "glm-5.3"
+}

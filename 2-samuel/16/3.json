@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mootiinis jedhe: \"Ilmoon Adoonaay kee eessa jira?\" Siibaanis mootaa'ef jedhe: \"Kunoo, Yerushaalayim keessatti jira; sababiin asii 'Har'a mana Israa'el ⟨את⟩ mootummoota abbaa koo naa deebisa' jedheera.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "eessa jira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Adoonaay kee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Siibaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jira"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin asii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedheera"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Har'a"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootummoota"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummoota"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:43.014280198Z",
+  "model": "glm-5.3"
+}

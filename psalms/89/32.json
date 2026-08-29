@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "yoo seerota kiyya balleessan, ajaja kiyyas hin eegan,—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "seerota kiyya"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ajaja kiyyas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "eegan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:01.297299065Z",
+  "model": "glm-5.3"
+}

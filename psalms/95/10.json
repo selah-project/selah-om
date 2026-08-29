@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Waggaa afurtamii dhaloota sana wajjin dheebadhe; ani nan jedhe: ummata onnee isaatii jeeffame dha; isaan karaa kiyya hin beekane.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "afurtamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "dheebadhe"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dhaloota sana wajjin"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ani nan jedhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "jeeffame"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee isaatii"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dha"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekane"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:17.547039508Z",
+  "model": "glm-5.3"
+}

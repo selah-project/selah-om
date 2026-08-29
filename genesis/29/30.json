@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Innis Raachiilisitti seense; Raachiiltis Leah irra caalaa jaalate ⟨את⟩; Lavaanis wajjin adeemsee waggaa torba kan biroo adeeme.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "seense"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Innis ... -is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-itti"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raachiil"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-tis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raachiil"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raachiil"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "Leah irra caalaa"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "adeeme"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Lavaanis wajjin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Adeemsee"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "kan biroo"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:04.960380035Z",
+  "model": "glm-5.3"
+}

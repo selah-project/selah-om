@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Nyaatuun miidhaa isaa of baafata, sababaa qulqullina Yahwe ⟨את⟩ balleesseef; hafuura sun ummata isheetiin wal-baafamti.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Nyaatuun"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "miidhaa isaa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "of baafata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa ... -eef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulqullina Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "balleesse"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "wal-baafamti"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "hafuura sun"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sun"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ummata isheetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:35.322985510Z",
+  "model": "glm-5.3"
+}

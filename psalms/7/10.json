@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Haadhaa warra gabrotootaa yaa xumuru; qajeelas yaa dhugaa dhaabbisu; kan onneewwan fi calallaa qoratu — Eloohiim qajeelaadha.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "yaa xumuru"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "haadhaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra gabrotootaa"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "yaa dhugaa dhaabbisu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelas"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "kan qoratu"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "onneewwan"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "fi calallaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:56.706399161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Kan baha Yahwen jenna ija Isaa keessatti hojjate, badii Yarobeaam ilma Nebat, isa Israa'el ⟨את⟩ dogoggorse deeggise, hordofe; ishee irraas hin bayne.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "waan baha ta'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ija … keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "hordofe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "duuka"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "badii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeaam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "dogoggorse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bayne"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:36.488062323Z",
+  "model": "glm-5.3"
+}

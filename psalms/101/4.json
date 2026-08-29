@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Onneen dacha'u irra koo baafama; hamtuu hin beeku.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "dacha'u"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "baafama"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "irra koo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeku"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:27.303105975Z",
+  "model": "glm-5.3"
+}

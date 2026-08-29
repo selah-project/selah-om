@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Adaanis ⟨את⟩ Yaabal dhaltuu dhalchitee, inni abbaa warra mana-tentedaa jiraataniitiis miila mootummaa horii ta'an ti.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhaltuu dhalchitee"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adaanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaabal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaabal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tentedaa keessaa"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "horii fi"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:29.332473922Z",
+  "model": "glm-5.3"
+}

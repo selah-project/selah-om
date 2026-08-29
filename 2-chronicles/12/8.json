@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Akkuma isaa, isaan gabbofa ta'u; akka tajaajila kiyya fi tajaajila mootummaawwan biyyootaa beekaniif.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "gabbofa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "fi beekaniif"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "tajaajila kiyya"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "fi tajaajila"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummaawwan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "biyyootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:54:19.422216851Z",
+  "model": "glm-5.3"
+}

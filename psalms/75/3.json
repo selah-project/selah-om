@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Yeroon murtaa'e yoo nan fudhadhe, ani qajeelfaadhaan nan murti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "yoo nan fudhadhe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "murtaa'e"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "qajeelfaadhaan"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "nan murti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:42.798735339Z",
+  "model": "glm-5.3"
+}

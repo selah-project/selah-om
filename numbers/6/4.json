@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Guyyoota of-dheerressa isaa hunda, waan muka reezii irraa hojjame kamiyyuu, seeddaa reezii irraa kaasee gadiitti hanqinaarraatti, hin nyaatu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "of-dheerressa isaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "waan kamiyyuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjame"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "muka reezii irraa"
+    },
+    {
+      "surface": "היין",
+      "gloss": "reezii"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "seedaa reezii irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gadiitti"
+    },
+    {
+      "surface": "זג",
+      "gloss": "hanqinaarraatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaatu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:28:59.329241818Z",
+  "model": "glm-5.3"
+}

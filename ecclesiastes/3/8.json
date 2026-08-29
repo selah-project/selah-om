@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo jaalachuu, yeroo jibbuu; yeroo waraanaa, yeroo nagaa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "jaalachuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "jibbuu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:30.701324593Z",
+  "model": "glm-5.3"
+}

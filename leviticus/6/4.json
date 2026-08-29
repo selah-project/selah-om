@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "fi ⟨את⟩ waameta isaa baafatee, waameta biroo liqimsee, ⟨את⟩ funyoo mana waraanaa alatti, iddoo qulqulluutti baasa.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "fi baafatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waameta isaa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "waameta isaa"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "fi liqimsee"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "waameta"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "funyoo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "funyoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "goddatti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mana waraanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "goddatti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:08.258563181Z",
+  "model": "glm-5.3"
+}

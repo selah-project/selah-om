@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Manneen Ah'aab hundi baduu baduu; Ah'aab irraas kan birbirsa dallii irratti, kan cufame fi kan dhiifame Israa'el keessaa nan baafadha.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "baduu baduu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ah'aab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "nan baafadha"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ah'aab irraas"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "kan birbirsa dallii irratti"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dallii irratti"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "kan cufame"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "kan dhiifame"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:29.119101386Z",
+  "model": "glm-5.3"
+}

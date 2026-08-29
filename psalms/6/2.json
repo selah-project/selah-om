@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe, aarraba kee keessatti na hin xuuxiisu; dheebuu keetiinis na hin leellisu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "aarraba kee keessatti"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "na hin xuuxiisu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "dheebuu kee keessatti"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "na hin leellisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:25.796811755Z",
+  "model": "glm-5.3"
+}

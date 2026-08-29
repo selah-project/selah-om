@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Kan'aanota bahaarraa fi bahaarraa, Amorota, Hiitota, Perizota, Yebusota gaarreen keessaa, Hiivota Hermonin jala, biyya Mitspaatti.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Kan'aanota"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bahaarraa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "fi bahaarraa"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Amorota"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiitota"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizota"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusota"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen keessaa"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hiivota"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermonin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:51:35.533589427Z",
+  "model": "glm-5.3"
+}

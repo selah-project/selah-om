@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Torchi kan kabajamuu hin qabne, yaada namicha tasgabbii qabu keessatti; kan miilan diniiqduufis qophaa'eera.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "torchi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kabajamuu hin qabne"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "yaada...keessatti"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "namicha tasgabbii qabu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "qophaa'eera"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "kan...diniiqduuf"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "miilan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:58.719764588Z",
+  "model": "glm-5.3"
+}

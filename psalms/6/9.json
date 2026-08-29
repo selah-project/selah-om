@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Naa gatanihee baha, hojjattootni akkaawaa hunda; kanaaf Yahwe iyyannaa qabsoon koo dhagaye.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "naa gatanihee baha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "narraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattootni"
+    },
+    {
+      "surface": "און",
+      "gloss": "akkaawaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iyyannaa"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "qabsoon koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:29.330362469Z",
+  "model": "glm-5.3"
+}

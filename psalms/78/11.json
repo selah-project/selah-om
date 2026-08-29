@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Hojiwwan Isaa fi ajaja dabarsan Isaa isaani agarsiise dagani.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "dagani"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hojiwwan Isaa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ajaja dabarsan Isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "isaani agarsiise"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:40.415695599Z",
+  "model": "glm-5.3"
+}

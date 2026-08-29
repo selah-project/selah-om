@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Avrahaamiin immoo, \"Ani nan kakuun gadhiisa\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaamiin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "nan kakuun gadhiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:23.898147490Z",
+  "model": "glm-5.3"
+}

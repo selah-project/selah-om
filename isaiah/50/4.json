@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Adoonaay Yahwe arraba baratootaa natti kenne, akka beekuuf jecha waan ⟨את⟩ kan-dheebuu jajjabeessuuf. Ganama, ganamatti, ganama ganamatti gurra natti kaasa, akka barattootaatti dhagahuuf.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "arraba"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "baratootaa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "akka beekuuf"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "jajjabeessuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan-dheebuu"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "kan-dheebuu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "kaasa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganamatti"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "kaasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhagahuuf"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "akka barattootaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:30.259972391Z",
+  "model": "glm-5.3"
+}

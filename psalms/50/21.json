@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Wan kana hojjette, ani immoo ajajaa dhaabbadhe; Ani akka sii ta'e yaaddadde; si gatadha, fi si gadi iji siifitti madaalsaadha.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "waan kana"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ani immoo ajajaa dhaabbadhe"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "yaaddadde"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ta'uu"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka sii"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "si gatadha"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "fi madaalsaadha"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "iji siifitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:08.916718876Z",
+  "model": "glm-5.3"
+}

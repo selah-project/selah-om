@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 35:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Israa'el yeroo biyya sana keessa jiraatu, Re'uubeen ce'ee ⟨את⟩ Bilhaa, shee-sa duudhabaa abbaa isaa waliin seete; Israa'eli dhagaye. Ilmooleen Ya'aqoobii lama-torba (12) ta'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo...ta'e"
+    },
+    {
+      "surface": "בשכן",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ce'ee"
+    },
+    {
+      "surface": "רְאוּבֵן",
+      "gloss": "Re'uubeen"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "seete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhaa"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhaa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "shee-sa duudhabaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'eli"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmooleen"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Ya'aqoobii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "torba(10+2)"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:14.827544540Z",
+  "model": "glm-5.3"
+}

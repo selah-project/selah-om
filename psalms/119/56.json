@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kun naaf ta'e, sababa ajajoota kee ani eegadheef.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ajajoota kee"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ani eegadheef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:58.967733960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yahwe akka sirna kiyyatti natti deebise, akka qulqullummaa harka kiyyaatti inni ijjaa isaa biratti argamu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "natti deebise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "akka sirna kiyyaatti"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "akka qulqullummaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka kiyyaatti"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "biratti argamu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ijjaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:29.844453924Z",
+  "model": "glm-5.3"
+}

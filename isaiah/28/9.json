@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "⟨את⟩ eenyutu beekumsa barsiisa, ⟨את⟩ eenyutu geeggansa hubachiisa? Kan aannanii irraa addan baafaman, kan dhugaati irraa addan baafamaniidha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eenyu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "barsiisa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eenyu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "hubachiisa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "geeggansa"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "kan addan baafaman"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "aannanii irraa"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "kan addan baafaman"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "dhugaati irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:30.743089308Z",
+  "model": "glm-5.3"
+}

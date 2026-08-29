@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "⟨את⟩ altara naasii, fi ⟨את⟩ gibba naasii isa qabu, ⟨את⟩ miciraa isaa, fi ⟨את⟩ meeshaalee isaa hunduu, ⟨את⟩ dhukuraa fi ⟨את⟩ iju isaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altara naasii"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "naasii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "gibba naasii"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "gibba"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "naasii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "qabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miciraa isaa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "miciraa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isaa hunduu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhukuraa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "dhukuraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "iju isaa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "iju isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:22.888313697Z",
+  "model": "glm-5.3"
+}

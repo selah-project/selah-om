@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Amma, Yahwe Eloohiim kiyya, ati ⟨את⟩ abdi kee Daawid abbaa koo irraa bakka bu'ee moota taasifteetta; aniimmoo dargaggoo xiqqaa dha — bahu fi seenu hin beeku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "moota taasifteetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi kee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi kee"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "irraa bakka bu'ee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniimmoo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dargaggoo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "fi seenu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:50:00.878318717Z",
+  "model": "glm-5.3"
+}

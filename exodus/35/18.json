@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "⟨את〉 tishoowwan Miishaikaanaa, fi ⟨את〉 tishoowwan mana-keessaa, fi ⟨את〉 sararaawwan isaanii;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tishoowwan Miishaikaanaa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tishoowwan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miishaikaanaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "tishoowwan mana-keessaa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tishoowwan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "mana-keessaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "sararaawwan isaanii"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "sararaawwan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:37.939193644Z",
+  "model": "glm-5.3"
+}

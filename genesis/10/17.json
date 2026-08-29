@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Fi ⟨את⟩ Hiivii, fi ⟨את⟩ Arqii, fi ⟨את⟩ Siinii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hiivii"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiivii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arqii"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arqii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Siinii"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Siinii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:32.201606203Z",
+  "model": "glm-5.3"
+}

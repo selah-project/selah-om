@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 19:5",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Isheen yeroo argatte kakkellii ishee badeef, gurba tokko kan ishee irraa fudhate, gurba simbarratti isaa goote.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "argatte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "נוחלה",
+      "gloss": "eegdu"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "badeef"
+    },
+    {
+      "surface": "תקותה",
+      "gloss": "kakkellii ishee"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "gurba ishee irraa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "gurba simbarratti"
+    },
+    {
+      "surface": "שמתהו",
+      "gloss": "isaa goote"
+    }
+  ],
+  "timestamp": "2026-08-29T10:14:31.929416118Z",
+  "model": "glm-5.3"
+}

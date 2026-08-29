@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Qabeenya sunis bitaa fokkatti bade; ilma horiisise, harki isaas waan tokkollee hin qabaatu.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "bade"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "qabeenya sunis"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sun"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "bitaa keessatti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "fokkatti"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "horiisise"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabaatu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harki isaas"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waan tokkollee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:24.712050673Z",
+  "model": "glm-5.3"
+}

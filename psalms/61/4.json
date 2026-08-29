@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Sababaa ati bakkadanee kiyya turre; minaree humnaa, diina irraa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "turre"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "bakkadanee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyya"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "minaree"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humnaa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diina"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:16.384934723Z",
+  "model": "glm-5.3"
+}

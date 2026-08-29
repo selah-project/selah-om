@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Amma immoo, kuusi, Adoniyaa ni mootummaa; amma Gooftaa kiyya mooticha, ati hin beektu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "amma immoo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ni mootummaa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Gooftaa kiyya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beektu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:00:40.706805865Z",
+  "model": "glm-5.3"
+}

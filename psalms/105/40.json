@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Isaan gaafatan, Inni gogor baase, dheebuna samiitiinis isaan guute.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Isaan gaafatan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Inni baase"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "gogor"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dheebuna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiitii"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "isaan guute"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:59.617398154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 67,
+  "translation": "Saboonni Si haa galateeffatan, yaa Eloohiim; saboonni Si haa galateeffatan, isaan hunda.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Si haa galateeffatan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Saboonni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "Si haa galateeffatan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:36.892588857Z",
+  "model": "glm-5.3"
+}

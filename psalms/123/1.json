@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 123,
+  "translation": "Hiikkaa gosa ol-ka'umsaa. gara Keetti iji kiyya ol-qabe, Kan samiiwwanii keessatti kan teessu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hiikkaa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "gosa ol-ka'umsaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara Keetti"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ol-qabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iji kiyya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iji kiyya"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "Kan ... teessu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samiiwwanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:33.183117295Z",
+  "model": "glm-5.3"
+}

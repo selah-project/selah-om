@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Kunatti, mucaa kudhan meeshaalee Yoo'aabaa baatan seeran daawwatanii Avshaaloom ⟨את⟩ rukutan, ajjeesanis.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "seeran daawwatanii"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "baatan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aabaa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "rukutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshaaloom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshaaloom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ajjeesanis"
+    }
+  ],
+  "timestamp": "2026-08-29T07:57:05.360198917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Fuulli isaaniiitti iyya guutisi, akkasumas maqaa kee akka barbaadan, Yahwe.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "guutisi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fuulli isaaniiitti"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "iyya"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "akkasumas akka barbaadan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:22.423257207Z",
+  "model": "glm-5.3"
+}

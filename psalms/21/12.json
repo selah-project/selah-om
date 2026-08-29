@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kan kuffaniif: raawwii sii irratti facaafsaniiti; yaada kuffannaa yaadaniitu, garuu hin dandanuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kan kufaniif"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "facaafsaniiti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sii irratti"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "raawwii"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yaadaniitu"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "yaada kuffannaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "dandanuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:56.284999766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Hojiin Yahwe guddaa dha; waan hawwattoonni isaa hundi barbaadanii arganiidha.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hojiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "barbaadamaniidha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "waan hundi"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "hawwattoonni isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.993060896Z",
+  "model": "glm-5.3"
+}

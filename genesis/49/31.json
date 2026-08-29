@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Achitti ⟨את⟩ Avrahaam fi ⟨את⟩ Saaraa haadhaa manaa isaa haadan; achitti ⟨את⟩ Is-haaq fi ⟨את⟩ Ribqaa haadhaa manaa isaa haadan; achittis ⟨את⟩ Le'aa haadhe.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "haadan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Saaraa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaraa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "haadhaa manaa isaa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "haadan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Is-haaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is-haaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ribqaa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribqaa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "haadhaa manaa isaa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "achittis"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "haadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Le'aa"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:43.075958392Z",
+  "model": "glm-5.3"
+}

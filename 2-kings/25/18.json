@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Abbaan ajaa'rabaa ⟨את⟩ Serayaa qeesii duraa fi ⟨את⟩ Tsefanayaa qeesii lammaffaa fi ⟨את⟩ sadi'iitti to'attoota garaa balbalaa fudhate.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Abbaan"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ajaa'rabaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayaa"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayaa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qeesii"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanayaa"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanayaa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qeesii"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadi'iitti"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadi'iitti"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "to'attoota"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "garaa balbalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:14.058222572Z",
+  "model": "glm-5.3"
+}

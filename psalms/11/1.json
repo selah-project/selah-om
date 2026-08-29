@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Lammassaaf; Daawifi. Yahwe irratti nan gaabbadhe. Akkamitti lubbuu tiyyaatti jedhu, «Himadhaa gaarree keessaniitti, simbiira!»",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lammassaaf"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawifi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nan gaabbadhe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Akkamitti"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lubbuu tiyyaatti"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Himadhaa"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "gaarree keessaniitti"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "simbiira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:23.805163902Z",
+  "model": "glm-5.3"
+}

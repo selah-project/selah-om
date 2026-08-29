@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Ani immoo nagaan koo keessatti, \"gonkumaa hin sochootu\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ani immoo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "nagaan koo keessatti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "gonkumaa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "hin sochootu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:05.417772697Z",
+  "model": "glm-5.3"
+}

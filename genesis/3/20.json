@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Adeemsaas namnichaa maqaa haadha manaa isaa Havvaa jedhe, sababa isheen haadha waan hunda jiraatuuti.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaa jedhe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namnichaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "haadha manaa isaa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havvaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "waan...ti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haadha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiraatuu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:04.523796965Z",
+  "model": "glm-5.3"
+}

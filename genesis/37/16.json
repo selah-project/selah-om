@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Innis jedhe: «⟨את⟩ obboleeyan koo ani barbaadaa jira. Maaloo naa himi, eessa horsiisan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeyan koo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleeyan koo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "barbaadaa jira"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "himaa naa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eessa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "horsiisan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:47.984921161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Adoonaay, liqimsi, arraba isaanii adda baasi; kaffaltii miidhaa fi wal-diddansa magaalaa keessatti argadhe.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "liqimsi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "adda baasi"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "arraba isaanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "fi wal-diddansa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:59.339494067Z",
+  "model": "glm-5.3"
+}

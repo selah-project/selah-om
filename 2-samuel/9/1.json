@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Daawidinis jedhe, \"Namni tokko eenyumti waan mana Sha'uulirraa hafan jira, kheesed isa waliin godhuuf Yehoonaataan irraayyu?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "eenyumti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "waan hafan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-s"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "hafan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "godhuuf"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa waliin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "irraayyu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonaataan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:00.307344558Z",
+  "model": "glm-5.3"
+}

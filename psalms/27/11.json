@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yaa Yahwe, karaa kee na barsiisi; karaa sirrii irratti na qajeelchi, diina kiyyaaf.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "na barsiisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaa kee"
+    },
+    {
+      "surface": "וונחני",
+      "gloss": "fi na qajeelchi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "karaa... irratti"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "sirrii (dirree gatame)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "...f"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "diina kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.633066279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Warri baaltaa keessaa jiru, mana iccitiis keessatti halkan dabran; foon re'ee nyaatu, shorba walinyaataas gaaltota isaanii keessatti jira.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "warri jiru"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "baaltaa keessaa"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "mana iccitiis keessatti"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "halkan dabran"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "nyaatu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "foon"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "re'ee"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "shorba"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "walinyaataa"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "gaaltota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:22:58.242525992Z",
+  "model": "glm-5.3"
+}

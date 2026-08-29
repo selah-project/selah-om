@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo caccabsuu, yeroo tumsuu; yeroo hiyyessuu, yeroo dubbachuu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "caccabsuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "tumsuu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "hiyyessuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dubbachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:30.701199028Z",
+  "model": "glm-5.3"
+}

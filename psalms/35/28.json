@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Arraaween kiyyaas sirrummaa kee michuuqqee, guyyaa guutuu faarfama kee.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Arraaween kiyyaas"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "michuuqqee"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sirrummaa kee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "faarfama kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:26.123012333Z",
+  "model": "glm-5.3"
+}

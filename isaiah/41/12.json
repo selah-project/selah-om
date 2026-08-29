@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Isaan barbaadda, garuu hin argitu — namootri morma kee; akka hin jirreetti fi akka duwwaa ta'u — namoonni lolaa kee.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Isaan barbaadda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "argitu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namootri"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "morma kee"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "akka hin jirreetti"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "fi akka duwwaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "lolaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:28.731648789Z",
+  "model": "glm-5.3"
+}

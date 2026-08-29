@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Dhiirri hundi kan keessa kohnootaa isa ⟨את⟩ ni nyaata; qulqulleen qulqullotaa ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhiirri"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kan keessa kohnootaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni nyaata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isa (dheeffata kohenichaa)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqulleen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullotaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dha⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T05:30:22.996322050Z",
+  "model": "glm-5.3"
+}

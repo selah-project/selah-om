@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Afaan isaa faarsa, ciyyee fi mala-dhugaa malee; arraba isaa jalatti rakkoo fi badii jira.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "faarsa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "afaan isaa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ciyyee"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "mala-dhugaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "arraba isaa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "badii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:39.522330950Z",
+  "model": "glm-5.3"
+}

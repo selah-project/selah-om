@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Yoo gidduu gadheeteetti seennan, kanneen akka koonfa diinattiin warqee danfaa ta'anitti, akkuma baaqqee diinattiin-malballiiti haphii daawaa samii'iiti.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "seennan (hiriixdan)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "gadheeteetti (iddoo hir'isaa)"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "koonfa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "diinatti (baaqqee)"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "warqee danfaa ta'anitti"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": " akka"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "baaqqee ishee"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "danfaa-malballiiti haphii"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "daawaa samii'ii (warqee adii-diima)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:21.882670899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Lafni akka boonee najaanaja, socho'i; akka mana-qopheessaa najaanaja; faannoon isii isarratti ulfaatee; kufte, ergaa hin ka'u.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "najaanajuu"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "najaanaja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafni"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "akka boonee"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "socho'i"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "akka mana-qopheessaa"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "ulfaatee"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "faannoon isii"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "kufte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "ergaa dabalu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka'u"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:37.419219122Z",
+  "model": "glm-5.3"
+}

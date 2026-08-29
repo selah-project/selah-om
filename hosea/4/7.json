@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akkuma baay'ina isaaniitti akkasuma na balleessan; kabaja isaanii gara salphinaatti jijjiira.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "akkuma baay'ina isaaniitti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kabaja isaanii"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "gara salphinaatti"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "jijjiira"
+    }
+  ],
+  "timestamp": "2026-08-29T15:17:38.797944636Z",
+  "model": "glm-5.3"
+}

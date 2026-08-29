@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Kan Daawid, barsiisaa. Bakkoota warra dhabbi ofirraa baafame, warra yakki ittisame.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "barsiisaa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Bakkoota"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "ofirraa baafame"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "dhabbi"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ittisame"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "yakki"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:03.118582905Z",
+  "model": "glm-5.3"
+}

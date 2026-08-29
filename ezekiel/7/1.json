@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Jecha Yahwe anaatti dhufe, akka jedhu:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:05:21.123447431Z",
+  "model": "glm-5.3"
+}

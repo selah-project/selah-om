@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Mosheeimmoo hangafaa ⟨את⟩ hirribaa fuudhe — mul'ata Yahwe duraa, akka Isaatti ajajameetti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fuudhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirribaa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "hirribaa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mul'ata … duraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ajajameetti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:55:34.928487697Z",
+  "model": "glm-5.3"
+}

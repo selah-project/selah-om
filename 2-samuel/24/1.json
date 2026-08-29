@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Aariin Yahwe Israa'el irratti dabalatee iyyee, Daawid ⟨את⟩ isaani wajjin kakaase akka jedhu: \"Deemi, Israa'el ⟨את⟩ fi Yahuudaa ⟨את⟩ lakkoofsaa.\"",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dabalatee"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aariin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "iyyee"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el irratti"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "kakaase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaani wajjin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "lakkoofsaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Yahuudaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:22.683181380Z",
+  "model": "glm-5.3"
+}

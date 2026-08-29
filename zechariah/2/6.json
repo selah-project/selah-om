@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani ni jedhe: “Eessa ati deemta?” Innis naan jedhe: “Yerushaalayim ⟨את⟩ safaruuuf, bal'ina isaa fi dheerina isaa akka arguuf.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ani ni jedhe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "eessa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deemta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "innis naan jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "למד",
+      "gloss": "safaruuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "akka arguuf"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "akkataa...bal'ina"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bal'ina isaa"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "fi akkataa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dheerina isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:02:43.500650512Z",
+  "model": "glm-5.3"
+}

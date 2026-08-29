@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Samii keessatti afaan isaanii dhaabani; arrabni isaanii lafa irratti deema.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "dhaabani"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "afaan isaanii"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "arrabni isaanii"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:53.754970924Z",
+  "model": "glm-5.3"
+}

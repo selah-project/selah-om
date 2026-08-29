@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ishee ⟨את⟩ eebbifna; ishee irraas akkaataa dabalataa sii ilma nin kennaa; ishees eebbifna, saboota taati; mootonni sabootaa ishee irraa ta'u.",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "ebbifna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nin kennaa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee irraa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "ishees eebbifna"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "taati"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sabootaa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee irraa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:54.012232271Z",
+  "model": "glm-5.3"
+}

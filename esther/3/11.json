@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kingiinis Hamaniin jedhe: meetiin atiif kennamaadha, sabiinis atiif kenne, akka ija keetti jaallatettu isa irratti godhuuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kingiin"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "meetii"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "kennamaadha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atiif"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "sabiinis"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "godhuuf"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "jaallatettu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "akka ija keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:49.796009176Z",
+  "model": "glm-5.3"
+}

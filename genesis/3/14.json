@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 3:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe Eloohiim bofaattiis jedhe, \"Kun waan ati hojjetteef, holtuun ati bishanoota hunda irraa fi beyladoota baddaa hunda irraa taate. Garaa keetiin deema; rafaa baafata guyyoota jireenya kee hunda.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti (bofaatti)"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "bofa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan...eef"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "holtuun taate"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bishanoota"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "fi ... hunda irraa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "beyladoota"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "baddaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "garaa ... keetiin"
+    },
+    {
+      "surface": "גחנך",
+      "gloss": "garaa kee"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "fi rafaa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "baafata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jireenya kee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:50.535794210Z",
+  "model": "glm-5.3"
+}

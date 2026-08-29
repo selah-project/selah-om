@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Sanyiin isaa dacheetti arraba ta'a; dargaggootni sirrii ta'an ni eebbifamu.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "arraba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dacheetti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "Sanyiin isaa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dargaggootni"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sirrii ta'an"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ni eebbifamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:16.632595315Z",
+  "model": "glm-5.3"
+}

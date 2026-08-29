@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Haa ta'u, dheeffannoo dhiiga kee kan lubbuu kee tiin kan hafu, harka bifa bineensota hunda irraa, fi harka namaa irraa — harka namtokkoo obboleesa isaa irraan — lubbuu namaa kan hafu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "haa ta'u, kan hafu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga kee"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "dhiiga kee"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "lubbuu kee tiin"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "dheeffannoo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "bineensota"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "dheeffannoo"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "fi harka irraa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namtokkoo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleesa isaa"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "dheeffannoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu namaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:54.399913356Z",
+  "model": "glm-5.3"
+}

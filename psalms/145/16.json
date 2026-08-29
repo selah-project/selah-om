@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Harka kee ⟨את⟩ bana, hunda jireessa raajaan guuttachiifta.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Harka kee"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Harka kee"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "guuttachiifta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jireessa"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "raajaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:01.463522639Z",
+  "model": "glm-5.3"
+}

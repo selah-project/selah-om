@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 4:9",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Isin siii dhiiqaa fi dukkana-bishaan ⟨אתכם⟩; eebolloon baay'ina moo'a keessan, michoo keessan, faca'aa keessan fi zayitaa keessan baafte; isin gararra kiyyaa hin deebitan, raajni Yahwe.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "siii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ isin",
+      "marks": "dhiiqaa fi dukkana-bishaa"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "dhiiqaa"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "dukkana-bishaa"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "baay'ina"
+    },
+    {
+      "surface": "גנותיכם",
+      "gloss": "moo'a keessan"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "michoo keessan"
+    },
+    {
+      "surface": "ותאניכם",
+      "gloss": "faca'aa keessan"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "zayitaa keessan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "baafe"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "eebolloon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "deebitan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "gara kiyyaa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "raajni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:51:46.247479618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Ilmoleen Kheet Avrahaamiin deebi'an ⟨את⟩, isaaf akkas jedhanii.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "deebi'an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmoleen"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kheet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaamiin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:34:05.069189605Z",
+  "model": "glm-5.3"
+}

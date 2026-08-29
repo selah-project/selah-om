@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yahween ummatta keessatti ⟨את⟩ haasawwan gubban ergere; isaanis ⟨את⟩ ummatta hammanii, umamta baay'ee Israa'el irraas du'e.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ummatta keessatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haasawwan gubban"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "haasawwan"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "gubban"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "hammanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummatta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umamta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'el irraas"
+    }
+  ],
+  "timestamp": "2026-08-29T14:30:36.235874687Z",
+  "model": "glm-5.3"
+}

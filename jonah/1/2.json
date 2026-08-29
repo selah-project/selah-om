@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ka'i, gara Niinivee, magaalaa guddaa sanitti bololi, akkasumas ishee irratti afeeffadhu; kufaati isaanii fuulduratti koo ol ka'ee jira.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bololi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinivee"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "afeeffadhu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ol ka'ee jira"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "kufaati isaanii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:53.719488970Z",
+  "model": "glm-5.3"
+}

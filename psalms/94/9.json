@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Kan gurra magarsu, akkaan hin dhageessuu mitii? Kan ija qopheessu, akkaan hin ilaaluu mitii?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "kan gurra magarsu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akkaan hin... mitii"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageessuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "qopheessu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akkaan hin... mitii"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ilaaluu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.088187998Z",
+  "model": "glm-5.3"
+}

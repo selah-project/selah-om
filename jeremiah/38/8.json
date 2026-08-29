@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Ebed-Melek mana mootichii bahe, mootichas gara akka jedhu dubbate.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Melek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichii"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:49:50.084352076Z",
+  "model": "glm-5.3"
+}

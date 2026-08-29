@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Mootichi baay'ee ifa kee fedha; sababaa inni Gooftaa kee; isa facaadhii.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "baay'ee fedha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ifa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Gooftaa kee"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "facaadhii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.826312836Z",
+  "model": "glm-5.3"
+}

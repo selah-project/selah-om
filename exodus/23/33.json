@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Isaan biyya kee keessatti hin jiraatan, akka ⟨את⟩kee naa dogoggoran hin godhan; yoo ⟨את⟩waaqotta isaanii gabbarfattan, sanaan miila-cufii taatee isiniif ta'a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "biyya kee keessatti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka... hin godhan"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "dogoggoran"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩kee",
+      "marks": "kee (sirriitti)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "gabbarfattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waaqotta isaanii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "waaqotta isaanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sanaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "miila-cufiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:13.791195431Z",
+  "model": "glm-5.3"
+}

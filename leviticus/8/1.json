@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahween Mosheetti akka jedhuutti haasahe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haasahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:33:16.559215949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yeroo anis Beenbaruu, ilma Neeriyaa, cuunfaa bitaa kana kenninee booda, ana Rabbii kadadheerra, \"Ana Rabbii, Gooftaa kiyya, ciminaan fi harka Isaatin samii fi lafa uumte; Isattiin wanti ulfaatu hin jiru.",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "kadadheerra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "yeroo booda"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "kenninee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuunfaa bitaa kana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cuunfaa"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bitaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Beenbaruu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neeriyaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ana kadadheerra"
+    }
+  ],
+  "timestamp": "2026-08-29T09:46:01.458156028Z",
+  "model": "glm-5.3"
+}

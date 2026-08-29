@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Sabniwwan irratti bak-buusa hojjachuuf, ummattoota gorsuuf.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "bak-buusa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sabniwwan irratti"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "gorsuu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ummattoota"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ummattoota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:10.169837084Z",
+  "model": "glm-5.3"
+}

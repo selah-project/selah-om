@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yoo sisiittaa afaan hin kabachiifne si'e, abbaan arrabaas bu'aa hin qabaatu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "si'e"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "sisiittaa"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "hin kabachiifne"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "afaan kabachiisaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabaatu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "bu'aa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "abbaan"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "arrabaas"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:18.706305288Z",
+  "model": "glm-5.3"
+}

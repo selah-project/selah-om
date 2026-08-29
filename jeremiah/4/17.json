@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akka eegiftota qonnaatti isaan ishee irratti marsanii dha; sababa isheen ⟨את⟩ natti maraatte, imaanaa Yahwe.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "akka eegiftota"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "qonna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "isaan turan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "marsanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "natti maraatte (isheen natti maraatte)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "maraatte"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "imaanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:25:01.961807619Z",
+  "model": "glm-5.3"
+}

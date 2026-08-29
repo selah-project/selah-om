@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 32:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Aharooniin isaaniin jedhe: \"Marga warra keessan, ilmaan keessan fi intaloota keessan gurra keessaa haadhhaa, naa dhuunfaa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniin"
+    },
+    {
+      "surface": "פרקו",
+      "gloss": "haadhhaa"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "marga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ilmaan keessan"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "intaloota keessan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "naa dhuunfaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:30.309054444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Sababa ati isa barakaan gaggaarii dura dhaqa mataa isaa irrattis adderii warqee qulqulluu isaaf kaaabde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "isa... dura dhaqa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "barakaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaggaarii"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "kaaabde"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "mataa isaa irratti"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "adderii"
+    },
+    {
+      "surface": "פז",
+      "gloss": "warqee qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:43.185332376Z",
+  "model": "glm-5.3"
+}

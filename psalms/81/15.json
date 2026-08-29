@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Yaa xiqqoo diina isaanii ni buusa; harka kiyya gara diina isaanii irratti ni baafadha.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Yaa xiqqoo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "diina isaanii"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ni buusa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "diina isaanii"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ni baafadha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:12.264577187Z",
+  "model": "glm-5.3"
+}

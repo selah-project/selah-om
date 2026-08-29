@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ilmaan Yihuudaa, kanneen oo'aa fi waraanaa baatan, kuma ja'a fi dhibba saddeet turan, warra qophoofaman waraanaa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kanneen baatan"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "oo'aa"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "fi waraanaa"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ja'a"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "fi saddeet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "warra qophoofaman"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:29.156990327Z",
+  "model": "glm-5.3"
+}

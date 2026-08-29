@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Waan ati iccitiin raawwachteef; aniis waan kana ⟨את⟩ waldurgaa Israa'el hundaafi aduu duraa raawwadha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "raawwachte"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "iccitiin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "raawwadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "waldurgaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "dabarees ... duraa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:49:53.431159596Z",
+  "model": "glm-5.3"
+}

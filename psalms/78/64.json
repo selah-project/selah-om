@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Koolettota isaa meeshaan waraanaa kufan; weedarratti isaa immoo hin boone.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Koolettota isaa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "meeshaan waraanaa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "weedarratti isaa immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:26.631964560Z",
+  "model": "glm-5.3"
+}

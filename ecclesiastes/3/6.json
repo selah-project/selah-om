@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo barbaachuu, yeroo balleessuu; yeroo eeguu, yeroo chochchoosuu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "barbaachuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "balleessuu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "eeguu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "chochchoosuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:30.701052100Z",
+  "model": "glm-5.3"
+}

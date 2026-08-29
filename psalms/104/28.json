@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Yoo si kennitu, walitti qabatu; yoo harka kee bantitu, waan gaariiniin guutamu.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "si kennitu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "walitti qabatu"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bantitu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "guutamu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waan gaariiniin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:21.849629277Z",
+  "model": "glm-5.3"
+}

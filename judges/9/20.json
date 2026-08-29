@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "yoo kana hin taane, ibiddi Abiimelek irraa bahee ⟨את⟩ abbootii Shekem fi ⟨את⟩ mana Milloo ni nyaachisa; ibiddi abbootii Shekem fi mana Milloo irraas bahee ⟨את⟩ Abiimelek ni nyaachisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Abiimelek irraa"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ni nyaachisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii Shekem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana Milloo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem irraa"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "fi mana"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milloo irraa"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ni nyaachisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    }
+  ],
+  "timestamp": "2026-08-29T07:07:11.358513203Z",
+  "model": "glm-5.3"
+}

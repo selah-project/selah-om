@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Midhaaga abiiriiwwanii nyaachise ⟨isi⟩; soorata saalamsiise isaaniif akka quffatu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "midhaaga"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "abiiriiwwanii"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaachise"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saalamsiise"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "akka quffatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:20.651001001Z",
+  "model": "glm-5.3"
+}

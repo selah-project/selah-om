@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Giilad kiyya ti; Menashsheh kiyya ti; Efiraayim immoo humna mataa koo ti; Yihuudaa seera baraa koo ti.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kiyya ti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyya ti"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efiraayim immoo"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "humna (dhiibbaa)"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa koo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "seera baraa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:56.918134336Z",
+  "model": "glm-5.3"
+}

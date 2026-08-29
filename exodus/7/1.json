@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahween Moshee irratti jedhe: Ilaali, si Eloohiim taasiseera Par'ohiif; Aharooninis obboleessi ke nuuseetta kee ta'a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "si taasiseera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Par'ohiif"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharooninis"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessi kee"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "nuuseetta kee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:58.737944300Z",
+  "model": "glm-5.3"
+}

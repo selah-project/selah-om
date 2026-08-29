@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 100,
+  "translation": "Mizmoroo galataa. Yahwe haa jaajjabattu, lafti hundi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoroo"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "galataa"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "haa jaajjabattu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:58.103225435Z",
+  "model": "glm-5.3"
+}

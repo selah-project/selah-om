@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Nyaattuu, ati guutu, Yahwe ⟨את⟩ Eloohiim kee biyya gaarii taate kan siif kenneef baay'isi.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Nyaattuu"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "guutu"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "baay'isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "wiixina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "gaarii taate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenneef"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:25.967506169Z",
+  "model": "glm-5.3"
+}

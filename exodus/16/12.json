@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ragee mitmita sii ummata Israa'el jedheera; isaanitti himi: «Galgala keessa foon ni baafatta, ganamaanis dhadhaa ni guuttattan; Akkasumas beektu Ani Yahwe Eloohiim keessan ana.»",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ragee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitmita"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "mitmita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "himi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giddu gala"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "galgala keessa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni baafatta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "foon"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ganamaanis"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ni guuttattan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dhadhaa"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:49.417055148Z",
+  "model": "glm-5.3"
+}

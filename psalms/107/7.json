@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Karaa sirriidhaan isa tursiise, gara magaalaa ijaarutti akka deeman.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "isaan tursiise"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "sirriidhaan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemuuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ijaaruu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:44.536521181Z",
+  "model": "glm-5.3"
+}

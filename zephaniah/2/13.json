@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Harki Isaa gara kaabaatti baati Ashshur ⟨את⟩ balleessa; Niinivee ⟨את⟩is balleessaa gogaa akka daaraa taasisa.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "baati"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harki Isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara ... irratti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaabaa"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "balleessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niinivee"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinivee"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "balleessaatti"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "akka daaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:00:39.944344817Z",
+  "model": "glm-5.3"
+}

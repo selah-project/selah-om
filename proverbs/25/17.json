@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Miila kee maqa yeroo baay'ee mana dheeffatan keessaa haadhachiisu — akka hin qabbanaawin, si hin jaalanneef.",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "yeroo baay'ee hin dhaabachiisu (qabbanaawuu)"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "miila kee"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "dheeffatan kee"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin... (kee'uu)"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "si hin qabbanaawin (dheebuu)"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "si hin jaalanneef"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:41.656546788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Innis isaatti jedhe: «Deemi, maaloo, ⟨את⟩ nagaa obboleeyan kee fi ⟨את⟩ nagaa horda ilaali; jecha naa deebiisi.» Ani isa morma Khevronii irraa ergale; inninis Shekeem dhufe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagaa obboleeyan kee"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleeyan kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagaa horda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "horda"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "naa deebiisi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "isa ergale"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "morma"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekeem"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:47.984592467Z",
+  "model": "glm-5.3"
+}

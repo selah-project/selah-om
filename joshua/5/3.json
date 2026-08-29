@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yehooshu'aa ofiif billeewwan cabbii hojjatee, ⟨את⟩ ilmaan Israa'elii tullaa buusotaa irratti buusa isaanii baafate.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjatee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshu'aa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "billeewwan"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "cabbii"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "baafatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'elii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "tullaa"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "buusotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:50:42.881645498Z",
+  "model": "glm-5.3"
+}

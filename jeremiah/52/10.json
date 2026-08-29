@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Mootichi Babiloon ilmaan Ṣidqiyaahu ⟨את⟩ ila isaa dura ajjeese; akkasumas abbootii mootummaa Yihuudaa hunda ⟨את⟩ Ribilitaahatti ajjeese.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiloon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Ṣidqiyaahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣidqiyaahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ila isaa dura"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii mootummaa Yihuudaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii mootummaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "Ribilitaahatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:01:54.702516134Z",
+  "model": "glm-5.3"
+}

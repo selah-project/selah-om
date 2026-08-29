@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Yahwe, Adoonaay, humna geejjiba koo; guyyaa qabsoo irratti mataa koo ⟨at]] heeromsiteetta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "geejjiba koo"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "heeromsiteetta"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mataa koo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "qabsoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:47.273881875Z",
+  "model": "glm-5.3"
+}

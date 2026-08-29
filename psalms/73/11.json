@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Ni jedhus: \"Eel akkaataa kamiin beeka? Beekumsi Elyoon irratti jiraa?\"",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ni jedhus"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "akkaataa kamiin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "beekumsi"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Elyoon irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:53.755326820Z",
+  "model": "glm-5.3"
+}

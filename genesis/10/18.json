@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Fi ⟨את⟩ Arvaadii, fi ⟨את⟩ Tsemaarii, fi ⟨את⟩ Hamaatii; booda maatiilee sanyii Kanaan babaldhii'aniiru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arvaadii"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvaadii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsemaarii"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemaarii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamaatii"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamaatii"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "babaldhii'aniiru"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "maatiilee"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:32.202382186Z",
+  "model": "glm-5.3"
+}

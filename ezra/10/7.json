@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Sagalee Yahuudaa fi Yerushaalayim keessatti dabarsanii, ilmaan galmee hundaaf Yerushaalayimitti walitti kufanii wal qabachuuf ajeesisan.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "dabarsanii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuudaa keessatti"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "fi Yerushaalayim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "galmee"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "walitti kufanii wal qabachuuf"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayimitti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:36:31.650403983Z",
+  "model": "glm-5.3"
+}

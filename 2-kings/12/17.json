@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Kumoo'aa dhiigaa fi kumoo'aa dhiicciyyaa mana Yahwetti hin seenu; kan abbatiin ni ta'u.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "kumoo'aa"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "fi kumoo'aa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dhiicciyyaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kan abbatiin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ni ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T08:32:16.695904425Z",
+  "model": "glm-5.3"
+}

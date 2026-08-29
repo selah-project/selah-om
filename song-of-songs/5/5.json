@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ani jaallaa kiyyaaf banauf kaadheera; harkoonni kiyya murr dhangumsanii, bofoonni kiyya murr dangagguu handhurree c'ooloo irratti.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "kaadheera"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "banauf"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "jaallaa kiyyaaf"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "harkoonni kiyya"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "dhangumsanii"
+    },
+    {
+      "surface": "מור",
+      "gloss": "murr"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "bofoonni kiyya"
+    },
+    {
+      "surface": "מור",
+      "gloss": "murr"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dangagguu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "handhurree"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "c'ooloo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:24.550257077Z",
+  "model": "glm-5.3"
+}

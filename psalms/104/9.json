@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Daangaa dhaabbattaa — hin dariishaniif; lafa uggurrafachuuf hin deebi'aniif.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "dhaabbattaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "dariishaniif"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "deebi'aniif"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "uggurrafachuuf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:36.859321823Z",
+  "model": "glm-5.3"
+}

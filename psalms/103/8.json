@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Rahmata qabu fi jaallataa ⟨dha⟩ Yahwe; dheeraa booda booda immoo kheesed baay'ee qaba.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rahmata qabu"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "fi jaallataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "booda booda"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:11.370141114Z",
+  "model": "glm-5.3"
+}

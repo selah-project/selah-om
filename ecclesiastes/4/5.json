@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Silleessi harkawwan isaa ⟨את⟩ walitti marsa, ⟨את⟩ anduu isaa ni a'a.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Silleessi"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "walitti marsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harkawwan isaa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harkawwan isaa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ni a'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anduu isaa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anduu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:40.337713688Z",
+  "model": "glm-5.3"
+}

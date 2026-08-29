@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Egeree-sirreee eegu «ajajamoota» Yahwe Eloohiim keessan, ragaa Isaa fi seera Isaa kan «Sirratti» ajaje.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "egee-sirree"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "eegu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajamoota"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajajamoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ragaa Isaa"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "seera Isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "Sirratti ajaje"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:36.124447082Z",
+  "model": "glm-5.3"
+}

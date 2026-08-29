@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Widirtuu fi keennaa ajjeešu; eyyoodhiiraa ni-murtu.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "widirtuu"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "fi keennaa"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ajjeešu"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "eyyoodhiiraa"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ni-murtu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:45.280370466Z",
+  "model": "glm-5.3"
+}

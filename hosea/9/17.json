@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Eloohiim kiyya isaan ni dhiisa, sababaa Isa hin dhageeffanneef; biyyoota birattis soocho'oota ta'u.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "isaan ni dhiisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageeffanne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "soocho'oota"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "biyyoota birattis"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:20.700050136Z",
+  "model": "glm-5.3"
+}

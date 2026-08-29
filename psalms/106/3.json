@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Blessed-dha kan murtii eeganiifi kan miira qajeelaa yeroo hunda raawwatu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blessed-dha (blessed)"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "kan eeganiifi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan raawwatu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "miira qajeelaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:09.475339918Z",
+  "model": "glm-5.3"
+}

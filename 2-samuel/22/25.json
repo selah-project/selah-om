@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yahwe akkuma mirga kooitti, akkumu qulqullina koo iji isaa duratti anaaf deebiseera.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebiseera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "akkuma mirga kooitti"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "akkumu qulqullina koo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iji isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:58:55.462030651Z",
+  "model": "glm-5.3"
+}

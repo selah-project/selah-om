@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Bulchiisa muuziqaaaf — mizmoori Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bulchiisa muuziqaaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:12.174437570Z",
+  "model": "glm-5.3"
+}

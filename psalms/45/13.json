@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Immoo intalti Tsor kennaa keessaa dha; al-qabeenyonni uummataa fuula kee isaan haa kabajan.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Immoo intalti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "kennaa keessaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "haa kabajan"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "al-qabeenyonni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uummataa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.090036114Z",
+  "model": "glm-5.3"
+}

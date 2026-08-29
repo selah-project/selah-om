@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Manaa Yahwe ⟨את⟩ fi manaa mootichaa ⟨את⟩ fi manoota Yerushaalayim hunda ⟨את⟩ gubee; manni guddan hundi ibiddaatiin gubameera.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "gubee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaa Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manaa mootichaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manoota Yerushaalayim hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "manoota"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manni guddan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gubameera"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:58.531535454Z",
+  "model": "glm-5.3"
+}

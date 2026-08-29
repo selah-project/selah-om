@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Natti walitti qabaa, kheesed-totuma koo, kakuu koo boqonnaa irratti hiriisan.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "walitti qabaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "kheesed-totuma koo"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "hiriisan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakuu koo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "boqonnaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:33.909137957Z",
+  "model": "glm-5.3"
+}

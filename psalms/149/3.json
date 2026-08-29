@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Maqaa isaa raqsaa keessatti haa badanan; toofi fi kinnoriin isaaf haa sirreessan.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "haa badanan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "raqsaa keessatti"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "toofi"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "fi kinnoriin"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "haa sirreessan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:09.332765443Z",
+  "model": "glm-5.3"
+}

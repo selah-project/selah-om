@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yahwe ⟨את⟩ barbaadtaa, jiraadhaa; akka ibiddaan gabatee Yoos'eeph irratti iyyuu hin baaneef, (isaa) ni-ni'a, Beet-Eel irratti dhiyessaan hin jiru.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "barbaadtaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "jiraadhaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin baaneef"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "iyyaa"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ibiddaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoos'eeph"
+    },
+    {
+      "surface": "ו אכלה",
+      "gloss": "ni-ni'a"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "dhiyessaa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-08-29T10:50:37.699669276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yeroo eeganna ganamaa ga'e, Yahwe argaatti dhukaalee gara waraana Mitsraayimitti utubaa ibiddaa fi gammaan, waraana Mitsraayim ⟨את⟩ nar dhabe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yeroo ga'e"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "eeganna"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ganamaa"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "argaatti dhukaalee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayimitti"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "utubaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "fi gammaan"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "nar dhabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waraana Mitsraayim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:38.920478408Z",
+  "model": "glm-5.3"
+}

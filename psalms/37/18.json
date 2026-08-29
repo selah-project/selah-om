@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yahwe guyyoota qajeelota beeka; dhaalti isaanii yeroo hunda taati.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "qajeelota"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "dhaalti isaanii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taati"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:05.216811369Z",
+  "model": "glm-5.3"
+}

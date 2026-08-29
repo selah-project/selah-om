@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Ajjeeffamtoonni kee bakka wal-gahee kee keessas ariitan; mallannoo isaanii mallannoo taasifani.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ariitan"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Ajjeeffamtoonni kee"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessas"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "bakka wal-gahee kee"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "taasifani"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "mallannoo isaanii"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "mallannoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:51.321445249Z",
+  "model": "glm-5.3"
+}

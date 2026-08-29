@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "\"Yeroo gara Pennisaa maqaa kee irratti dubbachuuf yoo koo eegaluu irraa, ummata kana rakkise; ummata kees immoo homaatu hin gaddamsifne.\"",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "yeroo ... irraa"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "eegaluu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pennisaa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dubbachuuf"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaa kee irratti"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "rakkise"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "immoo ... gaddamsifne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "gaddamsifne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata kee"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:53.223781318Z",
+  "model": "glm-5.3"
+}

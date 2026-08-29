@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Sabi dandeettii isaanii Ati, jaalala keetiinis geengoo keenya ol kaafta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabi"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "dandeettii isaanii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "jaalala keetiinis"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ol kaafta"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "geengoo keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:55.988743749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "In gidduutti hin amaninaa, akkaan hin bobbaa'inaa; qabeenya yoo baay'ate, onnee keessan isa irratti hin gorinaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "amaninaa"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "in gidduutti"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "akkaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "bobbaa'inaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qabeenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "baay'ate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "gorinaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:53.221806543Z",
+  "model": "glm-5.3"
+}

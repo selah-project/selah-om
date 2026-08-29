@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jechoon Qooheleet, ilma Daawid, mootii Yerushaalayim keessatti.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Jechoon"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qooheleet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:55.850274706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Saffisni hundi ni beeku — Efrajimiifi dheessota Shomroonii — kan gos-gosoo fi gosa onnee guddaa irraa jedhan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ni beeku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saffisni"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimii"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "dheessota"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroonii"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "gos-gosoo"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee guddaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kan jedhan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:27.440333973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sababaa safraa fi aarsaa isaas sodaadhe — waan Yahwe isin balleessuuf irratti hamaa'aa tureef. Yahwe garuu yeroo sanaas waan naa dhagayeedha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "sodaadhe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האף",
+      "gloss": "safraa"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "fi aarsaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "hamaa'aa ture"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin ... irratti"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "balleessuuf"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yeroo sanaas"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:19:48.187308359Z",
+  "model": "glm-5.3"
+}

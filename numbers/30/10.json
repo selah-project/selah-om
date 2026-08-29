@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Waadni widdirtuu fi kan eessaa baafametti, waan lubbuu ishee irratti kufe hundi ishee irratti ni dhaabbata.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "waadni"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "widdirtuu"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "fi kan eessaa baafametti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "lubbuu ishee"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ni dhaabbata"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:10:51.716749181Z",
+  "model": "glm-5.3"
+}

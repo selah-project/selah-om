@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Yooqeefis abbaa isaatti, \"Akka kanatti miti abbaa koo; kuninis horseeda dha; harka mirgaa kee mataa isaa irratti kaa'i\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooqeef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kanatti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuninis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "horseeda dha"
+    },
+    {
+      "surface": "שים",
+      "gloss": "kaa'i"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "harka mirgaa kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:34.469173374Z",
+  "model": "glm-5.3"
+}

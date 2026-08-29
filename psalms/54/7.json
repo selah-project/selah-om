@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Yaan bultaan deebi'ee warra na eeggatanii irratti; dhugaa keetiin isaan balleessi.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yaan bultaan"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "warra na eeggatanii irratti"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dhugaa keetiin"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "isaan balleessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:37.577567917Z",
+  "model": "glm-5.3"
+}

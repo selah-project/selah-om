@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "abbaan isaa fi haati isaa isa qabatanii, dhaabbataa duraa gosa isaanii fi balbala gosa isaanii biratti baafatu",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "qabatanii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaan isaa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "fi haati isaa"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "baafatan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dhaabbataa duraa"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "gosa isaanii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi biratti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "gosa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:28:41.404677909Z",
+  "model": "glm-5.3"
+}

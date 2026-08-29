@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Kan jaalalaan dhaabbataa hojjetu fi karaa keetti si yaadatu si argatte; dhugaa, ati billee, nuti imala — isaan keessa yeroo hunda hafu, ni baraarsifanna.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "si argatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan jaalalaan dhaabbataa hojjetu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaalalaan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dhaabbataa"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "karaa keetti"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "si yaadatu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "billee"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "nuti imala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan keessa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ni baraarsifanna"
+    }
+  ],
+  "timestamp": "2026-08-29T09:17:13.033180469Z",
+  "model": "glm-5.3"
+}

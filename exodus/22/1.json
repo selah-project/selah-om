@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo hacucaa gaaffii irratti argamee, rukutamuus du'e, dhiigni ⟨isaaf⟩ hin qabamu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "gaaffii irratti"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "argame"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "hacucaa"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "rukutame"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabamu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨isaaf⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigni"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:50.309150423Z",
+  "model": "glm-5.3"
+}

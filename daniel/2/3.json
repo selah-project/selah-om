@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mootichi isaaniin jedhe: Riyyaa riyye; ruuhni kiyya ⟨את⟩ riyyicha beekuuf daddarbite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "riyyaa"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "riyye"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "daddarbite"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhni kiyya"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "beekuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riyyicha"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "riyyicha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:57:31.033867185Z",
+  "model": "glm-5.3"
+}

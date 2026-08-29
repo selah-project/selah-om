@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Ani Yahwe, Qulqullummaan keessan, Uumaa Israa'el, Boqonnaa keessan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Qulqullummaan keessan"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Uumaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Boqonnaa keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:58:47.064529595Z",
+  "model": "glm-5.3"
+}

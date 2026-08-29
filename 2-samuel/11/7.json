@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Urriiyaan isa bira dhufe; Daawidiin nageenyaa Yoowaab fi nageenyaa sabaa fi nageenyaa lolaa gaafate.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urriiyaan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa bira"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "gaafate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidiin"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nageenyaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "nageenyaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "nageenyaa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "lolaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:54.171042100Z",
+  "model": "glm-5.3"
+}

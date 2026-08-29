@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Achitti waaqolee hojii harka namootaa, mukaa fi dhagaa, kan hin argan, hin dhageettan, hin nyaatan, hin fuuxan gabbarfatta.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "gabbarfatta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waaqolee"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mukaa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "argan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "dhageettan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "nyaatan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "fuuxan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:33:19.569197178Z",
+  "model": "glm-5.3"
+}

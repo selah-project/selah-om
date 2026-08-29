@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani seennan, hirribne, kakkabe; Yahwe na reggeessa sababiin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "seennan"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "hirribne"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "kakkabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "na reggeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:47.177282035Z",
+  "model": "glm-5.3"
+}

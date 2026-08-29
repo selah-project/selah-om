@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Deebii waggaa irratti mootichi Nebukadnetsar erguun Babiloonitti geesse, meeshaalee manciifama mana Yahwe wajjin; Tsidkiyaahu ⟨את⟩ obboleessa isaa Yehudaa fi Yerushaalayim irratti mootummaa itti bulchise.",
+  "tokens": [
+    {
+      "surface": "ולתשובת",
+      "gloss": "deebii ... irratti"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "erguun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "geesse"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babiloonitti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "manciifama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummaa itti bulchise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyaahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyaahu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "fi Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T14:10:53.033407915Z",
+  "model": "glm-5.3"
+}

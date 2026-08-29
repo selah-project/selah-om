@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Xeemamni fi sarboon garuu hin rukutamne, sababaa isaan boodaa-dheeraa waan baaqqaniif.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "xeemamni"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "sarboon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "rukutamne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "boodaa-dheeraa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:19.265122718Z",
+  "model": "glm-5.3"
+}

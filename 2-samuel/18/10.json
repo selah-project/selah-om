@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Namni tokko isaa argamee Yoowaabiif ggeergeeffatees jeese: \"Kanaa! Abshalom ⟨את⟩ elaawa irratti ol-dabame naan argadhe.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "argamee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ggeergeeffatees"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoowaabiif"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeese"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "naan argadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "ol-dabame"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "elaawa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:53:48.988047052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmi koo, yoo jechoota koo fudhatte, ajajawwan koo ⟨את⟩ si waliin dhoksitte,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmi koo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fudhatte"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoota koo"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ajajawwan koo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "dhoksitte"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:45.733445289Z",
+  "model": "glm-5.3"
+}

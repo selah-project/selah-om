@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Yahwe, Eloohiim cibraa, eeni akka si cimaa ta'e, Yaah? Amantiin kee naannoo kee ⟨ti⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "cibraa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eeni"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka si"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "cimaa ta'e"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "fi amantiin kee"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "naannoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:23.899460025Z",
+  "model": "glm-5.3"
+}

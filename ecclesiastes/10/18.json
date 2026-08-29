@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Dhiddirriin uttiin gadi kufa; harka dhiifuttiiniin manaan dhangala'a.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "dhiddirriin"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "gadi kufa"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "uttii"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "dhiifuttiiniin"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "dhangala'a"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:52.875157958Z",
+  "model": "glm-5.3"
+}

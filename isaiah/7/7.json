@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kun akka jedhe Adoonaay Yahwe: hin dhaabbatu, hin taanus.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kun akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taanus"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:25.085704344Z",
+  "model": "glm-5.3"
+}

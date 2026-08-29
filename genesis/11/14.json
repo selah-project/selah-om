@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sheelach waggaa soddoma-tamii jiraachaa ture, ⟨את⟩ Eber dhalate.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Sheelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "soddoma-tamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:54.094702541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ji'a kun isiniff adda ji'ootaa; inni isiniff isa jalqabaa ji'oota waggaa ti.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ji'a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinif"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ji'ootaa"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "isa jalqabaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinif"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ji'oota"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:58.765973571Z",
+  "model": "glm-5.3"
+}

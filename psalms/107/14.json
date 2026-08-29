@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Hoongee irraa fi du-dullaa irraa isaan baase; hidhaawwan isaanii diddeellee diigse.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "isaan baase"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "Hoongee irraa"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "du-dullaa irraa"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "hidhaawwan isaanii"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "diddeellee diigse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:03.257065827Z",
+  "model": "glm-5.3"
+}

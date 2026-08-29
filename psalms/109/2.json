@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Sababa isaatiin afaan rakkoo fi afaan mamii siritti banan; afaan sowwaa wajjin natti dubbatan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa isaatiin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "fi afaan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mamii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "siritti"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "banan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "natti ⟨את⟩",
+      "marks": "ani — kan dubbatameef"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sowwaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.884094072Z",
+  "model": "glm-5.3"
+}

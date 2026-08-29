@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yahwe, iddoo jireenyaa mana kee ani jaalladhe, fi iddoo wonettii ulufoo kee.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jaalladhe"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "iddoo jireenyaa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "fi iddoo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "wonettii"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ulufoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:50.759228811Z",
+  "model": "glm-5.3"
+}

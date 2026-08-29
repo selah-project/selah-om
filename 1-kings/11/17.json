@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Adad baqate — innii fi namoota Edomaa tokko tokko kan gabroota abbaa isaa, isaa wajjin, Mitsraayim seenuuf; Haadad da'ii xiqqaa ture.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "baqate"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "innii"
+    },
+    {
+      "surface": "ו אנשים",
+      "gloss": "fi namoota"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomaa"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "gabroota ... irraa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaa wajjin"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "seenuuf"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Haadadiis"
+    },
+    {
+      "surface": "נער",
+      "gloss": "da'ii"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "xiqqaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:50.776288928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Lubbuu gabbeera kee gammachiisi, sababaa lubbuu koo, Adoonaay, gara keessi ol baafna.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "gammachiisi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbeera kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara keessi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ol baafna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:05.326556601Z",
+  "model": "glm-5.3"
+}

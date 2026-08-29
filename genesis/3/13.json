@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe Eloohiim dubartiitti jedhe, \"Maal kun hojjette?\" Dubartiin immoo jette, \"Bofni na gowwumsesse, aniis baafadhe.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dubartiitti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubartiin"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "bofni"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "na gowwumsesse"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "baafadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:50.534113973Z",
+  "model": "glm-5.3"
+}

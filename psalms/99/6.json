@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Moshee fi Aharoon qexoota isaa keessaa, Shamuu'eelis maqaa isaa waamtoota keessaa; isaan Yahwe waamu, innis isaan deebisa.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "fi-Aharoon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "qexoota-isaa-keessaa"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "fi-Shamuu'eel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "waamtoota-keessaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa-isaa"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "waamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "isaan-deebisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:25.972516010Z",
+  "model": "glm-5.3"
+}

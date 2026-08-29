@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "kheesed kee na gammachiisuuf haa ta'u, akka jecha keetti gabicha keef.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "to'annaa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "na gammachiisuuf"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "akka jecha keetti"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "gabicha keef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:45.625330902Z",
+  "model": "glm-5.3"
+}

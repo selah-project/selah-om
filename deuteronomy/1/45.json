@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isin deebitanii, Yahwe dura isin ittumtan; Yahwe garuu sagalee keessan hin dhageenye, gurraas gara keessanitti hin kenne.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "isiin deebitanii"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "isin ittumtan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageenye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "sagalee keessan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "gurra kenne"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "gara keessanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:38.742141866Z",
+  "model": "glm-5.3"
+}

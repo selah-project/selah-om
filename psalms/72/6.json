@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Akka roobaa marga baafame irratti bu'a, akka imaltota imalti lafa.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "bu'a"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "akka roobaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גז",
+      "gloss": "marga baafame"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "akka imaltota"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "imalti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:05.161592865Z",
+  "model": "glm-5.3"
+}

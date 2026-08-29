@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Akka gamaddamtu mitti kan dhugaa godhe Yahwe hubachiisa isaa, fi gara gaabbootaatti hinittiin, nii akka kijibbii-cululuqqee.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Akka gamaddamtu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mitti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhugaa godhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "hubachiisa isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ittiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "gaabbootaatti"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "nii akka"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kijibbii-cululuqqee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:24.374279543Z",
+  "model": "glm-5.3"
+}

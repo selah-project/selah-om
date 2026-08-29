@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Mirqaa kee keessatti nan gaddisiisi fi nan dhabamsiisi; gurra kee gara kiyya dhiyeessi, fi nan gaddisiisaa.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "mirqaa kee keessatti"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "nan gaddisiisi"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "fi nan dhabamsiisi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "dhiyeessi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "fi nan gaddisiisaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:20.441461150Z",
+  "model": "glm-5.3"
+}

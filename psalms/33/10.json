@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Yahwe gabaa mootummaawwan balleesse, yaada sabaawwan hanqisise.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "balleesse"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "gabaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mootummaawwan"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "hanqisise"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yaada"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sabaawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:35.467239490Z",
+  "model": "glm-5.3"
+}

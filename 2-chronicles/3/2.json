@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Guyyaa lammaffaa ji'a lammaffaa keessatti, waggaa affur ta'aa isaa keessatti ijuu jalqabe.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "jalqabe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijuu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ji'a keessatti"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "Guyyaa lammaffaa"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "waggaa keessatti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "affur"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "ta'aa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:43.645240697Z",
+  "model": "glm-5.3"
+}

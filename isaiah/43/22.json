@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Garuu ⟨את⟩ anaas hin waamne taate, Ya'aaqob; sababa kanaatiif anaatti gaddabde taate, Israa'el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "anaa (waamichaa (hin waamne) agarsiisa)"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "hin waamne"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aaqob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaatiif"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "gaddabde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:20.378579491Z",
+  "model": "glm-5.3"
+}

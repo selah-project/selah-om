@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Saba keetti maddi jireenyaa ⟨is⟩ ti; ifa kee keessatti ifa ⟨argina⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "keetti"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "maddi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ifa kee keessatti"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "argina"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:08.738086969Z",
+  "model": "glm-5.3"
+}

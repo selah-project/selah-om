@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Qabeenya fi guddina ⟨את⟩ na waliin jira; qabeenya dheeraa fi qajeelfa.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Qabeenya"
+    },
+    {
+      "surface": "ו כבוד",
+      "gloss": "fi guddina"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na waliin",
+      "marks": "Qabeenya fi guddina"
+    },
+    {
+      "surface": "הון",
+      "gloss": "qabeenya"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "ו צדקה",
+      "gloss": "fi qajeelfa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:10.351655895Z",
+  "model": "glm-5.3"
+}

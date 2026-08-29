@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Ka'i, yaa Eloohiim, ⟨the⟩ lafa murteessi; sababa isin gosa hunda dhaalta.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "murteessi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ lafa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "isin"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "dhaalta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gosa hunda"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:00.971929450Z",
+  "model": "glm-5.3"
+}

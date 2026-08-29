@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Inni akkas jedhe: Maaloo, Adoonaay, ergi naa biraan harka kan ati ergitu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Maaloo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka biraan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "kan ati ergitu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:59.113588935Z",
+  "model": "glm-5.3"
+}

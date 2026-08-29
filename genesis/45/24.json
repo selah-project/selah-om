@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Obboleeyyan isaa ⟨את⟩ ergesaa deemanii jedheenis: «Karaa irratti hin regajjiinaa.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeyyan isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedheenis"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "regajjiinaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:52:19.724011523Z",
+  "model": "glm-5.3"
+}

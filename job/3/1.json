@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Boodas Iyyob ⟨את⟩ afaan isaa bane, guyyaa isaas abaare.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "boodas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(sanuma)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bane"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan isaa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "afaan isaa"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "abaare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyyaa isaas"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "guyyaa isaas"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:32.691479018Z",
+  "model": "glm-5.3"
+}

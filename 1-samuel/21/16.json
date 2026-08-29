@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "“Maddawwoota natti hafee miti; kana ⟨את⟩ ana irratti maddawwuuf maaliif fittan? Kun mana koo-tti se'a?”",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "hafee miti"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "maddawwoota"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "fittan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "maddawwuuf"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "se'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mana koo"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:04.878914718Z",
+  "model": "glm-5.3"
+}

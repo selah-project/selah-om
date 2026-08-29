@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Humna Isaa ilmaan namaatti beeksisuuf, ulfaanna boonsaa mootummaa Isaa ⟨beeksisuuf⟩.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "beeksisuuf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "humna Isaa"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ulfaanna"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "boonsaa"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mootummaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:53.486648225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Adda kibbaa ⟨את⟩ safare; kuma shan keessa komboo dhibba shan, komboota safartuu tiin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adda kibbaa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "adda"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "kibbaa"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "safare"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "komboota"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "komboota safartuu tiin"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "safartuu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:31:05.661131302Z",
+  "model": "glm-5.3"
+}

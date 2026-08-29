@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Akka xiqqoo dabre, rakkoo miti; iddoo isaa ilaaltas, rakkoo miti.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Akka xiqqoo dabre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "miti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ilaaltas"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iddoo isaa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "miti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:44.212691467Z",
+  "model": "glm-5.3"
+}

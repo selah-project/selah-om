@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Jecha keetiitiif, akkasumas akka onnee keetti, guddina aa daangaa hin qabne kana hunda taasiftee, akka barsiisuu kan gabbaraa kee <את> waan kana beeksifteef.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "tiif"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "jecha kee"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "akka onnee keetti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "taasiftee"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "guddina hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guddina"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "beeksifteef"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "gabbaraa kee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbaraa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:04.570580103Z",
+  "model": "glm-5.3"
+}

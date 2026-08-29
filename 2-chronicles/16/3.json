@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Kakuu ana fi kee gidduu, abbaa koo fi abbaa kee gidduu jira; akkaataa kanaan, kummoo fi warqee siif ergeera; baadi, kakuu kee Baasha mooti Israa'el waliin hiiki, ana irraa haa ka'u.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Kakuu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ana...gidduu"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "fi kee gidduu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi...gidduu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "akkaataa kanaan"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ergeera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummoo"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "fi warqee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "baadi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "hiiki"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "kakuu kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "haa ka'u"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ana irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:58:47.665930805Z",
+  "model": "glm-5.3"
+}

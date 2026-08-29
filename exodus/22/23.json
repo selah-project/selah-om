@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Breebba Kiyya bahu, si'ee ⟨את⟩ isin muka qilxuudhaan ajjeesa; dubartoonni keessan almannota ta'u, ijoolleen keessan abbaa-male.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "breebba Kiyya"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ajjeesa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "muka qilxuudhaan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "dubartoonni keessan"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "almannota"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ijoolleen keessan"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "abbaa-male"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:30.273514216Z",
+  "model": "glm-5.3"
+}

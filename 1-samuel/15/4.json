@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sa'uulis ⟨את⟩ ummata waamte, Teelaawam keessatti isaani lakkoofse: lakkoofsa miilla dheeraa kuma lama, warra Yahuudaa tiis kuma kudhan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "waamte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "lakkoofse"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "Teelaawam keessatti"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dheera"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma lama"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lakkoofsa miilla (sarara)"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "kuma kudhan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra Yahuudaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "warra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:23.159898412Z",
+  "model": "glm-5.3"
+}

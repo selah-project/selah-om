@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Isaan jecha hamaa ofirraa cimsu; hariiroo dhoksatanii marii sagana; 'Eenyumtu nu arga?' jedhu.",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "cimsu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ofirraa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamaa"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "marii sagana"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "dhoksatanii"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "hariiroo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyumtu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nu arga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:55.114302137Z",
+  "model": "glm-5.3"
+}

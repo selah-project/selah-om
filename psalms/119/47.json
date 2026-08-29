@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ajajoota kee irratti nan gammadda, waan isaan jaalladheef.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "nan gammadda"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "ajajoota kee irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "isaan jaalladheef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:52.912588127Z",
+  "model": "glm-5.3"
+}

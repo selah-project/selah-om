@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Abiimelekis Isaaqiin jedhe: \"Nu irraa deemi; sababiin isaas nu irraa baay'ee baay'ee jabeessoo taate.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelekis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... jedhu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "nu irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "jabeessoo taate"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nu irraa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:25.486761050Z",
+  "model": "glm-5.3"
+}

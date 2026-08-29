@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Isheenis gammee buusa buute; akka waan hamootteen ishee ajajjette hunda raawwatti.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "buute"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gammee buusaa"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "raawwatti"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "ajajjette"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "hamootteen ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:39:40.110607757Z",
+  "model": "glm-5.3"
+}

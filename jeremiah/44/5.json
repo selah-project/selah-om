@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Garuu isaan hin dhageessan, ⟨את⟩ gamba isaanii hin taasifan gara summaraa isaanii irraa deebisuuf, Eloohiimota biroo uunsii hin gubinuuf.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "taasifan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gamba isaanii"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "gamba isaanii"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "deebisuuf"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "summaraa isaanii irraa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hin … -uuf"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "gubuu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimota"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:09:32.683185176Z",
+  "model": "glm-5.3"
+}

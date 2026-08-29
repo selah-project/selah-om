@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kabaja maqaa Isaatti faarfee; kabaja faarfannaa Isaatti dhaabaa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "faarfee"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa Isaatti"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "dhaabaa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "faarfannaa Isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:16.748794007Z",
+  "model": "glm-5.3"
+}

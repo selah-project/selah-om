@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Sagaleen raaduu kee geengala qilleensaa keessa ture; ifni addunyaa adamsiise; addunyaan rukutmate, laftinis hiriirate.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "raaduu kee"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "geengala qilleensaa keessa"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "adamsiise"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ifni"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "rukutmate"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "hiriirate"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "laftinis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:09.309009318Z",
+  "model": "glm-5.3"
+}

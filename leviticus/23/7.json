@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Guyyaa tokkoffaa irratti walgahee qulqulluu taatu isiniif ta'a; hojii olaanaa kamiyyuu hin hojjattan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Guyyaa irratti"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "tokkoffaa"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "walgahee"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "taatu ... ta'a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "olaanaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjattan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:26.410010535Z",
+  "model": "glm-5.3"
+}

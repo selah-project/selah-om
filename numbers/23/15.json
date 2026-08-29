@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Innis Baalakiitti jedhe: \"Ati as kunichee quba, gicha kiyyaa irratti; ani immoo akka kana sanitti qunnaadhu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Baalakiitti"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baalak"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "kunichee quba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "as"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "gicha kiyyaa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "qunnaadhu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akkana sanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:29.387998317Z",
+  "model": "glm-5.3"
+}

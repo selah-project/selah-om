@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Attii eebbifame taate, Yahwe; seerota kee na barsiisi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "eebbifame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "attii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "na barsiisi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seerota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:25.827256008Z",
+  "model": "glm-5.3"
+}

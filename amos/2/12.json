@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Naazirootisimmoo ⟨את⟩ jaati dhiigdeessitan, raajjotas irratti ajajitan 'Raajjaa hin taane' jedhuun.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "dhiigdeessitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaziroota"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "Naaziroota"
+    },
+    {
+      "surface": "יין",
+      "gloss": "jaati"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "raajjotas"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "ajajitan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "raajjaa hin taane"
+    }
+  ],
+  "timestamp": "2026-08-29T10:46:04.942376155Z",
+  "model": "glm-5.3"
+}

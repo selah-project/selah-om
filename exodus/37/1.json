@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Betsalel immoo ⟨את⟩ sanduqa mukoota shiittii taasise; dheerina isaa ammoota lama fi walakkaa, bal'ina isaa ammoo tokko fi walakkaa, ol-ka'ummaa isaa ammoo tokko fi walakkaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "taasise immoo"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiittii"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ammoota lama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi walakkaa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dheerina isaa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ammoo tokko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi walakkaa"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bal'ina isaa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ammoo tokko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi walakkaa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ol-ka'ummaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:31.435077735Z",
+  "model": "glm-5.3"
+}

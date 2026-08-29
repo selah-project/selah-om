@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Kunoo dhaloota Toorrah: Toorri ⟨את⟩ Abramii, ⟨את⟩ Naxoriifi ⟨את⟩ Haran horomsee; Haranis ⟨את⟩ Looti horomsee.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dhaloota"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Toorrah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Toorri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horomsee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramii"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxorii"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxorii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Haranis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horomsee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Looti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Looti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:32.520477904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Yaa Eloohiim, Eloohiim bilisummaa kiyya, na dhiiga irraa haa baafadhu; arrabni kiyyas miira sirna kee laulu.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "na haa baafadhu"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "dhiiga irraa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "bilisummaa kiyya"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "haa laalu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "arrabni kiyya...s"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "miira sirna kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:03.039698295Z",
+  "model": "glm-5.3"
+}

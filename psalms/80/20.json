@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Yahwe, Eloohiim cunquffaa, nu deebisi; fuula kee ifa godhi, nutis ni barbaadna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "cunquffaa"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "nu deebisi"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ifa godhi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ni barbaadna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:37:07.052161590Z",
+  "model": "glm-5.3"
+}

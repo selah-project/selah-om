@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Mootiin Yisra'elis gabroota isaatii jedhe, 'Beektuu Raamoot-Gil'ad keenya ta'uu, adeemsisaa haa jennu nuti ⟨את⟩ ishee harka mootii Araamii irraa fudhuchuu haaromsine beellifannee dabranne?,'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gabroota irratti jedhe—'"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaatii"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Beektuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta'uu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keenya"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Raamoot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "haaromsine beellifannee dabranne?"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "fudhuchuu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (Raamoot-Gil'ad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araamii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:53.057700829Z",
+  "model": "glm-5.3"
+}

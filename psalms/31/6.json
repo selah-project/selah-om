@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Harka kee keessa ruhuu kiyya kenne; Yahwe, Eel dhugaa, ati ⟨את⟩ na bilisa baate.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Harka kee keessa"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhuu kiyya"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "bilisa baate"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:40.033853375Z",
+  "model": "glm-5.3"
+}

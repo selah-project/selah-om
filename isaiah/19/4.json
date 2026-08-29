@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Mitsraayimis ⟨את⟩ harka abbootii humna cimaa jeeqanii harka qabuuf kenna; mootonni humna guddaas isaani irratti bulchaa — himanni Gooftaa tokkicha, Yahwe Sabaa'ot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "abbootii humna cimaa jeeqanii"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "harka qabuuf"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna guddaas"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "bulchaa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaani irratti"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "himanni"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Gooftaa tokkicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaa'ot"
+    }
+  ],
+  "timestamp": "2026-08-29T08:54:08.987672776Z",
+  "model": "glm-5.3"
+}

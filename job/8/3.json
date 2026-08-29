@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Eel moo murtii gorrata? Shaddaay moo galata gorrata?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eel moo"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "gorrata"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaay"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "gorrata"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "galata"
+    }
+  ],
+  "timestamp": "2026-08-29T12:18:26.427808884Z",
+  "model": "glm-5.3"
+}

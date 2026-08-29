@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sababiin waan ta'u inni hin beeku; yeroo ta'u, eenutu isa hima?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenu"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "hima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:04.308840311Z",
+  "model": "glm-5.3"
+}

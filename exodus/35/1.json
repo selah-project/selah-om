@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Moshee ⟨את⟩ garee ilman Israa'el hunda walitti qabeessee, isaaniiniin jedhe: kunoo jechoonni kan Yahwe ajajaniif, ⟨את⟩ isaaniitiin hojjechuuf.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "walitti qabeessee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garee ilman Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "garee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniiniin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajaniif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "hojjechuuf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:26.160588633Z",
+  "model": "glm-5.3"
+}

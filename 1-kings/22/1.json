@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Adeemsisaniis bara sadihiif teessanii, Imaltii Aramii fi Yisra'eliin gidduutti hin jiru turte.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "teessanii"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadihiif"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imaltii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduutti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eliin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:53.057310395Z",
+  "model": "glm-5.3"
+}

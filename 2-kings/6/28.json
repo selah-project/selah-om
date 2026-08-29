@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mootichi immoo isheefi, 'Maal si gaggeesse?' jedhe. Isheen ammoo, 'Dubartii tun aniitti, ⟨את⟩ ilmaa kee kenni, har'a isa nidhaarbina; ⟨את⟩ ilmaa koo amma isa nidhaarbina jetteetti jedhiitti.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheefi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi immoo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si gaggeesse"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jedhiitti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Isheen ammoo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tun"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "jetteetti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aniitti"
+    },
+    {
+      "surface": "תני",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaa kee"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ilmaa kee"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "isa nidhaarbina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ilmaa koo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaa koo"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "isa nidhaarbina"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-08-29T08:24:52.199375563Z",
+  "model": "glm-5.3"
+}

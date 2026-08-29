@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "fi ⟨את⟩ intala dheerittuu, fi ⟨את⟩ tahmasaa, fi ⟨את⟩ shaahapaa, fi ⟨את⟩ shaambiiboo akka gosa isaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intala dheerittuu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "dheerittuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tahmasaa"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tahmasaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shaahapaa"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shaahapaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shaambiiboo"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "shaambiiboo"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "akka gosa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:00.393315884Z",
+  "model": "glm-5.3"
+}

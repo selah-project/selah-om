@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Biyyaa dheeressiifi daaraa kiyya cufi; nafa kiyya 'An gargaarsa kee' jedhi.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "dheeressiif"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "biyyaa"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "cufi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "daaraa"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kiyya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nafa kiyya"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "gargaarsa kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "An"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:16.414489898Z",
+  "model": "glm-5.3"
+}

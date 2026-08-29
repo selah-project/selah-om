@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Sabaawwan keessatti jedhaa: «Yahwe mootaadha»; tebeelee akkaas dhaabbatdeetti, hin sochootu; saboota sirriinsaan murtii godhaa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "jedhaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sabaawwan keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootaadha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkaas"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "dhaabbatdeetti"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebeelee"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sochootu"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "murtii godhaa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sirriinsaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:23.187993553Z",
+  "model": "glm-5.3"
+}

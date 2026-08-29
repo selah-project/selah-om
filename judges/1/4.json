@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yihuudaan ol ba'e; Yahwe immoo ⟨את⟩ Keenaanawwanii fi Piirizoota harka isaaniitiin isaaniif kenne; isaanis Bezek keessatti kuma kudhan namoota ajjeesan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keenaanawwanii fi Piirizoota"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Keenaanawwanii"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "fi Piirizoota"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "harka isaaniitiin"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ajjeesan"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezek keessatti"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    }
+  ],
+  "timestamp": "2026-08-29T14:37:12.978223189Z",
+  "model": "glm-5.3"
+}

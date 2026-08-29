@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Guyyaa guyyaan si eebbisaa; maqaa kee haa faarsu yeroo hunda fi kan itti aanutti.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Guyyaa guyyaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "si eebbisaa"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "haa faarsu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi kan itti aanutti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:18.863816467Z",
+  "model": "glm-5.3"
+}

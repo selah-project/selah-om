@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Aa, deebinee gara Yahweetti. Inni ni baate, ni fayyisa nuti; inni rukute, dhiyessa nuti.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Aa"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "deebinee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweetti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ni baate"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ni fayyisa nuti"
+    },
+    {
+      "surface": "יך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "dhiyessa nuti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:46.850850229Z",
+  "model": "glm-5.3"
+}

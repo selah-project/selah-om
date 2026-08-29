@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Dhageessi, yaa ummata koo, ani si gorfadha; yaa Yisraa'el, yoo si na dhageesse ― na dhageesuu dandeessa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yaa ummata koo"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ani si gorfadha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaa Yisraa'el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "na dhageesse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:06.543023452Z",
+  "model": "glm-5.3"
+}

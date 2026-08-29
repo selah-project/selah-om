@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Maqaan isaa Yisraa'el keessatti \"Mana kan saaphicha baafame\" jedhamuun waamama.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "waamama"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraa'el keessatti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "kan baafame"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "saaphicha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:24.918780338Z",
+  "model": "glm-5.3"
+}

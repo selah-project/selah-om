@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Akkasitis Shimiin yeroo abbuisaa isaatiin jedhe: Baafi, baafi, nama dhiigaa fi nama beliyaalaal ta'aa baate!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Akkasitis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimiin"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "yeroo abbuisaa isaatiin"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Baafi"
+    },
+    {
+      "surface": "צא",
+      "gloss": "baafi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fi nama"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "beliyaal"
+    }
+  ],
+  "timestamp": "2026-08-29T15:57:00.254539671Z",
+  "model": "glm-5.3"
+}

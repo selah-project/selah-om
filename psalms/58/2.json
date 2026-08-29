@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Dhugumaa, dhuwwaa dallanaatti dubbattuu? Sirnaan weeessaa, ilmaan namootaa?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "dhugumaa"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "dhuwwaa (dallanaa)"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dallanaa"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "dubbattuu"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sirnaan"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "weeessaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:10.208583275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Warra si eebbisan ani eebbissa; warra si abaaran ani abaara; lammilee hunda lafa ⟨the⟩ daangaa malee si keessan eebbifamu.\"",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "ani eebbissa"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "warra si eebbisan"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "warra si abaaran"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ani abaara"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "eebbifamu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lammilee"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:24.009176210Z",
+  "model": "glm-5.3"
+}

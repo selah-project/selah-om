@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Odoloonni, na dhageessaa; ummatoonni fageenyaan ollaadhaa; Yahwe gara gogaatti na waame, maqaa koo gara mindsaa haadha koo yaadachiise.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "איים",
+      "gloss": "odoloonni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "ollaadhaa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ummatoonni"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fageenyaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gara gogaatti"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "na waame"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "gara mindsaa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha koo"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "yaadachiise"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "maqaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:59.373197507Z",
+  "model": "glm-5.3"
+}

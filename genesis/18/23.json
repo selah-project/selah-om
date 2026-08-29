@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Avrahaam dhiyaatee akka jedhe: «Sila raawaa ta'aa baddaa waliinis ni balleessitaa?»",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dhiyaatee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akka jedhe"
+    },
+    {
+      "surface": "האף",
+      "gloss": "sila"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "ni balleessitaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "raawaa ta'aa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliinis"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "baddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:26.220262958Z",
+  "model": "glm-5.3"
+}

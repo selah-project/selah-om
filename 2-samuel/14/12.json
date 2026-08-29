@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Dubartiin immoo teette: \"Adaadaan kee, naa, Adoonaay kiyya mooticha irratti jecha haasa'u.\" Mootichi immoo jedhe: \"Haasa'i.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "immoo teette"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubartiin"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "haasa'u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "adaadaan kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "immoo jedhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "haasa'i"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:35.459127199Z",
+  "model": "glm-5.3"
+}

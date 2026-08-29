@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Qalbii isaanii re'eetotaafiis dhuma irratti hin qalan, waan isaan isaaniiti seenan; kun seera yeroo hunda isaaniif ta'ee, dhaloota isaaniitiif hafa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dhuma irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbii isaanii"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "qalbii isaanii"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "re'eetotaafiis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "seenan"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "isaaniiti"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "dhaloota isaaniitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:33.941678199Z",
+  "model": "glm-5.3"
+}

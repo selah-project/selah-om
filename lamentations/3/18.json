@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Aniinis jedhe: humna kiyya bade, kakkessoon kiyyas Yahwe irraa ⟨bade⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bade"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "humna kiyya"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "kakkessoon kiyyas"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:44:48.329169176Z",
+  "model": "glm-5.3"
+}

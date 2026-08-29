@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Saphaa beyladootaaf kan maddisiisu, biqilootas tajaajila namaa tajaajiluuf, dheebaa lafa irraa baasuuf.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "kan maddisiisu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "saphaa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "beyladootaaf"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "biqilootas"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "tajaajilaaf"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dheebaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:46.724871618Z",
+  "model": "glm-5.3"
+}

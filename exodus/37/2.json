@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Isa warqee qulqulluun keessaa fi alaa hoodesse; naannoo isaa isaaf hoddina warqee taasise.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "hoodesse"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluun"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "fi alaa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "זר",
+      "gloss": "hoddina"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:31.435446036Z",
+  "model": "glm-5.3"
+}

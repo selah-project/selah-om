@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jechi Yahwe anaatti dhufe, akka jedhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:21:14.730744375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Bishaan baayyee kan Isaati, Inni isa uume; lafa gogaa harki Isaa (Isaati) uume.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaati"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bishaan baayyee"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "isa uume"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "lafa gogaa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harki Isaa"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "uume"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:04.602358061Z",
+  "model": "glm-5.3"
+}

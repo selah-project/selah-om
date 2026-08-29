@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yoo hidhni isaa dachee keessatti gannaabe, gogeen isaa afuurree keessatti du'a.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "gannaabe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachee keessatti"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "hidhni isaa"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "afuurree keessatti"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "gogeen isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:24.425999499Z",
+  "model": "glm-5.3"
+}

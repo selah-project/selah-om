@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Miteeyyuu, yaa Yahwe, kanneen si jibban nan jibba; kanneen si dhiyan irrattis nan kuttiisa.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Miteeyyuu"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "kanneen si jibban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "nan jibba"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "kanneen si dhiyan irratti"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "nan kuttiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:47.240365239Z",
+  "model": "glm-5.3"
+}

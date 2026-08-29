@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Dhugaa, ana biratti deebi'eera; harka isaa guyyaa hunda garti.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dhugaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ana biratti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "deebi'eera"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "garti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:10.278303470Z",
+  "model": "glm-5.3"
+}

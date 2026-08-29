@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sagalee kiyya si dhaggeeffatte; gurra kee hafuura kiyyaaf, karraa kiyyaaf hin dhoksi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Sagalee kiyya"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si dhaggeeffatte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "dhoksi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "hafuura kiyyaaf"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "karraa kiyyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:17.777536771Z",
+  "model": "glm-5.3"
+}

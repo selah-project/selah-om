@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Israa'el Uumaa isaa wajjin haa gammadhu; ilmaan Siyooni mootan isaaniitiin haa sinfatan.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "haa gammadhu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "Uumaa isaa wajjin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyooni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "haa sinfatan"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "mootan isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:09.332623285Z",
+  "model": "glm-5.3"
+}

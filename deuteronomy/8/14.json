@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "kan onnee kee ol-kaafamtuus, Ati Yahwe ⟨את⟩ Eloohiim kee, si lafa Mitsraayim irraa, mana gabroomaa irraa baafu dagattuu —",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "kan ol-kaafamtuus"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ati dagattuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "si baafu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafa irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gabroomaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:21:26.053541053Z",
+  "model": "glm-5.3"
+}

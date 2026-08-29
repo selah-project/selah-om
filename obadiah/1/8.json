@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Silaa guyyaa sanaa, waan Yahwe jedhe, ogeeyyii Edom irraa hin baasuu, beekumsas gaara Esav irraa?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "silaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "waan … jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "hin baasuu"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ogeeyyii"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edom irraa"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "beekumsas"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gaara … irraa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-29T10:50:20.690425969Z",
+  "model": "glm-5.3"
+}

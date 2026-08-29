@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Yeroo isaaniis heebliin dhume; waggoota isaaniis raawwatti dhaame.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "dhume"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "heebliin"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "yeroo isaaniis"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "waggoota isaaniis"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "raawwatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:19.889961494Z",
+  "model": "glm-5.3"
+}

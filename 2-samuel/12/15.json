@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Nataan gara mana isaa deeme. Yahwe ⟨את⟩ ilmoo kan haadha manaa Uuriyaa Daawidiif dhalchite tuquu, ilmoonis in fayyuu dhaabe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nataan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "tuquu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhalchite"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "haadha manaa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidiif"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "in fayyuu dhaabe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:48:28.456547896Z",
+  "model": "glm-5.3"
+}

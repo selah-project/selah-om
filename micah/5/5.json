@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Isaan ⟨את⟩ biyya Ashur qilxuudhaan mi'aawisu, ⟨את⟩ biyya Niimiroodis gara balbaloota ishee; Ashur irraa ni baafata, yeroo biyya keenya seenus, yeroo daangarratti keenya tumus.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "mi'aawisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilxuudhaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Niimirood"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Niimirood"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "gara balbaloota ishee"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ni baafata"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashur irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "biyya keenya"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "tumu"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "daangarratti keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T10:55:18.958257471Z",
+  "model": "glm-5.3"
+}

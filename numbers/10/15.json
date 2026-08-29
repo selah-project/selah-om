@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Waraana gosa ilmaan Yisaskaar irrattis Netan'eel ilma Tsuu'ar tahu.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskaar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netan'eel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuu'ar"
+    }
+  ],
+  "timestamp": "2026-08-29T05:53:55.182059606Z",
+  "model": "glm-5.3"
+}

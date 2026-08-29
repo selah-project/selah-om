@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Akkasumas sarroota Fira'oon ⟨את⟩ isa wajjin mana adaawaa isaa eegumsa keessa jiran gaafatee akka jedhu: Maaliif fuulli keessan har'a fokkate?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "gaafatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarroota Fira'oon"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "sarroota"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fira'oon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wajjin"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "eegumsa keessa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "adaawaa isaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "fuulli keessan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "fokkate"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    }
+  ],
+  "timestamp": "2026-08-29T04:47:10.738231752Z",
+  "model": "glm-5.3"
+}

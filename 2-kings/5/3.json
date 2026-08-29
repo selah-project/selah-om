@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Innis gabreetta isheetti akkana jedhi: 'Moo! kadabaan koo fuula duraa nabii isa Shomrooni jiru yoo ta'ee, silluu corrataa isaa irraa ⟨את⟩ isa kaasa.'",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "innis ... jedhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akkana jedhi"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "gabreetta isheetti"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Moo!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kadabaan koo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula duraa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomrooni jiru"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silluu"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "kaasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "corrataa isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:27:14.706742345Z",
+  "model": "glm-5.3"
+}

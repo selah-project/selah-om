@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 8:13",
+  "book": "job",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Akkanutti karaawwan hunduu kan Eel dagataniiti; abjuun kan Eel moo'ate ni bada.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "akkanutti"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "karaawwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "kan … dagataniiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "abjuun"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "kan Eel moo'ate"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ni bada"
+    }
+  ],
+  "timestamp": "2026-08-29T12:18:47.518528942Z",
+  "model": "glm-5.3"
+}

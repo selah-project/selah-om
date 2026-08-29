@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mootichiin akkaan namoota ⟨את⟩ isa wajjin jiran harkifamanii dhufan; achis hafuura baafatan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichiin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jiran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "isa wajjin ⟨את⟩",
+      "marks": "namoota isa wajjin jiran"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "harkifamanii"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "hafuura baafatan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achis"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:34.792135010Z",
+  "model": "glm-5.3"
+}

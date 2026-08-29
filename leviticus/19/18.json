@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Hin ittisan, iyyannoowwan waa qabaniis isaaniitti hin eegataniin ⟨את⟩ ilmaan ummata kee; akkuma ofii jabeessa kan si biraa jaalalli jaaladhu; ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "ittisan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "iyyannoo hin eegataniin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan ummata kee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "jaaladhu"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "kan si biraa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akkuma ofii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:58.977289452Z",
+  "model": "glm-5.3"
+}

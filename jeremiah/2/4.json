@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Caalaa, jecha Yahwe, warra mana Ya'aqob, fi maatiiwwan mana Israa'el hunda.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Caalaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi ... hunda"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "maatiiwwan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T15:04:01.766879180Z",
+  "model": "glm-5.3"
+}

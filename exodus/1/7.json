@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmi Israa'el biqilee horatanii, baay'ani, dagaaggani, humna guutuutti caalanii baay'ee baay'ee dha, lafti isaaniin guutamteetti.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ilmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "biqilee horatanii"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "baay'ani"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "dagaaggani"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "caalanii"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "guutamteetti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaaniin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:37.156497864Z",
+  "model": "glm-5.3"
+}

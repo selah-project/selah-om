@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Keessoowwan ⟨את⟩ fi chakoota lamaan ⟨את⟩ dhiqee; qurba ol-kaawwaa irratti altarii irratti ni qora.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "dhiqee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keessoowwan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "keessoowwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chakoota lamaan"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "chakoota lamaan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ni qora"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurba ol-kaawwaa irratti"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarii irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:33:54.346985430Z",
+  "model": "glm-5.3"
+}

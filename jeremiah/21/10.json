@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 21:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kunooti, fuula kiyya magaalaa kana irratti akka foddaa, gaarii miti, saadhe jira, Yahwe jedhe; harka mootii Baabelitti kennamti, ibiddaanis gubamti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunooti"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "saadhe jira"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula kiyya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "foddaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "kennamti"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "gubamti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaan"
+    }
+  ],
+  "timestamp": "2026-08-29T09:36:37.635192400Z",
+  "model": "glm-5.3"
+}

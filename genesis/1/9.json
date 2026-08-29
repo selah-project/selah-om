@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimiin ni jedhe, \"Bishaanoni Samiiwwaan jala jiran bakka tokkotti haa kuufaman, lafa-driitinis haa mul'atu.\" Akkasumas ta'e.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "haa kuufaman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Bishaanoni"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jala jiran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Samiiwwaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bakkatti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "haa mul'atu"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lafa-driiti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Akkasumas"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:30.204864776Z",
+  "model": "glm-5.3"
+}

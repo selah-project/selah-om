@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 117,
+  "translation": "Yahwe'ii gootaa — sabniwwan hunda ⟨את⟩ Yahwe faarsaa; ummattotni hunda faarsaa isa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "faarsaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabniwwan"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "faarsaa isa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ummattotni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:39.787961372Z",
+  "model": "glm-5.3"
+}

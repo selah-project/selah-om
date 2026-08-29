@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Daawidinis ⟨את⟩ saba ⟨את⟩ Isa waliin jiru qorachiise, isaanirratti abbootii kuma fi abbootii dhibba kaafe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "qorachiise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Isa waliin jiru"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaanirratti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "fi abbootii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    }
+  ],
+  "timestamp": "2026-08-29T07:54:10.417897137Z",
+  "model": "glm-5.3"
+}

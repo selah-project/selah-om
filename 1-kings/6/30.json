@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mana bocaa zaaruu fi ⟨את⟩ lafa mana haaromsa booḷaa zaaruu keessaa fi alatti geeṭe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lafaa mana"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "zaaruu\/geeṭe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "daqiqqaa zaaruu"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "fi alatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:49:16.072145102Z",
+  "model": "glm-5.3"
+}

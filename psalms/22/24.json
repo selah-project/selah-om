@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yahwe sodaataniiff, isaa galateeffadhaa; sanyii hunda Ya'aqoob, isaa kabajaa; sanyii hunda Israa'el immoo isaa sodaadhaa.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "sodaataniiff"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "isaa galateeffadhaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "isaa kabajaa"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "isaa sodaadhaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:36.213955747Z",
+  "model": "glm-5.3"
+}

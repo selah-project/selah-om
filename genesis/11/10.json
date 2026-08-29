@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Kunoo dhaloota Sheem: Sheem waggaa dhibba guutuu kan ta'eedhaan ⟨את⟩ Arpaxshad dhalsee waggaa lama bishaan guddaa booda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dhaloota"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kan ta'e"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalsee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaxshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaxshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "waggaa lama"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boda"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "bishaan guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:38.393191831Z",
+  "model": "glm-5.3"
+}

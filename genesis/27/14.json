@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Deeme, fudhate, haadha isaa moo'ate; haati isaa immoo soorata mi'aawaa kan abbaa isaa jaalate raawwarte.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "moo'ate"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "raawwarte"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haati isaa"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "soorata mi'aawaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:37.516718969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Maal-miidhagaa turan gara marii koo jecha Keetti — malta irraa, afaan koo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "miidhagaa turan"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "marii koo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jecha Keetti"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "malta irraa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:50.478603104Z",
+  "model": "glm-5.3"
+}

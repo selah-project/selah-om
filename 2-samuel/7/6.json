@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababa isaatiis, guyyaa ilmaan Israa'el ⟨את⟩ Mitsraayim irraa ol baafadhe erraa ga'eessa kanaatti, mana tokko keessatti hin jiraadhu; tiintuu-dhukkuttaa fi mana-taa'aa keessatti immoo deeme-deeme jira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa isaatiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana tokko keessatti"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ol baafadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "erraa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ga'eessa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaatti"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "immoo jira"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "deeme-deeme"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tiintuu-dhukkuttaa keessatti"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "mana-taa'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:48:02.143978863Z",
+  "model": "glm-5.3"
+}

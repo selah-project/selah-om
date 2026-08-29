@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Waan mallatteewwan Isaa Mitsraayim keessaa dhaabbee fi ajajiiwwan Isaa dirree Tsoo'an keessatti dhaabbee.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhaabbee"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessaa"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "mallatteewwan Isaa"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ajajiiwwan Isaa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoo'an keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:26.260674448Z",
+  "model": "glm-5.3"
+}

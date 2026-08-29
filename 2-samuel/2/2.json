@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Achitti Daawid ol ba'e; hariiroon isaa lamaanis — Axinoam kan Yizre'el, fi Abiigaayil durduutti Nabal kan Karmel.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nis"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lamaanis"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hariiroon isaa"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Axinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "kan Yizre'el"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "fi Abiigaayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "durduutti"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "kan Karmel"
+    }
+  ],
+  "timestamp": "2026-08-29T07:43:32.287425949Z",
+  "model": "glm-5.3"
+}

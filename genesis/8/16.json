@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Teevaa keessaa ba'i — ati, dheertuu kee, ilmaan kee fi dheertoota ilmaan kee ⟨את⟩ waliin kee.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "Teevaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ו אשתך",
+      "gloss": "dheertuu kee"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "dheertoota"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ waliin kee",
+      "marks": "waliin kee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:10.980250189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Eenyummaa kun, beekumsa malee gorsaa dhokate? Kanaafuu ani himadhe, garuu hin hubadhu; waanonni na biraa ol-danda'an, akka beeku hin danda'u.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyummaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "dhokate"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "gorsaa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "malee"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "himadhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "hubadhu"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "waanonni ol-danda'an"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na biraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin danda'u akka"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeku"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:12.680903142Z",
+  "model": "glm-5.3"
+}

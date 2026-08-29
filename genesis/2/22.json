@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe Eloohiim ⟨את⟩ ishii san adaama irraa fudhate, dubartii godhe; immoo ishee adaamitti fide.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "iyyare\/godhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishii san"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ishii san"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adaama"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "fide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adaamatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:41.950076719Z",
+  "model": "glm-5.3"
+}

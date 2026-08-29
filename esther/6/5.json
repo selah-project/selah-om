@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mooticha akkaanniwwanis isaaniin jedhan, \"Ilaali, Haamaan daawwaa keessaa dhaabbatee jira.\" Mootichiinis \"Ni kenna\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "akkaanniwwan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dhaabbatee jira"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "daawwaa keessaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichiinis"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Ni kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T15:35:07.092614846Z",
+  "model": "glm-5.3"
+}

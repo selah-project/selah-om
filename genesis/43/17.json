@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Namichi akka Yoosëf jedhe hojjee, namichi ⟨את⟩ namoota mana Yoosëfatti geessise.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjee"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namichi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosëf"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "geessise"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "manaatti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosëf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:44.030940126Z",
+  "model": "glm-5.3"
+}

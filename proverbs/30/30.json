@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Leencaa — kan beyluu hunda keessatti humna qabu — tokkollee caraa isaa irraa hin deebi'u.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "leencaa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "humna qabu"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "beyluu hunda keessatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "caraa ... irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tokkollee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:29:08.460254696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Isaa booda Ya'iir, nama Gileed, ka'e; Israa'el waggaawaa digdama-lammaffaa fi lama murtii godhe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Isaa booda"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'iir"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "nama Gileed"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "murtii godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdama-lammaffaa"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "fi lama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:05:26.394872462Z",
+  "model": "glm-5.3"
+}

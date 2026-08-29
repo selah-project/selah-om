@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Isaaf daangaa bal'ina harka tokkoo naannawaan godha; daangaa isaatiifiis mooraa warqee naannawaan godha.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "godha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bal'ina harka tokkoo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawaan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "godha"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mooraa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "daangaa isaatiifii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:16.257697907Z",
+  "model": "glm-5.3"
+}

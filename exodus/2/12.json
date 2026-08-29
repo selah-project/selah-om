@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Akkasumas gara kanatti fi gara kanaatti fi geeffame; namni jiraachuu hin argamsiisu jedhee yaaduu, ✁ Mitsraayimii ajjeesee, kolfa keessatti kufee dhaabate.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "fi geeffame"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gara kanatti"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "fi gara kanaatti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "fi arguu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "fi ajjeesee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayimichaa"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsraayimichaa"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "fi kufee dhaabate"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "kolfa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:03.432403051Z",
+  "model": "glm-5.3"
+}

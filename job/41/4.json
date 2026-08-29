@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 41:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Boona isaa dhiifanna hin gochu; jechaa jabina humnaa fi miidhagina caasaa isaa [hin gochu].",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "dhiifanna gochu"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "boona isaa"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "jechaa"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "jabina humnaa"
+    },
+    {
+      "surface": "וחין",
+      "gloss": "fi miidhagina"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "caasaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:34:23.858616568Z",
+  "model": "glm-5.3"
+}

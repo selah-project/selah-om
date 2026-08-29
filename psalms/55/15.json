@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Waa'ee ittiin tokkotti marii mi'aawaa hojjedhu, mana Eloohiim keessatti cunqoo waliin deemu turre.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waa'ee ittiin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tokkotti"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "mi'aawaa hojjedhu"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "marii dhokatu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "deemu turre"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "cunqoo waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:43.403154664Z",
+  "model": "glm-5.3"
+}

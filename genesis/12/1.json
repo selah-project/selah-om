@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahween Avraamitti dubrate: \"Ati lafa kee irraa, fi sanyii dhaloota kee irraa, fi mana abbaa kee irraa ba'i; gara lafa ⟨the⟩ waan ani si agarsiisuutti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dubrate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "lafa kee irraa"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "fi sanyii dhaloota kee irraa"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "fi mana irraa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ani si agarsiisu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:24.008665798Z",
+  "model": "glm-5.3"
+}

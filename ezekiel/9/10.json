@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Anis ija kiyya hin rakkisuu, kijibas hin godhu; karaa isaanii mataa isaanii irratti kaa'adheera.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "anis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "rakkisuu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "kijiba godhu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "karaa isaanii"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "mataa isaanii irratti"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kaa'adheera"
+    }
+  ],
+  "timestamp": "2026-08-29T10:06:24.544487142Z",
+  "model": "glm-5.3"
+}

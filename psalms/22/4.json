@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ati immoo qulqulloo ⟨dha⟩, Teelloota Israa'el irratti teessa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati immoo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqulloo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "teessa"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "Teelloota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:24.281985635Z",
+  "model": "glm-5.3"
+}

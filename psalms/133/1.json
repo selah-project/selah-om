@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 133,
+  "translation": "Faarsa Ol-kabsuu kan Daawid. Kunoo, akka barbaachisaa fi akka gammachiisaa — obboleeyyan waliin jiraachuun, akkasumas tokkoon tokko!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Ol-kabsuu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "barbaachisaa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "fi akka"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "gammachiisaa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "jiraachuun"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "obboleeyyan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tokkoon tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:54.919783360Z",
+  "model": "glm-5.3"
+}

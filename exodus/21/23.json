@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo miidhaan ta'e, lubbuu bakka lubbuutii kaffalti.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "miidhaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kaffalti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuutii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:41.076140865Z",
+  "model": "glm-5.3"
+}

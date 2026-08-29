@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Hayyaa, argaa hojiiwwan Yahwe, waan isaa balleessaa biyya keessaa godhe.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Hayyaa"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "argaa"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "hojiiwwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "balleessaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:58.438513887Z",
+  "model": "glm-5.3"
+}

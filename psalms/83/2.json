@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Eloohiim yoo, hanqinu; inni numuu, hin dhiisuu Eel.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "hanqinu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "numuu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin dhiisuu"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:45.340030808Z",
+  "model": "glm-5.3"
+}

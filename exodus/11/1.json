@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwenis Mosheetti jedhe: \"Nega tokko dhiyoo laalta Barrachaadhaafi (Paroh) irratti; sana booda isin kana narraa hingessu. Yeroo gessu, guutumaan guututti isin kana narraa baasa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dhiyoo"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "laalta"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Barrachaa irratti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sana booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "gessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kana narraa"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "yeroo gessu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "guutumaan guututti"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kana narraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:57.871729311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yoo inni kibee dhiyeessa qurbaana isaa ⟨את⟩, isaa ⟨אתו⟩ fuuldura Yahwee ni dhiyeessa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "kibee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dhiyeessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaana isaa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbaana isaa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ni dhiyeessa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:46.255965149Z",
+  "model": "glm-5.3"
+}

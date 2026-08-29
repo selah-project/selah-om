@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Fi ⟨את⟩ Kholonii fi ⟨את⟩ dirree ishee, fi ⟨את⟩ Debirii fi ⟨את⟩ dirree ishee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dirree ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dirree ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dirree ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dirree ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:28.231058102Z",
+  "model": "glm-5.3"
+}

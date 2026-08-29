@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 10:23",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Isaanis akkas godhaniiru; mootonni shan kanniin holqa sanii irraa isaatti baafaman — ⟨את⟩ mootii Yerushaalayim, ⟨את⟩ mootii Hevron, ⟨את⟩ mootii Yarmuut, ⟨את⟩ mootii Lakish, ⟨את⟩ mootii Eglon.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "godhaniiru"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "baafaman"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootonni shan kanniin"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "shan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanniin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "holqa sanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Yerushaalayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Hevron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Yarmuut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmuut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Lakish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    }
+  ],
+  "timestamp": "2026-08-29T06:48:55.259799535Z",
+  "model": "glm-5.3"
+}

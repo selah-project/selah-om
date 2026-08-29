@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Sararoota ⟨את⟩ seesisse boollota keessatti, dalgee sanduuqicha irratti, sanduuqicha baachuuf ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "seesisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sararoota"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sararoota"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "boollota keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "dalgee"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqicha"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "baachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqicha"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqicha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:31.395957135Z",
+  "model": "glm-5.3"
+}

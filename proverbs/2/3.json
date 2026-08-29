@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yoo dhugumatti gara hubachuu waamitee, gara hubannoo immoo sagalee kee kenne;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yoo dhugumatti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "hubachuu"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "waamitee"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "gara hubannoo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sagalee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:45.733855100Z",
+  "model": "glm-5.3"
+}

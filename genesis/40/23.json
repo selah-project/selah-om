@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Sa'iin dheeffattootaa immoo ⟨את⟩ Yooseef hin yaadadnu, ni irra dagate.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yaadadnu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sa'iin"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dheeffattootaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yooseef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooseef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ni irra dagate"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:27.559970121Z",
+  "model": "glm-5.3"
+}

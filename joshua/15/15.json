@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Achii achii teessoo sanatti ol ba'ee gara warra Debir jiraatanutti; maqaan Debir yeroo duraa Kiryaat-Sefer ture.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achii teessoo sanatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warra ... jiraatanutti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "yeroo duraa"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryaat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-29T14:38:24.776409893Z",
+  "model": "glm-5.3"
+}

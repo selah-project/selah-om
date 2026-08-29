@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ol baasaa, balbaltota, mataa keessan; ol ba'aa, balbaloota yeroo hunda jiran, Mooticha kabajaa ni seenu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ol baasaa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "balbaltota"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mataa keessan"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ol ba'aa"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "balbaloota"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda jiran"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ni seenu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mooticha"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabajaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:49.562038724Z",
+  "model": "glm-5.3"
+}

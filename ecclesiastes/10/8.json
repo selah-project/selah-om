@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Godaana dhiigatutti kufa; kan lagaa diigu abbaabokei nyaacha.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "dhiigatu"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "godaana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "keessatti isa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "kan ... diigu"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "lagaa"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "nyaacha"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "abbaabokei"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:18.057534729Z",
+  "model": "glm-5.3"
+}

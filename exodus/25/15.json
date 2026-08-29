@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Weeziiwwan sanduuqaa keessatti bololichi ta'ani haa jiraatu; isaan irraa hin baafamani.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "weeziiwwan keessatti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqaa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bololichi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "baafamani"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:29.864733230Z",
+  "model": "glm-5.3"
+}

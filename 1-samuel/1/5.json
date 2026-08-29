@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Garuu Chaanaaf koonaa tokko fuul-lama kennaa ture, kanaaf ⟨את⟩ Chaana inni jaalate fi Yahwe ichaarraa ishee cufeera.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Garuu Chaanaaf"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kennaa ture"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "koonaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "fuul-lama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chaana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "cufeera"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ichaarraa ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:41:44.925301007Z",
+  "model": "glm-5.3"
+}

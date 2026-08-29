@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Hundaan kee irraa murteessi koo ba'u; ijiin kee sirrii ta'e agartu.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Hundaan kee irraa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murteessi koo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'u"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ijiin kee"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "agartu"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sirrii ta'e"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:11.549273654Z",
+  "model": "glm-5.3"
+}

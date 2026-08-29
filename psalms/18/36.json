@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Atis gaachana aksii kee naaf kenne, atiin mirgaa kee na deggersa, laaftiin kee na guddisa.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "atis naaf kenne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaachana"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "aksii kee"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "atiin mirgaa kee"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "na deggersa"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "laaftii kee"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "na guddisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.972047894Z",
+  "model": "glm-5.3"
+}

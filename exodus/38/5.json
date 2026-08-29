@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Inni boolla afur sanduuqa boolla afurffaa irratti, mukee-makhaanaa sibiilaa keessaa, baarootaaf teessoo ta'uuf dhiyyeessuuf godsise.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "godsise"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "boolla sanduuqa"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "afurffaa irratti"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "cinacha"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "mukee-makhaanaa sibiilaa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "sibiila"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "baarootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:38.445171090Z",
+  "model": "glm-5.3"
+}

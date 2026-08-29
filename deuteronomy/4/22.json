@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sababiin ani dachii kana keessatti du'a; Yuurdaniin ⟨את⟩ hin dabadhu; isin garuu ni dabartuu, dachii gaarii kana ⟨את⟩ ni dhaaltu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii keessatti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dabadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuurdanii"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yuurdaniin"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "isinis garuu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ni dabartuu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ni dhaaltu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dachii gaarii kana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:18:12.450154985Z",
+  "model": "glm-5.3"
+}

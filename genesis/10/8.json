@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kuushiin immoo ⟨את⟩ Nimrood godhe; inni gamaajjoo dhibataa biyya irratti jalqabe.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kuushiin"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrood"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrood"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "החל",
+      "gloss": "jalqabe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "gamaajjoo dhibataa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gamaajjoo dhibataa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:09.804864315Z",
+  "model": "glm-5.3"
+}

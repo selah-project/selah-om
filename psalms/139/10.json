@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Akkasumas achitti harkaan kee na qajeelcha, mirgaan keettiis na qabata.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harkaan kee"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "na qajeelcha"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "na qabata"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mirgaan keettiis"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:29.883969180Z",
+  "model": "glm-5.3"
+}

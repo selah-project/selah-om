@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 126,
+  "translation": "Yeroo sani afaan keenya naqa'aa, arraba keenya immoo gammachuu guute; yeroo sani sabaawwan keessatti \"Yahwe waan gurguddoo waliin isaan hojjedhe\" ni jedhan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "yeroo sani"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "naqa'aa"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "afaan keenya"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "arraba keenya immoo"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "yeroo sani"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ni jedhan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sabaawwan keessatti"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "waan gurguddoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:28.266154420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Israa'elis Mitsraayim keessa seenes, Ya'aqobiis biyya Chaamitti gaaffannaan jiraate.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "seenes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'aqobiis"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gaaffannaan jiraate"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chaam"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:14.263257307Z",
+  "model": "glm-5.3"
+}

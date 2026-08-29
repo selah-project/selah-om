@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Kan Yahwe Ts'abaawot siif eebbifte, akka jedhu: \"Si eebsama kan ta'e mootummaa koo Mitsraayim, kan hojii harka koo ta'e Ashur, fi dhaala koo Israa'el.\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "siif eebbifte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ts'abaawot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "si eebsama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mootummaa koo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "fi kan hojii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka koo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "fi dhaala koo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:39.444877349Z",
+  "model": "glm-5.3"
+}

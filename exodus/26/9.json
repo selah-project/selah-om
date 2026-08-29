@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Ati ⟨את⟩ shan yrʼoota addatti, ⟨את⟩ jaha yrʼoota ammoo addatti maxxansita; yrʼoota jahaffaatti lachifadhu gara fuula tandii ti.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "maxxansita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shan yrʼoota"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "yrʼoota"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "addatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jaha yrʼoota"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "yrʼoota"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "addatti"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "lachifadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yrʼoota jahaffaatti"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "yrʼoota"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "jahaffaatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tandii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:10.215835540Z",
+  "model": "glm-5.3"
+}

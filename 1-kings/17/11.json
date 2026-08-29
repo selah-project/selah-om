@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Innis yeroo fudhachaa deemu, isheetti waamete akkas jedhe: «Maaloo, harka kee keessatti mursa dabraa natti fudhii.»",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "deemuu isheetti"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "fudhachaa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waamete"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "fudhii"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Maaloo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "פת",
+      "gloss": "mursa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dabraa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:56:53.344854237Z",
+  "model": "glm-5.3"
+}

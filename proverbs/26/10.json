@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Guddaan ⟨is⟩ Kan waan hundaa uume, mindaa salleef kenna, akkasumas mindaa dabrootaaf kenna.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Guddaan"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "Kan waan hundaa uume"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hundaa"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "mindaa kenna"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "salleef"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "mindaa kenna"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dabrootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:55.172130561Z",
+  "model": "glm-5.3"
+}

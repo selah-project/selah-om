@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Anis garaa keetti, yaa Yahwe, kadhaadhaera; gallgibbuu keessatti kadhannaa koo si duraa seena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "garaa keetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kadhaadhaera"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "gallgibbuu keessatti"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannaa koo"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "si duraa seena"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:37.747590897Z",
+  "model": "glm-5.3"
+}

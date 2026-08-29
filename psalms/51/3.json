@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Naa-nasiisi, yaa Eloohiim, akka kheesed-kee; akka baay'ina rahmata keetti yaldiiwwan koo balleessi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Naa-nasiisi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "akka kheesed-kee"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "akka baay'ina"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmata kee"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "balleessi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "yaldiiwwan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:16.374625768Z",
+  "model": "glm-5.3"
+}

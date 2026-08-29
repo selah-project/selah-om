@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Gara waldaa Israa'el hundaattis akka jedhu dubbadhaa: ji'a kana guyyaa kudaffaa irratti namni tokkon ija mana abbootii isaatiif horii tokko fudhachuu qaba, horii tokko manaaf.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "dubbadhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "waldaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "guyyaa kudaffaa irratti"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhachuu qaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkon"
+    },
+    {
+      "surface": "שה",
+      "gloss": "horii tokko"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manaaf"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "שה",
+      "gloss": "horii tokko"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:58.766150727Z",
+  "model": "glm-5.3"
+}

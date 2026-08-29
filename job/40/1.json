@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Yahwe nii deebisee ⟨את⟩ Ayyuubatti akkas jedhe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nii deebisee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayyuubatti"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuubatti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T12:33:23.686119001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Waliin kan kheesed qabu akka kheesed-tummaatti, waliin kan sirrii ta'e akka sirrii-tummaatti hojjeta.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kan kheesed qabu"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "akka kheesed-tummaatti hojjeta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kan sirrii ta'e"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "akka sirrii-tummaatti hojjeta"
+    }
+  ],
+  "timestamp": "2026-08-29T07:58:55.462265563Z",
+  "model": "glm-5.3"
+}

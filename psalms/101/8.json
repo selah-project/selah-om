@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Ganamii ganamutti raawwattoota hamaa biyyaa hundumaatti nagaa baafadha, biiroo magaalaa Yahwee irratti hojii hammilaa hojjatan hundumaatti baasuuf.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "ganamii ganamutti"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "nagaa baafadha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "raawwattoota hamaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyyaa"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "biiroo magaalaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjatan"
+    },
+    {
+      "surface": "און",
+      "gloss": "hojii hammilaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:05.416880894Z",
+  "model": "glm-5.3"
+}

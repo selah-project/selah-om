@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Namni hundi hiika keessaa eeggadhaa; obboleetti kamiinuu hin amaninaa. Sababiin isaas obboleessi hundi seeffata, obboleessa seeffa; jaalalli hundi duubbaa rakkatee deema.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "namni hundi"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "hiika keessaa"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "eeggadhaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamiinuu"
+    },
+    {
+      "surface": "אח",
+      "gloss": "obboleetti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "amaninaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אח",
+      "gloss": "obboleessi"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "seeffata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "obboleessa seeffa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jaalalli hundi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jaalalli"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "duubbaa"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "deema"
+    }
+  ],
+  "timestamp": "2026-08-29T09:30:00.598981055Z",
+  "model": "glm-5.3"
+}

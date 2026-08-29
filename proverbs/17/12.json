@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Bereen ilmaan ishee bakaa buute namatti hawamu, sammuu-dadhabaa silluu isaa keessatti argamu caalaa.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "hawamu"
+    },
+    {
+      "surface": "דב",
+      "gloss": "bereen"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ilmaan ishee bakaa buute"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "namatti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "caalaa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sammuu-dadhabaa"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "silluu isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:47.684128864Z",
+  "model": "glm-5.3"
+}

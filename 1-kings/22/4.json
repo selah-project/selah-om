@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yihoshafatiis jedhe, 'Imaltii Raamoot-Gil'aditti wajjin koo deemtaa?' Yihoshafaatiinis mootii Yisra'el jedhe, 'Ani akka sii, ummatan koo akka ummata kee, fardeen koo akka fardee kee.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yihoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "deemtaa?"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wajjin koo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "Imaltii"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Raamoot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'aditti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yihoshafatiinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "akka sii ani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka ati"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "ummatan koo akka ummata"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "kee"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "fardeen koo akka fardee"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "kee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:53.057873407Z",
+  "model": "glm-5.3"
+}

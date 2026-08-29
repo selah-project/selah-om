@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Sababni namni yoo ⟨את⟩ diina isaa argate, karaa tolaatiin ishee hin baafu? Yahwe immoo si tola akka kenna, waan ati har'a kana naaf hojjiteef.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diina isaa"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "diina isaa"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ishee baafu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tolaa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe immoo"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "si kenna"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tolaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka bu'ee"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hojjite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:12.695717599Z",
+  "model": "glm-5.3"
+}

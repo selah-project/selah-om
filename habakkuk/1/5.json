@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Argaa rasaa biyyaatti, fi ilaalaa, akka dhibbessan ta'aa dhibbadhaa — sababa kuni hojii hojjataa hojjachaa guyyoota keessan keessatti, kan isin hin amantanuu yoo eeramee jiraa.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "argaa rasaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "biyyaatti"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "fi ilaalaa"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "akka dhibbessan ta'aa"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "dhibbadhaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kuni"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojjataa hojjachaa"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "guyyoota keessan keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "amantanuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "eeramee jiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:57:15.280645251Z",
+  "model": "glm-5.3"
+}

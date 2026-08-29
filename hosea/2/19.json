@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Maqoota Baalotaas mul'isuun fuuldura ishee irraa haqa; maqaan isaanis dhumaaf maqaan isaanitiin hin yaadatamu.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "haaqadheef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqoota Baalotaa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqoota"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalotaa"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "fuuldura ishee irraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "hin yaadatamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dhumaaf"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "maqaan isaanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:42:47.868243850Z",
+  "model": "glm-5.3"
+}

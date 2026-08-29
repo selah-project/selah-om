@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kyunki Eztra onnee isaa qopheesse akka ⟨את⟩ qajeelfama Yahwe barbaaduu, akka raawwachuuf, akka Israa'el keessatti seera fi murtii barsiisuus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kyunki"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Eztra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "qopheesse"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "barbaaduu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qajeelfama"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "qajeelfama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "raawwachuuf"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "barsiisuus"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el keessatti"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seera"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "murtii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:52.398613349Z",
+  "model": "glm-5.3"
+}

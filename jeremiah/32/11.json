@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Aniimmoo ⟨את⟩ kitaaba bitaa fudhadhe — ⟨את⟩ kan xinxalame, dambii fi seera — fi ⟨את⟩ kan ifa baaate.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "fudhadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitaaba bitaa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaaba"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan xinxalame"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "kan xinxalame"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "dambii"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "fi seera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "kan ifa baaate"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "kan ifa baaate"
+    }
+  ],
+  "timestamp": "2026-08-29T09:46:38.399234385Z",
+  "model": "glm-5.3"
+}

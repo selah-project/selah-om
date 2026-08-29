@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ni jedhe, «Naa wajjin koottaa; kibba kiyya Yahweef qabu argi.» Isaanis muccaa isaas keessatti baafaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "koottaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ naa wajjin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "argi"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kibba kiyya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "baafaman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaas"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "muccaa isaas keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:29:39.979052413Z",
+  "model": "glm-5.3"
+}

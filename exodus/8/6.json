@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Boruutti jedhe; akka jechoota keeti jedhe, akka ati waan akka Yahwe Eloohiim keenya hin jiru beektuuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "boruutti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akka jechoota keeti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akkatti"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "beektuuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "akka Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:25.575024478Z",
+  "model": "glm-5.3"
+}

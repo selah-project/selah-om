@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Warri si kabaju gara kooti ha deebi'anu; akkasumas ragoota kee ha beekanu.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ha deebi'anu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gara kooti"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "warra si kabaju"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "akkasumas ha beekanu"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ragoota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:50.881578428Z",
+  "model": "glm-5.3"
+}

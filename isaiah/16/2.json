@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "⟨Kun⟩ ta'a: akka simbirree barattuu, akka makaa hambifame, intaltan Mo'ab tiyya ta'u ce'umsa Arnooniiti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "akka simbirree"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "barattuu"
+    },
+    {
+      "surface": "קן",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hambifame"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "intaltan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'ab"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "ce'umsa"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "Arnooniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:53.488171132Z",
+  "model": "glm-5.3"
+}

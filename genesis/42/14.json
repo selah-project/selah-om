@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Yoosefis isaaniin jedhe: \"Inni waan ani isinitti dubbadhe ti — 'margaggaltoota waan taataniitti.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isaaniin jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ani dubbadhe"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "margaggaltoota"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "waan taataniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:54.051905449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ni riixxa ⟨את⟩ saboota hunda; wantoota jaallatamoo saboota hundaatti dhufu; Mana kana ⟨את⟩ kabajaan guutta, Yahwe-tsevaa'ot jedhe.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "Ni riixxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saboota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "wantoota jaallatamoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota (duplicated)"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "guutta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mana kana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabajaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tsevaa'ot"
+    }
+  ],
+  "timestamp": "2026-08-29T10:59:35.841770065Z",
+  "model": "glm-5.3"
+}

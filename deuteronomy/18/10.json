@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Si keessatti hin mirkanaa'u nama ilma isaa ykn intalaa isaa bishaan ibidda keessa darbistu, ogeessa tumsa, raawwistuu mallattoolee, addunituuduu, fi ogeessa seera loltuu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mirkanaa'u"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Si keessatti"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "darbistu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "intalaa isaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibidda keessa"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "tumsa"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ogeessa tumsa"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "raawwistuu mallattoolee"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "addunituuduu"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ogeessa seera loltuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:26:34.106068093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe ⟨את⟩ Yahuudaa dachaa isaa akka dachaa qulqulluu irraatti fudhata, Yerushaalayimis ammas filata.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "fudhata dachaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuudaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "dachaa isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraatti"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "filata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammās"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayimis"
+    }
+  ],
+  "timestamp": "2026-08-29T15:20:43.584268185Z",
+  "model": "glm-5.3"
+}

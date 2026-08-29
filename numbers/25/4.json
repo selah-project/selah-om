@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yahween Mosheetti jedhe: Mataa-dureettota ummata hunda ⟨את⟩ fudhadhu, isaan aduutti Yahwe duratti ol-shallagi, akkasas aarii gubduun Yahwe Israa'el irraa deebifamuu danda'uuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fudhadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa-dureettota ummata hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa-dureettota"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "ol-shallagi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "isaan (mataa-dureettotni)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduutti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "deebifamuu danda'uuf"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "gubduun"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aarii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'el irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:33.986468Z",
+  "model": "glm-5.3"
+}

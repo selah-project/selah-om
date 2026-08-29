@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Waggaa jaha qeexan kee cufta, waggaan jaha waan wayituu kee laaltuu, oomacha ishees walitti qabadhu.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "cufta"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "qeexan kee"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "waggaan jaha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "laaltuu"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "waan wayituu kee"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "walitti qabadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oomacha ishee"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "oomacha ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:17.037290696Z",
+  "model": "glm-5.3"
+}

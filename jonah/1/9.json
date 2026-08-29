@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaanitti jedhe: “Ibreeen ani; Yahwe, Eloohiim-samaawwaa, ani nan sodaadha — kan ⟨את⟩ bishaanii fi ⟨את⟩ lafa gogaa uume.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ibreeen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samaawwaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ייא",
+      "gloss": "nan sodaadha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaanii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lafa gogaa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lafa gogaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:54:11.091559597Z",
+  "model": "glm-5.3"
+}

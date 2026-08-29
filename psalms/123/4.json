@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 123,
+  "translation": "Baay'ee guutame lubbuun keenya handaqqii warra tasgaddaa keessaa fi tuqaa isaa iyyuu malee warra boonaa keessaa.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Baay'ee"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "guutame"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iseef"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "lubbuun keenya"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "handaqqii"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "warra tasgaddaa"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "tuqaa isaa iyyuu malee"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "warra boonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:33.183677140Z",
+  "model": "glm-5.3"
+}

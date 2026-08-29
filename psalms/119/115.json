@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Na irraa deebisaa, warra hamaa; ajajoota Eloohiim kiyya nan eega.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "deebisaa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "warra hamaa"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "nan eega"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajajoota"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:46.273140123Z",
+  "model": "glm-5.3"
+}

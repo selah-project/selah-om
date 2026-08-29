@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Sila kheesed Isaas gonkumaa dhumeeraa? Jechi Isaas durtii durtiitti dhumeeraa?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "dhumeeraa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "gonkumaa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed Isaas"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "dhumeeraa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jechi Isaa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "durtiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:10.897660995Z",
+  "model": "glm-5.3"
+}

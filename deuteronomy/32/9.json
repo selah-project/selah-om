@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Kan Yahwe qoodni ummata Isaa ti; Ya'aqob sararri dhaala Isaa ti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "qoodni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata Isaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sararri"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaala Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:37:29.253088Z",
+  "model": "glm-5.3"
+}

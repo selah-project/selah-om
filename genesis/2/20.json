@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Namaan maqaan waan beelada hundaafi, waan shorrafnii samiifi, waan beelada lafaa hundaatti kenne; namaa garuu jaalala oltuu wal-qabaa isaatti hin argamsiifamne.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Namaan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "waan ... hundaaf"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "beelada"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "waan shorrafnii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "waan ... hundaaf"
+    },
+    {
+      "surface": "חית",
+      "gloss": "beelada"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "namaa garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "argamsiifamne"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "jaalala ooltuu"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "wal-qabaa isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:40.604988269Z",
+  "model": "glm-5.3"
+}

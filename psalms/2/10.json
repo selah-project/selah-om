@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Amma immoo, mootonni, ogeessaa ta'aa; abbaan seeraa addunyaa gorfamaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ogeessaa ta'aa"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "gorfamaa"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "abbaan seeraa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "addunyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:29.268332309Z",
+  "model": "glm-5.3"
+}

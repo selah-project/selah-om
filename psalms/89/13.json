@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Kaabaa fi Kibbaa Ati uumteetan; Taaboora fi Hermoon maqaa kee keessatti ni riwaachan.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Kaabaa"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "fi Kibbaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "uumteetan"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Taaboora"
+    },
+    {
+      "surface": "ווחרמון",
+      "gloss": "fi Hermoon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaa kee keessatti"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ni riwaachan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:41.668227015Z",
+  "model": "glm-5.3"
+}

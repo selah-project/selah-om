@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Kun seera Israa'eeliif inni murteessa kan Eloohiim Ya'aqoob ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkuma kun"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seera"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'eeliif"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murteessa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohiimiif"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:50.487814402Z",
+  "model": "glm-5.3"
+}

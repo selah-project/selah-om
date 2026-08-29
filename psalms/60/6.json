@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Warra si kabajanif diiqa kennitaa, dhugaa irratti akka (⟨the⟩) banamuuf. Seelaa.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "kennitaa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "warra si kabajanif"
+    },
+    {
+      "surface": "נס",
+      "gloss": "diiqa"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "akka banamuuf"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:43.146595034Z",
+  "model": "glm-5.3"
+}

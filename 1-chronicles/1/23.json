@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "fi ⟨את⟩ Ophiir, fi ⟨את⟩ Chavilah, fi ⟨את⟩ Yobab — kun hundi ilmaan Yoktani dha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ophiir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophiir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktani"
+    }
+  ],
+  "timestamp": "2026-08-29T13:28:50.184885109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Warri kofaawwan ⟨the⟩ lafaa kan jiraatan mallattoolee keetiin tijjiibamaa; bahaafi galgala bahaa tokko tokkoon geessisa, isaan ni gabbachu.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "tijjiibamaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kan jiraatan"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kofaawwan"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "mallattoolee keetiin"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "bahaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bahaafi"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "ni gabbachu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:38.192949434Z",
+  "model": "glm-5.3"
+}

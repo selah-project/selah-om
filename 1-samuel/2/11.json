@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Elqanaas Ramaatti mana isaatti deeme; muccaa Isa garuu Yahwe ⟨את⟩ tajaajalaa ture, fuula Ellee sardaaricha duratti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqanaas"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramaatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaatti"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "muccaa Isa garuu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "משרת",
+      "gloss": " SERVANT\/tajaajalaa ture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula Ellee sardaaricha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ellee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sardaaricha"
+    }
+  ],
+  "timestamp": "2026-08-29T07:15:19.315863277Z",
+  "model": "glm-5.3"
+}

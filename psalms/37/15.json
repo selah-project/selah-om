@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Addoonni isaanii onnee isaanii seena, xiyyiwan isaanii ni caccabsamu.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "addoonni isaanii"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "seena"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "xiyyiwan isaanii"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ni caccabsamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:13.041871820Z",
+  "model": "glm-5.3"
+}

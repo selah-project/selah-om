@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Baadiyyaan kiyya gubannaa guutee; fayyuun foon kiyya keessatti hin jiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "baadiyyaan kiyya"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "guutee"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "gubannaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "fayyuun"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "foon kiyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:03.093896485Z",
+  "model": "glm-5.3"
+}

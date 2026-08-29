@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahween Mosheeitti jedhe: \"Ati ofiraa jechuun lakkaddoota lama dhagaa akka warra jalqabaa cuqi; ani immoo lakkaddoota irratti ⟨את⟩ jechoota kan lakkaddoota jalqabaa irratti turan — warra ati cabsite — barreeffadha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "cuqi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati ofiraa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lakkaddoota"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "akka warra jalqabaa"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "ani immoo barreeffadha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lakkaddoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lakkaddoota"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "jalqabaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "warra"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ati cabsite"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:58.159834900Z",
+  "model": "glm-5.3"
+}

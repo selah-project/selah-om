@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "fi ⟨את⟩ uggisaa gogaa horeewwan diimaa-shaayaman, fi ⟨את⟩ uggisaa gogaa tachashii, fi ⟨את⟩ gaachaana daangaa-hirribaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uggisaa gogaa horeewwan"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "uggisaa"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "horeewwan"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "diimaa-shaayaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uggisaa gogaa tachashii"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "uggisaa"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tachashii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gaachaana daangaa-hirribaa"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "gaachaana"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "daangaa-hirribaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:20.582409041Z",
+  "model": "glm-5.3"
+}

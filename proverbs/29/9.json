@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Namoota ogeessa ⟨את⟩ namota silly yaa murtii taasisa; innis saffeessaa fi naa-naa'aa dha, nagaa hin qabu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "murtii taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namota silly"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namota"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "silly"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "saffeessaa"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "naa-naa'aa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:12:29.429947581Z",
+  "model": "glm-5.3"
+}

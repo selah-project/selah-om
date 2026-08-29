@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Gaarreen humna Isaatii dhaabbisa; humnaan kan maganteeffame.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "dhaabbisa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "humna Isaatii"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "kan maganteeffame"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "humnaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:10.422780170Z",
+  "model": "glm-5.3"
+}

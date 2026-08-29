@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Mootiin jechoota Seera isa dhugaa yeroo dhageesse, uffata isaa barbaacha-barbaacha qooduudhaan ⟨את⟩ uffata isaa goode.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "dhageesse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota Seera"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Seera isa dhugaa"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qooduudhaan goode"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffata isaa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uffata isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:11:09.754755980Z",
+  "model": "glm-5.3"
+}

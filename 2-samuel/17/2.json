@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ani isarratti kaa'ama, yeroo inni haphiie harka dhiifatu ta'etti; niin rarbisa, namoonni isa waliin jiran hundi ni baati'u; ⟨את⟩ mooticha qofa rukuti.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ka'ama"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "haphii"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "dhiifatu"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "harka"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "niin rarbisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "ni baati'u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa waliin jiran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isa waliin (jecha 'waliin jiru' ibsa)"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "rukuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:53:24.638808608Z",
+  "model": "glm-5.3"
+}

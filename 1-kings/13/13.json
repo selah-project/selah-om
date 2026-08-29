@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Illoo isaatti jedhe: \"Harree koo natti saadhaa.\" Isaaf saadhan, innis irratti ba'e.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "illoo isaa"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "saadhaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "saadhan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:43.882316491Z",
+  "model": "glm-5.3"
+}

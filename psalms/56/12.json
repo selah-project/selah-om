@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Waaqayyo irratti natti amana; wanti namaan naa godhu homaatu — natti sobuu hin qabu.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Waaqayyo irratti"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natti amana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "natti sobuu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:43.225716492Z",
+  "model": "glm-5.3"
+}

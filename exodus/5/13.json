@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 5:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Raawwattoonni saffisanii jedhan: «Waan guyyaa guyyaan guutaa — hojii keessan — akka yeroo saaphanaa jiru.»",
+  "tokens": [
+    {
+      "surface": "והנגשים",
+      "gloss": "raawwattoonni"
+    },
+    {
+      "surface": "אצים",
+      "gloss": "saffisanii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "guutaa"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "hojii keessan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "guyyaa guyyaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "yeroo ... jiru"
+    },
+    {
+      "surface": "התבן",
+      "gloss": "saaphanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:38.301029674Z",
+  "model": "glm-5.3"
+}

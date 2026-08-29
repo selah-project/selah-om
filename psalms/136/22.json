@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "dhalaa Kan Barbaachisaa ta'ee abdii Isa'eliitiif; sababa kheesedi isaatti isa eega.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "dhalaa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isa'eliitiif — abdii Isa'ieliitiif"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kan tajaajilu isaatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedi isaa eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:08.284712794Z",
+  "model": "glm-5.3"
+}

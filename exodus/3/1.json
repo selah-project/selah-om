@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Mosheen immoo re'oo Yitroo dammaa isaa, ogeessa Midiyaan, re'oo ⟨את⟩ waamuu duuba gannaa geessisee, gara gar'ii Eloohiim Hooreb dhufe.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Mosheen immoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "re'oo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "re'oo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "waamuu"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "dammaa isaa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyaan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "geessisee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waamuu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "waamuu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gannaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gar'ii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Hooreb"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:22.930739168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Fuulla kiyya irratti Eloohiimwan birree siif hin ta'u.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimwan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "birree"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulla kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:15.857719557Z",
+  "model": "glm-5.3"
+}

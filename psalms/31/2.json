@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Keessa kee, Yahwe, nan wolabre; yeroo hunda hin salphinaa; milli kee waliin na baasi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Keessa kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nan wolabre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "salphinaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "milli kee waliin"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "na baasi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:24.453225433Z",
+  "model": "glm-5.3"
+}

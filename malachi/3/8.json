@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Namni ⟨את⟩ Eloohiim adda-baasuu danda'aa? Kiyya adda-baasaa jirtu. Isiin immoo ni jettan: «Maal irraa sii adda-baasne?» — «Maatii kurnanee fi dhiyeenii.»",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "adda-baasuu danda'aa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Namni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Isiin"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "adda-baasaa jirtu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim (kiyya)"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ni jettan"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Maal irraa"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "sii adda-baasne"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "Maatii kurnanee"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "fi dhiyeenii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:01.481099285Z",
+  "model": "glm-5.3"
+}

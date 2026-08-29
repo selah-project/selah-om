@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yoowaab magaalatti eegaa turedura, Uuriyaah ⟨את⟩ iddoo beekutti — warra humna qabanantu san jiru — dhiyyesse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhiyyesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beekutti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "warra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humna qaban"
+    },
+    {
+      "surface": "שם",
+      "gloss": "san jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:38.330063557Z",
+  "model": "glm-5.3"
+}

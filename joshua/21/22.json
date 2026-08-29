@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Fi ⟨את⟩ Kibtsayim daawwiin isheetii, fi ⟨את⟩ Beit-Choeron fi ⟨את⟩ daawwii isheetii — magaalota afur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daawwii isheetii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "daawwiin isheetii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Beit-Choeron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choeron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daawwii isheetii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "daawwii isheetii"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:20.654099517Z",
+  "model": "glm-5.3"
+}

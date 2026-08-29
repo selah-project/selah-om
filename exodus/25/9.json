@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Akka waan ani ⟨את⟩ si agarsiisuutti — ⟨את⟩ caasaa Mana-nyaa'ataa fi ⟨את⟩ caasaa meeshaalee isaa hunda — akkasumas akka sanitti godhaa.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "akka...hundatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "agarsiisuutti"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caasaa Mana-nyaa'ataa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "caasaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mana-nyaa'ataa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "caasaa meeshaalee isaa hunda"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "caasaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "akkasumas akka sanitti"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "godhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:09.749663471Z",
+  "model": "glm-5.3"
+}

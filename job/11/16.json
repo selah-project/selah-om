@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sabiin keenya ati gatii-dhibbeentaa kee irraa dagdata; akka bishaan darbeetti isa yaadachchaa jiraatta — {dagdata-yaadachchaa}",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabiin keenya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gatii-dhibbeentaa kee"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dagdata"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "akka bishaan darbeetti"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "darbee"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yaadachchaa jiraatta"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:16.115880571Z",
+  "model": "glm-5.3"
+}

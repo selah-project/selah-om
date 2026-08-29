@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Leviin immoo ⟨את⟩ nama wajji jiraachuuf waadaa gale; gurbaan immoo isaaf akka tokko ilmoota isaa irraa ta'e.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "waadaa gale"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Leviin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "jiraachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gurbaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "akka tokko"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ilmoota isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:11:50.697350314Z",
+  "model": "glm-5.3"
+}

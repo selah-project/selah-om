@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Fi hiyyeessa dhaddacha isaa keessatti hin teeddebisu.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "fi hiyyeessa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "teeddebisu"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dhaddacha isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:56.571590674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Bofa nagaa akka gaarii ta'e ilaale, lafattis ⟨את⟩ akka miidhagguu ta'e ilaale; mooqa isaa baadhaa guu'uuf gabbisise, gabrumaa kibbaa ta'e.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "bofa nagaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lafatta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafattis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "miidhagguu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "gabbisise"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "mooqa isaa"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "baadhaa guu'uuf"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "למס",
+      "gloss": "kibbaa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gabrumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:53.928106719Z",
+  "model": "glm-5.3"
+}

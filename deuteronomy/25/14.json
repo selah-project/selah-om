@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Meeriisa tokkoofi meeriisa, guddaa fi xiqqaa, mana kee keessatti siif hin ta'u.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mana kee keessatti"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "meeriisa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "fi meeriisa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "fi xiqqaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:03.645490044Z",
+  "model": "glm-5.3"
+}

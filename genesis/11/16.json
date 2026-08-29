@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Eber waggaa afur fi soddoma-tamii jiraachaa ture, ⟨את⟩ Peleg dhalate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi soddoma-tamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:54.095680590Z",
+  "model": "glm-5.3"
+}

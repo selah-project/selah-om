@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Va'iiwwan ifaa Yahwe duratti ol kaase, akka Yahwe ⟨את⟩ Moshee ajajetti.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol kaase"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "va'iiwwan ifaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:14.797411245Z",
+  "model": "glm-5.3"
+}

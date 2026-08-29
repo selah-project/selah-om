@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Mootummoonni waraanaa ni dheebanu, ni dheebanu; durbaan mana jiraattu bakka bu'aa qooddi.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mootummoonni"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ni dheebanu"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ni dheebanu"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "durbaan mana jiraattu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "qooddi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bakka bu'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:21.882461580Z",
+  "model": "glm-5.3"
+}

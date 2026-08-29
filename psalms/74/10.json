@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Yeroo hangam, yaa Eloohiim, aarsi ni arrabaa? Diinni maataa kee yeroo dhaabbatu ni xaaddessa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hangam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ni arrabaa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "aarsi"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ni xaaddessa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maataa kee"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo dhaabbatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:57.854441958Z",
+  "model": "glm-5.3"
+}

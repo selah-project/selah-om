@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Isaan kun Far'oon, mootii Mitsraayim, qofatti dubbachaa turan, ilman Israa'eel ⟨את⟩ Mitsraayim irraa baasuuf — kun Moshee fi Aharoon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "isaan kun"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "dubbachaa turan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Far'oon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ilman Israa'eel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "fi Aharoon"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:37.027589168Z",
+  "model": "glm-5.3"
+}

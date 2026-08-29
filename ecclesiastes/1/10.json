@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Waan tokko 'Ilaali, kun haaraa' jedhamuun ni jiraadhaa? dukkana dheeraaf durseen kan ture, kan nu duraa ture.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ni jira"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "jedhamuun"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dukkana dheeraaf"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "dursaa keessatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "nu duraa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:07.303967132Z",
+  "model": "glm-5.3"
+}

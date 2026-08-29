@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sagaleen Yahwe badda rukuta; Yahwe badda Kaadeshee rukuta.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "badda"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "badda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kaadeshee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:38.087617970Z",
+  "model": "glm-5.3"
+}

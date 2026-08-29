@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Keessummii kee na irraa haqi; morkaa harka kee irraa ani dhumadheera.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "haqi"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "keessummii kee"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "morkaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "dhumadheera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:24.879676279Z",
+  "model": "glm-5.3"
+}

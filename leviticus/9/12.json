@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Qurba gubamees gatte; ilmaan Aharoon ⟨את⟩ dhiiga biraa isaa fidan, innis altarii irratti naannoo isaa facaase.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "gatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurba gubamee"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurba gubamee"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "fidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "biraa isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "facaase"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:20.137330003Z",
+  "model": "glm-5.3"
+}

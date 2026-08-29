@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Hangaan hatattotaa fuula keetti haa dhufu; akka guddina humna kiyyaati, ijji du'aa akka jit'inii haa baafamu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "haa dhufu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuula keetti"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "hangaan"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "hatattotaa"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "akka guddina"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "humna kiyyaati"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "haa baafamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijji"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:49.686672986Z",
+  "model": "glm-5.3"
+}

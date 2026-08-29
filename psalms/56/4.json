@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Guyyaa ani sodaadhu, ani si irratti hirkadha.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ani sodaadhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "hirkadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:03.415338948Z",
+  "model": "glm-5.3"
+}

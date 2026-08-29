@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Ammoo lee'ota mukoota shiittii taasise; ⟨את⟩ isaan warqeedhaan hoodesse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "lee'ota"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiittii"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "hoodesse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (lee'ota)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqeedhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:31.435834296Z",
+  "model": "glm-5.3"
+}

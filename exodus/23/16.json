@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Fi ggita ginsaa, duraa-meedhachaa hojii kee, waan si qonna keessatti buufteetti; fi ggita funannaa, yeroo waggaatti bahu, hojii kee ⟨את⟩ qonna irraa funanu keessa.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "ggita"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "ginsaa"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "duraa-meedhachaa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojii kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "si buufte"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "qonna keessatti"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "ggita"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "funannaa"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "yeroo bahu"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "waggaatti"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "funanu kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojii kee"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojii kee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "qonna"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:53.188190300Z",
+  "model": "glm-5.3"
+}

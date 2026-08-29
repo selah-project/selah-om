@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "El'azaar ⟨את⟩ Piinchas uume; Piinchas ⟨את⟩ Abiishuua uume.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azaar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Piinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Piinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Piinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiishuua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abiishuua"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:40.989599512Z",
+  "model": "glm-5.3"
+}

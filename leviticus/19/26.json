@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Dhiiga wajjin hin baadhattina; tumsa hin hojjattina, urjii-dhokomsa argamsiisuu hin hojjattina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "baadhattina"
+    },
+    {
+      "surface": "על",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "tumsa hin hojjattina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "urjii-dhokomsa argamsiisuu hin hojjattina"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:33.670447470Z",
+  "model": "glm-5.3"
+}

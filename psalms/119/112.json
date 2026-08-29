@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Onnee kiyya seera Ke raawwachuuf gorsadhe — yeroo hunda, dhumarratti.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "gorsadhe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuuf"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera Ke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dhumarratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:16.291753935Z",
+  "model": "glm-5.3"
+}

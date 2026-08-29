@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Akkas ni jedhan: «Yaa ta'a, Yahwe qofa Moshee bira dubbateera? Nu waliinis hin dubbannuu moo?» Yahwe dhageesseera.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ni jedhan"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "yaa ta'a qofa... moo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moshee bira"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbateera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moo... hin... uu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inis"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nu waliin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbateera"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhageesseera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:56:05.390621724Z",
+  "model": "glm-5.3"
+}

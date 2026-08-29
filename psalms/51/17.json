@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Adoonaay, seentoota koo baafadhu; afaan koo faarfamaa kee ni hima.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "seentoota koo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "baafadhu"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "afaan koo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ni hima"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "faarfamaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:13.587029473Z",
+  "model": "glm-5.3"
+}

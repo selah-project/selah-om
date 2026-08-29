@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Noobaachis deeme, ⟨את⟩ Keenaatii fi ⟨את⟩ gandoowwan ishee qabate, maqaan isaatii Noobaach jedhe waameti.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Noobaachis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "qabate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keenaatii"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Keenaatii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gandoowwan ishee"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "gandoowwan ishee"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waameti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Noobaach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "maqaan isaatii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:09:57.136831749Z",
+  "model": "glm-5.3"
+}

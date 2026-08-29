@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yahweens Mosheetti dubbatee jedhe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe:"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:47.576520779Z",
+  "model": "glm-5.3"
+}

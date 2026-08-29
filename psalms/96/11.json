@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Samoonni hawaddhaan, lafti gammadduu; bishaanni boonuu, guutuunsaa malee.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "hawaddhaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samoonni"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "gammadduu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "boonuu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bishaanni"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "guutuunsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:23.188162043Z",
+  "model": "glm-5.3"
+}

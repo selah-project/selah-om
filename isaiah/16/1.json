@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Hoolaa ergaa, kan bulcha biyyaa, Selaa gammoojjii irraa gara gaarree intaltii Tsiyoon.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "כר",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "משל",
+      "gloss": "kan bulcha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyyaa"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Selaa"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "gammoojjii irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intaltii"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:53.487933407Z",
+  "model": "glm-5.3"
+}

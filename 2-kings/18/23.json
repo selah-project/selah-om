@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Amma immoo maaloo, waadaa galchi ⟨את⟩ gooftaa kooyaa, ⟨את⟩ mootii Ashshur tiif; farda kuma lama siin kenna, yoo ati dandeessu namoota ishee irratti fe'uu siif.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "waadaa galchi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gooftaa kooyaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gooftaa kooyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Ashshur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "siin kenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma lama"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "dandeessu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fe'uu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "namoota fe'an"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ishee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:10.330148276Z",
+  "model": "glm-5.3"
+}

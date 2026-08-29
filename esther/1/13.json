@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mootichi ogeeyyii, beekota yeroo ti, ni jedhe — sababa jechi mootichaa akka kanaan duraan gara hunda beekotaa seeraa fi murtii ti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ogeeyyiitti"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "beekota"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kanaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraan gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "beekotaa"
+    },
+    {
+      "surface": "דת",
+      "gloss": "seeraa"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "fi murtii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:55.052453899Z",
+  "model": "glm-5.3"
+}

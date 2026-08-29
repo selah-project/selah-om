@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Kan righteous-iin kheesed-in na haadhu; jaallata kheesed ti. Kan righteous-iin na tal-fiigii; kan akka zayita mataa ti — mataan koo hin didin. Sababa koo achiitti faarfannaa koo waan raawwattoota evil-ii irratti ti.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "na haadhu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan righteous-iin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed-in"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "na tal-fiigii"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayita"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יני",
+      "gloss": "didin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataan koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa koo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "achii"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "faarfannaa koo"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "waan raawwattoota evil-ii irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:02.884026389Z",
+  "model": "glm-5.3"
+}

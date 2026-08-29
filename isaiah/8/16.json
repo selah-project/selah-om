@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ragaa maraadhu; Seera barattoota kiyya midstti xureessi.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "maraadhu"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "xureessi"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Seera"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "barattoota kiyya midstti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:56.084084523Z",
+  "model": "glm-5.3"
+}

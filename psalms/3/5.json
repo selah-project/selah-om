@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sagaleen kiyya gara Yahwe hiikka; Yahwe na deebise gaarri qulqulluu isaa irraa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "sagaleen kiyya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiikka"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "na deebise"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gaarri irraa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu isaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:47.177055421Z",
+  "model": "glm-5.3"
+}

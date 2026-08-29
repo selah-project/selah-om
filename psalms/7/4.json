@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe Eloohiim kiyya, ani kana hojjedheeraa? Haa ilaalu, kaabaan kiyya keessatti miidhaa jiraa?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(haa ilaalu) anaanis"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedheera"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaanis"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jiraa?"
+    },
+    {
+      "surface": "עול",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "kaabaan kiyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:19.845645814Z",
+  "model": "glm-5.3"
+}

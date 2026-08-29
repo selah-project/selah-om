@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Abbaa ta'an namoota kee! Abbaa ta'an tajaajiltoota kee kun, isaan yeroo hunda fuulduraa kee keessa dhaabbatan, ⟨את⟩ beekumsa kee dhagadaniitti!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "abbaa ta'an"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "namoota kee"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "abbaa ta'an"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tatajajiltoota kee"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuulduraa kee keessa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "dhagadaniitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beekumsa kee"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "beekumsa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:10:48.249643865Z",
+  "model": "glm-5.3"
+}

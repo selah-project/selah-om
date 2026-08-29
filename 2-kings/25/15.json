@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Fi ⟨את⟩ mandaroota fi ⟨את⟩ saniwwan waan moora seetii ta'e moora seetii, waan naasii ta'e naasii, ajjeesitootaa guddaan fudhate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mandaroota"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "mandaroota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saniwwan"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "saniwwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "moora seetii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "moora seetii"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi waan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "naasii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "naasii"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ajjeesitootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:53:52.267623377Z",
+  "model": "glm-5.3"
+}

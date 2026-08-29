@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Lakkoofsi isaanii gosaa MenaashEE ti, kuma-lama fi soddoma-lama fi dhibba lama.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "lakkoofsi isaanii"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "gosaa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "MenaashEE"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi soddoma"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "fi dhibba lama"
+    }
+  ],
+  "timestamp": "2026-08-29T14:28:39.371306048Z",
+  "model": "glm-5.3"
+}

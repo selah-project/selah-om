@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Ni godhita miillessa uummamota keessaa, dirree mataa sab-saboota keessaa.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ni godhita"
+    },
+    {
+      "surface": "משל",
+      "gloss": "miillessa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "uummamota keessaa"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sab-sabootaa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:55.675997630Z",
+  "model": "glm-5.3"
+}

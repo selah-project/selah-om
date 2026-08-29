@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Galaaf keessatti jedhe: «Hin sochootu; durtii durtii hordofaan hin rakkoomu.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "galaaf keessatti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sochootu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "durtii hordofaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "«"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "rakkoomu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:39.522185244Z",
+  "model": "glm-5.3"
+}

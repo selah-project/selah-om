@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 4:9",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Eloohiim ammoo Yoonaas jedhe: \"Qiiqiyyoona irratti hoonga'uun kee sirrii ta'aa?\" Innis jedhe: \"Hoonga'uun kiyya sirrii ta'e, hanga du'utti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-s"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonaa"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "sirrii ta'aa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "hoonga'uun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiiqiyyoona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "sirrii ta'e"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "hoonga'uun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'utti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:54:00.794107499Z",
+  "model": "glm-5.3"
+}

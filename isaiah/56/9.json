@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Bineensonni dirree hundaa, kottaa soorachuuuf; bineensonni bosonaa hundaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bineensonni"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "kottaa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "soorachuuuf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bineensonni"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "bosonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:53.769855042Z",
+  "model": "glm-5.3"
+}

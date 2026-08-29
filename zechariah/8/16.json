@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Kunooti jechoonni isin hojjachuu qabdan: namni tokko tokkoon isa wajjin dhugaa dubbadhaa; barreeffamni barbaachisaa kan nagaa meeccaawwan keessan keessatti murtii godhaa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunooti"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjachuu qabdan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dubbadhaa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isa wajjin (ree'uu isa)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "isa wajjin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "barreeffamni barbaachisaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kan nagaa"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "murtii godhaa"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "meeccaawwan keessan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:25.811960996Z",
+  "model": "glm-5.3"
+}

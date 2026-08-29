@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Isheenis isatti jedhe, \"Nu bira qoricha midhaanii akkasumas soorata loonii baay'ee jira; akkasumas iddoo hirkachuuf jira.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "isheenis jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "qoricha midhaanii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "soorata loonii"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nu bira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "hirkachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:05.148128461Z",
+  "model": "glm-5.3"
+}

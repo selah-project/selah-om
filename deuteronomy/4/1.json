@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Amma immoo, Israa'el, dhageessi: seerotaafi murtoota ani ⟨את⟩ isin barsiisu akka raawwattan, akka jiraattaniif, seentan dachee ⟨את⟩ dhaddachsiftan, Yahwe Eloohiim abbootii keessan isiniif kennaa jiru.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "amma immoo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faga"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "seerota"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akka mattuma isaa"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "murtoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "barsiisaa jiru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin (dorgomsiisa)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuuf"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "jiraattaniif"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "seentaniif"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "dhaddachsiftaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dachee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abbootii keessan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenaa jiru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:18:36.824322923Z",
+  "model": "glm-5.3"
+}

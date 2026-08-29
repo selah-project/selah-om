@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Waggaa Tartan Ashdood dhufetti, Sargoni mootii Ashur yeroo ⟨את⟩ isa erru, Ashdood irratti ni lola, isheenis ni fudhata.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Waggaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdood"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "yeroo erru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ni lola"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdood irratti"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ni fudhata"
+    }
+  ],
+  "timestamp": "2026-08-29T08:54:55.103615936Z",
+  "model": "glm-5.3"
+}

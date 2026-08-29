@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yoktaanis ⟨את⟩ Almodaad, fi ⟨את⟩ Sheleph, fi ⟨את⟩ Chatsarmaavet, fi ⟨את⟩ Yerach guute.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoktaanis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "guute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodaad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Sheleph"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sheleph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Chatsarmaavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmaavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:15.075348701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Waadaa Yahwe dhageessaa, mootummootaa Sedom; Seera Waaqee keenya Eloohiim keenya gargaarsaa, ummata Amorrah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waadaa (jecha)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "mootummootaa (abbootii seeraa)"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "gargaarsaa (gurra banaa)"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Seera (Toora)"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorrah"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:53.651558746Z",
+  "model": "glm-5.3"
+}

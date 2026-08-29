@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Daawid isaatti, 'Eessaa dhufte?' jedhe. Inni immoo isaatti, 'Kampii Israa'el irraa nan dhabame' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אי",
+      "gloss": "eessaa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dhufte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "kampii irraa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "nan dhabame"
+    }
+  ],
+  "timestamp": "2026-08-29T07:44:59.949598337Z",
+  "model": "glm-5.3"
+}

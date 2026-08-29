@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Dukkana fi bishaan-dukkana irra deddeebii maraatti; kakaabni fi seerri ruga ta'aa kursiicha isaa ti.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Dukkana"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "fi bishaan-dukkana"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "irra deddeebii maraatti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kakaabni"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi seerri"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ruga ta'aa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kursiicha isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:37.172257946Z",
+  "model": "glm-5.3"
+}

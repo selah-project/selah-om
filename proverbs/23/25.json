@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Abbaan kee fi haadhaan kee haa simatan, kan si dhalattu hawwii.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "haa simatan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaan kee"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "fi haadhaan kee"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "hawwii"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "kan si dhalattu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:29:46.376889005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Waan namna safaru yoo hojjete, yookiin name Ergaa Yaaqooxii ti — ergaa Yaaqooxii garuu — name Isa irraa bitu.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "kan safaru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namna"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "gurguru"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "argame"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaatti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ha du'amu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:44.886382743Z",
+  "model": "glm-5.3"
+}

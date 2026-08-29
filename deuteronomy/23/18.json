@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Intaloota Israa'eel keessaa taate qadhii mana qulqullaa hin hafu; ilmaan Israa'eel keessaa taan immoo qadhii dhiiraa mana qulqullaa hin hafu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "qadhii mana qulqullaa (dubartii)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "intaloota keessaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadhii dhiiraa mana qulqullaa"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilman keessaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:27.151456524Z",
+  "model": "glm-5.3"
+}

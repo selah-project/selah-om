@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Esuus Yaaqobbatti jedhe: \"Na ajajii, maaloo, maraa diima diima kana irraa; ani daangeffameera.\" Sababa kanaafis maqaan isaa Adoomii jedhame.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esuus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yaaqobbatti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "Na ajajii"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "diima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "diima"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "daangeffameera"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaafis"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jedhame"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Adoomii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:05.706159757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Daawid ⟨את⟩ namoota isaa jechoon addoosse, Shaa'ul irratti akka ka'an hin eeyyanne; Shaa'ul immoo holqa irraa ka'ee karaa isaa deeme.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "addoosse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota isaa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "namoota isaa"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "jechoon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hin eeyyanne"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ka'an akka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'ul immoo"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ka'ee"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "holqa irraa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:47.553500286Z",
+  "model": "glm-5.3"
+}

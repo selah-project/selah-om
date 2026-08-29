@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Jireenyaa si gaafate, ati isaaf kennite — dheerina guyyootaa, wolumaafi yeroo dachaa.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "gaafate"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "si irraa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "kennite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyootaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wolumaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "yeroo dachaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:41.239824739Z",
+  "model": "glm-5.3"
+}

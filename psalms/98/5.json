@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Yahwe'f kinnoraan zeemaraa; kinnoraan fi sagalee zeemaraa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zeemaraa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe'f"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnoraan"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnoraan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "fi sagalee"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zeemaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:33.462472419Z",
+  "model": "glm-5.3"
+}

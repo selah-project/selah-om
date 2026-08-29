@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Yahwe eebbifame, kheesed isaa anaaf waan addaa taasiseef, magaalaa maraawaa keessatti.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "eebbifame"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "waan addaa taasise"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed isaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "maraawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:05.943129497Z",
+  "model": "glm-5.3"
+}

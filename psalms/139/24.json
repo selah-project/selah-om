@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Ilaalis, karaa yaaddaa in keessatti yoo jiraate; karaa dheeraa irratti na qajeelfadhu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ilaalis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "yaaddaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in keessatti"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "na qajeelfadhu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dheeraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:47.240855668Z",
+  "model": "glm-5.3"
+}

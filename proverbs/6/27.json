@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Namni ibidda harma isaa keessatti (baadhachuu danda'a), uffanni isiiis hin gubatanuutu?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "danda'a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "harma isaa keessatti"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "uffanni isiiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "hin gubatanuutu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:16.862423041Z",
+  "model": "glm-5.3"
+}

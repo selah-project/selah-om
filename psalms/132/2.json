@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Waan Yahweefiin kakaahe, kan Abiirii Yaakubiifiin nadare.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kakaahe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweefiin"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadare"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abiirii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakub"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:33.739659671Z",
+  "model": "glm-5.3"
+}

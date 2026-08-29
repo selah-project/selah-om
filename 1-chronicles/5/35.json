@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Achimaatsis dhalcha ⟨את⟩ Azarjaah; Azarjaanniis dhalcha ⟨את⟩ Yoonaanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Achimaatsis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjaanniis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoonaanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoonaanan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:33.306305236Z",
+  "model": "glm-5.3"
+}

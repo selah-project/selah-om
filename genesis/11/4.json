@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 11:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Dubbatan: \"Kottaa, biyya isaanii fi dambalii ijaaru — matni isaa samii keessatti haa ta'u — fi maqaa isaanii uumnaa, Waldurgoo faca'ii lafa hundi fuulduratti ta'uu keenya irraa eeguu. — jedhan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "kottaa"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ijaaru"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "dambalii"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "matni isaa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "uumnaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "irraa eeguu"
+    },
+    {
+      "surface": "נפוץ",
+      "gloss": "faca'uu keenya"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:19.043090675Z",
+  "model": "glm-5.3"
+}

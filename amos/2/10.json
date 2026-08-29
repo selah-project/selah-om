@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Akkasumas ani ⟨את⟩ isin biyya Mitsraayim irraa ol-baasee, ⟨את⟩ isin gammoojjii keessa waggaa afurffaa deemsisee, ⟨את⟩ biyya Emorii qabadachuuf.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Akkasumas ani"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ol-baasee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya ... irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ו אולך",
+      "gloss": "deemsisee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gammoojjii keessa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afurffaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "qabadachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Emorii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:46:04.942056346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Nooachis waggaa dhibba shan jaaruu tae; Noochis Sheem, Haam fi Yeefet uume.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tae"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nooach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nooach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haam"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Haam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Yeefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yeefet"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:17.685158394Z",
+  "model": "glm-5.3"
+}

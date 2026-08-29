@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 137,
+  "translation": "Akkamitti galme Yahwe ⟨את⟩ galme Yahwe lafa alaa irratti laalu dandeenya?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Akkamitti"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "laalu dandeenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galme Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "galme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:31.006013767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Kun immoo amma godhi, ijoolloo koo, akkasumas of-baasi, sababa harka maatii-keetti seenuu nuti;illi, adeemi, of-siqoodsi, akkasumas maatii-kee dhiibsi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijoolloo koo"
+    },
+    {
+      "surface": "והנצל",
+      "gloss": "akkasumas of-baasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "באת",
+      "gloss": "seenuu nuti;illi"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "harka"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "maatii-keetti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adeemi"
+    },
+    {
+      "surface": "התרפס",
+      "gloss": "of-siqoodsi"
+    },
+    {
+      "surface": "ורהב",
+      "gloss": "akkasumas dhiibsi"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "maatii-kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:28:52.633044888Z",
+  "model": "glm-5.3"
+}

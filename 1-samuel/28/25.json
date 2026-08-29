@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Burqatti Sha'uul dura fi hiikkaa isaa dura dhiyeessite; isaanis ni nyaatanii, ka'anii, lubeen sanas deeman.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "dhiyeessite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul dura"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "fi ... dura"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hiikkaa isaa dura"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ni nyaatanii"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ka'anii"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "lubeen sanas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    }
+  ],
+  "timestamp": "2026-08-29T07:35:28.838554074Z",
+  "model": "glm-5.3"
+}

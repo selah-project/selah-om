@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Daawif gara Abiyyaataar alaangaan, ilma Axiimeleek, jedhe: «Maaloo, eephoodicha naa dhiyeessaa.» Abiyyaataar ' i ⟨את⟩ eephoodicha gara Daawif dhiyeesse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyyaataar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "alaangaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Axiimeleek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "dhiyeessaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Maaloo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eephoodicha"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyyaataar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eephoodicha"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eephoodicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawif"
+    }
+  ],
+  "timestamp": "2026-08-29T07:39:14.948212669Z",
+  "model": "glm-5.3"
+}

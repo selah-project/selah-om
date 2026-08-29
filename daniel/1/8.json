@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 1:8",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Daaniyeeliinis onnee isaa irratti kaafe akka inni maallaqa mootichaa fi waan dhugaa isaa tiin hin dugsiifamneef, sar'aa sar'eessotaas akka hin dugsiifamneef kadhe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daaniyeeliinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתגאל",
+      "gloss": "dugsiifamneef"
+    },
+    {
+      "surface": "בפתבג",
+      "gloss": "maallaqa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "וביין",
+      "gloss": "fi waan dhugaa"
+    },
+    {
+      "surface": "משתיו",
+      "gloss": "isaa tiin"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "kadhe"
+    },
+    {
+      "surface": "משר",
+      "gloss": "sar'aa"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sar'eessotaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתגאל",
+      "gloss": "dugsiifamneef"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:37.612692634Z",
+  "model": "glm-5.3"
+}

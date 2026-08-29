@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Mootichiinis jedhe: \"Du'aadhaan dhuma, Achiimeleeki, ati fi mana abbaa kees hundi!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aadhaan"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achiimeleeki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kees"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:33.334543535Z",
+  "model": "glm-5.3"
+}

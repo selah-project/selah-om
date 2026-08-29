@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Guyyaa itti aanan keessa Filistiinin du'oota haramisuuf dhufuun, ⟨את⟩ Sha'uul fi ⟨את⟩ ilmaan isaa sadii gaarrea Gilboo'aa irratti kufan arganiiru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "...ta'e"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "guyyaa itti aanan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufuun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinin"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "haramisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'oota"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "du'oota"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "arganiiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa sadii"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarrea...irratti"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboo'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:44:04.199460759Z",
+  "model": "glm-5.3"
+}

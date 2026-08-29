@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Guyyaa sadaffaa irratti Avrahaam ⟨את⟩ ija isaa ol kaase; ⟨את⟩ idduu sanicha fageetti irraa arge.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sadaffaa"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ol kaase"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ija isaa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ija isaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "arge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idduu sanicha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "idduu sanicha"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "fageetti irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:34:26.542261714Z",
+  "model": "glm-5.3"
+}

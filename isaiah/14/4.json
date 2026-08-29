@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Heekkonni kana Baabeliin, mooticha irratti fudhatta, akkasitis akkas jedhu: Akkaatumtii (eegaa) nagaa! — gatuun nagaa ture, warqii-gatuunis dhaabatte!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "fudhatta"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "heekkonni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "akkaatumtii"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "dhaabatte"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "gatuun"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "nagaa ture"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "warqii-gatuu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:06.976566692Z",
+  "model": "glm-5.3"
+}

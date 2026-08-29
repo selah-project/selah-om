@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yahwe ⟨is⟩ muuxannoo kooti fi fincaani koo; Ati gaaffi koo ni reggessitaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "muuxannoo"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "kooti (qooda koo)"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "fi fincaani koo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ni reggessitaa"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "gaaffi koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:21.959662519Z",
+  "model": "glm-5.3"
+}

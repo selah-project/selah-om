@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 114,
+  "translation": "Kan dheecha odola bishaanii godhe, dhagaa cimaaas bishaan burqaa godhe.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Kan ... godhe"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dheecha"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "odola"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "dhagaa cimaa"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "bishaan burqaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:28.523000922Z",
+  "model": "glm-5.3"
+}

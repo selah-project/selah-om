@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Mataa ilmaan Gereshoniiis akka ija maatiis abbootii isaaniitiifi akka maatii isaaniitiin lakkeessaa",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "lakkeessaa (mataa ol-qabuu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshonii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaani"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "akka ija maatiis"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abbootii isaaniitiifi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "akka maatii isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:28:19.911765378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Baalaq ilma Siporriis waan Israa'eel uummoota Emoraawaniin hunda {{את}} arge.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arge"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baalaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Siporriis"
+    },
+    {
+      "surface": "את",
+      "gloss": "{{את}}",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "uummoota Emoraawaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T14:30:36.248901283Z",
+  "model": "glm-5.3"
+}

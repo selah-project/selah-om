@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Balaqqessi kabaja teessoo kee tiifi jechoota ajaa'ibbii kee yaadadha.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "balaqqessi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "teessoo kee"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ajaa'ibbii kee"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "yaadadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:59.325707008Z",
+  "model": "glm-5.3"
+}

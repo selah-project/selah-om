@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ahabis Oobadjaahu, kan mana irratti isa bulchu, waame; Oobadjaahu ⟨את⟩ Yahwe baay'ee sodaa'aa ture.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhaatee"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Oobadjaahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Oobadjaahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sodaa'aa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:35.830737175Z",
+  "model": "glm-5.3"
+}

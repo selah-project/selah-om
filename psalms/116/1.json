@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Ani jaalladha, sababa Yahwe ⟨את⟩ sagalee koo, kadhannaa koo dhageeffachaa jiruuf.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "jaalladha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageeffachaa jiruuf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee koo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee koo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "kadhannaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:09.753494762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Shemu'eli du'e; Israa'iil hundi walitti qabamanii, isaaf sinnaatan, mana isaatis Ramah keessatti awwaalan. Daawidis ka'e, gad-bu'e gara baddadare Paraan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eli"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "walitti qabamanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "sinnaatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "awwaalan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mana isaatis"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramah keessatti"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "gad-bu'e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "baddadare"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paraan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:15.698108965Z",
+  "model": "glm-5.3"
+}

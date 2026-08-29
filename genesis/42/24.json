@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Innis isaan irraa garagalee huqe; isaanitti deebi'ee isaan wajjin dubbate; isaaniirraa ⟨את⟩ Shimoon fudhatee, ija isaanii fuulduratti isa ⟨אתו⟩ hidhe.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "garagalee"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "isaan irraa ⟨את⟩"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "huqe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaan wajjin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "isaaniirraa ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimoon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "hidhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ija isaanii fuulduratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:49.737228285Z",
+  "model": "glm-5.3"
+}

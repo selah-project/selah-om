@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Sababa waan karaa irratti isin hin argamsiisin ⟨את⟩ leemii fi bishaan, yeroo isin Mitsraayimiirraa baatan, akkasumas waan Bil'aam ilma Beor, Pethor irraa, Aram-Nahaaraayim, akka isatti abuureeffamu isirratti kaffaleef.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "arginamsiisin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "leemii"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "fi bishaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "yeroo isin baatan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayimiirraa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "akkasumas waan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kaffale"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "isirratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bil'aam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bil'aam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "Pethor irraa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Nahaaraayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "akka isatti abuureeffamu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:27.996316272Z",
+  "model": "glm-5.3"
+}

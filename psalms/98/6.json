@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Burjiwwan fi sagalee shoofaraa; mootichaa, Yahwe, dura shuuffadhaa.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "burjiwwan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "fi sagalee"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shoofaraa"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "shuuffadhaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:33.462662711Z",
+  "model": "glm-5.3"
+}

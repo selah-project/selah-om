@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Innis: \"Maaliif guyyaatti isa bira deessa? Ji'a haaraa miti, Sabbotiinis miti\" jedhe. Ishiinis: \"Nagaa\" jette.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "deessa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa bira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ji'a haaraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tiinis miti"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbotii"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:25:18.190218765Z",
+  "model": "glm-5.3"
+}

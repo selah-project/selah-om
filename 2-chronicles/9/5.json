@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Isheenis mootichaa jedhe: Dhugaa jechi sun waan biyya kootii keessatti waa'ee jechoota kee fi waa'ee ogeenyii kee dhagayeedha.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "isheenis... jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jechi sun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhagayeedha"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "biyya kootii keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jechoota kee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi waa'ee"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ogeenyii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T13:55:43.115193905Z",
+  "model": "glm-5.3"
+}

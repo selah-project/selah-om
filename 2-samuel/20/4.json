@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Mootichi Amasaas jedhe: \"Namoota Yihuudaa naaf kufachiisi guyyoota sadi'i keessatti; ati immoo as dhaabbadhu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasaas"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "kufachiisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota Yihuudaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadi'i"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ati immoo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "as"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dhaabbadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:57:46.194841491Z",
+  "model": "glm-5.3"
+}

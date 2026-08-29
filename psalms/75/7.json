@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Sababa hoo ol-ka'umsi bahaatiin hin taane, dhihaatiinis hin taane, daandii-dheedaa gaarreen ol aantuus hin taane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa hoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "bahaatiin"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dhihaatiinis hin taane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "daandii-dheedaa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen ol aantuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.557751545Z",
+  "model": "glm-5.3"
+}

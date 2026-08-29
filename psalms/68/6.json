@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Abba wolooqoota, abiif haadha manaa warra durba du'aniiti — Eloohiim, mana qulqulluu isaatti.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "abba"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "wolooqoota"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "abiif"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "haadha manaa warra durba du'aniiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:07.996571226Z",
+  "model": "glm-5.3"
+}

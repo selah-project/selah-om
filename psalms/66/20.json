@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Eloohiim eebamtu ⟨dha⟩, kan kadhannaa koo hin deebifne, akkasumas kheesed isaa ⟨את⟩ irraa koo hin deebifne.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "eebamtu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "deebifne"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannaa koo"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "akkasumas kheesed isaa"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ irraa koo",
+      "marks": "irraa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:42.832845438Z",
+  "model": "glm-5.3"
+}

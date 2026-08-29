@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Daawid harka qabatee ummama isaa bocone; namoonni isa ⟨את⟩ wajjin turanillee hundi akkasumas bocone.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "harka qabatee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ummama isaa irratti"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "bocone"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:44:04.408080713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Mana oollaa kee hin barbaaddin; haadha manaa oollaa kee hin barbaaddin; nadicha isaa fi nadhiifti isaa fi sangaa isaa fi harree isaa fi waan hunda kan oollaa kee ti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "barbaaddin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "oollaa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "barbaaddin"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "haadha manaa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "oollaa kee"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "fi nadicha isaa"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "fi nadhiifti isaa"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "fi sangaa isaa"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "fi harree isaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi waan hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "oollaa kee ti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:53.077458745Z",
+  "model": "glm-5.3"
+}

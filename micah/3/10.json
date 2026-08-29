@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Siyyoon dhiigaan, Yerushaalayimis miidhaadhaan ijaru.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ijaru"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyyoon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dhiigaan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushaalayimis"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "miidhaadhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:59.073165344Z",
+  "model": "glm-5.3"
+}

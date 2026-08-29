@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo riboon riboame, wantaa sana akka ragaa isa geessisa; riboame sana hin kaffalu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "riboon"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "riboame"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "isa geessisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akka ragaa"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "riboame sana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kaffalu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:03.415935603Z",
+  "model": "glm-5.3"
+}

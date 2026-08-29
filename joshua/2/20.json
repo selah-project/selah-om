@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Seensa keenya kana yoo beeksifte, kakuu kee kanas kan nutti kakachiifte irraa nuti akkaawaa miti.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "beeksifte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seensa keenya kana"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "seensa keenya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "akkaawaa miti"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "kakuu kee irraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "nutti kakachiifte"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:49.172110376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Sabni kamiifuuu akka kana hin hojjedhu; seera isaa kan beekanillee miti. Yaah haa gammadan!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kamiifuuu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "seera isaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "miti"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "kan beekanillee"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "haa gammadan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:15.761089155Z",
+  "model": "glm-5.3"
+}

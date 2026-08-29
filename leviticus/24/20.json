@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ciniinii ciniinii jalatti, ija ija jalatti, ilkaan ilkaan jalatti; akka miira namaa tokkotti kenne, akkasuma isa irratti kenname.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ciniinii"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ciniinii"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilkaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilkaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "מום",
+      "gloss": "miira"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "namaa tokkotti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "kenname"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:52.796906417Z",
+  "model": "glm-5.3"
+}

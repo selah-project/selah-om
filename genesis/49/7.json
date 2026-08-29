@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Abaaramni bocaa isaaniitii, sababa cimaa dha; digdugaa isaaniitis, sababa ulfaataa dha; Yaaqob keessatti isaan qooda; Israa'el keessattis isaan facaafsa.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Abaaramni"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "bocaa isaaniitii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "digdugaa isaaniitis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "isaan qooda"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaaqob keessatti"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "isaan facaafsa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el keessattis"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:17.122199262Z",
+  "model": "glm-5.3"
+}

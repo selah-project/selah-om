@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ergamtoota gara Akab mootii Israaʼelitti magaalatti erghe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erghe"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ergamtoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaʼel"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "magaalatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:56.225248849Z",
+  "model": "glm-5.3"
+}

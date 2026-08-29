@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Manaa isaafis foddalee cufamanii, fuullaa-dhiyoo ta'an hojjee isa goda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjee isa goda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manaa isaafis"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "foddaa"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "fuullaa-dhiyoo"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "cufamanii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:35.243197448Z",
+  "model": "glm-5.3"
+}

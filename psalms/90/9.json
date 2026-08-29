@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Kanaaf guyyaan keenya hundi kabaja kee keessatti bira dabran; waggootni keenya akka heeghee (sassaabuu ifaa) dhumeerra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "guyyaan keenya"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "bira dabran"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "kabaja kee keessatti"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "dhumeerra"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "waggootni keenya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "heeghee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.632976707Z",
+  "model": "glm-5.3"
+}

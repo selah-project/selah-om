@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Rakkinni isaanii keessatti Yahweef goddabsiisanii, rakkoo isaaniitiin isa bara goddabsiisef.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "isaan goddabsiisaniifi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "rakkii keessatti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniitiif"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "rakkoo isaaniitiin"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "isaan bara goddabsiise"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:44.536410585Z",
+  "model": "glm-5.3"
+}

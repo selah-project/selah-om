@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ani ⟨את⟩ mana candhii wal-argii fi ⟨את⟩ wejjina qulqulleessa; ⟨את⟩ Aharooniis fi ⟨את⟩ ilmaan isaa Ana qulqulleessa — kadhimii Anaaf ta'uuf.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "qulqulleessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana candhii wal-argii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana candhii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wal-argii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wejjina"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wejjina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "qulqulleessa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kadhimii ta'uuf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Anaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:11.043939759Z",
+  "model": "glm-5.3"
+}

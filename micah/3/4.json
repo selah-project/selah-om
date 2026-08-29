@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo sanas Yahwetti iyyatu; innis ⟨את⟩ isaaniif hin deebisu. Faaca isaa yeroo sana isaan irraa dhokata, akka waan hojiiwwan isaanii hamtuu hojjesaniitti.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo sanas"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "iyyatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahwetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "deebisu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (iyyattoonni)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "dhokata"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Faaca isaa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "hamtuu hojjesaniif"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "hojiiwwan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:49.406378890Z",
+  "model": "glm-5.3"
+}

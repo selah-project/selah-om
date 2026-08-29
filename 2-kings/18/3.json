@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Innis waan Yahwe ija isaa keessatti sirrii ta'e hojjedhe, akka waan Daawid abbaa isaa hojjedhe hundaan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sirrii ta'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ija isaa keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hundaan akka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:10.862965923Z",
+  "model": "glm-5.3"
+}

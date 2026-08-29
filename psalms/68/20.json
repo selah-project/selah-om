@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Kan eebbifamu Adoonaay, guyyaa guyyaa; nu baatu — Waaqni keenya bara nu baduu dha. Seelaa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kan eebbifamu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "nu baatu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Waaqni"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "bara nu baduu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:47.176652166Z",
+  "model": "glm-5.3"
+}

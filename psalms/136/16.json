@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Kan ummata Isaa baddaa keessa geesseef, kiyi yeroo duubatti kheesdi Isaa.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Kan ... geesseef"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata Isaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "baddaa keessa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiyi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo duubatti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesdi Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:06.519960715Z",
+  "model": "glm-5.3"
+}

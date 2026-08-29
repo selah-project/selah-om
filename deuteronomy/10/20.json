@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahwe Eloohiim kee sodaadhu, ⟨אתו⟩ Isa tajaajadhu, Isaatti maxxansoo, maqaa isaatii kakadhu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodaadhu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Isa"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tajaajadhu"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "Isaatti"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "maxxansoo"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "maqaa isaatii"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kakadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:56.781961506Z",
+  "model": "glm-5.3"
+}

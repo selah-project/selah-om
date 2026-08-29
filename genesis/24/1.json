@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Avrahaamis duqaa'e, guutuu gargaaraa seenaa dheereef gale; Yahweis Avrahaam ⟨את⟩ waan hundaan eebbisse.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avrahaamis"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "duqaa'e"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gale"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "guutuu gargaaraa seenaa dheereef"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweis"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "eebbisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waan hundaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:56.310152379Z",
+  "model": "glm-5.3"
+}

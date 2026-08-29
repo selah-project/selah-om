@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Daawid ⟨את⟩ hordii hunda fi ⟨את⟩ loon fudhate; beela sana duratti dhiyeessaniiru, \"Kun faadhii Daawid ti\" jedhan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hordii hunda fi loon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hordii"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "fi loon"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "dhiyeessaniiru"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "beela"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "faadhii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:03.229413967Z",
+  "model": "glm-5.3"
+}

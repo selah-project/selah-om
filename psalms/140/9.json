@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Yahwe, hiikawwan namaa moota hin kenninu; dammii isaa hin baafadhin; akka ol ka'anuu hin taasin. Seelaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kenninu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "hiikaawwan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "namaa moota"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "dammii isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "baafadhin"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "akkas akka ol ka'anuu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:27.828409706Z",
+  "model": "glm-5.3"
+}

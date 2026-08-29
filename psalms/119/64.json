@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kheesed-ke Yahwe, lafti guutamteetti; seera kee na barsiisi.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Kheesed-ke (jaalala kakuu kee)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "guutamteetti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti (dacha)"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "na barsiisi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:00.471533098Z",
+  "model": "glm-5.3"
+}

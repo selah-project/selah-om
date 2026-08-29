@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Kuma-oof Israa'eliirraa gosa tokkooffaa kuma tokko kennaman — kuma kudhan-lamee waraanaaf madaalaman.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "kennaman"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kuma-oof irraa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "gosa tokkooffaa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kudhan-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lamee"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "madaalaman"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraanaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:09:58.569666494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Handaqqoon heddu kan raashaa ti; kan Yahwe irratti amanu garuu, kheesed ni marsa.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "heddu"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "handaqqoon"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kan raashaa ti"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "kan amanu garuu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ni marsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:58.644259579Z",
+  "model": "glm-5.3"
+}

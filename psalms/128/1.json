@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 128,
+  "translation": "Faarsa ol-ol-ka'umsaati. Bultaan gammachuu kan nama kabachu Yahwe, kan karaawwan Isaa keessa deemu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "faarsa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ol-ol-ka'umsaa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bultaan gammachuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kan nama"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kabachu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kan deemu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "karaawwan Isaa keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:12.520155289Z",
+  "model": "glm-5.3"
+}

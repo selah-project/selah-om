@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Hate jechu irraa isaan baraarsuu; ajeessaa harka irraa isaan bituu.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "isaan baraarsuu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hate"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "isaan bituu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ajaa'ibbessaa (ajeessaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:44.075438465Z",
+  "model": "glm-5.3"
+}

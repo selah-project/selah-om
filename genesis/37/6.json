@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Isaanis jedhe: Maaltokkaa dhageessaa, riyya kana kan ani riyye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti (isaanitti)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Maaltokkaa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "riyya kana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ani riyye"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:22.811690867Z",
+  "model": "glm-5.3"
+}

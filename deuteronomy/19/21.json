@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Iji kees hin rifachuu; lubbuu ⟨the⟩ lubbuu, iji ⟨the⟩ iji, ilkaanii ⟨the⟩ ilkaanii, harka ⟨the⟩ harka, miilla ⟨the⟩ miilla.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "rifachuu"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "iji kees"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iji"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "iji"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilkaanii"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ilkaanii"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "miilla"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "miilla"
+    }
+  ],
+  "timestamp": "2026-08-29T06:26:08.965199815Z",
+  "model": "glm-5.3"
+}

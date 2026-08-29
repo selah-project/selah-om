@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Jaakobiinis ⟨את⟩ Paroh eebbisise, fuuldurii Paroh irraas ba'e.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "eebbisise"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobiinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fuuldurii ... irraas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:05.911853227Z",
+  "model": "glm-5.3"
+}

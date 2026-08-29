@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis jedhe: \"Nu uumna aadamii suuraa keenyaatti, akka fakkaatty keenyaatti; isaanis qooda bishaanii, simbirroota samii, beyladaa fi lafa guutuu, akkasumas wantoota lafa irratti kophaa kophaan sochoosan hunda bulchan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nu uumna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamii"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "suuraa keenyaatti"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "akka fakkaatty keenyaatti"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "bulchan"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "simbirroota"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "beyladaa irratti"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa guutuu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "wantoota sochoosan"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "kophaa kophaan sochoosan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:00.729510707Z",
+  "model": "glm-5.3"
+}

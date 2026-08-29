@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Daddafadhe, hin dhibdhibbin, ajajawwan Keetti eeguuf.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "daddafadhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "dhibdhibbin"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eeguuf"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ajajawwan Keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:56.971838929Z",
+  "model": "glm-5.3"
+}

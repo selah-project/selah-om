@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Isaanis isaatti jedhan: \"Lakki, Adoonaay kiyya; gabroonni kiyyaa soorata bitachuuf dhufani.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lakki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "gabroonni kiyyaa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "bitachuuf"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "soorata"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:36.070538371Z",
+  "model": "glm-5.3"
+}

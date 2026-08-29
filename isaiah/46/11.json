@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Bakka kabajaa irraa shammarrichaa bahaan waamu, dheerina fageenyaa irraa nama gorsa kiyya raawwatu; 'Ni jedhe, ni fida; ni dhiyeessite, ni raawwadha' ani.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "waamu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bahaan"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "shammarrichaa bakka kabajaa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dheerina fageenyaa irraa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "gorsa kiyya raawwatu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "waan tokko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "waan tokko"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "ni fida"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "ni dhiyeessite"
+    },
+    {
+      "surface": "אף",
+      "gloss": "waan tokko"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ni raawwadha"
+    }
+  ],
+  "timestamp": "2026-08-29T09:09:37.325982252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Borra isa gadiitti naa godde, dukkana keessatti, bishaan gadii ho'a keessatti.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "naa godde"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "borra"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "isa gadiitti"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dukkana keessatti"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "bishaan gadii ho'a keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:30.832898054Z",
+  "model": "glm-5.3"
+}

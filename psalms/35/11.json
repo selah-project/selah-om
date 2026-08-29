@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "RagaaWWan woodii kantanii; waan ani hin beekne natti gaafatu.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "kantanii"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ragaaWWan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "woodii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beekne (ani)"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "natti gaafatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:26.549294557Z",
+  "model": "glm-5.3"
+}

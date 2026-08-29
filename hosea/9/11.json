@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Efrayim akka shimbirtii ni fo'a; kabajni isaanii dhalachaa irraa, garaacha irraa fi immansa irraa ni ba'e.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "akka shimbirtii"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "ni fo'a"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kabajni isaanii"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "dhalachaa irraa"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "garaacha irraa"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "immansa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:18:19.955638175Z",
+  "model": "glm-5.3"
+}

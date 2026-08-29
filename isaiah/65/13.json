@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 65:13",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Sababa kanaa akka kana jedhe Adoonaay Yahwe: Kunoo, gabrootan kiyya ni nyaatu, isin immoo ni beeltu; kunoo, gabrootan kiyya ni dhugu, isin immoo ni dheedu; kunoo, gabrootan kiyya ni gammaddu, isin immoo ni teeceu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sababa kanaa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabrootan kiyya"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni nyaatu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "isin immoo"
+    },
+    {
+      "surface": "תרעבו",
+      "gloss": "ni beeltu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabrootan kiyya"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ni dhugu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "isin immoo"
+    },
+    {
+      "surface": "תצמאו",
+      "gloss": "ni dheedu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabrootan kiyya"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ni gammaddu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "isin immoo"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "ni teeceu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:22:53.998350618Z",
+  "model": "glm-5.3"
+}

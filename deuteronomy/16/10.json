@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 16:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Fi iggeeffata torbanotaa Yahwe Eloohiim kee godinaattuu, kenna harka kee fedhii jalatti siif kenneeddaan, akka Yahwe Eloohiim kee si eebbisutti.",
+  "tokens": [
+    {
+      "surface": "וועשית",
+      "gloss": "fi ... godinaattuu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "iggeeffata"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "torbanotaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "מסת",
+      "gloss": "eeddaan"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "fedhii jalatti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka ... -tti"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "si eebbisutti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:41.162343222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Lafiinis yeroo isin ishee tilmooftan ⟨את⟩, akka sabaa isin duraa jiru ⟨את⟩ hoo'etti, isin ⟨את⟩ hin hilgisiiftu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "hilgisiiftu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafiin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "yeroo isin tilmooftan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (lafi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "hoo'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "isin duraa jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:13.353295340Z",
+  "model": "glm-5.3"
+}

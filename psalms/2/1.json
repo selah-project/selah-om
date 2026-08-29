@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Maaltiifi sabbatonni tuqumsiisan, sabniwwanis duwwaa yaaduu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maaltiif"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "tuqumsiisan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabbatonni"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "sabniwwanis"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "yaaduu"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "duwwaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:46.673537960Z",
+  "model": "glm-5.3"
+}

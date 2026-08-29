@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kun ta'e, sababa midhiftoonni Eloohiim ⟨את⟩ sodaataniif, Isaan isheedhaaf manaalee uume.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kun ta'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sodaataniif"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "midhiftoonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isheedhaaf"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manaalee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:30.520016623Z",
+  "model": "glm-5.3"
+}

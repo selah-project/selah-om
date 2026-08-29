@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Yoosifinis isaan ⟨את⟩ gaditti lagaan isaa irraa baase; innis fuula isaa dachii irratti godaabee isa abbaawaa facaase.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosifinis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "gaditti lagaan isaa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "facaase"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "fuula isaa isa abbaawaa irratti"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dachii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:58.531401186Z",
+  "model": "glm-5.3"
+}

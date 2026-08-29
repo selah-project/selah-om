@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Bheemota keessaa waan paarsa qoodu, paarsa qoodachaan qoodame, giraa ol-geessisu — kuni ⟨את⟩ isin nyaachuu dandeessu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wanti kamiyyuu"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "paarsa qooddu"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "paarsa"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "fi qoodame"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "qoodachaan"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "paarsa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ol-geessisu"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "giraa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bheemota keessaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kun (bheema sun)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "isaan nyaattan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:48.676208257Z",
+  "model": "glm-5.3"
+}

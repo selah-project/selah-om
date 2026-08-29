@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mootichi ⟨את⟩ qurxii fi ⟨את⟩ warqee Yerushaalayim keessatti akka rasaalleetti taasise; ⟨את⟩ sedarootas akka mukoota doombii baha keessatti jiran hedduudhaan kenne.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurxii"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qurxii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warqee"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "akka rasaalleetti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sedaroota"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sedaroota"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "akka mukoota doombii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jiran"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "baha keessatti"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "hedduudhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:48:50.409229159Z",
+  "model": "glm-5.3"
+}

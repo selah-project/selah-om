@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "ifi ⟨את⟩ Parmashtaa, ifi ⟨את⟩ Arisaayi, ifi ⟨את⟩ Aridaayi, ifi ⟨את⟩ Wayizaataa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ifi ⟨את⟩",
+      "marks": "Parmashtaa"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmashtaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ifi ⟨את⟩",
+      "marks": "Arisaayi"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisaayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ifi ⟨את⟩",
+      "marks": "Aridaayi"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridaayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ifi ⟨את⟩",
+      "marks": "Wayizaataa"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Wayizaataa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:59.072622199Z",
+  "model": "glm-5.3"
+}

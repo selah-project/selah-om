@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Elohiimif galata kenni; Elyooniinis waadaa kee guuti.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "kenni (hiikkaa gadhisaa)"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohiimif"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "galata"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "guuti"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyooniinis"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "waadaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.027140180Z",
+  "model": "glm-5.3"
+}

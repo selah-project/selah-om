@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Afaan isaanii na irratti banani; akka jibba jechoo-dhiibanii fi guugu'aa ta'ani.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "banani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na irratti"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "afaan isaanii"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "jibba"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "jechoo-dhiibanii"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "fi guugu'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:48.004340033Z",
+  "model": "glm-5.3"
+}

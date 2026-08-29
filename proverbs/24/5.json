@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Dhiira ogeessa ⟨is⟩ humna qaba; dhiira beekumsaas humna cimsa.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fi dhiira"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsaa"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "cimsa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humna"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:09.843433130Z",
+  "model": "glm-5.3"
+}

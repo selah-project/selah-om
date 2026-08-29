@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Akkasumas akka beekanu — maqaan kee Yahwe, ati qofaadha — Elyoon, lafa guutuu irratti.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "akkasumas akka beekanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasumas akka beekanu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qofaadha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:22.423680335Z",
+  "model": "glm-5.3"
+}

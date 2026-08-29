@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sababaa baay'ee ogeummaa keessatti baay'een dhukkubbii ⟨ᐧ⟩ ta'a; fi kan beekumsa dabalatu dhukkubbii dabalata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'ee keessatti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogeummaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "dhukkubbii"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "fi kan dabalatu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "dabalata"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "dhukkubbii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:19.459372290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Akkasumas ni deebi'u galgalatti, akka sareetti ni heeyyamu, naanneeffamus magaalattii ishee.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ni deebi'u"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "galgalatti"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ni heeyyamu"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "akka sareetti"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ni naanneeffamu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalattii ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:52.069824147Z",
+  "model": "glm-5.3"
+}

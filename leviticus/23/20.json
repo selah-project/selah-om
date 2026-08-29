@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Qaallin ⟨את⟩ isaanii tamsaasa — maasha bikkurriwwaa wajjin, tamsaasaa Yahwe fuulduratti, ibiyyoo lamaan wajjin; qulqullumaa ta'u, Yahweef, qaallaa godha.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "tamsaasa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qaallin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaanii (ibiyyoo lamaan fi maasha bikkurriwwaa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maasha"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "bikkurriwwaa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tamsaasaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaan"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ibiyyoo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullumaa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "qaallaa godha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:37.090545883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Ani ⟨את⟩ Yisra'el foddaa waan isaanif kenne irraa baafadha; mana waan maqaa kiyyaaf qulqulleesse, ⟨את⟩ fuula kiyyaa irraas baafadha; Yisra'el sabaa hunda keessatti fakkaattiifi maammila ta'a.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "foddaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "qulqulleesse"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "maqaa kiyyaaf"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula kiyyaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "fakkaattii"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "maammila"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:03.161382363Z",
+  "model": "glm-5.3"
+}

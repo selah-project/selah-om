@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Hoojjettaa, onneen keessanis hoojjetuu haa ta'u, isaan hunda kan Yaabweetti kakaatan.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Hoojjettaa"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "haa hoojjetuu ta'u"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onneen keessan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "kan kakaatan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaabweetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:24.605111055Z",
+  "model": "glm-5.3"
+}

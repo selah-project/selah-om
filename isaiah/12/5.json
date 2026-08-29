@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isaa zaammaraa (sababa) Yahwe waan kabajaa hojjedheef; kun hunda lafaratti beekamaa dha.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Isaa zaammaraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(sababa)...eef"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "waan kabajaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "beekamaa dha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:48:54.647881790Z",
+  "model": "glm-5.3"
+}

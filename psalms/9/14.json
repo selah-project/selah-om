@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe naa toladdhu; rakkoo kiyyaa kan kanan jaallessan ilaali; kan na baltii du'aa irraa ol baafte.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "naa toladdhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "rakkoo kiyyaa"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kan kanan jaallessan"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "kan... ol baafte"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "baltii"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:17.788320001Z",
+  "model": "glm-5.3"
+}

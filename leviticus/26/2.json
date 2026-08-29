@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Sabbataawwan koo ⟨את⟩ eegaa, miidhagaa koo tiin sodaadhaa; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabbataawwan koo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabbataawwan koo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "miidhagaa koo tiin"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sodaadhaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:26:32.083589644Z",
+  "model": "glm-5.3"
+}

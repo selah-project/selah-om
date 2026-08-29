@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Nunjedhe: 'Egaa nuuf haa ta'u, ⟨את⟩ madalticha ijaarra — oxumaa hiikuuf miti, hiikuu hiikuufis miti.'",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Nunjedhe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ijaarra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Egaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijaaruuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madalticha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madalticha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "oxumaa hiikuuf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi miti"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "hiikuu hiikuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:57:49.822984534Z",
+  "model": "glm-5.3"
+}

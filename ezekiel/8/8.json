@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Natti jedhe: \"Ilma namaa, dachee keessaa amma bani.\" Ani dachee bane; kunoo, baltina tokko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "natti jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "bani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dachee keessaa"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "bane"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "baltina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T10:05:42.519987783Z",
+  "model": "glm-5.3"
+}

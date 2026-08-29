@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Warra gaddoo ni nyaachu, ni guddatu; Isafia barbaadan Yahwe ni faarsu; onneen kee haa jiraattu yeroo hunda.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "ni nyaachu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "Warra gaddoo"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ni guddatu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ni faarsu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "Isa barbaadan"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "haa jiraattu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onneen kee"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:25.065093127Z",
+  "model": "glm-5.3"
+}

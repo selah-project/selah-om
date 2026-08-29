@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 26:4",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Isaanitti akkas jedhit: akka jedhe Yahwe: yoo koo hin dhaggeeffannee, seera koo kan ani gabree keessanitti koonneerra.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "akkas jedhit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhaggeeffannee"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "koonneerra"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "seera koo keessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gabre"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "keessanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:41:17.753508021Z",
+  "model": "glm-5.3"
+}

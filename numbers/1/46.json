@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaan lakkoofamanuu hundi kuma shan dhibba fi kuma sadii dhibba shanafi digdamsadii ta'an.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "isaan lakkoofamanuu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "fi kuma sadii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma sadii"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dhibba shanafi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "digdamsadii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:58.864300932Z",
+  "model": "glm-5.3"
+}

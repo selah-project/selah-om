@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Karaa jireenyaa akka hin mandin — karaawwan ishee ni socho'an, ati ishee hin beektu.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin mandin"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "hin mandin"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "ni socho'an"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "karaawwan ishee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "beektu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:54.507450941Z",
+  "model": "glm-5.3"
+}

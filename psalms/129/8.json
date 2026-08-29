@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 129,
+  "translation": "Warri dabranis, 'Egeree bu'aa Yahwe isin waliin haa jiraatu; maqaa Yahwetti isin egeessine' hin jedhan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "warri dabranis"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bu'aa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "egeessine"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa ... -tti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:26.683715933Z",
+  "model": "glm-5.3"
+}

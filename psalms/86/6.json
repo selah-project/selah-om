@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Garaan kee nuurratti bana, Yahwe, kadannaa koo; dhageesii sagalee kadhannoota koo.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Garaan kee nuurratti bana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadannaa koo"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "dhageesii"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "kadhannoota koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:17.789740841Z",
+  "model": "glm-5.3"
+}

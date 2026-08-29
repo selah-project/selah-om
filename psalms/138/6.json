@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Akkuma Yahwe ol dhaabbatu, kan gadii ni arga; kan ol-ol'aanaa immoo fageetti ni beeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ol dhaabbatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "kan gadii"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ni arga"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "kan ol-ol'aanaa"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "fageetti"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ni beeka"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:39.420501364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yihoshafaat, mootii Yihuudaa, nagaan gara mana isaa deebi'e, gara Yerushaalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'e"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yihoshafaat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T15:43:52.686907510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo mucaa dhiiraa dhiqe ykn mucaa dubaraa dhiqe, akka murtii kanaatti isa waliin hojjadhu.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mucaa dhiiraa"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "dhiqe"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mucaa dubaraa"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "dhiqe"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akka murtii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaatti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:22.477308275Z",
+  "model": "glm-5.3"
+}

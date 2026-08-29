@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akhimaats Naftaali keessatti; inniis ⟨את⟩ Basmat igaanta Shelomoh fudhatee durba godhe.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akhimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Naftaali keessatti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inniis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isheen\/inni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat igaanta Shelomoh"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "igaanta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "durba godhe"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:28.196829237Z",
+  "model": "glm-5.3"
+}

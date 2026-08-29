@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Fiigichonni dhaabbatan, namni tokko meesha isaa harka isaa qabatee, bahuul mana mirgaa irraa hanga bahuul mana bitaatti, giddu galaatti fi manaatti, mooticha naannoo dhaabbatan.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "fiigichonni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "meesha isaa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaa qabatee"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "bahuul irraa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "mirgaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bahuul"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bitaatti"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "giddu galaatti"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "manaatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    }
+  ],
+  "timestamp": "2026-08-29T08:34:07.471969353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isininis jedhe: gaarri Amorootaa isa Yahwe Eloohiim keenya nuu kennaa jiru, isin isiniif ga'atanii.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "isininis"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ga'atanii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenaa jiru"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:40.415579564Z",
+  "model": "glm-5.3"
+}

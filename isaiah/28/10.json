@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Kunoo: ajaja irratti ajaja, ajaja irratti ajaja, sarara irratti sarara, sarara irratti sarara, xiqqaa asitti, xiqqaa asitti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ajaja irratti"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ajaja irratti"
+    },
+    {
+      "surface": "קו",
+      "gloss": "sarara"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sarara irratti"
+    },
+    {
+      "surface": "קו",
+      "gloss": "sarara"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sarara irratti"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asitti"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asitti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:30.744244297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Obboleessa kee sana onneetti hin jaalallee; obboleessa kee waan qabu sirreeffadhuutti, balleetti isaa irratti hin baafadhu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "jaalalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa kee"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "onneetti"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "sirreeffadhuutti"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "sirreeffadhuutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa kee waan qabu"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "obboleessa kee waan qabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "baafadhuutti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "balleetti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:58.976754394Z",
+  "model": "glm-5.3"
+}

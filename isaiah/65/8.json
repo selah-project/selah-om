@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 65:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Akka kun jedhe Yahwe: akka tirooshi ashkirra yoo argame, 'Balleessaa hin didi, eebbessa waan jirutti' jedhame, akkas jaalala gati kiyyaaf nan hojjadha — hunda hin balleessuuf.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "akka kun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yoo argame"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "tirooshi"
+    },
+    {
+      "surface": "באשכול",
+      "gloss": "ashkirra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "fi jedhame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "balleessaa hin didi"
+    },
+    {
+      "surface": "כי",
+      "rationale": "sababa",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "eebbessa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waan jirutti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nan hojjadha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jaalala gati"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gati kiyya"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hin balleessuuf"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "balleessuu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T15:01:06.417639032Z",
+  "model": "glm-5.3"
+}

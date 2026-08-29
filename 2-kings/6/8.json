@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mootichi Aram immoo Israayel waliin waraanaa ture; innis gabroota isaa wajjin gorsuudhaaf, \"Ba'umsan keessatti iddoo filannoo-kamuu keessa ta'eetti (qubsa) koonniin ta'a\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "waraanaa ture"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israayel waliin"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "gorsuudhaaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuudhaaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "filannoo-kamuu"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "kamuu ta'e"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "(qubsa) koonniin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:24:59.431259740Z",
+  "model": "glm-5.3"
+}

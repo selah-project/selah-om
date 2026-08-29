@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Isaan ⟨את⟩ waaraa fi ⟨את⟩ tikkeeleet fi ⟨את⟩ argamaan fi ⟨את⟩ diinni shaanii fi ⟨את⟩ hidda qulqulluu fudhatu.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "fudhatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waaraa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "waaraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "tikkeeleet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tikkeeleet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "argamaan"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "diinni shaanii"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diinni"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "hidda qulqulluu"
+    },
+    {
+      "surface": "השש",
+      "gloss": "hidda qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:28.097426729Z",
+  "model": "glm-5.3"
+}

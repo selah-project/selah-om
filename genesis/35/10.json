@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Eloohiinis isatti jedhe: maqaan kee Ya'aqob; maqaan kee Ya'aqob ammas maaloo hin waamamu, Yisraa'el ⟨is⟩ maqaa kee ta'a; maqaa isaa Yisraa'el jedhees waame.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "waamamu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:15.620093262Z",
+  "model": "glm-5.3"
+}

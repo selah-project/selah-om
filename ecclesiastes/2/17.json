@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Jireenyaa jibbe, sababa hojiin jala aduu hojjatame anaaf rakkisaadha; sababa waan hundinuu hawwii fi dhiphina afuuraati.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "jibbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jireenyaa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rakkisaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "hojiin"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "hojjatame"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aaduu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "waan hundinuu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hawwii"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dhiphina"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afuura"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:48.672046251Z",
+  "model": "glm-5.3"
+}

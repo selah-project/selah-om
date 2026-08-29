@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Far'oonis Moshee fi Aharoon akka waamamu ijibsee, akkasumas jedhe: Waan dogoggore Adonai — Eloohiim keessan — fi isin waliin nan dogoggore.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ijibsee"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Far'oonis"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": " akka waamamu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "fi Aharoon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Waan dogoggore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Adonai —"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "isin waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:15.911293954Z",
+  "model": "glm-5.3"
+}

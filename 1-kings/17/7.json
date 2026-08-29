@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yeroo dhuma guutuu booda, naanni akkaan gogee — sababa inni roobbi biyya keessatti hin qabaamuuf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo... booda (ta'e)"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota (guutuu)"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "gogee"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "naanni akkaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "qabaamu"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "roobbi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:14:59.438581114Z",
+  "model": "glm-5.3"
+}

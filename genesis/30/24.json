@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Maqaa isa Yooseeph jedhe; 'Yahwe anaaf ilma biraa dabalaa' jedhe.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Maqaa isa jedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maqaa isa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Maqaa isa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooseeph"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "dabalaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:06.303862407Z",
+  "model": "glm-5.3"
+}

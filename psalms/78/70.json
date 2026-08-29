@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Daawidis gabasaa filate, mana-hir'ina hoollee irraa fudhate.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "filate"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "gabasaa"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "mana-hir'ina irraa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoollee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:12.690323407Z",
+  "model": "glm-5.3"
+}

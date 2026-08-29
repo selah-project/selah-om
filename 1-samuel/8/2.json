@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Maqaan ilmaa isaa isa guddaa Yoo'eel ture; maqaan isa lammaffaa ammoo Abiyaa; isaan Bir-Shebaatti abbootii seeraa turan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Maqaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaa isaa"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "isa guddaa"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoo'eel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "isa lammaffaa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiyaa"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "abbootii seeraa"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Bir"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:05.240609572Z",
+  "model": "glm-5.3"
+}

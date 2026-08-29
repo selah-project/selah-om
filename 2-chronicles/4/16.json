@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Fi ⟨את⟩ okkotoota, fi ⟨את⟩ qaldhisanoota, fi ⟨את⟩ hookoota foonyii, fi ⟨את⟩ meeshaalee isaanii hunda — Huraam abiyyoo isaa kan mooticha Selomoof, mana Yahweef, bisaan birii ifaa hojjete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "okkotoota"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "okkotoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qaldhisanoota"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "qaldhisanoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "hookoota foonyii"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "hookoota foonyii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isaanii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "meeshaalee isaanii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huraam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abiyyoo isaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootichaaf"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bisaan birii"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "ifaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:50.841449722Z",
+  "model": "glm-5.3"
+}

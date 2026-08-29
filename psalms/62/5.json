@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Qofa ol-ka'umsa isaa irraa buqsisuuf gorsaniitu; soba jaallatu; afaan isaa keessatti eebbissu, qoma isaani keessattis abaaruu. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ol-ka'umsa isaa"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "gorsaniitu"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "buqsisuuf"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "jaallatu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "soba"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afaan isaa keessatti"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "eebbissu"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "qoma isaani keessattis"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "abaaruu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:49.954177252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Adeemee isaan ⟨את⟩ baallii moggaasa qulqullummaa warqee qulqulluu hojjetaniiru; barreeffama faakkii maalimaa akkasatti barreesanii isa irratti baraniiru: \"Qulqullummaan Yahwe-ti.\"",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjetaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baallii"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "baallii"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "moggaasa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "barreesanii baraniiru"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "barreeffama"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "faakkii"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "maalimaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qulqullumummaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe-ti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:09.228164550Z",
+  "model": "glm-5.3"
+}

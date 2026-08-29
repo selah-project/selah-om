@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Baay'ina jechoota keessatti yakki hin dhaabbatu; kan gabaabdu adda bahee ajjeecha danda'u barsiisaa dha.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "baay'ina keessatti"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "yakki"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "kan gabaabdu adda bahee"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ajjeecha danda'u"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "barsiisaa dha"
+    }
+  ],
+  "timestamp": "2026-08-29T15:28:11.834075234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Gara kibbaa deema, kaabaatti naanna'a; naanna'aa, naanna'aa haadhaan deema, naanna'uu isii irrattis haadhaan deebi'a.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "kibbaa"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "naanna'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaabaatti"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "naanna'aa"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "naanna'aa"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "haadhaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "naanna'uu isii"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "haadhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:43.073228241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Warra borri seenu wajjin lakkoofameera; akka dhiira humna hin qabne ta'eera.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "lakkoofameera"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "warra seenu"
+    },
+    {
+      "surface": "בור",
+      "gloss": "borri"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "akka dhiira"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "איל",
+      "gloss": "humna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:30.832534552Z",
+  "model": "glm-5.3"
+}

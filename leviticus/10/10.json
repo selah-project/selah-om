@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akkasumas akka addaan baattan waan qulqullaa'e fi waan ginnaa gidduu, akkasumas waan mooqame fi waan qulqulluu gidduu.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "akkasumas akka addaan baattan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "waan qulqullaa'e"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "akkasumas gidduu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waan ginnaa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "akkasumas gidduu"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "waan mooqame"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "akkasumas gidduu"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "waan qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:40.004492154Z",
+  "model": "glm-5.3"
+}

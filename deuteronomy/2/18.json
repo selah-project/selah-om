@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ati guyyaa har'a ⟨את⟩ daanga Mo'aab, ⟨את⟩ Ar, ni dabarta:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ni dabarta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa har'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daanga Mo'aab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daanga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:42.338869068Z",
+  "model": "glm-5.3"
+}

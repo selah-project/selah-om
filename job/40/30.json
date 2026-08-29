@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 40:30",
+  "book": "job",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Konneensonni isaa irratti waadaa ni galchu? Kenaanota bitartuu gidduu isaa ni qoodu?",
+  "tokens": [
+    {
+      "surface": "יכרו",
+      "gloss": "waadaa ni galchu?"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "konneensonni"
+    },
+    {
+      "surface": "יחצוהו",
+      "gloss": "isaa ni qoodu?"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "Kenaanota bitartuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:34:51.887024530Z",
+  "model": "glm-5.3"
+}

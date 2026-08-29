@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sa'a ykn hoola ⟨את⟩ isa fi ⟨את⟩ da'umsa isaa guyyaa tokko keessatti hin gorrinaa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "שה",
+      "gloss": "hoola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "da'umsa isaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "da'umsa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "gorrinaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa…keessatti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:02.731989223Z",
+  "model": "glm-5.3"
+}

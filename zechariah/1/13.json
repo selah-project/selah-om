@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwen ⟨את⟩ malaa'ikicha ana keessatti dubbatu deebisee — jechoota gaarii, jechoota qunnifannaa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaa'ikicha"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaa'ikicha"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ana keessatti"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "qunnifannaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:03:43.728698864Z",
+  "model": "glm-5.3"
+}

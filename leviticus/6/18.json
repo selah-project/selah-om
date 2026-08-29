@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 6:18",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Aharooniifi ilmaan isaa wajjin dubbadhu, akka akkana jedheeti: kun seera qoorbiddaa badii ti; bakka ol-offaarri ajjeefamutti, qoorbiddaan badii Yahween dura ajjeefama; qulqullummaa qulqullummootaa ⟨isheenti⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wajjin itti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana jedhee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "seerri"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qoorbiddaa badii"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ajjeefamutti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ol-offaarri"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ajjeefama"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qoorbiddaan badii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullummootaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:30:35.069409247Z",
+  "model": "glm-5.3"
+}

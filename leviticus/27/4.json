@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Dubartii yoo taate, gatiin ati murteessitu shekel sadii ta'a.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "taate"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "gatiin ati murteessitu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:29.202141001Z",
+  "model": "glm-5.3"
+}

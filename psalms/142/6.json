@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 142,
+  "translation": "Gara kee dhiiqe, Yahwe; natti jedhe, Ati mellifanna kiyya ti, kuta kiyya biyya jireenyaa keessatti.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "dhiiqe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "natti jedhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mellifanna kiyya"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "kuta kiyya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:46.747594189Z",
+  "model": "glm-5.3"
+}

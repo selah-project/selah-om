@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Baasha abbootii isaa wajjin hirate, Teertsaa keessatti awwaalamuun, Ilaa ilmaan isaa inni booda mootummoo ta'e.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hirate"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "awwaalamuun"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Teertsaa keessatti"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummoo ta'e"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "inni booda"
+    }
+  ],
+  "timestamp": "2026-08-29T14:49:51.478953635Z",
+  "model": "glm-5.3"
+}

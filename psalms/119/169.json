@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 169,
+  "ref": "psalms 119:169",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Yaabbanni ⟨the⟩ kiyya yoo dhiyaatu fuuldura kee, Yahwe; akka jecha keetti na hubachiisi.",
+  "tokens": [
+    {
+      "surface": "תקרב",
+      "gloss": "yoo dhiyaatu"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "yaabbanni kiyya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akka jecha keetti"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "na hubachiisi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:57.147842015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Yoosefi jedhe: horii keessan kennaa; maalliqni yoo dhumate, horii keessan irratti isin kennaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosefi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "horii keessan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "isin kennaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "horii keessan irratti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "dhumate"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "maalliqni"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:20.907944641Z",
+  "model": "glm-5.3"
+}

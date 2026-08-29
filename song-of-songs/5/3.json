@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "⟨את⟩ dhorkaa kiyya mooti baafadheera; akkamitti isa deebisee maalaa? ⟨את⟩ milkaa kiyya dhiqadheera; akkamitti isaan wiljessu?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "baafadheera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhorkaa kiyya"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "dhorkaa kiyya"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "deebisee maalaa"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "dhiqadheera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milkaa kiyya"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "milkaa kiyya"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "wiljessu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:38:23.549967446Z",
+  "model": "glm-5.3"
+}

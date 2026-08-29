@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Philistonni sanduqa Eloohiim ⟨את⟩ fudhatanii, Eeben-haa-Eezir irraa Ashdood geessisan.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Philistonni"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "geessisan"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Eeben irraa"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "haa-Eezir"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdood"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:39.829576261Z",
+  "model": "glm-5.3"
+}

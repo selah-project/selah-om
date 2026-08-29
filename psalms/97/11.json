@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Iffa warra qajeelaa haadamee jira; gammachuun warra onnee qajeelaa [haadamee jira].",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Iffa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "haadamee jira"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "warra qajeelaa"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "warra...qajeelaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gammachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:26.760294454Z",
+  "model": "glm-5.3"
+}

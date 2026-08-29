@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Guyyaa rakkinaatti Yahwe si deebisi; maqaan Eloohiimii Yaakob si ol-goddinsi.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "si deebisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "rakkinaa"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "si ol-goddinsi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:15.587818636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Walin kan kheesed qabu waliin kheesed hojjadha; kan guutamaa waliin guutamaadha ⟨⟨Atum⟩⟩.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kan kheesed qabu"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "kheesed hojjadha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kan guutamaa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutamaa"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "guutamaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:29.844686087Z",
+  "model": "glm-5.3"
+}

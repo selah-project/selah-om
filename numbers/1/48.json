@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahweenis Mosheetti dubbachuu jedhe, akka jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbachuu jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:58.864696396Z",
+  "model": "glm-5.3"
+}

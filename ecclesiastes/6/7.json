@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Hojiin namaa hundi afaan isaatiif; lubbuunis guutamti miti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Hojiin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "afaan isaatiif"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "lubbuunis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "guutamti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:33.518848964Z",
+  "model": "glm-5.3"
+}

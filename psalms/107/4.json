@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Mandaan keessa, mandaan gogaanaa keessa daandii irraa jalqabanii, magaalaa ija jireenyaa argachuuf dhiifaman.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "jalqabanii"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mandaan keessa"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mandaan gogaanaa keessa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daandii irratti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magalaatti"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ija jireenyaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dhiifaman"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "argachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:58.744391261Z",
+  "model": "glm-5.3"
+}

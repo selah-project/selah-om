@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Kaapa ishee gara hiyyeessa banaate; harki ishees gara hatattamaa baafte.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "kaapa ishee"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "banaate (bal'ifte)"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "gara hiyyeessa"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "harki ishees"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "baafte (hiikse)"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "gara hatattamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:54.084007141Z",
+  "model": "glm-5.3"
+}

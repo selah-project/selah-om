@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Noohinis ba'e, ilmaan isaa fiitiifi harree'ilaa ilmoo isaa isa wajjin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'es"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noohinis"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "itiifi"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "harree'ilaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "isa wajjin ⟨את⟩",
+      "marks": "Noohi fi maatii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:42.416210275Z",
+  "model": "glm-5.3"
+}

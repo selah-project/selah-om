@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yehooshuaanis ilmaan Israa'elitti jedhe: \"Attamatti gara asitti dhufaa, jechoota Yahwe Eloohiim keessan ⟨את⟩ dhageessaa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "dhufaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "attamatti gara asitti"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:58.677937393Z",
+  "model": "glm-5.3"
+}

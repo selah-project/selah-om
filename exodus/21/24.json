@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ija bakka ija, ilkaan bakka ilkaan, harka bakka harka, miila bakka miila.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Ija"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilkaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilkaan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "miila"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "miila"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:41.076275769Z",
+  "model": "glm-5.3"
+}

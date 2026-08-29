@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Mizmoora Daawid ti. Himanni Yahwe kan Adoonaay kiyya ti: \"Mirga kiyya irratti ba'i, hanga ajajumsa diyyoota kee miila kee jala godhu.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoora"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "himanni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kan Adoonaay kiyya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "mirga kiyya irratti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ajajumsa diyyoota kee"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "miila kee jala"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "miila kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:03.360915617Z",
+  "model": "glm-5.3"
+}

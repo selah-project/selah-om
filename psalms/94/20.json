@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Bu'iinsa balleessumsaa si wajjin walitti dhaamsuu danda'aa, kan seeraan rakkoo uumu?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "si wajjin walitti dhaamsuu danda'aa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "bu'iinsa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "balleessumsaa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "uumu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "seeraan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "seeraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:15.914255632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Si qofaaf haa ta'anii, alotaawwan waliin ⟨את⟩-si waliin hin taane.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "haa ta'anii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qofaaf"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "alotaawwan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ (si waliin)",
+      "marks": "alotaawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:57.437003599Z",
+  "model": "glm-5.3"
+}

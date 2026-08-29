@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Iji koo bala'aa irraa dadhabe; diinaan koo hundincaaatiin duubatti gahaa.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "dadhabe"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "bala'aa irraa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iji koo"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "duubatti gahaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundincaaatiin"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "diinaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:01.813236964Z",
+  "model": "glm-5.3"
+}

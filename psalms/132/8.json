@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Kaʼi, Yahwe, gara boona kitaabaa keetti; Ati fi sanduuqa humnaa kee.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kaʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "gara boona kitaabaa keetti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "fi sanduuqa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humnaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:40.529759100Z",
+  "model": "glm-5.3"
+}

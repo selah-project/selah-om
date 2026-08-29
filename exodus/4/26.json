@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Innis ishee dhiise. Yeroo sanatti isheen gadi dhiheet: Chiyyota dhiigaa, waan mooluu irratti.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "dhiise"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Yeroo sanatti"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "gadi dhiheet"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "Chiyyota"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "waan mooluu irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:18.446273332Z",
+  "model": "glm-5.3"
+}

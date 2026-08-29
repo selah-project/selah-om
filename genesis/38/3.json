@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Inni-ulmaawaa horrate, ilmoo dhalatte; maqaa isaa Eer jedhees.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ulmaawaa horrate"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Eer"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:12.764563779Z",
+  "model": "glm-5.3"
+}

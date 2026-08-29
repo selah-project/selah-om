@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Onnee keenya gara duubaa hin deebine; tarkaanfi keenya karaa kee irraa hin daangessine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "hin deebine"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "gara duubaa"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "onnee keenya"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "fi hin daangessine"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "tarkaanfi keenya"
+    },
+    {
+      "surface": "מני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "karaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:54.335223771Z",
+  "model": "glm-5.3"
+}

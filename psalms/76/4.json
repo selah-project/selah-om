@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Achitti raawwan sarara ibiddaa bofoo, mormaa, meelee fi waraana. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Achitti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "raawwan"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "sarara ibiddaa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bofoo"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mormaa"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "meelee"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:14.092250879Z",
+  "model": "glm-5.3"
+}

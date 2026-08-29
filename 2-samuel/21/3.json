@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Daawidiis gara Giib'ononnoo ni jedhe: «Maal isiniif godha? Maaliinis isin kaffalaa, ⟨את⟩ dhaala Yahwe eebbisaa?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Giib'ononnoo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "godha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "Maaliinis"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "kaffalaa"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "eebbisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaala Yahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:57:54.163073213Z",
+  "model": "glm-5.3"
+}

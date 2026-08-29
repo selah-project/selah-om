@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Eloohiimoy, maqaan kee na magariisi; adabboo dandaan keetiin na haadhi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimoy"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "na magariisi"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "adabboo dandaan keetiin"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "na haadhi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:01.480142358Z",
+  "model": "glm-5.3"
+}

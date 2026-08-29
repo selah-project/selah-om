@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Eenamtu akka Yahwe Eloohiim keenyaati, Isa of ol kaasuu akka taa'u?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenamtu"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "akka Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "Isa of ol kaasuu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "akka taa'u"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:52.441405965Z",
+  "model": "glm-5.3"
+}

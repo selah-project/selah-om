@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akkaataa seeraatti maaltu mootittii Washtii waliin hojjedhamuu qaba, waan ajaja ⟨את⟩ mootichaa Akhashveerosh harka sahintotaaatiin hin dalagineef?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "akkaataa seeraatti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjedhamuu"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "mootittii waliin"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washtii"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan ... -eef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dalagineef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajaja mootichaa"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashveerosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sahintotaaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:55.053075986Z",
+  "model": "glm-5.3"
+}

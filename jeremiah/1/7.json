@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe immoo naa jedhe, Daa'ima ani dha hin jedhin; sababiin waan hunda kan Ani si ergeef ⟨את⟩ deemma, fi ⟨את⟩ waan hunda kan Ani ajaje si dubbatta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin jedhin"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "jedhin"
+    },
+    {
+      "surface": "נער",
+      "gloss": "daa'ima"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "dha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan... irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "Ani si ergeef"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨את⟩ deemma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dubbatta"
+    }
+  ],
+  "timestamp": "2026-08-29T09:21:38.525798990Z",
+  "model": "glm-5.3"
+}

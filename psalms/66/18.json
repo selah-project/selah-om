@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Yoo madaa onnee kiyya keessatti ilaaladhe, Adoonaay hin dhaggeeffatu.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "madaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ilaaladhe"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "onnee kiyya keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhaggeeffatu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:51.172933309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Abshaalomannis hordoffattoota gosa Israa'el hunda keessatti ergamsiise, akkas jedhu: \"Yeroo sagalee shofaaraa dhageettan, ni jedhu: Abshaaloom Khibroon moota ta'eera.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergamsiise"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalomannis"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "hordoffattoota"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhu"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "yeroo dhageettan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee shofaaraa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofaaraa"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "moota ta'eera"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaaloom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Khibroon"
+    }
+  ],
+  "timestamp": "2026-08-29T07:52:28.269520177Z",
+  "model": "glm-5.3"
+}

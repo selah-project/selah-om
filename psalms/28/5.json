@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Sababiin isaan hojiiwwan Yahwe fi hojii harka Isaa hin hubataniif, ni balleessaa, fi hin ijaru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hubatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hojiiwwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ni balleessaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ijaru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:10.229541524Z",
+  "model": "glm-5.3"
+}

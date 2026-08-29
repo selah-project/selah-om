@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Dhageessi, intala! Iggi, gurra kee gadii loossisi; umatta kee fi mana abbaa kee irraas dagadhu.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "Iggi"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "gadii loossisi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gurra kee"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "dagadhu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatta kee"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.826205376Z",
+  "model": "glm-5.3"
+}

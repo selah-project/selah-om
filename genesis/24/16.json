@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Intalti sanis ilaallatti baay'ee bareeddu — gorsessaa, dhiira tokkolleen ishee hin beekne; isheenis tiyya sanarratti gadi bu'tee, chaawan ishee guutte, ol baate.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Intalti sanis"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "bareeddu"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ilaallatti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "gorsessaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dhiira tokkolleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ishee beekne"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "gadi bu'tee"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "tiyya sanarratti"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "guutte"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "chaawan ishee"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ol baate"
+    }
+  ],
+  "timestamp": "2026-08-29T04:34:41.117336163Z",
+  "model": "glm-5.3"
+}

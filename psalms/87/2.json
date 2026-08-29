@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 87,
+  "translation": "Yahwe balbala Siyoon hunda caalaa mana-jireenyaa Yaaqoob jaalata.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "jaalata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda caalaa"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mana-jireenyaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqoob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:43.845351689Z",
+  "model": "glm-5.3"
+}

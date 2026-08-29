@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Warra na sassaaban kunuunsaa isaanii uffatan, baati isaanii akka miila-qabaa uffatan.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "uffatan"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "warra na sassaaban"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "kunisaawaa"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "baati isaanii uffatan"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "akka miila-qabaa"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "baati isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:46.400190697Z",
+  "model": "glm-5.3"
+}

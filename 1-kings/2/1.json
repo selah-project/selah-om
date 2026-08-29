@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Guyyoon Daawid du'uutti dhiyaatan; Daawidis ⟨את⟩ ilma isaa Sileemoona ajajis, jedhuuf:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "dhiyaatan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uutti"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ajajis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sileemoona"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sileemoona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:04:01.078292500Z",
+  "model": "glm-5.3"
+}

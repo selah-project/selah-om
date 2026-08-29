@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Guyyaa rakkatti na waami; ani si baafadha, atis na ulfaadadhu.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "na waami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "rakkatti"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ani si baafadha"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "atis na ulfaadadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.027281116Z",
+  "model": "glm-5.3"
+}

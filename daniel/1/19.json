@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mootichi ⟨את⟩ isaan wajjin haasofte; isaan hunda keessaa Daaniyeel, Hananyaa, Mishaa'el fi Azaryaa fakkaatuun hin argamne; isaan mootichi duratti dhaabbatan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haasofte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (wajjin)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "argamne"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "isaan hunda keessaa"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "Daaniyeel fakkaatuun"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyaa"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaa'el"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "fi Azaryaa"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:57:36.146205694Z",
+  "model": "glm-5.3"
+}

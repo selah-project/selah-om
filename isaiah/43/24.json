@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Qamaddee mi'oo warqees naa hin bitanne; bomboo kakkaddaa keetiinis na hin dheebessine. Garuu balleeffannoo keetiin na taphachiste; dogoggurraa keetiinis na gaddabsiste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "hin bitanne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "warqees"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qamaddee mi'oo"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "bomboo"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kakkaddaa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "na hin dheebessine"
+    },
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "na taphachiste"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "balleeffannoo keetiin"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "na gaddabsiste"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "dogoggurraa keetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:20.378880722Z",
+  "model": "glm-5.3"
+}

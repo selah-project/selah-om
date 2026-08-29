@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Adoonaay, Yahwe Sabaa'ot, isaan kakkaltumtaa kee eeyyatan sababa koo haalanii haqaa hin taaneef; barbaadtonni kee, Eloohiim Israa'eel, sababa koo aarfamanii hin taaneef.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "haa...hin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "haalanii hin taane"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sababa koo"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "kakkaltumtaa kee eeyyatan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaa'ot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa...hin"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "aarfamanii hin taane"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sababa koo"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "barbaadtonni kee"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:20.583697172Z",
+  "model": "glm-5.3"
+}

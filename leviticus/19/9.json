@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yeroo inni boolla quruxxee dabartu, akkasumas waan dheebamu keessaa quruxxee dheebame ni bita.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "yeroo qoruu keessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "midhaani"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lafa keessan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "hin dhumaannee hin haanu (idilumaa)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "biyya kee"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "qoruu"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "akkasumas waan kufe"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "midhaan kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "hin funaannee hin haanu (idilumaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:17.623240137Z",
+  "model": "glm-5.3"
+}

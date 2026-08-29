@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sagaleen Yahwe ⟨את⟩ leenhaota ibiddaa kutata.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "kutata"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "leenhaota"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:38.087381307Z",
+  "model": "glm-5.3"
+}

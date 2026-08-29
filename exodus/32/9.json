@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahween Mosheetti jedhe: \"Saba kana argaadhejii, fi kuni saba gogorracha mootii ti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheetti"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argaadhejii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba kana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "fi kuni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gogorracha"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:32.414004393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Arraabbii kee keessaa eegi, fuuldura raawwaa hingaaf; seenuun kee mirmaa hin dubbisu.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "arraabbii kee"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "raawwaa irraa"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "seenuun kees"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hin dubbatu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mirmaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:53.779182460Z",
+  "model": "glm-5.3"
+}

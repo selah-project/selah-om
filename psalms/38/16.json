@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Kan atiif, Yahwe, eegasaa jira; Ati ni deebita, Adoonaay Eloohiim koo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atiif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "eegasaa jira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ni deebita"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:06.192324832Z",
+  "model": "glm-5.3"
+}

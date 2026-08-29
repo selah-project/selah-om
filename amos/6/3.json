@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Warri guyyaa kuffannaati fageessitan, teessoo miil-dhagsaas gara keessan dhiyeessitan.",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "warri fageessitan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kuffannaati"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "dhiyeessitan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "miil-dhagsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:49:32.552704919Z",
+  "model": "glm-5.3"
+}

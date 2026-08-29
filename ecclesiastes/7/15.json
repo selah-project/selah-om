@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "⟨את⟩ waan hunda guutuu guutuu sudaatiin koo ilaale; kan abbaa seeraa seeraa isaa keessatti badu jira, kan miidhaa qaama-dhimmaa isaa keessatti immoo dheeratu jira.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "guutuu guutuu"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "sudaatiin koo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan abbaa seeraa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "badu"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "seeraa isaa keessatti"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kan miidhaa"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "dheeratu"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "qaama-dhimmaa isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:23.632586264Z",
+  "model": "glm-5.3"
+}

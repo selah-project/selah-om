@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kunoo maqoota ilmaan Israa'el gara Mitsraayim dhufaniiti; ⟨את⟩ Ya'aqob dheeraafi mana isaa isaan wajjin dhufaniiru.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqoota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "dhufaniiti"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "gara Mitsraayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "fi mana isaa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:41.459519644Z",
+  "model": "glm-5.3"
+}

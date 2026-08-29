@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Mukaan guddatee jabaabame; olka'inni isaas samii ga'e, arguun isaas hanga dhumaa lafaa hunda ga'e.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "guddatee"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "mukaan"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "jabaabame"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "fi olka'inni isaa"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "ga'e"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "fi arguun isaa"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "hanga dhumaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:02:09.498169647Z",
+  "model": "glm-5.3"
+}

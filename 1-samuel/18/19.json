@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yeroo Miiraab, intala Shaa'ool, ⟨את⟩ Daawid akka kennamu ga'utti, ishee Adri'eeli Mekholaatiitti akka haadha manaa kennamteetti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ga'utti"
+    },
+    {
+      "surface": "תת",
+      "gloss": "akka kennamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miiraab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Miiraab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ool"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kennamteetti"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adri'eeli"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Mekholaatiitti"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "akka haadha manaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:31:00.334484972Z",
+  "model": "glm-5.3"
+}

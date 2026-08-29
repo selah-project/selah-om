@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Yeroo ifti isaa mataa kiyya irratti miiru, ifa isaatiin dukkana keessa deeme.",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "yeroo ... miiru"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "ifti isaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa kiyya"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "ifa isaatiin"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkana keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:27:56.534193795Z",
+  "model": "glm-5.3"
+}

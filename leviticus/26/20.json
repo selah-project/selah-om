@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Humni keessan waan hin barbaachifneetti bada; lafni keessan ⟨את⟩ oomisha ishee hin kennu; mukni lafaas faanya isaa hin kenna.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "bada"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "waan hin barbaachifneetti"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "humna keessan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lafni keessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oomisha ishee"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "oomisha ishee"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mukni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "faanya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:11.363055026Z",
+  "model": "glm-5.3"
+}

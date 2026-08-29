@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "fi ⟨את⟩ qoraa mi'aawaa fi ⟨את⟩ zayitaa — ifaatiif, zayita mismahaafii fi sunsumaa mi'aawaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoraa mi'aawaa"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "qoraa mi'aawaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zayitaa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ifaatiif"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "zayita"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mismahaafii"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "sunsumaa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mi'aawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:50.731796038Z",
+  "model": "glm-5.3"
+}

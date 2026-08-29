@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Akeekkun yeroo aduun seentu waraana keessa darbe, akkas jedhu: Namni gara magaalaa isaa, fi namni gara biyya isaa!",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "akeekkun"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "waraana keessa"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "yeroo seentu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaalaa isaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fi namni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:22:38.042504777Z",
+  "model": "glm-5.3"
+}

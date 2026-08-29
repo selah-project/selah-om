@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ummatni fageetti dhaabbate; Mosheenis dukkana-holqa keessa ⟨the⟩ Eloohiim jiru biratti dhiyaate.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatni"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "fageetti"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "dhiyaate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "dukkana-holqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:13.700891168Z",
+  "model": "glm-5.3"
+}

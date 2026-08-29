@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Namoota wajjin sababa malee hin wal-ta'i, yoo hamina si irratti hin hojjenne.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "wal-ta'i"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sababa malee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "si irratti hojjenne"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamina"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:50.041643907Z",
+  "model": "glm-5.3"
+}

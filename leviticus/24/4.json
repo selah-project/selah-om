@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Meeshaa-lampii qulqulloo irratti lampoota fuuldura Yahwe yeroo hunda sirreessa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Meeshaa-lampii"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "qulqulloo"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "sirreessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampoota"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampoota"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:07.801561218Z",
+  "model": "glm-5.3"
+}

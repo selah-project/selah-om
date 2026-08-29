@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Akka ceephalaattii harka qabancaa irra of-baasi, akka simachichaattis harka tamasfiisaa irra of-baasi.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "of-baasi"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "akka ceephalaattii"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka qabancaa irra"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "akka simachichaattis"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irra"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "tamasfiisaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:59:24.446069343Z",
+  "model": "glm-5.3"
+}

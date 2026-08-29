@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Du'a Sha'uul booda, Daawid ⟨את⟩ Amaleekii dhukeessee deebi'e, Daawidis Ciqlaag irratti guyyaa lama jiraate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebi'e"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "dhukeessee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleekii"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleekii"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Ciqlaag irratti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    }
+  ],
+  "timestamp": "2026-08-29T07:44:59.949157134Z",
+  "model": "glm-5.3"
+}

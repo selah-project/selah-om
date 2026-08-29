@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Kan Daawid. Yahwe ifa kiyya fi fee'a kiyya ⟨dha⟩; eenyu irraa nan sodaadha? Yahwe utaan jireenyaa kiyya ⟨dha⟩; eenyu irraa nan rabdhu?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ifa kiyya"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "fi fee'a kiyya"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "eenyu irraa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nan sodaadha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "utaan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jireenyaa kiyya"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "eenyu irraa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "nan rabdhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:16.653022426Z",
+  "model": "glm-5.3"
+}

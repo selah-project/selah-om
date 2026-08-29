@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Dhugumatti, isin qofa ummata (taatanii); siriitumaa akkasumas, ogummaan isin waliin du'a.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Dhugumatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siriitumaa akkasumas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "isin waliin"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogummaan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:30:09.542359048Z",
+  "model": "glm-5.3"
+}

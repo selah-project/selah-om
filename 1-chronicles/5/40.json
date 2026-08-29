@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Azarjaahis ⟨את⟩ Sarjaah dhalchisiise; Sarjaahis ⟨את⟩ Yehootsaadaq dhalchisiise.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjaahis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalchisiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarjaah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sarjaah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Sarjaahis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalchisiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehootsaadaq"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehootsaadaq"
+    }
+  ],
+  "timestamp": "2026-08-29T13:30:58.527537715Z",
+  "model": "glm-5.3"
+}

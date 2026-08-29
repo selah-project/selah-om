@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Warraa addaan qabbaneessa hanga dhuma lafaa; qoroo caccabsa, fi reeffa baay'ee kuta; gaaruraa ibidda keessatti gubisa.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Warraa addaan qabbaneessa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "warraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qoroo"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "caccabsa"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "fi... kuta"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "reeffa"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "gaaruraa"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "gubisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibidda keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:58.438817581Z",
+  "model": "glm-5.3"
+}

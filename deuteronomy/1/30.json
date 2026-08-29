@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe Eloohiim keessan, isa isin duraa deemu, inni isiniif falmata — akkuma waan hunda Isin waliin ⟨את⟩ hojjete Mitsraayim keessatti ija keessan jalatti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "isa duraa deemu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "isin duraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "falmata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akkuma waan hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "waliin ⟨את⟩ Isin"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ija keessan jalatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:34.224687578Z",
+  "model": "glm-5.3"
+}

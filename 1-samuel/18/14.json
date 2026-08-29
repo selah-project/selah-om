@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Daawid ammas daandii isaa hunda irratti saggoo-yaa ture; Yihween immoo isa waliin ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "daandii isaa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "saggoo-yaa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yihwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:54.860708437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Fir'ooniis Yoosefitti jedhe: \"Duulu duulu'eera; ⟨את⟩ hiikaa hin qabu. Ani si waa'ee dhagayeera, duulu yoo dhaggeessit ⟨את⟩ hiikuu dandeessa jedhameera.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "duulu"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "duulu'eera"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "hiikaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hiikaa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhagayeera"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si waa'ee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhameera"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dhaggeessit"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "duulu"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "hiikuu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "duulu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:34.841300660Z",
+  "model": "glm-5.3"
+}

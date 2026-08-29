@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Mooticha qabatanii, mootii Baabelitti, Riblaataa, ol baasan; haadha isaa waliin ⟨את⟩ murtii dubbatan.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "qabatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ol baasani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblaataa"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dubbatani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ waliin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:44:06.492625866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Aharooniin dubbadhu, akkasumas isaatti himi: yeroo faachaa mana-shamarrichaa ol kaaltu, faachaan torba sanuu fuula duraatti mana-shamarrichaa ifa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "akkasumas himi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "yeroo ol kaaltu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faachaa"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "faachaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fuula duraatti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "mana-shamarrichaa"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torba"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "faachaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:55:04.341368306Z",
+  "model": "glm-5.3"
+}

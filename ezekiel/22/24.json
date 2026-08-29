@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ilmi namaa, isheetti jedhi: Ati ⟨את⟩ biyya hin qulqullaa'ine, roobnis guyyaa boonsaa irratti hin roobamne.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "qulqullaa'ine"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "roobamne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guuyyaa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "boonsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:18:22.913987137Z",
+  "model": "glm-5.3"
+}

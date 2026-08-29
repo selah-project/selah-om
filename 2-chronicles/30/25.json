@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 30:25",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Turree tamtuu qabxii Yuudaaatti, kan ogeeyyii Waaqaa fi kan Leewiyyotaa, akkasumas turree tamtuu Israa'ieliin dhufte, seenootaa biyya Israa'ieliin dhufanii fi Yuudaatti jiraatanis, hin boomne.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "hin boomne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tamtuu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "turree"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuudaa"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ogeeyyii Waaqaa"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Leewiyyotaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkasumas tamtuu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "turree"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "dhufte"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'ieliin"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "seenootaa"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "והיושבים",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yuudaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:06:32.607798743Z",
+  "model": "glm-5.3"
+}

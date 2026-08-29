@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yahwe samii irraa onneessa; Eelyooni iyya isaa kenne.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "onneessa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "fi Eelyooni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "iyya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:58:48.512978548Z",
+  "model": "glm-5.3"
+}

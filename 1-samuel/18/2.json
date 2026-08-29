@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Sha'uulis guyyaa san isa fudhate, mana abbaa isaa deebi'uuf isa hin hayyenne.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "isa fudhate"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hayyenne"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "deebi'uuf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:30:56.918529776Z",
+  "model": "glm-5.3"
+}

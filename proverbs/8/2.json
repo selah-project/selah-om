@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mataa ol-dhaabbataawwan irratti, daandii irratti, iddoo daandilee wal qunnamsiisanitti dhaabbattii jirti.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ol-dhaabbataawwan irratti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "daandilee"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "dhaabbattii jirti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:37.692756995Z",
+  "model": "glm-5.3"
+}

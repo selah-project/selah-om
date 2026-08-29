@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Dhirri haadha isaa fi abbaa isaa sodaadhaa; sabbataawan koo ⟨את⟩ eegaa; ani dha Yahwe Eloohiim keessan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "dhirri"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "fi abbaa isaa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sodaadhaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabbataawan koo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabbataawan koo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:58.178837289Z",
+  "model": "glm-5.3"
+}

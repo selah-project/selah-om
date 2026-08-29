@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Farcoon ⟨את⟩ jecha kana dhageette, Moshee ajjeesuuf barbaade; Moshees fuulla Farroo irraa bakka bu'eera, biyya Midiyaan keessaa jiraachaa ture, fi buna irratti taa'aa ture.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageette"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ajjeesuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "bakka bu'eera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshees"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fuulla irraa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farroo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessaa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyaan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "taa'aa ture"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "buna"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:41.788373407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Seenaan guutuu, dhiirota, waggaa tokko qabu isiniif ta'u; harka loon hoolaa keessaa yookiin harka beelada keessaa fudhattan.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhiirota"
+    },
+    {
+      "surface": "בן",
+      "gloss": "qabu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa tokko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "מן",
+      "gloss": "harka"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "loon hoolaa keessaa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "yookiin harka"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "beelada keessaa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "fudhattan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:26.445692042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Garuu ⟨את⟩ Naataan raajicha, Benayaahu, ⟨את⟩ warra cimoo dandeettii, fi ⟨את⟩ Shelomoo obboleessa isaa hin waamine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Naataan raajicha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naataan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "raajicha"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benayaahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "warra cimoo dandeettii"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "warra cimoo dandeettii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Shelomoo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamine"
+    }
+  ],
+  "timestamp": "2026-08-29T08:00:56.339650680Z",
+  "model": "glm-5.3"
+}

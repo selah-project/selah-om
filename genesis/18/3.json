@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Innis jedhe: \"Adoonaay, yoo naan jaalala ijaa kee keessatti argadhe, maaloo abbaa kennaa kee irraa hin darbiin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ijaa kee keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "darbiin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abbaa kennaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:47.677968875Z",
+  "model": "glm-5.3"
+}

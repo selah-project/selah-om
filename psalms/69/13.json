@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Warri balbala irratti fagasitani waa'ee koo hafaanu; aniis sirreewwan warra dhaddacha dhuguu ta'e.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "hafaanu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "waa'ee koo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warri fagasitani"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "sirreewwan"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "warra dhuguu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "dhaddacha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:25.129244243Z",
+  "model": "glm-5.3"
+}

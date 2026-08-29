@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Maal gatii olaanaa qabu kheesed kee, Eloohiim! Da'ii namootaa gadii haguuggii kabbii kee keessatti facaafatu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "gatii olaanaa qabu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "da'ii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "gadii haguuggii"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kabbii kee"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "facaafatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:20.828245070Z",
+  "model": "glm-5.3"
+}

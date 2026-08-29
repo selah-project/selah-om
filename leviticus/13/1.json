@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yahween Moshee fi Aharooniin dubbate akka jedhuutti,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…tti\/gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi …tti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonitti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:40.831110612Z",
+  "model": "glm-5.3"
+}

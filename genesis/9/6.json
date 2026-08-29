@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kan dhiiga namaa dhangamsiisu, dhiigni isaa namootaan dhangamsiifama; sababa inni ⟨את⟩ nama akka fakkaanya Eloohiimitiin uumeef.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "dhangamsiisu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "namootaan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiigni isaa"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "dhangamsiifama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa ... eef"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "akka fakkaanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nama"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:54.400242873Z",
+  "model": "glm-5.3"
+}

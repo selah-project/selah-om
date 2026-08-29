@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Fuuldura Yahwe, sababiin inni dhufee, sababiin inni dhufee ⟨the⟩ lafa murtii gochuuf; inni ⟨the⟩ addunyaa qajeelfiin murtii gochaa jira, sababiin ⟨the⟩ saboota amantii isaatii keessatti.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "inni dhufee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "inni dhufee"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "murtii gochuuf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "inni murtii gochaa jira"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "qajeelfiin"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "amantii isaatii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:47.078570094Z",
+  "model": "glm-5.3"
+}

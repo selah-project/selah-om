@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Waggaa lama guutuu dhuma boda Firi'awn riyyaa'e; akkasi, ⟨inni⟩ wabii irratti dhaabbate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dhumatti"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "waggaa lama"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "Firi'awnis"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "riyyaa'e"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akkasi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wabii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:26.432255515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ilmooleen Aharoon immoo isaa ⟨אתו⟩ ni gubu masaraa irratti, irracha waan gubaa, kan irracha mukawwan, kan irracha ibiddaa — qurbaana ibiddaa, mingee jaalalaa, Yahweef.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ni gubu (dhawwachu)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "masaraa irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irracha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "waan gubaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irracha"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mukawwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irracha"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qurbaana ibiddaa"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mingee"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "jaalalaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:46.255396376Z",
+  "model": "glm-5.3"
+}

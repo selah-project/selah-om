@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Guyyaa sanas ta'a, imaammata Yahwe jedhe: sagalee iyyannaa Baaddata Haadhotaatii dhufe, gammoojjii Mishennaa irraa, bittaa guddaa gaarreen irraa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanatti"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "imaammata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "iyyannaa"
+    },
+    {
+      "surface": "משער",
+      "gloss": "Baaddata… irraa"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "Haadhotaatii"
+    },
+    {
+      "surface": "ויללה",
+      "gloss": "gammoojjii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "Mishennaa"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "bittaa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "מהגבעות",
+      "gloss": "gaarreen irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:33.806615750Z",
+  "model": "glm-5.3"
+}

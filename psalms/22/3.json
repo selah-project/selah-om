@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Eeloohiim kiyya, guyyaatti nan waama, ati immoo hin deebiftu; halkanis suumatti hin jiru natti.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eeloohiim kiyya"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nan waama"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "deebiftu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "halkanis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "suumatti hin jiru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:24.281857485Z",
+  "model": "glm-5.3"
+}

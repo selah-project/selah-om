@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Wanti ashii mizbechaa baafatu, isa irratti vaajjii diimaa-ji'aa (arrooggamaa) diriira.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "baafatu (ashii)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbecha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbecha"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "diriira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "vaajjii"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "arrooggamaa (diimaa-ji'aa)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:21.267411789Z",
+  "model": "glm-5.3"
+}

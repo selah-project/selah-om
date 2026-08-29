@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Eenyu na geessa magaalaa cimdu qabu? Eenyu na qajeelcha Edomitti?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "na geessa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "cimdu qabu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "na qajeelcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:32.747178078Z",
+  "model": "glm-5.3"
+}

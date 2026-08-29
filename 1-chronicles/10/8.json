@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Guyyaa ittiin aanus, Falistiinonni ⟨את⟩ warra ajjeefaman baafachuuf dhufan; ⟨את⟩ Shaauul fi ⟨את⟩ ilmaan isaa gaara Gilboo'aa irratti kufan argan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "(waytaa)"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "guyyaa ittiin aanus"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiinonni"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "baafachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra ajjeefaman"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "warra ajjeefaman"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "argan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaauul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaauul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboo'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:03.244594670Z",
+  "model": "glm-5.3"
+}

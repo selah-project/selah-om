@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmoo faanaa, yoo aaree hin qabaannee fi karaa keessaa hin baafatan; sababiin iittaa isaa xiccu qofa iyya. Isaatti hirkatan hundi gammatan!",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "faanaa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "Ilmoo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoo hin baaf"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "aaree qabaata"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "hin baafatan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa keessaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "iyya"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "xiccu qofa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iittaa isaa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gammatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "hirkatan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:29.268674429Z",
+  "model": "glm-5.3"
+}

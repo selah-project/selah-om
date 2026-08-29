@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Qaamna xiqqoo qajeelummaaan qabu, midhagaa gudda mishummaa malee irra caalmaa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caalmaa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "qaamna xiqqoo"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "qajeelummaaan"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "gudda"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "midhagaa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:06:18.677413978Z",
+  "model": "glm-5.3"
+}

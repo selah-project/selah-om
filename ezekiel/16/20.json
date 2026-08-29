@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ijoollee dhiiraa kee fi ijoollee dubartii kee, kan Anaaf dhalatte, fudhatee ⟨את⟩ isaaniif gattaa taasifte, nyaachuuf — raawwii kee irraa xiqqaa ta'aa?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoollee dhiiraa kee"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ijoollee dhiiraa kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijoollee dubartii kee"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "ijoollee dubartii kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Anaaf"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "isaaniif gattaa taasifte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "nyaachuuf"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "xiqqaa ta'aa"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "raawwii kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:10:32.504991808Z",
+  "model": "glm-5.3"
+}

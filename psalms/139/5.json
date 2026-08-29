@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Aduuree fi duraatti na marsiteetta, harka kee si'a kiyya irratti na dhiigateetta.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Aduuree"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "fi duraatti"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "na marsiteetta"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "na dhiigateetta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "si'a kiyya irratti"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "harka kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.278912329Z",
+  "model": "glm-5.3"
+}

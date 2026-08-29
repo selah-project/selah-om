@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ishee ilmaan keessan himaadhaa, ilmaan keessan immoo ilmaan isaanii haa himan, ilmaan isaanii immoo durtii biraa haa himan.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Ishee waa'ee"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ilmaan keessan"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "himaadhaa"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ilmaan keessan immoo"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ilmaan isaanii"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ilmaan isaanii immoo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:28.448688421Z",
+  "model": "glm-5.3"
+}

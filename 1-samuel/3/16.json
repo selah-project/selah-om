@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Eeliin ⟨את⟩ Samuweel waamee, Samuweel ilma koo jedheen; innis Ani jira jedhe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waamee"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeliin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuweel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedheen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma koo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "innis jedhe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ani jira"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:47.822908859Z",
+  "model": "glm-5.3"
+}

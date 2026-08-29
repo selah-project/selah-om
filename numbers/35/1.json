@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Yahween lola Mo'aab keessatti, Yardaan irraa, Yerichoo biratti Mosheettin akkas jedhuutti haasawaa dubbate.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti...tiin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "lola...keessatti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yardaan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerichoo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:10.817783525Z",
+  "model": "glm-5.3"
+}

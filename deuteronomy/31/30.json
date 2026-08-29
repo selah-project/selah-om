@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Mosheenis gammagidda Israa'el hunda ganda isaa keessatti jechoota gabaabicha kanaa ⟨את⟩ dubbate, yeroo guutameetti.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ganda isaa keessatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gammagidda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota gabaabicha kanaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "gabaabicha kanaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo...tti"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "guutameetti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:35:59.619424723Z",
+  "model": "glm-5.3"
+}

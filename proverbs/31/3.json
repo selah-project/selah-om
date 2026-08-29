@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Haadholootaaf humna kee hin kennitu, karaawwan kee kan mootota balleessan amala hin kennitu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "haadholootaaf"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "karaawwan kee"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "mootota"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:09.688068585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Meeshaalee isaa mana Ashtarot keessatti ⟨את⟩ meeshaalee isaa saamaniiru; qaama isaa ammoo ⟨את⟩ qaama isaa miila cumbaala Beyt-Sheen irratti maxxansaniiru.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "saamaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee isaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fi",
+      "marks": "qaama isaa"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "qaama isaa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "maxxansaniiru"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "cumbaala irratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Sheen"
+    }
+  ],
+  "timestamp": "2026-08-29T14:43:57.948044642Z",
+  "model": "glm-5.3"
+}

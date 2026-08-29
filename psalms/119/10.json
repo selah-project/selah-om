@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Onnee kiyya hundaan si barbaadde; ajajoota kee irraa hin na gorrorsiis.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "si barbaadde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "na gorrorsiis"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ajajoota kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:25.826995548Z",
+  "model": "glm-5.3"
+}

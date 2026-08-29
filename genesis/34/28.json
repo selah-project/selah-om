@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Hoolaa isaanii ⟨את⟩, lolii isaanii ⟨את⟩, harree isaanii ⟨את⟩, waan magaalatti argamu ⟨את⟩ fi waan diina keessatti argamu ⟨את⟩ fudhatanii.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hoolaa isaanii"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Hoolaa isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lolii isaanii"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "lolii isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "harree isaanii"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "harree isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan magaalatti argamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalatti argamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan diina keessatti argamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "diina keessatti argamu"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "fudhatanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:36.049838978Z",
+  "model": "glm-5.3"
+}

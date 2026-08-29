@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ishooteen kee fuulduraatti haa argatan, garreen kee immoo fuuldura keetti haa sirraatan.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "ishooteen kee"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "fuulduraatti"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "haa argatan"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "garreen kee immoo"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "haa sirraatan"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fuuldura keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:36.533967112Z",
+  "model": "glm-5.3"
+}

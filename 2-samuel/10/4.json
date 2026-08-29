@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Hanuunis ⟨את⟩ gabroota Daawid fudhate, ⟨את⟩ walakkaa gabbeessa isaanii baalle, ⟨את⟩ uffata isaanii walakkaadhaan duubaa isaanii gadiitti buuse, erga-eerga dabales.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabroota Daawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "baalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walakkaa gabbeessa isaanii"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "walakkaa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "gabbeessa isaanii"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "buuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffata isaanii"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "uffata isaanii"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "walakkaadhaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gadiitti"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "duubaa isaanii"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "erga-eerga dabales"
+    }
+  ],
+  "timestamp": "2026-08-29T07:49:00.905102252Z",
+  "model": "glm-5.3"
+}

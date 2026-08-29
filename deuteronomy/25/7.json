@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 25:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Namni yoo ⟨את⟩ obboleetti-nam-tumaa isaa fudhachuu hin barbaade, obboleetti-nam-tumaa isaa gara balbalatti ol baatee, gara hayyootaatti, akkana jetti: \"Yabamiin koo obboleesa isaa irratti Israa'el keessatti maqaa kaafachuuf dida; yabaan koo naaf hin jaallamu.\"",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "fudhachuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleetti-nam-tumaa isaa"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "obboleetti-nam-tumaa isaa"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "ol baatee"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "obboleetti-nam-tumaa isaa"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "gara balbalatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "hayyootaatti"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "akkana jetti"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dida"
+    },
+    {
+      "surface": "יבמי",
+      "gloss": "yabamiin koo"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "kaafachuuf"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "obboleesa isaa irratti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el keessatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "jaallamu"
+    },
+    {
+      "surface": "יבמי",
+      "gloss": "yabaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:43.011286250Z",
+  "model": "glm-5.3"
+}

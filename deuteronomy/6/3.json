@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Fi haasawsi Isaara'eli, eegaddees hojjadhu — akkasitti siif baay'ee gaarii ta'uuf, akkasumas baay'ee dabaluuuf, akka Yahwe Eloohiim abbootii kee siin jedhe: biyya aanan hammaa fi dhangaggeetti wal-dhiibdu.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Fi haasawsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isaara'eli"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "eegaddees"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akkasitti"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gaarii ta'uuf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "dabaluuuf"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "abbootii kee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "wal-dhiibdu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "hammaa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "fi dhangaggeetti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:40.186835759Z",
+  "model": "glm-5.3"
+}

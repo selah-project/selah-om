@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Raajiyoonni ishee dadachaawaa, namoota kufree; qoftaan ishee qulqullina balleessan; seera Tooraa irratti cunqursaa hojjataniiru.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "raajiyoonni ishee"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "dadachaawaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "kufree"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "qoftaan ishee"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullina"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "cunqursaa hojjataniiru"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tooraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:07.013883633Z",
+  "model": "glm-5.3"
+}

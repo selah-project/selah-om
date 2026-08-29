@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Kan kabaja kee wantoota gaariitiin guuttisu; daa'ummaan kee akka gartiiddaa ta'ee haaromsama.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Kan guuttisu"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wantoota gaariitiin"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kabaja kee"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "haaromsama"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "akka gartiiddaa"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "daa'ummaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:11.369659151Z",
+  "model": "glm-5.3"
+}

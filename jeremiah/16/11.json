@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 16:11",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Isinitti isaaniin jedhit: Abbootiin keessan ⟨את⟩ na dhiisan — jechaa Yahwe — Eloohiim biroo hordofanii deeman, isaan tajanani, isaanii faarfatan; ⟨את⟩ na dhiisanii fi ⟨את⟩ seera koo hin eegane.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jedhit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniin jedhit"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dhiisan"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "abbootiin keessan"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ na",
+      "marks": "dhiisan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jechaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hordofanii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "isaan tajanani"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "isaanii faarfatan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "fi ⟨את⟩ na",
+      "marks": "dhiisan"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dhiisan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "seera koo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "seera koo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eegane"
+    }
+  ],
+  "timestamp": "2026-08-29T09:34:39.379523678Z",
+  "model": "glm-5.3"
+}

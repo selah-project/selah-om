@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ani mataawwan gareewwan kee san, ogeeyyii beekamoo ta'an, fudhadhe; isaanis mataa isiniif taasise — abbootiin kumaa, abbootiin dhibbaa, abbootiin afurtamii, abbootiin kudhanii fi ogeessitoota gareewwan keeitiin.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "fudhadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataawwan gareewwan kee"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataawwan"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "gareewwan kee"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ogeeyyii"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "beekamoo ta'an"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kumaa"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibbaa"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "afurtamii"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "abbootiin"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kudhanii"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ogeessitoota"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "gareewwan keeitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:26.217616273Z",
+  "model": "glm-5.3"
+}

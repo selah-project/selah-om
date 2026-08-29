@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yaa Yahwe, nagaa nuuf dhaabsita; sababu hojii keenya hundaas nuuf hojjette.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaa Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "dhaabsita"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hundaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "hojii keenya"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:43.925599327Z",
+  "model": "glm-5.3"
+}

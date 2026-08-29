@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Fi ⟨את》 gameen makoo hunda, fi ⟨את》 mootumoota biyya Hoo tsii hunda, fi ⟨את》 mootumoota biyya Filistii hunda, fi ⟨את》 Ashkeelon, fi ⟨את》 A z zaa, fi ⟨את》 Ek roon, fi ⟨את》 hafe Ashdo od.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gameen makoo hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gameen makoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mootumoota biyya Hoo tsii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootumoota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Hoo tsii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mootumoota biyya Filistii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootumoota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashkeelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkeelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "A z zaa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "A z zaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ek roon"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ek roon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hafe Ashdo od"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdo od"
+    }
+  ],
+  "timestamp": "2026-08-29T09:39:11.410221913Z",
+  "model": "glm-5.3"
+}

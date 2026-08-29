@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Atis, ka'i, gara mana keetti deemi; yeroo seeran seenu kee magaalatti, mucaan ni du'a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Atis"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "gara mana keetti"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "yeroo seenu"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "seeran kee"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "magaalatti"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ni du'a"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:59.895257302Z",
+  "model": "glm-5.3"
+}

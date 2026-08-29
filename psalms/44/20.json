@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Waan ta'e, iddoo warrabessaa keessatti nu ciniinsiteetta, dukkana du'aa keessattis nu dheessiteetta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waan ta'e"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "nu ciniinsiteetta"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iddoo keessatti"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "warrabessaa"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "fi nu dheessiteetta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "dukkana du'aa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:54.335349958Z",
+  "model": "glm-5.3"
+}

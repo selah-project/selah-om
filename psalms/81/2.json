@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Eloohiimiifi, cimina keenyaaf, arrabbisaa; Jaakob Eloohiimiifi iyyaa.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "arrabbisaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimiifi"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "cimina keenya"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "iyyaa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohiimiifi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:25.191788483Z",
+  "model": "glm-5.3"
+}

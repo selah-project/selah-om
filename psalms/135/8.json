@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Kan ilmoo-duraa Mitsraayim rukute, namootaa fi beylada irraa.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "kan rukute"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ilmoo-duraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beylada"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:13.387197756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Yaa Yahwe, nama hamtuu irraa natti baasi; nama cimdii irraa natti eegi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "natti baasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nama irraa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nama irraa"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "cimdii"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "natti eegi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:30.680007499Z",
+  "model": "glm-5.3"
+}

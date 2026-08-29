@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Mosheenis guyyaa sanatti ⟨את⟩ ummata ajaje, jedhuutiin:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuutiin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:46.029190642Z",
+  "model": "glm-5.3"
+}

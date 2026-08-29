@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Waggaa afurtamii tokko Yerushaalayim keessatti mootummaa hojjetan; maqaan haadha isaa Ma'akaa, intala Abishaaloom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "waggaa afurtamii"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootummaa hojjetan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'akaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abishaaloom"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:11.603915789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ijoolleen Kaaleb ibsa Yefuneeh: Iiruu, Eelaah fi Naam; ijoolleen Eelaah: Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ijoolleen"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaaleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ibsa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneeh"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iiruu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eelaah"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "fi Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ijoolleen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eelaah"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenaz"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:51.704804828Z",
+  "model": "glm-5.3"
+}

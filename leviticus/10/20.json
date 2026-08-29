@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mosheenis dhageette, sun ija isaa keessatti miidhagaa taate.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageette"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "miidhagaa taate"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:36:24.972537202Z",
+  "model": "glm-5.3"
+}

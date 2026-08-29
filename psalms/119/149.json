@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Sagalee koo dhageessi akka kheesed-keetti, yaa Yahwe; akka murteewwan keetti na jiraadsi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "sagalee koo"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "akka kheesed-keetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "akka murteewwan keetti"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "na jiraadsi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:23.291330275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Onnee isaa qulqullummaatiin isaan kunuune, ogummaan harka Isaa isa qajeelchise.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "isaan kunuune"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "qulqullummaatiin"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "ogummaatiin"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "isa qajeelchise"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:12.690568637Z",
+  "model": "glm-5.3"
+}

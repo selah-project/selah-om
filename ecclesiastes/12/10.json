@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Qohelet jechoota jaalannaa arguuf barbaade, fi kan barreeffame sirrii ta'e — jechoota dhugaa.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "arguuf"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jaalannaa"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "fi kan barreeffame"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:53:44.948118995Z",
+  "model": "glm-5.3"
+}

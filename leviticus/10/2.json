@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yahwe biraa ibiddi bahe, ⟨את⟩ isaani liqimsuun, isaanis Yahwe fuulduratti du'an.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "biraa fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "liqimsuun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "du'an"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:31.693388493Z",
+  "model": "glm-5.3"
+}

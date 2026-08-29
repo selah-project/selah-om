@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Geejjessaaaf — Gittith irratti — Asaafiifiif.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geejjessaaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaafiifiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:25.191597029Z",
+  "model": "glm-5.3"
+}

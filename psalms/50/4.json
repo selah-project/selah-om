@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Samiiwwanii ol irraa waama; lafaas, sabaa Isaa murtii gochuuf.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "waama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ol irraa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lafaas ... gara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "murtii gochuuf"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sabaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:55.561782597Z",
+  "model": "glm-5.3"
+}

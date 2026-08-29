@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Mosheenis gaara sanatti ol ba'e; duudaan garas ⟨את⟩ gaara san heddewe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sanitti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaara san"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "heddewe"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duudaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaara san"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaara san"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:50.479285360Z",
+  "model": "glm-5.3"
+}

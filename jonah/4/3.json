@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Amma, Yahwe, maaloo, ⟨את⟩ lubbuu kiyya na irraa fudhu; sababaan du'aan kiyya jireenyaa kiyyaarraa caalaa ⟨is⟩ gaarii.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fudhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu kiyya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "du'aan kiyya"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "jireenyaa kiyyaarraa caalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:19:27.614016189Z",
+  "model": "glm-5.3"
+}

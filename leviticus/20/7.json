@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Qulqulleeffadhaa akka waaqeffamtuutti, qulqulloo ta'aas; kiyyo Ani Yahwe, Eloohiim keessan.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Qulqulleeffadhaa"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ta'aas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqulloo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiyyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:05.908955138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Garuu na hin dhageessine, gurra isaanii hin leenjifanne; seenu isaanii gogfatanii, abboota isaanii caalaa hamtuu hojjetanii.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Garuu hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessine"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "leenjifanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurra isaanii"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "gurra isaanii"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "gogfatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seenu isaanii"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "seenu isaanii"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "hamtuu hojjetanii"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "abboota isaanii caalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:29:02.265633978Z",
+  "model": "glm-5.3"
+}

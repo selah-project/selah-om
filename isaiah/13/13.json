@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Sababa kanaan samiiwwanii ni ajaa'ibsa, lachiinis teessoo ishee irraa ni rukutti — hiikkoo Yahwe Sabaa'otii fi guyyaa hipphee bofaa Isaa keessatti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "ni ajaa'ibsa"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ni rukutti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lachiinis"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "teessoo ishee irraa"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "hiikkoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaa'otii"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "fi guyyaa"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "hipphee"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bofaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:34.821868232Z",
+  "model": "glm-5.3"
+}

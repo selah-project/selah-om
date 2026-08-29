@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Garuu akka namoota dhumaattan; akka tokko boonaawwanii fallaattan.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "akka namoota"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "dhumaattan"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "akka tokko"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "boonaawwanii"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "fallaattan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:00.971812661Z",
+  "model": "glm-5.3"
+}

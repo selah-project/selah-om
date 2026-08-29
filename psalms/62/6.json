@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Qofa Eloohiimiif lubbuu kiyya sammiti; tiikoo kiyyan Isa irraa ⟨ta'a⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimiif"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "sammiti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(tiikoo kiyyan)"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Isa irraa"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tiikoo kiyyan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:49.954358928Z",
+  "model": "glm-5.3"
+}

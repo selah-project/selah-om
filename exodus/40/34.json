@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Achii duudaan ⟨את⟩ teentaa walitti-kutannoo hundi, kabajaan Yahwe immoo ⟨את⟩ teenticha guute.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duudaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teentaa walitti-kutannoo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walitti-kutannoo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "kabajaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teenticha"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "teenticha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:07.131284126Z",
+  "model": "glm-5.3"
+}

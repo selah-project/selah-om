@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 12:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Shemuu'elis namootaatti jedhe: \"Hin sodaa'aawaa; kanaanuu fincilla hunda kana ⟨את⟩ waan hunda hojjettaniitii; yeroo hunda garuu Yahwe duuba irraa hin jijjiiramaawaa; Yahwe qofa onneetti keessan guutuuutti kabajaa ⟨את⟩ Yahwe tajaajilaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": " gara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sodaa'aawaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "hojjettaniitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda (fincilla hunda kana)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "fincilla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yeroo hunda garuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "jijjiiramaawaa"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "duuba irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuuitti"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onneetti keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:17.186538874Z",
+  "model": "glm-5.3"
+}

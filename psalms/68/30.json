@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Tempoo kee irraa, Yerushaalayim irratti, mootonni kennee siif geessisu.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Tempoo kee irraa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "geessisu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "שי",
+      "gloss": "kennee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:42.577508605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Namni tokkollee guyyoota jireenyaa kee hunda jalaa kee hin dhaabbatu; akkan Moshee waliin ture, akkasuma si waliin ta'a; si hin hambisu, si hin dhiisu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkollee"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "jalaa kee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jireenyaa kee"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "si hambisu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "si dhiisu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:10.843909126Z",
+  "model": "glm-5.3"
+}

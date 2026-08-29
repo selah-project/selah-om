@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sii amanee hafee hojjatan abbootii keenya; sii amanee, ati isaan baraaddette.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "amanee hafee hojjatan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abbootii keenya"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "amanee"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ati isaan baraaddette"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:24.518533960Z",
+  "model": "glm-5.3"
+}

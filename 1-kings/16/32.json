@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Haala Baal irratti dhaabbatee mana Baal kan Shomroon keessatti ijure.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhaabbatee"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "haala"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal irratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ijure"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroon keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:17:17.552373825Z",
+  "model": "glm-5.3"
+}

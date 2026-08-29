@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Sababaa guyyoon koo sumutti xumurame, lafeen koo akka gubataa hin bararreetti gubataniiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababaa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "xumurame"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sumutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoon koo"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "lafeen koo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "קד",
+      "gloss": "gubataa hin bararree"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "gubataniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:10.929133619Z",
+  "model": "glm-5.3"
+}

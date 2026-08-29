@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Siyo'onis ni jedhe: «Yahwe na dhiise, Adoonaayis na gatame.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nis ni jedhe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyo'on"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "na dhiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adoonaayis"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "na gatame"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:56.227863112Z",
+  "model": "glm-5.3"
+}

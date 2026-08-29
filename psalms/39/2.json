@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Ani jedhe: karaa kiyyaKSAA eega, akka arrabaan kiyyaKSAA ganuu dhabu; afaan kiyyaKSAA cufinsaan eega yeroo dogoggorri fuulduratti kiyyaKSAA jiru.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ani jedhe"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "eega"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa kiyya"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "ganuu dhabu"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "arrabaan kiyya"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "eega"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afaan kiyya"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "cufinsaan"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dogoggorri"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "fuulduratti kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.490132171Z",
+  "model": "glm-5.3"
+}

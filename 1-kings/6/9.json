@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Manaicha uumees xumure; manaicha geeddarreeniitii fi sararoota seddarootiin soore.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "uumees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaicha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaicha"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "xumure"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "soore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaicha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaicha"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "geeddarree"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "sararoota"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "seddarootiin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:12.581822210Z",
+  "model": "glm-5.3"
+}

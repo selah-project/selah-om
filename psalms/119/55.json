@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Maqaa kee, Yahwe, halkan yaadadhe, seeraa kees ti eegadhe.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "yaadadhe"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Maqaa kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "eegadhe"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "seeraa kees"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:58.967626980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Fi baccawwan ⟨את⟩ ganda Daawidii argattan, sababa isaan baay'aniif; bishaan ⟨את⟩ boolla bishaanii gadii isa eegamees walitti qabattan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baccawwan ganda Daawidii"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "baccawwan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidii"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "argattan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "baay'aniif"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "walitti qabattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan boolla bishaanii gadii"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "boolla bishaanii"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "gadii isa eegame"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:00.035980051Z",
+  "model": "glm-5.3"
+}

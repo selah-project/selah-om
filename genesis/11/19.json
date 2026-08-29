@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Akkaataa kanaan Peleg erga ⟨את⟩ Re'u dhalee booda, waggoota sagalaa fi lama-tamantama jiraachaa ture, ilmaan fi intalan dhalatee.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dhalee booda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re'u"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sagalaa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "fi lama-tamantama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalatee"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi intalan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:37.546804226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ka'adha, maaloo, magaalaa keessaa sochoodha; gurguddaa manaawwanii fi bal'ina daandiiwwan keessaa kan jaallattu lubbuun koo ⟨את⟩ barbaadadha. Barbaaddeef, garuu hin argadhu.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "ka'adha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "garuu magaalaa keessaa sochoodha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessaa"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "gurguddaa manaawwanii"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "fi bal'ina daandiiwwan"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "barbaadadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan jaallattu lubbuun koo"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "kan jaallattu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "barbaaddeef"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "argadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:43.142696763Z",
+  "model": "glm-5.3"
+}

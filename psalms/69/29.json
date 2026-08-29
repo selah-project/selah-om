@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Akka isaan galmee jireenyaa irraa haqaman, wajjin sirrii-ta'an hin barreeffamne.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "haqaman"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "galmee"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sirrii-ta'an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "barreeffamne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:35.187780971Z",
+  "model": "glm-5.3"
+}

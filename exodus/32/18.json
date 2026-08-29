@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Inni ammoo jedhe: \"Sagaleen waamuu injifannaa miti; sagaleen waamuu mo'amuutti miti; sagalee waamuu sirbaa ani dhagaya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inni ammoo jedhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "miti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "waamuu"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "injifannaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "ואין",
+      "gloss": "miti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "waamuu"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "mo'amuutti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "waamuu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagaya"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:53.407485624Z",
+  "model": "glm-5.3"
+}

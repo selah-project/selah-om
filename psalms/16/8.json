@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yahwe yeroo hunda dura koo jiruuf √dhiifadhe; √Inni √miila √kan √mira √koo √jiruuf, √hin √socho'uu.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "√dhiifadhe (dura koo jiruuf)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "dura koo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "√Inni"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "miila kan mira koo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "socho'uu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:21.960124454Z",
+  "model": "glm-5.3"
+}

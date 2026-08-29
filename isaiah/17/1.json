@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Baaddii Damesqii: Kunoo, Damesqii magaalaa ta'uu irraa dhiifame, hamtuuta kufaa ta'uuf.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Baaddii"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesqii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesqii"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dhiifame"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalaa ta'uu irraa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ta'uuf"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "hamtuuta"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "kufaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:13.349635509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Naahor waggaa sagaalaa fi digdamii-tokko jiraate; ⟨את⟩ Terach dhalate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sagaalaa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "fi digdamii-tokko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:34.628010376Z",
+  "model": "glm-5.3"
+}

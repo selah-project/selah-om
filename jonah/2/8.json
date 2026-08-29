@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yeroo lubbuun koo na dhiphachu, Yahwe ⟨את⟩ yaadadhe; kadhuun koo gara si qaba gara heerataa qulqullummaa kee na ga'e.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "dhiphachu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na irra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "yaadadhe"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na ga'e"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si qaba"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhuun koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heerataa"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qulqullummaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:50.928355998Z",
+  "model": "glm-5.3"
+}

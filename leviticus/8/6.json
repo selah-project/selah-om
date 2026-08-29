@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mosheenis ⟨את⟩ Aharooniifi ⟨את⟩ ilmaan isaa dhiyeesse, bishaaniinis ⟨את⟩ isaan dhiqe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "dhiqe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaaniinis"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:35.163871217Z",
+  "model": "glm-5.3"
+}

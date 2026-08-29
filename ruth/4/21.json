@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Salmonis Bookes ⟨את⟩ Boaz uume, Boazis ⟨את⟩ Oobed uume.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Salmonis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Booz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Booz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Boazis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oobed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oobed"
+    }
+  ],
+  "timestamp": "2026-08-29T12:39:00.770580061Z",
+  "model": "glm-5.3"
+}

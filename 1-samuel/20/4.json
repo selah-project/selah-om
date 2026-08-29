@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yonataanis Daawiditti jedhe: Lubbuun kee maal jedhutti, ani siif hojjadha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonataan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "jedhutti"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuun kee"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "hojjadha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T07:31:15.037949897Z",
+  "model": "glm-5.3"
+}

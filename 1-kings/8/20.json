@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahwe jechaa isaa waan jedhe ⟨the⟩ guute; Daawid abbaa koo bakka boqonnaa dhaabbadheen, akka Yahwe jennetti kusiinee Yisraa'el irratti taa'eera; mana Maqaa Yahwe Eloohiim Yisraa'el tiif ijaare.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "guute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechaa isaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jechaa isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "dhaabbadheen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka boqonnaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "taa'eera"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kusiinee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jennetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ijaare"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana ⟨the⟩"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Maqaa ... tiif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:08.647042845Z",
+  "model": "glm-5.3"
+}

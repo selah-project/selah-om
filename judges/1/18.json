@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahuuda ⟨את⟩ Aazaa fi ⟨את⟩ daangaa ishee, fi ⟨את⟩ Ashkeloon fi ⟨את⟩ daangaa ishee, fi ⟨את⟩ Ekroon fi ⟨את⟩ daangaa ishee fudhate.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aazaa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aazaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daangaa ishee"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "daangaa ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ashkeloon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkeloon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daangaa ishee"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "daangaa ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ekroon"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "daangaa ishee"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "daangaa ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:59:27.814032749Z",
+  "model": "glm-5.3"
+}

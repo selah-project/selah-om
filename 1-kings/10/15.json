@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Namoota imaltuu fi daldala daldalaa-tuuqaa, akkasumas mootoota mootummaa makaa-baay'aa fi ittisaanota biyya isaaniitiin malee.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "malee"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "imaltuu"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "fi daldala"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "daldalaa-tuuqaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkasumas hunda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootoota"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mootummaa makaa-baay'aa"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "fi ittisaanota"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:43.489380286Z",
+  "model": "glm-5.3"
+}

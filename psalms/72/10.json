@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Mootonni Tarshiishiifi odolaa teessoo fageetti kaffaltii ni deebisuu; mootonni Shebaafi Sebaa kennaa gatii guddaa ni dhiyeessu.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshiish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "odolaa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ni deebisuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "Sebaa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kennaa gatii guddaa"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ni dhiyeessu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:44.963575989Z",
+  "model": "glm-5.3"
+}

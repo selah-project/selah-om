@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Israa'el dogoggorre; kakuu koo kan ⟨את⟩ isaanitti ajaje siis ni dabranii, waan hora-tume kessaa fudhataniirus, ni ajjeesaniirus, ni sobaniirus, meeshaa isaniinis keessaa kaa'aniiru.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "dogoggorre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dabranii"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ni dabran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu koo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakuu koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ isaanitti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dabranii"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "fudhataniiru"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "waan hora-tume"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dabranii"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "ajjeesaniiru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dabranii"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "sobaniiru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dabranii"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kaa'aniiru"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "meeshaa isaniinis keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:45:30.952837424Z",
+  "model": "glm-5.3"
+}

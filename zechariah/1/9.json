@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Aniin immoo jedhe, “Maaltu sanii, Adoonaay?” Malaaqichaan na wajjin dubbatu naan jedhe, “Ani si agarsiisa maaltu sanan.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sanii"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naan jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaaqichaan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na wajjin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "si agarsiisa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:00:22.280324838Z",
+  "model": "glm-5.3"
+}

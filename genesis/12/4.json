@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Avraami akka Yahwe isatti dubrate sanitti deeme; Loosis isa wajjin deeme. Avraami immoo waggaa dhibba duraa shan fi torba (waggaa 75) ta'ee Haaraan irraa ba'uu isaa ti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubrate"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (Avraam)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loosis"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Avraami immoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ijji (umurii)"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "fi torba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ba'uu isaa ti"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Haaraan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:24.009424286Z",
+  "model": "glm-5.3"
+}

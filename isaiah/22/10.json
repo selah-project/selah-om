@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Fi manneen ⟨את⟩ Yerushaalayim lakkoofsattan; manneen gad-buusattan, casiisa jajjabeessuuf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manneen Yerushaalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "lakkoofsattan"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "gad-buusattan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "jajjabeessuuf"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "casiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:00.036226222Z",
+  "model": "glm-5.3"
+}

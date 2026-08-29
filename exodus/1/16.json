@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akka ata yeroo dhalchisu dubartoota Ibrootaa fi ija kee birteenitti argituitti, ilmi gosa dheeraa yoo ta'e, ajajee; intalaan yoo taate, jiraachuu haa jiraatu jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "yeroo dhalchisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dubartoota Ibrootaa"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "dubartoota Ibrootaa"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ija kee birteenitti argituu"
+    },
+    {
+      "surface": "על",
+      "gloss": "birteenitti"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "biraa dhalchaa irratti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo ta'e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmi gosa dheeraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (ilma sana)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo taate ammoo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intalaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "taate"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "jiraachuu haa jiraatu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:23.395254645Z",
+  "model": "glm-5.3"
+}

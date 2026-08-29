@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Murtii hiyyeessa kee mormu isaa keessatti hin finfinnisu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "finfinnisu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "hiyyeessa kee"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "mormu isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:29.300731891Z",
+  "model": "glm-5.3"
+}

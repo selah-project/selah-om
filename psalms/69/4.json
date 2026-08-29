@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Ani gorfachuun dadhabe, kunya koo dafee, ija koo dhabaman abdii Eloohii koo eeguun.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "dadhabe"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "gorfachuun"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "dafee"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "kunya koo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dhabaman"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija koo"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "eeguun"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohii koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:29.559334088Z",
+  "model": "glm-5.3"
+}

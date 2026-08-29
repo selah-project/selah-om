@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Waaqottatti akka sii ta'u hin jiru, Adoonaay; hojiiwwan keettiinis akka ta'an hin jiru.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka sii ta'u"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Waaqottatti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "hojiiwwan keettiinis akka ta'an"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:17.789961543Z",
+  "model": "glm-5.3"
+}

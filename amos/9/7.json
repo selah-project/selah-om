@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sila akka ilmaan Kuushii mitii isin natti taatan, ilmaan Israa'el? Yahwe'n jedha. Sila ⟨את⟩ Israa'el lafaa Mitsraayim irraa gad ol baasuu mitii? Filisxiimoon Kaaptor irraa, Aram immoo Kiir irraa.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Sila ... mitii"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "akka ilmaan"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kuushii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "gad ol baasuu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "Filisxiimoon"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "Kaaptor irraa"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Aram immoo"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "Kiir irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:51:51.816351230Z",
+  "model": "glm-5.3"
+}

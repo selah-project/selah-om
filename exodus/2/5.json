@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilitti Paroh yaa'uu irratti dhiqachuuf gadi buute; intaltan ishee harka yaa'uu irratti socho'an; teeba ⟨את⟩ gidduu sanyii qamadii keessaa argatte, ajajechaa isheetiin ⟨את⟩ ergatte, isheetiinis fudhate.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "gadi buute"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ilitti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "dhiqachuuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "yaa'uu"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "intaltan ishee"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "socho'an"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "yaa'uu"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "argatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teeba"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teeba"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduu keessaa"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "sanyii qamadii"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ergatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajechaa isheetiin"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "ajajechaa isheetiin"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "fudhate"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:33.114733049Z",
+  "model": "glm-5.3"
+}

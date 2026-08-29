@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Namni tokko isa argate; kunoo, inni qona keessaa addaan baa'aa ture. Namniinis isa gaafate, akka jedhu: «Maal barbaadda?»",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "isa argate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "addaan baa'aa ture"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "qona keessaa"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "isa gaafate"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namniinis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "barbaadda"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:47.984783191Z",
+  "model": "glm-5.3"
+}

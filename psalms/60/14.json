@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Eloohiim keessatti gaggaaffaa goona; innis diina keenya ni-tuma.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim keessatti"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "goona"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gaggaaffaa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ni-tuma"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "diina keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:12.039752231Z",
+  "model": "glm-5.3"
+}

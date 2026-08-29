@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Waan ta'e inni akka ta'a; waan hojjetame inni akka hojjatamu; aduu jalatti waan haaraa tokkolleen hin jiru.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "akka ta'a"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "hojjetame"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "akka hojjatamu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tokkolleen"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:07.303691539Z",
+  "model": "glm-5.3"
+}

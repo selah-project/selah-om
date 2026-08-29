@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 2:13",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kaffaltii mincaa kee hunda soogiddaan soogiddu; soogidda kakuu Eloohiima kee mincaa kee irraa hin haqu; kaffaltii kee hunda irratti soogidda dhiyaadsi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "mincaa kee"
+    },
+    {
+      "surface": "במלח",
+      "gloss": "soogiddaan"
+    },
+    {
+      "surface": "תמלח",
+      "gloss": "soogiddu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשבית",
+      "gloss": "haqu"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soogidda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiima kee"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "mincaa kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "kaffaltii kee"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "dhiyaadsi"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soogidda"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:35.187582704Z",
+  "model": "glm-5.3"
+}

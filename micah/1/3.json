@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kunoo, Yahwe iddoo isaa irraa ba'a, bu'a, baheewwan lafaa irratti rukuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunoo achii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'a"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "iddoo isaa irraa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "bu'a"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "baheewwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:36.273881559Z",
+  "model": "glm-5.3"
+}

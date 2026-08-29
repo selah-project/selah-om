@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Gogaan ⟨את⟩ bullaa fi ⟨את⟩ gala qaama isa, mana isaa irratti fi miila isaa irratti, aludaa isaa fi raawaa isaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gogaa bullaa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bullaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gala qaama isa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gala"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "qaama isa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "miila isaa"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "aludaa isaa"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "raawaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:39.721916742Z",
+  "model": "glm-5.3"
+}

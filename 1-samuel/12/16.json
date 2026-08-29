@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ammoo dhaabbadhaa, ⟨את⟩ waan guguddaa kana ilaalaa, waan Yahwe ija keessan duratti hojjachaa jiru.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ammoo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "dhaabbadhaa"
+    },
+    {
+      "surface": "ו ראו",
+      "gloss": "ilaalaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan guguddaa kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guguddaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjachaa jiru"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ija keessan duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:15.895775760Z",
+  "model": "glm-5.3"
+}

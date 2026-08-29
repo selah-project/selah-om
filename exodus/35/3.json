@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Ibidda mana-jireenyi keessan hunda keessatti guyyaa Shabbaatiitti hin qabsiisinaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "qabsiisinaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "mana-jireenyi keessan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbaatiiti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:26.161507952Z",
+  "model": "glm-5.3"
+}

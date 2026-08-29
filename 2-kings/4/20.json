@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Inni baafatee haadha isheetti geessise. Ilmi xeenyee ishee irratti haafoo bal'aa isheetti oolee du'e.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "baafatee"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "geessise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isheetti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oolee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "xeenyee ishee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haafoo bal'aa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "itti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T08:24:36.115333440Z",
+  "model": "glm-5.3"
+}

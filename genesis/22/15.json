@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ergamaan Yahwe ergas Avrahaami gara isaatti samii irraa yeroo lammaffaa waamameera.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waamameera"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Ergamaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara isaatti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaami"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "yeroo lammaffaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:02.878503969Z",
+  "model": "glm-5.3"
+}

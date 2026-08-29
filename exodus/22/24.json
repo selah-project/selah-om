@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo kibrooma liqeeffuu ⟨את⟩ ummata Kiyyaa ⟨את⟩ hiikkaa si waliin, akka liqeeffataa isaatti hin taane; riibii isarratti hin dhaabinaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kibrooma"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "liqeeffuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata Kiyyaa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata Kiyyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiikkaa"
+    },
+    {
+      "surface": "העני",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "akka liqeeffataa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "dhaabinaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riibii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:30.273686944Z",
+  "model": "glm-5.3"
+}

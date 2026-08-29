@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Aniinis isin waliin dubbadhe; isinis hin dhageettine; afaan Yahwe ⟨את⟩ diddanii, boonaa hojjatanii gaara sana ol kaattan.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "dubbadhe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isin waliin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "dhageettine"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "diddanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "boonaa hojjatanii"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "ol kaattan"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "gaara sana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:37.159378542Z",
+  "model": "glm-5.3"
+}

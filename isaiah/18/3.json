@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Jiraattoonni addunyaa hundi, fi warri biyya jiraatan, dirree gaarreen irratti olkaa'ame yoo ta'e argaa; fi shaapparri yoo ka'e dhaga'aa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jiraattoota"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "fi jiraattoota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "yoo olkaa'ame"
+    },
+    {
+      "surface": "נס",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen irratti"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "argaa"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "fi yoo ka'e"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shaapparri"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhaga'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:54:53.440973502Z",
+  "model": "glm-5.3"
+}

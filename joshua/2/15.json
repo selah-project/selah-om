@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Isheenis sararaa foddaa keessaan gad buusaa isaan; sababiniin mana ishee kiila gandaa irratti ⟨is⟩ argama, isheenis kiila irratti jiraattii.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "isheenis gad buusaa isaan"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "sararaa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "keessaan"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "foddaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiniin"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana ishee"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "kiila irratti"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "kiila gandaa"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "kiila irratti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isheenis"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "jiraattii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:43:26.503146190Z",
+  "model": "glm-5.3"
+}

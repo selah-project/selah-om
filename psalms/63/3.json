@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Akka suni bakka qulqullumaa keessatti si argaa turre — humnaa kee fi ulfina kee argachuuf.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "akka suni"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "bakka qulqullumaa keessatti"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "si argaa turre"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "argachuuf"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humnaa kee"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "fi ulfinaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:36.914086045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Parohinis Yooseef irratti jedhe, \"Eloohiim waan hunda kana akka ati beeksisuun booda, akkuma ati osoo hubachuu fi ogeessa taate namni biraa hin jiru.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooseef"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "beeksisuun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ atti",
+      "marks": "atti ( akka ati beeksisuun)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda kana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "hubachuu"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akkuma ati"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:23.577159957Z",
+  "model": "glm-5.3"
+}

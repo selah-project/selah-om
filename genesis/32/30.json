@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ya'aqobnis gaafate, akkas jedhe: «Maqaan kee naa himi.» Inni akkas jedhe: «Maaliif maqaa koo kanaan gaafatta?» Inni ⟨את⟩ isa achii eebbeffate.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "gaafate"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobnis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "naa himi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨to ati naa⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "gaafatta"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "maqaa koo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "eebbeffate"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:08.688526698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo inni seenu, bakka inni itti seenu beekadhu, seenti, jalaa isaa mul'isi, atis seeli; innis siif hima waan ati hojjettu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "inni seenu"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "beekadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "seenti"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "mul'isi"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "jalaa isaa"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "seeli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "hima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ati hojjettu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "hojjettu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:39:27.557352909Z",
+  "model": "glm-5.3"
+}

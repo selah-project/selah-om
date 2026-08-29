@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Sirisaa sanas gargar-cufama miilii altarii jalatti, gadi isaatti, ‹את› tuultaa; sirni-seenaan derree altarii gaditti ga'u haa ta'u.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "haa tuultaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "‹את›",
+      "marks": "sirisaa san"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "gargar-cufama miilii"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "gadi isaatti"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "sirni-seenaan derree"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ga'u"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gadiitti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:36.862659832Z",
+  "model": "glm-5.3"
+}

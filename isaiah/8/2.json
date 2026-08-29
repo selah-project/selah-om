@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ani naaf ragoota amantamoo ragaa kenna: ⟨את⟩ Uriyaayaa qoosicha fi ⟨את⟩ Zakaruyaahu ilma Yeberekyaahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ragaa kenna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ragoota"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "amantamoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyaayaa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyaayaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qoosicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zakaruyaahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zakaruyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekyaahu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:05.083954703Z",
+  "model": "glm-5.3"
+}

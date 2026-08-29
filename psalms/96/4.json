@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Waan Yahwe guddaa dha, waan baay'ee faarfamuu qaba dha; Inni waaqota hunda irratti sodaatama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "faarfamuu qaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "sodaatama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waaqota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:25.889377407Z",
+  "model": "glm-5.3"
+}

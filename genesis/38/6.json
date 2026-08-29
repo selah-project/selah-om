@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Yihuudaa amala Eer, ilma isaa gosa jalqabaaf godate; maqaan ishee Taamar.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "godate"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "amala"
+    },
+    {
+      "surface": "לער",
+      "gloss": "Eer irratti"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ilma isaa gosa jalqabaa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maqaan ishee"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Taamar"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:25.966288347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ergaa jalqaba mootummaa isaas Baabel, Erech, Akkadii fi Kalneh ta'e — biyya Shiinaar keessatti.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Ergaa ta'e"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "mootummaa isaas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "ו ארך",
+      "gloss": "fi Erech"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "fi Akkadii"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "fi Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shiinaar"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:34.709803377Z",
+  "model": "glm-5.3"
+}

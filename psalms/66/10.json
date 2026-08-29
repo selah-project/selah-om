@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kunoo, Eloohiim nutti yaalte; akkuma fadii qulqullaa'uutti nu qulqulleesste.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "nutti yaalte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "nu qulqulleesste"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "akkuma qulqullaa'uutti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fadii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:21.140116044Z",
+  "model": "glm-5.3"
+}

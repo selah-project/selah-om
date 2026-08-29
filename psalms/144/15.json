@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Ulfaatamtoota sabni akka kana qabu; ulfaatamtoota sabni Eloohiim isaa Yahwe isaaru.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ulfaatamtoota"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "akka kana qabu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ulfaatamtoota"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohiim isaa isaaru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:42.777812571Z",
+  "model": "glm-5.3"
+}

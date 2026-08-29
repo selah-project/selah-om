@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Yeroo ani bobbaadhu, lubbuu kootiin aanee, kunu naaf garmalee ta'eera.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "yeroo ani bobbaadhu"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "aanee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kootiin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kunu... ta'eera"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "naaf garmalee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:47.458748016Z",
+  "model": "glm-5.3"
+}

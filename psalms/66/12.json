@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Namoota mataa keenya irratti ol baafte; ibiddaa fi bishaan keessa seenne; waan dhoqqoomuutti nu baafte.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "ol baafte"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "mataa keenya irratti"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "seenne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "nu baafte"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "waan dhoqqoomuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:21.140345463Z",
+  "model": "glm-5.3"
+}

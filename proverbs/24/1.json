@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Namoota hamaa hin boonsisin, akkasumas ⟨את⟩ isaan wajjin taachuuf hin barbaadin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "boonsisin"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin barbaadin"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "barbaadi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "taachuuf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:04.043523570Z",
+  "model": "glm-5.3"
+}

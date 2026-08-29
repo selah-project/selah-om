@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Eelishaan immoo isaaf \"Gaachana fi summii fudhad\" jeete; innis gaachanaa fi summii isa bira fudhate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eelishaan"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fudhad"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "Gaachana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "innis fudhate"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "fi summii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa bira"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gaachanaa"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "fi summii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:47.214592725Z",
+  "model": "glm-5.3"
+}

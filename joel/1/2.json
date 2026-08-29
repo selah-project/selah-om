@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kun dhageessaa, dhibbeewwan; hunda warra lafa ‹the› kana keessa jiran dhageejjaa. Wanti kun guyaawwan keessan keessatti ta'eraa, moo guyaawwan abbootii keessan keessatti?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dhibbeewwan"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "dhageejjaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "warra…jiran"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa kana"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "ta'eraa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wanti kun"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "guyaawwan keessan keessatti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "guyaawwan…keessatti"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abbootii keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:28.448554990Z",
+  "model": "glm-5.3"
+}

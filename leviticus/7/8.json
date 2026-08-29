@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kohnichi ol-oota ⟨את⟩ nam-tokkoo dhiyeessu — gogaan ol-ootaa sanaa isa dhiyeesse kohnichaaf ni ta'a.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "kohnichi"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "dhiyeessu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol-oota"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ol-oota"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nam-tokkoo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gogaan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ol-ootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohnichaaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:30:57.300747528Z",
+  "model": "glm-5.3"
+}

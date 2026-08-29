@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Dubadhu ilaa ilmaan Israa'iilii jedhu: kan ⟨את⟩ qurbaanna sheelaamii isaa Yahweef baatu, ⟨את⟩ qurbaana isaa Yahweef fida, kan qurbaanna sheelaamii isaa irraa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Dubadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iilii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "kan baatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaanna sheelaamii isaa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbaanna"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "sheelaamii isaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "fida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaana isaa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbaana isaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "sheelaamii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:05.899467558Z",
+  "model": "glm-5.3"
+}

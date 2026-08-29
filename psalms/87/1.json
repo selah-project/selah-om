@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 87,
+  "translation": "Ilmota Qoraachifi — mizmoori sirbootaa. Bu'uura isaa gaarreen qulqulluu irratti dhaabbatedha.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ilmota"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoori"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sirbootaa"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "bu'uura isaa"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:43.845124264Z",
+  "model": "glm-5.3"
+}

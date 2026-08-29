@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "fi ⟨את⟩ qindaa ifaa, fi ⟨את⟩ meeshaalee isaa, fi ⟨את⟩ ifa isaa, fi ⟨את⟩ zayitaa ifaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qindaa ifaa"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "qindaa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ifaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isaa"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ifa isaa"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ifa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "zayitaa ifaa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ifaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:25.303143289Z",
+  "model": "glm-5.3"
+}

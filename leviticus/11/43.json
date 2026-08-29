@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Lubbuu keessan waan dheebuu'uu waan dheebuu'uu hundaan balleessinaa jaaladhaa; isaan waliin hindanaa, akkasumas isaan waliin hindanaminaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "balleessinaa jaaladhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu keessan"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "lubbuu keessan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "waan dheebuu'uu"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "dheebuu'uu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "hin-danaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan waliin"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "hin-danaminaa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:23.937543999Z",
+  "model": "glm-5.3"
+}

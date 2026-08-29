@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Akka waan dhugaa qabuutti, yoo karaa keessan sirreessee sirreesstan, hojii keessanis, yoo qoqqoodinsa murannaa godhu kan namaa fi kan makkaakeetti",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "waan dhugaa qabuutti"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "sirreessee sirreesstan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaa keessan"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "karaa keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hojii keessan"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "hojii keessan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "qoqqoodinsa murannaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi kan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "makkaakeetti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:25:18.096122849Z",
+  "model": "glm-5.3"
+}

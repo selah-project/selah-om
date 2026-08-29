@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Keerubii lameeffaa immoo dhibba ammaa ture; safara tokko fi caasaa tokko lamaan keerubimttiif ta'e.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "keerubicha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lameeffaa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "safara"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "caasaas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "lamaan"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keerubim"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:52.313054560Z",
+  "model": "glm-5.3"
+}

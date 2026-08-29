@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yahwe gara Mosheetti jedhe: \"Garatti gaara sanaatti ol ba'i, achuma jiraadhu; lubbuu seegeewwan dhagaa ⟨את⟩ sii kenna, seeraa fi ajaja, waan ani barreesse isaaniin isaan barsiisuf.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol ba'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "garatti"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "gaara sanaatti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'i"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achuma"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ni kenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seegeewwan dhagaa"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "seegeewwan"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "fi seeraa"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "fi ajaja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ani barreesse"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "isaan barsiisuf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:05.138548195Z",
+  "model": "glm-5.3"
+}

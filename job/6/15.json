@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Obboleeywan kiyya kabaja cabanii akka lagaa gogduu, akka harreen lagee yeroo darban.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "obboleeywan kiyya"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kabaja cabanii"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lagaa gogduu"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "akka harreen"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "lagee"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "yeroo darban"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:07.941623902Z",
+  "model": "glm-5.3"
+}

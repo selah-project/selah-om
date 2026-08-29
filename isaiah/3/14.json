@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe murtiin gara dargaggoota ummata Isaa fi seenaa Isaa dhufa: isin wayinii maxxansaa balleessitan, hamaacha hiyyeesaa mana keessan keessatti jira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": " murtiin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "עם",
+      "gloss": " gara"
+    },
+    {
+      "surface": "זקני",
+      "gloss": " dargaggoota"
+    },
+    {
+      "surface": "עמו",
+      "gloss": " ummata Isaa"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": " fi seenaa Isaa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": " isin"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": " balleessitan"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": " wayinii maxxansaa"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": " hamaacha"
+    },
+    {
+      "surface": "העני",
+      "gloss": " hiyyeesaa"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": " mana keessan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:01.706103503Z",
+  "model": "glm-5.3"
+}

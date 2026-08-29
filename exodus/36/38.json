@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Utuboota isaa shan fi ⟨את⟩ hancufaawwan isaanii; gogee warqeedhaan mataa isaanii fi kutaalee isaanii; adeensa isaanii shan sibiilaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hancufaawwan isaanii"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "utuboota isaa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hancufaawwan isaanii"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "hancufaawwan isaanii"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "gogee"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "mataa isaanii"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "kutaalee isaanii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqeedhaan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "adeensa isaanii"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sibiilaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:25:51.658270476Z",
+  "model": "glm-5.3"
+}

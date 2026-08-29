@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Mizmor Daawiditi. Yahwe hojjettoota koo; hin dhabadhu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiditi (kan Daawitiiti)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "hojjettoota koo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "dhabadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:35.570276492Z",
+  "model": "glm-5.3"
+}

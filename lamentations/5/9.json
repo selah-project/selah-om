@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sanyii keenya irratti moolee keenya fudhachaa jirra, gamnaan saayifaa bosonatti.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "sanyii keenya irratti"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "fudhachaa jirra"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "moolee keenya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gamnaan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "saayifaa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bosona"
+    }
+  ],
+  "timestamp": "2026-08-29T12:47:51.992634706Z",
+  "model": "glm-5.3"
+}

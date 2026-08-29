@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Bishaan baay'ee irratti sanyiin Shiichor, argata yaa'oraa koonfarsa ishee taatte; gammeen saboota taatte.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "bishaan ... irratti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Shiichor"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "argata"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "yaa'oraa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "koonfarsa ishee"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "taatte"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "gammeen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    }
+  ],
+  "timestamp": "2026-08-29T08:57:21.957335732Z",
+  "model": "glm-5.3"
+}

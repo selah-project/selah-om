@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Odoo ummatii kiyya Ani na dhageessaa ture, Israa'el karaa kiyya keessatti ni deemaa ture!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Odoo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummatii kiyya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "karaa kiyya keessatti"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ni deemaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:12.264438505Z",
+  "model": "glm-5.3"
+}

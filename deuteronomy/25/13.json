@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Siriifi siri, guddaa fi xiqqaa, kiisaa kee keessatti siif hin ta'u.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "kiisaa kee keessatti"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "sirii"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "fi sirii"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "fi xiqqaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:03.645179286Z",
+  "model": "glm-5.3"
+}

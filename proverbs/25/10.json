@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Akkan dhaggeeffaan khee riifuu hin baafanne, fi aarsaan kee gara dubbii malee hin deebisu.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "akkan...hin"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "khee riifuu baafanne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhaggeeffaan"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "aarsaan kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "deebisu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:29:11.784392521Z",
+  "model": "glm-5.3"
+}

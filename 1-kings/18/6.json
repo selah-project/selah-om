@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Lafa isaan gidduu qoodanii ittiin usuufuuf — Achabaan karaa tokko qofa deeme, Obadhiyaanis karaa tokko qofa deeme.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "qoodanii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ittin usuufuuf"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ittin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabaan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Obadhiyaanis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:16:07.054711547Z",
+  "model": "glm-5.3"
+}

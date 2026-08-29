@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Galgala fi ganama fi waaree na xonaa'aa fi ajeeffama; dheebuu kiyyas ni dhageesse.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Galgala"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "fi ganama"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "fi waaree"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "na xonaa'aa"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "fi ajeeffama"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ni dhageesse"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dheebuu kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:32.274614258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Gaaricha Yaadannoo Teentii banaatti, duratti Yahwe, gurguddessu.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "gurguddessu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaaricha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "gaaricha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "banaatti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Teentii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Yaadannoo"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:11.380495874Z",
+  "model": "glm-5.3"
+}

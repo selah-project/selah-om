@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Sababa jechiin Yahwe sirriidha; hundi hojiin Isaas riyaa keessatti raawwata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "sirriidha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jeechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "hojiin Isaas"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "riyaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:38.875419574Z",
+  "model": "glm-5.3"
+}

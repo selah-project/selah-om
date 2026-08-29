@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 26:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yeroo dheera waadaa ati tiraa waliigalaa midhaan kee tiraa xiqqaa deebisuu xumuru — bara sadaffaa, bara tiraa — Laawiif, ogeessa_seenaaf, ijolleetti hiikamaniiﬁ dubara miilaaa kennitaniitani, siitti bultaniitaas ni baafatanii, ni guutamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "xumuru"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "tiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiraa waliigalaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waliigalaa"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "tiraa"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "midhaan kee"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "bara"
+    },
+    {
+      "surface": "השלישת",
+      "gloss": "sadaffaa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "bara"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "tiraa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kennitaniitani"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "Laawiif"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ogeessa_seenaaf"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ijolleetti hiikamanii"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "dubara miila"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ni baafatanii"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "siitti bultaniitaa"
+    },
+    {
+      "surface": "ושבעו",
+      "gloss": "ni guutamu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:31:42.518956541Z",
+  "model": "glm-5.3"
+}

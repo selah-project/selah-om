@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Dheebuu Daawidifi ⟨את⟩ qulqullummaa tajaajiltoota mootichaa Daawiditti furfure; ummatni hundi fi kabajamtoonni hundi mirga isaa fi bitaa isaa irratti turan.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "furfure"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidifi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qulqullummaa tajaajiltoota mootichaa Daawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tajaa-jiltoota"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawiditti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "kabajamtoonni"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "mirga isaa irratti"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "bitaa isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:43.794037566Z",
+  "model": "glm-5.3"
+}

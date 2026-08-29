@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Boonoonni na baasha baashasan—baay'ee; Seera Kee irraa garagara hin taane.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "boonoonni"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "na baasha baashasan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Seera Kee irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "garagara hin taane"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:29.670641657Z",
+  "model": "glm-5.3"
+}

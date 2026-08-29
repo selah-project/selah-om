@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Garuu akka ⟨את⟩ geešaariin fi ⟨את⟩ reechi lixa itti nyaatamu, akkasumas ati isa akkas nyaadhu; namni miila-qulqullummaan hin qabne fi namni qabu waliin nyaa'an isa nyaadhu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ittii nyaatamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geesharii"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "geesharii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "reechi lixa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "reechi lixa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "isa nyaadhu"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "miila-qulqullummaan hin qabne"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "qulqullu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin nyaa'an"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "isa nyaadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:24:34.316823518Z",
+  "model": "glm-5.3"
+}

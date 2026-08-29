@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kan Ritspaa intala Ayyaa, dugda Sha'uul, hojjete Daawitiif himatame.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "himatame"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawitiif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan... hojjete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ayyaa"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "dugda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    }
+  ],
+  "timestamp": "2026-08-29T07:57:36.794929185Z",
+  "model": "glm-5.3"
+}

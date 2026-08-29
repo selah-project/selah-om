@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Ji'a tokkoffaa keessatti, guyyaa miila lubbumaa fi kurnii ji'aa kanaa, gad gala galgala keessatti, Peesakh Yahweefi ta'a.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ji'a keessatti"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "tokkoffaa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "miila lubbumaa fi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kurnii"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'aa kanaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giddu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "gala galgalootaa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Peesakh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweefi"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:26.409205288Z",
+  "model": "glm-5.3"
+}

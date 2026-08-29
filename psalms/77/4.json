@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Eloohiim yaadadhe, innis naa rakkise; xiinxale, ruuhni kiyya dadhabde. Seelaa.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "yaadadhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "nii-dheebuu\/naa rakkise"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "xiinxale"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "dadhabde"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhni kiyya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:48.226263178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Warra seeraan kee irraa jijnibban hunda ⟨את⟩ ittiftaattaa jirta, kufrii isaanii kijiba waan ta'eef.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "ittiftaattaa jirta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "warra jijnibban"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "seeraan kee irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan ta'eef"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kijiba"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "kufrii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:50.618017395Z",
+  "model": "glm-5.3"
+}

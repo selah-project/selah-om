@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Sababiif isa Yahwe guddaa dha, baay'ee kan faarsamu dha; Innis hunda waaqottaa irra kan sodatamu dha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiif isa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kan faarsamu dha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kan sodatamu dha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waaqottaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:38.699797734Z",
+  "model": "glm-5.3"
+}

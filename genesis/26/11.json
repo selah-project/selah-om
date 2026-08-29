@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Abiimelekiis ⟨את⟩ sabni hunda ajaje, akka jedhe: \"Nama kana yookaan niitii isaatti tokkon hin tuqin — du'aan ni dua.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabni hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "hin tuqin"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "Nama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "niitii isaatti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ni dua"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:11.987541287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Morma keenya irratti hiikkamaa jira; hirateetti, nagaa keenyaaf hin kennamne.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "morma keenya"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "hiikkamaa jira"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "hirateetti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "kennamne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keenyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:47:55.627378888Z",
+  "model": "glm-5.3"
+}

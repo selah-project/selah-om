@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Fedhii diinota kiyyaatti na hin kennite; ragaa sobaa ana irratti kaka'anii, miil-dhiigaa baafachaa jiraniif.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "hin na kennite"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "fedhii... irratti"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "diinota kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kaka'anii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "fi baafachaa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "miil-dhiigaa (humna)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.633199981Z",
+  "model": "glm-5.3"
+}

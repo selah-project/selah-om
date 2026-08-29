@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Isaan balleessa ummata kiyya ni baatu; gara safra isaaniittiis lubbuu isaanii ol kaasu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "balleessa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata kiyya"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni baatu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "safra isaaniitti"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ol kaasu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:17:38.798224283Z",
+  "model": "glm-5.3"
+}

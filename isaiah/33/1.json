@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Haa ijaa! Yaa kan saquisu, ati immoo hin saquudneef; yaa kan mormu, isaan si irratti hin mormneef! Yeroo saquisuu xumurtu, si saquufama; yeroo mormuu xumurtu, isaan si irratti ni mormu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Haa ijaa!"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "kan saquisu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ati immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "saquudneef"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "yaa kan mormu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "mormneef"
+    },
+    {
+      "surface": "בו",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "Yeroo saquisuu xumurtu"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "kan saquisu"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "si saquufama"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "Yeroo mormuu xumurtu"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "mormuu"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "ni mormu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:58:39.486113864Z",
+  "model": "glm-5.3"
+}

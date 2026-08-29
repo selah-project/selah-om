@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sayiin keessan ni kufa; daangaa Israa'eel irratti ⟨את⟩ kee nan murtessa; akkasumas beektu kiyyaa ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "sayiin (keessan)"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ni kufa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nan murtessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kee (murtessamu)"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "akkasumas beektu kiyyaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(waan) kiyyaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:06:31.670831036Z",
+  "model": "glm-5.3"
+}

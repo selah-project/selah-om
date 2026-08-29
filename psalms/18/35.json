@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Harka koo loluuf ni barsiisa, baalliwwan koo qorxansa sibiilaa ni gogeesa.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "ni barsiisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka koo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "loluuf"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ni gogeesa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qorxansa"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "sibiilaa"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "baalliwwan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.971890185Z",
+  "model": "glm-5.3"
+}

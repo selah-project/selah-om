@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isa hin nyaatin; lafa irratti akka bishaaniitti bisha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "isa nyaatin"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "akka bishaaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:24:34.317090260Z",
+  "model": "glm-5.3"
+}

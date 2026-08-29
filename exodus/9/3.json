@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kunoo, harka Yahwe madda keessan biyya keessaa kan jiru irratti taati — fardoota irratti, harreelee irratti, gaalota irratti, loonii irratti fi hoolaa irratti — dhukkuba baay'ee ulfaataa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "taati"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "madda keessan irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "biyya keessaa"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "fardoota irratti"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "harreelee irratti"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "gaalota irratti"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "loonii irratti"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "fi hoolaa irratti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dhukkuba"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:53.654818325Z",
+  "model": "glm-5.3"
+}

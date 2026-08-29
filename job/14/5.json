@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yoo guyyaawwan isaa murtaa'aniin, lakkoofsi ji'oota isaa si wajjin; daangaa isaa murteetta, isaa darbu hin danda'u.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "murttaa'aniin"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "guyyaawwan isaa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsi"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "ji'oota isaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si wajjin",
+      "marks": "si wajjin"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "daangaa isaa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "murteetta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "darbu hin danda'u"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:24.425431286Z",
+  "model": "glm-5.3"
+}

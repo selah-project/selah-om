@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Gargaan koo akka kan re'emaa ol-dhibde; foora achachaadhaan nan shallagame.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ol-dhibde"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "akka kan re'emaa"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "gargaan koo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nan shallagame"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "foora"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "achachaadhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:54.207212657Z",
+  "model": "glm-5.3"
+}

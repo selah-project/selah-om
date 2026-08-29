@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Salaamoonis ⟨את⟩ mana isaa waggaa soddhommoo iituuf mana isaa hunda xumure.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana isaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iituuf"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salaamoon"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "soddoma(lubbuu)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan(lubbuu)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "xumure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:06:07.252709972Z",
+  "model": "glm-5.3"
+}

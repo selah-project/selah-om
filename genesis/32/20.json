@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Kan lammaffaas ⟨את⟩, kan sadaffaas ⟨את⟩, gareewwan duuba hordofan hunda ⟨את⟩ ajajee akkana jedhe: “Yoo Esav si argattan akka jechoota kanaatti ⟨את⟩ Isaatti dubbadhaa.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan lammaffaaS"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kan lammaffaaS"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan sadaffaaS"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kan sadaffaaS"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "hordofan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "gareewwan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana jedhe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jechoota kanaatti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "dubbadhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Isaatti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "yoo...argattan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Esav (Isaatti)"
+    }
+  ],
+  "timestamp": "2026-08-29T04:41:21.030168089Z",
+  "model": "glm-5.3"
+}

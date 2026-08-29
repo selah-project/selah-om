@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Qeexee lamaa warqee siif godhi; hojjedhamni hitaa ti, isaan ⟨את⟩ akkasuma hojjedhu; isaan siif ta'an waamicha gareetiifi sochii ⟨את⟩ gareewwan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lamaa"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "qeexee"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hojjedhamni hitaa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (qeexee lamaan)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "isaan siif ta'an"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "waamicha"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "garee"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "fi sochii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gareewwan"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "gareewwan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:51.950361736Z",
+  "model": "glm-5.3"
+}

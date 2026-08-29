@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Sagalee Yahwe irraa Asshur ni kufa; sadarri isaa rukuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ni kufa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sadarri"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "rukuta"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:27.123708980Z",
+  "model": "glm-5.3"
+}

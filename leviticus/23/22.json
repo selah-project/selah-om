@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "When you reap the harvest ⟨את⟩ of your land, you shall not fully reap the corner of your field in your reaping, nor shall you gather ⟨את⟩ the gleaning of your harvest; to the poor and to the stranger you shall leave ⟨את⟩ them. I ⟨am⟩ Yahwe, Eloohiim of you.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "And when you reap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the harvest of your land"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "the harvest"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "of your land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "you shall not"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "fully reap"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "the corner"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "of your field"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "in your reaping"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "nor the gleaning"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "of your harvest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "you shall not"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "gather"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "to the poor"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "and to the stranger"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "you shall leave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "them"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim of you"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:14.526008082Z",
+  "model": "glm-5.3"
+}

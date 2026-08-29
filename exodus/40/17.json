@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Adeemsi ta'e: ji'a tokkoffaa keessaa, waggaa lammaffaa keessaa, guyyaa isa tokkoffaa ji'aa irratti, Mana-sharfaa dhaabame.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Adeemsi ta'e"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ji'a tokkoffaa keessaa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "tokkoffaa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "waggaa keessaa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "guyyaa isa tokkoffaa irratti"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'aa"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "dhaabame"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mana-sharfaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:22.114992293Z",
+  "model": "glm-5.3"
+}

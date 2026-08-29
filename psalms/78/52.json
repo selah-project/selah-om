@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Ummata isaa akka hoolota baafatee, waamicha keessatti akka raawwaa isa qajeelche.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "baafatee"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "akka hoolota"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "isa qajeelche"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "akka raawwaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "waamicha keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:21.023660942Z",
+  "model": "glm-5.3"
+}

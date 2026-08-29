@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Iifi minchaan qulqullummaa hundi guutumaan guutuu taati — hin nyaatamu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ii hundi"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchaan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "guutumaan guutuu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nyaatamu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:53.242258346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sabni hundi akka nam-tokkootti dhaabbatee, akkana jedhe: 'Nam-ni gaarrii isaatti hin deemu, nam-ni mana isaatti hin deebiu.'",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dhaabbatee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "akka nam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkootti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana jedhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nam-ni"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "gaarrii isaatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "deebiu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nam-ni"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "mana isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:13:45.796782565Z",
+  "model": "glm-5.3"
+}

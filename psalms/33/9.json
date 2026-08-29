@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Sababiin isaas inni jedhe, ta'e; inni ajaje, dhaabbate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dhaabbate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:35.466940335Z",
+  "model": "glm-5.3"
+}

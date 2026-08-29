@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Namoota irra ilaala, akkas jedha: 'Ani dogoggore, sirrii dhibde, ani ishee irraas hin barbaaddadde.'",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Ani dogoggore"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "dhibde"
+    },
+    {
+      "surface": "וְלא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "barbaaddadde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ani...irraas"
+    }
+  ],
+  "timestamp": "2026-08-29T12:32:14.228339738Z",
+  "model": "glm-5.3"
+}

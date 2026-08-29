@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Sanyiin isaa yoo haaraa haa ta'u, gadheen isaa akka aduu fuuldura kiyyaatti.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "sanyiin isaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yoo haaraa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "gadheen isaa"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "akka aduu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fuuldura kiyyaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:31.678128801Z",
+  "model": "glm-5.3"
+}

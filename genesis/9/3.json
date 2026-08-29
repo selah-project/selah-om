@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Waan sochootu jiru hunduu isaa nyaataa keessaf ta'a; akkuma margaa irraa ani ⟨את⟩ waan hunda isiniif kenne.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "waan sochootu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessaf"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "nyaataa"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "akkuma margaa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:49.813201663Z",
+  "model": "glm-5.3"
+}

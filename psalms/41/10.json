@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Ammo nam-nagaa koo, kan koon itti amane, kan mana koo nyaatu, dheecha isaa naa irratti ol guuddise.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ammo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "nagaa koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "itti amane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "koon"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan nyaatu"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mana koo"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ol guuddise"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "naa irratti"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dheecha isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:23.743099082Z",
+  "model": "glm-5.3"
+}

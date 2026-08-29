@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Ifatti kee fi dhugaa kee ergi; isaan lamaan na qajeelchuu, gara gaaraa qulqulluu kee fi gara manneen kee naaan geessisu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ergi"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ifatti kee"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "fi dhugaa kee"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan lamaan"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "na qajeelchuu"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "na geessisu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaaraa"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qulqulluu kee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "manneen kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:07.782287456Z",
+  "model": "glm-5.3"
+}

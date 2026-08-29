@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Kan Daawid. Onnee guutuu tiyyaan si galata; fuuldura Eloohiim tiyya siif waanee sirreessa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "si galata"
+    },
+    {
+      "surface": "בכול",
+      "gloss": "guutuu tiyyaan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuurdura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim tiyya"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "siif waanee sirreessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:58.799858373Z",
+  "model": "glm-5.3"
+}

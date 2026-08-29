@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Mootiinis ni jedhe: 'Billee natti fudhadhaa.' Billeenis mootii duratti dhiyatte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootiinis"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "billee"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhiyatani"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "billeenis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:03.543231375Z",
+  "model": "glm-5.3"
+}

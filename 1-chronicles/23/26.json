@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Akkasumas Liviwwaaniif ⟨את⟩ maandaraa fi ⟨את⟩ meeshaa isaa hunda tajaajila isaatif akka baatan miti.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Liviwwaaniif"
+    },
+    {
+      "surface": "אין",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "akka baatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maandaraa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maandaraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaa isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaa isaa"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "tajaajila isaatif"
+    }
+  ],
+  "timestamp": "2026-08-29T13:42:20.590943445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Hundiin wanta dhokataa Yeegalaatti mul'ise ⟨את⟩; ati immoo guyyaa sanaa meeshaalee waraanaa mana bosonaatiif gurredde.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "hundiin mul'ise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanta dhokataa Yeegalaatti (mashaka Yeegala)"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "wanta dhokataa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeegalaatti"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "gurredde"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "meeshaalee waraanaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היער",
+      "gloss": "bosonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:34.824041264Z",
+  "model": "glm-5.3"
+}

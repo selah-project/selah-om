@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Adooni-Bezeq'is ⟨את⟩ Bezeq keessatti argatan, isa waliin warraanan, Kanaanota ⟨את⟩ fi Perizota ⟨את⟩ ajjeesan.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "argatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adooni-Bezeq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adooni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeq"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezeq keessatti"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "warraanan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa waliin"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ajjeesan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanota"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Perizota"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizota"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:10.586711550Z",
+  "model": "glm-5.3"
+}

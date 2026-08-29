@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ragoota kee irrattis mootonni fuulduratti nan dubbadha, hin ebaramus.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "nan dubbadha"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "ragoota kee irratti"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ebaramus"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:52.912423364Z",
+  "model": "glm-5.3"
+}

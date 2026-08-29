@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Lafnis ⟨את⟩ qamadiitti ni debii, ⟨את⟩ waadii fi ⟨את⟩ dhadhaatiinis; isaanis ⟨את⟩ Yitsree'eliin ni debii.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "lafnis"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ni debii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qamadii"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "qamadii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waadii"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "waadii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhadhaa"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "dhadhaa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "isaanis"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ni debii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsree'el"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yitsree'el"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:25.694954287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sanyiin Israa'el hundi Daawid biratti Hebroonitti dhufanii akka jedhaniin, \"Kunoo, nuti lafeen kee fi byeelli kee ⟨dha⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "sanyiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hebroonitti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhaniiru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhaniin"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "lafeen kee"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "fi byeelli kee"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:07.088987529Z",
+  "model": "glm-5.3"
+}

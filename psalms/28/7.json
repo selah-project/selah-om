@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe humna koo fi gaachana koo dha; onnee koo Isaatti amatee ture, fi gargaarsa argadhe; kanaaf onnee koo ni boonsatte, fi sirba kootiin Isaa galateeffadha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "humna koo"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "fi gaachana koo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isaatti"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "amatee ture"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "fi gargaarsa argadhe"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "ni boonsatte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "fi sirba kootiin"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "Isaa galateeffadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:10.229929111Z",
+  "model": "glm-5.3"
+}

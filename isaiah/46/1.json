@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Beel ni bu'e, Nevo ni cincheera; sanbattoonni isaanii bineeldota bosonaa fi beyladaaf ta'aniiru; walitti baafamtoonni kee cessaawaa, xuuxamaa, daangaa fincaawaa'aa ta'aniiru.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ni bu'e"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Beel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "ni cincheera"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sanbattoonni isaanii"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "bineeldota bosonaaf"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "fi beyladaaf"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "walitti baafamtoonni kee"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "xuuxamaniiru"
+    },
+    {
+      "surface": "משא",
+      "gloss": "cessaawaa"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "fincaawaa'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:24.093732182Z",
+  "model": "glm-5.3"
+}

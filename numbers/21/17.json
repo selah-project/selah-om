@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yeroo sana Israa'el ⟨את⟩ gimbii sanaa laulame: \"Ol ba'i, burqaa; isheetti sirreessaa.\"",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo sana"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "laulame"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gimbii sanaa"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "gimbii"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ol ba'i"
+    },
+    {
+      "surface": "באר",
+      "gloss": "burqaa"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "sirreessaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:03:24.008969551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Elooha, nan jedha: koottota naa hin galmeessisin; maalif natti wal-qabatte naa beeksisi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nan jedha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "otti"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "koottota naa galmeessisin"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "naa beeksisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "natti wal-qabatte"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:16.656254122Z",
+  "model": "glm-5.3"
+}

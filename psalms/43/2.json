@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Sababa ati Eloohiim, dhibata koo ti, maaltu na gattee? Maaltu gurraacha naan deeme rukuttaa hayyoota diinaa jalatti?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "dhibata koo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "na gattee"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "gurraacha naan deeme"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "rukuttaa jalatti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:07.782139617Z",
+  "model": "glm-5.3"
+}

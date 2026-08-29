@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ogummaan Suleemaanis ogummaa ilmaan bahaa hunda caalaa ture, fi ogummaa Mitsraayim hunda caalaa.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "caalaa ture"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogummaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleemaan"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ogummaa irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bahaa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "fi hunda irraa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogummaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:56.868160619Z",
+  "model": "glm-5.3"
+}

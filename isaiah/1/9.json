@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yoo Yahwe Tseeva'oot nu hafee miti, olee-xiqqaa nu dandeessa turre; akkuma Sedom taane, akkuma Amorrah wal-gabina turre.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "yoo…miti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseeva'oot"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "hafee dandeesse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "olee-xiqqaa (dheerfame)"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "xis-qoo"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "akkuma Sedom"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "taane turre"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "akkuma Amorrah"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "wal-gabina turre"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:53.651344668Z",
+  "model": "glm-5.3"
+}

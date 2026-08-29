@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Isheenis isheetti jedde: waan ati jedhu hunda raawwadha.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jedde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ati jedhu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "raawwadha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:39:40.110396434Z",
+  "model": "glm-5.3"
+}

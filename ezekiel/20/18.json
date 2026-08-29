@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 20:18",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ani immoo ilmaan isaanii gabbara keessatti jedhe: \"Seera abbottii keessan keessatti hin sochoowadhaa, miira isaanii ⟨את⟩ hin eegaa, fi gosoota isaanii waliin hin wal-qunnaminaa.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ani immoo jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gabbara keessatti"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilmaan isaanii"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gabbara"
+    },
+    {
+      "surface": "בחוקי",
+      "gloss": "seera... keessatti"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "abbottii keessan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "sochoowadhaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miira isaanii"
+    },
+    {
+      "surface": "משפטיהם",
+      "gloss": "miira isaanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "ובגלוליהם",
+      "gloss": "gosoota isaanii waliin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "wal-qunnaminaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:12:53.739847748Z",
+  "model": "glm-5.3"
+}

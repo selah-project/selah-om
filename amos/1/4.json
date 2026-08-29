@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ani ibidda mana Hazaa'el irratti ergaadha, innis gomboota Ben-Hadad ni nyaata.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ergaadha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana…irratti"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaa'el"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ni nyaata"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "gomboota"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-08-29T15:20:18.987230459Z",
+  "model": "glm-5.3"
+}

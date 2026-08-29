@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Waan kana irratti of-tumattaa, Yahwe? Of-dhisattaa fi baay'ee nu rakkiftaa?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waan kana"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "of-tumattaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "of-dhisattaa"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "fi nu rakkiftaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangamitti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:48.057553206Z",
+  "model": "glm-5.3"
+}

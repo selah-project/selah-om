@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ati immoo, Yahwe, gaachana kiyya; ulfina guddinaa kiyya, fi mataa kiyya kaatu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati immoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaachana"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kiyyaaf"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ulfina guddinaa kiyya"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "fi kaatu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:06.834512076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Yišraa'el, Yahwe irratti amadhu; gargaarsa isaaniiti, gaachana isaaniis Isaadha.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yišraa'el"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "amadhu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "gargaarsa isaanii"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "fi gaachana isaanii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.799423742Z",
+  "model": "glm-5.3"
+}

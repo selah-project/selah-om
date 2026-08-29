@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Maaliif, yaa Yahwe, lubbuu koo dhiifta? Fuulla kee natti dhoksa?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "dhiifta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "dhoksa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuulla kee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:37.747830386Z",
+  "model": "glm-5.3"
+}

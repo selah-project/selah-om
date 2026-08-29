@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Gabrottaa keessan ⟨את⟩, gabrummaa dhiiraa keessan ⟨את⟩, dargaggoota keessan kan filatamoo ta'an ⟨את⟩ fi harree keessan ⟨את⟩ ni fudhata, hojii isaa irratti ni hojjisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabrottaa keessan"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "gabrottaa keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabrummaa dhiiraa keessan"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "gabrummaa dhiiraa keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dargaggoota keessan"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "dargaggoota keessan"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "kan filatamoo ta'an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "harree keessan"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "harree keessan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ni fudhata"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ni hojjisa"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "hojii isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:12.172707417Z",
+  "model": "glm-5.3"
+}

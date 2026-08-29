@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Kan samii gatiitin uume: kiyaa Ol kheesedi isaa ti.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kan uume"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "gatiitin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiyaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "Ol"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedi isaa ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.493582873Z",
+  "model": "glm-5.3"
+}

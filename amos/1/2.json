@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe ni jedhe: Siyoona irraa inni akka leenca ni bu'isa; Yerushaalayim irraas saddeta isa kenne; biyyoon boonaa hafi, teessoon Kirmeelis hoolkachuu qopheessa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyoona irraa"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ni bu'isa"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "Yerushaalayim irraas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "saddeta isa"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "hafi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "biyyoon"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "boonaa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "hoolkachuu qopheessa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "teessoon"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Kirmeelis"
+    }
+  ],
+  "timestamp": "2026-08-29T15:20:23.166346477Z",
+  "model": "glm-5.3"
+}

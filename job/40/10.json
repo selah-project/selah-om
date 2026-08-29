@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Adii kee amma murteessi, kabaja fi ol-ka'aa; ulfina fi cidha liqimsi.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "murteessi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ol-ka'aa"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ulfina"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "cidha"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "liqimsi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:33:28.973874844Z",
+  "model": "glm-5.3"
+}

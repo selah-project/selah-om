@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Fi kunoo meeshaalee hunda — wanta uggurmalee, waan caancalaa sararaa irraa hin qabamu — telaa ta'a.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fi kunoo meeshaalee hunda"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "wanta uggurmalee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabamu"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "caancalaa"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "sararaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "telaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T06:03:31.926697429Z",
+  "model": "glm-5.3"
+}

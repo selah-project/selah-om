@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ilmoota Elpaal: Eeber, Mish'aam, shaamed; inni ⟨את⟩ Oonoo fi ⟨את⟩ Lod ijarachuu ganda dhiiraa isaa ti.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ilmoota"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eeber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Mish'aam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "shaamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ijarachuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oonoo"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Oonoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ganda dhiiraa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:38:51.525993323Z",
+  "model": "glm-5.3"
+}

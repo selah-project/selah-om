@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yaadadhu, Yahwe, waan nu irratti ta'e; ilaali, ⟨את⟩ cufinsa keenya argii.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yaadadhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "argii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cufinsa keenya"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "cufinsa keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T12:47:55.578961591Z",
+  "model": "glm-5.3"
+}

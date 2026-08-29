@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Daawidiis Naayootii kan Raamaa irraa mili'e, dhufee Yonataan duratti akkana jedhe: Maaltan hojjedhe? Moriin koo maali? fi bakka bu'aa koo maali abbaa kee fuulduratti, akka lubbuu koo barbaaduuf?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "mili'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "Naayootii"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Raamaa irraa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonataan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moriin koo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "fi maal"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bakka bu'aa koo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "barbaaduuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu koo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T07:31:15.037296048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Labaanis ni jedhe: bakka keenya keessatti akkas hin ta'u — durba guddaa duraa durba xiqqaa kennuuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labaanis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "bakka keenya keessatti"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kennuuf"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "durba xiqqaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "durba guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:49.939646777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Hojji! Isaan seera miidhaa seeranfan, hojii gaddisaa barreessan.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hojji!"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "Isaan seeranfan"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "seera"
+    },
+    {
+      "surface": "און",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "fi barreessan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "hojii gaddisaa"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "barreessan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:52.012179570Z",
+  "model": "glm-5.3"
+}

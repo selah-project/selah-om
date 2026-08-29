@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Laffi isaan walitti jiraachuuf ⟨את⟩ hin baadhifneetti, qabeenya isaanii baay'ee waan ta'eef, walitti jiraachuu hin dandanee.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "baadhifneetti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "laffi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "jiraachuuf"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'eef"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "qabeenya isaanii"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dandanee"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "jiraachuu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:32.097913809Z",
+  "model": "glm-5.3"
+}

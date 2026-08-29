@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Inni immoo jedhe: \"Yoo nagaan baananiif, jiratanii kuffamsaa; yoo loluuf baananiifis, jiratanii kuffamsaa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "baananiif"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "kuffamsaa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiratanii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Yoo... -s"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "loluuf"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "baananiif"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiratanii"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "kuffamsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:15.038511753Z",
+  "model": "glm-5.3"
+}

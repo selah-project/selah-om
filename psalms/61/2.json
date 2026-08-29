@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Eloohiim, ol-gaaffii kootii dhageessi; kabaja koofaf gurra galchi.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ol-gaaffii kootii"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "gurra galchi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kabaja koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:16.384609106Z",
+  "model": "glm-5.3"
+}

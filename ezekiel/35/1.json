@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Jecha Yahwe gara kootiitti dhufe, akka akka jedhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kootiitti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:26:33.380305955Z",
+  "model": "glm-5.3"
+}

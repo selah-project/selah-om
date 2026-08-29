@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Ati Eel taate waan ajaa'ibbii hojjeddaatti; humna kee ummootaaf beeksifteetta.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjeddaatti"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ajaa'ibbii"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "beeksifteetta"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ummootaaf"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humna kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:09.693334060Z",
+  "model": "glm-5.3"
+}

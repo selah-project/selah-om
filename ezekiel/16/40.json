@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Isaanis raawwii si irratti baasu, si dhagaan rukutan, mokkoo isaanii si muran.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "baasu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "raawwii"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "rukutan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ si",
+      "marks": "si"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dhagaan"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "muran"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "mokkoo isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:12:09.210158163Z",
+  "model": "glm-5.3"
+}

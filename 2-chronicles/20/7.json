@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "ATI Eloohiim keenya mitii? ⟨את⟩ jiraatota lafa kanaa bara umatta kee Israa'el dura bu'ee baafte; akkasumas geejjaramsa Avrahaam jaallaa keeef itti kennitee jirta.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mitii?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ATI"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "bu'ee baafte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiraatota lafa kanaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jiraatota"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatta kee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "itti kennitee jirta"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "geejjaramsaaf"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "jaallaa kee"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-29T13:59:26.161165237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Guyyaa sadii dhuma booda ta'e, ajajjatootni gammoo keessa darban.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "guyyaa sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "darban"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "ajajjatootni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "gammoo"
+    }
+  ],
+  "timestamp": "2026-08-29T06:43:48.208099241Z",
+  "model": "glm-5.3"
+}

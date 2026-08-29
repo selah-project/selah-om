@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Cirrii duraa ka'i; fuuldura da'aa uluuladhu; Eloohiim kee tiikadhu; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "cirrii"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "uluuladhu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "da'aa"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "tiikadhu"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:13.223008976Z",
+  "model": "glm-5.3"
+}

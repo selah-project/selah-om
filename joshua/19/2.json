@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Dhaaltummaa isaanii keessatti isaan qabaataniiru: Be'eer-Shebaa fi Sheebaa fi Moolaadaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "qabaataniiru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "dhaaltummaa isaanii keessatti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'eer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "fi Sheebaa"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "fi Moolaadaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:54:01.228471300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yaadaddee waan Amaalek siif godhe ⟨את⟩ daraaraa kana keessatti, yeroo isin Mitsraayimi baatan.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Yaadaddee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan siif godhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "daraaraa kana keessatti"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "yeroo isin baatan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayimi"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:36.179387559Z",
+  "model": "glm-5.3"
+}

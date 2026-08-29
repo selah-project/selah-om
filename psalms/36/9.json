@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Dhibee manna kee irraa ni ciccituu; laggeen gammachuu kee immoo isaani dhiyeessa.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ni ciccituu"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "dhibee"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "manna kee"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "laggeen"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "gammachuu kee"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "isaani dhiyeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:08.737884143Z",
+  "model": "glm-5.3"
+}

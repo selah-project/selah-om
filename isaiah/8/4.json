@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sababaa akka mucaan 'abboo' fi 'haadhoo' waamu beeku dura, allaavan Dimashqii fi bootinan Shomeroon mooticha Ashshur dura baadheeffamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa akka"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mucaan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abboo"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "haadhoo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "baadheeffamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allaava Dimashqii"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "allaava"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimashqii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bootina Shomeroon"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bootina"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:05.084299978Z",
+  "model": "glm-5.3"
+}

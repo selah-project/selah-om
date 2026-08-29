@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahweenis isa jedhe: \"Adeemi, karaa kee irraa deebi'ii gara biyya meeshaa Dimashiqitti; yoo geette, ⟨את⟩ Hazaa'el mootummaa Aram irratti ta'u dibadhuutti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweenis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Adeemi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebi'ii"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "karaa kee irraa"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "gara biyya meeshaa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimashiqitti"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "yoo geette"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dibadhuutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaa'el"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaa'el"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootummaa ta'u"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:22.674073552Z",
+  "model": "glm-5.3"
+}

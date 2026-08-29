@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Galataa Yahweef godaari, sababiin isaas inni tola; sababiin isaas kheesedi isaa dhuma hin qabu.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "godaari (galataa kennaa)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duma hin qabu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedi isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:09.172255133Z",
+  "model": "glm-5.3"
+}

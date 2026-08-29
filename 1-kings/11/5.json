@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sulaaymaan Ashetoreet, gaha Siidoonotaa, hordofuu fi Milkoom, gadhoo Ammoonotaa, hordofuu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaaymaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hordofuu"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashetoreet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gaha"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Siidoonotaa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "fi hordofuu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkoom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gadhoo"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Ammoonotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:19.113220595Z",
+  "model": "glm-5.3"
+}

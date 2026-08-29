@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 137,
+  "translation": "Waanti gammachuu qabu inni ⟨את⟩ muccawwan kee fudhatee dheebuu gaa'ela irratti dha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Waanti gammachuu qabu"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "inni fudhatee"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muccawwan kee"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "muccawwan kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "gaa'ela"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:42.272508513Z",
+  "model": "glm-5.3"
+}

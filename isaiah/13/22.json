@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Bantuuwwan hiyyeessaa manaawwan hiikaman isaa keessatti ni-deebisan; gooraan saalaawwan mi'aawaa keessatti; yeroo ishee dhihaa-dhufuun, guyyaawwan isheenis hin-gadhiifatanu.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ni-deebisan"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bantuuwwan hiyyeessaa"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "manaawwan hiikaman isaa keessatti"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "gooraan"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "saalaawwan"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "mi'aawaa"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "dhihaa-dhufuun"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yeroo ishee"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "guyyaawwan ishee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin-"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "gadhiifatanu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:48:58.607579030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Isatti jedhe: \"Kottu wajjin kiyya ⟨את⟩ manaatti, dhadacha nyaadhu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kottu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wajjin kiyya"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "manaatti"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nyaadhu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dhadacha"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:43.882847541Z",
+  "model": "glm-5.3"
+}

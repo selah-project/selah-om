@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Adeemsa naa fudhadhee gara gurguddootaatti baadubbadha ⟨את⟩ isaan; kanaafuu isaan karaa Yahwe fi murtii Eloohiim isaanii beeku; garuu isaan walitti yookii sararaa cabsanii, maraawwan hiikani.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "adeemsa naa fudhadha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "gurguddootaatti"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "baadubbadha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (gurguddoonni)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "cabsanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "yookii sararaa"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "hiikani"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "maraawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T09:25:52.497773031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "«Haasodhaa hin jedhin» akkuma haasodhan; kuniif hin haasodhanu, hiikkoon hin deebifamtu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "haasodhaa"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "haasodhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "haasodhanu"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "kuniif"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "deebifamtu"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "hiikkoo"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:59.523350194Z",
+  "model": "glm-5.3"
+}

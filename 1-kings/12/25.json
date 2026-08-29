@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yarobaami mootichi ⟨את⟩ Shekhem gaarwa Efrayimitti iyyeessise, achuma jiraachaa turte; achirraa ba'ee, ⟨את⟩ Penuweli iyyeesse.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "iyyeesse"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarwa irratti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraachaa turte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessatti"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ba'ee"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achirraa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "iyyeesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuwel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuwel"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:15.026319248Z",
+  "model": "glm-5.3"
+}

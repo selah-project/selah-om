@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Garuu kibiroo harka isaaniitti kennamee irratti ⟨את⟩ herrega wajjin isaan wajjin hin raawwadamu, sababiin isaas amanamummaadhaan hojjatu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "herrega hin raawwamu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kibiroo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kibiroo"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "kennamee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "harka isaaniitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amanamummaadhaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "hojjatu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:54:09.641124113Z",
+  "model": "glm-5.3"
+}

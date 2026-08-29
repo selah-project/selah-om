@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Moora qulqulluu irraa gargaarsa kee siif erguu; Tsiyoon irraas si deggersi.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "erguu"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "gargaarsa kee"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "moora qulqulluu irraa"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "Tsiyoon irraas"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "si deggersi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:15.587985723Z",
+  "model": "glm-5.3"
+}

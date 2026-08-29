@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe saboota ni murtii; natti murtii godhi, Yahwe, akka qajeelummaa koo fi akka qulqullinnaa koo irratti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ni murtii"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "natti murtii godhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "akka qajeelummaa koo"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "fi akka qulqullinnaa koo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:56.706179851Z",
+  "model": "glm-5.3"
+}

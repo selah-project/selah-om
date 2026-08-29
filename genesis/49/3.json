@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Re'uubeen, atti tokkoffaa koo; humna koo, jalqaba jabeenya koo; danda'aa ol'aantuu fi danda'aa jabeenya.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uubeen"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "tokkoffaa koo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atti"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "humna koo"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "jabeenya koo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "danda'aa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ol'aantuu"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "danda'aa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jabeenya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:25.175521648Z",
+  "model": "glm-5.3"
+}

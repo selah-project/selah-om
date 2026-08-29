@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Akkasumas obboleessa keessan fudhadhaa; ka'aaa, gara namicha sanitti deebiaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa keessan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "obboleessa keessan"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ka'aa"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "deebiaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namicha san"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:30.192597522Z",
+  "model": "glm-5.3"
+}

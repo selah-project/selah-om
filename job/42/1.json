@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Akkasumas Iyyoob ⟨את⟩ Yahwe deebisee jedhe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyoob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:12.680555673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "sababiin akkamitti natti danda'ama yoon rakkoo kan saba kiyya ⟨את⟩ mudatu ilaale? fi akkamitti natti danda'ama yoon balleettii dhaloota kiyya ilaale?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "natti danda'ama"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "yoon ilaale"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mudatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba kiyya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "saba kiyya"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "fi akkamitti"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "natti danda'ama"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "yoon ilaale"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "balleettii"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "dhaloota kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T12:57:16.047688051Z",
+  "model": "glm-5.3"
+}

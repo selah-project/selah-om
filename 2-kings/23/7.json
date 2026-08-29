@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Manneen kedeshimootaa ⟨את⟩ mana Yahwe keessatti kanneen dubartoonni aanuma Ashaaraaf manneen meengatan bakka jiraniiti funyuu isaa tuute.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "funyuu isaa tuute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manneen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kedeshimootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kanneen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dubartoonni"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "meengatan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aanuma"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Ashaaraaf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:39:58.410295205Z",
+  "model": "glm-5.3"
+}

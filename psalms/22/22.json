@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Afaan gorfataa irraa n naadhi; geeñoññoowwan gaadhee irraas nutti deebite jirta.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "n naadhi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "afaan irraa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "gorfataa"
+    },
+    {
+      "surface": "ו מקרני",
+      "gloss": "geeñoññoowwan irraas"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "gaadhee"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "nutti deebite jirta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:36.213673646Z",
+  "model": "glm-5.3"
+}

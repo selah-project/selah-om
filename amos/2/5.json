@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ibidda Yahuudaa keessatti baafadha; teessoo guguddaa Yerushaalayim ni bisha.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuudaa keessatti"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ni bisha"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "teessoo guguddaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T10:48:22.434961470Z",
+  "model": "glm-5.3"
+}

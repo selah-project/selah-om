@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Yahwe kakate; hin gorfamu: \"Ati abbaa qulqullummaa taateetta bara barraa bira, akkuma Malkitsedek.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "kakate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "gorfamu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "abbaa qulqullummaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bara barraa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "bira"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkitsedek..."
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Malkitsedek"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:03.361372321Z",
+  "model": "glm-5.3"
+}

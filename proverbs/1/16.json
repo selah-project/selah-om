@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Miilni isaanii hamtuuf ni dhaddabdu, dhiiga dhangachasuuf ni dadacha'u.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "Miilni isaanii"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "hamtuuf"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ni dhaddabdu"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ni dadacha'u"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "dhangachasuuf"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:02.200100215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Kooheeni gatii ⟨את⟩ murteessa, gaarii ykn hamtuu; akka gatii murteettii kee, kooheen, akkasitti ta'a.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "gatii murteessa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kooheeni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "gatii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "akka gatii murteettii kee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kooheen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasitti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:52.269542809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Eel salaattuu koo ti jedha: maaltiitti natti dagattaa? Maaltiitti miidhaa diinaa jalatti yaaddookeen deemeeraa?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "nii jedha"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "salaattuu koo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltiitti"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "natti dagattaa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltiitti"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "yaaddookeen (gurraacha'an)"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deemeeraa"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "miidhaa jalatti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:21.460795966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Seenaan kiyya faarfannaa haa baafu, sababniis ati na barsiisa seera kee.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "haa baafu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "seenaan kiyya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababniis"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "na barsiisa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:30.688142331Z",
+  "model": "glm-5.3"
+}

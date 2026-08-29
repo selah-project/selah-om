@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Nafeen kiyya gidduu libawwanii — ani walduraa ibiddaa bin-sanyii aadamii keessaa seena; ilkaan isaanii ganamee fi feessisa, arrabaan isaanii ammoo meskaan qamaa ti.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafeen kiyya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "libawwanii"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ani walduraa seena"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bin-sanyii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamii"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ilkaan isaanii"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ganamee"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "fi feessisa"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "arrabaan isaanii"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meskaan"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "qamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:34.199511745Z",
+  "model": "glm-5.3"
+}

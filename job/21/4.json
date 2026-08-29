@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Sila dheebuu koo namatti sheega? Yoo akkas ta'e, maaliif vaaruu koo gabaabaa hin taane?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "sila ani"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "namatti"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "dheebuu koo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo akkas ta'e"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "gabaabaa hin taane"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "vaaruu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:33.603375059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yahween gara Moshee dubbate, akkas jedhee:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:56.501750475Z",
+  "model": "glm-5.3"
+}

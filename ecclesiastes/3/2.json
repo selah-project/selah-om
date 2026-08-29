@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroon dhalachuu, fi yeroon du'uu; yeroon magarsuu, fi yeroon magarame haqachuu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "dhalachuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "magarsuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "haqachuu"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "magarame"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:53.228025861Z",
+  "model": "glm-5.3"
+}

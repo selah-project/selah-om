@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaaniinis akkas dubbate: \"Miirri namichaa akamii — isin qunnamsiisuuf isinitti ol ba'e, jechoota kana isinitti dubbate?\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniinis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "akamii"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "miirri"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namichaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "isin qunnamsiisuuf"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:42.378430208Z",
+  "model": "glm-5.3"
+}

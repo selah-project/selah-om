@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Jaalallee fi fattannoo na irraa fagaatte; beekkonni koo immoo dukkana.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "fagaatte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalallee"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "fattannoo"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "beekkonni koo"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "dukkana"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:54.720548848Z",
+  "model": "glm-5.3"
+}

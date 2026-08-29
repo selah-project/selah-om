@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Warri waan dogoggoraa hawaa tikatu na jibbu; ani immoo Yahwe irratti itti amadadhe.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "na jibbu"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "warri tikatu"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "waan hawaa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dogoggoraa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "itti amadadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:40.033965905Z",
+  "model": "glm-5.3"
+}

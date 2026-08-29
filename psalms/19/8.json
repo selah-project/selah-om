@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Seera Yahwe guutuudha, lubbuu deebisa; ragaa Yahwe amanamaadha, wal-saddee hin qabu beeksisu.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Seera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "guutuudha"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "amanamaadha"
+    },
+    {
+      "surface": "מחכимת",
+      "gloss": "beeksisu"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "wal-saddee hin qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:03.194719087Z",
+  "model": "glm-5.3"
+}

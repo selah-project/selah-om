@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Innis kanaan isaan dhagee jecha kanaaf, guyyoota kudhan isaan qorachuuf isaaniif eeyyeename.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhagee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kanaan jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "isaan qorachuuf"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:24.694611906Z",
+  "model": "glm-5.3"
+}

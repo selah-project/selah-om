@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Tokko ⟨את⟩ doonii toriitii yookiin muccaa doonii biraa irraa, waan harki isaa ga'u irraas taasisa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "doonii toriitii"
+    },
+    {
+      "surface": "או",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "muccaa"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "doonii biraa"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "waan irraas"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ga'u"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harki isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:04.952447292Z",
+  "model": "glm-5.3"
+}

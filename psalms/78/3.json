@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Waan dhagaynee fi beekne; abbootiin keenyas nuu himanii.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "dhagaynee"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "fi beekne"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "abbootiin keenyas"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "himanii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.415964569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Sanction sabootaa kibbabaa fi warqee dha; hojii harka namootaati.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Sanction"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sabootaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kibbabaa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:21.725203780Z",
+  "model": "glm-5.3"
+}

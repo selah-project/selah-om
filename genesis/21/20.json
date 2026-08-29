@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Eloohiimiinis ⟨את⟩ ilmaicha wajjin ture; inninis guddate, baddelessis jiraate; guddachaa-un akaakuu moorataa ta'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaicha"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmaicha"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "guddate"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "baddelessis"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guddachaa-un"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "akaakuu moorataa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:19.558139916Z",
+  "model": "glm-5.3"
+}

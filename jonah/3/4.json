@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yuunaanis seenaa magaalaa keessaa imaltii guyyaa tokkoo eegalles; wahadeesaa jedhe: 'Amma booda guyyoota afurta'aan, Niinween garagaramti.'",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "eegalles"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaanis"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessaa"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "imaltii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wahadeesaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Amma booda"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afurta'aan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Niinween"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "garagaramti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:22.178127043Z",
+  "model": "glm-5.3"
+}

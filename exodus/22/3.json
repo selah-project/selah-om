@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo hacuuccaan harka isaatti jiraachuun argamu — gormaa yookiin harree yookiin hoolaa — lamaan bakka bu'aa kenna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "argamuun"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "argama"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaatti"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "hacuuccaan"
+    },
+    {
+      "surface": "משור",
+      "gloss": "gormaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "שה",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiraachuu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lamaan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bakka bu'aa kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:50.310018691Z",
+  "model": "glm-5.3"
+}

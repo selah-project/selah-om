@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yeroo waan gurgurtaa gara maatii kee yoo gurgurtan, yookiin harka maatii kee irraa yoo bitattan, namni ⟨את⟩ obboleessa isaa hin miidhanaa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Yeroo...yoo"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "gurgurtan"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "waan gurgurtaa"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "gaara maatii kee"
+    },
+    {
+      "surface": "או",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bitattan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka...irraa"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "maatii kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "miidhanaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:37.048885826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Hidhuuf ajajamtoota isaa fedha isaatti, dargaggoota isaas hubachiisuf.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "hidhuuf"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ajajamtoota isaa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "fedha isaatti"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "dargaggoota isaas"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "hubachiisuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:14.263147512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Mizmoora Daawitiif. Kennaa Yahweef, ilmoota Eelimmoo; kennaa Yahweef kabaja adoo fi humna.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawitiif"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoota"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Eelimmoo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja adoo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "fi humna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:38.955331598Z",
+  "model": "glm-5.3"
+}

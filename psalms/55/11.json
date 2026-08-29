@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Guyyaa fi halkan gabaabaa ishee irratti naanna'an; balleessummaa fi rakkoo gidduu ishee keessatti ⟨jiru⟩.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "fi halkan"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "naanna'an"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "gabaabaa ishee"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "fi balleessummaa"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "fi rakkoo"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "gidduu ishee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:59.339648289Z",
+  "model": "glm-5.3"
+}

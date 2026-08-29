@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Fuulla isaa foddaa biratti kaasee, \"Ani wajin ta'uu einni? Eennu?\" jedhe; sarattoota lama sadii isa biratti tuulan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kaasee"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulla isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "foddaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "einni?"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ani wajin ⟨את⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eennu?"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "tuulan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa biratti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "sarattoota"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:13.081814665Z",
+  "model": "glm-5.3"
+}

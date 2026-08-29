@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Maqaa keetti, Eloohiim yaa, akkasumas faarfannaa kee, fiixa lafaaatti; miila-mirgaa kee mirgaan guutamteera.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "maqaa keetti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "faarfannaa kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "fiixa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "lafaatti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "צדק",
+      "gloss": "mirgaan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "guutamteera"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "miila-mirgaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:31.022754522Z",
+  "model": "glm-5.3"
+}

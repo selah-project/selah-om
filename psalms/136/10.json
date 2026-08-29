@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Kan Mitsraayim ilmaan duraa isaanii keessatti rukuteef; kanaaf kheesdi isaa yeroo hunda ture.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kan … rukuteef"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ilmaan duraa isaanii keessatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesdi isaa ture"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:07.863180677Z",
+  "model": "glm-5.3"
+}

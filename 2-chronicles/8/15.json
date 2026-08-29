@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Keessonni fi Leewiyonni ajaja mooticha keessotaa fi Leewiyota irratti wanta tokkoffuu fi kazaanota irratti hin cenanne.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "cenanne"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "keessotaa"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Leewiyotaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wanta tokkoffuu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanta"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "kazaanota irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:54:26.564238405Z",
+  "model": "glm-5.3"
+}

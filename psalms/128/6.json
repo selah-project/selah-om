@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 128,
+  "translation": "Haa argadhu ilmaan ilmoo kee; nagaan Israa'el irratti haa jiraatu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "haa argadhu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ilmoo kee"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:19.273467850Z",
+  "model": "glm-5.3"
+}

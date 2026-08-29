@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yehooshuas ni jedhe: Afaan ⟨את⟩ holqa sanii banaa, mootonni shan kanniin holqa sanii irraa natti baasaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuas"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan holqa sanii"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "holqa sanii"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "baasaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootonni shan kanniin"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "shan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanniin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "holqa sanii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:48:55.259598011Z",
+  "model": "glm-5.3"
+}

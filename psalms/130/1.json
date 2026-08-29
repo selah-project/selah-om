@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Faarfannaa Ol-ka'umsaa. Gara gadii fageenya irraa si waamadhe, yaa Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarfannaa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Ol-ka'umsaa"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "gara gadii fageenya irraa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "si waamadhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.542029015Z",
+  "model": "glm-5.3"
+}

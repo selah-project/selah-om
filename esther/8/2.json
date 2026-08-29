@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mootichiis maarkaa cufuu isaa, waan Haamaan irraa dabarsite ⟨את⟩, baafatee Mordeekaayiif kenne. Esteris ⟨את⟩ Mordeekaayi mana Haamaan irratti taasifte.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "baafatee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mootichiis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maarkaa cufuu isaa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "maarkaa cufuu isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "dabarsite"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Haamaan irraa"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordeekaayiif"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "taasifte"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordeekaayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeekaayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:58:27.254697349Z",
+  "model": "glm-5.3"
+}

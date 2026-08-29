@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kurnyee kurniisi ⟨את⟩ oomisha muraa kee hundaa, waan qeerranshi baasu, waggaarra waggaatti.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kurnyee"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "kurniisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oomisha muraa kee hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "oomisha"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "muraa kee"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "waan baasu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "qeerransi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaarra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:36:27.620300662Z",
+  "model": "glm-5.3"
+}

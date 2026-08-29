@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Bu'aa-biiqamaa hunda fi ⟨את⟩ qabame hunda — namoota fi beyladaa — fudhatanii.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu'aa-biiqamaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "bu'aa-biiqamaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qabame hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "qabame"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "fi beyladaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:10:49.094620671Z",
+  "model": "glm-5.3"
+}

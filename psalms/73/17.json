@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Yeroo miqaadamoota Eelitti seenu, xumura isaanii beeka.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "miqaadamoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "xumura isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:04.426700358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sababa fincila Ya'aqob keessatti hundi kun ⟨ti⟩; sababa dogoggorra mana Israa'el. Fincilni Ya'aqob eenyu? Sila Shomron miti? Dogoggorri ol-ka'aa Yehudaa eenyu? Sila Yerushaalayim miti?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "sababa fincila keessatti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "sababa dogoggorra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu?"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fincilni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "sila ... miti?"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "eenyu?"
+    },
+    {
+      "surface": "במות",
+      "gloss": "dogoggorri ol-ka'aa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "sila ... miti?"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:58.945512879Z",
+  "model": "glm-5.3"
+}

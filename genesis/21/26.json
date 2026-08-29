@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Abiimelekhis jedhe, Ani waan ⟨את⟩ waan kana hojjete hin beeku; atis natti hin himanne; aniinis waan kunnatti malee har'a hin dhagaye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelekhis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waan kana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "atis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "himanne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "aniinis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniinis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "malee"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:34.299449884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Yahween jedhe: Eel koo ⟨Ata taata⟩; dhageesii, Yahwe, sagalee kaksaa koo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "an jedhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel koo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhageesii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "kaksaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:47.273753834Z",
+  "model": "glm-5.3"
+}

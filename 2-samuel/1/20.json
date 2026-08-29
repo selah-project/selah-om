@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "«Gat keessatti himatanii; adaaddii kana daandawwan Ashqeloon keessatti himatanii; akka intaltan Falastii hin gammadan, akka intaltan warra hin-maarmanii hin boollisan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "himatanii"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gat keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "himatanii"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "daandawwan keessatti"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashqeloon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "gammadan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "intaltan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastii"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "boollisan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "intaltan"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "warra hin-maarmanii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:42:53.884262253Z",
+  "model": "glm-5.3"
+}

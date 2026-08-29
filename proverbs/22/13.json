@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Olcheen ni jedha: \"Anbaan ala jira; gidduu karaawwan bal'oo keessatti an ajjeefama.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "olcheen"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "anbaa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduu ... keessatti"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "karaawwan bal'oo"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "an ajjeefama"
+    }
+  ],
+  "timestamp": "2026-08-29T12:08:24.462378514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Beektotni Israa'el hunda dhufanii, Leewiin ⟨את⟩ sanduqa ol qabaniiru.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "beektotni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ol qabaniiru"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leewiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduqa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:52:37.946821386Z",
+  "model": "glm-5.3"
+}

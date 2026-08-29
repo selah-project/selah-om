@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ani walduraawwan irratti ⟨את⟩ jechoota waan walduraawwan duraa irratti ture, waan ati dibde, barreessa; atis isaan sanduuqa keessatti kaaadhu.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "barreessa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "walduraawwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ture"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "walduraawwan"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "dibde"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "kaaadhu"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sanduuqa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:45.186647982Z",
+  "model": "glm-5.3"
+}

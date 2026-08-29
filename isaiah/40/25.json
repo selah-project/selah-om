@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Akkasumas akka kamitti natti fakkeessitu, akkasumas ani akka kam wal-qixa ta'u? Kan Qulqulluun ni jedha.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Akkasumas akka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "natti fakkeessitu"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "wal-qixa ta'u"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kan Qulqulluun"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:37.507386156Z",
+  "model": "glm-5.3"
+}

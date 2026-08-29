@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ilmoo Liwii: Gereshom, Qehaat fi Meraari.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Liwii"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehaat"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "fi Meraari"
+    }
+  ],
+  "timestamp": "2026-08-29T13:32:19.306057645Z",
+  "model": "glm-5.3"
+}

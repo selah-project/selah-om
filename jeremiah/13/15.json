@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Dhageettii fi gurra kennaa; goromsaa hin ta'inaa, kyayaa Yahwe dubbateef.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dhageettii"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "gurra kennaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "goromsaa ta'inaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kyayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbateef"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:18.010886464Z",
+  "model": "glm-5.3"
+}

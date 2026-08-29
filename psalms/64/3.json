@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Ani duuban gorsaa bultii hojjettotaa irraa, dhaddachaa isaanii irraa na dhoksi.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "na dhoksi"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "duuban gorsaa irraa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bultii hojjettotaa"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "dhaddachaa irraa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjettotaa"
+    },
+    {
+      "surface": "און",
+      "gloss": "bultii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:25.649567447Z",
+  "model": "glm-5.3"
+}

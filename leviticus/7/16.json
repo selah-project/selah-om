@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yoo faaya isaa kakaasaa ykn kennaa fedhii ta'e, guyyaa faaya isaa dhiyeesse ⟨את⟩ faaya isaa ni mili'a; guutuu boodaas wanti isaan irraa hafu ni mili'a.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kakaasaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kennaa fedhii"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "faaya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faaya isaa"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "faaya isaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni mili'a"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "guutuu boodaas"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "wanti hafu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni mili'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:06.111408507Z",
+  "model": "glm-5.3"
+}

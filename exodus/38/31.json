@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Fi ⟨את⟩ bu'uura edduu naannawaa fi ⟨את⟩ bu'uura balbala edduu, fi ⟨את⟩ maadhoota Gorfa hunda fi ⟨את⟩ maadhoota edduu hunda naannawaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "bu'uura edduu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bu'uura"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "edduu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "bu'uura balbala edduu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bu'uura"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "edduu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "maadhoota Gorfa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "maadhoota"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Gorfa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "maadhoota edduu hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "maadhoota"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "edduu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:32.720099487Z",
+  "model": "glm-5.3"
+}

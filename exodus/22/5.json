@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo ibiddi ba'ee muraasa arguudhaan, ganda qamadii yoo qamadii dhaabbataa yoo qilleensa ni nyiitatte — kan ibbisa ⟨את⟩ buufacha ibiddaa galmeesa ni galmeesa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ba'ee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "arguudhaan"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "muraasa"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ni nyiitatte"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "ganda qamadii"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "qamadii dhaabbataa"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "qilleensa"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "galmeesa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ni galmeesa"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "kan ibbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buufacha ibiddaa"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "buufacha ibiddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:37.931779261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kyini nyaachuu danda'a, akkasumas kyini kaka'achuu danda'a, anaan ala?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kyini"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaachuu danda'a"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "akkasumas eenyu"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "kaka'achuu danda'a"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "anaan ala"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:42.201107304Z",
+  "model": "glm-5.3"
+}

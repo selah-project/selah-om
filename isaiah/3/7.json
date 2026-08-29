@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Guyyaa sanaa ka'ee ni jedha: «Ani nama bessaa hin taadhu; mana kootiis midhaan hin jiru, gannis hin jiru; sabaa bulchaa natti hin godhanaa.»",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ka'ee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "taadhu"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "nama bessaa"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "mana kootiis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "midhaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gannis hin jiru"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ganni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "natti godhanaa"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "bulchaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:45.623212659Z",
+  "model": "glm-5.3"
+}

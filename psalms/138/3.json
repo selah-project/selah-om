@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Guyyaa waan ani waametti, na deebisiteettaa; lubbuu kiyya keessatti humna na cimsiteettaa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "waan ani waametti"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "na deebisiteettaa"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "na cimsiteettaa"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "lubbuu kiyya keessatti"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:58.800277292Z",
+  "model": "glm-5.3"
+}

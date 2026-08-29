@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Mosheeis deggaa isaatiin jedhe: \"Sababni isaas, ummata biyya keessaa Eloohiim akka barbaadan na biraa qaba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "deggaan isaaittiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "na biraa qaba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na biraa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:30.364136086Z",
+  "model": "glm-5.3"
+}

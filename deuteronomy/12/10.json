@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yordiinoo darbattan ⟨את⟩, dachii kan Yahwe Eloohiim keessan isin dhaalchisutti jiraattan; Innis diinoota keessan hunda kan naannoo irraa ta'an irraa isiniif nagaa kenna, isinis amansiisanii jiraattan.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "darbattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordiinoo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordiinoo"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jiraattan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "dhaalchisu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin (dhaalchifamtoota)"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "nagaa kenna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "diinoota keessan"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jiraattan"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "amansiisanii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:43.959127452Z",
+  "model": "glm-5.3"
+}

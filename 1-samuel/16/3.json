@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Qalbii irrattis Ishaay waami; ani immoo waan ati hojjattu ⟨את⟩ si beeksisa; waan ani siin jedhu ⟨את⟩ kan anaaf dibuudha.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "waami"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Ishaayiis"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "qalbii irratti"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "si beeksisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ati hojjattu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ati hojjattu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dibuudha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ani siin jedhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ani jedhu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:23.987054640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Seerota koo hunda fi murannoota koo hunda eegaa; ⟨את⟩ isaani raawadhaa; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seerota koo hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "seerota koo"
+    },
+    {
+      "surface": "וֹאת",
+      "gloss": "⟨את⟩",
+      "marks": "murannoota koo hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murannoota koo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "raawadhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:25.900852817Z",
+  "model": "glm-5.3"
+}

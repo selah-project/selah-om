@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Aangoo waan raggaaddii kee himani; guddina kees hersaadha.",
+  "tokens": [
+    {
+      "surface": "וֶעֱזוּז",
+      "gloss": "aangoo"
+    },
+    {
+      "surface": "נוֹרְאֹתֶ֣יךָ",
+      "gloss": "waan raggaaddii kee"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "himani"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "guddina kees"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "hersaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:59.325937840Z",
+  "model": "glm-5.3"
+}

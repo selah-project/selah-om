@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Warra hamtuu wantoota isaaniitti haa bu'an; ani immoo yeroo dhaabboo darbu kopphatee hafu.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "haa bu'an"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "wantoota isaaniitti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra hamtuu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "walitti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo dhaabboo"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "darbu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:36.642676849Z",
+  "model": "glm-5.3"
+}

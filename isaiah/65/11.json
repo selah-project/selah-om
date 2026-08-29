@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Isin isaan Yahwe dhiisan, gaarree qulqulluu kiyya dagattan, dheebuu Gaadif qopheessan, Miin'iifis wal-makaa guuttan.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "isaan ... dhiisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "dagattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaarree qulqulluu kiyya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qulqulluu kiyya"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "qopheessan"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "Gaadif"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "guuttan"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Miin'iifis"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "wal-makaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:22:21.678101875Z",
+  "model": "glm-5.3"
+}

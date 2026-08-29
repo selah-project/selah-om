@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yoo 'Yahwe jiraachaa jira' jedhan, dhugumaa isaan soba kakatu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiraachaa jiru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "dhugumaa"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "soba"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kakatu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:26:10.676952881Z",
+  "model": "glm-5.3"
+}

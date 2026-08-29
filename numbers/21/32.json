@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Mosheen ⟨את⟩ Ya'azeer qorachuuf namoota erge; ganda leele isaa fudhatani; Emoriitaa ⟨את⟩ sanaas itti jiraniiruu irraa baafatan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erges"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "qorachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'azeer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'azeer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "fudhatani"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ganda leele isaa"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "irraa baafatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoriitaa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriitaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "itti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:03:43.869870714Z",
+  "model": "glm-5.3"
+}

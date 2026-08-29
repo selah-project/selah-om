@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Wiiniin onnee namaa kan gammachiisu, fuula zayita irraa ifachiisuuf, dideennis onnee namaa ni dandeesisa.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "wiiniin"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kan gammachiisu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "ifachiisuuf"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "zayita irraa"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dideennis"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "ni dandeesisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:46.725016843Z",
+  "model": "glm-5.3"
+}

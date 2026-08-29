@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Mizmor Daawiditti. Yahwe, kadaja koo dhageessi; ararama koo gara galteessii; amantii keetiin na deebisi, miidhagina keetiin.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiditti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadaja koo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "galteessii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ararama koo"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "amantii keetiin"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "na deebisi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "miidhagina keetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:06.969879483Z",
+  "model": "glm-5.3"
+}

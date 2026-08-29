@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Amma immoo ati 'Aadhi, Gooftaa keetti himadhu: Kunoo, Eeliyaas jira' jechaa jirtaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jechaa jirtaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Aadhi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "himadhu"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "Gooftaa keetti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eeliyaas"
+    }
+  ],
+  "timestamp": "2026-08-29T08:17:30.204623466Z",
+  "model": "glm-5.3"
+}

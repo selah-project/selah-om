@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Hojii harka Isaa dhugaa fi murtii dha; ajajni Isaa hundi amanamaadha.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi murtii"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "amanamaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ajajni Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:52.378335295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Daangaa durii abbootii kee ijaaran hin sochoosin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "hin sochoosin"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "durii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ijaaran"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "abbootii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:26.200655890Z",
+  "model": "glm-5.3"
+}

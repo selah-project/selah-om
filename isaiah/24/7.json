@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Waan dhugaatti bilisoomu ni gaggaafa, waan muka inabuu furdaata, hundaan gammaddan onneen ni kufaanii.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ni gaggaafa"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "waan dhugaatti bilisoomu"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "furdaata"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "muka inabuu"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "ni kufaanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "gammaddan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onneen"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:43.815506047Z",
+  "model": "glm-5.3"
+}

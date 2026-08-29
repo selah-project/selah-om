@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Waan ifa akka uffata waliin uffatu; waan samiiwwan akka yatii baballatu.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "uffatu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "akka uffata"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "baballatu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "akka yatii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:54.895645064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ya'aqobis karaa isaa akka deeme, ergamoonni Eloohiim isa qunnamsiisan.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'aqobis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "karaa isaa"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "qunnamsiisan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ergamoonni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:56.564991894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Dhiira ko, dhageessi; jechoota kiyya fudhadha; waggootiin jireenyaa sii dabalatu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dhiira ko"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "fudhadha"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoota kiyya"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "dabalatu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:57.090501939Z",
+  "model": "glm-5.3"
+}

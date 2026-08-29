@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yeroo abbootiin qulqulluu sana keessaa ba'an, gabbisni ⟨את⟩ mana Yahwe guute.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abbootiin qulqulluu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa sana"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "gabbisni"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:50:29.737159663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Kunoo, jechoota Eel irratti mormuun, gorsa Elyoonis sclaime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "mormuun"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "gorsa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "sclaime"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:06.913224377Z",
+  "model": "glm-5.3"
+}

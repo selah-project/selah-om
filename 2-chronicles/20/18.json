@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 20:18",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yihoshafaatis fuula dachii irraa goda, Yihuuda hundi fi warra Yerushaalayim jiraatanis duraa Yahwe kufanii Yahwe sagaleeffachuuf.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "goda"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yihoshafaat...niis"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dachii irraa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "fi warra jiraatan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kufani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "sagaleeffachuuf"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:02:10.752328904Z",
+  "model": "glm-5.3"
+}

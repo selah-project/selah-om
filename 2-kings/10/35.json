@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeehuu abbootii isaa wajjin biiqe; hiikaniis ⟨אתו⟩ Shomroon keessatti kabaraniiru; Yeeho'aaz ilmaan isaa immoo inni mootummaa isa jalatti fudhate.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "abbootii isaa wajjin biiqe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yeehuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kabaraniiru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yeehuu (isa)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroon keessatti"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummaa fudhate"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeeho'aaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "isa jalatti (bakka isaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T08:29:39.974822289Z",
+  "model": "glm-5.3"
+}

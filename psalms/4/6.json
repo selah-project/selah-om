@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Gorgoramoota qajeelaa gorgoradhaa, fi Yahwe irratti amanadhaa.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "gorgoradhaa"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "gorgoramoota"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "amanadhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:45.070589863Z",
+  "model": "glm-5.3"
+}

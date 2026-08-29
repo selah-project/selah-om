@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Guyyaa sanas ilmaan keessatti himadhu: 'Sababa kanaan Yahwe anaaf goruuf, ani Mitsraayim irraa ba'uutti.'",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "himadhu"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ilmaan keessatti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuutti"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "goruuf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "ba'uutti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:13.977873815Z",
+  "model": "glm-5.3"
+}

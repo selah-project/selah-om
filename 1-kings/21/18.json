@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 21:18",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ka'i, gad-bu'i walitti dhufuuf Achabaab mootii Israa'elitti, innis Sumariyaa keessa jira; kunoo, keremii Nabootii keessa jira, isaanitti bu'ee dhaalfachuuf.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gad-bu'i"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "walitti dhufuuf"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabaab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "innis"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Sumariyaa keessa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "keremii keessa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabootii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bu'ee"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jira"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "dhaalfachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:25.423077744Z",
+  "model": "glm-5.3"
+}

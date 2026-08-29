@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Samu'eliin ⟨את⟩ paula zayitaa fudhatee mataa isaa irratti dhaalee, isa boodee, akkas jedhe: silaa Yahwe dhaaltii isaa irratti abbaa-bulaa ta'uuf si diibee jira mitii?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samu'eliin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paula zayitaa"
+    },
+    {
+      "surface": "פך",
+      "gloss": "paula"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "dhaalee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "isa boodee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "silaa...mitii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "si diibee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaaltii isaa"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "abbaa-bulaa ta'uuf"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:15.182340220Z",
+  "model": "glm-5.3"
+}

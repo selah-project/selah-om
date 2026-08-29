@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yihonatans Daawidiin ni jedhe: \"Koottaa, banaa baannaa.\" Isaan lamaanuu banaa ba'an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yihonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "koottaa"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "baannaa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "isaan lamaanuu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "banaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:34.587922643Z",
+  "model": "glm-5.3"
+}

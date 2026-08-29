@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Waa'ee isaanii fi waa'ee gosoota isaanii ilaalchisee-illee, sanyii isaanii fi gosoota isaanii waliin walduraa duubaan hin gaafadhaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "hin murtadhuutin (hin waldaalchisin)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan waliin"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "waaqni isaanii waliin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "murtii (kakuu)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:28.136264967Z",
+  "model": "glm-5.3"
+}

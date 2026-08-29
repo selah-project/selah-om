@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Amma ka'aa, ↁ nattiin isinii nachiixa Zarreed ⟨את⟩ daradhaa; ↁ nachiixa Zarreed ⟨את⟩ ni daranne.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ka'aa"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ↁ daradhaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nattiin isinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nachiixa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nachiixa"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zarreed"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ↁ ni daranne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nachiixa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nachiixa"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zarreed"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:26.763965160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yahween gara Mosheetti dubbatee akkana je'e.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana je'e"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:53.989614790Z",
+  "model": "glm-5.3"
+}

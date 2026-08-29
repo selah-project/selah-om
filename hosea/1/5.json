@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Guyyaa sanas ta'ee, rukuttaa Yisra'elii ⟨את⟩ liqaa Yizre'el keessatti addaan baafna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "addaan baafna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rukuttaa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'elii"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "liqaa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-29T15:19:19.387006918Z",
+  "model": "glm-5.3"
+}

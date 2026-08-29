@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sabiin gammoojjii hundi gammadaniitti, magaalchis nagaa taate; Atalyaahu immoo muka mootichaa mana ajjeesanii ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "gammadaniitti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabiin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gammoojjii"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "magaalchis"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nagaa taate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "immoo ⟨את⟩",
+      "marks": "Atalyaahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyaahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ajjeesanii"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "muka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:54.146954224Z",
+  "model": "glm-5.3"
+}

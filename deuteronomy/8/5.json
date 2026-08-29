@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Onnee kee waliin beekuu qabda akka namni ⟨את⟩ ilmoo isaa leellisu, akka kanatti Yahwe Eloohiim kee si leellisa.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "beekuu qabda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkamatti"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "leellisu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo isaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "si leellisa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:04.573262167Z",
+  "model": "glm-5.3"
+}

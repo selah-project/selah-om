@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Guyyoonni Yitsaaq waggaa dhibba ti fi waggaa saddeet-tamii ta'e.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Guyyoonni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "fi saddeet-tamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:53.553164168Z",
+  "model": "glm-5.3"
+}

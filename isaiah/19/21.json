@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahwe ni beekama Mitsraayim keessatti, Mitsraayimiis ⟨את⟩ Yahwe beeka guyyaa sanas, qalchaa fi kennaanis tajaajilu, kakaasaas Yahwef kakaasu, ni guutani.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "ni beekama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "beekani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "tajaajilu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qalchaa"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "kennaanis"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "kakaasaas...kakaasu"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kakaasa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ni guutani"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:35.109629155Z",
+  "model": "glm-5.3"
+}

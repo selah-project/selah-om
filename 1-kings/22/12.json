@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 22:12",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Raajotoonni hundi akka kana raajjessaa turan: \"Raamooti-Gilaaditti ollii, milkaa'i; Yahwe ∙isaa∙ mooticha harka isaa keessa isaaf kenna.\"",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "raajotoonni"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "raajjessaa turan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ollii"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Raamooti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilaad"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "milkaa'i"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka isaa keessa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:59.663942126Z",
+  "model": "glm-5.3"
+}

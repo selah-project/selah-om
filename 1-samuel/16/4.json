@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Samuweelis waan Yahween jedhe ⟨את⟩ hojjee Beet-lehemi ga'e; abbootiin magaalichaa titolsan isa argachuuf dhufaniiru; innis \"Dhufaadhaan kee nagaan?\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweelis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Yahween jedhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ga'e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehemi"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "titolsan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalichaa"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "isa argachuuf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "dhufaadhaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:23.987210274Z",
+  "model": "glm-5.3"
+}

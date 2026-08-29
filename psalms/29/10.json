@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Yahwe yeroo bishaan guddaa (mabuul) taa'aa ture; Yahwe akka mootaa isa dheeraaf taa'a.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "yeroo bishaan guddaa (mabuul)"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "taa'aa ture"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "taa'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "isa dheeraaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:06.495503706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Looŧii isaan biraatti bahu balbala guddaa sanaatti bahu iseetiin duwwaa balbala isa booda cufu deeggarsa malee. --",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahu (Looŧii) - ba'e"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaan biraatti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Looŧii"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "bahu balbala sanaatti"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "balballi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "cufu - cufe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "isa booda"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:20.645442634Z",
+  "model": "glm-5.3"
+}

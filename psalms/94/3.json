@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Hangatti, Yahwe? Hangatti dogoggorronni ni bofanu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangatti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hangam yeroo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggorronni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hangatti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hangam yeroo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggorronni"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ni bofanu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:12.720880319Z",
+  "model": "glm-5.3"
+}

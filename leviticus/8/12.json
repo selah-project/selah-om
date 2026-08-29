@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Zayita dibaa irraa mataa Aharoon irratti dhiyeese; ⟨את⟩ isa dibe, isa qulqulleessuuf.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "dhiyeese"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "irraa zayita"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dibaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "isa qulqulleessuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:00.137295283Z",
+  "model": "glm-5.3"
+}

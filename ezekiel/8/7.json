@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "⟨את⟩ Ani baltina daangaa tiyya galchee; arge, kunoo, mancaasa tokko dachee keessaa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "galchee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baltina... tiyya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "baltina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "arge"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "חר",
+      "gloss": "mancaasa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dachee keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:05:42.519869442Z",
+  "model": "glm-5.3"
+}

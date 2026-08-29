@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Akkasumas ifti kee akka gaanfoo ni bakkata, fi fayyiin kee saffisaan ni baata; qajeelummaan kee dura kee ni deema, kabaja Yahwe si qaba.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "ni bakkata"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "akka gaanfoo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ifti kee"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "fi fayyiin kee"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "saffisaan"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ni baata"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "ni deema"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "dura kee"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "qajeelummaan kee"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "si qaba"
+    }
+  ],
+  "timestamp": "2026-08-29T09:20:21.106003103Z",
+  "model": "glm-5.3"
+}

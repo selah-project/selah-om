@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Garuu inni sagalee ishee dhaggeeffachuu hin fedhe; ishee humnaan caalee ishee miidhe, ⟨את⟩ isheetti sefe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "fedhe"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhaggeeffachuu"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "sagalee ishee"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "humnaan caalee"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee irraa"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ishee miidhe"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "isheetti sefe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:20.063513996Z",
+  "model": "glm-5.3"
+}

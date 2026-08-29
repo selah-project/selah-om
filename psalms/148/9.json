@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Gaarreenii fi ⟨the⟩ gaabbiiwwan hundaa; mukoon midhaanii fi araraawwan hundaa.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreenii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundaa"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "gaabbiiwwan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mukoon"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaanii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundaa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araraawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:03.167861726Z",
+  "model": "glm-5.3"
+}

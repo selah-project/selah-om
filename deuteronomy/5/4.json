@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Fuulduraa fuulduraan Yahwe isin waliin dubbate, gaararratti, waan ibiddaa keessaa.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "fuulduraan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "isin waliin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaararratti"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "waan ... keessaa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:05.942235895Z",
+  "model": "glm-5.3"
+}

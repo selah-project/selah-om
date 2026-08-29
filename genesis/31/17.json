@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Jaakob kaka'e, ⟨את⟩ ilmoo isaa fi ⟨את⟩ dubartoota isaa gaalota irratti ol baafate.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kaka'e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ol baafate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dubartoota isaa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "dubartoota isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "gaalota"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:44.589806100Z",
+  "model": "glm-5.3"
+}

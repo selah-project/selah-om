@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Innis deebisee akkas jedhe: Waan Yahwe faana koo keessa kenne — ⟨את⟩ waan sana off eeguun, haa dubbadhu malee waan biraa hin dubbadhu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "faana koo keessa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "off eeguun dubbachuu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "off eeguun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dubbachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:05:44.108280462Z",
+  "model": "glm-5.3"
+}

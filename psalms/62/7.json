@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Qofa Inni dheebuu kiyya fi badhaadhina kiyya ⟨ta'a⟩; ol-maraan kiyya; ani hin sochoofu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dheebuu kiyya"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "fi badhaadhina kiyya"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ol-maraan kiyya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sochoofu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:49.954472811Z",
+  "model": "glm-5.3"
+}

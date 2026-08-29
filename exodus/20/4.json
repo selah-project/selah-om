@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Siif fakkii sanbalkaa, akkasumas fakkii waa'aa kamiinuu kan samii irratti ol jiru, kan lafa irratti gadi jiru, yookaan kan bishaan keessatti lafa jalatti jiru hin hojjedhu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Siif"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "fakkii sanbalkaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkasumas...kamiinuu"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "fakkii waa'aa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii irratti"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ol jiru"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "gadi jiru"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "yookaan kan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan keessatti"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lafa jalatti jiru"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:03.201056711Z",
+  "model": "glm-5.3"
+}

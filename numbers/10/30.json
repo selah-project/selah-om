@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Innis isaa irratti ni jedhe: Ani hin deemu; garuu gara lafa koo fi gara dhaloota kooti deema.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "malee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "lafa koo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "dhaloota koo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deema"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:31.040471826Z",
+  "model": "glm-5.3"
+}

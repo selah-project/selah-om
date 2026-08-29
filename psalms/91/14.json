@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Sababa inni ana jaalateef, ni baafata; sababa inni Maatii kiyya beekuuf, ol kaasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ni baafata"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ol kaasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beekuuf"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Maatii kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.525786983Z",
+  "model": "glm-5.3"
+}

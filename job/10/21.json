@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo ani hin deebi'in dura, gara biyya dakkannaa fi fincilii du'aa haa deemu.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "yeroo... dura"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "haa deemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dakkannaa"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "fincilii du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:19:34.245080219Z",
+  "model": "glm-5.3"
+}

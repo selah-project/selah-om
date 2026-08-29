@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Nafsa koo deebisa; karaa mirgaa keessatti na qajeelcha, maqaa Isaa ti'iif.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafsa koo"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "na qajeelcha"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "karaa (daangaa) ... keessatti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "mirgaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ti'iif"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:35.570677996Z",
+  "model": "glm-5.3"
+}

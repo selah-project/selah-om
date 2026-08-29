@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Shemu'eliis gaafatte jedhe Israa'iil hundaaf: Kunoo, sagalee keessan dhageesheera waan natti jedhaniin hunda, ani mooti isin irratti hagamsheera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eliis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaafatte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "dhageesheera"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "sagalee keessan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "natti jedhaniin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "hagamsheera"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:42:23.611117384Z",
+  "model": "glm-5.3"
+}

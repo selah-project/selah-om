@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Guyyoota isaa keessatti kooma guddata, nagaa hedduu hanga ji'a hin jiraanne.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "guddata"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "guyyoota isaa keessatti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kooma"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "hedduu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "hin jiraanne"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ji'a"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:05.161754391Z",
+  "model": "glm-5.3"
+}

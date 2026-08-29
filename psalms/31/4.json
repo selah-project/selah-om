@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Sababni isaa reewa ani fi mormaa ani Ati taate; maqaa kee jaalachuuf na qajeelchi, tarkaanfii na geggeessi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababni isaa"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "reewa ani"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "mormaa ani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "jaalachuuf"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "na qajeelchi"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "tarkaanfii na geggeessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:24.453570898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Bishan duwwaa fieldii isiniirraa ergaadha; isin haa mootessu, beylada keessan haa baafamu, isin haa hir'atu; karaan keessan haa badaatu.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "ergaadha"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "isiniirraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishan duwwaa fieldii"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bishan duwwaa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fieldii"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "haa mootessu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "haa baafamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beylada keessan"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "beylada keessan"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "haa hir'atu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "haa badaatu"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "karaan keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:44.576535492Z",
+  "model": "glm-5.3"
+}

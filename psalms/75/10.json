@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Ani garuu yeroo hunda himadhaa; Eloohiim Ya'aqoobif shaakala.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ani garuu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "himadhaa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "shaakala"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohiim ... -if"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:32.597369526Z",
+  "model": "glm-5.3"
+}

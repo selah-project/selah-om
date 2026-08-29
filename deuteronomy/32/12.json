@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahwe qofa isa qajeelche;waaqa alagaa Isa wajjin hin turre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "isa qajeelche"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin turre"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Isa wajjin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waaqa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:37:29.253653036Z",
+  "model": "glm-5.3"
+}

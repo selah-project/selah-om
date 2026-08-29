@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 127,
+  "translation": "Garaa-malee isiniif kan yeeroo duraa ka'an, kan mu'ummee halkanaa dhiisan, dhoqqolla dhiphinaa nyaachuu; akkasumas kan jaallatame isaatiif hirriba ni kenna.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Garaa-malee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "kan yeeroo duraa ka'an"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka'uu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kan dhiisan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mu'ummee halkanaa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "nyaachuu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dhoqqolla"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "dhiphinaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ni kenna"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kan jaallatame isaatiif"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hirriba"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:16.246422476Z",
+  "model": "glm-5.3"
+}

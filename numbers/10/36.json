@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo isheen boonnitu, ni jedha: 'Duuli, Yahwe! Kumaa kumaan Israa'elitti!'",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "yeroo isheen boonnitu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Duuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "kumaan kumaan"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "kumaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elitti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:20.242116774Z",
+  "model": "glm-5.3"
+}

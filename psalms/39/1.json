@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Bulchiisaaf, Yeeduutuniif; mizaamori Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiisaaf"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Yeeduutuniif"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizaamor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.489850881Z",
+  "model": "glm-5.3"
+}

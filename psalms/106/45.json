@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Yihiinis kakuu isaa isaaniif yaadatee, akkuma baay'ina kheesedii isaatti duucheesse.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "yaadatee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu isaa"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "duucheesse"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "akkuma baay'ina"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedii isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:53.949782376Z",
+  "model": "glm-5.3"
+}

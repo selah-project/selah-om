@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Baay'een isaan keessatti ni sooratu, ni kufu, ni caccabu, funyootti ni qabamu, ni hafeenus ni qabamu.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ni sooratu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan keessatti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ni kufu"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ni caccabu"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "funyootti ni qabamu"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ni qabamu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:56.083964438Z",
+  "model": "glm-5.3"
+}

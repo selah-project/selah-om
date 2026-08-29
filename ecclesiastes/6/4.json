@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sababiin isaa hebel keessa dhufe, dukkanas deeme; dukkana keessatti maqaan isaa dhokfama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaa"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "hebel keessa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dukkanas"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dukkana keessatti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaan isaa"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dhokfama"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:09.051873882Z",
+  "model": "glm-5.3"
+}

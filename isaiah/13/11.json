@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ani addunyaa bala isheettiin qaba, dogoggortootarrattis yakka isaanii; adaayuu boontootaa ni dhaabsiisa, boontina humna-qabeessotas ni gadi buusa.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Ani... qaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bala ishee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggortoota"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "yakka isaanii"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ni dhaabsiisa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "adaayuu"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "boontoota"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "boontina"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "humna-qabeessota"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "ni gadi buusa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:50:43.092908780Z",
+  "model": "glm-5.3"
+}

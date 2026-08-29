@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 9:26",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Garuu ajajaa dhiisanii, si irratti diddanii, ⟨את⟩ seera kee duuba dugda isaaniitti darbanii, ⟨את⟩ raajoo kee ajjeesanii — kan isaan irratti ragaa baatanii gara keetti akka deebisanuuf — yaadannoo gurguddoo hojjetanii.",
+  "tokens": [
+    {
+      "surface": "וימרו",
+      "gloss": "ajajaa dhiisanii"
+    },
+    {
+      "surface": "וימרדו",
+      "gloss": "diddanii"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "darbanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera kee"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "גום",
+      "gloss": "dugda isaaniitti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raajoo kee"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "raajoo kee"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ajjeesanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העידו",
+      "gloss": "ragaa baatanii"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "להשיבם",
+      "gloss": "akka deebisanuuf"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara keetti"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjetanii"
+    },
+    {
+      "surface": "נאצות",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "gurguddoo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:37:18.534279012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Yahwe Eloohiim keenya, ati isaan deebisite; Eel dabarsaa taate isaanif, yoo hojiiwwan isaanii irratti deebii bitate.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim-keenya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "isaan-deebisite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dabarsaa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "taate"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "fi-deebii-bitaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "hojiiwwan-isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:25.972795296Z",
+  "model": "glm-5.3"
+}

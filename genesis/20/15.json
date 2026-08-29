@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Abiimelekn jedhe: \"Icci, lafa kiyya fuula kee ti; ija keetti waan jaallamtu dhaan jiraadhu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Icci"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "lafa kiyya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuula kee ti"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "waan jaallamtu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ija keetti"
+    },
+    {
+      "surface": "שב",
+      "gloss": "jiraadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:12.760863819Z",
+  "model": "glm-5.3"
+}

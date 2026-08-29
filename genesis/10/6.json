@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ilmooleen Kaamis immoo: Kuushii, Mitsraayim, Futi fi Kenaanan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kaamis"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuushii"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "Futi"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaanan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:09.803838210Z",
+  "model": "glm-5.3"
+}

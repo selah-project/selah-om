@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 9:27",
+  "book": "job",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoo jedhe, 'Faarsa kiyya ni gorfadha, fuula kiyya ni dhiisa, ni gammaddha.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אשכחה",
+      "gloss": "ni gorfadha"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "faarsa kiyya"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "ni dhiisa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula kiyya"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ni gammaddha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:31.470347579Z",
+  "model": "glm-5.3"
+}

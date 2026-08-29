@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 5:24",
+  "book": "job",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Mana-teentaa kee nagaa ta'uu beekta; mana jireenyaa kee ilaalchaate, waan dogoggortu hin argatu.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "beekta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "mana-teentaa kee"
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "ilaalchaata"
+    },
+    {
+      "surface": "נוך",
+      "gloss": "mana jireenyaa kee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "dogoggortu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:00.379841677Z",
+  "model": "glm-5.3"
+}

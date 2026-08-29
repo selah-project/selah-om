@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Ummaata obboleeyyii koo fi jaalota koo irratti, ani nageenyi si keessatti jiraachuu nan dubbata.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ummaata ... irratti"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboleeyyii koo"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "fi jaalota koo"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "nan dubbata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koosseeti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nageenyi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:10.230169246Z",
+  "model": "glm-5.3"
+}

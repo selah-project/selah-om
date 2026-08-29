@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 3:1",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yihoshuua ganama daddarbee, Shittiim irraa deemani, Yihoshuua fi ilmaan Israa'el hundi sinoon Yardenitti dhufani, achitti halkan dabarsan, odoo hin darbin dura.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ganama daddarbee"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshuua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "deemani"
+    },
+    {
+      "surface": "מהשטים",
+      "gloss": "Shittiim irraa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sinoon"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenitti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וילנו",
+      "gloss": "halkan dabarsan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "odoo hin darbin dura"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "darbu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:43:48.207875684Z",
+  "model": "glm-5.3"
+}

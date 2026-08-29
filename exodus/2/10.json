@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mucaan guddatee, gatii Paroh bira geessitee, inni ⟨ishee⟩ ilma ta'e. Maqaa isaas Moshee jedheen waamteetti; \"Bishaan irraa baafadhe sababa [kana]\" jetteetti.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "guddatee"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaan"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "geessitee"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "gatii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waamteetti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jetteetti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "baafadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:36.422467563Z",
+  "model": "glm-5.3"
+}

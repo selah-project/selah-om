@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Walanii bu'aniiru, walanii cincheeraniiru; cessaa hin baafatanuu, lubbuun isaaniiis hiikkamaa deekteetti.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "cincheeraniiru"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "bu'aniiru"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "danda'anuu"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "baafatanuu"
+    },
+    {
+      "surface": "משא",
+      "gloss": "cessaa"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "lubbuun isaaniiis"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "hiikkamaa"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "deekteetti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:24.093949920Z",
+  "model": "glm-5.3"
+}

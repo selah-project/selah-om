@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akasum, yoo si hin amananii, sagalee mallannoo jalqabaa tiyyaa hin dhaga'an, sagalee mallannoo boodaa tiyyaa amanu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "akasum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "amananii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dhaga'an"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "האת",
+      "gloss": "mallannoo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "jalqabaa"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "amanu"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "האת",
+      "gloss": "mallannoo"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "boodaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:42.452122085Z",
+  "model": "glm-5.3"
+}

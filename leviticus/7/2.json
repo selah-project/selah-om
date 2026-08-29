@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Bakka qurba gubamaa itti gurgguran, qurbaa dalagaas gurgguru, dheeffannaa isaa michuu irratti naannawaan facaasu.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "gurgguru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurba gubamaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurba gubamaa"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "gurgguru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaa dalagaa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "qurbaa dalagaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheeffannaa isaa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dheeffannaa isaa"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "facaasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "michuu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:11.853946291Z",
+  "model": "glm-5.3"
+}

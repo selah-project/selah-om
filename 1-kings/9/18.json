@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Fi ⟨את⟩ Baalat, fi ⟨את⟩ Taamar, gad-duuba ganda jalaattis, dachee keessatti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Taamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Taamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gad-duuba ganda jalaattis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:10:05.829878692Z",
+  "model": "glm-5.3"
+}

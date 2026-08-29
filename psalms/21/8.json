@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kiyyaa, mootichi Yahwe irratti hirkata; kheesed Eelyooniinis haa ta'u, inni hin sochoofu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kiyyaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hirkata"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "kheesed ... waliin"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eelyoonii"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sochoofu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:41.240289587Z",
+  "model": "glm-5.3"
+}

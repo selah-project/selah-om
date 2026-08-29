@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Mootummaa kee mootummaa waggaa hundaa ⟨ti⟩, fi bulchiinsi kee dhalootaa fi dhalootaa ⟨ga'a⟩.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Mootummaa kee"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "waggaa hundaa"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "fi bulchiinsi kee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhalootaa fi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dhalootaa"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "fi dhalootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:01.463006159Z",
+  "model": "glm-5.3"
+}

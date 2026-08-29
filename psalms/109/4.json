@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Waan jaalala koo, natti himan; ani immoo talila.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Waan... eeggataniif"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jaalala koo"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "natti himan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "talila"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.884349702Z",
+  "model": "glm-5.3"
+}

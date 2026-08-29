@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Nabootiis Akabiin jedhe: «Yahween maqaa — hin taane! dhaalchisa abbootii koo ⟨את⟩ siif kennuun.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabootiis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tiin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "hin taane!"
+    },
+    {
+      "surface": "לי",
+      "gloss": "an"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kennuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaalchisa abbootii koo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaalchisa"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "abbootii koo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:57.774899218Z",
+  "model": "glm-5.3"
+}

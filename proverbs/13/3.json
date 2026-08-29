@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Kan afaan isaa eegu nefi isaa eega; kan ciniinilee isaa bal'isuuf balleetti isa qabdi.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "kan...eegu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afaan isaa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefi isaa"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "kan...bal'isu"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ciniinilee isaa"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "balleetti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa qabdi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:12.184934549Z",
+  "model": "glm-5.3"
+}

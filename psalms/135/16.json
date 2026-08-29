@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Afaan isaanii qabu, garuu hin dubbatan; ija isaanii qabu, garuu hin argan.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Afaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii qabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ija"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii qabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "argan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:21.725330708Z",
+  "model": "glm-5.3"
+}

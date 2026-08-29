@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Kurnattokkoffaan Elyashiv ti, kurnalammaffaan Yaaqim dha.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "kurnat-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tokkoffaan"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Yaaqim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kurna-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lammaffaan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:41:26.929555616Z",
+  "model": "glm-5.3"
+}

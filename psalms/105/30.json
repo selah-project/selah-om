@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Lafa isaanii bofoo baay'ise, keessa mana-icciitii mootanoota isaanii keessatti.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "baay'ise"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lafa isaanii"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "bofoo"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "keessa mana-icciitii"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mootanoota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:36.429122621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Innis na gaafuf: \"Ati eessa irraa? Ani maal taate?\" Anis isaaf: \"Ani Amaalekii dha\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na gaafuf jedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eessa irraa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amaalekii"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-08-29T07:42:54.597929933Z",
+  "model": "glm-5.3"
+}

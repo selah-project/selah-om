@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 52:34",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Meeleessa isaa — meeleessa yeroo hunda — mootii Baabilon irraa ⟨את⟩ isaaf, waan guyyaatti guyyaan, hanga guyyaatti du'aa isaa, guutuu baraa jireenyaa isaa kennaa ture.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "meeleessa isaa"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "meeleessa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kennaa ture"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "irraa ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "guyyaan guyyaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "du'aa isaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "baraa"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jireenyaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:59:37.385338536Z",
+  "model": "glm-5.3"
+}

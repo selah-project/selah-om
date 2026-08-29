@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe immoo ⟨את⟩ namoota fageetti balleessise, dachii keessatti dhiifameen baay'ee taate.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "fageetti balleessise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "baay'ee taate"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "dhiifameen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:48:04.279097836Z",
+  "model": "glm-5.3"
+}

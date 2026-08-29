@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoo ani mirgaaye, afaan kiyya natti murtii dogoggora; yoo ani wanta hin-miidhagene taaye, Isaa inni na jeeqsa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ani mirgaaye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan kiyya"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "natti murtii dogoggora"
+    },
+    {
+      "surface": "תם",
+      "gloss": "wanta hin-miidhagene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "na jeeqsa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:18:05.961399092Z",
+  "model": "glm-5.3"
+}

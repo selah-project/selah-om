@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kuush immoo ⟨את⟩ Nimrood dhalche; inni gabbaramaa biyya keessatti ta'uu jalqabe.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kuush immoo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrood"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrood"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "החל",
+      "gloss": "jalqabe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ta'uu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gabbaramaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:12.294362644Z",
+  "model": "glm-5.3"
+}

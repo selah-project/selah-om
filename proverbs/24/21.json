@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yaa ilma koo, Yahwe fi ⟨את⟩ mooticha kabajii-kadhadi; warra jijjiiraman wajjin hin qunnamsiisin.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "kabajii-kadhadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yaa ilma koo"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "fi mooticha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "warra jijjiiraman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "qunnamsiisin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:18.776836870Z",
+  "model": "glm-5.3"
+}

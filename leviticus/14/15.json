@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kohliinis luugii zayitaa irraa fudhatee, harka koohani bitaa irratti ni dhoora.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohliinis"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "luugii irraa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ni dhoora"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כף",
+      "gloss": "harka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koohani"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bitaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:59.700309367Z",
+  "model": "glm-5.3"
+}

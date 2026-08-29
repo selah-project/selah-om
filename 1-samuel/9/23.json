@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Shamuu'elis warra haacuutti jedhe: «⟨את⟩ kuticha waan ani sii kene, waan ani sirratti jedhe, 'ishi naannoo kee kakkadhu,' kenniitti.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'elis"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "warra haacuutti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuticha"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "kuticha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ani sii kene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sirratti"
+    },
+    {
+      "surface": "שים",
+      "gloss": "kakkadhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishi (naannoo kee)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "naannoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:15.506592185Z",
+  "model": "glm-5.3"
+}

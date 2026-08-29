@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 142,
+  "translation": "Gara ce'umsa kiyya dhaggeeffadhu, sababa ani baay'ee dadhabee fi; hattuudhaan kiyya irraa naa baasi, sababa isaan ana irra cimoo dha.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "dhaggeeffadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ce'umsa kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "dadhabee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "naa baasi"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "hattuudhaan kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "cimoo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ana irra"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:46.747741708Z",
+  "model": "glm-5.3"
+}

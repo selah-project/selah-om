@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwenis ⟨את⟩ jaalala sanyootaa iji Mitsraayimotaa keessatti kenne. Irrede, namaan Moshee lamii Mitsraayim keessatti iji mindaattootaa Barrachaa fi iji sanyootaa keessatti guddaa dha.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaalala sanyootaa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sanyootaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iji keessatti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayimotaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Irrede"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lamii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iji"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mindaattootaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Barrachaa"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "fi iji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sanyootaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:57.872283473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ani immoo deebi'anii malaakti natti dubbatuutti akka naan jedhu jedhe: \"Maal warra kana, Adoonaay kiyya?\"",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ani immoo deebi'ee"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaakti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka naan jedhu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "warra kana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:02:34.421249911Z",
+  "model": "glm-5.3"
+}

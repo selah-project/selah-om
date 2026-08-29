@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Siif nan galmesa galmeesata galataa, maqaa Yahwe'is nan waama.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Siif"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "nan galmesa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "galmeesata"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "galataa"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "maqaa'is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nan waama"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.098756022Z",
+  "model": "glm-5.3"
+}

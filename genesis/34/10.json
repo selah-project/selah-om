@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "fi ⟨את⟩ nu waliin jiraattaa; lafti harka keessan jalatti haa jiraattu; jiraattaa, sochoottaa, fi ishee keessatti hafa qabadhaa.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ nu waliin"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "jiraattaa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "haa jiraattu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "harka keessan jalatti"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "jiraattaa"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "sochoottaa"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "hafa qabadhaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:30.875850300Z",
+  "model": "glm-5.3"
+}

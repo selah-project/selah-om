@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Wajjin onnee guutuu si'ime — natti deebi', Yahwe; seera kee eega.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "si'ime"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wajjin guutuu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "natti deebi'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:17.322319839Z",
+  "model": "glm-5.3"
+}

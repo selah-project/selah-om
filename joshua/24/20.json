@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yahwe ⟨את⟩ isin dhiittanii, Eloohiim ala-biyyaa tajaajiftan yoo ta'e, inni deebi'ee hamtuu isin geessisa, akkasumas ⟨את⟩ isin balleessa, erga isin gammachiisee booda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yoo ta'e"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "dhiittanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "tajaajiftan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ala-biyyaa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "hamtuu geessisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "balleessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga ... booda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "gammachiisee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:59:05.002420634Z",
+  "model": "glm-5.3"
+}

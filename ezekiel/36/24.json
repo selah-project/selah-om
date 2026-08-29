@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Isin ⟨את⟩ saboota irraa fudhadhe, isin ⟨את⟩ biyyoota hunda irraa walitti qabadhe, isinis ⟨את⟩ biyya keessanitti seensisadhu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "fudhadhe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "saboota irraa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "walitti qabadhe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "biyyoota hunda irraa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "seensisadhu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "biyya keessanitti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "biyya keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:26:56.005510457Z",
+  "model": "glm-5.3"
+}

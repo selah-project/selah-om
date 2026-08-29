@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo gosa Benyamini maatiwwan isaatiin ⟨את⟩ dhiyeessan, maatii Matr-iiti filatame; Sa'ul ilma Kiishiis filatame; isaa barbaadaniin garuu, hin argamne.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyeessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gosa Benyamini"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamini"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "maatiwwan isaatiin"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "filatame"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "maatii"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matr-iiti"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "filatame"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sa'ul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiishi"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "isaa barbaadaniin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "argamne"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:45.593645552Z",
+  "model": "glm-5.3"
+}

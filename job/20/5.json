@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sababiin isa, booni raawwotaa dhiyaa malee taatee, gammachi chaaphaa akka sa'aati tokkoo qofa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isa"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "booni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "raawwotaa"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "dhiyaa malee taatee"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "gammachi"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "chaaphaa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sa'aati tokkoo qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:24:40.930646820Z",
+  "model": "glm-5.3"
+}

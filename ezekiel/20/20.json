@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sabboonni koo ⟨את⟩ qulqullisee taasisaa; isaan mallannoo gidduu koo fi gidduu keenyaatti ta'u, akka beektaan ani Yahwe Eloohiim keessan ani ta'e.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabboonni koo"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Sabboonni koo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqullisee taasisaa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "mallannoo"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gidduu koo"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "gidduu keenyaatti"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "akka beektaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:12:28.528157184Z",
+  "model": "glm-5.3"
+}

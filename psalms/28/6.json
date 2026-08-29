@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe ni eebbifame, sababiin saddhee sagalee dheebina koo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ni eebbifame"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "saddhee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dheebina koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:10.229784398Z",
+  "model": "glm-5.3"
+}

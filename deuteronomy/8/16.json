@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "kan si baaddii keessatti maanaa, abbootiin kee kan hin beekne, waan si michuufsiise; si gadi-guuguufi si yaaluuf, dhuma kee keessatti si gaarii gochuuf",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "kan si michuufsiise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maanaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "baaddii keessatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "beekne"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "abbootiin kee"
+    },
+    {
+      "surface": "למען",
+      "gloss": "waan ... guuguuf"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "si gadi-"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "fi ... yaaluuf"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "si"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "si gaarii gochuuf"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "dhuma kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:21:26.053908933Z",
+  "model": "glm-5.3"
+}

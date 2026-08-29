@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Qoonniyyi hin dabalatu, hiyyeessi hin hir'atu — walakkaa shekelii irraa — kennaan Yahwe akka kennaniif, ⟨את⟩ lubbuu keessaniif akka kaffaluuf.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "qoonniyyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "dabalatu"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "hiyyeessi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "hir'atu"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "walakkaa irraa"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "shekelii"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akka kennaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennaan Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "kennaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "akka kaffaluuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "keessaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:16.676405976Z",
+  "model": "glm-5.3"
+}

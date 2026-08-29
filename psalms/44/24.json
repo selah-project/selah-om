@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Ka'i! Maaliif hoolfamma, Adoonaay? Kaka'i; yeroo hundaatti nu hin deebisi.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "hoolfamma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "kaka'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "nu hin deebisi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo hundaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:29.842605537Z",
+  "model": "glm-5.3"
+}

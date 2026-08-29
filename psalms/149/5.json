@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Warri kheesed kabaja keessatti hawwu; sireewwan isaanii irratti sinanu.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "hawwu"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "warri kheesed"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "kabaja keessatti"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sinanu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "sireewwan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:10.169471068Z",
+  "model": "glm-5.3"
+}

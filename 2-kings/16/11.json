@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 16:11",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Abiitti bitaa Uriyaah ⟨את⟩ altarra ijaare; waan mootichi Ahaaz Damashqiin irraa ergu maraaf akkas ijaare abiitti bitaa Uriyaah, yeroo mootichi Ahaaz Damashqiin irraa dhufuutti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ijaare"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyaah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abiitti bitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarra"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "waan...maraaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaaz"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damashqiin irraa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ijaare"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyaah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abiitti bitaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo...dhufuutti"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "dhufuu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaaz"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damashqiin irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:37:13.113789233Z",
+  "model": "glm-5.3"
+}

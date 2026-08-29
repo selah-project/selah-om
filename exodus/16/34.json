@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Akka Yahwe Mosheetti ajajetti, Aharooninis isa ⟨את⟩ ragaa duratti kaa'e, eegamuuf.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooninis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "isa ⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "eegamuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:08:47.915141520Z",
+  "model": "glm-5.3"
+}

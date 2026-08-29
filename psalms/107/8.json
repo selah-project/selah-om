@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Kheesed Isaa fi raawwawwan Isaa ilman namoo irratti Yahweeffa galata galchaa!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "galata galchaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweeffa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed Isaa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "raawwawwan Isaas"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:44.536633331Z",
+  "model": "glm-5.3"
+}

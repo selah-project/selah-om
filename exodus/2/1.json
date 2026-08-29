@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Dhiira mana gosa Leeviitiin tokko deeme, immoo intala Leevii fuudhe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fuudhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intala Leevii"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:47.351548746Z",
+  "model": "glm-5.3"
+}

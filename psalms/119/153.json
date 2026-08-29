@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Argi gaddaa kiyyaas na haa baadhu; seera keetii hin dagadhuufi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "argi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "gaddaa kiyya"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "na haa baadhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "seera keetii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "dagadhuufi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:57.930424475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "⟨את⟩ ilma isaanii fi ⟨את⟩ intalwan isaanii ibidda keessaan geessan, tumsa tumanii fallaa qaban, hamtuu ijuu Yahweetti raawwachuu jechuun of-dhiiban, suuta isaa eeruuf.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "geessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma isaanii"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilma isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "intalwan isaanii"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "intalwan isaanii"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibidda keessaan"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "tumsa tumanii"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "tumsa"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "fallaa qaban"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "of-dhiiban"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuu jechuun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ijuu … keessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "suuta isaa eeruuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:16.300706008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Isaan irraa hin sodadhu; waan Yahwe Eloohiim kee Fir'awniifi Mitsraayim hunda irratti hojjedhe, daguu dagaadhu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodadhu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "daguu"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "dagaadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan... hojjedhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Fir'awniif"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ifi... hunda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:05.037778690Z",
+  "model": "glm-5.3"
+}

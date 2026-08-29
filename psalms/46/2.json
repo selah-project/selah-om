@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Eloohiim nuuf ⟨is⟩ ogomaa fi humna, gargaarsa rakkooteen filled baay'ee argamtu dha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ogomaa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "fi humna"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "gargaarsa"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "rakkooteen"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "argamtu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:25:01.505226442Z",
+  "model": "glm-5.3"
+}

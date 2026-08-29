@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 2:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ishee aniin jedhe: “Akka tokko dubartoota wallaa dubbantuutti dubadda. Waan gaariis ⟨את⟩ Eloohiim irraa ni fudhanna; waan hamtuu ⟨את⟩ immoo hin fudhanu.” Waan kana hunda keessatti Ayiyyuub dubbii isaa hin balleessine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ishee aniin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka dubannaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "הנבלות",
+      "gloss": "wallaa"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "dubbantuutti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dabalatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan gaaraa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "waan gaaraa"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "ni fudhanna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan hamtuu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "waan hamtuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "fudhanu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "balleessine"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayiyyuub"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "dubbii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:16:35.435013437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kan ani guyyaa har'aasii si ajaju ⟨את⟩ eegi; kunnaroo, kan fuuldura keetti baafadhaa ⟨את⟩ Amoritii, Kanaanitii, Hiititii, Perizitii, Hiivitii fi Yebusitii.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan ... ajaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "si ajaju"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa har'aasii"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kunnaroo"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "baafadhaa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fuuldura keetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amoritii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoritii"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kanaanitii"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiititii"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizitii"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hiivitii"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusitii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:22:10.259613041Z",
+  "model": "glm-5.3"
+}

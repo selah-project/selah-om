@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 125,
+  "translation": "Sababiin aanan, sangaa miidhaa hundee isaa irratti gonkumaa hin qabatu lotii warra sirrii taaniif, akka warri sirrii taan harka isaanii tarkaanfii badii keessatti hin baasin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin aanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "qabatu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sangaa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lotii"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "warra sirrii taaniif"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "baasin"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "warri sirrii taan"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "tarkaanfii badii keessatti"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "harka isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:36.262702922Z",
+  "model": "glm-5.3"
+}

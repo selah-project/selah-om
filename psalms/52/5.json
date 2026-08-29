@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Rakkoo kajaa caalaa jaallatte; kijibbiis dubbachiisaa mirga caalaa jaallatte. Seelaa.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "jaallatte"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kajaa caalaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kijibbi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dubbachiisaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "mirga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:47.637507988Z",
+  "model": "glm-5.3"
+}

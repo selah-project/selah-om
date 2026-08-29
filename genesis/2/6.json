@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Bishaan-ol-kununa'aa lafa irraa ol-bahu ⟨את⟩ fuulli lafa hunda bishaan bulla'e.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "bishaan-ol-kununa'aa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ol-bahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "bishaan bulla'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuulli lafa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulli"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:07.120135848Z",
+  "model": "glm-5.3"
+}

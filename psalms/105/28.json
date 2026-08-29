@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Iccitii erga ture, iccititu taate; jecha Isaa ⟨את⟩ hin morreeffatan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "erga ture"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iccitii"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "iccititu taate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "morreeffatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha Isaa"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "jecha Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:23.168832348Z",
+  "model": "glm-5.3"
+}

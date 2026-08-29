@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Koopii badhaadhaa nan ol kaa'a; maqaa Yahwe tiin nan waama.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "koopii"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badhaadhaa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nan ol kaa'a"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "maqaa ... tiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nan waama"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:39.577664274Z",
+  "model": "glm-5.3"
+}

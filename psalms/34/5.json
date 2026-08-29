@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahwe barbaade, na deebisee, sodaa koo hunda irraa na nagaa-facheesse.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na deebisee"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "sodaa koo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "na nagaa-facheesse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:14.582494672Z",
+  "model": "glm-5.3"
+}

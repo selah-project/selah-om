@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Siitti, Yahwe, waamadha; Adoonaayttiis araarama kadhadha.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Siitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waamadha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Adoonaayttiis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "araarama kadhadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:10.776622286Z",
+  "model": "glm-5.3"
+}

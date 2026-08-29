@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Maqaa kee afaan, yaa Yahwe, na jiraadsi; mirga-qabeenyaan kee yaaddoo irraa lubbuu kiyya baasi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "na jiraadsi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mirga-qabeenyaan kee"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "baasituu"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "yaaddoo irraa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:11.572984991Z",
+  "model": "glm-5.3"
+}

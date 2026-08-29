@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Isa fudhatanii ⟨את⟩ kunchuu keessatti darban; kunchuun duubee — bishaan isa keessatti hin qabu.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "isa fudhatanii"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "darban"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kunchuu keessatti"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "kunchuu keessatti"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "kunchuun"
+    },
+    {
+      "surface": "רק",
+      "gloss": "duubee"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessatti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:47:57.406746971Z",
+  "model": "glm-5.3"
+}

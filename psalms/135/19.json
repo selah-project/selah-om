@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Kabaja mootummaa Israa'el, Yahwe ⟨את⟩ eebbisaa; kabaja mootummaa Aharoon, Yahwe ⟨את⟩ eebbisaa.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "kabaja mootummaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "eebbisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kabaja mootummaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "eebbisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:30.485139858Z",
+  "model": "glm-5.3"
+}

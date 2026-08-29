@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Mootichiis isheetti jedhe: «Maal si gayu, Ester mootittii? Gaaffiin kee maal ta'ee? Walakkaan mootummaatti immoo siif kennameef jira.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichiis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si gayu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mootittii"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maal ta'ee"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "Gaaffiin kee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "faana"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "walakkaan"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "mootummaatti"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "kennameef jira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T12:55:22.391895884Z",
+  "model": "glm-5.3"
+}

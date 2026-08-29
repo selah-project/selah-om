@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Reseninis ⟨את⟩ gidduu Niinivee fi gidduu Kelach — inni magaalaa guddaadha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Reseninis ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinivee"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "guddaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:45.046959658Z",
+  "model": "glm-5.3"
+}

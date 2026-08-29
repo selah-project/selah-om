@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Cufaamtoonni hundi waan qulqulluu hin nyaatan; dhiyyoonni abbatiis ta'e, mindaa qabuunis waan qulqulluu hin nyaatu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cufaamtoota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaatan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "waan qulqulluu"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "dhiyyoonni abbatiis"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "abbaa mana keessaa"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "mindaa qabuunis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaatu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "waan qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:23.759611054Z",
+  "model": "glm-5.3"
+}

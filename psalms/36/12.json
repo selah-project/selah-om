@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Miila of-goruu hin naan dhufinu; harka warra dogoggoraas hin naan sochisiin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "naan dhufinu"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "miila"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "of-goruu"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra dogoggora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "naan sochisiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:08.738367698Z",
+  "model": "glm-5.3"
+}

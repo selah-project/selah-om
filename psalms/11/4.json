@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwe garaaraa qulqullumaa Isaa keessatti; Yahwe samii keessatti tiigoo Isaa irratti. Ijji Isaa ni argiti, dangafni ijjee Isaa ilmoon namootaa ni qorata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "garaaraa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqullumaa Isaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tiigoo Isaa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "Ijji Isaa"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ni argiti"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "dangafni ijjee Isaa"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "ni qorata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:23.805731353Z",
+  "model": "glm-5.3"
+}

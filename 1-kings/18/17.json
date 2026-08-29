@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yeroo Axaab ⟨את⟩ Iliyaas argu, Axaab isaatti akka jedhe: \"Ati sun, fo'aa Yisra'eel tee?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "argu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iliyaas"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Iliyaas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sun"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "fo'aa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T08:20:12.240982755Z",
+  "model": "glm-5.3"
+}

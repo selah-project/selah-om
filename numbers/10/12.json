@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ilmoleen Israa'el gammoo Siinaayi irraa imaltii isaanii deeman; cirriin gammoo Paaraanitti dhibame.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoleen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "imaltii isaanii"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "gammoo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinaayi"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "dhibame"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "cirriin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gammoo"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaraan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:55:13.605038154Z",
+  "model": "glm-5.3"
+}

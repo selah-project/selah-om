@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Yahwe ⟨את⟩ jaalallee isaa hunda eega, ⟨את⟩ warra dogoggoraa hunda immoo ni balleessa.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaalallee isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "jaalallee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warra dogoggoraa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "warra dogoggoraa"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ni balleessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:33.058199209Z",
+  "model": "glm-5.3"
+}

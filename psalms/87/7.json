@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 87,
+  "translation": "Faarsitootnis akka itittu: \"Maatiin kiyya hundi si keessatti jira.\"",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Faarsitootnis"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "akka itittu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "Maatiin kiyya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:49.939707078Z",
+  "model": "glm-5.3"
+}

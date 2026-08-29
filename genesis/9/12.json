@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Eloohiimiinis jedhe: kun mallannoo kakuu kan ani Isin fi lubbuu jira hunda jidduu isaaniitti kennuudha, durtii durtiidhaaf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiinis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אות",
+      "gloss": "mallannoo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennuudha"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "Isin ... jidduu"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi ... jidduu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wajjin keessan"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "durtiidhaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:08.736398521Z",
+  "model": "glm-5.3"
+}

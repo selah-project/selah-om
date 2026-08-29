@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Ani eegadhee eeggadheera, Yahwe; innis gara kiyya leellisee karaa gabxuu koo dhageesse.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "eegadhee"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "eeggadheera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "leellisee"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhageesse"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "karaa gabxuu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:02.508474502Z",
+  "model": "glm-5.3"
+}

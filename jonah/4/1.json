@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Rakkoon guddaan Yonaaf itti ulfaateefi, dallansaan isatti hoo'e.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "itti ulfaateef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dallansaan hoo'e"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:18.482065175Z",
+  "model": "glm-5.3"
+}

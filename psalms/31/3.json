@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Gurra kee gara kiyya lolchi; saffisaa na oolchi; guutummaatti obboleessa wanta na oolchu ta'i; mana mormaa na oolchuuuf.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "lolchi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Gurra kee"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "saffisaa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "na oolchi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "guutummaatti obboleessa wanta na oolchu"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "wantoon guddaa dhaabbataa"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "goongoo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "mormaa"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "na oolchuuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:24.453401066Z",
+  "model": "glm-5.3"
+}

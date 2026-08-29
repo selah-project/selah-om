@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Sabaan immoo Mosheen waliin wal qabate; \"Bishaan nuu kennaa, naanneef\" jedhan. Mosheenis isaaniif jedhe, \"Maaltu natti taatee wal qabattan? Maaltu Yahwe ⟨את⟩ safartan?\"",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "wal qabate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "naanneef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "wal qabattan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "safartan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:13.813405135Z",
+  "model": "glm-5.3"
+}

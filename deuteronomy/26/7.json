@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yahwe, Eloohiim abbootii keenyaa gara isaatti gatine; Yahwe ⟨את⟩ sagalee keenyaa dhagaye, ⟨את⟩ rakkina keenyaa fi ⟨את⟩ carraa keenyaa fi ⟨את⟩ midhaa keenyaa arge.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "gatine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara isaatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abbootii keenyaa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee keenyaa"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "sagalee keenyaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "arge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakkina keenyaa"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "rakkina keenyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "carraa keenyaa"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "carraa keenyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "midhaa keenyaa"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "midhaa keenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:31:34.957637437Z",
+  "model": "glm-5.3"
+}

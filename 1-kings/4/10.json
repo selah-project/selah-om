@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ilmi Chessed, Arubbootitti; isaaf ta'e Sokoo fi biyya Chepher guutuu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ilmi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "Arubbootitti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkaasumas...guutuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chepher"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:13.610148345Z",
+  "model": "glm-5.3"
+}

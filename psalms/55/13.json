@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Sababiin kan na bu'ise hafuura miti — siloo ani baadha; kan na hafu miti, isaan ana irratti ol guddisan — siloo ani isaa irraa dhokadha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "hafuura"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "na bu'ise"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "siloo ani baadha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kan na hafu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ol guuddise"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "siloo ani dhokadha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:43.402840610Z",
+  "model": "glm-5.3"
+}

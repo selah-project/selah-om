@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Balbalni qoffee alaa, fuulli isaa gara kaabaatti, dheerina isaa fi bal'ina isaa safarame.",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "Balbalni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulli isaa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "kaabaatti"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "qoffee"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "safarame"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dheerina isaa"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "fi bal'ina isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:29:52.250088361Z",
+  "model": "glm-5.3"
+}

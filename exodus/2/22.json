@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Innis daa'ima dhiyyaa dhale; innis ⟨את⟩ maqaa isaa Geresom jedhe, sababiin isaas inni jedhe: dagagaa ta'ee jira biyya al-aanaa keessatti.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhalee"
+    },
+    {
+      "surface": "בן",
+      "gloss": "daa'ima"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Geresom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inni jedhe"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dagagaa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'ee jira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "al-aanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:58.126765528Z",
+  "model": "glm-5.3"
+}

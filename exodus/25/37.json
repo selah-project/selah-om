@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "⟨את⟩ lampoota isaa torba hojjecha, ⟨את⟩ lampoota isaa ol baafadhu, isaanis ifa gara fuula isaa kennu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampoota isaa"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampoota isaa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "torba"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ol baafadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampoota isaa"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampoota isaa"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ifa kennu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gara biraati"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "fuula isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:42.414046403Z",
+  "model": "glm-5.3"
+}

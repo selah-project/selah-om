@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 5:4",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Kunis nagaa ta'a: Ashshur yoo biyya keenya keessa seetu, yoo manneen mootummaa keenya irratti ha'u, isarratti fooloota torba fi mootota namootaa saddeet ni kaafna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kunis"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seetu"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "biyya keenya keessa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ha'u"
+    },
+    {
+      "surface": "בארמנתינו",
+      "gloss": "manneen mootummaa keenya irratti"
+    },
+    {
+      "surface": "והקמנו",
+      "gloss": "ni kaafna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "torba"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "fooloota"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "נסיכי",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:54:02.635101012Z",
+  "model": "glm-5.3"
+}

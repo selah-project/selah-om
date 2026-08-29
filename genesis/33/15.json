@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Eesaviis jedhe: “Maaloo, namoota anaan waliin jiran irraa muraa ⟨את⟩ si waliin haa dhiisifadhu.” Inniis jedhe: “Maaliif kuna? Jaalalli ija Adoonaay keessatti nan argadha.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eesaviis"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "haa dhiisifadhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "namoota anaan waliin jiran"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Inniis jedhe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nan argadha"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalalli"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ija...keessatti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:53.728151480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Kunoo, onnee tokkoon waliin marii'atanii, si al-taasifachuuf sirtuu maku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "marii'atanii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tokkoon waliin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si al-taasifachuuf"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sirtuu"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "maku"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:25.830679554Z",
+  "model": "glm-5.3"
+}

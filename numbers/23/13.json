@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 23:13",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Baalakis isaatti jedhe: \"Maaloo na wajjin gara bakka biraa ba'i — bakka isaas ittiin argitu: dacha isaa qofa argita, hunda isaas hin argitu; achumaas isa naaf abaari.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isatti jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baalak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na wajjin",
+      "marks": "na wajjin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ittaltiin"
+    },
+    {
+      "surface": "תראנו",
+      "gloss": "isaas argitu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achii"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "dacha isaa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "argita"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "hunda isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "argitu"
+    },
+    {
+      "surface": "וקבנו",
+      "gloss": "abaari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achumaas"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:29.387610829Z",
+  "model": "glm-5.3"
+}

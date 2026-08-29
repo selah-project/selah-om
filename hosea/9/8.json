@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Efaraayim, adatuun Eloohii [kaa] wajjin; nabiin danxaa qoodduu karaawwan isaa hunda irratti ta'e, mana Eloohii isaa keessas haatummaa (jira).",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "adatuun"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efaraayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohii"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabiin"
+    },
+    {
+      "surface": "פח",
+      "gloss": "danxaa"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "qoodduu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "karaawwan isaa"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "haatummaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:56.574158152Z",
+  "model": "glm-5.3"
+}

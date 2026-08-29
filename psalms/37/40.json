@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yahwe isaani gargaara, akkasumas Isa mootummaan (isa mootummaa namaa hin qabu) isa baasaa baasa, warra rakkoo hojjatanii irraa, akkasumas Isa mootummaan (isa mootummaa namaa hin qabu) isa nagaa isaaniif godha; sababaa Isatti galmeeffataniiru.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "isaani gargaara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "isa baasaa baasa"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "warra rakkoo hojjatanii irraa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "nagaa isaaniif godha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "galmeeffataniiru"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:36.789930896Z",
+  "model": "glm-5.3"
+}

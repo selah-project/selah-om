@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Anis jedhe: dhugumatti dukkanni na tuqa, halkaniis ifa na marsa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Anis jedhe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkanni"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "na tuqa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "halkaniis"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "na marsa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:29.884201160Z",
+  "model": "glm-5.3"
+}

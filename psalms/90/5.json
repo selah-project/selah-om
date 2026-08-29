@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Isaan akka bishaan daakiinsaatti dhiiccifté; hirriba ta'aniiru; ganamatti akka michiiraa ni darbu.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "dhiiccifté"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hirriba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganamatti"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "akka michiiraa"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ni darbu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:48.169982343Z",
+  "model": "glm-5.3"
+}

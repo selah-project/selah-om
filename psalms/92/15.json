@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Hanqina waggaa keessattis hanqina moo'atanii fudhachaa jiru; dheebuu fi dadacha'aa ta'uu.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hanqina ... -s"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "hanqina moo'atanii fudhachaa jiru"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "waggaa keessatti"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "dadacha'aa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'uu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:30.064754097Z",
+  "model": "glm-5.3"
+}

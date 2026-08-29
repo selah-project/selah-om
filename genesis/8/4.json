@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Doonin ji'a torbaffaaffaa, guyyaa torbaffaa fi kudhaffaa ji'aa irratti gaarreen Araraat irratti boqatte.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "boqatte"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "doonin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "torbaffaaffaa"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "torbaffaa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fi kudhaffaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ji'aa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Araraat"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:57.803952760Z",
+  "model": "glm-5.3"
+}

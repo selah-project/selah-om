@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Fuulli isaanii gurraacha irra caalaa dukkanaa'e; karaa-jalaa keessatti hin beekaman; gogaan isaanii lafee isaanii irratti maxxane; achuu dhooratte, muka fakkaatte.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "dukkanaa'e"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "gurraacha irra caalaa"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "fuulli isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "beekaman"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "karaa-jalaa keessatti"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "maxxane"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "gogaan isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "lafee isaanii"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "dhooratte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "muka fakkaatte"
+    }
+  ],
+  "timestamp": "2026-08-29T12:46:06.024989224Z",
+  "model": "glm-5.3"
+}

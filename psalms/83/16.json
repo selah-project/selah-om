@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Akka kanaan gaaddisduu keetiin isaan hordofi, rukuttaa keetiin isaan sittuulleessi.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "akka kanaan"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "isaan hordofi"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "gaaddisduu keetiin"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "rukuttaa keetiin"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "isaan sittuulleessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:31.271573214Z",
+  "model": "glm-5.3"
+}

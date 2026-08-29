@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Shaa'ooliifi isaaniifi namni Israa'el hundi ruuda Eelaas Filistiim waliin waraananii turan.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'ooliifi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "isaaniifi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ruuda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Eelaas"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "waraananii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiim"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:23.784577976Z",
+  "model": "glm-5.3"
+}

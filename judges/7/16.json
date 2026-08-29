@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kuma sadii ⟨את⟩ namootaa matawwan sadiitti qoqee, harka hundumaatti shoopharoota, akkadoota duwwaa fi mashaalota akka keessaa kenne.",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "qoqee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma sadii namootaa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "matawwan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "shoopharoota"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "akkadoota"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "duwwaa"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "mashaalota"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "akka"
+    }
+  ],
+  "timestamp": "2026-08-29T14:39:55.534344224Z",
+  "model": "glm-5.3"
+}

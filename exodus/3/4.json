@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe immoo gara isaa mul'achu isaa arge; Eloohiimis seenna irraa isaa waame, \"Moshee! Moshee!\" jedhe. Innis jedhe: \"Ani jira.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gara isaa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mul'achu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimis"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "seenna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ani jira"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:22.932032610Z",
+  "model": "glm-5.3"
+}

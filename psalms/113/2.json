@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Maqaan Yahwe eebbifamaa haa ta'u, ammaa irraa eeguma ol'aanaa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "eebbifamaa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ammaa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "eeguma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ol'aanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:56.653562142Z",
+  "model": "glm-5.3"
+}

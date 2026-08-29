@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Akkaanaa jedhe Yahwe Sevaawoot: Ani barbaade ⟨את⟩ waan Amaleeki Israa'ieliif hojjete, waan karaa irratti isaaf mijeesse yeroo Gibxii irraa ol-ba'uu isaa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akkaanaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaawoot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Amaleeki hojjete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'ieliif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mijeesse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "ol-ba'uu isaa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Gibxii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:23.159542838Z",
+  "model": "glm-5.3"
+}

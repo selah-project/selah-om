@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Bulchiisaaf, qunxaaltota lallaafa irratti, maqoolesa kan Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiisaaf"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "qunxaaltota lallaafa irratti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maqoolesa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:22.160301976Z",
+  "model": "glm-5.3"
+}

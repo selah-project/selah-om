@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Fi hunda qabeenya isaanii, fi hunda daa'imanii isaanii, fi dubartoota isaanii haa'uu fi boo'atanii, fi ⟨את⟩ hunda waan mana keessa jiru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hunda qabeenya isaanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "qabeenya isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hunda daa'imanii isaanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "daa'imanii isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dubartoota isaanii"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "dubartoota isaanii"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "haa'uu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "boo'atanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hunda waan mana keessa jiru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:18.988779424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahuudonnis ⟨את⟩ waan raawwachuu jalqabaniiti ⟨את⟩ fi ⟨את⟩ waan Mordekai isaanitti barreesse fudhataniiru.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "fudhataniiru"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahuudonnis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan raawwachuu jalqabaniiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "jalqabaniiti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuu"
+    },
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Mordekai barreesse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "barreesse"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:58:03.966740580Z",
+  "model": "glm-5.3"
+}

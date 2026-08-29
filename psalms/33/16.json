@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Mootichi humna waraanaa hedduutiin hin baraaramu; nama cimaa humna guddaatiin hin baraaramu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "hin baraaramu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hedduutiin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humna waraanaa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "nama cimaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "hin baraaramu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hedduutiin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humna guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:37.066882068Z",
+  "model": "glm-5.3"
+}

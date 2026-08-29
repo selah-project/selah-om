@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Hin beekanii moo? Warri hojjattootni moo'aa hundi — warri ummata koo akka nyaachaa nyaachaniiru — Yahwe hin waamani.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hin beekanii moo?"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattootni"
+    },
+    {
+      "surface": "און",
+      "gloss": "moo'aa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "warri nyaatan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata koo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nyaachaniiru"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "akka nyaachaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:22.226125938Z",
+  "model": "glm-5.3"
+}

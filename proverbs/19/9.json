@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Ragaa sobaa hin miifamtu; kijibbii baafatu immoo ni bada.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "miifamtu"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "immoo baafatu"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kijibbii"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ni bada"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:05.913646289Z",
+  "model": "glm-5.3"
+}

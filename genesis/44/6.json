@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Innis isaan hordofee qabe, jechoota kana ⟨את⟩ isaaniitti dubbatedhani.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "isaan hordofee qabe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatedhani"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:16.478752935Z",
+  "model": "glm-5.3"
+}

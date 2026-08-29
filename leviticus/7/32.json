@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "⟨את⟩ muchaa mirgaa teruumaa ta'e lallaafoof kennaa, qurbaanna sheelaamii keeSan irraa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muchaa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "muchaa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "mirgaa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruumaa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "lallaafoof"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "qurbaanna"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "sheelaamii keeSan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:31:05.900850935Z",
+  "model": "glm-5.3"
+}

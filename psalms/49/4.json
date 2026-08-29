@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Afaan koos sirna ogummaa dubbata, xiinxalli onnee koos hubannoo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "afaan koos"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbata"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "sirna ogummaa"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "xiinxalli"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee koos"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "hubannoo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:04.546055490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Gorsi ilkaan isaa seena ti', ilkaan gadi-dhiibaa isaa bilaachaa — warra racabdu biyya irraa, warra hiikkes namoota irraa nyaachuuf.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "gorsi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "seenota"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ilkaan isaa"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "bilaachuu"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "ilkaan gadi-dhiibaa isaa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nyaachuuf"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "warra racabdu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "warra hiikkes"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "namoota irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:13:56.607294005Z",
+  "model": "glm-5.3"
+}

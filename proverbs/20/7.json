@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sirrii ta'e, bu'aa-qabeessa ta'uu isaa keessa deema; ilmaan isaa isa booda eebbifamoo dha.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "bu'aa-qabeessa ta'uu isaa keessa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sirrii ta'e"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "eebbifamoo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "isa booda"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:28.529155824Z",
+  "model": "glm-5.3"
+}

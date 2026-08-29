@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Dukkana godhita, halkan ta'a; isaa keessatti bishonni bosonaa hundinuu sochii qabu.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "godhita"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaa keessatti"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "sochii qabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bishonni"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bosonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:29.842904502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Inni kheesed Isaa fi amantii Isaa mana Israa'iiliif yaadate; dhuma lafaa hundi ⟨את⟩ badhaasa Eloohiim keenyaa arganii.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yaadate"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed Isaa"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "fi amantii Isaa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana... f"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arganii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badhaasa Eloohiim keenyaa"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "badhaasa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:36.173568683Z",
+  "model": "glm-5.3"
+}

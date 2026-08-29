@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Fi eeqqoo(shoham) biqiloota fi biqiloota kabajaa, kan eephoodaaf fi kan wanta mucaa jalaa ti.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "fi biqiloota"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "eeqqoo(shoham)"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "fi biqiloota"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "eephoodaaf"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "fi kan wanta mucaa jalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:45.527266186Z",
+  "model": "glm-5.3"
+}

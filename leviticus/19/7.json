@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yoo guyyaa sadaffaa kan nyaatame ta'e, sun faallaa dha; hin jaallatamu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo ... ta'e"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "kan nyaatame"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaatame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sadaffaa"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "faallaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "jaallatamu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:35.322757183Z",
+  "model": "glm-5.3"
+}

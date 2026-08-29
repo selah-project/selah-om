@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Kinnarri fi neebarri, toofni fi qaannoonni, waininis waan isaan dhugu ta'e; hojii Yahwe ⟨את⟩ ilaalanii hin ta'u; hojii harka Isaa arguu hin taane.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnarri"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "fi neebarri"
+    },
+    {
+      "surface": "תף",
+      "gloss": "toofni"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "fi qaannoonni"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "waininis"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "waan isaan dhugu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hojii"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ilaalanii"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "fi hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arguu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:55.544586020Z",
+  "model": "glm-5.3"
+}

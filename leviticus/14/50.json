@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Simbirreewwan keessaa tokko gabbaruudhaan, baalbuna do'aa bishaan jiru irratti ajjeesa.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ajjeesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simbiricha"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "simbiricha"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gabbaruudhaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "baalbuna"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "do'aa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:33.987963853Z",
+  "model": "glm-5.3"
+}

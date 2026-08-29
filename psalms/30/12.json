@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Reebbii koo maashaa godhita naa; dankookoo koo bitattes jaalalaa na naannaafteetta.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "godhita (jijjiiteetta)"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "reebbii koo"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "maashaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "bitattes"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "dankookoo koo"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "na naannaafteetta"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "jaalalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:10.777153894Z",
+  "model": "glm-5.3"
+}

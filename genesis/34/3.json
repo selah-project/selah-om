@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Safiisa isaa Diiinaa, intala Ya'aqob, waliin maxxanne, ⟨את⟩ intalaichaa jaalatee, gara onnee intalaichaa dubbate.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "maxxanne"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "safiisa isaa"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Diiinaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "jaalatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intalaichaa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intalaichaa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intalaichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:07.737934039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Yaa Adoonaay, sagalee kiyya dhageessi; gurri kee gara sagalee kadannaa kiyyaatti haa dhugoomu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "yaa Adoonaay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sagalee kiyya"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "haa dhugoomu"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "gurri kee"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "dhugoomaa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "gara sagalee"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "kadannaa kiyyaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.542247302Z",
+  "model": "glm-5.3"
+}

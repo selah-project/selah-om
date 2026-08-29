@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 20:30",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Aarsiin Sha'uul Yihonataan irratti ka'ees, akkas isa jedhe: «Ijoolla naagaa dugdaa fincilaa! Sila miti akka atti ijoolla Yishay filatte malaamffa keetiif, fi malaamffata al-tummaa haadha keetiif beeka?»",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aarsiin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ביהונתן",
+      "gloss": "Yihonataan irratti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ijoolla"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "naagaa dugdaa"
+    },
+    {
+      "surface": "המרדות",
+      "gloss": "fincilaa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Sila miti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "filatte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atti"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ijoolla"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "לבשתך",
+      "gloss": "malaamffa keetiif"
+    },
+    {
+      "surface": "ולבשת",
+      "gloss": "fi malaamffata"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "al-tummaa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha keetiif"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:19.322429616Z",
+  "model": "glm-5.3"
+}

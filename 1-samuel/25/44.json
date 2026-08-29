@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Sha'uuliis ⟨את⟩ Miikaal intala isaa, niiti Daawid, Paltii ilma Laayish, Gaalliim irraa inni ta'e, ergeesse jira.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Sha'uuliis"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ergeesse jira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miikaal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Miikaal"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "intala isaa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "niiti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "Paltii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Laayish"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inni ta'e"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "Gaalliim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:35:44.761565190Z",
+  "model": "glm-5.3"
+}

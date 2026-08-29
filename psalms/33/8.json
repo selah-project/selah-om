@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Lafni hundi Yahwe sodaachuu ⟨qabdu⟩; jiraawwan addunyaa hundi Isaarraa doonfatu.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "sodaachuu"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe...irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Isaarraa"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "doonfatu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jiraawwan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:00.441494156Z",
+  "model": "glm-5.3"
+}

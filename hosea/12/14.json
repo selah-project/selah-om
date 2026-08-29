@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Raajii fayyadamuudhaan Yahwe ⟨את⟩ Israa'elii Mitsraayim irraa ol kaase; raajii fayyadamuudhaanis eegame.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "raajii fayyadamuudhaan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ol kaase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'elii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "raajii fayyadamuudhaanis"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "eegame"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:29.854009442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Aholiibamaamis ⟨את⟩ Ye'iish, ⟨את⟩ Ya'alaam fi ⟨את⟩ Qoraach dhalatte. Kunoo ilmaan Esav, kan isaaf biyya Kenaan keessatti dhalatananiidhu.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Aholiibamaamis"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'iish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ye'iish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ya'alaam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ya'alaam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Qoraach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dhalatananiidhu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:12.460682633Z",
+  "model": "glm-5.3"
+}

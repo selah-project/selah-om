@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kiyyaaf gobanaan kiyya samii keessatti dho'ee bune; kunoo, Edom irratti ni bu'a, fi sabaa gonfama kiyya irratti murannoo jaalaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kiyyaaf"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "dho'ee bune"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "gobanaan kiyya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ni bu'a"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "gonfama kiyya"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "murannoo jaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:04:38.444191966Z",
+  "model": "glm-5.3"
+}

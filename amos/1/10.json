@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ibidda kanqala Tsorii irratti ergaadha; inni mandaroota ishee liqimsa.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ergaadha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "kanqala irratti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsorii"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "liqimsa"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "mandaroota ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:46:49.762142854Z",
+  "model": "glm-5.3"
+}

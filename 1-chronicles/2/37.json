@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Zabaadis ⟨את⟩ Ephlaal dhalchise, Ephlaalis ⟨את⟩ Oobed dhalchise.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zabaadis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalchise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephlaal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Ephlaal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "Ephlaalis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalchise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oobed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oobed"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:36.763113664Z",
+  "model": "glm-5.3"
+}

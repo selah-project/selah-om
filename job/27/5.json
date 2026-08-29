@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Halallii naaf yoo isin miciiroo godhu; hanguma du'uu koo xinnaan koo siirraa hin garagaruu.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "halallii (naaf akka hin taane)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "miciiroo godhu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanguma"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "du'uutti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "garagaruu"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "xinnaan koo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "siirraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:28:00.822842646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Obboleeyyan isaa abbaan isaa akkaan isaa ⟨את⟩ hunda obboleeyyan isaa irra caalaa jaalatu arganii, isa'ii hin jaalanee himaan-anannaa'uu; nagaa isa wajjin dubbachuu hin dandeenye.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "arganii"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalatu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abbaan isaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "hin jaalanee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dandeenye"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dubbachuu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nagaa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:54.910342780Z",
+  "model": "glm-5.3"
+}

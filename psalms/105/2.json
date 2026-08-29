@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Isaatiin galmeessaa; Isaatiin sadarkaadhaan galaawaa; ajaa'ibbeewwan isaa hundumaatti yaadaa-dubaadhaa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "galmeessaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaatiin"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "sadarkaadhaan galaawaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaatiin"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "yaadaa-dubaadhaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ajaa'ibbeewwan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:10.659455668Z",
+  "model": "glm-5.3"
+}

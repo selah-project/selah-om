@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Fi Saacharayim du'a dhalche Moo'aabii diriiraa keessatti, erga ⟨את⟩ isaan ergeeffii — Chuushiimii fi ⟨את⟩ Baaraa haadha manaa isaa.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Saacharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "du'a dhalche"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "diriiraa keessatti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aabii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "erga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ergeeffii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chuushiimii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baaraa"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baaraa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "haadha manaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:22.223243700Z",
+  "model": "glm-5.3"
+}

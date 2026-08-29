@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Akkasuu faarfannoo kee hunda baltii daa'umaa Siyoona keessatti himuuf; gargaarsaa kee keessatti ittiin boona.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Akkasuu... -uuf"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "himu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "faarfannoo kee"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "baltii... keessatti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daa'umaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoona"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ittiin boona"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "gargaarsaa kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:17.788464374Z",
+  "model": "glm-5.3"
+}

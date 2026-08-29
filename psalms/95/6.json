@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Kottaa, nu-cn-sugannoo-godhinaa, nu-cn-kneel-godhinaa; nu-cn-eebissinaa fuuldura Yahwe, Kan nu hojjetti.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Kottaa"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "nu-cn-sugannoo-godhinaa"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "nu-cn-kneel-godhinaa"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "nu-cn-eebissinaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Kan nu hojjetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:04.602536451Z",
+  "model": "glm-5.3"
+}

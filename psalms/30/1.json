@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Faarfannaa — gabbisa mana eegumsaa, kan Daawid.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Faarfannaa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "gabbisa"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "eegumsaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:18.742428994Z",
+  "model": "glm-5.3"
+}

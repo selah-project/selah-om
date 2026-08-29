@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Meejaawwan teentoo fi gorsaa hunda, naannoo kan, naannaa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "היתדות",
+      "gloss": "Meejaawwan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "teentoo"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "gorsaa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo kan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naannaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:59.691891997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ani ⟨את⟩ isin walitti qabaadha, aaddii boonsa koo keessatti isin irratti aduu baafadha, isinis gara keessaa isheetti ni baafama.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "walitti qabaadha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "ni aduu baafadha"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "aaddii"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "boonsa koo"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "ni baafama"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "gara keessaa isheetti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:18:22.913461067Z",
+  "model": "glm-5.3"
+}

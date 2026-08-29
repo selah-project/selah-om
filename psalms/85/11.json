@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Kheesed fi dhugaa wal qunnaman; qajeelcha fi nagaa wal buusan.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Kheesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "fi dhugaa"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "wal qunnaman"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "qajeelcha"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "fi nagaa"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "wal buusan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:34.337749218Z",
+  "model": "glm-5.3"
+}

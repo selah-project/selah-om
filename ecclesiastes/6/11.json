@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sababiin asii jira: jechoonni baay'een duubaa baay'isu; namaaf maaltu dabalu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin asii"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "baay'isu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "duubaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "dabalu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "namaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:14.207740139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Noomiis mucaa ⟨את⟩ fudhatee, gabbina ishee keessatti cabsiteef; isheenis isaaf hojjettuu-da'aa taateef.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomiis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "cabsiteef"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "gabbina ishee keessatti"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "taateef"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "hojjettuu-da'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:40:16.010418703Z",
+  "model": "glm-5.3"
+}

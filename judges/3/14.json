@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ilmaan Israa'eel ⟨את⟩ Egloon mootii Moo'aab tajaajilan waggaa dheedina.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "tajaajilan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egloon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Egloon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-iit-torba (dheedina)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:04:05.321498590Z",
+  "model": "glm-5.3"
+}

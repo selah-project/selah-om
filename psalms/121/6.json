@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Guyyaa aduu hin si rukutu, hattatti ji'is hin si rukutu.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "si rukutu"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ji'is"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "hattatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:35.511369277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 44:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Eenyutu akka ani waamuu danda'a? Ni ibsu, anaaf ni qopheessa — kan ummata durii umu koo irraa; waan dhufus, waan dhufu jirus, isaanitti himuu qaba.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "akka ani"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "waamuu danda'a"
+    },
+    {
+      "surface": "ויגידה",
+      "gloss": "ni ibsu"
+    },
+    {
+      "surface": "ויערכה",
+      "gloss": "ni qopheessa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "משומי",
+      "gloss": "kan umu koo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "ואתיות",
+      "gloss": "waan dhufus"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "dhufu jirus"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "himmuu qaba"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:09:02.267765243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Waaqoftoota isaanii sanitti dabarsaniiru; Daawinis ajaje, ibiddaatis gubaniiru.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "dabarsaniiru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sanitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waaqoftoota isaanii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "waaqoftoota isaanii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "gubaniiru"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatis"
+    }
+  ],
+  "timestamp": "2026-08-29T15:40:40.674231412Z",
+  "model": "glm-5.3"
+}

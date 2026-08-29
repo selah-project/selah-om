@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kanaaf akka ture xiqqoo dhibbaa, balaanni ni dhuma, rafiin kiyya irratti balleessaa isaanii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akka ture"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "dhibbaa"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ni dhuma"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "balaanni"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "rafiin kiyya"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "balleessaa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:56:53.680288209Z",
+  "model": "glm-5.3"
+}

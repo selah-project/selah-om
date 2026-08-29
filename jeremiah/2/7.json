@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani siin ⟨את⟩ fudhachuu isin biyya karmelitti geessise, soorata miildii ishee fi gaarii ishee isin baafachuuuf; isinimmoo seetan biyya kiyya ⟨את⟩ walitti qabattanii, dhaala kiyyas jeequmsaatti jijjiirtan.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "fudhachuu isin geessise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "baafachuuuf"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "miildii ishee"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "gaarii ishee"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "seetan"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "walitti qabattanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya kiyya"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "biyya kiyya"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "dhaala kiyyas"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "jijjiirtan"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "jeequmsaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:58:25.688222303Z",
+  "model": "glm-5.3"
+}

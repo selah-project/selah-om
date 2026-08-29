@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Teentaa akka seera isaa kan gaarreen irratti agarsiifte dhaabbisi.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "dhaabbisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teentaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "teentaa"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "akka seera isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "agarsiifte"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:25.798601279Z",
+  "model": "glm-5.3"
+}

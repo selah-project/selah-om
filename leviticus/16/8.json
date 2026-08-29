@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Aharoonis lolaawwan bishaan-shan lamaa irratti dhiyata: lolaan tokko kan Yahwe, lolaan tokko kan Azaazeel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dhiyata"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaa"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bishaan-shan lamaa"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "lolaawwan"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lolaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kan Yahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "lolaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kan Azaazeel"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:21.199250269Z",
+  "model": "glm-5.3"
+}

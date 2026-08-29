@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "⟨את⟩ gogogaa hunda akka gosa isaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gogogaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gogogaa"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "akka gosa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:00.393081935Z",
+  "model": "glm-5.3"
+}

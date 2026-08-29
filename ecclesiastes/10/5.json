@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Rakkoo tokko raawwaa jala argadhe — akka dogoggaraa kan biraan abaabbicha biraa ba'u.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "tokko jira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "akka dogoggaraa"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "ba'u"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "biraan ... biraa"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "abaabbicha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:18.056969143Z",
+  "model": "glm-5.3"
+}

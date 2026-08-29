@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yeroo fira kee facaafattuu deebisa waan tokkoo, mana isaa seenuu hin seenu hacuucca isaa fudhuuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "facaafattuu"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "fira kee"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waan tokkoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "fudhuuf"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "hacuucca isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:39.511355425Z",
+  "model": "glm-5.3"
+}

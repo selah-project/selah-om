@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe, Eloohiim abbootii keessan, akka isin taatanani kum kumaan isiniirr dabalaa, akkasumas akka isinitti dubbate ⟨את⟩ isinii eebbisi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "abbootii keessan"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "dabalaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isiniirr"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "akka isin taatanani"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kum"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kumaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "eebbisi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isinii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:02.245619260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Dubartoonni qoosissanoonni deebii walii galanii jedhan: She'uul kuma tokko rukute, Daawitis kuma kudhan rukute.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "deebii walii galanii"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dubartoonni"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "qoosissanoonni"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'uul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawitis"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "kuma kudhan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:30.413777532Z",
+  "model": "glm-5.3"
+}

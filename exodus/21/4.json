@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo Gooftaan isaa hawwa isaa kenneefii, hawwaichiis ilmaan dhiiraa yoo dubartaa dheeru isaa kenneefii, hawwiinniifi ilmaan isii kan Gooftaa isii ta'u; innis qaama isaa qofaatti ba'a.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Gooftaan isaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenneef"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hawwa"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "dheeru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan dhiiraa"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dubartaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "hawwiinni"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ilmaan isii"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "kan Gooftaa isii"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'a"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "qaama isaa qofaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:39.645093728Z",
+  "model": "glm-5.3"
+}

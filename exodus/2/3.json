@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ammas waan isa dhokkatuu hin dandeenyeetti, isaa si'aan tebata gammee fudhatee, hamiira fi zaaftaan xurreexte, mucaan keessa kaafti, ⟨את⟩ mucaa sanas baatichaa daangarratti suufaawwan gidduu kaafti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin dandeenyeetti"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "dandeenyeetti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammas"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "isa dhokkatuu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa si'aan"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "tebata"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "gammee"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "xurreexte"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "hamiira"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "zaaftaan"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "kaafti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa sana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaa sana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "kaafti"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "suufaawwan gidduu"
+    },
+    {
+      "surface": "על",
+      "gloss": "giddutti"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "daangarratti"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "baatichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:19:11.349481974Z",
+  "model": "glm-5.3"
+}

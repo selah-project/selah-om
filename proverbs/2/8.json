@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Karaawwan murtii eeguuf; karaa kheesidoota Isaa immoo ni eega.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "eguuf"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "karaawwan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "karaa ... immoo"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "kheesidoota Isaa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ni eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:55.469717445Z",
+  "model": "glm-5.3"
+}

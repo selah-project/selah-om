@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Maqaa qulqulluu isaatti fakkaachuu faarsaa; onnee kan Yahwe barbaadan hawwattu.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "fakkaachuu faarsaa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu isaatti"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "hawwattu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kan barbaadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:10.659619840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Waan ergamtoota isaa riigota godhe; waan tajaajiltoota isaa ibidda ifuulaa godhe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ergamtoota isaa"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "riigota"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "tajaajiltoota isaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ifuulaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:54.895909131Z",
+  "model": "glm-5.3"
+}

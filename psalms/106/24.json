@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Biyya jaallatamuu didanii; jecha Isaa hin amananu.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "didanii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "jaallatamuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "amananu"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "jecha Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:47.249574177Z",
+  "model": "glm-5.3"
+}

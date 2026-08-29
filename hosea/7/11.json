@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Efrrayim akka qeerxoo saffisaa, sammiin hin qabne ta'e; Mitsraayim waaman, Ashur deeman.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "akka qeerxoo"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "saffisaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sammiin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waaman"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "deeman"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:01.023165749Z",
+  "model": "glm-5.3"
+}

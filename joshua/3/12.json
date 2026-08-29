@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Amma immoo isin irraa namoota lamneeffa bitattaa — sarara mootummaa? — lamee-lameen, mootummaa? (sirree:) mootummaa Israa'el irraa, namni tokko namni tokko mootummaa ti'i.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bitattaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin irraa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamee-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-neeffa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "mootummaa — sanyii Israa'el irraa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "mootummaa\/sanyii tokkoffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:58.678466860Z",
+  "model": "glm-5.3"
+}

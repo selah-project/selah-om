@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "«Kun bofaanna kiyya kan yeroo hunda ti; asin jiraadha, kanaaf fedhedhe.»",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "bofaanna kiyya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kan yeroo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "פה",
+      "gloss": "asin"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "jiraadha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "fedhedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:41.844360018Z",
+  "model": "glm-5.3"
+}

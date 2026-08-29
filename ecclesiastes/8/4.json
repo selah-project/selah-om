@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Bakka jechi mootichaa jirutti, humni mootummaa ⟨jira⟩; eenyummaan isaatti 'Maaltu hojjedda?' jedhuu hin danda'u.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Bakka ... jirutti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "humni mootummaa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "eenyummaan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedhuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedda"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:04.032665213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Njaafa hundaaf soorata kenna; kheesediif isa hafuura dhaudau.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jaafa hundaaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hafuura dhaudau"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesediif isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:44.370651928Z",
+  "model": "glm-5.3"
+}

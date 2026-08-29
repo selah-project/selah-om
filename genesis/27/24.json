@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Inniinis jedhe: \"Ati dhiira koo Esavuu maaltu taataa?\" Innis jedhe: \"Ani.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dhiira koo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavuu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:57.635353264Z",
+  "model": "glm-5.3"
+}

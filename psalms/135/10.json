@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Kan biyyoota baay'ee rukute, mootummoota cimoo ajjeesef.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ajjeesef"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootummoota"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "cimoo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:27.128694387Z",
+  "model": "glm-5.3"
+}

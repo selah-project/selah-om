@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Miilla koo isaanitti qoodu; gara dhorkaa koo irratti qajeelfama (waadaa) darban.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "qoodu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "miilla koo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gara ... irratti"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "dhorkaa koo"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "darban"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "qajeelfama (waadaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:41.978297351Z",
+  "model": "glm-5.3"
+}

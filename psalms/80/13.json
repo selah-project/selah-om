@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Maaltiif gaardarreen ishee cabde, akkasumas warra karaa darban hundi ishee baafatan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maaltiif"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "cabde"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "gaardarreen ishee"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "akkasumas ishee baafatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "warra darban"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:01.994354336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yeroo san ilaalamoonni akka bosona isaanii ⟨ni⟩ boru, balleessaawwan warra cuqqulloos kerortoonni ⟨ni⟩ bifa.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ni boru"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ilaalamoonni"
+    },
+    {
+      "surface": "כדברם",
+      "gloss": "akka bosona isaanii"
+    },
+    {
+      "surface": "וחרבות",
+      "gloss": "fi balleessaawwan"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "warra cuqqulloo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "kerortoonni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni bifa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:46:15.604965150Z",
+  "model": "glm-5.3"
+}

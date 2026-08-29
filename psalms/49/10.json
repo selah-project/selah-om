@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Fi akkasumas akka inni gadi fii yeroo hundaaf jiraatu, fi boollaa hin argu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akka inni jiraatu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gadi fii akkasumas"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "argu"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "boollaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:57.657259058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Keheniin tokkicha ⟨את⟩ yaada-diiwwaa ta'uun, kan biraa ⟨את⟩ ol-baaburaa ta'uun godha; Keheniin Yahwe fuulduratti isiirratti haa kaseeffatu, fincana wal-qabeessa ishee irraa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "godha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kehenii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokkicha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkicha"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "yaada-diiwwaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tokkicha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkicha"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol-baaburaa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "haa kaseeffatu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "isiirratti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kehenii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "fincana"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "wal-qabeessa ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:58.652047005Z",
+  "model": "glm-5.3"
+}

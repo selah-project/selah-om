@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ani deebi'ee gaarichaa irraa bu'e, ⟨את⟩ lubbuqoota sanduuqa waan ani hojjedhe keessaa kaa'e; akkara Yahwe na ajajetti achitti isaan hafaniiru.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarichaa"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuqoota"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lubbuqoota"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sanduuqa keessaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ani hojjedhe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "isaan hafaniiru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "na ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:02.741118924Z",
+  "model": "glm-5.3"
+}

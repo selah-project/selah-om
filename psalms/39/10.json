@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Silqadheera, afuuna koo hin banne; Ati waan koo taasifteef.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "silqadheera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "banne"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afuuna koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-f (sababa)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "taasifte"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:24.879568147Z",
+  "model": "glm-5.3"
+}

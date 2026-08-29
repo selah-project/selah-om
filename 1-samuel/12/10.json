@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahwe-tti iyyatanii jedhan: 'Nutti balleessanne, sababiin isaas Yahwe ⟨את⟩ dhiifne, ⟨את⟩ Baalimotaa fi ⟨את⟩ Ashitaroottotas gabbarree. Ammas gara keenyaa, diina keenya harka baafadhu, nutis si gabbarree.'",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "iyyatanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nutti balleessanne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "dhiifne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וונעבד",
+      "gloss": "gabbarree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalimotaa"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalimotaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Ashitaroottota"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashitaroottota"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ammas"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "baafadhu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "diina keenya"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "nutis si gabbarree"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:11.138058516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Isaani ammoo ⟨את⟩ isa, ⟨את⟩ ilmaan isaas fi ⟨את⟩ ummata isaas hundinuu rukutanii, isaaf hafaa hin dhiifneef; biyya isaa qabaniiru.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ilmaan isaas"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ummata isaas hundinuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hang"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hin dhiifneef"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hafaa dhiisuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "hafaa"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "qabaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya isaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:03:54.698883348Z",
+  "model": "glm-5.3"
+}

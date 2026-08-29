@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "fi ⟨את⟩ daa'aa, fi ⟨את⟩ waangoo akka gosa isii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daa'aa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "daa'aa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waangoo"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "waangoo"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "akka gosa isii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:00.392849970Z",
+  "model": "glm-5.3"
+}

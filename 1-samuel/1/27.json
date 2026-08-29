@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Waa'ee mucaa kanaa kadhade; Yaahweenis ⟨את⟩ kadhannoo koo natti kenne, waan Isaa irraa kadhadhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mucaa kana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "kadhade"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadhannoo koo"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kadhannoo koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kadhadhe"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "Isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:16.315120127Z",
+  "model": "glm-5.3"
+}

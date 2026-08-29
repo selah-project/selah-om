@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Obboleetta kee irratti riba hin ribisiintu — riba qorshaa, riba soorataa, riba waan kamiyyuu kan riba irratti ribisifamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "riba hin ribisiintu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "obboleetta kee irratti"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qorshaa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "soorataa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan kamiyyuu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "riba irratti ribisifamu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:27.151761361Z",
+  "model": "glm-5.3"
+}

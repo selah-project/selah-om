@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 46:3",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Ummanni dachee Sabbattootaa fi ji'oota haaraa keessatti balbala sanii fuulduraa, Yahwe fuulduraa suutu.",
+  "tokens": [
+    {
+      "surface": "והשתחוו",
+      "gloss": "suutu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sanii"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "בשבתות",
+      "gloss": "Sabbattootaa"
+    },
+    {
+      "surface": "ובחדשים",
+      "gloss": "ji'oota haaraa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:33:36.727399786Z",
+  "model": "glm-5.3"
+}

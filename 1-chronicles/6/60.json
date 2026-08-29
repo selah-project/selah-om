@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Fi ⟨את⟩ Hukkokii fi ⟨את⟩ lafa loltuu isaa, fi ⟨את⟩ Rehobii fi ⟨את⟩ lafa loltuu isaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Hukkokii"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukkokii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa loltuu isaa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lafa loltuu isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Rehobii"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa loltuu isaa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lafa loltuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:32:47.880191895Z",
+  "model": "glm-5.3"
+}

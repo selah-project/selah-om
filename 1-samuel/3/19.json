@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Shamuu'el guddate; Yahweinis wajjin ture; jechooniisaa hunda keessaa tokkollee lafatti hin kufsisne.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "guddate"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'el"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "kufsisne"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda keessaa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jechooniisaa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lafatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:13.919229748Z",
+  "model": "glm-5.3"
+}

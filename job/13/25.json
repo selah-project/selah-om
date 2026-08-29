@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Baaldii aanamee rukuttaa? Of ⟨את⟩ feessa qorraa hordofdaa?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "baaldii?"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "aanamee"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "feessa qorraa"
+    },
+    {
+      "surface": "קש",
+      "gloss": "feessa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "qorraa"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "hordofdaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:28.322802567Z",
+  "model": "glm-5.3"
+}

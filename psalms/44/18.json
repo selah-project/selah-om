@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Waan hunduu kun nu ga'eera; si hin daganne; kakuu kee keessatti hin sobbine.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "nu ga'eera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "si hin daganne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "hin sobbine"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "kakuu kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:54.335085110Z",
+  "model": "glm-5.3"
+}

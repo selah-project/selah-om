@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Faarfannaa muuziqaa — kan Daawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "muuziqaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:57.704021773Z",
+  "model": "glm-5.3"
+}

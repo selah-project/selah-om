@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Iizebeli, niitii isaa, isa biraa dhufteetii isatti dubbiteetti: “Maal kana? Rooqa kee gaddoo baateef, soorataas hin taane nyachaa jirtaa?”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "dhufteetii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa biraa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iizebeli"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "niitii isaa"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "dubbiteetti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "rooqa kee"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "gaddoo baate"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "soorataas hin taane"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyachaa jirtaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:23.153132601Z",
+  "model": "glm-5.3"
+}

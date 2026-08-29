@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akkasuma sabni hundi isa booda ol ba'an; sabni waashintootaan waashintoota_tuuquu, gammaddoo guddaa waan gammadan, lafti somba isaanitiin addaan baate.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ol ba'an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "isa booda"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "waashintoota_tuuquu"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "waashintootaan"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "waan gammadan"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gammaddoo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "addaan baate"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "somba isaanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:52.235410414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Man'eewwan mana Yahwe keessatti, gidduu kee keessatti, Yerushaalayim — Yaah galateeffadhaa!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Man'eewwan keessatti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "gidduu kee keessatti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "galateeffadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.099262243Z",
+  "model": "glm-5.3"
+}

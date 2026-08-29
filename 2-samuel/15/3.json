@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Abshaalomis isaatti jedhe: Ilaali, dhaddachni kee miidhaa fi sirrii dha; garuu mootii biraan ⟨את⟩ si dhaggeeffatu hin jiru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalomis"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dhaddachni kee"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "fi sirrii"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "dhaggeeffatu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mootii biraan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:58.630500399Z",
+  "model": "glm-5.3"
+}

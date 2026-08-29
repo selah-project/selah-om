@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Abiishuua immoo ⟨את⟩ Bukkii uume; Bukkiin immoo ⟨את⟩ Uuzzii uume.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Abiishuua immoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukkii"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukkii"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "Bukkiin immoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuzzii"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uuzzii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:40.990125672Z",
+  "model": "glm-5.3"
+}

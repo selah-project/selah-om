@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Mana bamaawotaa uume; abbootii qulqullummaa mootummaa waliigalaa ummata irraa filatee, kan ilmaan Laawi irraa hin taane uume.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana bamaawotaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamaawotaa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "abbootii qulqullummaa"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "mootummaa waliigalaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata irraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "taane"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Laawi"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:31.530663958Z",
+  "model": "glm-5.3"
+}

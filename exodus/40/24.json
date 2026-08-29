@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Man'ee ifaa sa'aatii walitti argannii keessatti kaa'efatti, gargar bifti golbichaa, gabatee miseensichaa irratti, kibbaatti.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man'ee ifaa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "man'ee ifaa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "... keessatti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa'aatii walitti argannii"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "gargar"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bifti golbichaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gabatee miseensichaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miseensichaa"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kibbaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:49.481691904Z",
+  "model": "glm-5.3"
+}

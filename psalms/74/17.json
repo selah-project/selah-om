@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Ati daangawwan ⟨the⟩ lafa hunda dhaabbatte; hagayyaa fi bonaa Ati uumte ni.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "dhaabbatte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "daangawwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "hagayyaa"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "fi bonaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "uumte ni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:27.683040242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Zayita bututtaa ⟨את⟩ fudhatta, mataa isaa irratti dhangalaattaa, ⟨אתו⟩ dibatta.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zayita"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayita"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "bututtaa"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dhangalaattaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dibatta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:30.496833963Z",
+  "model": "glm-5.3"
+}

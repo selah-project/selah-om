@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Xiqqaan warra sirrii qabu caalaa dachii warra badiifaa baay'ee dha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caalaa dha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "warra sirrii"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra badiifaa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:13.042036562Z",
+  "model": "glm-5.3"
+}

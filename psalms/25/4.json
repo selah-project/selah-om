@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Karaa kee, Yahwee, na beeksisi; daawwan kee na barsiisa.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "karaa kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "na beeksisi"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "daawwan kee"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "na barsiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.389630535Z",
+  "model": "glm-5.3"
+}

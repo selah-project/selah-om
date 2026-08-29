@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Qilleensi isa yeroo darbu, inni hin jiru; iddoon isaa isaas dheera hin beektu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleensi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "inni hin jiru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheera"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iddoon isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:50.371378748Z",
+  "model": "glm-5.3"
+}

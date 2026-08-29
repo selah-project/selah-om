@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Dubartii kan nam-tumaa kee tiin hin seenu, wal-qabamu kee zar'aa irratti muddachiisuuf.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "tiin hin seenu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "kan nam-tumaa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hin kennitu"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "wal-qabamu kee"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "zar'aa irratti"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "muddachiisuuf"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:08.674540079Z",
+  "model": "glm-5.3"
+}

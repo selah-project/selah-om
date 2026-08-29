@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Innis isaan fudhatee ⟨את⟩ lagicha ce'iseesaa; ⟨את⟩ waan isaa qabu hunda ce'iseesaa.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "isaan fudhatee"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ce'iseesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lagicha"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lagicha"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ce'iseesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan isaa qabu hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:23.091854579Z",
+  "model": "glm-5.3"
+}

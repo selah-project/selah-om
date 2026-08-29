@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Balleettiin isaan irratti haa kufu; She'ooltti jiraatanii gara haa seenu; sababiin rakkoon mana-jireenya isaanii keessatti, keessa isaanii keessatti jira.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "balleettiin"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "gara haa seenu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'ooltti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiraatanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "rakkoon"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "mana-jireenya isaanii keessatti"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "keessa isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:43.403283396Z",
+  "model": "glm-5.3"
+}

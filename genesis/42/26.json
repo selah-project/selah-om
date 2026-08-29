@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "⟨את⟩ biyya isaanii gaalota isaanii irratti baadanii, dheessaa irraa deeman.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "baadanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya isaanii"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "biyya isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "gaalota isaanii"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dheessaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:50.178479294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo qaama isaa qofaatti seenu, qaama isaa qofaatti ba'a; yoo hawwa qabaate, hawwiinni isaas isa waliin ba'uu qabdi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "qaama isaa qofaatti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "qaama isaa qofaatti"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "qabaate"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hawwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ba'uu qabdi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hawwiinni isaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:39.644754104Z",
+  "model": "glm-5.3"
+}

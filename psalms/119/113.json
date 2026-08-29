@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Yaadota qoodaman nan jaaladha; Seera Keetis nan jaaladha.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "yaadota qoodaman"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nan jaaladha"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Seera Keetis"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nan jaaladha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:46.272761343Z",
+  "model": "glm-5.3"
+}

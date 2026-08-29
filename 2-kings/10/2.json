@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ammas, yeroo barreeffamni kun isin ga'u — ⟨את⟩ ilmaoo gooftaruu keessan isin wajjin jiru, ⟨את⟩ gaariin hulaa fi fardoonni isin wajjin jiru, magaalaa cufamtus fi meeshaa waraanaas —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ammas"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "yeroo ... ga'u"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "barreeffamni kun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaoo gooftaruu keessan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoolee"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gooftaruu keessan"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "gaariin hulaa fi fardoonni"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "gaariin hulaa"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "fardoonni"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "cufamtuu"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "meeshaan waraanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:00.367528333Z",
+  "model": "glm-5.3"
+}

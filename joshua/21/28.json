@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Mootummaa Yissaskaar irraas ⟨את⟩ Kishyoonii fi ⟨את⟩ qarqara ishee, ⟨את⟩ Daberathii fi ⟨את⟩ qarqara ishee [isaaniif kennaniif].",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mootummaa irraas"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyoonii"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyoonii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qarqara ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "qarqara ishee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberathii"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberathii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qarqara ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "qarqara ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:45.276329995Z",
+  "model": "glm-5.3"
+}

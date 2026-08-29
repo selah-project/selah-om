@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Sababaa akka jedhu: «Sila aboonaan kiyya hundi mootota mitii?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "sila... mitii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "aboonaan kiyya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootota"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:44.262509399Z",
+  "model": "glm-5.3"
+}

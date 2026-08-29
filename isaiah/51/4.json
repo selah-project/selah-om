@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Dhageessaa gara kiyya, uumata kiyya; sanyii kiyya, gara kiyya gurra banaa; kyoonni seerri ⟨את⟩ kiyya irraa ba'a, seera mootummaa kiyya immoo ifa ummootaaf saffisaan ni dhaabbisa.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Dhageessaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "uumata kiyya"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "sanyii kiyya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "gurra banaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kyoonni"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "seerri"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ kiyya irraa",
+      "marks": "seerri"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ba'a"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "seera mootummaa kiyya"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ummootaaf"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "saffisaan ni dhaabbisa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:14:42.325200743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Mootichi ⟨את⟩ sabaa kakaasanitti deebisee, gorsaa waayee dargaggootaa kan isaan gorsan hiikate.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kakaasanitti"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "hiikate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorsaa"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "gorsaa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "waayee dargaggootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "isaan gorsan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:57:02.606569243Z",
+  "model": "glm-5.3"
+}

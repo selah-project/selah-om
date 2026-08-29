@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "⟨את⟩ Par'oo mootii Mitsraayim, ⟨את》 hojjetaa isaa fi ⟨את》 ol-kaawwan isaa fi ⟨את》 sabni isaa hunda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Par'oo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hojjetaa isaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hojjetaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol-kaawwan isaa"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ol-kaawwan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabni isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sabni isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:39:11.410072201Z",
+  "model": "glm-5.3"
+}

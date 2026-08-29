@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Kunoo, si moraaga haaraa, madaa'aa, ilkaan hedduu qabaadhu taasiseera; gaarreen ni hamachisa, ni caccabsisa; tulluuwan immoo akka qupxuu taasisa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "si taasiseera"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "moraaga"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "madaa'aa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "qabaadhu"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ilkaan hedduu"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "ni hamachisa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "ni caccabsisa"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "tulluuwan immoo"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "akka qupxuu"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "taasisa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:25.619461796Z",
+  "model": "glm-5.3"
+}

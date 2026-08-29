@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ani immoo araraa sadii teessoo eegalaatti: ofiif bakkakkeessuu irratti kan barbaadu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ani immoo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "araraa"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "teessoo eegalaatti"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kan barbaadu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "bakkakkeessuu irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:30:28.320357824Z",
+  "model": "glm-5.3"
+}

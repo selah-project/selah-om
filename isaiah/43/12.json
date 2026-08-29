@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Ani himadhe, nan gadhiise, nan dhageessise; isin keessatti waaqna adda taate hin jiru. Isin ragaa Kiyya taatan, jedhe Yahwe, aniis Eel.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "himadhe"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "nan gadhiise"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "nan dhageessise"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "isin keessatti"
+    },
+    {
+      "surface": "זר",
+      "gloss": "waaqna adda taate"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ragaa Kiyya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:17.364432723Z",
+  "model": "glm-5.3"
+}

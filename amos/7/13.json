@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Beet-Elitti amma booda raajjoomuu hin dabalinitu, sababiin isaas qulqullummaa mootichaa ⟨ti⟩, mana mootummaas ⟨ti⟩.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Beet-Elitti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beet-El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "dabalinitu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "amma booda"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "raajjoomuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ti⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T10:49:31.127084051Z",
+  "model": "glm-5.3"
+}

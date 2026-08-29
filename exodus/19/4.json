@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Isin waan ani Mitsraayim irratti hojjedhe argittani; ani isin ⟨את⟩ funaanwwan garaacha adaayaa irratti bahe, anaatti isin ⟨את⟩ galche.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "argittani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraayim irratti"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "funaanwwan"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "garaacha adeemse"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "galche"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:13.575760661Z",
+  "model": "glm-5.3"
+}

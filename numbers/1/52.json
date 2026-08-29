@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmaan Israa'el ammoo namni tokko tokko kaampa isaatii irratti fi namni tokko tokko fannoo isaatii irratti seenaa warraa isaaniitiin haa kaampa godhatanii jiraatu.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "haa kaampa godhatanii jiraatu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko tokko"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kaampa isaatii"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fi namni tokko tokko"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "fannoo isaatii"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "seenaa warraa isaaniitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:09.664597135Z",
+  "model": "glm-5.3"
+}

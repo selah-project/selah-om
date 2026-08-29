@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kunis hafuura hojii mootichi Sileemon kenne — ⟨את⟩ mana Yahwe fi ⟨את⟩ mana isaatiis ijaaruuf, ⟨את⟩ Miilloo fi ⟨את⟩ kaanuu Yerushaalayim, ⟨את⟩ Hatsor, ⟨את⟩ Megiddo fi ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "המס",
+      "gloss": "hafuura hojii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sileemon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijaaruuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "mana isaatis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaatis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Miilloo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Miilloo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "kaanuu Yerushaalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kaanuu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:50.634611536Z",
+  "model": "glm-5.3"
+}

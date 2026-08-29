@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Avrahaamsis minda horii keessatti, warqee fi meeshaa keessatti akkaataa ulfaatti guutameera.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avrahaamsis"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "akkaataa ulfaatti guutameera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "minda horii keessatti"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "meeshaa (kumaa) keessatti"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "warqee fi"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:23.982167075Z",
+  "model": "glm-5.3"
+}

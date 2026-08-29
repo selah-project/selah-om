@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmi koо, yoo keenyatoonni si ajajan, haa ta'e malee si geggeessuu hin fedhine.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmi koо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "si ajajan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "keenyatonni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa ta'e malee"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "hin fedhine"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:14.995979261Z",
+  "model": "glm-5.3"
+}

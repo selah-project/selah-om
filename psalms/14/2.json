@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahwe samiiwwan irraa bu'ee ilaalchisee ilmaan namootaa ilaaluuf, sirreeccaatu tokkollee — kan ⟨את⟩ Eloohiim barbaadu — jira silaa?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samiiwwan irraa"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "bu'ee ilaalchisee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ilaaluuf"
+    },
+    {
+      "surface": "היש",
+      "gloss": "jira silaa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sirreeccaatu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kan barbaadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:22.225831331Z",
+  "model": "glm-5.3"
+}

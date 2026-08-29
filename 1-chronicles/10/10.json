@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Meeshaalee isaa ⟨את⟩ mana waaqottii isaanii keessaa dhiisan, goga-mataa isaa ⟨את⟩ mana Daagoon keessatti dhaaban.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dhiisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee isaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "waaqottii isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goga-mataa isaa"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "goga-mataa isaa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "dhaaban"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daagoon"
+    }
+  ],
+  "timestamp": "2026-08-29T13:35:47.020906994Z",
+  "model": "glm-5.3"
+}

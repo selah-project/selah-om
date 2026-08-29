@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Namni Israa'el hunda ayyaanatti mooticha bira wal qabame; ayyaanni — inni ji'a torbaffaan ti.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "wal qabame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ayyaanatti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "torbaffaan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:52:37.946244240Z",
+  "model": "glm-5.3"
+}

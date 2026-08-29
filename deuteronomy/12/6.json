@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Gara sanaas buphaa ajaa keessan fi badhaadha keessan, ⟨את⟩ kumaaffa keessan fi ⟨את⟩ kaffaltii harka keessan, kakuu keessan fi kan hojjachiifamaan qoodan keessan, horiiwwan dur-dubbannoo keessan fi hoola keessan fidaniitu.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "fidaniitu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara sanaa"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "buphaa ajaa keessan"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "fi badhaadha keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kumaaffa keessan"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "kumaaffa keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaffaltii harka keessan"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "harka keessan"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "fi kakuu keessan"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "fi kan hojjachiifamaan qoodan keessan"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "fi dur-dubbannoo"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "horiiwwan keessan"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "fi hoola keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:24:47.497380881Z",
+  "model": "glm-5.3"
+}

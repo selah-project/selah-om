@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Hundi isaanii deebisanii sii jedhu: 'Siis ati akka nuti laaffatte; akka nuti taatee nuu girta.'",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Hundi isaanii"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "siis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "laaffatte"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "akka nuti"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nuu"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "akka nuti taatee girta"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:02.049744610Z",
+  "model": "glm-5.3"
+}

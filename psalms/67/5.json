@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 67,
+  "translation": "Gammadhaa fi jaaraawaa, sabootni, waan saboota sirrii murtii godhuuf, sabootas lafa irratti qajeelfa. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Gammadhaa"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "fi jaaraawaa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sabootni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "murtii godhu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "sabootas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "qajeelfa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:48.241382128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 18:16",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Innis \"Israa'el hunda ⟨את⟩ gaarreen irratti baddataa, abbaa horii hin qabne taate ilaale. Yahwe immoo 'Adoonaay hin qaban kunniin; kanaafuu namni tokkoon tokkoo mana isaa nagaa qaba deebi'u' jedhe\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "נפוצים",
+      "gloss": "baddataa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "horii taate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taate"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "להן",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "abbaa horii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin qaban"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "kunniin"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "deebi'u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkoon tokkoo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nagaa qaba"
+    }
+  ],
+  "timestamp": "2026-08-29T13:58:49.330255474Z",
+  "model": "glm-5.3"
+}

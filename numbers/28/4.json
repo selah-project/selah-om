@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "⟨את⟩ toggaa tokko ganama godhi; ⟨את⟩ toggaa lammaffaas galgala gidduu godhi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toggaa tokko"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "toggaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toggaa lammaffaa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "toggaa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "galgala"
+    }
+  ],
+  "timestamp": "2026-08-29T06:08:53.165790045Z",
+  "model": "glm-5.3"
+}

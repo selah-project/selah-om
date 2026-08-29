@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Akkasumas Yahwe waan gaaraa ni kenna, biyyi keenya madda ishee ni kennatti.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ni kenna"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "waan gaaraa"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "biyyi keenya"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ni kennatti"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "madda ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:13.964495287Z",
+  "model": "glm-5.3"
+}

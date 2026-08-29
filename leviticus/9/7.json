@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Moshees Aharooniin jedhe: dhiyaadi altaraa irratti, qalma badii kee fi qalma guutuu kee hojjedhu ⟨את⟩, atiif fi sabaatti araaraa godhi; qalma sabaa hojjedhu ⟨את⟩, isaanifis araaraa godhi, akka Yahwe ajajetti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshees"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "dhiyaadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaraa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalma badii kee"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "qalma badii kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalma guutuu kee"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "qalma guutuu kee"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "araaraa godhi"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "atiif"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "fi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaatti"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalma sabaa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qalma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "araaraa godhi"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:05.768004253Z",
+  "model": "glm-5.3"
+}

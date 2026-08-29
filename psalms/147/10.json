@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Dandeettii fardii irratti hin hawwatu; miila dhiira irrattis hin jaalatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "dandeettii irratti"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "fardii"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hin hawwatu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "miila irratti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "hin jaalatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:52.154782774Z",
+  "model": "glm-5.3"
+}

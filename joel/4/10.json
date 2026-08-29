@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Meeshaa qonnaa kee sanii meeshaa waraanaa godhaa, maqinaa keessanis reeffadhaa; kan dhibbatu 'An humna-qabeessa dha' jedha.",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "godhaa"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "mee-shan kee sanii"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "meeshaa waraanaatti"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "maqinaan keessanis"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "reeffaatti"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "kan dhibbatu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "humna-qabeessa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "An"
+    }
+  ],
+  "timestamp": "2026-08-29T10:45:46.848077080Z",
+  "model": "glm-5.3"
+}

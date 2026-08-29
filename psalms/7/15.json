@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ilaali! Innis yakka dhaachaa jira, rakkoo huuxee, kijibiis dhalate.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ilaali!"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "dhaachaa jira"
+    },
+    {
+      "surface": "און",
+      "gloss": "yakka"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "huuxee"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kijibi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:44.141489644Z",
+  "model": "glm-5.3"
+}

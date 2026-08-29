@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mitsraayim immoo ilmaan Israa'el ⟨את⟩ daangaa malee hojjechisee ajajaniiru.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "hojjechisee ajajaniiru"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "daangaa malee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:25.198081671Z",
+  "model": "glm-5.3"
+}

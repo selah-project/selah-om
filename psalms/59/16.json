@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Isoon sochochu'u dabachuuf nyaata; yoo hin dhoorkomne ta'e, halkanis ishee turan.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "isoon"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "sochochu'u"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nyaata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "dhoorkomne"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "halkanis ishee turan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:52.070039878Z",
+  "model": "glm-5.3"
+}

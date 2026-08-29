@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Boonottonni mandee naaf kunaan — waan seera kee irraa hin taane.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "kunaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "boonottonni"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "mandee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "seera kee irraa hin taane"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:34.289165369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Magaalaa boonaa caccabeessee jirti; mana hundi seenuun dhorkameera.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "caccabeessee jirti"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "boonaa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "dhorkameera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "seenuun"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:24.866747487Z",
+  "model": "glm-5.3"
+}

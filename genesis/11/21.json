@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Re'uun erga Seerug ⟨את⟩ uumee booda waggaa digdamii-tokko fi dhibba lama jiraate; ilmoo fi intalan dhalate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'uu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga...booda"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "uumee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seerug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seerug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "fi dhibba lama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi intalan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:34.626619416Z",
+  "model": "glm-5.3"
+}

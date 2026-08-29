@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Bulchiinsaaf, mizmoora Daawid. Eloohiim galata koo, hin dhiifatin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiinsaaf"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoora"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "galata koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "dhiifatin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.883870083Z",
+  "model": "glm-5.3"
+}

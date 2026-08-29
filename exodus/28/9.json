@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Lammi foota shoham lammee fudhachuun, maqoota ilmaan Israa'el isaan irratti barreeffamaa barreessi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhachuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foota shoham lammee"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lammee"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "foota"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "barreeffamaa barreessi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqoota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:36.674464629Z",
+  "model": "glm-5.3"
+}

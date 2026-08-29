@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Atis, ilma namaa, eegaa mana Israa'eeliif siin kene; boca kiiraa jechoota dhageessee ⟨את⟩ isaan kiira beeksiisi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Atis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "siin kene"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eeliif"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "dhageessee"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "boca"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "beeksiisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (beeksisa kiiraa)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kiira"
+    }
+  ],
+  "timestamp": "2026-08-29T10:25:22.995110740Z",
+  "model": "glm-5.3"
+}

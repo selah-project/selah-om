@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Isaanis ⟨את⟩ Rivqaah obboleettii isaanii, fi ⟨את⟩ horsiisittii ishee, fi ⟨את⟩ addaa Avrahaam, fi ⟨את⟩ namoota isaa ergean.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ergean"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivqaah obboleettii isaanii"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqaah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "obboleettii isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "horsiisittii ishee"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "horsiisittii ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "addaa Avrahaam"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "addaa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "namoota isaa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "namoota isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:00.904106986Z",
+  "model": "glm-5.3"
+}

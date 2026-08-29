@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ijji warra arganii hin dagattan, gurri warra dhaggeeffatanii ni dhaga'atu cimaa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "dagattan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijji"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "warra arganii"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "gurri"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "warra dhaggeeffatanii"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ni dhaga'atu cimaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:58:27.987686077Z",
+  "model": "glm-5.3"
+}

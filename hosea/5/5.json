@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Boonsi Yisra'eliti ragaatti fuula isaatii; Yisra'elii fi Efrayimis dogoggora isaanii keessatti ni sochooftu; Yahuudanis isaaniin waliin ni sochoofa.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ragaatti"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boonsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eliti"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "fuula isaatii"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisra'elii"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayimis"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ni sochooftu"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dogoggora isaanii keessatti"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ni sochoofa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-is"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudanis"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "isaaniin waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:48.918480898Z",
+  "model": "glm-5.3"
+}

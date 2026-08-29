@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Guyyaa saddeetaffaa gaafa ta'e Moshee Aharooni fi ilmoonsaa fi dargaggoota Israa'el waamete.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gaafa ta'e"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "saddeetaffaa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waamete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "fi ilmoonsaa"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "fi dargaggoota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T14:25:13.665437347Z",
+  "model": "glm-5.3"
+}

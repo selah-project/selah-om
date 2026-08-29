@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Akkasumas ⟨את⟩ Parshandathaa fi ⟨את⟩ Dalphonaa fi ⟨את⟩ Aspathaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parshandathaa"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandathaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dalphonaa"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalphonaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aspathaa"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspathaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:20.117955702Z",
+  "model": "glm-5.3"
+}

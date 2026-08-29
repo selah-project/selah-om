@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahween Mosheetti jedhe: \"Par'ootti seenti, akkas jedhiitii: 'Akkaanaa Yahwe jedha: ⟨את⟩ umatta kiyya hiiki, anaas na tajaajaluuf.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seenti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oo"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "akkas jedhiitii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akkaanaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hiiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umatta kiyya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatta kiyya"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "anaas na tajaajaluuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:54.484302382Z",
+  "model": "glm-5.3"
+}

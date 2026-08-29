@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Dhiira fi dubartii uume; isaani eebbisees, maqaa isaaniitiis Aadam jedheera, guyyaa isaan uumamanitti.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Dhiira"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "fi dubartii"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "uume"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "eebbisees"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaa jedheera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaaniitiis"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maqaa isaaniitiis"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "isaan uumamanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:12.435151624Z",
+  "model": "glm-5.3"
+}

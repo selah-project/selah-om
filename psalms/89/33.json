@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Rakkoo isaanii hirribaan ilaala, dullaa isaaniiis miidhaanin ilaala.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "hirribaan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "rakkoo isaanii"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "miidhaaninis"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dullaa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:24.950399429Z",
+  "model": "glm-5.3"
+}

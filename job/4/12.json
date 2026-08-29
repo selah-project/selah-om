@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Aniimmoo jecha tokko akkuma hatameetti naan dhufe; gurri kiyya qocoo xiqqaa isaa fudhate.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "aniimmoo...naaf"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "akka hatameetti dhufe"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "gurri kiyya"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "qocoo xiqqaa"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:51.981684477Z",
+  "model": "glm-5.3"
+}

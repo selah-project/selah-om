@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo sanaas lafa ⟨את⟩ harka mootota Emorawaa lamaa kan biraa Yarduun dura jiru irraa, naannoo Arnooniirraa hanga gaara Hermoniitti fudhanne.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "fudhanne"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorawaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "biraa...dura jiru"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduun"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnoon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:33.682817476Z",
+  "model": "glm-5.3"
+}

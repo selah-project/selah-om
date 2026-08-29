@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Geeleeffaaf; ilmaan Qorichaa'if; Maaskiil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geeleeffaaf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorichaa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maaskiil"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:55.446417250Z",
+  "model": "glm-5.3"
+}

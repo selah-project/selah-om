@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "⟨את⟩ mindaan alagaa fi iddoowwan ol-ka'aa baafate, ⟨את⟩ tarreewwan dhaabbatan cabsuun, ⟨את⟩ mukoota Aasheraa mure.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "baafate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindaan alagaa"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mindaan alagaa"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "alagaa"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "fi iddoowwan ol-ka'aa"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "cabsuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarreewwan dhaabbatan"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tarreewwan dhaabbatan"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "mure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoota Aasheraa"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mukoota Aasheraa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:57:00.746091003Z",
+  "model": "glm-5.3"
+}

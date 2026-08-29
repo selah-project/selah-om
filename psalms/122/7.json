@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Nageenyi haa jiraatu kee cufa keessatti, tasgabbooli haa jiraatu gorsota kee keessatti.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nageenyi"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "kee cufa keessatti"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "tasgabbooli"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "gorsota kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:10.230026928Z",
+  "model": "glm-5.3"
+}

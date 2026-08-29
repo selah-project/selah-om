@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Isin, adeemsadhaa; raacaa bakka argattanitti isiniif fudhadhaa; hojii keessan irraa waan tokkos hin hir'ifamu.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "adeemsadhaa"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "raacaa"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "argattanitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "hir'ifamu"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "hojii keessan irraa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan tokkos"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:22.687224398Z",
+  "model": "glm-5.3"
+}

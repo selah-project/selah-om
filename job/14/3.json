@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Akkuma kana irrattis ija kee banee, ⟨את⟩ na si wajjin murtii keessa seensisaa?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Akkuma…is"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "banee"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ija kee"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "na (ani)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "seensisaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "murtii keessa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:35.804459032Z",
+  "model": "glm-5.3"
+}

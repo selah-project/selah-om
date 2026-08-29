@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Kun booda Iyyoob waggaa dhibba afurtamii jiraate; ⟨את⟩ ilmoo isaa fi ⟨את⟩ ilmoo ilmoo isaa ji'enereshinii afur argate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyoob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Kun booda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "afurtamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo ilmoo isaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afur"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ji'enereshinii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:54.643404688Z",
+  "model": "glm-5.3"
+}

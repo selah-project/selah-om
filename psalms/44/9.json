@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Eloohiim keessatti guyyaa guutuu faarfanna, maqaa kee yeroo hunda galateffanna. Seelaa.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim keessatti"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "faarfanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "galateffanna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:34.938543010Z",
+  "model": "glm-5.3"
+}

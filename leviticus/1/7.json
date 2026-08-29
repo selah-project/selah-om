@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Iloon Aharoon, qopheessi, mizbechicha irratti ibidda kaasu; mukoota ibiddicha irratti ttirsu.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "kaasu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iloon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qopheessi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbechicha"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ttirsu"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddicha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:42.529718666Z",
+  "model": "glm-5.3"
+}

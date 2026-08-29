@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Goraa irraa garaacha isaa ani kaase; harki isaa do'ii irraa darbe.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "ani kaase"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "goraa irraa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "garaacha isaa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "harki isaa"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "do'ii irraa"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "darbe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:50.488195908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaanis Yehooshuati deebisan, akka jedhan: waan nutti ajajee hunda raawwadna; bakka kamiyyuu nu ergittee, deemna.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "deebisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehooshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "nutti ajajee"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "raawwadna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akkasumas gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "nu ergittee"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "deemna"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:29.613582252Z",
+  "model": "glm-5.3"
+}

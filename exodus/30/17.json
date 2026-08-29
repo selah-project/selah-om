@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahween Mosheetti dubbatee akk jedhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akk jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:41.062998549Z",
+  "model": "glm-5.3"
+}

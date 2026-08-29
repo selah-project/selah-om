@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Karaa guutuu nan xiinxala; yeroon ati natti baattaa? Onneen guutuutti mana koo keessa nan deemeessa.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "nan xiinxala"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "baattaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "nan deemeessa"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "guutuutti"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mana koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:27.302820346Z",
+  "model": "glm-5.3"
+}

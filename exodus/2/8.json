@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilitti Paroh isheeti jetti: «Adeemi.» Intalti dheerattii deeme, haadha mucaa ⟨את⟩ waame.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jetti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheeti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ilitti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Adeemi"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "intalti dheerattii"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haadha mucaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haadha"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:33.115562654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 93,
+  "translation": "Carraan kee jalqaba irraa ni dhaabbata; Ati yeroo dheeraa irraa jirta.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ni dhaabbata"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "carraan kee"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "jalqaba irraa"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "yeroo dheeraa irraa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:15.404445254Z",
+  "model": "glm-5.3"
+}

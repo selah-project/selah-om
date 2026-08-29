@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sababa Daawiif Yahwe Eloohiim isaa isaaf ifa Yerushaalayim keessatti kenne, ⟨את⟩ ilmaan isaa booda isaa dhaabbisuuf, fi ⟨את⟩ Yerushaalayim dhaabachuuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "Daawiif"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohiim isaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "dhaabbisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "booda isaa"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "fi dhaabachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:15.897307615Z",
+  "model": "glm-5.3"
+}

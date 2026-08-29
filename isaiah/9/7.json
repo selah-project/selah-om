@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Jecha Adoonaay Ya'iqoobitti erge; Israa'ieliis irratti kufe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "erge"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'iqoobitti"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'ieliis irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:27.440199810Z",
+  "model": "glm-5.3"
+}

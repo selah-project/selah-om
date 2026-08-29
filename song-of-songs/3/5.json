@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani isin kakeessa, ⟨את⟩ ilmaan dubartii Yerushaalayim — waan antilopa paalwanii ykn waan borziitta lafaa — jaalala hin kaasinaa hin yaninii, yoo hawwutti qofa.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ani isin kakeessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ilman dubartii Yerushaalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ilman dubartii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "waan antilopa paalwanii"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "waan borziitta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kaasinaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "yaninii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaalala"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "hawwutti qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:36:54.132673352Z",
+  "model": "glm-5.3"
+}

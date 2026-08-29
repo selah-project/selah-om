@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Samoonni sirrummaa Isaa himu; kan Eloohiim abbitii murtuu ta'eef. Selaa.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "himu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samoonni"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sirrummaa Isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan... ta'eef"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "abbittii murtuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:33.909345453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Eegattoonni ⟨את⟩ magaalaa sochoowan barbaadan ani ⟨את⟩ arganii — kan jaallattu lubbuun koo argittanii?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "ani arganii"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "eegattoonni"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "sochoowan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨את⟩ magaalaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan jaallattu lubbuun koo"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "kan jaallattu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "argittanii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:43.142900161Z",
+  "model": "glm-5.3"
+}

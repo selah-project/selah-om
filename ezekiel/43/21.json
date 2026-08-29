@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Fardela bishanii fudhatee, ganda dorgifame kan manaatti, ala waadaa qulqullummaa keessaa gubda.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fardela"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "fardela"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bishanii"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "gubda"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "ganda dorgifame keessatti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kan manaatti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "waadaa qulqullummaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:32:12.868058918Z",
+  "model": "glm-5.3"
+}

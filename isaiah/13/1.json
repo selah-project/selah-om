@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ulfaanna Baabeel kan Yeshaayaawu ilma Aamootts argate.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ulfaanna"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabeel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "argate"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayaawu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Aamootts"
+    }
+  ],
+  "timestamp": "2026-08-29T08:48:58.558385480Z",
+  "model": "glm-5.3"
+}

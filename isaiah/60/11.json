@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Balballeen kee yeroo hunda guyyaafi halkan banaa turu; hin cufaman — qabeenya biyyootaa gara kee siif fiduuf, mootonni isaanii immoo qajeelfamanii si geessan.",
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "banamu (banaa turu)"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "balballeen kee"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "fi halkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "cufaman"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "fiduuf"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siif (gara kee)"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qabeenya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyootaa"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "fi mootonni isaanii"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "qajeelfaman"
+    }
+  ],
+  "timestamp": "2026-08-29T09:18:51.399162565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Teessoo boqonnaa Isaa irraa hunda warra lafa jiraataniitiin tijjiibsee ilaale.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Teessoo boqonnaa Isaa irraa"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "boqonnaa Isaa"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "tijjiibsee ilaale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warra jiraatanii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:37.066614776Z",
+  "model": "glm-5.3"
+}

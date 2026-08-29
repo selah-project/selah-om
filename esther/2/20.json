@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Eestin maatii ishee fi ⟨את⟩ ummata ishee hin beeksifne, akka Mordokayin itti ajajetti; ajajicha Mordokayis Eestin akka of waliin turetti raawwatti.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eestin"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "beeksifne"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "maatii ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ummata ishee"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ummata ishee"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "itti"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ajajicha Mordokayi"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ajajicha"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokayi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eestin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "raawwatti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "turetti"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "of waliin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:18.026980581Z",
+  "model": "glm-5.3"
+}

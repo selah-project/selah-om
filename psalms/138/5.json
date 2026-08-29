@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Karaawwan Yahwe irratti yif seena; guddaa dha kabaja Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "yif seena"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "karaawwan ... irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:39.420292356Z",
+  "model": "glm-5.3"
+}

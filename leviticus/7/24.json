@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Dhiiqqaa bishanii wantaa du'ee fi dhiiqqaa wantaa naamicha faallameef kafalame waan hojii kamiinuu taasisamu; garuu nyaachuu hin nyaachiftu.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "dhiiqqaa bishanii"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "wantaa du'ee"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "dhiiqqaa bishanii"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "wantaa naamicha faallameef"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "taasisamu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "waan kamiinuu"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "garuu nyaachuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "nyaachiftu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:43.533628400Z",
+  "model": "glm-5.3"
+}

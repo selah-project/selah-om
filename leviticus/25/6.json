@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Boqonnichi lafaa isiniif noonaa ta'a — sii fi gabbara keetiif, kan gabbaraa dubartii kee tiif, mindaa-qabduu keetiif, fi sonoosni si waliin jiraatu tiif.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "boqonnichi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "noonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "gabbara keetiif"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "kan gabbaraa dubartii kee tiif"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "mindaa-qabduu kee tiif"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "sonoosa kee tiif"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "kanneen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin jiraatu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:52.600599211Z",
+  "model": "glm-5.3"
+}

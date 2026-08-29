@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 7:3",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ilmi Utzii immoo Yizraahyaahaa ture; ilmi Yizraahyaahaa immoo Miikaa'el, Obadyaa, Yoo'el fi Yishiyaa — shanantu hundi abbootii guddaa ol ta'aniiru.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Utzii"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "Yizraahyaahaa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "Yizraahyaahaa"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Miikaa'el"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "Obadyaa"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "Yoo'el"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Yishiyaa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shanantu"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "abbootii guddaa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hundi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:39:16.783320916Z",
+  "model": "glm-5.3"
+}

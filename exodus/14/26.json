@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahween Moshee'iin jedhe: \"Harka kee ⟨את⟩ gara bahaa sanii irratti liqimsi, bishaanonni garuu warra Mitsraayim irratti, gaariilee isaanii irratti fi fardeen isaanii irratti haa deebi'u.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee'iin"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "liqimsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka kee"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gara bahaa sanii"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "haa deebi'u"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "warra Mitsraayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "gaariilee isaanii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "fardeen isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:19:15.543949154Z",
+  "model": "glm-5.3"
+}

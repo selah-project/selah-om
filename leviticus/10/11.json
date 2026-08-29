@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akkasumas akka barsiisattan ⟨את⟩ ilmaan Israa'el, ⟨את⟩ seerota hundaa kan Yahwe isaanitti Moshee harkaan dubbe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "akkasumas akka barsiisattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seerota hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "seerota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harkaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:40.004688649Z",
+  "model": "glm-5.3"
+}

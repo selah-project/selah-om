@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Filistiinis Daawiditti jedhe: «Natti kootti, ani immoo ⟨את⟩ lafeen kee simbirroottii samiitiifi binensootaa daawwatiif nan kennadha.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Natti kootti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ani immoo nan kennadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafeen kee"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "lafeen kee"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "simbirroottii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiitii"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "binensootaatiif"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "daawwatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:21.099124049Z",
+  "model": "glm-5.3"
+}

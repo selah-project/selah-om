@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Maqaa kee guddaa fi sodaachisaa kabajaa; Innis qulqullaa dha.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "sodaachisaa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqullaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Innis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:00.923090327Z",
+  "model": "glm-5.3"
+}

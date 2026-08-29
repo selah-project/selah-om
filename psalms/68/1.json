@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Bulsareef, Daawifi, gabatee sirbi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulsareef"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawifi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sirbi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:11.117956451Z",
+  "model": "glm-5.3"
+}

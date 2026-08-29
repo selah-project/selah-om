@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Hin gattinaa; hin sobinaa; tokkoon tokkisaa hin sobinaa, (namni) maatii isaa wajjin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "hattinaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "morminaa\/hiittota dhiisinaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "sobinaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni (tokkoon tokkoo)"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "meeraa isaa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:17.624142334Z",
+  "model": "glm-5.3"
+}

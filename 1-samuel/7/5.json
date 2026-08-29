@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Samu'el akkas jedhe: \"Kooreessaa ⟨את⟩ Israa'el hunda Mitspaatti, ani keessaniif Yahwe'itti haa kadhadha.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samu'el"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "kooreessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspaatti"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "haa kadhadha"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "keessaniif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…tti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:42:40.517447804Z",
+  "model": "glm-5.3"
+}

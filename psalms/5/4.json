@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Yahwe, ganama sagalee koo ni dhagaha; ganama gara keetti nan miida, kumaanan eega.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ni dhagaha"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee koo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "nan miida"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gara keetti"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "kumaanan eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:54.619352783Z",
+  "model": "glm-5.3"
+}

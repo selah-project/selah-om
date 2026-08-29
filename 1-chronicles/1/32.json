@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmaan Keturah, dirtuu Avrahaam, immoo: isheen Zimraan, Yokshaan, Medaan, Midiyaan, Yishbaak fi Shuua' hojjete. Ilmaan Yokshaan immoo Shebaa fi Deddaan dha.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "dirtuu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimraan"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimraan"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokshaan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "Medaan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "Midiyaan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "Yishbaak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "Shuua'"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshaan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "Deddaan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:04.596196871Z",
+  "model": "glm-5.3"
+}

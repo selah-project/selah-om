@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Arreeleen kee ifti ho'aa ta'aniif, saboonni jala keetti kufu; onnee diina boonticha keessaa ni bu'u.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "arreeleen kee"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ifti ho'aa ta'aniif"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "jala keetti"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kufu"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "diina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boonticha"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:16.662940002Z",
+  "model": "glm-5.3"
+}

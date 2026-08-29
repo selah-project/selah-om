@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Isaaniis ⟨את⟩ qulqulleessifti, qulqullumaa qulqullummaa cimaa ta'u; wanti isaan tuqu hunda qulqulleeffama.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "qulqulleessifti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullumaa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullummaa cimaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wanti tuqu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "qulqulleeffama"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:06.370402933Z",
+  "model": "glm-5.3"
+}

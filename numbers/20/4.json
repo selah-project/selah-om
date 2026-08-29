@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Akamittiish sababa kanaaf qaree Yahwee ⟨את⟩ gaggeessa kanaatti fidditan, nuti fi beyleeywan keenya achii du'uuf?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "akamittiish sababa kanaaf"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "fidditan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaree Yahwee"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "qaree"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaggeessa...tti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gaggeessa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uuf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achii"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "beyleeywan keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T06:02:17.018362280Z",
+  "model": "glm-5.3"
+}

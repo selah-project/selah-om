@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Biyya-geenyaa kee keessatti yeroo hundaaf qubadhaa'adha; dhokataa kumaanota kee jalatti maddadha. Seelaa.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "qubadhaa'adha"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "biyya-geenyaa kee keessatti"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "maddadha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dhokataa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kumaanota kee jalatti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:39.082684775Z",
+  "model": "glm-5.3"
+}

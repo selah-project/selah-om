@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Lubbuun kiyya jireenya koo irratti jibbe; kunuunsaa koo kiyya irratti ni dhiisa; lubbuu kiyya mo'aa keessatti ni himadha.",
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "jibbe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun kiyya"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "jireenya koo irratti"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "ni dhiisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kiyya irratti"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kunuunsaa koo"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ni himadha"
+    },
+    {
+      "surface": "במר",
+      "gloss": "mo'aa keessatti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:16.656063960Z",
+  "model": "glm-5.3"
+}

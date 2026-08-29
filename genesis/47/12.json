@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Yoosippiinis ⟨את⟩ abbaa isaa fi ⟨את⟩ obboleeyyan isaa fi ⟨את⟩ mana abbaa isaa hunda soorata akka afaan daa'immanii isaanitiin kenne.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "soorata ... kenne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosippiinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa isaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeyyan isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyyan isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana abbaa isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "akka afaan"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "daa'immanii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:05.912407022Z",
+  "model": "glm-5.3"
+}

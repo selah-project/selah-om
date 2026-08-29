@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Hoolaa keessanifi loon keessaninis akka yaaddessaniitti fudhadhaa; ba'aa; akkasumas aniis ⟨את⟩ eebbisaa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "Hoolaa keessan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "loon keessanis"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "yaaddessaniitti"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ba'aa"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "eebisaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniis (me)"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:47.499317446Z",
+  "model": "glm-5.3"
+}

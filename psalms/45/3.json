@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Namaa ilmoon irra caalaa miidhaginaan mi'eessitamee; tolhuun sammuun kee arrawwaa keessatti dhangala'e; kanaafuu Eloohiim si eebbifera yeroo hunda.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "miidhaginaan mi'eessitamee"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilmoon irra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "dhangala'e"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tolhuu sammuun"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "arrawwaa keessatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaafuu ... irratti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "si eebbifera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:11.136699298Z",
+  "model": "glm-5.3"
+}

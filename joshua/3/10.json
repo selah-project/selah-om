@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yehooshuaanis jedhe: \"Kuniniin beektu — Eel jireessaa ⟨is⟩ keessan keessatti jira, fi dhugumatti isin duraan Kenaanawaa, Hittii, Hiwii, Perizzii, Girgaashii, Amoraa fi Yebusii ⟨את⟩ baasuuf baasa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaanis"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Kuniniin"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jireessaa"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "keessan keessatti"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "isin duraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanawaa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanawaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hittii"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hiwii"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Perizzii"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgaashii"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaashii"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Amoraa"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:58.678186541Z",
+  "model": "glm-5.3"
+}

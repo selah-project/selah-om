@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Sababiin ani jedhe, \"kheesed yeroo hunda ijaarama; samiiwwan keessatti amantaa ati dhaab-dubbeessa.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ijaarama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "dhaab-dubbeessa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amantaa kee"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:49.194228445Z",
+  "model": "glm-5.3"
+}

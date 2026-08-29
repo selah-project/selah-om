@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Garuu gammachi hin qabaatu — Kajiniifi kan binni isaa dhiyeessaa isaa irratti hin ilaallee. Kajinis hedduu gaddesse, fuulli isaa immoo kufe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "garuu … irratti"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "… irratti"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "dhiyeessaa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "ilaallee"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "gaddesse (ibiinsa onnee)"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hedduu"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulli isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:37.316463939Z",
+  "model": "glm-5.3"
+}

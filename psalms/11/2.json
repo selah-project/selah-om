@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Kuuni, rakkisoonni carraa riqaniiru; faganaa isaanii hirriba irratti qopheessaniiru, dukkana keessatti qajeeloota onnee lagachuuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuuni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kuuni"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "rakkisoonni"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "riqaniiru"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "carraa"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "qopheessaniiru"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "faganaa isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "hirriba"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "lagachuuf"
+    },
+    {
+      "surface": "במו",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "dukkana"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "qajeeloota"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:23.805480171Z",
+  "model": "glm-5.3"
+}

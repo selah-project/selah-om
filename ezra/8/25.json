@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Isaanif safara ⟨את⟩ qoree fi ⟨את⟩ warqee fi ⟨את⟩ meeshaaleewwan — kaffaltii mana Eloohiim keenyaa kan mootichi fi gargaartonni isaa fi mootummoonni isaa fi Israa'el hundi argaman ol-kaafaman.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "isaanif safara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoree"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qoree"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warqee"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaaleewwan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "meeshaaleewwan"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "ol-kaafaman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "gargaartonni isaa"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "mootummoonni isaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "argaman"
+    }
+  ],
+  "timestamp": "2026-08-29T13:18:29.070489306Z",
+  "model": "glm-5.3"
+}

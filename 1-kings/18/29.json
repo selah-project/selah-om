@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yeroo ganamni darbe, isaan xinanneeffatan yeroo kaffalaa galgalaa ol-kennamu ga'uutti; sagalee hin jiru, deebii hin jiru, simannaa hin jiru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "darbuudhaan"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "ganamni"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "xinanneeffatan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gatii"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ol-kennamu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kaffalaa galgalaa"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "simannaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:34.495834539Z",
+  "model": "glm-5.3"
+}

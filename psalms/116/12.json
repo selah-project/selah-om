@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Maal Yahwef deebisa, gaaffiin Isa hundi ani irratti naa eeggachiiseef?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "gaaffiin Isa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ani irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.489714527Z",
+  "model": "glm-5.3"
+}

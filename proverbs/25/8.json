@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Wal-nyaaphaaf jaalala hin baatin, yoo dhuma isaa maal gootu hin beekneef, yeroo michiun kee ⟨את⟩ si aarsu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baatin"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "wal-nyaaphaaf"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoo ... hin beekneef"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gootu"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "dhuma isaa"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "aarsu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si (michiun kee)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "michiun kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:51.330468697Z",
+  "model": "glm-5.3"
+}

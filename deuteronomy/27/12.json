@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Kunniin ⟨את⟩ ummata eebbisuuf gaarera Geriziim irraa-alaa ta'aniin, yeroo ⟨את⟩ Yordaanitin-darbataniif: Shiimon, Liiwii, Yihuda, Yisaskar, Yoosif, fi Binyamii.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunniin"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ta'aniin"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "eebbisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa-alaa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarera"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Geriziim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "yeroo... darbataniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordaanitin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordaanitin"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shiimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "Liiwii"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yihuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "Yisaskar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yoosif"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:46.029373760Z",
+  "model": "glm-5.3"
+}

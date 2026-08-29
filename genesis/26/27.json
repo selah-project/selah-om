@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yitsxaakis isaanitti jedhe: \"Maalaf natti dhuftan? Isin ⟨את⟩ na jibbitan, ana ⟨את⟩ isin irraa ergattanii—malaa?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maalaf"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "dhuftan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "Isin"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "jibbitan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ani (Yitsxaak)"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "ergattanii"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ isin irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:32.271380099Z",
+  "model": "glm-5.3"
+}

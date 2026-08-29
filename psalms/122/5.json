@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Sababiif achitti moggaasota murtii taa'an, moggaasota mana Daawid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiif"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "moggaasota"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "moggaasota"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:10.229558652Z",
+  "model": "glm-5.3"
+}

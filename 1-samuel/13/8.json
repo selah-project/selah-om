@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Guyyoota torba yeroo murtaa'e Sheemu'el [beeksise] eeggiye, Sheemu'el garuu Gilgaal hin dhufine; ummachi isa irraa faca'e.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "eeggiye"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "yeroo murtaa'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sheemu'el [beeksise]"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufine"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sheemu'el"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "faca'e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummachi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "isa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:43.295320983Z",
+  "model": "glm-5.3"
+}

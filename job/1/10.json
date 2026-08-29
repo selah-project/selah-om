@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sila Ati isa, akkasumas mana isaa, akkasumas waan isaa hundumaatuutti maraalee? Hojii harka isaa eebbissiteetti, gatiin isaa lafa irratti babal'ateera.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sila miti"
+    },
+    {
+      "surface": "את",
+      "gloss": "Ati",
+      "marks": "marsiteetti"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "maraalee"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "maraa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "eebbissiteetti"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "gatiin isaa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "babal'ateera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:52.455259061Z",
+  "model": "glm-5.3"
+}

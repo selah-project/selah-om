@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "akkasumas ⟨את⟩ mallattoolee Isaa fi ⟨את⟩ hojii Isaa, waan Isaan gidduu Mitsraayim keessaa Fir'oon mootii Mitsraayimiifi biyya isaatiif hunda godhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akkasumas ⟨את⟩",
+      "marks": "mallattoolee Isaa"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "mallattoolee Isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "hojii Isaa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hojii Isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Fir'ooniif"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "akkasumas hunda"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:30.596664457Z",
+  "model": "glm-5.3"
+}

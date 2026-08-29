@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Akka san mitii kolleessa koowa Moshee; mana koowa keessatti hunda irratti amanamaa ⟨is⟩ inni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka san"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kolleessa koowa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mana koowa keessatti"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "amanamaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T14:29:53.401986993Z",
+  "model": "glm-5.3"
+}

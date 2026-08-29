@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 108,
+  "translation": "Ka'i, nebeliifi kinnor; ani shafana ni kaasa.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebelii"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ani ni kaasa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "shafana"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:57.704313584Z",
+  "model": "glm-5.3"
+}

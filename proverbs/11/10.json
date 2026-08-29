@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Toltuu sirrittootaan magaalanni gammadti; balleeffammaa dogoggorraas hucaa gammachuu ta'a.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "toltuu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sirrittootaan"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "gammadti"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaalanni"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "balleeffammaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggorraas"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "hucaa gammachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:02:17.930205369Z",
+  "model": "glm-5.3"
+}

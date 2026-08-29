@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 138,
+  "translation": "Heekaala qulqullummaa kee cufaatti bobbaadha; kheesed kee fi dhugaa kee irratti maqaa kee ⟨את⟩ galata; maqaa kee hundumaarraa ol jechaan kee maqaa kee guddisiteettaa.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "bobbaadha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cufaatti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heekaala"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qulqullummaa kee"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "galata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa kee"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "dhugaa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaatiif"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "guddisiteettaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaarraa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jechaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:58.800116187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Magaalonni Aroo'eri dhiifaman; hoolotaaf ta'u; sunis ni santuu, waan goruus hin jiru.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "dhiifaman"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Magaalonni"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroo'eri"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "hoolotaaf"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "ni santuu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "waan goruus"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:13.349921648Z",
+  "model": "glm-5.3"
+}

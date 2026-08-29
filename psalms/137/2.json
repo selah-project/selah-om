@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 137,
+  "translation": "Baaltuuwwan irraa, ishee keessatti, karraarroo keenya ol danggessine.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "baaltuuwwan"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ishee keessatti"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "danggessine"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "karraarroo keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:31.005664494Z",
+  "model": "glm-5.3"
+}

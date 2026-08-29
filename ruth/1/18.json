@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yeroo Noomii akka isheen of cimsee ⟨את⟩ waliin deemu argitu, isheetti dubbachuu dhaabdetii.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "argitu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "of cimsee"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ waliin",
+      "marks": "Noomii (waliin deemu)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "dhaabdetii"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dubbachuu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:40:51.879673834Z",
+  "model": "glm-5.3"
+}

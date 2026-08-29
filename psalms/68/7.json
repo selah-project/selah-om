@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Eloohiim micciramtota mana keessatti ijiisa, hidhamaawota gammachaadhaan baasa; garuu warra marii didan lafa gogaa keessa jiraatu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "ijiisa"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "micciramtota"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "hidhamaawota"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "gammachaadhaan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "warra marii didan"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "lafa gogaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:07.996703665Z",
+  "model": "glm-5.3"
+}

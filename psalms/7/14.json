@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Innis Isaaf meeshaalee du'aa qopheesse; arreefoonni Isaa warra ibiddaa daldalotaa ni hojjeta.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Innis Isaaf"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "qopheesse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "arreefoonni Isaa"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "warra ibiddaa daldalotaa"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ni hojjeta"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:52.601059527Z",
+  "model": "glm-5.3"
+}

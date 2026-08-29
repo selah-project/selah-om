@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 124,
+  "translation": "Paakun keenya akka simbira raawwatii irraa miliquu baate; raawwatichi caccabe, nutis milquu baanne.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "paakun keenya"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "akka simbira"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "milquu baate"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "raawwatii irraa"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "warra raawwatu"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "raawwatichi"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "caccabe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nutis"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "milquu baanne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:51.374520865Z",
+  "model": "glm-5.3"
+}

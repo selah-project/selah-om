@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Gammee Asher irraas ⟨את⟩ Mishaal fi ⟨את⟩ migraasha ishee, ⟨את⟩ Abdoon fi ⟨את⟩ migraasha ishee.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "gammee irraas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishaal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "migraasha ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraasha ishee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdoon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "migraasha ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraasha ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:51.829753104Z",
+  "model": "glm-5.3"
+}

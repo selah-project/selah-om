@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Mootichi Ashshur Israa'el ⟨את⟩ Ashshuratti baasuun, isaan Halaah fi Haboor irratti, laggi Guzaan fi magaaloota Madayii keessaa haa kenneef.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "baasuun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashshuratti"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "haa kenneef"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halaah irratti"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "Haboor irratti"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "laggi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Guzaan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "magaaloota"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madayii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:46.378884753Z",
+  "model": "glm-5.3"
+}

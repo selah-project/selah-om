@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Garuu ⟨את⟩ warra dahaa, fi ⟨את⟩ warra kumaa, ⟨את⟩ warra bayyoo, ⟨את⟩ warra sibiddaa, ⟨את⟩ warra kal'eessaa, fi ⟨את⟩ warra raartuu",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra dahaa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warra dahaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "warra kumaa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "warra kumaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra bayyoo"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "warra bayyoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra sibiddaa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "warra sibiddaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra kal'eessaa"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "warra kal'eessaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "warra raartuu"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "warra raartuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:09:42.896618986Z",
+  "model": "glm-5.3"
+}

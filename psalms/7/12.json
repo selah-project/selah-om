@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Eloohiim murtii qajeelaadha; Eel guyyaa guyyaatti daaraa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelaadha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "daaraa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guyyaa guyyaatti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:56.706626356Z",
+  "model": "glm-5.3"
+}

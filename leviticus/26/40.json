@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Akkasumas ⟨את⟩ dogoggora isaaniitii fi ⟨את⟩ dogoggora abbootii isaaniitii ni amanu-yaadu, baasnaa isaanii kan An irratti baasan keessatti; akkasumas kan An wajjin qabsoof deeman.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Akkasumas ... ni amanu-yaadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dogoggora isaaniitii"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dogoggora isaaniitii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dogoggora abbootii isaaniitii"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abbootii isaaniitii"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "baasnaa isaanii ... keessatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "baasan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "An irratti"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "An wajjin"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "qabsoof"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:32.160546955Z",
+  "model": "glm-5.3"
+}

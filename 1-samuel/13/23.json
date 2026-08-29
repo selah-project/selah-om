@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Faanni waraanaa Filistiiwwanii ceensa Micmaas ba'ee baate.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'ee baate"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "faanni waraanaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiwwanii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ceensa"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Micmaas"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:30.191787547Z",
+  "model": "glm-5.3"
+}

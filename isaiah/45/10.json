@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Hoyi! Kan abbaatti 'Maaltu horreessaa?' jedhu, kan dubartiitti 'Maaltu dhibdeessaa?' jedhu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoyi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "abbaatti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "horreessaa"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "dubartiitti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "dhibdeessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:31.758378330Z",
+  "model": "glm-5.3"
+}

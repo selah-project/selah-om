@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Kan hirkatan ni arganiitii ni gammaddu; kan Eloohiim barbaadan, onneen keessan ni jiraattu.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ni argani"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kan hirkatan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ni gammaddu"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "kan barbaadan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ni jiraattu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onneen keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:57.971353197Z",
+  "model": "glm-5.3"
+}

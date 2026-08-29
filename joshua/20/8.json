@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Bantiin Yardanii, Yeriiqoo bahaatti, Betser ⟨את⟩ bonaa diriira keessatti gosa Re'uubeen irraa, Raamoot ⟨את⟩ Gile'aditti gosa Gaad irraa, fi Golaan ⟨את⟩ Baashaanitti gosa Manasse irraa kennaniiru.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "bantiin"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yardanii"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriiqoo"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "bahaatti"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kennaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bonaa"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "diriira"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uubeen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamoot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamoot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gile'aditti"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Golaan"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "Golaan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Baashaanitti"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    }
+  ],
+  "timestamp": "2026-08-29T06:57:33.981219343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kan eega sochoosu, isaaniin miidhama; kan mukka cabsu, isaaniin balaatti seera.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "kan sochoosu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "eega"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "miidhama"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "kan cabsu"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mukka"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "balaatti seera"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaaniin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:18.705873684Z",
+  "model": "glm-5.3"
+}

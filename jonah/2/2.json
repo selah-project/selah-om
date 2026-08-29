@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yoonanis gara Yahwe, Eloohiim isaaitti, andaara gaalaa irraa kadhe.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "kadhe"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara ... tti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohiim isaa"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "andaara ... irraa"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "gaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:35.929891538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Murtii godhaa dadachaafi injifataa; gaddaa fi hiyyeessaa mirga qabiyyaa godhaa.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "murtii godhaa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dadachaa"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "injifataa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "gaddaa"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "hiyyeessaa"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "mirga qabiyyaa godhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:07.374473715Z",
+  "model": "glm-5.3"
+}

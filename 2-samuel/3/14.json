@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Daawidis ergamtoota ergaawe Ishee-Boshet ilma Sha'ul bira jedhi: «⟨את⟩ haadha manaa kiyya, ⟨את⟩ Michaal, natti kennaa — kan ani ofiif heerumsifadhe, dhibba gogaa murtaa Filistiitaa irratti.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergaawe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ergamtoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ishee-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haadha manaa kiyya"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "haadha manaa kiyya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michaal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Michaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "heerumsifadhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "gogaa murtaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiitaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:45:24.722656731Z",
+  "model": "glm-5.3"
+}

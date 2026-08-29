@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Yoo ija kiyyaaf bofoo, seerbee kiyyaaf hir'ina hin kennu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "hin kennu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "bofoo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ija kiyyaaf"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "seerbee kiyyaaf"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "hir'ina"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:33.740049974Z",
+  "model": "glm-5.3"
+}

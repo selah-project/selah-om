@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Sabni boonaa didda, mootummaanni haa raawwatuu; inni sagalee isaa dabarsa, lafti baqqaqfamtee hafu.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "boonaa didda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "haa raawwatuu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummaanni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dabarsa"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sagalee isaa"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "baqqaqfamtee hafu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:58.237751206Z",
+  "model": "glm-5.3"
+}

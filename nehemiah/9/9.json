@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Dhiphina abbootii keenyaa kan Mitsraayim keessatti jiru argite; fi ⟨את⟩ dheebuu isaaniis dhageette, Galaana Suuf irratti.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "argite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiphina abbootii keenyaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhiphina"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abbootii keenyaa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dheebuu isaaniis"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "dheebuu isaaniis"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dhageette"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Galaana"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:25:17.322089662Z",
+  "model": "glm-5.3"
+}

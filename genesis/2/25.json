@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Isaan lamaanuu haa'anii turan — adaamichi fi hiikkaan isaa — hiikkanuu hin'ebbanne.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "turani"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "isaan lamaanuu"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "haa'anii"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adaamichi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "fi hiikkaan isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "'ebbanne"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:15.554432402Z",
+  "model": "glm-5.3"
+}

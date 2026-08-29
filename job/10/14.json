@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yoo ani dogoggore, natti eegatta; dogoggorra koo irraanis natti hin qulqulleessitu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ani dogoggore"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "natti eegatta"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "dogoggorra koo irraanis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "natti qulqulleessitu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:27.512833415Z",
+  "model": "glm-5.3"
+}

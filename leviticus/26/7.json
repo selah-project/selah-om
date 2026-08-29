@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Cibbitan ⟨את⟩ ajeessan keessan, saalii keessaniifinis qajeelfamaatiin kufu.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "cibbitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajee keessan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ajeessan keessan"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "kufu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saalii keessaniifinis"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qajeelfamaatiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:31.059091031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Hin ta'u keenyaaf, yaa Yahwe, hin ta'u keenyaaf, garuu maqaa keetiif kabaja kenni, kheesed-kee irratti, dhugaa-kee irratti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin ta'u"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keenyaaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin ta'u"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keenyaaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "maqaa keetiif"
+    },
+    {
+      "surface": "תן",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "dhugaa-kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:50.629942799Z",
+  "model": "glm-5.3"
+}

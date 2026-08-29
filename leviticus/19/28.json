@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Du'aa irratti dhukkuba mormaa keessanitti hin baafattina, maxxansaa falmee qarqara keessanii irratti hin godhina; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "dhukkuba baafachuu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "du'aa irratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "hin baafattina"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "mormaa keessanitti"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "maxxansaa barree"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "falmee qarqara irratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "hin godhina"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "keessanii irratti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:33.671111060Z",
+  "model": "glm-5.3"
+}

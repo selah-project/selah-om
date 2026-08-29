@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Kan richi ishee hammilchaan guutame, jiraattoonni ishee soba dubbatan, arrabaan ishees mormii afaan ishee keessatti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "richi ishee"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "guutame"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hammilchaan"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "akkasumas jiraattoonni ishee"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "soba"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "akkasumas arrabaan ishee"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mormii"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "afaan ishee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:57:09.951580293Z",
+  "model": "glm-5.3"
+}

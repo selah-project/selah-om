@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yeroo san Yihoshuwa galmeera Yahweh, Eloohiim Israa'el tiif, gaarrr Ebal irratti haadhe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo san"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "haadhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshuwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "galmeera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh tiif"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarrr irratti"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    }
+  ],
+  "timestamp": "2026-08-29T06:48:20.998749201Z",
+  "model": "glm-5.3"
+}

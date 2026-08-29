@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ilmoo keessan, dubartii keessan, fi keerara keessan kan kampa keessan keessa jiru — kan mukaa keessan harkisaa irraa, kan bishaan keessan baafuutti.",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "Ilmoo keessan"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "dubartii keessan"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "fi keerara kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "kampa kee"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "kan mukaa harkisaa irraa"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "mukaa kee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...tti"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "kan bishaan baafuu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "bishaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:34:44.936853084Z",
+  "model": "glm-5.3"
+}

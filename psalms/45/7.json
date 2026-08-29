@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Teessoo-mootummaa kee, yaa Eloohiim, yeroo dheeraa fi yeroo hunda; qaccee qajeelaa qaccee mootummaa kee ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "teessoo-mootummaa kee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo dheeraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi yeroo hunda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qaccee"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qaccee"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "mootummaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:30.463593667Z",
+  "model": "glm-5.3"
+}

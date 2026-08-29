@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Isaan gammachuudhaan fi boojiinsaadhaan geeffamu; mana mootichaatti seenan.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "isaan geeffamu"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "gammachuudhaan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "fi boojiinsaadhaan"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "seenan"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mana ... keessaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.090511715Z",
+  "model": "glm-5.3"
+}

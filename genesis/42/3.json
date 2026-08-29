@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Obboloota Yoos'ephiitiin kudhan, xaafaa Mitsraayim irraa bituuf, gadi bu'an.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "gadi bu'an"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "obboloota"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoos'ephii"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "bituuf"
+    },
+    {
+      "surface": "בר",
+      "gloss": "xaafaa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:54.662919596Z",
+  "model": "glm-5.3"
+}

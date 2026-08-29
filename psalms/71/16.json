@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Gibira gebgeberaa Adoonaay Yahwe-tiin nan dhufa; miidhagina kee san qofa nan yaadadcheessa.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "nan dhufa"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "gibira gebgeberaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "nan yaadadcheessa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "miidhagina kee"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kee san qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:39.441570188Z",
+  "model": "glm-5.3"
+}

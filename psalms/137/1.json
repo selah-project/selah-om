@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 137,
+  "translation": "Labbuuwwan Baabell irratti achitti turre; bakakkachuu mul'achuu jennuudha, Siyoona yaaddachuu keenya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "labbuuwwan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabell"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "turre"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mul'achuu"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "bakakkachuu"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "yaaddachuu keenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyoona"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoona"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:31.005450065Z",
+  "model": "glm-5.3"
+}

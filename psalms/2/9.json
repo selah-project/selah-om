@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Bofoo sibiulaan isaan to'attaa; akka meeshaa fidoon fidoonaa caccabsaa.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "isaan to'attaa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bofoo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sibiulaan"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "akka meeshaa"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "fidoon"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "caccabsaa isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:29.268135834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Jecha isa Isaayaahu, ilma Amoos, waa'ee Yahuudaa fi Yerushaalayim ilaale.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Jecha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Isaayaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoos"
+    },
+    {
+      "surface": "על",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "fi Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T08:44:23.401745037Z",
+  "model": "glm-5.3"
+}

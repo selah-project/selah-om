@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "⟨Isaa⟩ ⟨את⟩ hirriba baltii Mishikaani irratti kaa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirriba baltii"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "hirriba"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "baltii"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishikaani"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:14.798511238Z",
+  "model": "glm-5.3"
+}

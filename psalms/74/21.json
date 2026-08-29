@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Kan cunqoonfame hin curu'; hiikaa fi hiikka-dhala maqaa kee haa faarfatan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "curu'"
+    },
+    {
+      "surface": "דך",
+      "gloss": "kan cunqoonfame"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "hiikaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hiikka-dhala"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "haa faarfatan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:30.362469287Z",
+  "model": "glm-5.3"
+}

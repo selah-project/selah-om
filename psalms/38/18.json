@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Dhugumaa ani daddacha'uuf qopheesseeree, dhiphinni koo yeroo hunda fuuldura koo jira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dhugumaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "daddacha'uuf"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "qopheesseeree"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "dhiphinni koo"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fuuldura koo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:44.549501350Z",
+  "model": "glm-5.3"
+}

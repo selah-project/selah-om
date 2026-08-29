@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Eenyu naaf ⟨itu⟩ samii keessatti? Si wajjin ta'ee, lafa irratti waan biraa hin feene.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "si wajjin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "feene"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:49.750761533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe, natti mararfadhu, sababniis ani dhibee'aa dha; Yahwe, na fayyisi, sababniis lafee kiyya addaan bhe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "natti mararfadhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababniis"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "dhibee'aa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "na fayyisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababniis"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "addaan bhe"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "lafewwan kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:25.796946059Z",
+  "model": "glm-5.3"
+}

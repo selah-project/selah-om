@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Warra dhiigdaa waan dhuganiirratti hin ta'in; warra soorata lafaa irrattis hin ta'in.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ta'in"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "warra dhiigdaa waan dhuganiirratti"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waan dhuganii"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "warra soorata lafaa irratti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "(isaani)"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:16.009932710Z",
+  "model": "glm-5.3"
+}

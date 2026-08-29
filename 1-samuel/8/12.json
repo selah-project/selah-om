@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Fi ofiif ni dha'ata abbootii kumaa fi abbootii shan-dhibaa; qonna isaa ni qonna, urjii isaa ni urgeessa, meeshaalee waraana isaa fi meeshaalee gaarii-maree isaa ni hojjeta.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "fi ni dha'ata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kumaa"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "fi abbootii"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "shan-dhibaa"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "ni qonna"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "qonna isaa"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "ni urgeessa"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "urjii isaa"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ni hojjeta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "waraana isaa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "fi meeshaalee"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "gaarii-maree isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:43:27.244321945Z",
+  "model": "glm-5.3"
+}

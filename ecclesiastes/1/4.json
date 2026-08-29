@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Durdurii deema, durdurii dhufa; lafti immoo yeroo hunda dhaabbataadha.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Durdurii"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "durdurii"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lafti immoo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dhaabbataadha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:55.850674508Z",
+  "model": "glm-5.3"
+}

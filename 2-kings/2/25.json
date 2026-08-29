@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Achii ishee irraa gara gaarri Karmeliitti deeme, achii ishee irraas gara Shomeroonitti deebi'e.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achii ishee irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarri"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmeliitti"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "achii ishee irraas"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deebi'e"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "gara Shomeroonitti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:24.463999854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaanis ⟨את⟩ malaaqicha Yahwe hadaasota gidduutti dhaabbate deebisanii jedhan, “Dachee daangeffannee; kanaan, dacheen hundi teessaa ⟨is⟩ nagaa.”",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaaqicha"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaaqicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduutti"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "hadaasota"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "daangeffannee"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "Dachee"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dacheen"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "teessaa"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:00:22.280736044Z",
+  "model": "glm-5.3"
+}

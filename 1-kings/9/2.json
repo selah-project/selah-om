@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe Shelomoo irratti lammaffaa kanatti mul'ate, akka Giv'onitti isa irratti mul'ate.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mul'ate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "gammaffaa kanatti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "mul'ate"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Giv'on"
+    }
+  ],
+  "timestamp": "2026-08-29T08:10:42.323849492Z",
+  "model": "glm-5.3"
+}

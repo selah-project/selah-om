@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Mardokaayiin isaaf ⟨את⟩ waan isatti mudane hunda fi ⟨את⟩ baasi warqee isa Haamaan jedhe mootichaa qabeenyaatti baasuuf Yihuudotaaf isaan balleessuuf himatee.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "himatee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardokaayiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan isatti mudane hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "isatti mudane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baasi warqee"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "baasi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "baasuuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "qabeenya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "Yihuudotaaf"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "isaan balleessuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:17.586728267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Si waamani, baraaddani; sii amanan, hin saajjabbane.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "si"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "waamani"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "baraaddani"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "amanan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "saajjabbane"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:24.518814379Z",
+  "model": "glm-5.3"
+}

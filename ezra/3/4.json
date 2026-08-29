@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "⟨את⟩ ayyaana Suukkotii akka barreeffame waamamedaan waamaman, badhii ol-badhii guyyaa guyyatti lakkoofsaan, akka seeraa, waan guyyaa guyyaa guyyaa isaa keessatti.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waamamedaan waamaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayyaana Suukkotii"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ayyaana"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Suukkotii"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "akka barreeffame"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "badhii ol-badhii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyatti"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "lakkoofsaan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akka seeraa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "guyyaa isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:53.709293582Z",
+  "model": "glm-5.3"
+}

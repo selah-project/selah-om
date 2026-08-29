@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe akka qajeelummaa Isaa galata galcha, maqaa Yahwe Ol-aanaa immoo ni simaadha.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "galata galcha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "akkuma qajeelummaa Isaa"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "immoo ni simaadha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ol-aanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:41.887992524Z",
+  "model": "glm-5.3"
+}

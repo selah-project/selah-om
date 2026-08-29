@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Qooda akka qooda ni nyaatu — waan isaa gurgurame abbaawwan irratti malee.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "akka qooda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ni nyaatu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "malee"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "waan isaa gurgurame"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "abbaawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:26:43.696282905Z",
+  "model": "glm-5.3"
+}

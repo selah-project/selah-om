@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Kan hojii Yahwe hafuraa hojjate abdi; kan mookaa isaas dhiiga hin dhorku abdi.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hafuraa"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "dhorku"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mookaa isaa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiiga"
+    }
+  ],
+  "timestamp": "2026-08-29T09:53:35.037312255Z",
+  "model": "glm-5.3"
+}

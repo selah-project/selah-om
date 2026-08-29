@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Hojjeta badhaasni keessan bishaan walitti darbu, bishaan walitti darbuunsinis immoo maaledaa; micceera keessan hanga guutuu nyaadhaa, lafa keessan irrattis ichisaan jiraatta.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "walitti darbu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessan"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "hojjeta badhaasni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan (wal-qabama uumamaa)"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "bishaan walitti darbu"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "bishaan walitti darbuunsinis"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maaledaa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "maaledaa"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "nyaadhaa"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "micceera keessan"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hangas guutuu"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jiraatta"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ichisaan"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "lafa keessan irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:31.058252179Z",
+  "model": "glm-5.3"
+}

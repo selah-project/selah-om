@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Maahalaleel ⟨את⟩ Yeered dhalattoo isaa booda waggaa soddomii fi saddeet dhibba jiraate; ilmaan fi intalan dhalate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Maahalaleel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dhalattoo isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeered"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "soddomii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "fi saddeet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi intalan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:51.354984616Z",
+  "model": "glm-5.3"
+}

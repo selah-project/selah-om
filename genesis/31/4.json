@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Ya'aqoobis ergaa ergatee Raachiil fi Lee'iis gara marga hoola isaatti waame.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergaa ergatee"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoobis"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raachiil"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "fi Lee'iis"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gara marga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "hoola isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:28.394593593Z",
+  "model": "glm-5.3"
+}

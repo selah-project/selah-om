@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yoo [ani] hin amane turre, ⟨is⟩ ani kufe turre — tola Yahwe lafa jireenyaa keessatti argachuuf [kana amane].",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "yoo...hin"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "hin amane turre"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "argachuuf"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:36.381747024Z",
+  "model": "glm-5.3"
+}

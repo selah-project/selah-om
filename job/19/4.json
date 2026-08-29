@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Akkasumas dhugumaa, yoon dogoggore, ⟨את⟩ dogoggora kiyya kiyya bira hafu.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "dhugumaa"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "dogoggore"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "dogoggora kiyya bira (kiyya bira)"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "dogoggora kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T12:23:22.205492540Z",
+  "model": "glm-5.3"
+}

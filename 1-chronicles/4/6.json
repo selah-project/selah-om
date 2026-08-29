@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Naara'aa isaaf ⟨את⟩ Akhuzzaamii fi ⟨את⟩ Kheeperii fi ⟨את⟩ Teemiinii fi ⟨את⟩ Ha'ashhtaariitiin dhalchite; isaan kun ilmaan Naara'aa ti.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dhalchite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara'aa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhuzzaamii"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhuzzaamii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kheeperii"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Kheeperii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Teemiinii"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Teemiinii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ha'ashhtaariitiin"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ha'ashhtaariitiin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "isaan kun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:30:58.835276870Z",
+  "model": "glm-5.3"
+}

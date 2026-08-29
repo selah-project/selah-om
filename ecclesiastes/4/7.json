@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ani deebi'ee hebel tokko jalqaba aduu arge.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "arge"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:40.338045347Z",
+  "model": "glm-5.3"
+}

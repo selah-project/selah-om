@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hoolaa isaanii fi loon isaanii waliin Yahwe barbaachuuf nan deemu, garuu hin argatu; inni isaaniis irraa of-dhiisee jira.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "Hoolaa isaanii"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "fi loon isaanii"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nan deemu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "barbaachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "argatu"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "of-dhiisee jira"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaaniis irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:48.918746157Z",
+  "model": "glm-5.3"
+}

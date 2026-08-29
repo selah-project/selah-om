@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis ⟨את⟩ raqaa samii keessatti kenne, lafatti akka ifaasisaniif.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ifaawwan (isaan)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimis"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "raqaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ifaasisaniif"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:28.213444810Z",
+  "model": "glm-5.3"
+}

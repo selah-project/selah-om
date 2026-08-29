@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Atis ⟨את⟩ joorsuu kee ol kaasi, ⟨את⟩ harka kee galaana irratti hiiki, ni adda baasi; ilmaan Israa'elis galaana keessa lafa gogaa irratti seenan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ol kaasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joorsuu kee"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "joorsuu kee"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "hiiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka kee"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaana"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ni adda baasi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "seenan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elis"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaana"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "lafa gogaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:51.610790458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 22:25",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Miikaayehuun jedhe: Faano, guyyaa sana argitta, yeroo gara kuta keessaa kutatti seetu dhokfattuuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Miikaayehuun"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Faano"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "argitta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "seetu"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "kutatti"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "kuta keessaa"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "dhokfattuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:42.650965972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Kan jedhan: 'Eloohiim dhiisee jira' jedhuun; 'Kan bira hin qabu fageenyaan haa seenu' jedhu, kan akka isa bilisoomsan ala hin jiru sababa isaaniif.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dhiisee jira"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "hordofaa"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "qabaa isaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kan bilisoomsu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:24.834211539Z",
+  "model": "glm-5.3"
+}

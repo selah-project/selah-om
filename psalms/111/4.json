@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Yaadannoo geejjibaa waan inni ajaa'ibsiiseef hojjateera; Rahmata godhataa fi rakkoo-dandhataa dha Yahwe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjateera"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "waan inni ajaa'ibsiiseef"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Rahmata godhataa"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "fi rakkoo-dandhataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.993284554Z",
+  "model": "glm-5.3"
+}

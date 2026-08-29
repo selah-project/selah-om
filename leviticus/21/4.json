@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Umatta isaa keessatti abbaa warraa ta'uudhaan of hin nanneffatu, of hin makkoofsuuf.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nanneffatu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "abbaa warraa ta'uudhaan"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "umatta isaa keessatti"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "of hin makkoofsuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:01.470061993Z",
+  "model": "glm-5.3"
+}

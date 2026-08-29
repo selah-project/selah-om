@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Harree dhaltuuwwan Qish, abbaa Sha'ul, badaa turan. Qishinis ilmaa isaa Sha'uliin jedhe: \"To'atoo tokko ⟨את⟩ si wajjin qabadhu, ka'i, deemi, ⟨את⟩ harree dhaltuuwwan barbaadi.\"",
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "badaa turan"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "harree dhaltuuwwan"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "Qish"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Qishinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uliin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaa isaa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "qabadhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "To'atoo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si wajjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to'atoo tokko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "to'atootaa irraa"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "barbaadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harree dhaltuuwwan"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "harree dhaltuuwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:20:21.616157966Z",
+  "model": "glm-5.3"
+}

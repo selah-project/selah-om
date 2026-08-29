@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Anis isin jedhe: \"Hin ragaddinaa, isaan irrattis hin sodaadinaa.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "aniis jedhe"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ragaddinaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "israa hin"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "sodaadinaa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:34.224474181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "sanduuqa Eloohiim keenya ⟨את⟩ nu bira akka deebisnuuf — sababa isaatti, guyyoota Shaawuul keessatti him barbaadinne.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "deebisnuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nu bira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa isaatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "barbaadinne"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaawuul"
+    }
+  ],
+  "timestamp": "2026-08-29T13:38:20.879755427Z",
+  "model": "glm-5.3"
+}

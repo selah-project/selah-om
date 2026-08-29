@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Hanga yeroo kami, laalessaa, ni fagaddoo? Yeroo kami hirriba kee irraa ni kaataa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yeroo kami"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "laalessaa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ni fagaddoo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yeroo kami"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ni kaataa"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "hirriba kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:18.351676929Z",
+  "model": "glm-5.3"
+}

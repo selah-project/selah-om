@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ammas immoo ati \"Achi, gara gooftaa keetti achi, \"Kunoo Eliyyaay jira'aa\" jedhi\" jetta; [innis] na ajjeesa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ammas immoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jetta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "achi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "gooftaa keetti achi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyyaay"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "na ajjeesa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:32.973949780Z",
+  "model": "glm-5.3"
+}

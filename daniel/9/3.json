@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Ani fuula koos ⟨את⟩ gara Adoonaay, Eloohiimichaatti jengessee, kabaja waan tae'e waadaa waan tae'e Eebba fi kadhannaa barbaaduuf — hiikkaa irraa, gogaan rukuttaa fuulduraa, ashulaan.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ani fuula koos ... jengessee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula koos"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula koos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara ...tti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimicha"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "barbaaduuf"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kabaja waan tae'e waadaa waan tae'e Eebba"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "fi kadhannaa"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "hiikkaa irraa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "gogaan rukuttaa fuulduraa"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ashulaan"
+    }
+  ],
+  "timestamp": "2026-08-29T16:00:39.066702235Z",
+  "model": "glm-5.3"
+}

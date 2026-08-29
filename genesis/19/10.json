@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Namoonni harka isaanii baafatanii ⟨את⟩ harka isaanii ergaan, ⟨את⟩ Loot isaanitti manaatti galchanii, ⟨את⟩ balbalas cufan.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ergaan (baafatanii)"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaanii"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "galchanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "manaatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balbala"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "cufan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:33.502049598Z",
+  "model": "glm-5.3"
+}

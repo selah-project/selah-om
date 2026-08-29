@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Isaaniif akka Midiyaan godhi; akka Siiseraa fi akka Yaabiin, lagaa Kiishoon keessatti.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "Isaaniif"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "akka Midiyaan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "akka Siiseraa"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "akka Yaabiin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "lagaa"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kiishoon"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:31.146371415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Qurba jalqabaa ta'eeniif isin ⟨את⟩ Isaan Yahwef dhiyeessitu; garuu altarii irratti waanfoo jaallatamaaf hin ol-olina.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "qurba"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jalqabaa"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "dhiyeessitu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Isaan (qurba jalqabaa)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "irraatti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ol-olina"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "waanfoo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "jaallatamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:19.157650532Z",
+  "model": "glm-5.3"
+}

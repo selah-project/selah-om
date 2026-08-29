@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Adeemun nama hundi ni sodaatu; hojii Eloohiimii ni himatu; waan inni hojjete sirriitti hubatu.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ni sodaatu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ni himatu"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "waan inni hojjete"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "sirriitti hubatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:18.432501966Z",
+  "model": "glm-5.3"
+}

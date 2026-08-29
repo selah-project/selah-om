@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Kheesed isaa dabalu hin jiraadhu; yaatota isaaf tollaa namni tokkollee hin jiraadhu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "משך",
+      "gloss": "dabalu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "immoo hin"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "tollaa namni"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "yaatota isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:14.908101579Z",
+  "model": "glm-5.3"
+}

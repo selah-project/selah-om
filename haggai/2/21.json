@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Jedhi Zerubbaabel akkaa tollaa Yahuudaa, kunoo jedhu: Ani ⟨את⟩ samiiwwanii fi ⟨את⟩ lafa rukuta.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akkaa"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbaabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "tolaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kunoo jedhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samiiwwanii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:25.417149708Z",
+  "model": "glm-5.3"
+}

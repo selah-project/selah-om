@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Daawinis maal dabalata akka si waliin haasauuf? Atis gabricha kee beeka, ⟨את⟩ Adoonaay Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "dabalata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haasauuf"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si waliin"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabricha kee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabricha kee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:47:30.953369819Z",
+  "model": "glm-5.3"
+}

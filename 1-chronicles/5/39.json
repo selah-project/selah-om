@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Shalloomis ⟨את⟩ Xilqijaah dhalchisiise; Xilqijaahis ⟨את⟩ Azarjaah dhalchisiise.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shalloomis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalchisiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xilqijaah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Xilqijaah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "Xilqijaahis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalchisiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaah"
+    }
+  ],
+  "timestamp": "2026-08-29T13:30:58.527397500Z",
+  "model": "glm-5.3"
+}

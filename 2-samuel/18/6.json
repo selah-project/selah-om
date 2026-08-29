@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ummatchi dirree baatee Israa'elti walitti dhufe, imaltoonnis bosona Efrayim keessatti taate.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "baatee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatchi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "walitti dhufe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "taate"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "imaltoonnis"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "bosona"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T07:53:35.468684494Z",
+  "model": "glm-5.3"
+}

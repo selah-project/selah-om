@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yerushaalayimdiin isa ga'e, achitti guyyaa sadii jiraate.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "isa ga'e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-diin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:37:06.282002568Z",
+  "model": "glm-5.3"
+}

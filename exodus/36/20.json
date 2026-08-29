@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Hojjees ⟨את⟩ baardota Masraakichaaf — mukoota shiittii — dhaabbatan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baardota"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "baardota"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Masraakichaaf"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiittii"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dhaabbatan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:58.949131498Z",
+  "model": "glm-5.3"
+}

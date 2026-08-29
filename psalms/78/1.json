@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Barreeffama gorsaa kan Aasaaf. Garaacha galchaa, ummata kiyya! Seera kiyya dhageessi; gurra keessan gara jechoota afaan kiyyaatti godaari.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Barreeffama gorsaa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kan Aasaaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Garaacha galchaa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata kiyya"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Seera kiyya"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "godaari"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "gurra keessan"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "gara jechoota"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan kiyyaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.415625455Z",
+  "model": "glm-5.3"
+}

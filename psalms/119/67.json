@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Odoo hin adhamin, ani dogoggore; amma garuu jecha kee eegadhe.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Odoo hin"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "adhamin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "dogoggore"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "amma garuu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jecha kee"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "eegadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:56.041203124Z",
+  "model": "glm-5.3"
+}

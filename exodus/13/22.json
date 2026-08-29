@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Utubni duudaa guyyaa guyyaa fi utubni ibiddaa halkan halkan ummata duraa irraa hin hinneefne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "hinneefne"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "utubni"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duudaa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "guyyaa guyyaa"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "utubni"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan halkan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa irraa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:29.397055252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Seera kee keessatti gammadda; jecha kee hin dagadhu.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "seera kee keessatti"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "gammadda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "dagadhu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "jecha kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:00.438683798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Dargaggoo ta'e, akkasumas dullaa ta'e; garuu dhugaan argadhuu miti, kakaawaa dhiifame, ilmoo isaa soorata barbaachaa.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "dargaggoo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "dullaa ta'e"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu miti"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhuu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kakaawaa"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "dhiifame"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "barbaachaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:56.196451890Z",
+  "model": "glm-5.3"
+}

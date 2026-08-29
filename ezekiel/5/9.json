@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sirratti hojjedha waan ani hin hojjedhe, akkasumas ⟨את⟩ waan akka isaatti ani booda hin hojjedhu, sababa jibbansiisota kee hundaatiif.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sirratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan akka isaatti hin hojjedhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan akka isaatti hin hojjedhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "akkuma isaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "booda"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "jibbansiisota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:04:42.766705343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Sababaa: abboon seeraa isaa Tso'aan keessa turan, ergamtoonnis isaa Kheenis geessan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababaa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turan"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tso'aan keessa"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "abboon seeraa isaa"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ergamtoonnis isaa"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Kheenis"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "geessan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:59:35.128764139Z",
+  "model": "glm-5.3"
+}

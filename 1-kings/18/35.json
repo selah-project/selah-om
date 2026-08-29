@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Bishaan naannawa galmii deeme, akkasumas ⟨את⟩ dalgee bishaanin guute.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannawa"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "galmii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalgee"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "dalgee"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:47.030589091Z",
+  "model": "glm-5.3"
+}

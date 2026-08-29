@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 130,
+  "translation": "Sababiin gara keetti araarama ⟨is⟩ jiru, akka at si'iitu kabajamtutti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gara keetti"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "araarama"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka...tti"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "si'iitu kabajamtu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.542479727Z",
+  "model": "glm-5.3"
+}

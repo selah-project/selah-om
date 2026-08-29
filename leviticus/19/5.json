@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yoo saaxummii nagaa Yahweef saaxumtu, akka itti jaallatamuu keessaniif isaa saaxumaa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "saaxumtu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "saaxummaa"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "akka itti jaallatamuu keessaniif"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "isaa saaxumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:35.322146747Z",
+  "model": "glm-5.3"
+}

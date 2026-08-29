@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Kyseen akka dargaa durba fuudhu, akkaatti ilmoon kee si fuudhu; fi akka gammacha aaqqabbii illaallii irratti, akkaatti Eloohiim kee si irratti gammaduu jira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kyseen"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "fuudhu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "dargaa"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "durba"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "si fuudhu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmoon kee"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "fi gammacha"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "aaqqabbii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "illaallii"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "gammaduu jira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:41.881246022Z",
+  "model": "glm-5.3"
+}

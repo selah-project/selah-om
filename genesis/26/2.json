@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yahwe isa mul'atuun jedhe: \"Mitsraayimtii gadii hin bu'i; biyya ani siif himu keessa jiraadhu.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mul'atuun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "gadii bu'i"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraayimtii"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "himu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:46.875583789Z",
+  "model": "glm-5.3"
+}

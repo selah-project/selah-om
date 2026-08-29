@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Jecha sobaa sanaa kan miidhagdamaatu; kimmootu duwwaa fi kabaja hin qabu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "jecha sobaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "miidhagdama"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan sirriu ta'e"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "kimmootu"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "duwwaa ta'a"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "kabaja hin qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:27.621534776Z",
+  "model": "glm-5.3"
+}

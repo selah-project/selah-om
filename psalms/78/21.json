@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Sababa kanaa Yahwe dhugaa jiraachuu isaa, rixa'ee; ibiddi Ya'aqob irratti kabajjameefi, handaara isaa Israa'el irratti ol kaa'ameefi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sababa kanaa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhugaa jiraachuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "rixa'ee"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "kabajjameefi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'aqob irratti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "handaara isaa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol kaa'ameefi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:56.040751123Z",
+  "model": "glm-5.3"
+}

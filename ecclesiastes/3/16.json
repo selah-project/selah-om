@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Akkasumas aduutti armaan gadii arge: iddoo murtii keessatti rakkoo jira, iddoo qajeelummaas rakkoo jira.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "arge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "armaan gadii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduutti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "qajeelummaas"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "rakkoo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:32.943569607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "dalgaa fi warraa waraanaa, abbaa seeraa fi raajii, Xiinxalaa fi dargaggoo.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "dalgaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fi warraa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "abbaa seeraa"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "fi raajii"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "fi Xiinxalaa"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "fi dargaggoo"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:30.339837752Z",
+  "model": "glm-5.3"
+}

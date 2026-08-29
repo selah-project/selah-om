@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Ummatonni ni dhageeffamu, ni riixxamu; malaa dhaddaa jiraattota Pelesheetti ni qabata.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ni dhageeffamu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ummatonni"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "ni riixxamu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "malaa dhaddaa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni qabata"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jiraattota"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheet"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:14.991206234Z",
+  "model": "glm-5.3"
+}

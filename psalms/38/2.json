@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Yahwe, akka itti na gaddisituutti hin na gaddisi; akkasumas akka itti na adabduutti hin na addebii.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "akka itti na gaddisituutti"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "na gaddisi"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "akkasumas akka itti na adabduutti"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "na addebii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:15.153157695Z",
+  "model": "glm-5.3"
+}

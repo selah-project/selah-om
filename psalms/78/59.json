@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Eloohiim ⟨isaa⟩ dhagee aaree, Israa'iel irratti guddaan wal-dhiise.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dhagee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "aaree"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "wal-dhiise"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iel irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:24.077516741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Karaa ogeessummaa si barsiisera; karaawwan qajeelaa keessan si deemsiseera.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogeessummaa"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "si barsiisera"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "si deemsiseera"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "karaawwan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "qajeelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:57.090654538Z",
+  "model": "glm-5.3"
+}

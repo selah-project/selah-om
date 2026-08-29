@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Mila keessan ol irraa hin kaasinaa; numna cimaa irratti hin dubbannaasinaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kaasinaa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ol irraa"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "Mila keessan"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "hin dubbannaasinaa"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "numna irratti"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "cimaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:36.557575611Z",
+  "model": "glm-5.3"
+}

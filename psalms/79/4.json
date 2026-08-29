@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Aarsituu ta'ee jirra noonaa keenyaaf; yaaddoo fi qeeqa keessa-tasgabbii keenyaaf.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "ta'ee jirra"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aarsituu"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "noonaa keenyaaf"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "yaaddoo"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "qeeqa"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "keessa-tasgabbii keenyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:48.283717675Z",
+  "model": "glm-5.3"
+}

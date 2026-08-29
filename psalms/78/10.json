@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Kakkaasa Eloohiim hin eegani, seera Isaa keessatti deemuus didani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eegani"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakkaasa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "seera Isaa keessatti"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "didani"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemuus"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:40.415591214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Warri anaan na na'u guyyaa guutuu hafa na na'u, sababa baay'een anaan tolchanu; malee, Waaqayyo ol-ta'aa dha.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "hafa na na'u"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "warri anaan na na'u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "tolchanu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ol-ta'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:03.415230576Z",
+  "model": "glm-5.3"
+}

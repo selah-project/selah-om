@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahwe Hizqiyaas fi ⟨את⟩ ji'oota Yerushaalayim harka Sanqeriib mooticha Ashurii fi harka hunda irraa bilisoomsee isaan naannoo hunda irraa hoorsee qopheesse.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "bilisoomsee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizqiyaas"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizqiyaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ji'oota Yerushaalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ji'oota"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanqeriib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "hoorsee qopheesse"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "naannoo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T14:08:54.594133792Z",
+  "model": "glm-5.3"
+}

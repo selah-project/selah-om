@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Haphaa waraqqaa lama geengoo lamatti kaa'an, dhuma qorsaa irratti.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kaa'an"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "haphaa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warraqqaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "geengoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "qorsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:57.469640195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Bezeek keessatti isaaniif lakkaa'aniinis, ilmaan Yisra'el kuma dhibba sadii, warra Yahuudaa immoo kuma soddoma ta'an.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "isaaniif lakkaa'aniinis"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezeek keessatti"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "warra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "soddoma"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:18.712019144Z",
+  "model": "glm-5.3"
+}

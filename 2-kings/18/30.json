@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Chizkiyaamus ⟨את⟩ isin Yahwe irratti hin amaninasaa, 'Yahwe baraaruun nu baraara' waan jedhuuf; magaalaa tun ⟨את⟩ harka mooticha Ashuritti hin kennamtuu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hin amaninasaa"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "amaninasaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyaahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "waan jedhuuf"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "baraaruun"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "nu baraara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "kennamtuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa tun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuritti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:37:28.448056035Z",
+  "model": "glm-5.3"
+}

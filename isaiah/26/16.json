@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yahwe, rukuttaa kee keessatti si feetan; yeroo leenjii kee isaanitti dhufu, sagalee xiqqoon xinxinsaa dhangamsiisan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "rukuttaa kee keessatti"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "si feetan"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "dhangamsiisan"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "xinxinsaa sagalee xiqqoon"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "leenjii kee"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:16.365222585Z",
+  "model": "glm-5.3"
+}

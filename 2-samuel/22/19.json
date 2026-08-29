@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 22:19",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Guyyaa rakkina kooatti natti dhufan; Yahwe immoo deggersa kiyya ta'e.",
+  "tokens": [
+    {
+      "surface": "יקדמני",
+      "gloss": "natti dhufan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa...atti"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "rakkina koo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משען",
+      "gloss": "deggersa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T07:59:34.723062949Z",
+  "model": "glm-5.3"
+}

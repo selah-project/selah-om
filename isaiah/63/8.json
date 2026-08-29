@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Ni jedhe: dhugumatti sabni kiyya isaan, ilmaan sicha hin dogoggoran; isaanif Gadhisa ta'e.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabni kiyya"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "sicha dogoggoran"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "Gadhisa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:35.413023596Z",
+  "model": "glm-5.3"
+}

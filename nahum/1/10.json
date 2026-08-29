@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sababa isaan akkuma xinqoo-xiqqaa walitti makamanii fi akka dhugaa isaanii danddamanii, akka alallaa gogaa guutuu ni nyaamamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "xinqoo-xiqqaa"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "walitti makamanii"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "fi akka dhugaa isaanii"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "danddamanii"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ni nyaamamu"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "akka alallaa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guutuu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:55:42.900967378Z",
+  "model": "glm-5.3"
+}

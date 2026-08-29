@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Kiyyaaf ta'i dhagaa manaa, yeroo hunda seenuuf; ajajeetta nan gaddisiisuuf, karaa dhagaa kiyya fi dhaabbata kiyya taate.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ta'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyyaaf"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "seenuuf"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ajajeetta"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "nan gaddisiisuuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dhagaa kiyya"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "fi dhaabbata kiyya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "taate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:20.441591215Z",
+  "model": "glm-5.3"
+}

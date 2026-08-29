@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Qaa'elonniis mana Yahwe seenuu hin danda'an turan, sababun ulfina Yahwe mana Yahwe guutaa ture.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "danda'an turan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qaa'elonniis"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "seenuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "seenuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababun"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guutaa ture"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulfina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T13:52:43.531781757Z",
+  "model": "glm-5.3"
+}

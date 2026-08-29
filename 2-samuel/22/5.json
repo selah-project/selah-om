@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Waanan hir'inaanli {'mishborei'} du'aa na marsanii turan; dhangaggeewwan biliyaali na rakkisanii turan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waanan"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "na marsanii turan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "hir'inaanli"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "dhangaggeewwan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "biliyaali"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "na rakkisanii turan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:55:33.619812172Z",
+  "model": "glm-5.3"
+}

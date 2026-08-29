@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sila ogummaan hin waamuu? Hubannoonis sagalee ishee hin kennuu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sila"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogummaan"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "hin waamuu"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "hubannoonis"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hin kennuu"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sagalee ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:37.692535551Z",
+  "model": "glm-5.3"
+}

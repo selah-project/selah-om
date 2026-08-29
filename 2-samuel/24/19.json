@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Daawid akka jechi Gaad jedhutti ol ba'e, akka Yahwe ajajetti.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jechi ... jedhutti"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T08:00:09.383312138Z",
+  "model": "glm-5.3"
+}

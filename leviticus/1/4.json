@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Harka isaa mataa gulaalaa irratti warraabi; inni fudhamaa ta'ee isaaf ta'uun, isaaf araaraa gochuuf.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "warraabi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gulaalaa"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "fudhamaa ta'uun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "araaraa gochuuf"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:34.382010476Z",
+  "model": "glm-5.3"
+}

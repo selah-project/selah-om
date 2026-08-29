@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Jecha beliyaal irratti akka dhihaatamu jedhu; ammo kan booyyee dabalee hin ka'u.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Jecha"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dhihaatame"
+    },
+    {
+      "surface": "בו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ammo kan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "booyyee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "dabalee"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ka'u"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:23.742861898Z",
+  "model": "glm-5.3"
+}

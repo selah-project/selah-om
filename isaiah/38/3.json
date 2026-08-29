@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Akkas jedhe: “Yaa Yahwe, maaloo yaadadhu waan ⟨את⟩ inni ati ergasii fuuldura kee isaani dhugaa fi onnee guutuudhaan deeme, waan gara ati ilaalcha keeti baay'ee gaggaarii hojjedhe.” Hizqiyyaas sababa boona guddaan booye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Yaa maaloo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yaadadhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan inni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura kee"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "fi onnee"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "guutuudhaan"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "fi gaggaarii"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gara ilaalcha kee"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "booye"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyyaas"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "boona"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:57:51.242357857Z",
+  "model": "glm-5.3"
+}

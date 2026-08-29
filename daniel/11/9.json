@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Mooticha Kibbaa mootummaa isaa se'a, gara lafa isaa deebi'a.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "se'a"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Kibbaa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "lafa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:11:46.223928446Z",
+  "model": "glm-5.3"
+}

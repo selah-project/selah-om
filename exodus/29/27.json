@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Qibna sochiittaa gaaffii fi qibna ol-kaafamaa luqaa ⟨את⟩ qulqulleessi — kan sochoofameefi kan ol-kaafame, hoola guutamaa irraa, kan Aharon tiifi kan ilmaan isaa.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "qulqulleessi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaaffii"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gaaffii"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "qibna sochiittaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "luqaa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "luqaa"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "qibna ol-kaafamaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "sochoofame"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi kan"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "ol-kaafame"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "guutamaa irraa"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kan ... irraa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon ti"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "fi kan irraa"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ilmaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:41.421339494Z",
+  "model": "glm-5.3"
+}

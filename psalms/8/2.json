@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahwe, Adoonaay keenya, maqaan kee akkaataa ulfaatinaan lafa guutuu keessatti! Innis ulfina kee samiiwwan irratti kaayte jira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adoonaay keenya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "akkaataa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu keessatti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "kaayte"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ulfina kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:17.334576036Z",
+  "model": "glm-5.3"
+}

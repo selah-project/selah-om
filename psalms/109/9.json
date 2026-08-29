@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Ilmaan isaa yaatoman akka ta'an, haadha manaa isaa immoo dhibbe akka taate.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "akka ta'an"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yaatoman"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "haadha manaa isaa immoo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dhibbe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:14.907579186Z",
+  "model": "glm-5.3"
+}

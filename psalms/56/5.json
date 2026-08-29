@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Eloohiim keessatti jecha Isaa waanan kabaju; Eloohiim irratti abdadadha; hin sodaadu — namni natti waan godhu maaltu ta'a?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim keessatti"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "waanan kabaju"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jecha Isaa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim irratti"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "abdadadha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sodaadu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "namni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:33.720798898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Akkamitti abaarsa? Eel hin abaarsin! Akkamitti aarsa? Yahwe hin aarsin!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "abaarsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "abaarsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "aarsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "aarsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T06:05:09.187203505Z",
+  "model": "glm-5.3"
+}

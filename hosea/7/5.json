@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Guyyaa mooticha keenyaa abbootiin seeraa ho'a mi'aawaa minderatiitii of dhibaniiru; inni harka isaa ⟨את⟩ laalattootaa wajjin kaase.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mooticha keenyaa"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "of dhibaniiru"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abbootiin seeraa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ho'a"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "mi'aawaa minderatiitii"
+    },
+    {
+      "surface": "משך",
+      "gloss": "kaase"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laalattootaa"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "laalattootaa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:28.600401053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Yeroo soorata ⟨את⟩ waan Mitsraayim irraa fudhatanii xumuran, abboon isaanii isaaniif jedhe, Haadhaa, soorata xiqqoo nuuf bitaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כלו",
+      "gloss": "xumuran"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soorata waan Mitsraayim irraa fudhatanii"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "waan bitaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abboon isaanii"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "haadhaa"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bitaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "soorata"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:18.454405204Z",
+  "model": "glm-5.3"
+}

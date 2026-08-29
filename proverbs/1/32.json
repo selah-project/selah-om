@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sababa dhiyoo deebii wixinee ni ajjeesa, nagaa wallaalaa ni balleessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "dhiyoo deebii"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "wixinee"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ni ajjeesa"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wallaalaa"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "ni balleessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:35.785984847Z",
+  "model": "glm-5.3"
+}

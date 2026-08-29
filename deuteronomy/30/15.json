@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Ilaali — har'a ⟨את⟩ jireenyaa fi ⟨את⟩ toltuu, ⟨את⟩ du'a fi ⟨את⟩ hamtuu si dura nan kaaadhe.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nan kaaadhe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "si dura"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jireenyaa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toltuu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "toltuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "du'a"
+    },
+    {
+      "surface": "המות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamtuu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:34:50.326167989Z",
+  "model": "glm-5.3"
+}

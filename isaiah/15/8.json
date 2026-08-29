@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sababa kanaanis geengoon gurraachni daangaa Mo'aabitiin naannoo'e ⟨את⟩; hanga Eeglaayiim geengoo isheetti, Bii'ar-Eeliimiwis geengoo isheetti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaanis"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "naannoo'e"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "gurraachni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daangaa Mo'aab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eeglaayiim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "geengoo isheetti"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "Bii'ar"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Eeliimiwis"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "geengoo isheetti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:34.367772759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Isaan kumuraa fi warqeedhaan baase; gosa Isaas keessatti kan koshelu tokkollee hin jiru.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "isaan baase"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kumuraa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "fi warqee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "gosa Isaas keessatti"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "kan koshelu tokkollee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:59.616923094Z",
+  "model": "glm-5.3"
+}

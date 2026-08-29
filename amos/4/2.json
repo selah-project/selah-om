@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Adoonaay Yahwe qulqullummaa isaa tiin kakate: dhugaa, gumaa, guyyoonni isin irratti dhufan; fi ⟨את⟩ isin baalleen ciqirsaa tiin baafata, fi boodduun isinittii haangoota houlaa tiin.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "kakate"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "qulqullummaa isaa tiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gumaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoonni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "baafata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin",
+      "marks": "isin"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "baalleen ciqirsaa"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "boodduun isinittii"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "haangoota"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "houlaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:47:29.762828426Z",
+  "model": "glm-5.3"
+}

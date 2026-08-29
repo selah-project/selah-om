@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Abbaan isaas fi haati isaas immoo kan Yahwe irraa taate hin beekne — Innis Filistii irraa carraa barbaadaa ture; yeroo sana Filistiin Israa'iel irratti bulaa turan.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "abbaan isaas immoo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "haati isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan ... taate"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe irraa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "carraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "barbaadaa ture"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "Filistii irraa"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiin"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "bulaa turan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iel irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:08:51.203448809Z",
+  "model": "glm-5.3"
+}

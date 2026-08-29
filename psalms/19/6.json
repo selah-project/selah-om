@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Innis akka diggaa galmee isaa irraa baatu fakkaata; akka inni humna qabu daandii fiiguu jaalatu fakkaata.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "akka diggaa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "galmee isaa irraa"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "jaalatu (kolphicha)"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "akka inni humna qabu"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "fiiguu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "daandii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:03.194418999Z",
+  "model": "glm-5.3"
+}

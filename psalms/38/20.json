@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Diinaan koo jiraachaa cimaa dha; warra na jaallachuu hin jenne aloola malee baay'aniiru.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "diinaan koo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiraachaa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "baay'aniiru"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "warra na jaallachuu hin jenne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "aloola malee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:44.549769695Z",
+  "model": "glm-5.3"
+}

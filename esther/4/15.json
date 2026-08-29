@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Essteris gara Mordeekay deebii akka kaafamu jette.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jette"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esster"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "deebii akka kaafamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeekay"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:22.919014391Z",
+  "model": "glm-5.3"
+}

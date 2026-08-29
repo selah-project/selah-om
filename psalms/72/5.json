@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Sii soddatan aduu wajjin, ji'a duratti — durtii durtota.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "sii soddatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "דור",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "durtota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:05.161317145Z",
+  "model": "glm-5.3"
+}

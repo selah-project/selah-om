@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Fi ⟨את⟩ bookee fuuldura keetti nan erga; Hiivvii ⟨את⟩, Kana'anii ⟨את⟩ fi Hiitii ⟨את⟩ fuula kee irraa baafatta.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nan erga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bookee"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "bookee"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura keetti"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "baafatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiivvii"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiivvii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kana'anii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kana'anii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Hiitii"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiitii"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "fuula kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:03.123979443Z",
+  "model": "glm-5.3"
+}

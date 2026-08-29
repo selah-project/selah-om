@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kheesed kee akka ta'u godhi gabbara kee waliin; seera kee na barsiisi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara kee"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "kheesed kee akka ta'u"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "na barsiisi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:40.028475539Z",
+  "model": "glm-5.3"
+}

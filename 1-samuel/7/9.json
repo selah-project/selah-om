@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 7:9",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Shemu'el ilbiisaa aannan tokko fudhee, guluba gubaa ta'e guutuu isaa Yahwef dhiyeesse; Shemu'el Yisra'el irratti Yahwef riiree, Yahwe isa deebise.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "טלה",
+      "gloss": "ilbiisaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "aannan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "guluba gubaa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "guutuu isaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "riiree"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "isa deebise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:08.478576536Z",
+  "model": "glm-5.3"
+}

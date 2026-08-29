@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eliyaahu deebisee gara abbaa shamarrichaa akkas jedhe: «Yoon namicha Waaqaa ta'uu baadhe, ibiddi samii irraa haa bu'u, si ⟨את⟩ fi shamarran kee ⟨את⟩ haa nyaatu.» Ibbidis samii irraa bu'ee, isa ⟨את⟩ fi shamarran isaa ⟨את⟩ nyaate.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "deebisee jedhe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "שר",
+      "gloss": "abbaa shaanichaa"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "shamarrichaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Yoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Waaqaa (Eloohiim)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta'uu baadhe"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "haa bu'u"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "haa nyaatu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si (at)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shamarran kee"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "shamarran kee"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "bu'ee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "nyaate"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (isa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shamarran isaa"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "shamarran isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:52:33.125576059Z",
+  "model": "glm-5.3"
+}

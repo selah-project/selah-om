@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Baarakis isheen jedhe: \"Yoo ati natti deemu, ani nan deema; yoo ati natti hin deemin, ani hin deemadu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isheen jedhe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baarakis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "nan deema"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin deemin"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deemadu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:38:44.598948744Z",
+  "model": "glm-5.3"
+}

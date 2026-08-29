@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "\"Ala-ootni isaanii lubbusan; fageenyi isaanii lubbusa — kan sibiilaa. Waawwitni ala-oota fi hoormaanni isaanii kan warqee.\"",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "ala-ootni isaanii"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "lubbusan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "fageenyi isaanii"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "lubbusa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kan sibiilaa"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "waawwitni"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ala-oota"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "hoormaanni isaanii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kan warqee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:36.361834719Z",
+  "model": "glm-5.3"
+}

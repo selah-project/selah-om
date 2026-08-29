@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Hojjetoota akkaawaa irraa na baas; namoota dhiigaa irraas na godaas.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "na baas"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "hojjetoota irraa"
+    },
+    {
+      "surface": "און",
+      "gloss": "akkaawaa"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "namoota irraas"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "na godaas"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:52.670241856Z",
+  "model": "glm-5.3"
+}

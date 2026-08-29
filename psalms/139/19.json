@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Yoo ati ajjeessaa taate, yaa Elooha, rakkoo; warra dhiigaa, garagalchaa na irraa!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ati ajjeessaa taate"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "yaa Elooha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "warra"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "garagalchaa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:41.691423497Z",
+  "model": "glm-5.3"
+}

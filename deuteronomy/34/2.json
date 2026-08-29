@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Fi ⟨את⟩ Naftaalii hunda, fi ⟨את⟩ biyya Efiraamii fi Menaasse, fi ⟨את⟩ biyya Yihuudaa hunda, galaana duraa sa'aatiitti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Fi ⟨את⟩",
+      "marks": "Naftaalii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftaalii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "biyya Efiraamii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efiraamii"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "fi Menaasse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "biyya Yihuudaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa'aatiitti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaana"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "duraas"
+    }
+  ],
+  "timestamp": "2026-08-29T14:36:08.611673263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ho, biyya tziltzaal kenaanota, kan gabina naannolee Kuush jirtu!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "tziltzaal"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "kenaanota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "gabina"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "naannolee"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    }
+  ],
+  "timestamp": "2026-08-29T08:54:53.440538861Z",
+  "model": "glm-5.3"
+}

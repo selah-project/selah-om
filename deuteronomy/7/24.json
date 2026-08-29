@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Mootannonni isaanii harka keetti kenna, maqaan isaanii samii jalaa dabaltudhaan balleessitu; namni tokko fuula kee irratti hin dhaabbatu, hanga ati isaan ⟨את⟩ balleessituutti.",
+  "tokens": [
+    {
+      "surface": "ו⁠נתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mootannonni isaanii"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "balleessitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaan isaanii"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maqaan isaanii"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jalaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "fuula kee irratti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "balleessituutti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:28.628368049Z",
+  "model": "glm-5.3"
+}

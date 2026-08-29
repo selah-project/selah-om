@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 29:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Daawid Achiishitti jedhe: «Maal hojjedhe? Maal eeyyamamummaa kee keessatti argitee, guyyaa waan fuuldura keetti ture irraa gara guyyaa kanaa gahaatti, akkasumas hin seenadhuuf fi diinaota goftaa kiyya mootichaa irratti hin waraanadhuuf?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Achiish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "argitee"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "eeyyamamummaa kee keessatti"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "guyyaa irraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura keetti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "seenadhu"
+    },
+    {
+      "surface": "ונלחמתי",
+      "gloss": "warraanadhu"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "diinaota irratti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "goftaa kiyya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:44.283695007Z",
+  "model": "glm-5.3"
+}

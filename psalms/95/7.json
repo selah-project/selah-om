@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Sababni isaatti Inni ⟨ti⟩ Eloohiim keenya; nuti ammayni bifa margiisaa Isaa ⟨ti⟩, fi horii hoolota harka Isaa ⟨ti⟩. Har'a, yoo sagalee Isaa simmattan,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababni isaatti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ammayni"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "bifa margiisaa Isaa"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "fi horii hoolota"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka Isaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Har'a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sagalee Isaa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "simmattan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:04.602655263Z",
+  "model": "glm-5.3"
+}

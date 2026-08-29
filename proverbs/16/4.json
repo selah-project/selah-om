@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Waan hundaa Yahwe isaaf hojjeche; kufaan immoo guyyaa hamtuuf.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojjeche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kufaan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:09.292709004Z",
+  "model": "glm-5.3"
+}

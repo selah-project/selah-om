@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Faarfannoo olaanaa Eel funyaan isaanii keessatti, maadii lame-cinu harka isaanii keessatti.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "faarfannoo olaanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "funyaan isaanii keessatti"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "maadii"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "lame-cinu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "harka isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:10.169678954Z",
+  "model": "glm-5.3"
+}

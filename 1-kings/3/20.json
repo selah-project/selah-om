@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Iseenis halkan giddugaleessa kaateetti, barree koo bira koo irraa ⟨את⟩ mucaa koo fudhateetti — akkoo kee hirkattudha — boossa ishee keessa seelcatteetti; mucaa isheetii du'e, boossa koo keessas naa-seelcatteetti.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "kaateetti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giddugaleessa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "fudhateetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa koo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mucaa koo"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "bira koo irraa"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "akkoo kee"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "hirkattudha"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "seelcatteetti"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "boossa ishee keessa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa isheetii du'aa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mucaa isheetii"
+    },
+    {
+      "surface": "המת",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "naa-seelcatteetti"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "boossa koo keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:11.396359393Z",
+  "model": "glm-5.3"
+}

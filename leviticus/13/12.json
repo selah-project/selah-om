@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yoo sara'at gogarritti baay'isee baatu, sara'atis ⟨את⟩ goga hunda kan nigii qabaatu, mataa isaa irraa hanga miila isaatti, kan kohen iyyu argamu hunda teesse.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "baay'isee"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sara'at"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "gogarritti"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "teesse"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sara'atis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goga hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עור",
+      "gloss": "goga"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kan nigii qabaatu"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "mataa isaa irraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "miila isaatti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "argamu kan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iyyu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:09.754702335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 29:1",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Chizkiyaachu ilma waggaa digdama afurii fi shanii ta'ee mootummoota'e; Yerushaalayim keessattis waggaa digdama afurii fi sagaliif mootummoota'e; maqaan haadha isaa Abiyaa, intala Zekaryaahu, ti.",
+  "tokens": [
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyaahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootummoota'e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdama afurii"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "fi shanii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "digdama afurii"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "fi sagalii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootummoota'e"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiyaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaryaahu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:05:56.578264838Z",
+  "model": "glm-5.3"
+}

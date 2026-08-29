@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Mootiin Mitsraayim isa Yerushaalayim irratti hanbise; biyya kikararii qadaaddii dhibba tokko fi kikararii warqee tokkoitin adabessee ('aaqsise).",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "hanbise"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim irratti"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "adabessee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dhibba tokko"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikararii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qadaaddii"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "kikararii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:11:28.784607209Z",
+  "model": "glm-5.3"
+}

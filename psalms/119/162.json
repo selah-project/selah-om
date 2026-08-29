@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Jechii kee irratti nan tijjiibadha, akka namicha boonaa guddaa argatuutti.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "nan tijjiibadha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jechii kee"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "akka ... argatuutti"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "boonaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:11.250405042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "fi gogaa eelootaa diimaa-diigaman, fi gogaa takshaasotaa, fi mukoota shiitim.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "fi gogaa"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "eelootaa (hoolaa-dhiiraa)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "diimaa-diigaman"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "fi gogaa"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takshaasotaa"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "fi mukoota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiitim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:34.678296731Z",
+  "model": "glm-5.3"
+}

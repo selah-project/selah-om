@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ya'aqobiin ni jedhe: Eloohiim abbooti koo Avrahaam, fi Eloohiim abbooti koo Yitsaaq, Yahwe kan na jedhe, 'Gara biyya keetti fi gara dhaloota keetti deebii; ani si waliin tolloodha.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobiin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbooti koo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "fi Eloohiim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbooti koo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "kan na jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "Gara biyya keetti"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "fi gara dhaloota keetti"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "ani si waliin tolloodha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T04:41:39.338615953Z",
+  "model": "glm-5.3"
+}

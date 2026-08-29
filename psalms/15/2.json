@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Inni sirriitti deemu, raawwaa mirqaa hojjeta,dhugaa onneetti isaa dubbata.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sirriitti"
+    },
+    {
+      "surface": "ופועל",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "mirqaa"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dubbata"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "onneetti isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:36.278052595Z",
+  "model": "glm-5.3"
+}

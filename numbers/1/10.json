@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Warra ilmoota Yoosefiif: warra Ephraayimiif, Eeliishaamaa ilma Ammihuud; warra Menaasheef, Gamliyeel ilma Pedaahsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Warra ilmootiif"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "warra Ephraayimiif"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eeliishaamaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihuud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "warra Menaasheef"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliyeel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedaahsur"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:16.972638253Z",
+  "model": "glm-5.3"
+}

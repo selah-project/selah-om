@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Tasaa waan taaniit gammaddani, gara bantii fedhii isaanii isa qajeelcha.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "gammaddani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "tasaa taani"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "isa qajeelcha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bantii"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "fedhii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:10.291807137Z",
+  "model": "glm-5.3"
+}

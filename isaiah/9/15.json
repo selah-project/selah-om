@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Faarfattoonni namoota kana ni sorsiisan; warra faarfaman immoo ni liqimfan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "Faarfattoonni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ni sorsiisan"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "warra faarfaman immoo"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ni liqimfan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:20.530879483Z",
+  "model": "glm-5.3"
+}

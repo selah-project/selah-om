@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Isin seenaniif ummata irraa kurnee-lama namoota fudhadhaa — namtii tokko, namtii tokko battuu irraa.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin seenaniif"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kurnee"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-lama"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namtii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namtii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "battuu irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:14.162751144Z",
+  "model": "glm-5.3"
+}

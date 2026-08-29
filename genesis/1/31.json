@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimiinis ⟨את⟩ waan inni hojjete hunda ilaalee, iyis gaarii baay'ee ta'e; galgala ta'e, ganama ta'e — guyyaa jahaffaa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ilaalee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "iyis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "jahaffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:51.537514924Z",
+  "model": "glm-5.3"
+}

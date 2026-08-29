@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sagaleen Yahwe mukoota sedaraa caccabsa; yeroo sanas Yahwe ⟨את⟩ mukoota sedaraa Lubaanoo caccabsaa jira.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sagaleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "caccabsa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mukoota sedaraa"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "yeroo sanas caccabsaa jira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoota sedaraa Lubaanoo"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mukoota sedaraa"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lubaanoo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:09.661353516Z",
+  "model": "glm-5.3"
+}

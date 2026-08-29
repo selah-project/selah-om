@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Badii sabni kee fuudhee, dogoggora isaanii hunda dheeqqaatee. Seelaa.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "fuudhee"
+    },
+    {
+      "surface": "עון",
+      "gloss": "badii"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sabni kee"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "dheeqqaatee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dogoggora isaanii"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:04.994027718Z",
+  "model": "glm-5.3"
+}

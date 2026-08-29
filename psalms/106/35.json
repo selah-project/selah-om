@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Gara sabaotaatti makamanii, hojii isaanii baratan.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "makamanii"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gara sabaotaatti"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "baratan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hojii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:17.208684811Z",
+  "model": "glm-5.3"
+}

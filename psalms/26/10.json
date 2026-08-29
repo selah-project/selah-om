@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Harka isaanii keessatti dogoggorsa hamtuu qabu, mirgi isaniis maallaqa dangayaa guutaa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "harka isaanii keessatti"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "dogoggorsa hamtuu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mirgi isaniis"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "guutaa"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "maallaqa dangayaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:08.063704156Z",
+  "model": "glm-5.3"
+}

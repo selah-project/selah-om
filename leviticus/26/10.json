@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Kan duraa yeroo dheeraa dhaabbate soorattaniidha; kan haaraa dhiibee kan duraa baafattaniidha.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "soorattaniidha"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "kan duraa"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "yeroo dheeraa dhaabbate"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "kan duraa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dhiibee"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kan haaraa"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "baafattaniidha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:45.959893948Z",
+  "model": "glm-5.3"
+}

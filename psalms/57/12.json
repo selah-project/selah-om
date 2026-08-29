@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Oliin ol ka'i, Eloohiim, samii olii; kabaja kee lafa guutu irratti.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Oliin ol ka'i"
+    },
+    {
+      "surface": "על",
+      "gloss": "samii olii"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kabaja kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:18.191918068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Inni isaaf Yahwe biratti gaafate, akkasiisaa isaaf kene, fi ⟨את⟩ makiinka Goliyat Filistiichaa isaaf kene.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "gaafate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe biratti"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "akkasiisaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makiinka Goliyat Filistiichaa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "makiinka"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiichaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:02.506399672Z",
+  "model": "glm-5.3"
+}

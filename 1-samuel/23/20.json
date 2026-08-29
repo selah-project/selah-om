@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Amma immoo, yaa mooticha, fedhii lubbuu kee guutuu gara gadi bu'uuf, bu'i; nuti immoo mooticha harka isa kenneef.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "amma immoo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "אות",
+      "gloss": "fedhii"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yaa mooticha"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "gara gadi bu'uuf"
+    },
+    {
+      "surface": "רד",
+      "gloss": "bu'i"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "nuti immoo"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "kenneef"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:41.951327144Z",
+  "model": "glm-5.3"
+}

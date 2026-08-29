@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Dhiiraa-dheebaa geeffamaa akka karaa mirgaa ta'e haa daangeffu, kanneen dhiiraa-dheebaa taanis karaa Isaa haa barsiisu.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "haa daangeffu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dhiiraa-dheebota"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "karaa mirgaa keessatti"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "haa barsiisu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dhiiraa-dheebota"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "karaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:36.358143591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Namni ni jedha: dhugumatti midhaan kunniin lamaa ti; dhugumatti, lafa irratti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kunniin lamaa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "murtiiftoota"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:53.066205677Z",
+  "model": "glm-5.3"
+}

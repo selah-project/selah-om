@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Waan hin fayyaduu faana ija koo hin argamsiisu; hojii warra dacha'an nan jaamadha; natti hin maxxanu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "argamsiisu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "faana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija koo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "hin fayyaduu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "warra dacha'an"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nan jaamadha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "maxxana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:27.302983415Z",
+  "model": "glm-5.3"
+}

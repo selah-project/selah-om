@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Amraamis ⟨את⟩ Yokebed, obboleettii abbaa isaa, isaa fuudhe akka durba; isheetis ⟨את⟩ Aharooni fi ⟨את⟩ Mooshee ishee dhalatte; immoo waggaa jireenya Amraam dhibba fi soddoma fi torba ti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "isaa fuudhe"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amraamis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "obboleettii abbaa isaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "akka durba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "isheetis dhalatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharooni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Mooshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooshee"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "immoo waggaa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jireenya"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amraam"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi soddoma"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "fi dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:48.670525991Z",
+  "model": "glm-5.3"
+}

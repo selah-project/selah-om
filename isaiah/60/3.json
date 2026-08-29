@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Saboonni ifaatti kee deemu, mootonniis waarribatti baa'aa kee.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Saboonni"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ifaatti kee"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "mootonniis"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "waarribatti"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "baa'aa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T09:17:25.922081191Z",
+  "model": "glm-5.3"
+}

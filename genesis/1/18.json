@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "fi akka guyyaa fi halkan to'an, ifa fi dukkana adda baasuf; Eloohiim akka gaarii ta'e ilaale.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "fi akka to'an"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "halkanis"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "adda baasufis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gara"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "dukkanaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii ta'e"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:01.028622336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Qeessiichi isaan ⟨את⟩ hojjedha: tokkicha diliif, kan biraa immoo kennaa ibiddaatiif; qeessiichi zaava isaa waa'ee Yahwe duraa kaffalii godha.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "turtoolee lamaa ykn ijoollee yoonaa lama"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qeessiichi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkicha"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dilii"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kan biraa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kennaa ibiddaa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kaffalii godha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "waa'ee isaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qeessiichi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "zaava isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:07.887402666Z",
+  "model": "glm-5.3"
+}

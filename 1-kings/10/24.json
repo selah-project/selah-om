@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Dacheen hundi facaa Shelomoh ⟨את⟩ barbaaddeetti, ogummaa isaa ⟨את⟩ Eloohiim onnee isaa keessatti waan kenneef dhaggeeffachuuf.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dacheen"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "barbaaddeetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faca Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faca"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhaggeeffachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogummaa isaa"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ogummaa isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "onnee isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:10:57.165129345Z",
+  "model": "glm-5.3"
+}

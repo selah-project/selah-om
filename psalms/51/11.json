@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Badii kootta fuula kee dhoksi; dogoggora koossa hunda ni-haqi.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "dhoksi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "badii kootta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "dogoggora koossa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ni-haqi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:00.726307346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Oota oota akka sadan ⟨אתם⟩; lafti hiboo baate.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "sadan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "oota oota (isaan)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "oota oota"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "oota oota"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "hiboo baate"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:56.890854009Z",
+  "model": "glm-5.3"
+}

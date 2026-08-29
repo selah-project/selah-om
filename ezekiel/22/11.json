@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Namni tokko ⟨את⟩ niitii meeratu hojjechuu raawwii kuffataa hojjete; namni biraa ⟨את⟩ mooti durbaa isaa iccharreesee yaada hamuudhaan; namni biraa ⟨את⟩ obboleettii isaa, intala abbaa isaa, kee keessatti miidhe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niitii meeratu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "niitii"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "meeratu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "raawwii kuffataa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "namni biraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooti durbaa isaa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mooti durbaa isaa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "iccharreesee"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "yaada hamuudhaan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "namni biraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleettii isaa"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "obboleettii isaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "miidhe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:18:05.312210631Z",
+  "model": "glm-5.3"
+}

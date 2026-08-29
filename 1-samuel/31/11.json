@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Warri Yabees Gil'adi ⟨את⟩ waan Filistiiwwan Sha'uuli irratti hojjetan waa'ee isaa dhageejjani.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "dhageejjani"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "waa'ee isaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warri"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabees"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjetan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiwwan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sha'uuli irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:57.952323193Z",
+  "model": "glm-5.3"
+}

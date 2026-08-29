@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Maalaf nan sodadha guyyaa hamtuu keessatti, yaa'ii heella kiyya na marsu yeroo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maalaf"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nan sodadha"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "guyyaa ... keessatti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "yaa'ii"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "heella kiyya"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "na marsu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:03.051415240Z",
+  "model": "glm-5.3"
+}

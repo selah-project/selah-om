@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Qesisaanis ⟨את⟩ dhiiga Yahwe galtii irratti, mandara walga'ii balbalatti, ni dhangamsiisa; coomatis urja faayyinaa Yahweef ni gubufa.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "ni dhangamsiisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qesisaanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "galtii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mandara"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ni gubufa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "coomatis"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "urja"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "faayyinaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:33.941384433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 33:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Altareewwan mana Yahwe keessattis dhaabbate — mana kana kan Yahwe 'Maqaan kiyyas Yerushaalayim keessatti yeroo hunda jiraata' jedheef.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altareewwan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana ... keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jiraata"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Maqaan kiyya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T14:07:47.700294890Z",
+  "model": "glm-5.3"
+}

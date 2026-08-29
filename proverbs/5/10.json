@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Akka al-awaa'oonni humna kee hin guunnifamne, madaa'aan kees mana al-tuulaa keessatti hin turre.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "akka hin"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "hin guunnifamne"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "al-awaa'oonni"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "madaa'aan kees"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "al-tuulaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:28.321249137Z",
+  "model": "glm-5.3"
+}

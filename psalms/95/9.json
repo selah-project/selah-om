@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Yeroo abbootiin keessan na yaalaniitii na qorataniitii, akkasumas hojii kiyya arganiiti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "na yaalaniitii"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "abbootiin keessan"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "na qorataniitii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arganiiti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojii kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:17.546541453Z",
+  "model": "glm-5.3"
+}

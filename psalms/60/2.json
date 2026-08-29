@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "When he was striving with ⟨את⟩ Aram of the Two Rivers and with ⟨את⟩ Aram of Tsoba, Yoab returned and struck ⟨את⟩ Edom in the Valley of Salt — twelve thousand.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "When he was striving"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram of the Two Rivers"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "of the Two Rivers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Aram of Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "of Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and he returned"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and he struck"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "in the Valley"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "of Salt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twelve"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "twelve"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:05.809062338Z",
+  "model": "glm-5.3"
+}

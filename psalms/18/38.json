@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Diinaa koo nan hordofa, nan qabna; isaan balleessanutti nan deebi'u miti.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "nan hordofa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "Diinaa koo"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "nan qabna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "nan deebi'u"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "isaan balleeffamaniin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:59.164611761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Akka kana isaaniitti hojjates, ⟨את⟩ isaanis harka ilmaan Israa'el irraa bara kaase, isaan ajjeesanii miti.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjates"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "bara kaase"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "—",
+      "marks": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "miti \/ hin"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "ajjeesanii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:45:52.761410038Z",
+  "model": "glm-5.3"
+}

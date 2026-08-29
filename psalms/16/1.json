@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Miktamii Daawiditti. Eela, na eeggi; sababa tokko atumatti keessa hafe.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktamii"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiditti"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "na eeggi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa tokko"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "keessa atumatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:16.766068066Z",
+  "model": "glm-5.3"
+}

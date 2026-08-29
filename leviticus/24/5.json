@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ati middhaa mi'aa fudhatta, ishee ⟨את⟩ maddamsa — dhaddacha kurnii-lama; wiirtuu kurnyaa (isaroon) lama ⟨⟨is⟩⟩ dhaddacha tokko tokkoof ta'a.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "atif fudhatta"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "middhaa mi'aa"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "maddamsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kurnii"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "wiirtuu kurnyaa (isaroon)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tokko tokkoo"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:47.335121680Z",
+  "model": "glm-5.3"
+}

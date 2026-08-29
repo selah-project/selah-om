@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Isaaniinis jedhe: «Ani ⟨את⟩ fuula abbaa keessan ilaala — inni na kootti hin jiru akka kaleessaafi akka dur-duraa; garuu Eloohiim abbaa kiyyoo wajjin kiyya ture.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להן",
+      "gloss": "isaaniinis"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "abbaa keessan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na kootti"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "akka kaleessaa"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "fi akka dur-duraa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "garuu Eloohiim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa kiyyoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wajjin kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:49.728307748Z",
+  "model": "glm-5.3"
+}

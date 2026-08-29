@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 114,
+  "translation": "Bishaan badaa argu geejjiba (diigu); Yarden gara duubaatti (deebi'e).",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "bishaan badaa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "argu"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "geejjiba (diigu)"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "(deebi'e) gara duubaatti"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "gara duubaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:23.517824041Z",
+  "model": "glm-5.3"
+}

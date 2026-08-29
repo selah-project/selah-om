@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Warri isa wajjin ⟨את⟩ dhagaalee argame, kadhachaa mana Yahwe irratti, harka Yechii'eel kan Gereshoon tiin kennaniif.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "warri argame"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wajjin",
+      "marks": "dhagaalee"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaalee"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kennaniif"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "kadhachaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yechii'eel"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "kan Gereshoon"
+    }
+  ],
+  "timestamp": "2026-08-29T15:41:23.947989314Z",
+  "model": "glm-5.3"
+}

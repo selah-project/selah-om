@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 123,
+  "translation": "Nu siggoosi, Yahwe, nu siggoosi, sababaa baay'inee guutamne tuqaa isaa iyyuu malee.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Nu siggoosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "nu siggoosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'inee"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "guutamne"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "tuqaa isaa iyyuu malee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:33.183552647Z",
+  "model": "glm-5.3"
+}

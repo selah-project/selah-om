@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Yahwe nan jedha: “Gargar-bii kiyya fi boolla-caccabsaa kiyya; Eloohiim kiyya, Isa irratti nan amana.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nan jedha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "gargar-bii kiyya"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "boolla-caccabsaa kiyya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nan amana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:06.663214390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Fi Makaanamtoota (gerr-oota) hin sooressitu; isinis nefesh ⟨את⟩ waan makaanamtootaa beektu, sababuun isaas Makaanamtoota laacha Mitsraayim taatanii turtan.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Makaanamtoota (gerr-oota)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "sooressitu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "isinis"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh waan makaanamtootaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "waan makaanamtootaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababuun isaas"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "Makaanamtoota"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "taatanii turtan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "laacha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:01.138192165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Fi ⟨את⟩ carne lalleessaa, fi ⟨את⟩ gogaa isaa, fi ⟨את \/> qasaan isaa ibiddaatin teessoo ala godhaa — bishaan faallaa ti, hata'uusaa ti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "carne lalleessaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lalleessaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "gogaa isaa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "gogaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qasaan isaa"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "qasaan isaa"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ibiddaatin godhaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hata'uusaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni ti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:00.655327228Z",
+  "model": "glm-5.3"
+}

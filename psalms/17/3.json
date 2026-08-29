@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Onnee koo yaalitee, halkan qoratte; na qulqulleessitee — waan hin argineetu. Yaada koo funyaan kee darbuu hin qabu.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "yaalitee"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Onnee koo"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "qoratte"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "na qulqulleessitee"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "argineetu"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "Yaada koo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "darbuu hin qabu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "funyaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:11.549411474Z",
+  "model": "glm-5.3"
+}

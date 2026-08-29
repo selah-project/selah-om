@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Kyoodhaa Yahwe dhugaadha, dhugaa jaalata; kooni barii fuula Isaa ni arga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kyoodhaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "dhugaadha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalata"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kooni barii"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ni arga"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "fuula Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:03.642848568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Yahwe humna sabaa isaasaa kenna; Yahwe ⟨את⟩ sabaa isaasaa nagaa isaasaa waliin eebbissa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sabaa isaasaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "eebbissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa isaasaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sabaa isaasaa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nagaa isaasaa waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:06.495644591Z",
+  "model": "glm-5.3"
+}

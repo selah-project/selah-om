@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ka'i, Yahwe! Fuulla isaa duraa bobbaasi, isaa kuffisi! Lubbuu kiyya miila-dhiiraa irraa, eleewwan kee tiin, baasi!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "duraa bobbaasi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulla isaa"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "isaa kuffisi"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "baasi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "miila-dhiiraa irraa"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "eleewwan kee tiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:00.744887551Z",
+  "model": "glm-5.3"
+}

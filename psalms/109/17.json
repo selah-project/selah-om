@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Akkasumas abaaruu jaalate, abaarsi ⟨isaa⟩ dhufe; eebbifamu hin feene, eebbanni isarraa fagee jira.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "abaarsi"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "isaa dhufe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "feene"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "eebbifamu"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "fagee jira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isarraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:13.240529206Z",
+  "model": "glm-5.3"
+}

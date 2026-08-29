@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Kiyyatti, ati kakaaddoo kiyya taate — Adoonaay Yahwe — ati itti hirkannoo kiyya taate umurii da'umsaa kiyya irraa eegale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kiyyatti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "kakaaddoo kiyya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "itti hirkannoo kiyya"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "umurii da'umsaa kiyya irraa eegale"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:28.597052689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Warri qajeelchaa isaa fi lakkoofsan isaa kudhanaf afur (54) kuma dhibba afur (400) ta'e.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "warri qajeelchaa isaa"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "fi lakkoofsan isaa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afur"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kudhanaf"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:47.264237049Z",
+  "model": "glm-5.3"
+}

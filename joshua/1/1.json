@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Du'a Moshee, barataa Yahwe, booda ta'e, Yahwen gara Yehooshuaa, ilmasa Nuun, tajaajilaa Moshee, dubbachiise jedhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "barataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dubbachiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmasa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuun"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tajaajilaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:10.696040712Z",
+  "model": "glm-5.3"
+}

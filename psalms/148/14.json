@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Kiyyoo ummata Isaa ol-kaase; faarfannoo kheesidota Isaa hundumaaf, ilmaan Israa'el — ummata Isaa kan Isatti dhiyoo ti. Yaah mummadhaa!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ol-kaase"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kiyyoo"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ummata Isaa"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "faarfannoo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundumaaf"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kheesidota Isaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "kan Isatti dhiyoo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mummadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:16.767603510Z",
+  "model": "glm-5.3"
+}

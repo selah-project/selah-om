@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Maqaa Yahwe malaalchan — ⟨את⟩ maqaa Yahwe; akkaataa inni ajajetti, uumamanis.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "malaalchan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkaataa...etti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "uumamanis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:20.552054706Z",
+  "model": "glm-5.3"
+}

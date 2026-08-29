@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Gammaduu qaba bishaan-dheeruun fi lafti gogduu; lafti madaan ni gammaddu, akkuma ceeksaatti ni baati.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ni gammaddu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bishaan-dheeruu"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "fi lafti gogduu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ni gammaddu"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "lafti madaa"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ni baati"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "akkuma ceeksaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:02:51.111843728Z",
+  "model": "glm-5.3"
+}

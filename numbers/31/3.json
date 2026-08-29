@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Mosheen ummata dubbate akka itti jedhu: namoota ⟨את⟩ isin irraa waraanaaf baafadhaa, Midyaan irratti haa ta'an, akka deebii Yahwee Midyaan irratti kennan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka itti jedhu"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "baafadhaa"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ isin irraa",
+      "marks": "isin irraa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "waraanaaf"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "haa ta'an"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyaan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akka kennan"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midyaan irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:10:47.765713728Z",
+  "model": "glm-5.3"
+}

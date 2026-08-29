@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Yaa Yahwe, milkii isaa eebbisi, hojii harka isaa ni tolteessi; ciniinii kan isaa ka'aniitiin haa dhiqqabbaddeen, kan isaa dibamus irraa ka'uun akka hin danda'an godhi.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "eebbisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "milkii isaa"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "fi hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ni tolteessi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "haa dhiqqabbaddeen"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ciniinii"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "kan isaa ka'anii"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "fi kan isaa dibamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ka'uun hin danda'u"
+    }
+  ],
+  "timestamp": "2026-08-29T06:36:42.107615724Z",
+  "model": "glm-5.3"
+}

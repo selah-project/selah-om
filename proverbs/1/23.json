@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Gara aarsa kiyyaatti deebi'aa; kuniin, ruuhii kiyya isinitti baafna; jechoota kiyya ⟨את⟩ isin hima.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "deebi'aa"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "gara aarsa kiyyaatti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kuniin"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "baafna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhii kiyya"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "hima"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota kiyya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:18.080456423Z",
+  "model": "glm-5.3"
+}

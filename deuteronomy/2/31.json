@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwen anaatti jedhe: Ilaali, Sichon ⟨את⟩ fi biyya isaa ⟨את⟩ fuuldura keetti kennuu jalqabeera; qabachuuf biyya isaa ⟨את⟩ qabadachu jalqabi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "fi jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "jalqabeera"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kennuu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura keetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biyya isaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "jalqabi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "qabadachu"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "qabachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya isaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:49.312576299Z",
+  "model": "glm-5.3"
+}

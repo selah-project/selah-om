@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Garuu hin dhageeffanne; milkii isaanii kan milkii abbooti isaanii tiin ciccimaniiru — kan Yahwe Eloohiim isaanii irratti hin amane.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageeffanne"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ciccimaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milkii isaanii"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "milkii isaanii"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "kan milkii"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "abbooti isaanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "amane"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe...irratti"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:38:30.994380065Z",
+  "model": "glm-5.3"
+}

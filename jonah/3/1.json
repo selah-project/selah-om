@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Gaaffiin Yahwe Yuunaatti isa lammaffaa kan jedhuuf dhufe:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gaaffii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaa"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "isa lammaffaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kan jedhuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:22.177541805Z",
+  "model": "glm-5.3"
+}

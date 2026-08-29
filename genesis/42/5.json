@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Ilmi Israa'eel biraa midhaanitti namaa'uuuf warra dhufanii keessaa dhufaniif; sababaan beelni biyya Keenaanatti tureera.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufaniif"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "biraa midhaanitti namaa'uuuf"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "warra dhufanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tureera"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "beelni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Keenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:23.436686834Z",
+  "model": "glm-5.3"
+}

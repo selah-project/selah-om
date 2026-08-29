@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akkasumas ⟨את⟩ isaa Ashuuriitti ni geeffama, kennaa mootii Yaarebiif; Efrajimiin hil'ata ni qabama, Israa'eeliin yaada isaa irraa ni'eesa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa (dodicha)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Ashuuriitti"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ni geeffama"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yaarebiif"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "hil'ata"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimiin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ni qabama"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "ni'eesa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eeliin"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "yaada isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:36.268079766Z",
+  "model": "glm-5.3"
+}

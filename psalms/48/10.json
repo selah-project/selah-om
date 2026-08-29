@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Waaq kee kheesed yaaddanne, mana-geejjiba kee keessaa, Eloohiim yaa.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "yaaddanne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed Waaq kee"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "mana-geejjiba kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:31.022589148Z",
+  "model": "glm-5.3"
+}

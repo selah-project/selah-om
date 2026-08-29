@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 8:9",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Akkasumas warra Penueliin jedhe: \"Yoon nagaan deebi'e, ⟨את⟩ dangoroo kana ni tuqsa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לאנשי",
+      "gloss": "warra"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "yoon deebi'e"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "אתץ",
+      "gloss": "ni tuqsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dangoroo kana"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "dangoroo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:04:54.631379961Z",
+  "model": "glm-5.3"
+}

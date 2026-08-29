@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yoo hin dhiqanne, fi liqa isaa hin dhiqanne, taanaan yakka isaa ni kenna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "dhiqanne"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "liqa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dhiqanne"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ni kenna"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "yakka isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:26:41.422381371Z",
+  "model": "glm-5.3"
+}

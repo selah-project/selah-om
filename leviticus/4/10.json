@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akkuma sanaa namaicha (משור) qurba xinxinsaa haa kabajamutti — akkuma isa irraa haalamu; keessumaa qusaa-bituu fi ar'aanna qulqulluu guutuu irratti bullaa'insa hoo'aa godha.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "irraa haalamu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "sanaa namaicha"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurba"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "xinxinsaa haa kabajamutti"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "bullaa'insa hoo'aa godha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "keessumaa qusaa-bituu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ar'aanna"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qulqulluu guutuu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:11.110264027Z",
+  "model": "glm-5.3"
+}

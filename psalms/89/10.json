@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Ati cimina baha to'attaa; yeroo galloonni isaa ol ka'an, ati isaan dhisiftaa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "to'attaa"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "cimina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baha"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "yeroo ol ka'uun"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "galloonni isaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "dhisiftaa isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:23.899671940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Sha'uulis sagalee Daawiditti beekate, \"Sagalee kee kanas, ijoolaa ko Daawid?\" jedhe. Daawitiinis \"Sagalee koo ti, Gooftaa koo boona\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "beekate"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "sagalee kee"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijoolaa ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee koo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Gooftaa koo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boona"
+    }
+  ],
+  "timestamp": "2026-08-29T07:37:19.795959254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kan akkuma chaaddii inda'oo keessatti ta'e natti ta'ee; seera Keetis hin dagadheere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "natti ta'ee"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "akkuma chaaddii"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "inda'oo keessatti"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera Keetis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "dagadheere"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:13.449983005Z",
+  "model": "glm-5.3"
+}

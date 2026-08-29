@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Abboon keenya nu jedhe: Deebi'aa, soorata xiqqoo nu bitaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abboon keenya nu jedhe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "abboota keenya"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "deebi'aa"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bitaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu-"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "soorata"
+    }
+  ],
+  "timestamp": "2026-08-29T04:52:58.577545733Z",
+  "model": "glm-5.3"
+}

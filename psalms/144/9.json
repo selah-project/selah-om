@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Eloohiimoo, faarfannaa haaraa siif taasu; nagaritiin sarara kudanii irratti siif nan_FAARfa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimoo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "taasu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nagaritii irratti"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sarara kudanii"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nan_FAARfa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:44.250219236Z",
+  "model": "glm-5.3"
+}

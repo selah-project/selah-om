@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Mootota irratti haa ittumanuu; ilma namaa irrattis, isiin isaaf badhaadha hin jiru.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "haa...hin"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ittumanuu"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "mootota irratti"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ilma...irratti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "badhaadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:00.850739915Z",
+  "model": "glm-5.3"
+}

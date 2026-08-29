@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Jechoota kakuu kana ⟨את⟩ eeggadhaa, isaaniis ⟨את⟩ raawwadhaa, waan hojjjetanuu hunda ⟨את⟩ akka mil'attaniif.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eeggadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kakuu kana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "raawwadhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (jechoota kakuu)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akkaf"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "mil'attan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hojjjetanuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:44.485931136Z",
+  "model": "glm-5.3"
+}

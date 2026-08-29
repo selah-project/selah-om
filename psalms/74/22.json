@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Ka'i, yaa Eloohiim, kakkalfama kee kakkaldi; haasaasa kiyyaa kan barataa irraa guyyaa guutuu yaadaddee.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "kakkaldi"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "kakkalfama kee"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yaadaddee"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "haasaasa kiyyaa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kan barataa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:30.362794433Z",
+  "model": "glm-5.3"
+}

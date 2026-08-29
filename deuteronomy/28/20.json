@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe si irratti ⟨את⟩ abbaraacha, ⟨את⟩ fincildhaa fi ⟨את⟩ aarsuu erga, waan harki kee ergitu hunda irratti, hogguu balleessamuutti fi saffisan baduutti — sababa raawwii hamtuu kee, waan natti dhiifteef.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "erga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaraacha"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "abbaraacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fincildhaa"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "fincildhaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aarsuu"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "aarsuu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "waan harki kee ergitu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harki kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogguu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjitu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hogguu"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "balleessamuutti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "saffisan baduutti"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "saffisan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "raawwii kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "natti dhiifteef"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:48.606087116Z",
+  "model": "glm-5.3"
+}

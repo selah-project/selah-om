@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Isaaniinis jedhe: \"Yaadni keessan maali, akka nuti deebii ⟨את⟩ sabaa kanaaf deebisnu? Sabachis naan jedhe: 'Olaa abbaan kee nu irratti kennee nu haphiisi.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniinis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "yaadaa"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "akka nuti deebisnu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa kanaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabachis"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "haphiisi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העל",
+      "gloss": "olaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kan kenne"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaan kee"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:42:50.268944728Z",
+  "model": "glm-5.3"
+}

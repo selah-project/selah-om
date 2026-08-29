@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Waa'ee mucaa dhiiraa fi waa'ee mucaa durbaa bakka kana keessatti dhalatan, waa'ee haadholii isaan dhalissan ⟨אתם⟩, fi waa'ee abboota isaan biyya kana keessatti horan ⟨אתם⟩, akkasitti Yahwe jedhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkasitti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akkasitti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mucaa dhiiraa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi waa'ee"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "mucaa durbaa"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana keessatti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi waa'ee"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "haadholii isaan"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "dhalissan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi waa'ee"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "abboota isaan"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "horan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:37.315649132Z",
+  "model": "glm-5.3"
+}

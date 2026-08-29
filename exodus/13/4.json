@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Guyyaa har'a ji'a Abiibii keessatti baatan.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "har'a isin"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "baatan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abiibii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:43.400710306Z",
+  "model": "glm-5.3"
+}

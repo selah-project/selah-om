@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ba'aliin ⟨את⟩ tajaajilee, isaa gabbaraa, fi kanaan Isaraa'el Waaqaa tokkicha, Yahwe, akka waan abbaan isaa hojjettiin hiikkessaa ture.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "tajaajilee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'aliin"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'aliin"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "gabbaraa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "hiikkessaa ture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Waaqaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjettiin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:09.850650833Z",
+  "model": "glm-5.3"
+}

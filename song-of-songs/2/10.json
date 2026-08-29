@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Doddantuu koon natti deebisee jedhe: Ka'i, siif ta'i, jaaltii koo, kan miidhagaa taate, nutti ba'i, siif ta'i.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "doddantuu koon"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif ta'i"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "jaaltii koo"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "kan miidhagaa taate"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "nutti ba'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif ta'i"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:29.719231278Z",
+  "model": "glm-5.3"
+}

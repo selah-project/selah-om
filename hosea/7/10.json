@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Boonsi Yisraa'el fuula isaa irratti ragaa ni baafata; isaan ammoo gara Yahwe Eloohiim isaanitti hin deebin, waan hunda kanaas hin barbaadan.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ragaa ni baafata"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boonsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "fuula isaa irratti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "deebin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:01.022984975Z",
+  "model": "glm-5.3"
+}

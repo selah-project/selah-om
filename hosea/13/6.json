@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Akka margaa isaanii baafamanitti, baafaman; baafamanii waan onnee isaanii ol-kaatedhaan; kanaaf An dhiisan.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "akka margaa isaanii"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "baafamanitti"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "baafaman"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ol-kaatedhaan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "An dhiisan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:26.826752859Z",
+  "model": "glm-5.3"
+}

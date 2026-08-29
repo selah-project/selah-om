@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Nagaan beekaa mana ishee ixxaarte; sababaanis harka isheetiin mahiisa.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "beekaa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naagaa"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ixxaarte"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mana ishee"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "sababaanis"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "harka isheetiin"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "mahiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:17.211672931Z",
+  "model": "glm-5.3"
+}

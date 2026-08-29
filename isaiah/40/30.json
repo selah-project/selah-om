@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Shortly duraan ni dadheebbatu, ni gogu; dargaggoonni immoo akka kufaniitti ni kufu.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "ni dadheebbatu"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "shortly duraan"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ni gogu"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "dargaggoonni immoo"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "akka kufaniitti"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ni kufu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:36.340314105Z",
+  "model": "glm-5.3"
+}

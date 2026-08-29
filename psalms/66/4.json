@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Laffi hundin si gabbaraa; siin faarfataa; maqaa Kee faarfataa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Laffi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "gabbaraa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "faarfataa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siin"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "faarfataa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa Kee"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:16.749023777Z",
+  "model": "glm-5.3"
+}

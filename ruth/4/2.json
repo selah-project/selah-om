@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Inniis namoota kudhan olla-dheessota magaalaa ka'ee ni jeete: \"Asitti taa'aa.\" Isaanis ni taa'an.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ka'ee"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "olla-dheessota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jeete"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "taa'aa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "asitti"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ni taa'an"
+    }
+  ],
+  "timestamp": "2026-08-29T12:41:30.700121558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Namni tokko ⟨את⟩ michiisa gargaara; obboleessa isaa immoo 'Cimadhu!' jedha.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "michiisa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "michiisa"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "gargaara"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "obboleessa isaa immoo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Cimadhu!"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:37.362419986Z",
+  "model": "glm-5.3"
+}

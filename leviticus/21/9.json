@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ijolleen dubartii koohaan, yoo hiikatti har'maltu, abbaa ishee ishee meehaalti — ⟨את⟩ abbaa ishee; ibiddaatiin gubachiifti.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ijolleen dubartii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "koohaan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "koohaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "meehaalti"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "har'maltu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa ishee"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "abbaa ishee"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "meehaalti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatiin"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "gubachiifti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:45.411360253Z",
+  "model": "glm-5.3"
+}

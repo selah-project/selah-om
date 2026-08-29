@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Miikaal, intala Shaa'ool, ⟨את⟩ Daawit jaalatte; Shaa'ools himanii, himi gati isaa ija isaatti miidhagaa ta'e.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "jaalatte"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Miikaal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ool"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "himanii"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'ools"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "himi gati isaa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija isaatti miidhagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:31:00.334604827Z",
+  "model": "glm-5.3"
+}

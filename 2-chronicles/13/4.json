@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 13:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Abiya gaarwa Tsemarayim irraa, kan gaarwa Efrayim keessatti argamu irratti ka'e, akkas jedhe: «Naa dhageessaa, Yarab'am fi Israa'iel hunda!»",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "להר",
+      "gloss": "gaarwa"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemarayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Naa dhageessaa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarab'am"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    }
+  ],
+  "timestamp": "2026-08-29T13:57:33.615960372Z",
+  "model": "glm-5.3"
+}

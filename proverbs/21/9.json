@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Cubbetti ugguraa manaatti taa'uun, dubartii waldaggioo fi mana wal-qabaa caalaa gaariidha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gaariidha"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "taa'uuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "cubbetti"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ugguraa manaa"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "dubartii irraa"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "waldaggioo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "fi mana"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "wal-qabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:00.943402524Z",
+  "model": "glm-5.3"
+}

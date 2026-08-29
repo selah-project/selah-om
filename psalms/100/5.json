@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 100,
+  "translation": "Kanaaf Yahwe gaariidha; kheesed isaa yeroo hunda haa hafu; fi durtii fi durtiin amantii isaa haa hafu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaariidha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed isaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi kottaa"
+    },
+    {
+      "surface": "דר",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "fi durtii"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "amantii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:03.696428807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 5:16",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Gile'ad keessaa, Baashaan keessaa fi ganda leenjii isaa keessaa, akkasumas gabaa Shaaroon hunda caasaa isaanii irratti jiraatananiitu.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gile'ad keessaa"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Baashaan keessaa"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "ganda leenjii isaa keessaa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "akkasumas ... hunda"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "gabaa"
+    },
+    {
+      "surface": "שרון",
+      "gloss": "Shaaroon"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "תוצאותם",
+      "gloss": "caasaa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:26.471956140Z",
+  "model": "glm-5.3"
+}

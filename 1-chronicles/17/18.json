@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Maal Daawid odoo dabalatee sirratti ⟨את⟩ gabbara kee kabajuuf? Atis ⟨את⟩ gabbara kee beekta.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "dabalata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "odoo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sirratti"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "kabajuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabbara kee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara kee"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Atis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabbara kee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara kee"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beekta"
+    }
+  ],
+  "timestamp": "2026-08-29T13:40:05.074023309Z",
+  "model": "glm-5.3"
+}

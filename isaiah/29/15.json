@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Badii isiniif, warra Yahwe irraa gorsaa dhoksuuf dheessaniif! Hojii isaanii dukkana keessatti; \"Eenyu nu argaa? Eenyus nu beeka?\" jedhaniif.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "badii isiniif"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "dheessaniif"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe irraa"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "dhoksuuf"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "gorsaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "dukkana keessatti"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hojii isaanii"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhaniif"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "nu argaa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "eenyus"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "nu beeka"
+    }
+  ],
+  "timestamp": "2026-08-29T09:00:29.909711935Z",
+  "model": "glm-5.3"
+}

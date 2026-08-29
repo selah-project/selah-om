@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Yoo harree diina kee baay'ii isaa jalatti rukutee argitee, of dhiisuudhaan hin dhiisu — dhiisuu dhiisi, isa wajjin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "argitee"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "harree"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "kan si nja'u, diina kee"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "rukutee"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "baay'ii isaa"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "of dhiisuudhaan"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "dhiisuu irraa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "dhiisuu"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "dhiisi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:29.300495248Z",
+  "model": "glm-5.3"
+}

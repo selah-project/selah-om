@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Kaaba irraa tokko kaase, ⟨את⟩ dheebuna dhufee; aduuttiin bahaatti maakoo kadhate; ajajtoonni akka wwitaa yeroo dhufu, akka wwituu hojjatu wwita rukuta.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "kaase"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaaba irraa"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "⟨את⟩ dheebuna dhufee",
+      "marks": "tokko kaaba irraa ka'e"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bahaatti"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduuttiin"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "maakoo kadhate"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "maakoo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "ajajtoonni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "wwitaa"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "wwituu hojjatu"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "wwita"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:00.268303845Z",
+  "model": "glm-5.3"
+}

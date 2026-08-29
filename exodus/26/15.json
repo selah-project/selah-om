@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Miishkaanichaafis ⟨את⟩ saroota mukula shaatiimii dhaabbatan tolchitu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "tolchitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saroota"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "saroota"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Miishkaanichaaf"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukula"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shaatiimii"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dhaabbatan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:41.221968223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Aharoons altaraa dhiyate, mooja qalma badii isaa ⟨את⟩ waan isaa tiif qale.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyate"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaraa"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "qale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooja"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mooja"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qalma badii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa tiif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:05.768319080Z",
+  "model": "glm-5.3"
+}

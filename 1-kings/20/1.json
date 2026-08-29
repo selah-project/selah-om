@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Ben-Hadad mootii Aram ⟨את⟩ humna isaa guutuu qabate; mootonni soddoma-lamaanii fi lamatan ⟨את⟩ isa wajjin; farda fi maneesota; ol bahe Samariyaa irratti jiraannooʼe, isheedhaan lolaa ture.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "qabate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "humna isaa guutuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "humna isaa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi lamatan"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "soddoma-lamaanii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa wajjin",
+      "marks": "isa"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "farda"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "maneesota"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ol bahe"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "jiraannooʼe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samariyaa"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lolaa ture"
+    },
+    {
+      "surface": "בה",
+      "gloss": "isheedhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:56.225031123Z",
+  "model": "glm-5.3"
+}

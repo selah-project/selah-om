@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "In murtaa keessatti, safartuu dheerina, ulfaatinaafi safartuu dhangalaa keessatti dogoggorsaa hin hojjedhinaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjedhinaa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "dogoggorsaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "murtaa keessatti"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "safartuu dheerina"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ulfaatina keessatti"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "fi safartuu dhangalaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:30.465784534Z",
+  "model": "glm-5.3"
+}

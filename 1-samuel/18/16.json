@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Israa'eel hundi fi Yihudaa immoo ⟨את⟩ Daawid jaallataniiru; innis isaani duratti bahee seenaa ture.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundi immoo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "fi Yihudaa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaallataniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "innis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "isaani duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:54.860981831Z",
+  "model": "glm-5.3"
+}

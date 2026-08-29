@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Na mootummaa, yaa Eloohiim, fi hima koo falmeessi ummata kheesed hin qabne irraa; namoo marmarii fi eyyumsaa irraas na hambisis.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "na mootummaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "fi falmeessi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "hima koo"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ummata irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin qabne"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "namoo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "marmarii"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "fi eyyumsaa"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "na hambisis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:07.781895580Z",
+  "model": "glm-5.3"
+}

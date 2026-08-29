@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoo ogeeffatte, ofiif ogeeffatte; yoo taltiisde, kopphaa ofii keeti baadhifta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogeeffatte"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogeeffatte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "ו לצת",
+      "gloss": "taltiisde"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kopphaa ofii keeti"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "baadhifta"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:52.052522429Z",
+  "model": "glm-5.3"
+}

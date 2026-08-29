@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Sirboota isaa ergatee isaan tuulse; fakkisoo ibiddaa baay'ee, isaan balleesse.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergatee"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "sirboota isaa"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "isaan tuulse"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "fakkisoo ibiddaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "isaan balleesse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:17.122811569Z",
+  "model": "glm-5.3"
+}

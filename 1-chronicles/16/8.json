@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yahweef galata galchaa, maqaa isaa waamichaa, hojii isaa saboota beeksiisaa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "galata galchaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamichaa"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "beksiisaa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "hojii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:42.489004188Z",
+  "model": "glm-5.3"
+}

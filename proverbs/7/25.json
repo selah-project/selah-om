@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Onnee kee gara karaawwan ishee hin seenu; karaa-dheerawwan ishee keessatti hin baddiraaatin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "hin seenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "karaawwan ishee"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "hin baddiraaatin"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "karaa-dheerawwan ishee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:59:29.035120524Z",
+  "model": "glm-5.3"
+}

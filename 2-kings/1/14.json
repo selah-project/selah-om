@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "\"Waan inni ibiddi samii irraa bu'ee ⟨את⟩ abbootii shamarranii duraa lamootaafi ⟨את⟩ shamarranii isaanii naamsifte; amma lubbuun kiyya ija kee keessatti ulfaadhaa haa ta'u.\"",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "waan inni"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "bu'ee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "fi naamsifte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii shamarranii duraa lamootaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamoota"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "shamarranii"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "shamarranii isaanii"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "shamarranii isaanii"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "ulfaadhaa haa ta'u"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun kiyya"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ija kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:24:23.964231Z",
+  "model": "glm-5.3"
+}

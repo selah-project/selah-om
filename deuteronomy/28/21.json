@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe ⟨את⟩ dhukkuba dhibataa siirraa haa dhaabbatu, sino yoo ⟨את⟩ si lafa san irraa xumuru — lafa sanis kan ati seenaa waraabuuf seenit.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "haa dhaabbatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "siirraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhukkuba dhibataa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dhukkuba dhibataa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sino"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "yoo xumuru"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafa sanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sanii"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "waraabuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:26.946223255Z",
+  "model": "glm-5.3"
+}

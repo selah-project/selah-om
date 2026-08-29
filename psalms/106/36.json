@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Fannaawwan isaanii ⟨את⟩ tajaajilan, isaanitiif mattanoo ta'aniiru.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "tajaajilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fannaawwan isaanii"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "fannaawwan isaanii"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitiif"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mattanoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:17.208866627Z",
+  "model": "glm-5.3"
+}

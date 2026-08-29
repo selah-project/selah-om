@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "«Akka dabalataatti, dhugumatti obboleettii koo ⟨ti⟩; imaammoo abbaa koo ⟨ti⟩, garuu miti imaammoo haadha koo; haadha manaa naa taates.»",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "akka dabalataatti"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "obboleettii koo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "imaammoo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "imaammoo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "haadha koo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "taates"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "haadha manaa taatee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:24.437296969Z",
+  "model": "glm-5.3"
+}

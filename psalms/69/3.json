@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Ani tukullii gad-fageenyaa keessatti nan lixe, dhaabbanni hin jiru; bishaan gad-fageenyaatti nan seene, riibichi na liqimse.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "nan lixe"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "tukullii"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "gad-fageenyaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "dhaabbanni"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nan seene"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "gad-fageenyaatti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "riibichi"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "na liqimse"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:29.559194986Z",
+  "model": "glm-5.3"
+}

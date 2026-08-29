@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yaahuushuun yaadowwan hedduudhaaf mootummoota kana hunda ⟨את⟩ waliin waraana hojjate.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "yaadowwan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hedduudhaaf"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yaahuushuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootummoota kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootummoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "waraana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:52:47.001506071Z",
+  "model": "glm-5.3"
+}

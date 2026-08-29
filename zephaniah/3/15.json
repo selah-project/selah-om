@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe murteewwan kee kaase, diina kee deebise; mootichi Israa'eel, Yahwe, gidduu kee ⟨jira⟩; kuniin booda miidhaa hin sodaattu.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "kaase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murteewwan kee"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "deebise"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "diina kee"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "gidduu kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "sodaattu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kuniin booda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:00:19.390334083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Yahwe baatuun kee fi seenuun kee ni eeggata, yeroo kanatti qabamee hanga dhaadachuu dachii.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ni eeggata"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "baatuun kee"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "fi seenuun kee"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "yeroo kanatti qabamee"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dhaadachuu dachii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:23.846479718Z",
+  "model": "glm-5.3"
+}

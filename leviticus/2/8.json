@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Gumaacha waan kanaan hojjatamu Yahweef dhiyeessuun; ⟨את⟩ gumaachicha fida, kadhataa bira geessisi, altarii irratti dhiyeessi.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "fida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumaachicha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "gumaachicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjatamu"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "dhiyeessuun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kadhataa"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "geessisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gadhi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:10.663157738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Haleelaa, Yaah! Nafsi kiyyoo, haleeli ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Haleelaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "haleeli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi kiyyoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:00.850352236Z",
+  "model": "glm-5.3"
+}

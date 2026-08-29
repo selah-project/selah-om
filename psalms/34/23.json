@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahwe lubbuu gabroottaa Isaa bilisoomsa, fi <isaan> kan Isatti hirkatan hundi hin balaa galmeessifaman.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "bilisoomsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroottaa Isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "balaa galmeessifaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "kan ... hirkatan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:36.273789710Z",
+  "model": "glm-5.3"
+}

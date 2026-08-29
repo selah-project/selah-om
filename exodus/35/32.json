@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Akka meeshaalee tolchuufi, warqii, kummiisii fi nyaachii bifa'aa keessatti.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "meeshaalee tolchuufi"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "tolchuuf"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "warqii"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "kummiisii"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "nyaachii bifa'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:05.950998531Z",
+  "model": "glm-5.3"
+}

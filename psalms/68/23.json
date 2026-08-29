@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Adoonaay jedhe: Baashaan irraa ni-deebisa, ni-deebisa holqa gadii bahaas.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Baashaan irraa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ni-deebisa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ni-deebisa"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "holqa gadii"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahaas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:37.093919074Z",
+  "model": "glm-5.3"
+}

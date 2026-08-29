@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "fi Xiileen fi waamicha ishee, Dibiirifi waamicha ishee.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Xiileen"
+    },
+    {
+      "surface": "חִילֵז֙",
+      "gloss": "Xiileen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "waamicha ishee"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֔יהָ",
+      "gloss": "waamicha ishee"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Dibiir"
+    },
+    {
+      "surface": "דְּבִ֖יר",
+      "gloss": "Dibiir"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "waamicha ishee"
+    },
+    {
+      "surface": "מִגְרָשֶֽׁיהָ",
+      "gloss": "waamicha ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:16.500060257Z",
+  "model": "glm-5.3"
+}

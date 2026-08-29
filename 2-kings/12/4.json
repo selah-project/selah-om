@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Garuu manneen olkaa'aa hin haqamne; namoonni heddun sadarkaa olkaa'aa irratti sunkuranuu fi saamii dabarsanuu jiru.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "manneen olkaa'aa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "haqamne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "heddun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "sunkuranuu"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "saamii dabarsanuu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sadarkaa olkaa'aa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:56.345056193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Garuu She'ooltti, gad dhaddacha boollaa gadi buufamta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'ool"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "gadi buufamta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gad"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "בור",
+      "gloss": "boollaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:50:05.299079525Z",
+  "model": "glm-5.3"
+}

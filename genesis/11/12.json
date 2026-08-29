@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Arpaxshadis waggaa shanffaa fi soddomaa-tamman guutuu jiraatee ⟨את⟩ Shelax dhalsee jira.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpaxshadis"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiraatee"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanffaa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "soddomaa-tamman"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalsee jira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelax"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelax"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:38.393659980Z",
+  "model": "glm-5.3"
+}

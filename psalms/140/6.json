@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Boononni foota naaf dhokatan, sararootas; riphacha doonii karaa irratti riphani; foota naaf dhaaban. Seelaa.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "dhokatan"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "boononni"
+    },
+    {
+      "surface": "פח",
+      "gloss": "foota"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "sararootas"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "riphani"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "riphacha doonii"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "foota (marmaroota)"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "dhaaban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:47.273609833Z",
+  "model": "glm-5.3"
+}

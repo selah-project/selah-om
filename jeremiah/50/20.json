@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Guyyoota sanaa fi yeroo sanaa, dubbii Yahwe: badii Israa'el ⟨את⟩ barbaadama, hin jiru; badii Yihuudaas ⟨את⟩ barbaadama, hin argamu; sababoonis kanan sii dhiifu kanan hamsiseef.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Guyyoota"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "fi yeroo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "dubbii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "barbaadama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badii Israa'el"
+    },
+    {
+      "surface": "עון",
+      "gloss": "badii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "badii Yihuudaa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "badii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "argamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababoonis"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "sii dhiifu"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "hamsiseef"
+    }
+  ],
+  "timestamp": "2026-08-29T09:57:32.879609226Z",
+  "model": "glm-5.3"
+}

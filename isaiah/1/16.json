@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Dhiqataa; qulqullaa'aa; hamtuu hojii keessan ija kiyya duraa irraa haadhuraa; hamtuu hojjechuu dhaabataa.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Dhiqataa"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "qulqullaa'aa"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "haadhuraa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "hojii keessan"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "duraa irraa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyya"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "dhaabataa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamtuu hojjechuu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:16.384021186Z",
+  "model": "glm-5.3"
+}

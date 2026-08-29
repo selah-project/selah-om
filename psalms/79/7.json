@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Sababiin isaanii Ya'aqob ⟨את⟩ ni vad'anii; manna isaais balleessaniiru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaanii"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ni vad'anii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manna isaa"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "manna isaa"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "balleessaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:47.382355766Z",
+  "model": "glm-5.3"
+}

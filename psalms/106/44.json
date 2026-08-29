@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Innis rakkoo isaanii ilaale, yeroo kararfannoo isaanii ⟨את⟩ dhaggeeffatu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "yeroo dhaggeeffatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kararfannoo isaanii"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "kararfannoo isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:35.217634943Z",
+  "model": "glm-5.3"
+}

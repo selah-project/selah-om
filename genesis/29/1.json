@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ya'aqobis faacha isaa ol kaasee deeme, gara biyya ilmaota bahaatti dhufe.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ol kaasee"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobis"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "faacha isaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "gara biyyaatti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaota"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bahaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:17.522605504Z",
+  "model": "glm-5.3"
+}

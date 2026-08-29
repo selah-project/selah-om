@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Ati yeroon kee seetu ebbaamta; yeroo baatuus ebbaamta.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ebbaamta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "yeroon kee seetu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ebbaamta (fi)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "yeroo baatuus"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:08.400099048Z",
+  "model": "glm-5.3"
+}

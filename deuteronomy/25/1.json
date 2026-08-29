@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yoo wal qabamu namoota gidduu ta'e, fi murtiitti dhiyyatan, isaani murtan, ⟨את⟩ karaa-qabaa karaa-qabaadhaan (haaran), fi ⟨את⟩ karaa-dhiiraa karaa-dhiiraadhaan (haaran).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "wal qabamu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "fi dhiyyatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "murtiitti"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "isaani murtan"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "(haaran)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaa-qabaa"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "karaa-qabaa"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "(haaran)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaa-dhiiraa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "karaa-dhiiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:44.359952020Z",
+  "model": "glm-5.3"
+}

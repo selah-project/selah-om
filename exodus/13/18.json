@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Eloohiimin ⟨את⟩ ummata naannoo'eesse, dalgee baddadare Galaana Suuphii; daa'immanni Israa'el dorkadhaan biyya Mitsraayim irraa ol ba'an.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "naannoo'eesse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalgee"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baddadare"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Galaana"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuphii"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dorkadhaan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ol-ba'an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "daa'imman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya-irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:27.131492445Z",
+  "model": "glm-5.3"
+}

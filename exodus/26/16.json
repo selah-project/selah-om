@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Kubaattii kudhan dheerina sarii tokkoo; kubaattii tokko fi kutaa kubaattii tokko bal'ina sarii tokko.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubaattii"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerina"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sarii"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "fi kubaattii tokko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi kutaa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kubaattii tokkoo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'ina"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sarii"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:41.222166411Z",
+  "model": "glm-5.3"
+}

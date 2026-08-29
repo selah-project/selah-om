@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yeroo sanaa hateenyootaan Neebukadnetsar mootii Baabilon garuu ol-bahan Yerushaalayim; magaalanniis maatala'aa seente.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol-bahan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hateenyootaan"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Neebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "seente"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalanniis"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "maatala'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:26.172832887Z",
+  "model": "glm-5.3"
+}

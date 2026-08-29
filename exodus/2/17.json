@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Herdareenwwan dhufanii isaan kuffisan; Moshees immoo ka'e, isaan baraarsa, raammota isaanii dabalchise ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "herdareenwwan"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "isaan kuffisan"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "isaan baraarsa"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dabalchise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raammota isaanii"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "raammota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:39.874892374Z",
+  "model": "glm-5.3"
+}

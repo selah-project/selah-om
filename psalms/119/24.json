@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Rabbi keesis gamaddaa koo ti; namoota gorsaa koo ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "-nis"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "rabbi keesis"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "gamaddaa koo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "gorsaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:00.570361525Z",
+  "model": "glm-5.3"
+}

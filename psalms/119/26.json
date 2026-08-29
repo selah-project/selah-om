@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Karaa koof barsiisaa natti himi, akkasumas deebi natti himi, seera kee natti barsiisi.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Karaa koo"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "natti himi"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "akkasumas deebi natti himi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "natti barsiisi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:10.195043293Z",
+  "model": "glm-5.3"
+}

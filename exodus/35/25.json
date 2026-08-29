@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Dubartootni onnee ogeessoo hunda harka isaaniitiin sirranii, maatin sirree isaanii fide: ⟨את⟩ tekeeleetii-buluu, ⟨את⟩ argameenaa, ⟨את⟩ diima tola'aa fi ⟨את⟩ ruqaa qulqulluu (shes).",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Dubartootni"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogeessoo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "harka isaaniitiin"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "sirranii"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "fide"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "maatin sirree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekeeleetii-buluu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeeleetii-buluu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "argameenaa"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argameenaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diima tola'aa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'aa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "diima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruqaa qulqulluu"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ruqaa qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:50.730711616Z",
+  "model": "glm-5.3"
+}

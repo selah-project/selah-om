@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe nam-tiksaa (nabii) ilmaan Israa'el biraa erguun isaan jedhe: Akkaana jedha Yahwe, Eloohiimii Israa'el: Ani ⟨את⟩ isaan Mitsraayimiin ol-kaase; mana hiccaattii irraas ⟨את⟩ isaan baase.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erguun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nam-"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "tiksaa (nabii)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "isaan jedhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akkaana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ol-kaase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "isaan (ergamtoota)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayimiin"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isaan",
+      "marks": "isaan (ergamtoota)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana ... irraa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hiccaattii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:03:30.764013319Z",
+  "model": "glm-5.3"
+}

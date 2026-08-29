@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 137,
+  "translation": "Afaan kiyya ceenya kiyya haa dabbatu yoon si hin yaadadhu; yoon Yerushaalaym ⟨את⟩ ganna kenna kiyya mataa irratti hin ol-qabu.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "haa dabbatu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "afaan kiyya"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ceenya kiyya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "si hin yaadadhu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "hin ol-qabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalaym"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ganna kenna kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:21.599536517Z",
+  "model": "glm-5.3"
+}

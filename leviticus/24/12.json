@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Isaan isa eegannaa keessa teessisan, akka boca Yahweetti isaan irratti hiikamuuf.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "isa teessisan"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "eegannaa keessa"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "akkka hiikamuuf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "על",
+      "gloss": "boca"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Yahweetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:21.431867009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Elooha Teemaan irraa dhufa; Qulqulluun gar gaar Faraan irraa. Seelaa. Ulfinni isaa samii hundes; faarfanna isaa lafa guutte.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "Teemaan irraa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "ווקדוש",
+      "gloss": "Qulqulluun"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gaar irraa"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Faraan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "hundes"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Ulfinni isaa"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "faarfanna isaa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "guutte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:59:19.170601639Z",
+  "model": "glm-5.3"
+}

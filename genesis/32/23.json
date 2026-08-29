@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Innis halkan sana ka'ee, ⟨את⟩ hiikoo lamatti isaa fi ⟨את⟩ shummoota lamatti isaa fi ⟨את⟩ ilmaan kudhan-tokko isaa fudhatee, ⟨את⟩ ce'umsa Yabboq ce'e.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'ee"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiikoo lamatti isaa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lamatti"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hiikoo isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shummoota lamatti isaa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lamatti"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "shummoota isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan kudhan-tokko isaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ce'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce'umsa Yabboq"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ce'umsa"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-08-29T04:39:23.090970336Z",
+  "model": "glm-5.3"
+}

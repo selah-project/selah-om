@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Yahwe bishaan Suufii gaafachiise, innis gogee; akka baddaan keessa isaan geessise, akka qarsummaan teessoo gurguddaa keessa.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "gaafachiise"
+    },
+    {
+      "surface": "בים",
+      "gloss": "bishaan Suufii keessaa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suufii (bishaan raacha)"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "gogee"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "isaan geessise"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "teessoo gurguddaa keessa"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "akka baddaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:44.075207051Z",
+  "model": "glm-5.3"
+}

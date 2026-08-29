@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Isin ammoo dhiyaaa keessaaa, ilmaan seer-seerummaa, sanyii dirqama malee raawwatuuf kan jaalala badaa raawwateeti.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Isin ammoo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "dhiyaaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "keessaaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "seer-seerummaa (faallaa)"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "dirqama malee raawwatuuf"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "kan jaalala badaa raawwateeti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:14:48.786799850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Hamtuun si hin qunnamsiisu; miidhaanis tentii kee hin dhihaatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "qunnamsiisu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuun"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "miidhaanis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "dhihaatu"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "tentii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.931230575Z",
+  "model": "glm-5.3"
+}

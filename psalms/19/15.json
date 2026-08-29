@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Jechoonni afaan koo yaadannoon onnee koo fuuldura kee irratti jaallatamu haa ta'u, Yahwe, cibiin koo, badhaasaa koo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "jaallatamu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan koo"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "yaadannoon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee koo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura kee irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "cibiin koo"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "badhaasaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:45.409922407Z",
+  "model": "glm-5.3"
+}

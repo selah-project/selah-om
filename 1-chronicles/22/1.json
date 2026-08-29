@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Daawidinis ni jedhe: kanaan — kuni mannaa Yahwe Eloohiimii ti; kuninis altaraa gatii bishaaniitiif kan Yisraa'el ti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawidinis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mannaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuninis"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaraa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "gatii bishaaniitiif"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kan Yisraa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T13:41:22.307457042Z",
+  "model": "glm-5.3"
+}

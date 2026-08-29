@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Itiis hanga waraana samiitti guddate; waraana fi urjiiwwan keessaa tokko tokkollee lafa irratti buuse, isaan dullaa'e.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "guddate"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "buuse"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "fi kan"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "urjiiwwan"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "isaan dullaa'e"
+    }
+  ],
+  "timestamp": "2026-08-29T13:07:35.045438942Z",
+  "model": "glm-5.3"
+}

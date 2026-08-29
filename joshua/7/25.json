@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yehooshuas immoo ni jedhe, \"Maal nu rukute! Yahwe guyyaa kana si rukuta.\" Israa'eli hundi ganama ⟨את⟩ isaa dhagaatiin rukutanii, ibiddaatiinis ⟨את⟩ isaan guban, dhagaatiinis ⟨את⟩ isaan rukutan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "nu rukute"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "si rukuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eli"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "guban"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatiinis"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "rukatan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "dhagaatiinis"
+    }
+  ],
+  "timestamp": "2026-08-29T06:45:41.123601131Z",
+  "model": "glm-5.3"
+}

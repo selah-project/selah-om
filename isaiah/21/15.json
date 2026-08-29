@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "For from before the swords they fled; from before a sword drawn, and from before a bow bent, and from before the heaviness of war.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "the swords"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "they fled"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a sword"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "drawn"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "and from before"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "a bow"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "bent"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "and from before"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "the heaviness"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "of war"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:58.170108259Z",
+  "model": "glm-5.3"
+}

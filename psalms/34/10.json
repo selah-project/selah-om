@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahwe-yoo, qulqullummaan Isaa isa kabajaa; kanneen Isa-rorreefi dogoggora hin jiru.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "qulqullummaan Isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "isiif"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kanneen Isa-rorreef"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:10.591059129Z",
+  "model": "glm-5.3"
+}

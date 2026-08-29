@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Manicha qulqullummaa qulqullummaa qulqullaa keessatti kerubiwwan lama hojii aleqqaa taasise; isaan ⟨את⟩ dahabaanippi'e.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qulqullummaa qulqullaa"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubiwwan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "aleqqaa"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "dahabaanippi'e"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (kerubiwwan lama)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:26.374303090Z",
+  "model": "glm-5.3"
+}

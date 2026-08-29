@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Keessoonni walii galaniirraa akka maallaqa ⟨את⟩ ummata irraa hin fudhannef, akkasumas akka ⟨את⟩ harmaqa manaicha jabeessannee hin taane.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "walii galaniirraa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "keessoonni"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akka hin taane"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "fudhachuu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "maallaqa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "irraa ⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "akkumas akka hin taane"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "jabeessuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harmaqa manaicha"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "harmaqa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manaicha"
+    }
+  ],
+  "timestamp": "2026-08-29T14:54:01.199674534Z",
+  "model": "glm-5.3"
+}

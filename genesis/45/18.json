@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Abbaa keessan ⟨את⟩ fi manneen keessan ⟨את⟩ fudhadhaa, natti kottaa; ani isiniif ⟨את⟩ tolfamummaa biyya Mitsraayim kennaa, ⟨את⟩ dadacha biyyaas nyaadhaa.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abbaa keessan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "Abbaa keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manneen keessan"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "manneen keessan"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kottaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ani kennaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolfamummaa biyya Mitsraayim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolfamummaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "nyaadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadacha biyyaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "dadacha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:11.785611491Z",
+  "model": "glm-5.3"
+}

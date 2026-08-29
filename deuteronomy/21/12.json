@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Mana kee keessaa isheetti geessisu; innis ⟨את⟩ mataa ishee miilluulee ishees sooratu.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "isheetti geessisu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "Mana kee"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "miilluulee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa ishee"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "mataa ishee"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "sooratu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinna ishee"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "cinna ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:27:06.519995416Z",
+  "model": "glm-5.3"
+}

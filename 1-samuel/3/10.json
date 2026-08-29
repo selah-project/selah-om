@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe dhufe, dhaabbatee; akkuma yeroo duraatti 'Shamuu'el, Shamuu'el!' waame. Shamuu'elis 'Dubbi, sababiin abjaan Kee dhageeffa jira' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "dhaabbatee"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "akkuma yeroo"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dubbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageeffa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abjaan Kee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:41:49.906502727Z",
+  "model": "glm-5.3"
+}

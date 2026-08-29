@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Bareeduwa ishii onnee kee keessatti hin barbaadin, ishiinis kopheen ijaa ishii si hin fudhinuutu jedhu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "hin barbaadin"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "bareeduwa ishii"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "onnee kee keessatti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ishiinis hin"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "hin fudhinuutu si"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "kopheen ijaa ishii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:16.862042196Z",
+  "model": "glm-5.3"
+}

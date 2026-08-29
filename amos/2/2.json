@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 2:2",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ibidda Moo'aab irratti ni erga; kunis minneewwan ol-kaa'aa Keehirooyyotii ni balaqqisa; Moo'aabin rukuttaa keessaa, akeekachiisa dhundhulxaan fooressaas ni du'a.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ni erga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Ibidda"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "Moo'aab irratti"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ni balaqqisa"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "minneewwan ol-kaa'aa"
+    },
+    {
+      "surface": "הקריות",
+      "gloss": "Keehirooyyotii"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ni du'a"
+    },
+    {
+      "surface": "בשאון",
+      "gloss": "rukuttaa keessaa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aabin"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "akeekachiisa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dhundhulxaan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "fooressaas"
+    }
+  ],
+  "timestamp": "2026-08-29T10:47:14.540309958Z",
+  "model": "glm-5.3"
+}

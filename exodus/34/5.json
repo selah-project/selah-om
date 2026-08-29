@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yahwe buufuuraa bu'e, akkasumas isaa wajjin sana dhaabbate, maqaa Yahwe mogaasise.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "buufuuraa"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaa wajjin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mogaasise"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:22:00.263214945Z",
+  "model": "glm-5.3"
+}

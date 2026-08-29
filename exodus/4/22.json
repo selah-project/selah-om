@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Far'ooniin immoo \"Akka kana jedhe Yahwe: Israa'el damee koo ti, damee tokkoffaa koo ti\" jedhit.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jedhit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Far'oon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "damee koo"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "damee tokkoffaa koo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:48.363454664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Abaarsa akka uffata isaa uffate; akka bishaan keessa isaa seenu, akkasumas akka dhadhaa lafee isaa keessatti taatu.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "uffate"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "abaarsa"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "akka uffata isaa"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "akka bishaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "keessa isaa"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "akka dhadhaa"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "lafee isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:13.240749949Z",
+  "model": "glm-5.3"
+}

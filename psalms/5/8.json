@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Anis baay'ina kheesed-kee irratti mana kee seena; gara mana qulqullummaa kee raggadaadhaan nan gabbaraa, raggadaadhaan si nan sodaana.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'ina... irratti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-kee"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "seena"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "raggadaadhaan nan gabbaraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qulqullummaa kee"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "raggadaadhaan si nan sodaana"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:48.857112471Z",
+  "model": "glm-5.3"
+}

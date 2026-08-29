@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Kan Israa'eel ida'i isaanii baaseef; kanaaf kheesdi isaa yeroo hunda ture.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Kan baaseef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ida'i isaanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesdi isaa ture"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:07.863329718Z",
+  "model": "glm-5.3"
+}

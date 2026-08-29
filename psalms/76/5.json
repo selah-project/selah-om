@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Ifa taateetta Ati, adiroo minngufaadha, gaarreen boolawaa irra caalmaa.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Ifa taateetta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "adiroo minngufaadha"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "boolawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:14.619439663Z",
+  "model": "glm-5.3"
+}

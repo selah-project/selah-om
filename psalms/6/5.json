@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Deemi, Yahwe; lubbuu koo baasi; sababa kheesed-keeti na haaraadha.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "baasi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "na haaraadha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed-keeti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:01.812792073Z",
+  "model": "glm-5.3"
+}

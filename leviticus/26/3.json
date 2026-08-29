@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Yoo seeraawwan koo keessa deemanii, ajajjiwwan koo ⟨את⟩ eeganii, ⟨את⟩ isaan raawwiftan —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "seeraawwan koo keessa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ajajjiwwan koo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajajjiwwan koo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eeganii"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "raawwiftan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:26:32.083890923Z",
+  "model": "glm-5.3"
+}

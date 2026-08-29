@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Haadhi ⟨את⟩ ishee gogaa isaatti wal-xiqeessise; gocha isaanii irratti ni'atu.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "wal-xiqeessise"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "haadhi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "gogaa isaatti"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ni'atu"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "gocha isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:10.116818204Z",
+  "model": "glm-5.3"
+}

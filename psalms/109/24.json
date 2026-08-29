@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Sanyiwwan koo somaan dadhabani; bineensi koo somaa gatii malee shaallabii dha.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "sanyiwwan koo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "dadhabani"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "somaan"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "fi bineensi koo"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "shaallabii dha"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "somaan\/shaallabii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:03.080000169Z",
+  "model": "glm-5.3"
+}

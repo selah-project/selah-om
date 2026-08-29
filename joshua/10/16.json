@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Mootonni shan kun immoo diiganii, holqa Makkeedaa keessatti dhokatan.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "diiganii"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "shan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "Mootonni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "dhokatan"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "holqa"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "Makkeedaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:46:20.450548928Z",
+  "model": "glm-5.3"
+}

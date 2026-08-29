@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Haa beekanu harki kee ⟨the⟩ kun akka ta'uu, ati, Yahwe, ⟨ishee⟩ hojjette.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Haa beekanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka ta'uu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harki kee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hojjette"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:03.890418873Z",
+  "model": "glm-5.3"
+}

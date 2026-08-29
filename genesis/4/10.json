@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Innis ni jedhe: «Maal hojjete? Sagaleen dhiiga obboleessi kee lafa irraa gara kiyyaatti kaasaa jira.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessi kee"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "kaasaa jira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyyaatti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:21.253985283Z",
+  "model": "glm-5.3"
+}

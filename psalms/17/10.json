@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Dibina isaanii cufaniira; afaan isaanii boonsaan dubbatani.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "dibina isaanii"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "cufaniira"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "afaan isaanii"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dubbatani"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "boonsaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:43.831965050Z",
+  "model": "glm-5.3"
+}

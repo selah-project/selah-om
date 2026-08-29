@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahween Mosheetti dubbatee akkana jedhe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkana jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:04.384282843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Isaatif akka kanaan jedhe: \"Akkaana jedhe Yiftiich: Israa'el ⟨את⟩ biyya Moo'aabii fi ⟨את⟩ biyya ilmaan Ammon hin fudhanne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatif"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka kanaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftiich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhanne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Moo'aabii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aabii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "biyya ilmaan Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-29T07:09:27.278302757Z",
+  "model": "glm-5.3"
+}

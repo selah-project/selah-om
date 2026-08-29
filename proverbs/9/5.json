@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kottaa, midhaan koo soorataa, fi dheebuu waan makhe koo dheehaa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kottaa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "soorataa"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "midhaan koo"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "dheehaa"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "waan makhe koo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:45.163904992Z",
+  "model": "glm-5.3"
+}

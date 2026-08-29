@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Mosheenifi Aharooniis akka Yahwen ajajetti isaan godhaa — akkasuma godhan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoonis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaaniif (Moshee fi Aharoon)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "godhan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:15.833029815Z",
+  "model": "glm-5.3"
+}

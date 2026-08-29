@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Abbaan qaaliis isaaniit Yahwe dura ni dhiyeessa, qurba dilbataa isaa ⟨את⟩ fi qurba gubamee isaa ⟨את⟩ ni hojjeda.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ni dhiyeessa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abbaan qaalii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ni hojjeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurba dilbataa isaa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "qurba dilbataa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qurba gubamee isaa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "qurba gubamee isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:52:03.747156418Z",
+  "model": "glm-5.3"
+}

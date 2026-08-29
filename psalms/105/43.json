@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Saba isaa gammachaan baase, silaaltiin ⟨את⟩ filattootan isaa.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saba isaa"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "gammachaan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "silaaltiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filattootan isaa"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "filattootan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:20.929711267Z",
+  "model": "glm-5.3"
+}

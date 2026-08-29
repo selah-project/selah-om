@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yeroo qeessi adabamu, suubbisni akkaas ta'a; yeroo ogeessaa barsiisamus, beekumsa fudhata.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "adabamu keessatti"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "qeessi"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "akkaas ta'a"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "suubbisni"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "fi yeroo barsiifamu"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ogeessaa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:00.943961117Z",
+  "model": "glm-5.3"
+}

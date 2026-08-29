@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Si natti nan heerumsiisa amantii keessattis; atis ⟨את⟩ Yahwe beekta.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "nan heerumsiisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amantii keessattis"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "beekta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:25.694596297Z",
+  "model": "glm-5.3"
+}

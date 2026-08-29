@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Lafa rukute, ammas samiiwwan dhukkubbate fuula Eloohiim duraa; kun Siinayi — fuula Eloohiim, Eloohiim Israa'eel duraa.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ammis"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "dhukkubbate"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fuula ... duraa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinayi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fuula ... duraa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:59.566626433Z",
+  "model": "glm-5.3"
+}

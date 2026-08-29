@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Daawidis akkuma Yahwe isa ajajetti hojjate; warra Filistii ⟨את⟩ Gebaa irraa hanga Goozeriin geessutti rukute.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra Filistii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "warra Filistii"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Gebaa irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "באך",
+      "gloss": "geessutti"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Goozerii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:45:11.685763558Z",
+  "model": "glm-5.3"
+}

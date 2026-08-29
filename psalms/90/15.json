@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Akkuma guyyoota nutti miidheetti, akkasumas waggoota hamtuu nuti arginee jedhii nutti gammachiisi.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "nutti gammachiisi"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "Akkuma guyyoota"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "nutti miidheetti"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nuti arginee"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:04.185370955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Chaacha Suukkotaa torban guyyaa siif taasifattaa, yeroo meddaa midhaanii kee fi bakka jaraan kee irraa walitti qabdu.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "chaacha"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Suukkotaa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "taasifattaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "yeroo walitti qabdu kee"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "meddaa midhaanii kee"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "fi bakka jaraan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:25:30.148237453Z",
+  "model": "glm-5.3"
+}

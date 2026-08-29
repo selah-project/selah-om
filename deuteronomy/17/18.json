@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yeroo inni teessoo mootummaa isaa irratti muudamu ta'e, innis ofiif malawaa Tooraa kana ⟨את⟩ barreeffamaatti, gara duraa qaalotaa Lewii irraa, ni barreessa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "yeroo inni muudamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "mootummaa isaa"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ni barreessa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malawaa"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "malawaa"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tooraa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "barreeffamaatti"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gara duraa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qaalotaa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:36:11.474284931Z",
+  "model": "glm-5.3"
+}

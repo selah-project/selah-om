@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Mishoolee mootummaa Menashe irraas ⟨את⟩ Taanakii fi ⟨את⟩ qarqara ishee, ⟨את⟩ Gath-Rimmoonii fi ⟨את⟩ qarqara ishee [isaaniif kennaniif]; magaalotni lama.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "mishoolee irraas"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakii"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qarqara ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "qarqara ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Gath-Rimmoonii"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "qarqara ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "qarqara ishee"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalotni"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "lama"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:45.275844174Z",
+  "model": "glm-5.3"
+}

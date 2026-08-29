@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Warri tokkos gabatee fardee irratti, warri tokkos fardee irratti; nuti immoo maqaa Yahwe Eloohiim keenya irratti ⟨amanna⟩, isa yaadanna.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "warri tokkos"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "gabatee fardee irratti"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "warri tokkos"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "fardee irratti"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nuti immoo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "isa yaadanna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:02.579197292Z",
+  "model": "glm-5.3"
+}

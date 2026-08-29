@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 17:14",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ana mana koo keessaa fi mootummaa koo keessaa yeroo hunda irratti dhaabbisa; gadoomina isaa isaas yeroo hunda dhaabbata.",
+  "tokens": [
+    {
+      "surface": "והעמדתיהו",
+      "gloss": "dhaabbisa"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "mana koo keessaa"
+    },
+    {
+      "surface": "ובמלכותי",
+      "gloss": "mootummaa koo keessaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo hunda irratti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "(hunda)"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "gadoomina isaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "isaas"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "(hunda)"
+    }
+  ],
+  "timestamp": "2026-08-29T13:39:46.371477530Z",
+  "model": "glm-5.3"
+}

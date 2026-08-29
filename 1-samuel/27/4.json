@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Sha'uuliinis 'Daawidi Gaatti bahe' jedhuun beekamsiifame; innis dabalataan isa hin barbaanne.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "beekamsiifame"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sha'uuliinis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gaatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "dabalataan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataan barbaanne"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "isa hin barbaanne"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:54.128411373Z",
+  "model": "glm-5.3"
+}

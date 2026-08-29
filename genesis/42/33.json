@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Dhiirsi san, Adoonaay biyyaa, nutti akkas jedhe: kanaan beeka akka dhugaa taatan; obboleeyyan keessan tokko ana wajjin dhiisaa, ⟨את⟩ qoricha beela manaa keessan fudhadhaa, deemaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dhiirsi san"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyaa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "dhugaa taatan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "obboleeyyan keessan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "dhiisaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ana wajjin",
+      "marks": "ana wajjin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoricha beela manaa keessan"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "beela"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "manaa keessan"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "deemaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:49.572186358Z",
+  "model": "glm-5.3"
+}

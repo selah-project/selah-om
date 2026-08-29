@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Raam immoo ⟨את⟩ Amiinadaab horookhate; Amiinadaabimmoo ⟨את⟩ Nakhashoon horookhate — abbaa-onnee ilmaan Yahuudaa.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Raam"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horookhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amiinadaab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amiinadaab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "Amiinadaabimmoo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horookhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhashoon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhashoon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "abbaa-onnee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:22.051074234Z",
+  "model": "glm-5.3"
+}

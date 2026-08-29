@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Yahween Mosheeff jedhe: \"Jecha kanaas, waan ati dubbatte, nippiiha; sababaa jaalala iyyoo kiyya keessatti argatte, maqaan dhaanis si beeka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-eff"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "immoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "dubbatte"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nippiiha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "argatte"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iyyoo kiyya keessatti"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "si beeka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaan dhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:21.723995440Z",
+  "model": "glm-5.3"
+}

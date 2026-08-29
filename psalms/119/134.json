@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Miidhannoo namootaa irraa na baasi; ajajoo kee ni eega.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "na baasi"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "miidhannoo irraa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ni eega"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ajajoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:02.429646671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Innis isaatti jedhe: Ati beekta ⟨את⟩ waan siif tajaajile fi ⟨את⟩ waan beyladaan kee waliin kiyya ⟨את⟩ ture.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "innis jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beekta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan siif tajaajile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "siif tajaajile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan beyladaan kee waliin kiyya ture"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "beyladaan kee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ waliin kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:41:40.305605951Z",
+  "model": "glm-5.3"
+}

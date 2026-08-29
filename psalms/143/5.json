@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Guyyoota duraa yaadadhe; hojiiwwan kee hunda irratti xinxaladhe; hojii harka keetii irratti xiinxala.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "yaadadhe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "xinxaladhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "hojiiwwan kee"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "hojii irratti"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "harka keetii"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "xiinxala"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:36.459398659Z",
+  "model": "glm-5.3"
+}

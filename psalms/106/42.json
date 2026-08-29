@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Diinoonni isaan dhiibanii; isaanis harka isaanii jala kufan.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "isaan dhiibanii"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "diinoonni isaan"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "harka isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:35.217395995Z",
+  "model": "glm-5.3"
+}

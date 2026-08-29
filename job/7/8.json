@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Iji na argitu hin na argatu; ijii kee ijoorrees, ani hin jiru.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "na argatu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iji"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "argituu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ijii kee"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ijoorrees"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ani hin jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T12:18:09.426997945Z",
+  "model": "glm-5.3"
+}

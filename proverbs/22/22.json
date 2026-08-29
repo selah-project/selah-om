@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Hiyyeessa hin saaphamuu, sababiin isaan hiyyeessa dha; miidhaa kan gaddes baayyee sadarkaa gate irratti hin dugaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "saaphamuu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "hiyyeessa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "hiyyeessa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "dugaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miidhaa kan gaddes"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sadarkaa gate irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:23.612875343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Qulqullummaa kiyya yalaabde, fi ⟨את⟩ sabboota kiyya falmessite.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "qulqullummaa kiyya"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "yalaabde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabboota kiyya"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabboota kiyya"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "falmessite"
+    }
+  ],
+  "timestamp": "2026-08-29T15:12:57.990965273Z",
+  "model": "glm-5.3"
+}

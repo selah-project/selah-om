@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Riyyuu isaa ol baasee, garuu ⟨את⟩ qaxeexxa riyyuu isaa hin baasu; kohaanni ⟨את⟩ qaxeexxa guyyaa torbaan lammattii cufa.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "riyyuu isaa ol baasee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qaxeexxa"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "qaxeexxa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "baasu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "cufa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohaanni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaxeexxa"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "qaxeexxa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lammattii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:10.914201411Z",
+  "model": "glm-5.3"
+}

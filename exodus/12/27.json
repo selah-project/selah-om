@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Isin ni jettu: 'Qurba Paaska Paaska Yahwe ti, kan Mitssraayim keessatti yeroo ⟨את⟩ Mitssraayim rukutu manaalee ilmaan Yisraa'eel irratti darbee ⟨את⟩ manneen keenya baraare.' Sabaan kun gadi buute fe'ee.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ni jettu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Qurba"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paaska"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kan Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "darbee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "manaalee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitssraayim keessatti"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "yeroo rukutu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitssraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitssraayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manneen keenya"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "manneen keenya"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "baraare"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "gadi buute"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan kun"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "fe'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:08.016714676Z",
+  "model": "glm-5.3"
+}

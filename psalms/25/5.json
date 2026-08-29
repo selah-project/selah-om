@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Dhugaa keetti na qajeelchi, natti barsiis, kanaaf Ati Eloohiim badhaadhummaa koo ⟨ti⟩; guyyaa hunda ⟨את⟩ siin eeggadheera.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "na qajeelchi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dhugaa keetti"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "natti barsiis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badhaadhummaa koo"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ siin"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "eeggadheera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:07.042448621Z",
+  "model": "glm-5.3"
+}

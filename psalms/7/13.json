@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yoo hin deebine, meeera Isaa ni laalta; kaachoo Isaa daawwateefi, dandaachisee Isaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "deebine"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "meeera Isaa"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "ni laalta"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "kaachoo Isaa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daawwateefi"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "dandaachisee Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:52.600801423Z",
+  "model": "glm-5.3"
+}

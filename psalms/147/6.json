@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Yahwe simmatoota deeggara; hamtuuwwan hanga lafaa buusa.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "deeggara"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "simmatoota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "buusa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hamtuuwwan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:37.579436131Z",
+  "model": "glm-5.3"
+}

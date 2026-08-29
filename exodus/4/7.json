@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akkas jedhe: 'Harka kee gara gonda keetti deebisi.' Harki isaa gara gonda isaa deebisee; gonda isaa irraa baafachusaa, kaadu, akka gogaa isaa deebiteera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "השב",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "gonda keetti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harki isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "gonda isaa"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "baafachusaa"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "gonda isaa irraa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kaadu"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "deebiteera"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "akka gogaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:42.451832598Z",
+  "model": "glm-5.3"
+}

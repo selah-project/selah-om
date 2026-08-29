@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Abbaan-eebbaa gorsa geddaatti ⟨isaa⟩ seesisu, mataa isaa ⟨את⟩ baafachu, gorsa geddaa irratti ijaaruu; dhiiga isaa gargar baafachu, gorsa geddaa dhuma irra.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "seesisu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abbaan-eebbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "geddatti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gorsa geddaa"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "baafachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa isaa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ijaaruu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "gorsa geddaa irratti"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "gargar baafachu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiiga isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gorsa geddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:12.083228310Z",
+  "model": "glm-5.3"
+}

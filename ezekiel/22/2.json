@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ati, ilma namaa, feetaa, feetaa ⟨את⟩ magaalaa dhiigaa? Akkasumas ishee beeksiisi waan jibbamaa ishee hunda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "feetaa"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "feetaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa dhiigaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "beeksiisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan jibbamaa ishee hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "waan jibbamaa ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:15:57.471333880Z",
+  "model": "glm-5.3"
+}

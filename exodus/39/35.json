@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "⟨את⟩ sanduqa ragaa, ⟨את⟩ utuboota isaa, fi ⟨את⟩ Kapporeet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa ragaa"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "utuboota isaa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "utuboota isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kapporeet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporeet"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:20.582710742Z",
+  "model": "glm-5.3"
+}

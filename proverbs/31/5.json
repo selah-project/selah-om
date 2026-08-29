@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Akkaa hindhibbanee, seeraa daguu, murtii ilmaan rakkatinii hundaas midhagsuu.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "akkaa hin"
+    },
+    {
+      "surface": "יִ֭שְׁתֶּה",
+      "gloss": "dhibbanuu"
+    },
+    {
+      "surface": "וְיִשְׁכַּ֣ח",
+      "gloss": "daguu"
+    },
+    {
+      "surface": "מְחֻקָּ֑ק",
+      "gloss": "seeraa"
+    },
+    {
+      "surface": "וִֽ֝ישַׁנֶּה",
+      "gloss": "midhagsuu"
+    },
+    {
+      "surface": "דִּ֣ין",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "hundaas"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עֹֽנִי",
+      "gloss": "rakkatinii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:41.265212376Z",
+  "model": "glm-5.3"
+}

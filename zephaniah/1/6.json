@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akkasumas ⟨את⟩ kan deebisan duuba Yahwe irraa, fi kan hin barbaadan ⟨את⟩ Yahwe, fi kan hin barsiifne ofii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kan deebisan"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "kan deebisan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "duuba ... irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "barsiifne ofii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:59:36.221245979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Waggaa kudhan-lama Kedoorla'omeritti tajaachilaniiru, waggaa kudhan-saddeet keessattis baati'aniiru.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tajaachilaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedoorla'omer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedoorla'omer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "fi kudhan-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "baati'aniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:14.005294656Z",
+  "model": "glm-5.3"
+}

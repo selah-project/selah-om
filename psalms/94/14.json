@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Yahwe ummata Isaa hin booddessu, dhaalcha Isaa ammalee hin dhiisu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "booddessu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata Isaa"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "dhaalcha Isaa ammalee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "dhiisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:57.135926140Z",
+  "model": "glm-5.3"
+}

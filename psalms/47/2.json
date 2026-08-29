@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Sabni hundi harka taphadhaa; Eloohiimiif sagalee gammachuudhaan hiyyeessadhaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "taphadhaa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "harka"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hiyyeessadhaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimiif"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagaleedhaan"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "gammachuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:26:39.229924558Z",
+  "model": "glm-5.3"
+}

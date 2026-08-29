@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Dhiigni hin qabne fi mindaa-qabu sun isaa hin nyaatanu.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "dhiigni hin qabne"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "fi mindaa-qabu sun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaatanu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:54.374363805Z",
+  "model": "glm-5.3"
+}

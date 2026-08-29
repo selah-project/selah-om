@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Sababa kanaatiin olaanaa qulqullina isaa irraa Yaatte; Yahwe samiiwwanii irraa lafatti ilaale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaatiin"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "Yaatte"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "olaanaa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqullina isaa irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samiiwwanii irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafatti"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ilaale"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:47.595324949Z",
+  "model": "glm-5.3"
+}

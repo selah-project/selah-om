@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 5:10",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Mootittiin, sababa jechoota mootichaa fi guddoota isaa, mana awwaala keessa seente; mootittiin deebitee dubbatte: Mooticha, yeroo hunda jiraadhu! Yaadni kee hin ruge, ijaarroon kee hin jijjiiramuu.",
+  "tokens": [
+    {
+      "surface": "מלכתא",
+      "gloss": "Mootittiin"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "fi guddoota isaa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana ... keessa"
+    },
+    {
+      "surface": "משתיא",
+      "gloss": "awwaalaa"
+    },
+    {
+      "surface": "עללת",
+      "gloss": "seente"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "deebitee"
+    },
+    {
+      "surface": "מלכתא",
+      "gloss": "mootittiin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "fi dubbatte"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Mooticha"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבהלוך",
+      "gloss": "ruge"
+    },
+    {
+      "surface": "רעיונך",
+      "gloss": "yaadni kee"
+    },
+    {
+      "surface": "וזיויך",
+      "gloss": "fi ijaarroon kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישתנו",
+      "gloss": "jijjiiramuu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:00:43.093047115Z",
+  "model": "glm-5.3"
+}

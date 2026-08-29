@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ammas garuu deebi'i, nagaa waliin adeemsi, hamtuu ija seranoota Filisxiim keessatti hin hojjedhu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ammans garuu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebi'i"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "adeemsi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nagaa waliin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ija"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "seranoota"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisxiim"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:44.283550685Z",
+  "model": "glm-5.3"
+}

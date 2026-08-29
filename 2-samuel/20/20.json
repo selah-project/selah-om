@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yoowaabis deebisee ni jedhe: \"Hangaf, hangaf naaf — ani liqimsuu yookiin balleessu hin dadhabu.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaabis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Hangaf"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "hangaf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hin dadhabu —"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "liqimsuu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "balleessu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:55:50.550853399Z",
+  "model": "glm-5.3"
+}

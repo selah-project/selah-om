@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Manaa Ah'aab abbaa kee si rasa; kuniis dhiiga gabroota kootii raajjootaa fi dhiiga gabroota Yahwe hunda harka Iizebel irraa nan madaaluuf.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "si rasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaa Ah'aab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ah'aab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "nan madaaluuf"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabroota kootii"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "raajjootaa"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iizebel"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:29.118971263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 14:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Warri qubannichaa Yonataanii fi ⟨את⟩ meeshaa-harka isaa deebisanii: “Nu irratti ol-aa, wanta tokko ⟨את⟩ isin beeksifna.” Yonataanis meeshaa-harka isaatii jedhe: “Booda kooti ol-aa; sababiin Yahwe isaan harka Israa'eliitiif kenneef.”",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "warri"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "qubannichaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonataanii"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonataanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaa-harka isaa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "meeshaa-harka"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ni jedhan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Ol-aa"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "ונודיעה",
+      "gloss": "beeksifna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanta tokko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonataanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "meeshaa-harka"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Ol-aa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda kooti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "isaan kenneef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eliitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T07:26:15.735533392Z",
+  "model": "glm-5.3"
+}

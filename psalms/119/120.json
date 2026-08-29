@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Gogaa kiyya sababee jira sababa ati arrawwaa'uu kee; arrawwan kee irraas sodaadheera.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "sababee jira"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "sababa arrawwaa'uu kee"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "gogaa kiyya"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "arrawwan kee irraas"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "sodaadheera"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:56.906377074Z",
+  "model": "glm-5.3"
+}

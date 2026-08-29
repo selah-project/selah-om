@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 28:39",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Kutuu lifa qulqulluu karari; miizanfaa lifa qulqulluu taasi; maraa hojii buna adda addaa taasi.",
+  "tokens": [
+    {
+      "surface": "ושבצת",
+      "gloss": "karari"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutuu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lifa qulqulluu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "taasi"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "miizanfaa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lifa qulqulluu"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "maraa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "taasi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "buna adda addaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:26.609085585Z",
+  "model": "glm-5.3"
+}

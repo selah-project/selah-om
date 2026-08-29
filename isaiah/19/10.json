@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Bu'uuran ishee ni cajjoomu ta'a; mindaa hojjettotni hundiinuu lubbuu dhiphattaan.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "bu'uuran ishee"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "ni cajjoomu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundiinuu"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "hojjettotni"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mindaa"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "dhiphattaan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:40.899973305Z",
+  "model": "glm-5.3"
+}

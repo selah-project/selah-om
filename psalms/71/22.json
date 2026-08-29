@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Anis siin galata galmeessa — cunqoo araraa koo kan keeyyata, kan kennaa fi waancaa saddeetaatiin — Adoonaay Waaqay koo; kiinnoriin siin zimreessa, Kaadis Israa'el.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "siin galata galmeessa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "kee — kan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "waancaa saddeetaa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cunqoo araraa koo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Waaqay koo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zimreessa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siin"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kee — kiinnoriin"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kaadis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:04.860702828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Hojii kee gabrootta kee irratti argamsiisi, miidhaginaa kees immoo ilmaan isaanii irratti.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "argamsiisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabrootta kee"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Hojii kee"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "miidhaginaa kees"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilmaan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:04.185475750Z",
+  "model": "glm-5.3"
+}

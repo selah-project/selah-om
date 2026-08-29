@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Namni ija kufaa qabu qabeenyaa hawwi; dhibiin isa ga'u akka hin beeku.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "hawwi"
+    },
+    {
+      "surface": "להון",
+      "gloss": "qabeenyaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kufaa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ija"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "dhibiin"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "isa ga'u"
+    }
+  ],
+  "timestamp": "2026-08-29T12:12:06.884054682Z",
+  "model": "glm-5.3"
+}

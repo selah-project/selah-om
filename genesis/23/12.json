@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Avrahaamis miila dachii sanaa fuuldura gad-bu'e.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "gad-bu'e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miila"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachii sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:05.169175277Z",
+  "model": "glm-5.3"
+}

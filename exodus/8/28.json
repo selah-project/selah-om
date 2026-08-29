@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Par'oon yeroo kanaas ⟨את⟩ onnee isaa ulfaatessise, ummata ⟨את⟩ hin haqamsiifne.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ulfaatessise"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee isaa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yeroo kanaas"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "haqamsiifne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:28.329451005Z",
+  "model": "glm-5.3"
+}

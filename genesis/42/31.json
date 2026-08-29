@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "«Nuti dhugaa dha; nuti nama-dhaddachaa hin taane.»",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "taane"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "nama-dhaddachaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:37.360786352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "⟨את⟩ himaa kana seera taatee isiniifi ijoolleeti keessaniif yeroo dhaabbataadhaa eegadaa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegadaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himaa kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "himaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "seera taatee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ijoolleeti keessaniif"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dhaabbataadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:05:15.336344168Z",
+  "model": "glm-5.3"
+}

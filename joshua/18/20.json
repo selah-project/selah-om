@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yaardaanis ⟨את⟩ isa bahaan daangee ture. Kun dhaala ilmaan Binyamiinii — daangolee isii hunda mararfaman — maatin isaanitti.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Yaardaanis"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "daangee ture"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "eegala"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bahaatiin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamiinii"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "daangolee isii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mararfaman"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "maatin isaanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:54:47.856593152Z",
+  "model": "glm-5.3"
+}

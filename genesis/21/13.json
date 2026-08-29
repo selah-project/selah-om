@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Akkasumas ⟨את⟩ ilma haadhi manaa sanatti sabaatti nan godha, inni sanyii kee waan ta'eef.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma haadhi manaa sana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "haadhi manaa sana"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sabaatti"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "nan godha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan ta'eef"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sanyii kee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:51.076780816Z",
+  "model": "glm-5.3"
+}

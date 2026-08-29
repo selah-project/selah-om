@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Midhaattiin keessatti eerzaa, hiitaa, hadaasaa fi muka zayitaa nan kenna; Gagaabarratti berooshaa, tidhaaraa fi te'ashuraa walitti nan dhaaba.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "nan kenna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "midhaattiin keessatti"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "eerzaa"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "hiitaa"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "hadaasaa"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nan dhaaba"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "gagaabarratti"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "berooshaa"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tidhaaraa"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "te'ashuraa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:12.767335462Z",
+  "model": "glm-5.3"
+}

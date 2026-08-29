@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Kunuumuu kan guutame ilaali, fi kan sirrii ta'e argadhu; dhuma namichaa nagaatiif (kan nageenya qabuuf) ta'a.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kunuumuu ilaali"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kan guutame"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "fi argadhu"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kan sirrii ta'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namichaaf"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:36.789481177Z",
+  "model": "glm-5.3"
+}

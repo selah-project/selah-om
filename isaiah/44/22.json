@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 44:22",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Yaaddoo kee akka dukkana ulfaataa balleesseera, balleeyii kee akka duuda; gara kiyya deemi, sababa kanatti ani si hiike.",
+  "tokens": [
+    {
+      "surface": "מחיתי",
+      "gloss": "balleesseera"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "akka dukkana ulfaataa"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "yaaddoo kee"
+    },
+    {
+      "surface": "וכענן",
+      "gloss": "akka duuda"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "balleeyii kee"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "gara kiyya deemi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kanatti"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "ani si hiike"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:23.105215337Z",
+  "model": "glm-5.3"
+}

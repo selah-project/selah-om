@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Saawuliifi Israa'el hundinuu jechoota Filisxii kana ⟨את⟩ dhageessanii, addaan qabamanii, baay'ee sodaatan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageessanii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saawul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota Filisxii kana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisxii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "addaan qabamanii"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "sodaatanii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:27:32.468327335Z",
+  "model": "glm-5.3"
+}

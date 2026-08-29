@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Leenci bosona keessaa ni gora, yoo daawwaa isaa hin jiru? Ijoolleen leencaa holqa ishee irraa sagalee ishee baafti, yoo homaatuu hin qabdatu?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "ni gora"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leenci"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "bosona keessaa"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "daawwaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "baafte"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ijoolleen leencaa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sagalee ishee"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "holqa ishee irraa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "qabdatu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:47:03.453631656Z",
+  "model": "glm-5.3"
+}

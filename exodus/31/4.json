@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Yaadannoo yaadachuuf, hojjechuuf dahabii keessatti, qarshii keessatti fi birtii keessatti.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "yaadachuuf"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjechuuf"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "dahabii keessatti"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "qarshii keessatti"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "birtii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:55.906827651Z",
+  "model": "glm-5.3"
+}

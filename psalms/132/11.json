@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Yahwe Daawidifi dhugaatti kakate; inni isaa irraa hin deebu': 'Mitiraacha garaa keetii irraa eenyutuu miila-citaa kee irratti siif nan dhaabbadha.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "kakate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidifi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "deebu'"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mitiraacha"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "garaa keetii irratti eenyutuu"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nan dhaabbadha"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "miila-citaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:01.656465374Z",
+  "model": "glm-5.3"
+}

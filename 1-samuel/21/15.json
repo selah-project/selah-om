@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Akishis gabroota isaatti jedhe: “Kunii! Namicha maddawwaa ta'e argaa; maaliif isaa ⟨אתו⟩ anaatti fidattan?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunii!"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "argaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "maddawwaa ta'e"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "fidattan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:04.878758513Z",
+  "model": "glm-5.3"
+}

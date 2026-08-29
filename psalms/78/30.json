@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Hiyyee isaanii irraa hin jaamatanii; nyaanni isaanii afaan isaanii keessatti hin bulfanne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "jaamatanii"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "hiyyee isaanii irraa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nyaanni isaanii"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "afaan isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:18.853580695Z",
+  "model": "glm-5.3"
+}

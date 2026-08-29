@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Nyaata kee bishaan fuulla irratti shalli; sababa guyyoota baay'ees itti argita.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "shalli"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nyaata kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'ees"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "itti argita"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:06.999474504Z",
+  "model": "glm-5.3"
+}

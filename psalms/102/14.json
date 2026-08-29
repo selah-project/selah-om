@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Ati ni kaate, Siyoon irratti rahmannaa kennita, yeroo hiikkaa kiyyaa dabarte, yeroo murtaa'e ga'eera.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ni kaate"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "rahmannaa kennita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "hiikkaa kiyyaa dabarte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "era"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ga'eera"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yeroo murtaa'e"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:58.073715436Z",
+  "model": "glm-5.3"
+}

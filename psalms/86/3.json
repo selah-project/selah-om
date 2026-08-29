@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Adoonaay, na rahaa godi, sababaa gara keetti guyyaa guutuu kadhadha.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "na rahaa godi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara keetti"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kadhadha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:05.326442958Z",
+  "model": "glm-5.3"
+}

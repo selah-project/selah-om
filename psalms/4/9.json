@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Nagaa keessatti, walii-galatti ani nan seexadhaa nan hir'adha; kamiyyuu ati, Yahwe, qofa, gammaggusuu keessatti na jiraaggessa.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "nagaa keessatti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walii-galatti"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "nan seexadhaa"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "fi nan hir'adha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "gammaggusuu keessatti"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "na jiraaggessa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:19.744679705Z",
+  "model": "glm-5.3"
+}

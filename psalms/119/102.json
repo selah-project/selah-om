@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Murtiiwwan Keetti irraa hin maqane, waan Ati na barsiisiteef.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "murtiiwwan Keetti irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "maqane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "na barsiisite"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:50.478443301Z",
+  "model": "glm-5.3"
+}

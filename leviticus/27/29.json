@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Hunda kan ḥerem-ti, waan namoota irraa ḥerem ta'e, hin bitaamu; du'a du'a.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hunda"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ḥerem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "ḥerem ta'e"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bitaamu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:34.764531267Z",
+  "model": "glm-5.3"
+}

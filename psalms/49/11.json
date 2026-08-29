@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Sababaa inni arga ogeeyyooti ni du'u; maree maatiin diinaa fi raawaa wal-dhabu, fi qabeenya isaanii kan birootti dabarsu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababaa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "inni arga"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ogeeyyooti"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ni du'u"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "maree maatiin"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "fi raawaa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wal-dhabu"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "fi dabarsu"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kan birootti"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "qabeenya isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:57.657405695Z",
+  "model": "glm-5.3"
+}

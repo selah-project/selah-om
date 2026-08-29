@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Noachis akka waa'ee hunda Yahwe ennitef isa godhe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka waa'ee hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ennitef isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:16.221565559Z",
+  "model": "glm-5.3"
+}

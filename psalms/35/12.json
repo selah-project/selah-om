@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Hamtuu bakka goodaa naa deebisu; dhiiga nafseen kiyyaaf.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "naa deebisu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goodaa"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nafseen kiyyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:26.549418239Z",
+  "model": "glm-5.3"
+}

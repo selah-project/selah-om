@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Onnee kiyya qabdu dha, Eloohiim, onnee kiyya qabdu dha; ani laaluuf, kan qabsoon laaluuf.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "qabdu dha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "qabdu dha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "laaluuf"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kan qabsoon laaluuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:34.200122039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Sababiin isaa, ilaali! Mootonni walitti dhufanii, waliin darban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali!"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "walitti dhufanii"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "darban"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:14.877626494Z",
+  "model": "glm-5.3"
+}

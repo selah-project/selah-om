@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Sababa Innis midhaanuma akka raawwaa fuudhe, bishaan dhugaa kiyyas immoo oboo isaanii waliin marseera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa innis"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "akka midhaanuma"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "fuudhe"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "bishaan dhugaa kiyyas immoo"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "oboo isaanii waliin"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "marseera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:59.373524087Z",
+  "model": "glm-5.3"
+}

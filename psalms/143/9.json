@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Yaa Yahwe, diinoota kiyya irraa na baasi; si wajjin bakka dhokee jira.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "na baasi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "diinoota kiyya irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si wajjin"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "bakka dhokee jira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:11.572478701Z",
+  "model": "glm-5.3"
+}

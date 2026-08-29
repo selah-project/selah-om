@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Argite, Yahwe; hin dhiifadhu; Adoonaay, ira kiyya hin fageessisu.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "argite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "dhiifadhu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fageessitu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ira kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:55.091628985Z",
+  "model": "glm-5.3"
+}

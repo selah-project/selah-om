@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Ebbaame ta'iyyoo kee fi mesa foo'aa kee.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ebbaame"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ta'iyyoo kee"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "fi mesa foo'aa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:08.399901371Z",
+  "model": "glm-5.3"
+}

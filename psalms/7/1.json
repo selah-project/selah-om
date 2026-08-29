@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Shiggaayon Daawiitiin, kan Daawid Yahweef zeffate, jechoota Kuush ilmaan Beenyamiin irratti.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shiggaayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiitiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zeffate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Beenyamiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:19.845213587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Ati teessaa koo fi ka'aa koo beeka; yaada koo fagee-dhuumurratti hubadha.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "teessaa koo"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "fi ka'aa koo"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "hubadha"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "yaada koo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fagee-dhuumurratti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:27.656067486Z",
+  "model": "glm-5.3"
+}

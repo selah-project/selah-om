@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Loloon bishaanii ija kiyya irraa bu'an, sababaa seera kee hin eeganiif.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "loloon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bu'an"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyya irraa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababaa ... -iif"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eeganiif"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "seera kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:02.429952529Z",
+  "model": "glm-5.3"
+}

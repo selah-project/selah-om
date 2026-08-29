@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 70,
+  "translation": "Haa gad-aduu fi haa jaallatanuu sii, hunda kan si barbaadan; haa jedhan itti fufinsaan, \"Eloohiim haa guddatu!\" jaallattoonni si gammachiisaa.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "haa gad-aduu"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "fi haa jaallatanuu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "kan si barbaadan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "fi haa jedhan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "itti fufinsaan"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "haa guddatu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "jaallattoonni"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "si gammachiisaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:07.869057130Z",
+  "model": "glm-5.3"
+}

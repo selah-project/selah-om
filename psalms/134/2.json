@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 134,
+  "translation": "Harka keessanii qooddii ol-qabbisaa ol-kaa'aa, Yahwe ammas ⟨את⟩ eebbisaa.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ol-kaa'aa"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "Harka keessanii"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qooddii ol-qabbisaa"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ammees eebbisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:24.287193389Z",
+  "model": "glm-5.3"
+}

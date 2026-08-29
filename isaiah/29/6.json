@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Gara Yahwe Tseva'ot irraa ni gaafatama: riibuu fi rukuttaa lafaa, sagalee guddaa, duulaa fi birkii, birratti ibidda ija-niituu.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "gara … irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ni gaafatama"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "riibuu"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "rukuttaa lafaa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "duulaa"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "birkii"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "birratti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "ija-niituu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:01:42.358195525Z",
+  "model": "glm-5.3"
+}

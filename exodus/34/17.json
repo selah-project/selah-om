@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Eloohiim dhaddachaa hin hojjadhu siif.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "dhaddachaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:32.088188520Z",
+  "model": "glm-5.3"
+}

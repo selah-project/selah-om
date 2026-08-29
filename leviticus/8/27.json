@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Fi hunda kenna Aharoon tuma irratti fi mucaa isaa tuma irratti, foxxise ⟨את⟩ isaan foxxisa duratti Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "fi kenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mucaa isaa"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "foxxise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "foxxisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:36:19.808075571Z",
+  "model": "glm-5.3"
+}

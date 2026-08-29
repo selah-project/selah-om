@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Kakutichaa seenuf ⟨את⟩ Yahwe, Eloohiim abbootii isaanii, onnee isaanii guutuu fi lubbuu isaanii guutuudhaan barbaadaniiru.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "seenuf"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "kakutichaa"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "barbaadaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "fi guutuu"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lubbuu isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:56:21.718074217Z",
+  "model": "glm-5.3"
+}

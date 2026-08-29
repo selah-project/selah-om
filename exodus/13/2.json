@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Islaama na qoftiif kennaa — ilmaan tokkoffaa hunda, dheebbii koo ilaaltiin Walduraa banaa hunda, ilmaan Israa'eli keessatti, namoota keessaa fi beylada keessaa; kiyya ta'uun isaa ti.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Islaama na qoftiif kennaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na qoftiif"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ilmaan tokkoffaa"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "dheebbii koo ilaaltiin Walduraa banaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Walduraa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ilmaan keessatti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eli"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "namoota keessaa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "fi beylada keessaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaa ta'uun"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:43.400268272Z",
+  "model": "glm-5.3"
+}

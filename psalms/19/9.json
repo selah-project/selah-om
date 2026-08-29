@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Seeraan Yahwe sirriidha; onnee gammachiisa; ajajaan Yahwe qulqulluu dha; ifa gara ijaa ti.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "seeraan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sirriidha"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "gammachiisa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajajaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gara ijaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:56.703625674Z",
+  "model": "glm-5.3"
+}

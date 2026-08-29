@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Moshee fi Aharoon, Nadaab fi Abihiyuu, fi dugdaurii Israa'el torbaan ol ba'an.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'an"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "fi Aharoon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "fi Abihiyuu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "dugdaurii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:05.137318640Z",
+  "model": "glm-5.3"
+}

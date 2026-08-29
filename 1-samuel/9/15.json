@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe gurra Samuu'el saalaa ture — guyyaa tokko Shaauul dhufuutti dura — akka jedhu:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "saalaa ture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurra Samuu'el"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuu'el"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "dhufuutti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaauul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:27.061841471Z",
+  "model": "glm-5.3"
+}

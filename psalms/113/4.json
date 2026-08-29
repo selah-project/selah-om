@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Yahwe saboota hunda irra ol ⟨dha⟩; kabajaan Isaa samiiwwan irra ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kabajaan Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:56.653825858Z",
+  "model": "glm-5.3"
+}

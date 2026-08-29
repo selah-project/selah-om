@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ani ⟨את⟩ daangaddaa kaffaladhe, akka jecha Yahwe;itti haa mataa koottti naannoo ka'e.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "kaffaladhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daangaddaa"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "daangaddaa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "haa ka'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "mataa koottti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:58:47.617261203Z",
+  "model": "glm-5.3"
+}

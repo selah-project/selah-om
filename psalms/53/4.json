@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Hundi isaanii ni deebi'anii; waliin balleeffamanii; toltuu hojjetu hin jiru — tokkollee miti.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "hundi isaanii"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ni deebi'anii"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "balleeffamanii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "toltuu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tokkollee"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "miti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:00.674608378Z",
+  "model": "glm-5.3"
+}

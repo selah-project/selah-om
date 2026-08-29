@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yoo isaan dhaabbatan, isaanis ni dhaabbatu; yoo isaan ol-ka'an, isaanis ⟨את⟩ waliin ni ol-ka'u; sababiin isaas ruuhicha jireenyaa isaan keessatti jira.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "yoo isaan dhaabbatan"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "isaanis ni dhaabbatu"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "yoo isaan ol-ka'an"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "isaanis ni ol-ka'u"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan waliin (ofantiinotta)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhicha"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:07:10.763739500Z",
+  "model": "glm-5.3"
+}

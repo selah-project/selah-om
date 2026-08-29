@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "\"Abba diiguun malaqota sanduuqa ragaa ⟨את》 sandyachuu ajaji, Yardoonaan irraas haa ba'an.\"",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ajaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaqota sanduuqa ragaa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "malaqota"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "sandyachuu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "haa ba'an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraas"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardoonaan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:00.978583305Z",
+  "model": "glm-5.3"
+}

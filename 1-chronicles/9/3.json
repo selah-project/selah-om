@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yerushaalayim keessas ilmaan Yihuudaa, ilmaan Binyaamini, fi ilmaan Efiraayimii fi Manasseetiin irraa kan jiraatan.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Yerushaalayim keessas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "fi irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaamini"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "fi irraa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efiraayimii"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "fi Manasseetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T13:35:56.607261111Z",
+  "model": "glm-5.3"
+}

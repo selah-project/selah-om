@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Yahwe, eegaa afaan kiyya duraa kaa'i; balbala faayidaa kiyya eegi.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "kaa'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afaan kiyya duraa"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "על",
+      "gloss": "balbala irratti"
+    },
+    {
+      "surface": "דל",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "faayidaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:19.000257768Z",
+  "model": "glm-5.3"
+}

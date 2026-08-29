@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Eloohiim, gurra keenyaan dhageenyeerra; abbootiin keenya nu gabbisaniiru; hojii ati hojjetedhaan guutuu isaanii keessatti, guutuu durii keessatti.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "gurra keenyaan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "dhageenyeerra"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abbootiin keenya"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nu gabbisaniiru"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hojjetedha"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "guutuu isaanii keessatti"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "durii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:55.446666107Z",
+  "model": "glm-5.3"
+}

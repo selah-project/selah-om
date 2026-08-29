@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Lakkisii si'ii, lafa! yeroo mootin kee daa'ima ta'u, fi abbootiin seeraa kee ganama nyaatan.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Lakkisii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si'ii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "mootin kee"
+    },
+    {
+      "surface": "נער",
+      "gloss": "daa'ima"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "fi abbootiin seeraa kee"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "nyaatan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:31.317472984Z",
+  "model": "glm-5.3"
+}

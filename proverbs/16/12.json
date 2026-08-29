@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Waan samifamoo ta'u hojii rakkoo moototaaf icciti dha; waan sababa qilleensa qaannaa ta'een qubee sirrii ta'een gadi qabame, sababa qilleensa qaannaa ta'u wanta gara fuulduraa dhiyaateef dha.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "waan samifamoo ta'u"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "moototaaf"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa...ta'uuf"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "qilleensa qaannaa ta'een"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "qubee...gadi qabame"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "qaannaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:28:31.621475151Z",
+  "model": "glm-5.3"
+}

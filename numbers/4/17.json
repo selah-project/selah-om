@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yahweenis Moshee fi Aharooniin dubbate akka jedhu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...iin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi ...iin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:50:05.541205010Z",
+  "model": "glm-5.3"
+}

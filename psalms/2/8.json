@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Natti gaafadhu, biyyoota akka dhaala keetti siif kenna; qabannoo kees dhuma lafaa siif kenna.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "gaafadhu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Natti"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "siif kenna"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhaala kee"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "qabannoo kees"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:09.336617636Z",
+  "model": "glm-5.3"
+}

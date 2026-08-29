@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Tooraa tokkoo fi murannoo tokko isiniif ta'a, fiifi seenaa seenicha ⟨את⟩ isin wajjin.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tooraa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi murannoo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "fiifi seenaa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "seenicha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:00:31.697861211Z",
+  "model": "glm-5.3"
+}

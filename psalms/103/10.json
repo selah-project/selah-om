@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Akka bíduu keenya nu irratti hin hojjedhu; akka dhabbi keenya nu hin deebisu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "akka bíduu keenya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "akka dhabbi keenya"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "deebisu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:16.092604931Z",
+  "model": "glm-5.3"
+}

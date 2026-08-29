@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Malbeen magaalaa keessatti yoo eddame, ummatni hin jal-jabane? Magaalaa keessatti rakkii yoo ta'e, Yahwe hin hojjenee?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "eddame"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "malbeen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ummatni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "jal-jabane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakkii"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjenee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:47:08.753596165Z",
+  "model": "glm-5.3"
+}

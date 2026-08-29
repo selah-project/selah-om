@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Baddeessa mukaa shiittim ⟨את⟩ godha, warqeedhaan ⟨את⟩ isaan s'aabbis'adhu, akkasumas isaan waliin gabatee ⟨את⟩ baafamu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "godha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baddeessa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baddeessa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukaa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "s'aabbis'adhu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqeedhaan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "baafamu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan waliin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabatee"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gabatee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:16.258897013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Abshaaloom isa dhibbeera; innis isa ⟨את⟩ wajjin ⟨את⟩ Amnoonii fi ⟨את⟩ ilmaan mootichii hunda ergte.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "dhibbe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaaloom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ergte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩isa wajjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnoon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ilmaan mootichii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:48.873443213Z",
+  "model": "glm-5.3"
+}

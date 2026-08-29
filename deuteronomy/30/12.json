@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Inni samii keessatti miti, waan 'Eenyi nuuf gara samii ol ba'ee fidee nu dhamsuu, akkasumas isa ⟨את⟩ nu raawwadhuu?' jennuuf.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samii keessatti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jennuutti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyi"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ol ba'u"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "gara samii"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "fidee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "dhamsuu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isa raawwadhuu"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "nu raawwadhuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:35:32.431766816Z",
+  "model": "glm-5.3"
+}

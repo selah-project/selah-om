@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Mosheen gaarree irraa gara sabaa bu'e, sabicha qulqulleesse ⟨את⟩; isaanis uffata isaanii miilutan.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "qulqulleesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabicha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "miilutan"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "uffata isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:42.247564831Z",
+  "model": "glm-5.3"
+}

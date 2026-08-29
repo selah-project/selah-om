@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Baaldiiwwan, mataa keessan ol baasaa; baaldiiwwan yeroo hunda, mataa keessan ol baasaa; Mootichi kabajaa ni seenu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ol baasaa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Baaldiiwwan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mataa keessan"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ol baasaa"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "baaldiiwwan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ni seenu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabajaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:58.930431792Z",
+  "model": "glm-5.3"
+}

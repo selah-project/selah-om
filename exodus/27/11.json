@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 27:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Akkasuma kallatti kaabaa irratti, dheerinaan, gawwariin dheerina dhibba koormaa ta'anii; utuboonni isaa kudhan-lama, ijjarsaaleen isaanii kudhan-lama naasii ta'an; faakoowwan utubootaa fi marfamoota isaanii kumaa ta'u.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kallatti irratti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaabaa"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "dheerinaan"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "gawwariin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerina"
+    },
+    {
+      "surface": "ועמדו",
+      "gloss": "utuboonni isaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kudhan-lama"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ijjarsaaleen isaanii"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kudhan-lama"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naasii"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "faakoowwan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "utubootaa"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "marfamoota isaanii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:13.476967745Z",
+  "model": "glm-5.3"
+}

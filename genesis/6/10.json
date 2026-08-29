@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Noo'akhi ilmaan sadii dhalate: ⟨את⟩ Sheemii, ⟨את⟩ Khaamii fi ⟨את⟩ Yeefeti.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noo'akhi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheemii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheemii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khaamii"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khaamii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Yeefeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yeefeti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:24.580462495Z",
+  "model": "glm-5.3"
+}

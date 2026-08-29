@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Akka sanaan isiis ol ba'an gaariiwwan fardee fi fardoonni waraanaa; boojiichi baay'ee ulfaataa ta'e.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'an"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isiis"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akka sanaan"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "gaariiwwan fardee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fi"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "fardoonni waraanaa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "boojiichi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ulfaataa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:18.620554787Z",
+  "model": "glm-5.3"
+}

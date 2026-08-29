@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Hananyaa nabiichi ⟨את⟩ mootaa morma Yirmiyaah nabiichaa irraa fudhatee cabses.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyaa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootaa"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "mootaa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "morma"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmiyaah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiichaa"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "cabses"
+    }
+  ],
+  "timestamp": "2026-08-29T09:41:53.358734398Z",
+  "model": "glm-5.3"
+}

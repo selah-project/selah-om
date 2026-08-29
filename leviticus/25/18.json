@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Seera waliigalaa kiyyaas ⟨את⟩ hojjadhaa, murtiiwwan kiyyaas ⟨את⟩ eegaa; kunis waan fakkaatu hojjadhaa, akkasumas lafa irratti amansiisaan jiraadhaa.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "hojjadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera waliigalaa kiyya"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "seera waliigalaa kiyya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murtiiwwan kiyya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murtiiwwan kiyya"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "hojjadhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waan fakkaatu"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jiraadhaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "amansiisaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:59.457151648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Ammas amma, Eloohiim keenyo, waan kana booda maaltu nu jenna? Sababa kakaawwan kee nu dhiifneef.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maa"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "nu jenna"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "nu dhiifne"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kakaawwan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T13:19:52.048553986Z",
+  "model": "glm-5.3"
+}

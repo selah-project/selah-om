@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Ijiiwwan hundaaa si gahu eegatu, siis ⟨את⟩ soorata isaanii yeroo isaa kenna.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ijiiwwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si gahu"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "eegatu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "siis"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soorata isaanii"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "yeroo isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:01.463386313Z",
+  "model": "glm-5.3"
+}

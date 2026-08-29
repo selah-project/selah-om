@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Bisha danda'uuf, meesha zeegnaa waliin; mizmoora Aasaafiif; gABAA.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bisha danda'uuf"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "meesha zeegnaa waliin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoora"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Aasaafiif"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "gABAA"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:14.091587110Z",
+  "model": "glm-5.3"
+}

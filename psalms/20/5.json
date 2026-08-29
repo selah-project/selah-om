@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Haa siif kennu akka onnee keetti, hunda gorsa kee haa guutu.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "haa kennu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "onnee kee akka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "gorsa kee"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "haa guutu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:02.578707963Z",
+  "model": "glm-5.3"
+}

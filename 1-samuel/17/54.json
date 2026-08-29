@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Daawidis ⟨את⟩ mataa Filistii'icha fudhatee Yerushaalayim geesse; meeshaan isaas ⟨את⟩ mana-tentii isaa keessatti kaa'e.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa Filistii'icha"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistii'icha"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "geesse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaan isaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaan isaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "mana-tentii isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:36.931156470Z",
+  "model": "glm-5.3"
+}

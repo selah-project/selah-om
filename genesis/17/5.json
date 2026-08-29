@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Maqaan kees Avramuu inni duraa maqaa kee jedhamee hin waamamu; maqaan kees Avrahaam ta'a, sababa abbaa dadacha sababootaa si taasiseef.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "waamamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "inni duraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa kee"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramuu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "dadacha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sababootaa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "si taasiseef"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:37.934037021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Ishee ganama fi hamtuu isaaf godhatti, guutuu guutuu guyyoota jireenya isheeitti.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "godhatti isaaf"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi... hin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu guutuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "jireenya isheeitti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:31.796977865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Wanti jiraate, warra ol teessan ni kufsisu; magaalaa ol-olaa ni gadi siiqsa; ni gadi siiqsa hanga lafaatti, ni geessisa hanga booressaatti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanti jiraate"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ni kufsisu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "warra teessan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ol"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ol-olaa"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ni gadi siiqsa"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ni gadi siiqsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaatti"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ni geessisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "booressaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:34.092856782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Sagalee isaa dheessuu isaatiin hiike; warri Mitsraayim dhokan, gadhii Fir'oonis dhoke.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hiike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee isaa"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sagalee isaa"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "dheessuu isaatiin"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "dhokan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "warri Mitsraayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhoke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gadhii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    }
+  ],
+  "timestamp": "2026-08-29T04:53:54.659245089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Daawidif ilmaawwan Khebron dhalatan; isiitiinis jalqaba-dhalachaa isaa Amnoon ture, Achiinoam tin Kheebroniib.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidif"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "jalqaba-dhalachaa isaa"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "Achiinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "tin Kheebroniib"
+    }
+  ],
+  "timestamp": "2026-08-29T07:43:38.259851631Z",
+  "model": "glm-5.3"
+}

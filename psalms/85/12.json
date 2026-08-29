@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Dhugaan dachee irraa ni muka ba'a; qajeelchaan samii irraa daawwata.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Dhugaan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dachee irraa"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ni muka ba'a"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "qajeelchaan"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samii irraa"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "daawwata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:34.337869042Z",
+  "model": "glm-5.3"
+}

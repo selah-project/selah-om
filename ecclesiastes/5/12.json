@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hamni dhukubaa jira, aduu jalatti naan argame: qabeenyi eegamee kan qabaatuuf hamtu isaa tiif.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamni"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "dhukubaa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "naan argame"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "qabeenyi"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "eegamee"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kan qabaatuuf"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "hamtu isaa tiif"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:19.998519200Z",
+  "model": "glm-5.3"
+}

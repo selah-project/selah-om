@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 134,
+  "translation": "Yahwe si Tsiiyoona irraa eebbisu haa godhu, Uumaa samii fi lafaa.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "si eebbisu haa godhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiiyoona irraa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Uumaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "fi lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:24.287313103Z",
+  "model": "glm-5.3"
+}

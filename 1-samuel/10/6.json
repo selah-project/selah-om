@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Waareen Yahwe cimtee si irratti bu'a, ati isaani wajjin ni raajjoomta, garaagaltee gara nama biraa taata.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "cimtee bu'a"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "waareen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "ni raajjoomta"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "isaani wajjin"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "garaagaltee"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gara namaa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biraa taata"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:59.141445265Z",
+  "model": "glm-5.3"
+}

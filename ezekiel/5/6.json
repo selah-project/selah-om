@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ishoon diddeeffite — ⟨את⟩ miira kiyya saboota caalaa rakkoo irratti, fi ⟨את⟩ seera kiyya biyyoota naannoo ishee caalaa; sababa miira kiyya dadabsanii, seera kiyyas isaan keessatti hin sochoone.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "diddeeffite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miira kiyya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "miira kiyya"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "rakkoo irratti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caalaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "seera kiyya"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "seera kiyya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caalaa"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "naannoo ishee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "miira kiyya irratti"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "dadabsanii"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "seera kiyyas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sochoone"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:06:20.735240966Z",
+  "model": "glm-5.3"
+}

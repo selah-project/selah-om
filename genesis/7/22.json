@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Funyaan isaanii keessatti hiriina jireenyaa qaban hunda — waan garmalee dhoqqaa jiru hunda keessaa — du'an.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "hiriina"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "waan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "funyaan isaanii keessatti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda keessaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "garmalee dhoqqaa jiru"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "du'an"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:43.307418532Z",
+  "model": "glm-5.3"
+}

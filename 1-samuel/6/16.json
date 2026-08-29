@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Shaninis sarneen Filistiin arganiif, guyyaa san gara Ekroon deebi'an.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "shaninis"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarneen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arganiif"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "deebi'an"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:46.817270289Z",
+  "model": "glm-5.3"
+}

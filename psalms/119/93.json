@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Yeroo duwwaa hin dagadhu waan seeraan Ati murteessite, sababni isaas isaanitti na jireessite.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo duwwaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "dagadhu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "waan seeraan Ati murteessite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "na jireessite"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:19.483868895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akkasumas \"Maqaa isaa Lo-Amii (Sabiitiin koo miti) jedhi\" ni jedhe, sabiitiin keessan miti waan taatanii fi, Ani sabii keessan ta'uu hin ta'u.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkasumas ni jedhe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabiitiin koo (Lo-Amii)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan taatanii fi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "keessan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabii koo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin ta'u"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ta'uu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:35:49.705702175Z",
+  "model": "glm-5.3"
+}

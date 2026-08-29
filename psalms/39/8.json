@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Amma immoo maal eeggadhe? Yaa Adoonaay, kakatni kiyya kee irratti inni ta'e.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "eeggadhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Yaa Adoonaay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "kakatni kiyya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kee irratti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inni ta'e"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:07.997003571Z",
+  "model": "glm-5.3"
+}

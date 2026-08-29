@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Wanti ⟨את⟩ ogeessota wajjin deemu ogeessa ta'a; hundeessi silaalootaa immoo balaa mudata.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogeessota"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ogeessota"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "immoo ogeessa ta'a"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "immoo hundeessi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "silaalootaa"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "balaa mudata"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:11.358896675Z",
+  "model": "glm-5.3"
+}

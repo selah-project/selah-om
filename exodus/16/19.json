@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Akhumas Moshee isaanitti jedhe: namni tokko irraa hin haa hafu gamgammeetti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin haa"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gammagammeetti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "gamgamme"
+    }
+  ],
+  "timestamp": "2026-08-29T05:05:57.981688551Z",
+  "model": "glm-5.3"
+}

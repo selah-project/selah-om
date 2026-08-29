@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ilmi Avishuaa, ilmi Piin'hasi, ilmi El'azaar, ilmi Aharoon, kan saaqaa, kan duraa bulaa",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishuaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Piin'hasi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kan saaqaa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kan duraa bulaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:34.000975779Z",
+  "model": "glm-5.3"
+}

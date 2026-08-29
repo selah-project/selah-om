@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yeroo galgala ta'e, selawwaan ol ba'ee ⟨את⟩ machaanicha heddetti; ganamammoo cufuun roobni machaanicha naannoo taate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ol ba'ee"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "selawwaan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "heddetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machaanicha"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "machaana"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ganamammoo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "cufuun"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "roobni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "machaanaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:08:05.130977694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Sangni keenya himmachaa ulfaa baata; cabsi hin jiru, bahituu hin jiru, cinii hin jiru balbala keenya keessatti.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "sangni keenya"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "himmachaa ulfaa baata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jirus"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "bahituu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jirus"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "cinii"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "balbala keenya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:42.777669942Z",
+  "model": "glm-5.3"
+}

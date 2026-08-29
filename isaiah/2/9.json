@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Insaanonni ni bowatanii, namnoonnis of gadi baasu; isaaniif hin dhiifamini.",
+  "tokens": [
+    {
+      "surface": "ויששח",
+      "gloss": "ni bowatanii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Insaanonni"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "of gadi baasu"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "namnoonni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשׂא",
+      "gloss": "dhiifamini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:02.233940899Z",
+  "model": "glm-5.3"
+}

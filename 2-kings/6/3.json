@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Innis tokko isaaniitii jedhe: Milaa'i rogtii, fi gadhee ⟨את⟩ tajaajiltoota kee wajjin. Innis jedhe: Ani nan geessa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko isaaniitii"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Milaa'i"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogtii"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gadhee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tajaajiltoota kee"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tajaajiltoota kee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nan geessa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:26:10.670153991Z",
+  "model": "glm-5.3"
+}

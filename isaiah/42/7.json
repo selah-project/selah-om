@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Ichhiwwan fuul-duubaa banuuf, hidhamaa masgaara irraa baafachuuf, isaannan dukkana keessaa wajjin jiran mana hidhaa irraas baafachuuf.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "banuuf"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ichhiwwan"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "fuul-duubaa"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "baafachuuf"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "masgaara irraa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "hidhamaa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "hidhaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "isaannan wajjin jiran"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:00.428825172Z",
+  "model": "glm-5.3"
+}

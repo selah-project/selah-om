@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahween saba ⟨את⟩ waan isaan gaafeela sanii fi, gaafeela sun Aharoon waan hojjeeffamuuf, rakkise.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "rakkise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "על",
+      "gloss": "waan...uuf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gaafeela sanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaafeela sun"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "gaafeela sun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjeeffamu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:47.208484575Z",
+  "model": "glm-5.3"
+}

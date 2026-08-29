@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Keesaan ⟨את⟩ ejersa aashamii fi ⟨את⟩ luugii zayitaa fudhata; Keesaan ⟨את⟩ isaan tenuufaa bifa duratti Yahwe rukuta.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Keesaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ejersa aashamii"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ejersa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aashamii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "luugii zayitaa"
+    },
+    {
+      "surface": "לג",
+      "gloss": "luugii"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "rukuta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan — ejersa fi luugii zayitaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Keesaan"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenuufaa (bifa rukutuu)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:41.695046490Z",
+  "model": "glm-5.3"
+}

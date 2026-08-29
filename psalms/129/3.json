@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 129,
+  "translation": "Qototni dugda koo irratti qotanii; dheenacha isaanii dheeressaniiru.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "dugda koo"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "qotanii"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Qototni"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "dheeressaniiru"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "dheenacha isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:28.332869571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Ummata baay'ee akka soorata sabbataatti dhaddachsifte; gammaddii isaanii irraa bishaan sabbataa dhugeesa jirta.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "soorachaa jirta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "sabbataa"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "dhugeesa jirta"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "bishaan sabbataa"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "sadanosa (qooda guddaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:53.975009274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Sabaoota ⟨את⟩ hin badisan, Yahwe isaan jedhe warra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "badisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaoota"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sabaoota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "warra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:17.208562532Z",
+  "model": "glm-5.3"
+}

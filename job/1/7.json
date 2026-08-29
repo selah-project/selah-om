@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe seenaaf jedhe, \"Eessaa qabdu?\" Seenanis ⟨את⟩ Yahwe deebisee jedhe, \"Lafa daangeffachuufi ishee keessa deemuuf.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-f"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "seenaan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "eessaa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "qabdu"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "seenanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "daangeffachuu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "deemuuf"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:55.369899195Z",
+  "model": "glm-5.3"
+}

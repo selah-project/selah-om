@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Kan Gooftaa isaa irraa gara keetti miliqe, Gooftaa isaa biraatti hin dhiyeessin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "dhiyeessin (hin haadhamsiisin)"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kan qacamuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biraatti"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Gooftaa isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "miliqe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara keetti"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Gooftaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:53.803200912Z",
+  "model": "glm-5.3"
+}

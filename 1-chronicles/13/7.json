@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Sanduqa Eloohiim ⟨את⟩ gaarree haaraa irratti mana Abiinadaab irraa baasan; Uzza fi obboleesisaa gaarree sana horjjisaa turan.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "irratti baasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sanduqa Eloohiim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sanduqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana irraa"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abiinadaab"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "obboleesisaa"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "horjjisaa turan"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "gaarree sana"
+    }
+  ],
+  "timestamp": "2026-08-29T15:40:34.943071185Z",
+  "model": "glm-5.3"
+}

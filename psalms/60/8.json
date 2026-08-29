@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Eloohiim waan qulqullummaa isaa keessatti dubbate: Ani ni gammadda, Shekem qooda, galaana Sukkoot safara.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "qulqullummaa isaa keessatti"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ni gammadda"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "galaana"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkoot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "safara"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:43.146854581Z",
+  "model": "glm-5.3"
+}

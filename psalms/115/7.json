@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Harka isaanii qabu garuu hin tuqatanu; miila isaanii qabu garuu hin deemanu; kopha isaanii keessatis hin mormatanu.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "tuqatanu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "miila isaanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "deemanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mormatanu"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "kopha isaanii keessatis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:32.632697598Z",
+  "model": "glm-5.3"
+}

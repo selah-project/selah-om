@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Hafuura isaa baatu, biyyi isaa deebi'a; guyyaa san yaadni isaa badee hafe.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hafuura isaa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "biyyi isaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "badee hafe"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "yaadni isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:00.850867184Z",
+  "model": "glm-5.3"
+}

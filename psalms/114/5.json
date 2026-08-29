@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 114,
+  "translation": "Maaltuu sif ta'e, galaani, akka ijaartan? Yardaanis maaltuu sif ta'e, akka deebittan duubatti?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maaltuu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sif ta'e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ijaartan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaanis"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "deebittan"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "duubatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:28.522436197Z",
+  "model": "glm-5.3"
+}

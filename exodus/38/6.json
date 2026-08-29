@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Inni baaroota mukoota shiitimii ⟨את⟩ uumuu isaaniis sibiilaan hoddise.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baarota"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baaroota"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiitimii"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "hoddise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "isaani (baarota)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sibiilaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:38.445564310Z",
+  "model": "glm-5.3"
+}

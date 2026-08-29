@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Jedhiinsa dhuma isa walii galuu dhaggeeffannaa: Eloohiim akka kabaju, ajajoota Isaa akka eeggu — kun kan namummaa guutuudha.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhiinsa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "walii galuu"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "dhaggeeffannaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim akka kabaju"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "akka kabaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ajajoota Isaa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ajajoota Isaa"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "akka eeggu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:46.475437049Z",
+  "model": "glm-5.3"
+}

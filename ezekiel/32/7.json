@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yeroo si nan bessu samii nan hoddisa, urjilee isaanii ⟨את⟩ nan dukkisa; aduu duumee nan hoddisa, ji'a ifa isaa hin iftisin.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "nan hoddisa"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "yeroo si nan bessu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "nan dukkisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urjilee isaanii"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "urjilee isaanii"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "duumee"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "nan hoddisa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "iftiisa"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "ifa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:24:14.212833550Z",
+  "model": "glm-5.3"
+}

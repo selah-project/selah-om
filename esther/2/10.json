@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Eestir ⟨את⟩ sanyii ishee fi ⟨את⟩ dhaloota ishee if hin godhiini; Moordokaayi immoo akka hin ifatti ishee ajajera.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "if godhiini"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eestir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanyii ishee"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sanyii ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhaloota ishee"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "dhaloota ishee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "immoo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Moordokaayi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajera"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ifti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:34.377817990Z",
+  "model": "glm-5.3"
+}

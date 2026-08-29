@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Akka isaanii ta'u warra isaaniitiin hojjatan; isiinis akka isaaniiti ta'u hundi isaaniitti hirkatanidha.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "akka isaanii"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "warra isaaniitiin hojjatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hirkatanidha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:30.484967501Z",
+  "model": "glm-5.3"
+}

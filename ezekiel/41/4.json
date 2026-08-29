@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Dheerina isaa ⟨את⟩ amaa digdamii safena, bal'innis amaa digdamii, fuulla heekalaa dura; naan jedhe: Kun santumaa santumootaa ti.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "safena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dheerina isaa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dheerina isaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdamii"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "bal'innis"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdamii"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dura"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulla"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heekalaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naan jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santumaa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "santumootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:30:34.654043830Z",
+  "model": "glm-5.3"
+}

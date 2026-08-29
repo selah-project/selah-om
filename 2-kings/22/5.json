@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 22:5",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Hojii manaa hojjattoota mana Yahweetti ramadamani harka isaaniif akka kennan, fi ⟨את⟩ isa godhatoota hojii mana Yahwe keessa jirananiif kennan, miidhagina manaa manichaa deebisuuf.",
+  "tokens": [
+    {
+      "surface": "ויתנה",
+      "gloss": "akka kennan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "hojjattoota"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "hojii manaa"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "ramadamani"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kennan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (qarqaroon isaa godhatoota hojii mana Yahwe)"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "godhatootaaf"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "deebisuuf"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "miidhagina"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "manichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:53:51.616482071Z",
+  "model": "glm-5.3"
+}

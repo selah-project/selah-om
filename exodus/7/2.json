@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ati ⟨את⟩ waan hunda ani si ajaju dubbatta; Aharooninis obboleessi kee Par'ohitti dubbata; innis ⟨את⟩ ilmaan Israa'el biyya isaa irraa baasa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dubbatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ani si ajaju"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharooninis"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessi kee"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "biyya isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:58.738300488Z",
+  "model": "glm-5.3"
+}

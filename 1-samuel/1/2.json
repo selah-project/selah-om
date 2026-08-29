@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Isaas niitoota lama qaba ture; maqaan tokkichaa Khaanaa, maqaan isa lammaffaa ammoo Peninnaa; Peninnaaf ilmaawwan qabaataniitu, Khaanaaf ammoo ilmaawwan hin qabaatu.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "isaas"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "niitoota"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokkichaa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khaanaa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "isa lammaffaa"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninnaa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "qabaataniitu"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninnaaf"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "Khaanaaf ammoo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabaatu"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ilmaawwan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:17:46.882586922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Buna isaanii ruusaanii isiitiif kenne, hojii isaanii ambaa-bokokkuutiis kenne.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "ruusaanii isiitiif"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "buna isaanii"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "hojii isaanii"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ambaa-bokokkuutiis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:26.500153852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yahwe ⟨is⟩ mootii kan bara-dheeraa fi yeroo hunda; sabnoonni biyya Isaa irraa bakkataniiru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kan bara-dheeraa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi yeroo hunda"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "bakkataniiru"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabnoonni"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "biyya Isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:06.618628848Z",
+  "model": "glm-5.3"
+}

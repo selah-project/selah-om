@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Uummata kiyya, maal si godhe? Maal si gowwomsesse? Natti deebisi.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "uummata kiyya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "si godhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "si gowwomsesse"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "deebisi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:56:33.107882112Z",
+  "model": "glm-5.3"
+}

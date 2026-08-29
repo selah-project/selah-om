@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Amma immoo Yahwe isin wajjin kheesed fi dhugaa haa hojjadhu; aniis ⟨אתכם⟩ gaarii kana isin wajjin hojjadha, waan jechoo kana hojjattaniif.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "haa hojjadhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "isin wajjin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "fi dhugaa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hojjadha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "hojjattan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jechoo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:44:42.065327080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mootichi Damashqiin irraa yeroo dhufu, mootichi ⟨את⟩ altarra argate, mootichi altarraatti dhiyaatee, isarrattis qalaa ol baase.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yeroo dhufu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damashqiin irraa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarra"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyaatee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "על",
+      "gloss": "altarraatti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarra"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "qalaa ol baase"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isarrattis"
+    }
+  ],
+  "timestamp": "2026-08-29T08:37:13.113923124Z",
+  "model": "glm-5.3"
+}

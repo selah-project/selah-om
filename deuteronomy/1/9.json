@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yeroo sanaa anaan isinitti jedhe, ani qofa ⟨את⟩ isinii baadhuu hin danda'u jedhee.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "anaan jedhe"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ani qofa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "baadhuu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isinii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:14:02.245229427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Akka beekaniif, kaaba gaddeessaa fi dhihaa irraa, Ala kiyya kan biraa hin jiru; Ani Yahwe, kan biraa hin jiru.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Akka beekaniif"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekaniif"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kaaba"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "gaddeessaa"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "dhihaa irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "kan biraa hin jiru"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Ala kiyya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kan biraa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:09:53.923713458Z",
+  "model": "glm-5.3"
+}

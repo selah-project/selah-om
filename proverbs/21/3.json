@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Rakkoo fi murtii hojjachuu, Yahwef gabaabumatti ni filatama, waan gorfamu irra.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "hojjachuu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi murtii"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ni filatama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "waan gorfamu irra"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:39.019104304Z",
+  "model": "glm-5.3"
+}

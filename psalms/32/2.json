@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Bakkoota nama isaaf Yahwe xumuru hin lakkaa'in, va'ii isaa keessatti maldhiin hin jiru.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bakkoota"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "lakkaa'in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "עון",
+      "gloss": "xumuru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fi hin jiru"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "va'ii isaa keessatti"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "maldhiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:03.118892560Z",
+  "model": "glm-5.3"
+}

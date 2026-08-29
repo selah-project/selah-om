@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Seera kiyya ⟨את⟩ eegaa; raawwadhaa ⟨אתם⟩; Ani Yahwe, isin qulqulleessu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera kiyya"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "Seera kiyya"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "raawwadhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "(seerota)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "isin qulqulleessu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:05.909118809Z",
+  "model": "glm-5.3"
+}

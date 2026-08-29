@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Kan gaarreen kutaawwan olaa kee irraa dhiyeessu; lafti midhaan hojii Keetiin ni ga'a.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "dhiyeessu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "kutaawwan olaa"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "midhaan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojii Kee"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ni ga'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:46.724481725Z",
+  "model": "glm-5.3"
+}

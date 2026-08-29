@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Mana-jireenyaa Isaa seenuunis, sadarkaa miila Isaa ciniinsina.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "seenuunis (haa seenu)"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "mana-jireenyaa Isaa"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ciniinsina (haa ciniinsinu)"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "sadarkaa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "miila Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:40.529621581Z",
+  "model": "glm-5.3"
+}

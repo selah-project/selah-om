@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Obboleeyziinsi isaa isa hinaafuu; abbaan isaa ammoo ⟨את⟩ jecha kana eegate.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "hinaafuu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeyziinsi isaa"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "abbaan isaa ammoo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eegate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha kana"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:39.384758267Z",
+  "model": "glm-5.3"
+}

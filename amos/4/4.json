@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Beetee'el seenaa, yakka hojjedhaa; Gilgaalitti yaka dabalaa; fi ganama killeen keessan fidaa, guyyoota sadiitiif too'annoo keessan.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beetee-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "fi yakka hojjedhaa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaalitti"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "dabalaa"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "yaka"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "fi fidaa"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "killeen keessan"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "guyyoota sadiitiif"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "too'annoo keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:47:29.763161050Z",
+  "model": "glm-5.3"
+}

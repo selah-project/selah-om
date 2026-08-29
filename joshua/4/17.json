@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yihoshu'a immoo ajaje ⟨את⟩ barsiisota Waaqaa, akkas jedhuuti: \"Yaadni Jordan irraa olbaadhaa.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihoshu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barsiisota Waaqaa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "barsiisota Waaqaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhuuti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "olbaadhaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaadni"
+    }
+  ],
+  "timestamp": "2026-08-29T14:37:20.909602340Z",
+  "model": "glm-5.3"
+}

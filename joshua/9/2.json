@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Walitti tokkoon walitti qabaman, Yehooshu'aa fi Israa'el waliin loluuf, afaan tokkoon.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "walitti qabaman"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti tokkoon"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "loluuf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshu'aa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "fi waliin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "פה",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkoon"
+    }
+  ],
+  "timestamp": "2026-08-29T06:47:04.992467852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Daawwadheeras ⟨את⟩ du'oota kan duraan du'an, warratti jiraatan caalatti, kan itti fufan jiraachuu isaanii.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "daawwadheeras"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'oota"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "du'oota"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "duraan"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "du'an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caalatti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "warratti jiraatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiraachuu"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "itti fufan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:51.820554609Z",
+  "model": "glm-5.3"
+}

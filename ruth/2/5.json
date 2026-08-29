@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Booaz waamicha isaa kan funaanantoota irra dhaabbate irratti jedhe: waamichittiin kun waan eetti ⟨ti⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Booaz"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "waamicha isaa irratti"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "kan dhaabbate"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "funaanantoota"
+    },
+    {
+      "surface": "למי",
+      "gloss": "waan eetti"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "waamichittii"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-29T12:40:55.311620251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Harka isaa isa wajjin tasaa turanii irratti dhihaate; kakuu isaa hammeessise.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dhihaate\/ergate"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "isa wajjin tasaa turanii irratti"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "hammeessise"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:13.524039839Z",
+  "model": "glm-5.3"
+}

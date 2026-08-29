@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 127,
+  "translation": "Happy (is) the man who has filled his quiver with them; they will not be put to shame, for they will speak with their enemies at the gate.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Happy"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "the man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "has filled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quiver-of-him"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "quiver-of-him"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "with-them"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "they-will-be-put-to-shame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "they-will-speak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enemies"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "enemies"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "at-the-gate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:21.110716652Z",
+  "model": "glm-5.3"
+}

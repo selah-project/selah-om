@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "fi shaakittaa, fi ⟨את⟩ eejoowwan, fi guraa gosa isheetiin",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "fi shaakittaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eejoowwan"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "eejoowwan"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "fi guraa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "gosa isheetiin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:53.814834673Z",
+  "model": "glm-5.3"
+}

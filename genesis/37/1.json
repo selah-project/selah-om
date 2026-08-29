@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yaaqob biyya qaccee abbaa isaa keessatti jiraachaa ture, biyya Kanaan keessatti.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "qaccee"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:54.908965482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe Siyon keessa jiru faarfadhaa; hojiiwwan isaa ummatoota irratti himadhaa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "faarfadhaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "keessa jiru"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "himadhaa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ummatoota irratti"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hojiiwwan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:11.196381877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Mara fageenyaa shan ⟨את⟩ of keessatti, fi mara fageenyaa jaha ⟨את⟩ of keessatti walitti kufe.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "walitti kufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mara fageenyaa shan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mara fageenyaa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "of keessatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mara fageenyaa jaha"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mara fageenyaa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "of keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:25:51.605634658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Farda nama dhoksuu keessatti soba dha; fi baay'ina humna isaatiin hin baraaru.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "soba"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "farda"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "nama dhoksuu keessatti"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "fi baay'ina"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "humna isaatiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "baraaru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:52.666965576Z",
+  "model": "glm-5.3"
+}

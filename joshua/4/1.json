@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yeroo ummata heleelaan ⟨את⟩ Yaardaan seenuu xumure, Yahwe Yooshuwa irratti akka jedhu jedhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "xumure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heleelaan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "seenuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaardaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaardaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yooshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:14.162508770Z",
+  "model": "glm-5.3"
+}

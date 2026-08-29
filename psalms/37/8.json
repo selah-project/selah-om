@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Aarararra dhiisi, boonarra dhiis; khaalas hamtuu qofaf hin aaradin.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "dhiisi"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "Aarararra"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "dhiis"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "boonarra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "aaradin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "qofaf"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:40.657692898Z",
+  "model": "glm-5.3"
+}

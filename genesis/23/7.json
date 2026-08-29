@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Avrahaam ka'e, ummata lafaa — ilmaan Kheetiif — suquute.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "suquute"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan Kheetiif"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kheet"
+    }
+  ],
+  "timestamp": "2026-08-29T04:34:05.070126031Z",
+  "model": "glm-5.3"
+}

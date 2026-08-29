@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sila haleellaa dheeraa eega? Sila eega yeroo dhumaa? Kunoo, ati dubbatteet, hamtuu hojjetteet, dandeetteet.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "haleellaa ni eega"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo dhumaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "dubbatteet"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "hojjetteet"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "dandeetteet"
+    }
+  ],
+  "timestamp": "2026-08-29T09:23:59.327002757Z",
+  "model": "glm-5.3"
+}

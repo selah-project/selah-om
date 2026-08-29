@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Saboota keessatti ulfina Isaa himadhaa; saboota hundi keessatti raawwota ajaa'ibaa Isaa dhiyeessaa.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "himadhaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "saboota keessatti"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulfina Isaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundi keessatti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "raawwota ajaa'ibaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:25.889229347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Dheebuu keessan atoodaa hin hubanne duratti, akka soorata duubaa akka hoo'a, qilleensi rukuttaa isa.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hin hubanne"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "dheebuu keessan"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "atoodaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "soorata duubaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "hoo'a"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "rukuutta isa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:53.065974715Z",
+  "model": "glm-5.3"
+}

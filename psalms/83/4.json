@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Sammuudhaan warra marii tokko tokkoon ummata kee irratti morku, jiru kaasaa fi eegamoo kee irrattis marii raawachu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "sammuudhaan morku"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "marii tokko tokkoon"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "marii raawachu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "jiru kaasaa fi eegamoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:06.715261919Z",
+  "model": "glm-5.3"
+}

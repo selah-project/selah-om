@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Dhiira dur-duubaa akka beekaniif, ilmaan dhalatan, ka'anii ilmaan isaanii himaniif.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "akka beekaniif"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekani"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dur-duubaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ka'anii"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "fi himani"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ilmaan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:23.509817500Z",
+  "model": "glm-5.3"
+}

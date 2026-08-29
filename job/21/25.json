@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kunis sammuu dheebuu keessatti du'a, fi gaarii keessatti hin nyaanne.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sammuu keessatti"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaanne"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "gaarii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:25:37.875042949Z",
+  "model": "glm-5.3"
+}

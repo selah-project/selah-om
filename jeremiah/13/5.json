@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ani deeme, Prath irratti isa kuffise, akka Yahwe ⟨את⟩ na ajajefiitti.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "isa kuffise"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "Prath irratti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ na"
+    }
+  ],
+  "timestamp": "2026-08-29T15:03:19.048943428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 87,
+  "translation": "Rahabii fi Baabilon beekoota kootti yaadadcha — kunoo Filisitaa, fi Tsuuri, Kuushi wajjin: kunis eenyummaa seenaa sawwaniiti dhalate.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "yaadadcha"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabii"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "fi Baabilon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "beekoota kootti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisitaa"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "fi Tsuuri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuushi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "eenummaa seenaa sawwaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:43.845612370Z",
+  "model": "glm-5.3"
+}

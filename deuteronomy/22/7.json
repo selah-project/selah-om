@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Haadha yeroo dhugaa bilisoomsi; gurraachotas ⟨את⟩ ati baafadhu — akka siif waliin gaaru fi akka guyyaankee dheeruuf.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yeroo dhugaa bilisoomsi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "bilisoomsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haadhaa"
+    },
+    {
+      "surface": "האם",
+      "gloss": "haadhaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gurraachotas"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "gurraachotas"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "baafadhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka ... uuf"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "waliin gaaru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "guyyaankee dheeressitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:29:22.693460409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Dachii dheettiin hundi ni nyaatu, fuula isaa irratti ni suuyyanuu; bishaan du'aa gadi seenuun hundi fuula isaa irratti ni kufu; lubbuun isaa miti kan jiruuf hojjetuu.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ni nyaatu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ni suuyyanuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "dheettiin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuula isaa irratti"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ni kufu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "gadi seenuun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bishaan du'aa"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "lubbuun isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kan jiruuf hojjetuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:08.788587108Z",
+  "model": "glm-5.3"
+}

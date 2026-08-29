@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Tola wanti ati hin kakaanne, kan ati kakaaddhees hin guuttin caalaa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "kakaanne"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kan ati kakaaddhees"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "guuttin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:13.203671633Z",
+  "model": "glm-5.3"
+}

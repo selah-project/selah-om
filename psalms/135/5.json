@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Kunoo, ani beeka, kunoo Yahwe guddaa ⟨dha⟩, fi Adoonaay keenya Eloohiim hunda irra caalaa ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "fi Adoonaay keenya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irra caalaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:13.386600168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yahween Mosheetti dubbachiise akka jedhu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbachiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:29.200853861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Eebbisamaa ta'uun qaba Yahwe Eloohiim, Eloohiim Yisraa'el, kan ajaa'ibba qofa inni qofa hojjedu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "eebbisamaa ta'uun qaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedu"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ajaa'ibba"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa inni qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:37.027601288Z",
+  "model": "glm-5.3"
+}

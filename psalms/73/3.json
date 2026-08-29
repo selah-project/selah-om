@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Kanaaf, waan lakkoofsaa'idhaan koo hiikuu bareedaa'aniif; kaanamtoota duraa koo hiikuu bareedaa'anii arguus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kaanamtoota duratti koo"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "waan lakkoofsaa'idhaan koo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hiikuu bareedaa'anii"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "arguus"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:57.607200680Z",
+  "model": "glm-5.3"
+}

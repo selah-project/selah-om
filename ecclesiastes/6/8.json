@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sababiin isaas ogeessi wallinnarraan maal qaba? Hinjaallatu maal beeka — jireenyatti duraa tureeruuf?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "...irraan dabreet"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ogeessi"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "wallinaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "hinjaallatu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "turuuf"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:33.518966634Z",
+  "model": "glm-5.3"
+}

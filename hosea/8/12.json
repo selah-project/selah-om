@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Seera kiyyaa baay'ina guddaa isaaf ani barreessa; akka waan alagaatti isaan lakkaa'amanii turan.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "ani barreessa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "baay'ina guddaa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "seera kiyyaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "זר",
+      "gloss": "waan alagaa"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "lakkaa'amanii turan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:16.882864206Z",
+  "model": "glm-5.3"
+}

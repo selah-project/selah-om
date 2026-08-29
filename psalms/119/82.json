@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ijji kiyya jecha Keetiif akka itti geessu daneeera, 'Yeroo kam Ati na boonsiisa?' jedhuu.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "daneeera"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Ijji kiyya"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "jecha Keetiif"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Yeroo kam"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "Ati na boonsiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:13.449814706Z",
+  "model": "glm-5.3"
+}

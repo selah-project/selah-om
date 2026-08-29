@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Shallalluu fi bofoo irratti ni feeta; gurracha fi harreen guguddaa irratti ni rukutta.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "Shallalluu"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "fi bofoo"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ni feeta"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "ni rukuttaa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "gurracha"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "fi harreen guguddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.525441677Z",
+  "model": "glm-5.3"
+}

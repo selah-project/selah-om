@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Bulchiif; caasaa qindaa'insa qaruumtiin. Barreeffama barsiisaa kan Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiif"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "caasaa qindaa'insa qaruumtiin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "barreeffama barsiisaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:01.479751082Z",
+  "model": "glm-5.3"
+}

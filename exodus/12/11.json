@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Akkasumas akka kana ⟨את⟩ isaa nyaadhaa: hiddoonni keessan hidhaman, sandaalonni kee mirga keessanii, boodaan keessan harka keessan; ⟨את⟩ isaa saffisaan nyaadhaa — Peesah Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "akkasumas akka kana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaadhaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "hiddoonni keessan"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "hidhaman"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandaalonni kee"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "mirga keessanii"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "boodaan keessan"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "harka keessan"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "nyaadhaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "saffisaan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Peesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:42.794766496Z",
+  "model": "glm-5.3"
+}

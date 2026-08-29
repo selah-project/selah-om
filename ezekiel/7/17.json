@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Harkoon hunda ni laafatu, gannoon hunda akka bishaanitti deemu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "harkoon"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ni laafatu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gannoon hunda"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "gannoon"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:04:11.726006550Z",
+  "model": "glm-5.3"
+}

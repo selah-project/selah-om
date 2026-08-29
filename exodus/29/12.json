@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Dhiiga gaarichaa irraa fudhattee, birrii qarqara Waa'ela-biiqamaatti si baafuu keessan walitti baafachuu qophii ba'uudhaan, dhiiga hunda bu'uree Waa'ela-biiqamaatti baafuu dhiiga hunda Waa'ela-biiqamaa bu'uree irratti buusa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhattee"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiiga irraa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "gaarichaa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "baafachuu qophii ba'uudhaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "birrii qarqara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Waa'ela-biiqamaa"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "baafuu keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "buusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "bu'uree"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Waa'ela-biiqamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:11.380775691Z",
+  "model": "glm-5.3"
+}

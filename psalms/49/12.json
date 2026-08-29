@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Yaada isaanii keessoo: manaan keenya yeroo hundaaf, mana jireenyaa keenya duriin duriitti; maqaan keenyaan lafa jedhanii waamaniiru.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "yaada isaanii keessoo"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "manaan keenya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "mana jireenyaa keenya"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "duriin"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "duriitti"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamaniiru"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "maqaan keenyaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:57.657524979Z",
+  "model": "glm-5.3"
+}

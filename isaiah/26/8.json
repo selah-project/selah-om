@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Akka kanaattis, karaa murtoolee kee keessa, Yahwe, si eegganne; maqaa kee fi yaadachiisa keetti, hawwi lubbuu (nafshaa) keenyaa jira.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "akka kanaattis"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murtoolee kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "si eegganne"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "maqaa keetti"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "yaadachiisa keetti"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "hawwi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu (nafshaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:34.093382210Z",
+  "model": "glm-5.3"
+}

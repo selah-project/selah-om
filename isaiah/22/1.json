@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Maatii Giddugaleessa Ijaa'aa. Maal si rakkisef, natti dhiyoo, akka hundi kee gubbaa manaa baheetti?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Maatii"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Giddugaleessa"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Ijaa'aa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "natti dhiyoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "baheetti"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "hundi kee"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "gubbaa manaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:57:23.248863314Z",
+  "model": "glm-5.3"
+}

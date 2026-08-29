@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Yoo seera kee gammachuu koo hin taane, yeroo sanaa miidhaginaa koo keessatti badee turre.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "yoo ... hin taane"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "gammachuu koo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "yeroo sanaa"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "badee turre"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "miidhaginaa koo keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:18.580972043Z",
+  "model": "glm-5.3"
+}

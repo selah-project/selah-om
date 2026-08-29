@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Sababiin yaadni kiyya yaada keessan miti, karaan keessan karaa kiyya miti — niaam Yahwe jedhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "yaadni kiyya"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "yaada keessan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi miti"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "karaan keessan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa kiyya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "niaam ... jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:00.093549819Z",
+  "model": "glm-5.3"
+}

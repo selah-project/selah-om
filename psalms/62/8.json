@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Eloohiim irratti badhaadhina kiyya fi kabaja kiyya ⟨ta'u⟩; dheebuu humna kiyya, bocni kiyya Eloohiim ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badhaadhina kiyya"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "fi kabaja kiyya"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "humna kiyya"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "bocni kiyya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:49.954575181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Namni miidhaadhaan hin dhaabbatu; hundeen qajeeltootaa yeroo hunda hin sochiftu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "dhaabbatu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "miidhaadhaan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "hundeen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "qajeeltootaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yeroo hunda hin"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sochiftu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:04:12.458994918Z",
+  "model": "glm-5.3"
+}

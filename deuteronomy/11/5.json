@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Akkasumas waan isinitti godhe gammoojjii keessatti, yeroon gara bakka kanaa dhuftanitti.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Akkasumas waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gammoojjii keessatti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "dhuftanitti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:21:15.005757007Z",
+  "model": "glm-5.3"
+}

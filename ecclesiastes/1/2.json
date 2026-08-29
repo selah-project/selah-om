@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Hiitta hiittota, jedhe Qooheleet; hiitta hiittota, hundi hiitta ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hiitta"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hiittota"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qooheleet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiitta"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hiittota"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiitta"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:55.850452263Z",
+  "model": "glm-5.3"
+}

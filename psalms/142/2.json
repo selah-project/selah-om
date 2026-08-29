@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 142,
+  "translation": "Sagaleen kiyyaan gara Yahwe gurraacha; sagaleen kiyyaan gara Yahwe araarama kadhadha.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "sagaleen kiyyaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "gurraacha"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagaleen kiyyaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "araarama kadhadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:19.784749020Z",
+  "model": "glm-5.3"
+}

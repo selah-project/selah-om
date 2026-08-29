@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Sababa kee, Yahwe, waan hojettiin si hojette na gammachise; waan harkiin kee hojjettaniitiin ani ni sirreessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "na gammachise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "waan hojettiin si hojette"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "waan... hojjettaniitiin"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "harkiin kee"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ni sirreessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:10.047656385Z",
+  "model": "glm-5.3"
+}

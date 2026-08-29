@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Bisaasifataaaf, Yeduutun irratti, kan Aasaaf, sibiilcha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bisaasifataaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yeduutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kan Aasaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sibiilcha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:48.225737849Z",
+  "model": "glm-5.3"
+}

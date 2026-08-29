@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sababa kanaa, yoo ati erguu didde, amma illee isaani heddiguutta jirta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "didde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "erguu"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "amma illee"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "heddiguutta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaani"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:53.654527568Z",
+  "model": "glm-5.3"
+}

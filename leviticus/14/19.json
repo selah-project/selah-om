@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kaasichi ⟨את⟩ kaffaldii dilatii godha, namicha qulqulleeffamuu toolaatu isa irraa araarsa; ergasii ⟨את⟩ gulsaa ajjeesa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "godha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaasichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaffaldii dilatii"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kaffaldii dilatii"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "araarsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "namicha qulqulleeffamuu"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "toolaatu isa irraa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ergasii"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ajjeesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulsaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gulsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:00.587907742Z",
+  "model": "glm-5.3"
+}

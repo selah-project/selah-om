@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Akkasuma Yahwe ⟨את⟩ isaans samii sanaa irraa fuula lafaa guutuu irratti baballise, magaalaas ijaaruu dhaalanii dhaaban.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "baballise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaans"
+    },
+    {
+      "surface": "משם",
+      "gloss": "samii sanaa irraa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "dhaalanii dhaaban"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ijaaruu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaas"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:00.767015767Z",
+  "model": "glm-5.3"
+}

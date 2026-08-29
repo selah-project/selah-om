@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Guyyaa sanaa namaan ⟨את⟩ faallota kumaa isaa fi ⟨את⟩ faallota warqee isaa — waan isaaaf hojjetaman gabbaruuf — riibee fi bagaanaatti ni chaasa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "ni chaasa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faallota kumaa isaa"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "faallota"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "kumaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "faallota warqee isaa"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "faallota"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "warqee isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjetaman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaaf"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "gabbaruuf"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "riibee"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "holqoota"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "fi bagaanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:18.934872754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Ibiddaatti santumaa kee ni ergan; lafa irratti finxiisan mana-maqaa kee.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ni ergan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatti"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "santumaa kee"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "finxiisan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:41.887665519Z",
+  "model": "glm-5.3"
+}

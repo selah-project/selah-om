@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Maalif Yahwe fageetti dhaabbata? Yeroo rakkinaatti maalif dhoksataa dha?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maalif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "fageetti"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "dhoksataa dha"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "yerooddutti"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "rakkinaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:51.836886437Z",
+  "model": "glm-5.3"
+}

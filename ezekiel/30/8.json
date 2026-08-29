@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Ani ibidda Mitsraayim keessatti yeroo qabsiifutu Ani Yahwe akka ta'e ni beeku; gargaarootni ishee hundi ni caccabu.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ni beeku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "yeroo qabsiifutu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    },
+    {
+      "surface": "וידעו2",
+      "gloss": "",
+      "notes": "token missing in source"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ni caccabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "gargaarootni ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:21:50.196700620Z",
+  "model": "glm-5.3"
+}

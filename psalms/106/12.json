@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Isaan jechoota isaa amanuu; faarfama isaa laaluu.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "amanuu"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "jechoota isaa"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "laaluu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "faarfama isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:44.075673525Z",
+  "model": "glm-5.3"
+}

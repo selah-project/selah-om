@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Hojiiwwan koo guddiserra; aniiff manneen iyyadheera; aniiff biyya daadhii moraadheera.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "guddiserra"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hojiiwwan koo"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "iyyadheera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniiff"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "moraadheera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniiff"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "biyya daadhii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:35.539086580Z",
+  "model": "glm-5.3"
+}

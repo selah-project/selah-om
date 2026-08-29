@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Avrahaamis isa seera gatate: 'Atti of eeggadhu – akka ⟨את⟩ ilmaan koo deebisuu ofitti hin godhu – gara biyya sanaa.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isa seera gatate"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaamis"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "of eeggadhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka... ofitti hin godhu"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "deebisuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan koo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan koo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara biyya sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:49.657617336Z",
+  "model": "glm-5.3"
+}

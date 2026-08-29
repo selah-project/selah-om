@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Ni jiraata; warri Sheebaa dhabaawaa isaa handaqqaa kennuuf isaaf kennu; yeroo hunda isaaf kadha; guyyaa guutuu isa eebbissa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ni jiraata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "handaqqaa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheebaa"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "kadha"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "isa eebbissa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:54.297290855Z",
+  "model": "glm-5.3"
+}

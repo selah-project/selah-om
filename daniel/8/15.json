@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ta'e, yeroo ani, Daniyeel, ⟨את⟩ muuxannoo arge, hubannoo barbaaduu kee, akka tasaa bifa namaa fakkaatu anaan duratti dhaabbate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "yeroo ani arge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muuxannoo"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "muuxannoo"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "barbaaduu"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "hubannoo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akka tasaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "anaan duratti"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "bifa fakkaatu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "namaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:07:58.534429366Z",
+  "model": "glm-5.3"
+}

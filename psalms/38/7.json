@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Danqeeffameera, baay'ee dhiyaadheera; guyyaa guutuu gaddaadhaan deemeera.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "danqeeffameera"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "dhiyaadheera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangafa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "gaddaadhaan"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "deemeera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:03.093704730Z",
+  "model": "glm-5.3"
+}

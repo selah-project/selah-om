@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Lafa kee akka Nile karaan ce'ii, yaa Intala Tarshiish; qorqorti dhiiraan hin jiru.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "karaan ce'ii"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lafa kee"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "akka Nile"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Intala"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshiish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "qorqorti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dhiiraan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:57:26.870739471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Harka kiyya baafadhe, ⟨את⟩ duuba kiyya ni argatta; fuulni kiyya immoo hin argamu.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "baafadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duuba kiyya"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "harka kiyya"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ni argatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duuba kiyya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuba kiyya"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "fuulni kiyya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "argamu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:19.115638406Z",
+  "model": "glm-5.3"
+}

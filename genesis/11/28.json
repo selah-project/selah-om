@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Haranis gara fuula Toorra abbaa isaa ti duraa, biyya dhaloota isaa keessatti, biyya Kasdiim Keessatti du'e.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranis"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara... duraa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Toorra"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa ti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya... keessatti"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "dhaloota isaa"
+    },
+    {
+      "surface": "באור",
+      "gloss": "biyya Keessatti"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:32.520879222Z",
+  "model": "glm-5.3"
+}

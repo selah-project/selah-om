@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Aduu immoo Eloohiim isaan ol baate, fi cimoo-dheeffatan isaanii ajjeese, dargaggoota Israa'el immoo kufe.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "aduu immoo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "isaan ol baate"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "cimoo-dheeffatan isaanii"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "dargaggoota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "kufe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:18.853733594Z",
+  "model": "glm-5.3"
+}

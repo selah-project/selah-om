@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Kakaa gabbaraa kee deebite; moo'aa isaa lafatti makriiksiste.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "deebite"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakaa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbaraa kee"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "makriiksiste"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafatti"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "moo'aa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:31.678561538Z",
+  "model": "glm-5.3"
+}

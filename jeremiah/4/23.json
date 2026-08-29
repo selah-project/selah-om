@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "⟨את⟩ lafa ilaale — kunoo duwwaa fi lachiisaadha; samii ilaale — ifti isaanii hin jiru.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "duwwaa"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "lachiisaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "samii ilaale"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ifti isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:24:47.518666816Z",
+  "model": "glm-5.3"
+}

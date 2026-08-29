@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Yahween Moshee'itti dubbachiise jedhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbachiise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:22.954128397Z",
+  "model": "glm-5.3"
+}

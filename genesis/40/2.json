@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Fir'oontu sariisota isaa lamaa irratti aare — abbaa dhugaa irratti fi abbaa fo'aa irratti.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "aare"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaa"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "sariisota isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "שר",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "fo'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:36.403800105Z",
+  "model": "glm-5.3"
+}

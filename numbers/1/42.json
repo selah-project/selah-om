@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmaan Naftaalii, dhaloota isaanii, gara maatiwwan isaanii, gara mana abbootii isaanii, lakkoofsa maqootaatin, ilmaa waggaa digdamii fi isaa ol, hundi warra bara imala oolu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftaalii"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "dhaloota isaanii"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "gara maatiwwan isaanii"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "gara mana"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "lakkoofsa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "maqootaatin"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ilmaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "waggaa digdamii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "fi isaa ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "warra oolu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bara imala"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:20.297062908Z",
+  "model": "glm-5.3"
+}

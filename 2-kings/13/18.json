@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Akka jedhe: \"Waan ajajatan fudhadha.\" Waan fudhe. Akkas akka jedhe mootii Israa'el irratti: \"Dachee Ajajaa.\" Waan rukute sadii ta'a, ni dhaabbate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akka jedhe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fudhadha"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "waan ajajatan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "waan fudhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akka jedhe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Ajajaa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "waan rukute"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ni dhaabbate"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:06.173344909Z",
+  "model": "glm-5.3"
+}

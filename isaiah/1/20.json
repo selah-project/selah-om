@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yoo didaniifi faallessaniif, meeqaan isin nyaata; sababa aanan Yahwe dubbateef.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "didaniif"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "faallessaniif"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meea"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "isin nyaata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    }
+  ],
+  "timestamp": "2026-08-29T08:41:59.166249306Z",
+  "model": "glm-5.3"
+}

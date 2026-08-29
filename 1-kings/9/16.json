@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Far'oon mootii Mitsraayim ol-bahe, ⟨את⟩ Gezer fudhatee ibiddaatin gube; ⟨את⟩ Kana'anicha magaalatti jiru ajjeesee, intala isaa — durba Sileemon — kennaa ergegumsaa godhachuuf kenne.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Far'oon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol-bahe"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "gube"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Kana'anicha"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kana'anicha"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalatti"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ajjeesee"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "kennaa ergegumsaa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "intala isaaaf"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "durba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sileemon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:50.634805706Z",
+  "model": "glm-5.3"
+}

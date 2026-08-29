@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yoo akka molaa taasifamuu nutti hin dhagahitanuu, intoo keenya fudhachuun ⟨את⟩ deemna.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhagahitanuu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "akka molaa taasifamuu"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "fudhachuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoo keenya"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "intoo keenya"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "deemna"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:49.441083346Z",
+  "model": "glm-5.3"
+}

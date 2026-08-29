@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Hiikkaa fi murtiidhaan fudhatame, fi ⟨את⟩ dhaloota isaa eenyu hubata? Sababa sababa ummata kootiin gara biyya jireenyaatiin bahaa murame, rukutame isaanitiif.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "fi murtiidhaan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fudhatame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhaloota isaa"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "dhaloota isaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "hubata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "murame"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gara biyya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "sababa sababa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummata kootii"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rukutame"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T09:13:31.979650459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Achalaay karaawwan kiyya akka dhaabbatan seerota kee eeguuf.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Achalaay"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaawwan kiyya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eeguuf"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seerota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:32.563177662Z",
+  "model": "glm-5.3"
+}

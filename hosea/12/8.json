@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Kenaan—harka isaatiin madaaltuu foo-kuffiisaa qaba; miidhuu jaallata.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaatiin"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "madaaltuu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "foo-kuffiisaa"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "miidhuu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaallata"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:19.415438014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Yahwe fi humna Isaati barbaadaa; fuula Isaati yeroo hunda barbaadaa.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "barbaadaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "humna Isaati"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barbaadaa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuula Isaati"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:10.659751287Z",
+  "model": "glm-5.3"
+}

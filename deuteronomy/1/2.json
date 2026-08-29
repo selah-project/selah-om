@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Kunniin guyyoota kudhan-tokko Hoorebii irraa, karaa gaarrii Se'iiriin, kaadhuma Ba'arne'aatti.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Hoorebii irraa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarrii"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iiriin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaadhuma…tti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kaadeshee"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Ba'arne'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:49.094000290Z",
+  "model": "glm-5.3"
+}

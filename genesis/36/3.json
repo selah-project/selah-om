@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "fi ⟨את⟩ Basemat intala Ismaa'eel obboleettii Nebaayoot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismaa'eel"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "obboleettii"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebaayoot"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:08.003534580Z",
+  "model": "glm-5.3"
+}

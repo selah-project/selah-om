@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Naaf mallatteessa togaa godhi; waan natti jibban arganiitii eenyuun, yaa Yahwe, waan ati naga deeggarte, naga gaddifteetti.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "אות",
+      "gloss": "mallatteessa"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "togaa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "arganiitii"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "waan natti jibban"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "eenyuun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "naga deeggarte"
+    },
+    {
+      "surface": "וינחמתני",
+      "gloss": "naga gaddifteetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:32.386381716Z",
+  "model": "glm-5.3"
+}

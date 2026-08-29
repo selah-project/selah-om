@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ani fi onnee kiyya gara pakkaaattiin ginadheegarti'i beekuuf, qorachuuf, ogeessa barbaaduuf fi herrega barbaaduuf, akkasumas beekuuf kufrii raawwii ijaa foolii, foolii immoo waan maraataa.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "ginadheegarti'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "fi onnee kiyya"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "beekuuf"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "qorachuuf"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "barbaaduuf"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "fi herrega"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "akkasumas beekuuf"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kufrii"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "raawwii ijaa foolii"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "foolii"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "waan maraataa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:08.750122489Z",
+  "model": "glm-5.3"
+}

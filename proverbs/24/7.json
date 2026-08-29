@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ogummaan kiyyaaf ⟨is⟩ ol-ka'aa dha; baltaatti afiinsa isa hin bana.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "ol-ka'aa"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "kiyyaaf"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ogummaan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "baltaatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "afiinsa isa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:09.844004889Z",
+  "model": "glm-5.3"
+}

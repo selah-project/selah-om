@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ya'aqob ergamotoota isa duraa gara obbolaa isaa Esawitti ergere, gara biyya Se'ir, dirree Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergere"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ergamotoota"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isa duraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obbolaa isaa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:56.565608222Z",
+  "model": "glm-5.3"
+}

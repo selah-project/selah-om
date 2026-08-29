@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 1:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "\"Ka'aa, beekumsaan isaa irratti haaromsaa, akka hin baay'neef; waan xorgaa tokko yoo dhufe, innis sababa diina keenyaatti dabalamee nuttalan ta'a; garas immoo biyya irraa bahee bada.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ka'aa"
+    },
+    {
+      "surface": "נתחכמה",
+      "gloss": "beekumsaan haaromsaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin ... -neef"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "baay'neef"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "yoo dhufe"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "xorgaa"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "dabalamee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-sababa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ittiin"
+    },
+    {
+      "surface": "שנאינו",
+      "gloss": "diina keenya"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "nuttalan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nutta"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:55:48.473181852Z",
+  "model": "glm-5.3"
+}

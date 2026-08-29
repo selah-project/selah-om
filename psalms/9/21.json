@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahweyoo, raawwaa isaani irratti godhi — biyyoonni akka beekanu; namoota du'an waan ta'aniif. Seelaa.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "godhi (raawwaa irratti akka taasifamu godhi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaani irratti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekanu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoonni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namoota du'an"
+    },
+    {
+      "surface": "המה",
+      "gloss": "waan ta'aniif"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:33.909461013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Yahwe, Eloohiim nagaa badhaasi kiyya, guyyaatti dhukkubsadhe, halkan keessatti siifi fuulduraa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nagaa badhaasi kiyya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "dhukkubsadhe"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan keessatti"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "siifi fuulduraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:46.292440558Z",
+  "model": "glm-5.3"
+}

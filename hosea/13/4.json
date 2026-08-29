@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ani garuu Yahwe, Eloohiim kee, biyya Mitsraayim irraa ⟨arganii⟩; Eloohiim ani malee hin beektu; hayyamaa ani malee hin jiru.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ani garuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya...irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ani malee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "hayyamaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ani malee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:48.430113317Z",
+  "model": "glm-5.3"
+}

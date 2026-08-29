@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Cimina kiyya, sii laaluu; sababaan Eloohiim gaarummaa-bu'uuraa kiyya, Eloohiim kheesed kiyya.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Cimina kiyya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "laaluu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "gaarummaa-bu'uuraa kiyya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "kheesed kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:47.641214942Z",
+  "model": "glm-5.3"
+}

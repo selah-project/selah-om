@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Harree-duwwaan margaa irratti cinnaa? Moo saan soorata isaa irratti ho'a?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "cinnaa?"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "harree-duwwaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "margaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ho'a?"
+    },
+    {
+      "surface": "שור",
+      "gloss": "saan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "soorata isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:43.478135987Z",
+  "model": "glm-5.3"
+}

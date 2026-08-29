@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ezraayyi ka'e, qosoota abbootii, Leeviwwanii fi Israa'el hunda akka waan jecha kanaa hojjatan kakuu godhe ⟨את⟩; isaanis kake.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezraayyi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "kakuu godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qosoota abbootii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qosoota"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leeviwwanii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjatan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "waan jecha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "kake"
+    }
+  ],
+  "timestamp": "2026-08-29T15:37:24.169906272Z",
+  "model": "glm-5.3"
+}

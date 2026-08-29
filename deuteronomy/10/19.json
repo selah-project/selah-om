@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Aloola jaalladhaa, sababa isin biyya Mitsraayim keessatti alooltota turtan.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "jaalladhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aloola"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "aloola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "alooltota"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "turtan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:56.781823666Z",
+  "model": "glm-5.3"
+}

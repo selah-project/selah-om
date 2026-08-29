@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Achiis booda Daawid ⟨את⟩ Filistiiwwaan rukutee mo'achaan isaan hinneessise, ⟨את⟩ Gaatii fi gandeewwan isaa harka Filistiiwwanii irraa fudhate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiiwwaan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiwwaan"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "hinneessise"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaatii"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gaatii"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "gandeewwan isaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "harka irraa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiwwanii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:39:23.034987858Z",
+  "model": "glm-5.3"
+}

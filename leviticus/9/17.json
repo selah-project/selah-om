@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Qoormaan nyaataas dhiyeese ⟨את⟩, harka isaa ishee irraa guute, giddugaleessa irratti mo'ate — dabalataa ol-kaamicha ganamaa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyeese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoormaan nyaataa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "qoormaan-nyuutaa"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "harka-isaа"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ishee-irraa"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mo'ate"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "giddugaleessa"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "dabalataa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ol-kaamicha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ganamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:13.747160233Z",
+  "model": "glm-5.3"
+}

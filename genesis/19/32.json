@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Kottii, abbaa keenya ⟨את⟩ wainii ergifanna, isaa waliin seenna, akkasumas abbaa keenya irraa sanyii hafsiifna.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "kottii"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ergifanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa keenya"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "abbaa keenya"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wainii"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "seenna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaa waliin"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "hafsiifna"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "abbaa keenya irraa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:07.366322573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahwe immoo ⟨את⟩ onnee Fira'on mootii Mitsraayim cimse, innis duuba ilmaan Yisraa'el hordofe; ilmaan Yisraa'el immoo harka ol-ka'ameenin ba'an.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "cimse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee Fira'on"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fira'on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "hordofe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "fi ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ol-ka'ameenin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:05.399326700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "akka waraanni samii lakkoofsamuu hin dandeenne, soorata bishaanii bahaa safaramuu hin dandeenne, akkasumas warra Daawid gabaa kiyya fi ⟨את⟩ Lewwiyyoonni tajaajiltootan ⟨את⟩ na tajaajilan dabaluuf —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin dandeenne"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "lakkoofsamuu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraanni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas … hin dandeenne"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "safaramuu"
+    },
+    {
+      "surface": "חול",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bishaanii bahaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "dabaluuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra Daawid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "warra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabaa kiyya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Lewwiyyoonni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewwiyyoonni"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "tajaajiltootan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na tajaajilan"
+    }
+  ],
+  "timestamp": "2026-08-29T09:45:21.766304684Z",
+  "model": "glm-5.3"
+}

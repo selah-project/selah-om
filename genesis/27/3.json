@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Ammus, mee qindaallee kee — poozii kee fi arqu kee — kaasaa; gara maddaa ba'i, natti warransi nyaata warransaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ammus"
+    },
+    {
+      "surface": "שא",
+      "gloss": "kaasaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mee"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "qindaallee kee"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "poozii kee"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "arqu kee"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gara maddaa"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "warransi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "nyaata warransaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:03.226544440Z",
+  "model": "glm-5.3"
+}

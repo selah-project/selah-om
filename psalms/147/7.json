@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Yahweef galata galmeeshaa deggersaa; Eloohiim keenyaaf kinnaaraan sheegessaa.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "deggersaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "galata galmeeshaa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "sheegessaa"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Eloohiim keenyaaf"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnaaraan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:37.579565134Z",
+  "model": "glm-5.3"
+}

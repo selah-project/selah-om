@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yirmeeyaahu uummata keessa seenaa ba'aa ture, mana hidhaatti isa hin hasan.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Yirmeeyaahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ba'aa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uummata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hasan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "hidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:08:42.972272245Z",
+  "model": "glm-5.3"
+}

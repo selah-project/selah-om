@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Saba kee qabeenya malee gurgurta, kafaltii isaanii irraas hin dabarsitu.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "gurgurta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "saba kee"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "הון",
+      "gloss": "qabeenya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "dabarsitu"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "kafaltii isaanii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:55.675604120Z",
+  "model": "glm-5.3"
+}

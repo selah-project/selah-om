@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sinnaa'anii tola, jaalatanis hamtuu; gogaa isaanii irraarraa kaasaniif, finnaawa isaanii lafee isaanii irraarraa kaasaniif.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "Sinnaa'anii"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "jaalatanis"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "kaasaniif"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "gogaa isaanii"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "irraarraa"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "finnaawa isaanii"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraarraa"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "lafee isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:49.406068491Z",
+  "model": "glm-5.3"
+}

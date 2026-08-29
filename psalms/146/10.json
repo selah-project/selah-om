@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Yahwe hanga dhumaatti mootata; Eloohiim kee, Siyoon, durtii irraa durtiitti. Yaah galata galchaa!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "mootata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanga dhumaatti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii irraa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "durtiitti"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "galata galchaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:36.853668409Z",
+  "model": "glm-5.3"
+}

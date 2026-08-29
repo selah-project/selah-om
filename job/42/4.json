@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Dhaggeeffadhu maaloo, aniis ni himadha; si gaafadha, natti beeksiisi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dhaggeeffadhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ni himadha"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "si gaafadha"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "natti beeksiisi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:37:12.681013928Z",
+  "model": "glm-5.3"
+}

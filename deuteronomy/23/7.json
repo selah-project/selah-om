@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Nagaa isaanii fi milkii isaanii guyyoota kee hunda, yeroo hunda, hin barbaaddin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "barbaaddin"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "nagaa isaanii"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "fi milkii isaanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "guyyoota kee"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:27.996681086Z",
+  "model": "glm-5.3"
+}

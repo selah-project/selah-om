@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Onneen kiyya dadabdi, humni kiyya na dhiise; iftiin ija kiyyaas — isaanis ⟨את⟩ waliin kiyya miti.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Onneen kiyya"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "dadabdi"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "na dhiise"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "humni kiyya"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyyaas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isaanis"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ waliin kiyya",
+      "marks": "waliin kiyya (iftiin ija kiyyaa)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:57.534673811Z",
+  "model": "glm-5.3"
+}

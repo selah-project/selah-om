@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Innis ⟨את⟩ baabbi ol'aanaa mana Yahwe iyyare; miila cicha Offel irrattis baay'ee iyyare.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iyyare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabbi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "baabbi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ol'aanaa"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "miila cicha irrattis"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Offel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iyyare"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:03:19.516615015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 142,
+  "translation": "Barnoota kan Daawid, yeroo inni holqa keessa jiru — kadhaa.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Barnoota"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "yeroo inni ... jiru"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "holqa keessa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:19.784443743Z",
+  "model": "glm-5.3"
+}

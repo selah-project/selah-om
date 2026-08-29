@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Meeshaanis mooticha Mo'aab horii hordofuu danda'aa ture; mooticha Israa'eliif kibbaana kuma dhibba fi rasa kuma dhibba funaan machaaraa isaanii wajjin kenna ture.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Meeshaanis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "horii hordofuu danda'aa"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kenna ture"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mooticha...iif"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "kuma dhibba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "—"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kibbaana"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "fi kuma dhibba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "—"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "rasa"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "machaaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:02.412960792Z",
+  "model": "glm-5.3"
+}

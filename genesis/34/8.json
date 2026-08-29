@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Hamoriis ⟨את⟩ isaaniin waliin dubbatee akka jedhu: \"Shekemi, ijooldha koo, lubbuun isaa dheecha keessanitti kan maxxaneef; akkaataa gaariin ⟨את⟩ isaa hiikaa, akka manaa isaa ta'uuf.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoriis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaaniin waliin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijooldha koo"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "kan maxxaneef"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuun isaa"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "dheecha keessanitti"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "hiikaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "akkaataa gaariin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "akka manaa isaa ta'uuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:06.642170613Z",
+  "model": "glm-5.3"
+}

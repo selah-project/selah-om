@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Harka isaanii irratti si ol-qa'u, akka harka kee dhagaa irratti hin dhukuttuuf.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "si ol-qa'u"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka (hin)"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "dhukuttuuf"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dhagaa irratti"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "harka kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.931558277Z",
+  "model": "glm-5.3"
+}

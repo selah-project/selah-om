@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Barsiisi na, yaa Yahwe, karaa keewwata kee; akkasumas isaa eega hanga dhumaatti.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Barsiisi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "keewwata kee"
+    },
+    {
+      "surface": "וְאֶצְּרֶנָּה",
+      "gloss": "akkasumas isaa eega"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hanga dhumaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:25.292303135Z",
+  "model": "glm-5.3"
+}

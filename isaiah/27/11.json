@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yeroo qarqarri isaa ennuu'e, isaan ni ciccifamu; dubartoonni dhufanii ⟨את⟩ ishee ifaachuu; sababaan inni sabni hubachuu hin qabu ta'e, kanaaf uumaa isaa isa hin rahammu, saanaa isaa isaas hin dhiifamu.",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "yeroo ... ennuu'e"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "qarqarri isaa"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ni ciccifamu"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dubartoonni"
+    },
+    {
+      "surface": "באות",
+      "gloss": "dhufanii"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "ifaachuu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "hubachuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaaf ... f"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "hin rahammu"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "uumaa isaa"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "saanaa isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "hin dhiifamu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:56:24.038299048Z",
+  "model": "glm-5.3"
+}

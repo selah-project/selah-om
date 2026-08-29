@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Lafa Yahwe Eloohiim kee ⟨את⟩ ishii yeroo hunda barbaaduu jiru; ijji Yahwe Eloohiim kee ishee irratti yeroo hunda argamti, jalqaba waggaa irraa hanga dhuma waggaatti.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "barbaaduu jiru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishii"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:33:48.938019330Z",
+  "model": "glm-5.3"
+}

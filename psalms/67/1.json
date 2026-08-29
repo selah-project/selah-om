@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 67,
+  "translation": "Bulchiisaaf, malallee xuuxuu wajjin. Mizmoora, dirraa gabaabaa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiisaaf"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "malallee xuuxuu wajjin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoora"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dirraa gabaabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:36.892076304Z",
+  "model": "glm-5.3"
+}

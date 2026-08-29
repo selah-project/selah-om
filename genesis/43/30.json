@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Yoosiph saffise, sababni asii garaachi isaa obboleessa isaa irratti kunuunsaa'ee bawwuu barbaadee; gamoo (hoolaa) keessa seeree, achitti baw'e.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "saffise"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosiph"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni asii"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "kunuunsaa'ee"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "garaachi isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "barbaadee"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "bawwuu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "seeree"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "gamoo keessa"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "baw'e"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "achitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:53.544253557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Akkasumas yaalaa hin hojjetan; karaawwan Isaa keessan deeman.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hojjetan"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "yaalaa"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "karaawwan Isaa keessan"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "deeman"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:04.730198074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "⟨את⟩ Yehuu ilma Nimsiitis mootummaa Israa'el irratti ta'u dibadhuutti; ⟨את⟩ Eelishaas ilma Shaafat, Abveel-Mehoolaa irraa, raajii bakka keetti ta'u dibadhuutti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuu ilma Nimsii"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsii"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "dibadhuutti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootummaa ta'u"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eelishaa ilma Shaafat"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eelishaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shaafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "Abveel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehoolaa irraa"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "dibadhuutti"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "raajii ta'u"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "bakka keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:22.674238385Z",
+  "model": "glm-5.3"
+}

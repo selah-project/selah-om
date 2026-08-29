@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Rakkoo onnee kiyya babal'ataniiru; rakkoo cimaa kiyya keessaa ba'i na godhi.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "babal'ataniiru"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "rakkoo cimaa kiyya keessaa"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "ba'i na godhi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:14.977366371Z",
+  "model": "glm-5.3"
+}

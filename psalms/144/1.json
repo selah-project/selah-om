@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Kan Daawitiif. Eebbifamuu qaba Yahwe, cabbii kiyya, kan harka kiyya qabsoof barsiisuu, birbirrii kiyya lolliif.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kan Daawitiif"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Eebbifamuu qaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "cabbii kiyya"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "kan … barsiisuu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka kiyya"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "qabsoof"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "birbirrii kiyya"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "lolliif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:09.606912534Z",
+  "model": "glm-5.3"
+}

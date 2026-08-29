@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Amaleekis ⟨את⟩ ilaale, mallatteesisaa fudhate, akkas jedhe: Amaleek biyyoota jalqaba; dhuma isaa immoo balleeffama.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "mallatteesisaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "dhuma isaa immoo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "balleeffama"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:25.658467072Z",
+  "model": "glm-5.3"
+}

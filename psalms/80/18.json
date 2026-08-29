@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Harka kee namicha mirga kee irratti haa ta'u, ilma namaa kan ati ofuuf cimte irratti.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mirga kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "cimte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ofuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:37:07.051887744Z",
+  "model": "glm-5.3"
+}

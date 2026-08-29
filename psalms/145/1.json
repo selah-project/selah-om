@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Faarfannaa kan Daawid. Waaqayyaa koo, Mooctlí, si ol-qolqoldusa, maqaa keetis haa eebbissu yeroo hunda fi kan itti aanutti.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Faarfannaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "si ol-qolqoldusa"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloohay koo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mooctlí"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "haa eebbissu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa keetis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi kan itti aanutti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:18.863569194Z",
+  "model": "glm-5.3"
+}

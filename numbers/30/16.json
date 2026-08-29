@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yoo erga dhagee booda isaam haqe, dugda isheettiin ofiin baata.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "haquu"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "haqe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga… booda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhagee"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ofiin baata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugda ishee"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "dugda ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:11:39.721685018Z",
+  "model": "glm-5.3"
+}

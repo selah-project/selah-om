@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Ummanni ⟨the⟩ lafaa warra hunda kan mooticha Aamoona waliin wal-qabsiifan ajjeesan; ummanni ⟨the⟩ lafaa ⟨את⟩ Yooshiyaahu ilma isaa eegala isaa irratti mootii godatan.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ajjeesan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra hunda kan wal-qabsiifan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "warra wal-qabsiifan"
+    },
+    {
+      "surface": "על",
+      "gloss": "waliin (against)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Aamoona"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "mootii godatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yooshiyaahu ilma isaa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yooshiyaahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "eegala isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:09:42.643630448Z",
+  "model": "glm-5.3"
+}

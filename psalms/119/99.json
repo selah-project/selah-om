@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Barattota kiyya hunduma caalaa natti beek'adhe, sababa ragduu kee qo'annoo koo dha.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "hunduma caalaa"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "barattota kiyya"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "natti beek'adhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ragduu kee"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "qo'annoo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:04.490649724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Na baraasu baadiyya kee irraa, Eloohiim kiyya; na ol-qaba namoota na dhoorman irraa.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Na baraasu"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "baadiyya kee irraa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "namoota na dhoorman irraa"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "na ol-qaba"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:29.727212936Z",
+  "model": "glm-5.3"
+}

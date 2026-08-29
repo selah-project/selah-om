@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ji'a torbaan yeroo ga'ee, ilmaan Israa'el magaalota keessa waan turaniif, sabni akka namicha tokko dhaan Yerushaalayimitti walitti qabame.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ga'ee"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "magaalota keessa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "walitti qabaman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "akka namicha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "duiti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:53.708554584Z",
+  "model": "glm-5.3"
+}

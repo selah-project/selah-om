@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Inni ⟨את⟩ Filistiiwwan hamma Azzaa saaxile, fi ⟨את⟩ daangaa ishee — migdaala eegattootaa irraa hamma magaalaa dhibbaa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "saaxile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiiwwan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiwwan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daangaa ishee"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "daangaa ishee"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "migdaala irraa"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "eegattootaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "dhibbaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:38.526740498Z",
+  "model": "glm-5.3"
+}

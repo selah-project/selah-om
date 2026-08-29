@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Samu'elis Yahwe ⟨את⟩ odoo hin beeku turre, jechi Yahwe irratti odoo hin mul'atu turre.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Samu'elis"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "odoo hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "odoo hin"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "mul'atu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:46.299429807Z",
+  "model": "glm-5.3"
+}

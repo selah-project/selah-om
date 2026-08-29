@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Fi ⟨את⟩ Yattiirii fi ⟨את⟩ dirree ishee, fi ⟨את⟩ Eshtemoo'aa fi ⟨את⟩ dirree ishee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Yattiir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattiir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dirree ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dirree ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Eshtemoo'a"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoo'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dirree ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dirree ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:28.230941894Z",
+  "model": "glm-5.3"
+}

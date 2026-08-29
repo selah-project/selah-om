@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Garuu gabroon namaa kamiyyuu, maaldaa bitame, yoo ati ⟨את⟩ isa moolliittlee, achumaan isaa keessaa ni nyaata.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Garuu kamiyyuu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gabroon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "bitame"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "maaldaa"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "yoo ati moolliittlee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "achumaan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nyaata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:05:20.712083699Z",
+  "model": "glm-5.3"
+}

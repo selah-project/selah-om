@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Afaan kee bana, murtoota qajeelaa godhi, kan miidhaa fi kan hiyyeessaa murtessi.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "murtoota godhi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "fi murtessi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kan miidhaa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi kan hiyyeessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:31.796348222Z",
+  "model": "glm-5.3"
+}

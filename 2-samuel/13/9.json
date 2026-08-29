@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Tamar maakaraa ⟨את⟩ fudhatee, isa dura dhangumsitee; Amnoon immoo nyaachuu didde. Amnoon akkas jedhe: \"Namoota hunda natti biraa baafadhaa!\" Namoonni hunda isa biraa ba'an.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maakaraa"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "maakaraa"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "dhangumsitee"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "isa dura"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "didde"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "nyaachuu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeedhe"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "baafadhaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "natti biraa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "isa biraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:52.647757557Z",
+  "model": "glm-5.3"
+}

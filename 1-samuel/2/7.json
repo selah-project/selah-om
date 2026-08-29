@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe rakkisaa godha, bayyisaa godha; ni gadi buusisa, akkasumas ni ol kaasa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "rakkisaa godha"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "bayyisaa godha"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ni gadi buusisa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ni ol kaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:14:57.234919481Z",
+  "model": "glm-5.3"
+}

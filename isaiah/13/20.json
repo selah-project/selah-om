@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Yeroo hunda hin jiraattu, durtii durtitti hin jiraattus; Arabiin teessoo isaa hin diddaabsisu san, loon-hojjettoonnis san hin bobaafatan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "jiraattu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "Yeroo hunda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "jiraattus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "דור",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "durtitti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "diddaabsisu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "san"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "Arabiin"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "loon-hojjettoonnis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "bobaafatan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:40.565604805Z",
+  "model": "glm-5.3"
+}

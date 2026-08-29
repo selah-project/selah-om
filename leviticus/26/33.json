@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Isin ammoo ⟨את⟩ sabaa keessatti sosaacha, fi qilxaa isin booda hordofsiisa; biyyi keessan dheessaa taati, magaalaan keessan moora-dheessaa ta'u.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "sosaacha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sabaa keessatti"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "hordofsiisa"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "isin booda"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilxaa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "taati"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "biyyi keessan"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dheessaa"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "magaalaan keessan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "moora-dheessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:02.156203038Z",
+  "model": "glm-5.3"
+}

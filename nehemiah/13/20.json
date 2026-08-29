@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Adeemtoonni (daldalaa) fi gurgurtoonni wantoota gurguraa hunda Yerushaalayim alatti (hafanii) — yeroo tokko yeroo lamaaf — turan.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "turan \/ hafanii"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "adeemtoonni daldalaa"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "gurgurtoonni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wantoota hunda"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "gurguraa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "yeroo tokko"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "yeroo lamaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:30:20.691891231Z",
+  "model": "glm-5.3"
+}

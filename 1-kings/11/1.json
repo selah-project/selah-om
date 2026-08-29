@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Mootichi Sileemoon dubartoota alagaa baay'ee jaalatee, fi ⟨את⟩ imimtii Parooh, Moo'aabttiyyoota, Ammonttiyyoota, Edomttiyyoota, Tsidonttiyyoota, Hittiyyoota.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sileemoon"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalatee"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dubartoota"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "alagaa"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imimtii Parooh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "imimtii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parooh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moo'aabttiyyoota"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonttiyyoota"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomttiyyoota"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidonttiyyoota"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hittiyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:51.809922017Z",
+  "model": "glm-5.3"
+}

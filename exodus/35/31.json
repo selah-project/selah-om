@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Ruuhii Eloohiim sirriitti guute — ogummaa, hubannoo fi beekumsaafi, hojii hunda keessattiis.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (Betsaleel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ogummaa"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "hubannoo"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "fi beekumsa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunda keessattiis"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "hojii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:05.950704095Z",
+  "model": "glm-5.3"
+}

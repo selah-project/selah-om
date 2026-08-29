@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Wa'an kan baadhaan ka'ee — poolaa koo ajjeesee dachii keessa kenne; kanaanuu dheebuna dachii gadiitti — maati isaa dabarsee bifa jireenyaa adda baaseera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "hordofee"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "aarsaa koo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "miidhee"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dachii gadiitti"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "jireenya koo"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "na jiraachise"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dukkana gadii keessatti"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "akka warra duwan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dursaa-dursaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:06.970321548Z",
+  "model": "glm-5.3"
+}

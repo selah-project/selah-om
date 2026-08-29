@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Inniho mana kee keessatti yaaddesse, saboota baay'oo baasuudhaan, lubbuu keetiinis dogoggorte.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "yaaddesse"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "inniho"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "mana kee keessatti"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "baasuu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'oo"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "dogoggorte"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:57:15.080230480Z",
+  "model": "glm-5.3"
+}

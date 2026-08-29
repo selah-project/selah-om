@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Isin qofa malee — ani kakuu kana ⟨את⟩ fi hacuucca kana ⟨את⟩ nan mura.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin waliin"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "qofa malee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nan mura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu (kakuu kana)"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hacuucca (hacuucca kana)"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hacuucca"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:34:51.036279748Z",
+  "model": "glm-5.3"
+}

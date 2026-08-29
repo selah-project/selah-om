@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Anis immoo ilma-dursaa isa nan taasisa; ol'aana mootota lafaa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "immoo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ilma-dursaa"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "isa nan taasisa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ol'aana"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.903604257Z",
+  "model": "glm-5.3"
+}

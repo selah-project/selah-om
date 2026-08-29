@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Natti gurraacha: 'Eloohiim keenya, ati beekna, yaa Israa'el!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "gurraacha ( baqqaachaa )"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "ati beekna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaa Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:58.915934299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Gorsisaa'aaaf. Daawidif. Foolessaan onnee isaa keessatti jedhe, \"Eloohiim hin jiru.\" Balleessaniiru, hojiiwwan akka hin barbaachifne hojjaniiru; waan toltuu hojjetu hin jiru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Gorsisaa'aaaf"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidif"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Foolessaan"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "onnee isaa keessatti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Balleessaniiru"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "hojjaniiru"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "hojiiwwan akka hin barbaachifne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waan toltuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:22.225502697Z",
+  "model": "glm-5.3"
+}

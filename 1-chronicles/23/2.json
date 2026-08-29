@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Abeera gobbana abbootii Israa'elitti, keessumaa ogeeyyii qulqullummaa (kohaanota) fi Leewiyyotaa walitti qaba.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "walitti qaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gobbana abbootii Israa'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gobbana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "keessumaa ogeeyyii qulqullummaa (kohaanota)"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Leewiyyotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:42:54.043069317Z",
+  "model": "glm-5.3"
+}

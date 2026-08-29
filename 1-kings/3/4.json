@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Booda mootichi Gibon deeme siʼa hafuura gatuu; sababaan isaas isheeti bakkoon ol-olaa guddaadha; kuma tokko wal-sacrifice ol-dhiyoo Shelomoh altaricha sanarratti bahee gataa \/ kuma tokko kibbaa dhiyoo Shelomoh altaricha sana irratti ol-qaba.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "hafuura gatuu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siʼa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaan isaas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isheeti"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "bakkoon ol-olaa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guddaadha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kibbaa dhiyoo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ol-qaba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaricha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-29T08:03:30.653846218Z",
+  "model": "glm-5.3"
+}

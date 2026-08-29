@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Kan ajaa'ibii gurguddoo qixxataa isa qofa hojjetu; kakaaf yeroo dhumaa hin qabneef kheesdi isaa hafu.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kan hojjetu"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ajaa'ibii"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gurguddoo"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qixxataa isa qofa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kakaaf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo dhumaa hin qabneef"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesdi isaa hafu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:35.770672335Z",
+  "model": "glm-5.3"
+}

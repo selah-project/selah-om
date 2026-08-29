@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "fi ⟨את⟩ Hittii, ⟨את⟩ Perizzii, ⟨את⟩ Rafaawaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fi",
+      "marks": "Hittii"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fi",
+      "marks": "Perizzii"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fi",
+      "marks": "Rafaawaa"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Rafaawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:35.630644633Z",
+  "model": "glm-5.3"
+}

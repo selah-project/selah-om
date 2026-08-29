@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Daawidis dhiira tokko-durbii ergere; Daawidiis dhiirotaatti \"Karmaaliitti olkaa'aatti, Nabaal biratti naqaa, maqaa kootiin isaa nagaa gaafadhaa\" jedhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tokko-durbii"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidiis"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "dhiirotaatti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "olkaa'aatti"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "Karmaaliitti"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "naqaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabaal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "gaafadhaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "maqaa kootiin"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:35.439736161Z",
+  "model": "glm-5.3"
+}

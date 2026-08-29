@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Sila Kalnoo akka Karkemiish mitii? Hamaat akka Arpad mitii? Shomeroon akka Damaaskoo mitii?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sila ... mitii"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "akka Karkemiish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalnoo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "akka Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamaat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "akka Damaaskoo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:48:45.394370062Z",
+  "model": "glm-5.3"
+}

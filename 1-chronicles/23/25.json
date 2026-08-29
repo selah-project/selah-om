@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Sababiin isaas Daawid akka jedhetti, \"Yahwe Eloohiim Israa'el sabaa isaa haa nagaa kennetti, fi Yerushaalayimtti yeroo hunda jiraata.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akka jedheetti"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "haa nagaa kennetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sabaa isaa"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "fi jiraata"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayimtti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T13:42:20.590645496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Ani immoo haaromsa koo ⟨את⟩ eebbessa koo isinitti ajaja barra jaubbatiidhaan; innis ⟨את⟩ oomisha sadaffaa sadeen waggootaaf hojjecha.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eebbessa koo"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "eebbessa koo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "keessatti wagga"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "jaubbati"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "innis hojjecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oomisha sadaffaa"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "oomisha sadaffaa"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "sadeen"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "waggoota"
+    }
+  ],
+  "timestamp": "2026-08-29T14:26:12.651012590Z",
+  "model": "glm-5.3"
+}

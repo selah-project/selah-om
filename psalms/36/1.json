@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Geejjibaaf — kan tajaajilaa Yahwe ta'e, kan Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "geejjibaaf"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "tajaaajilaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:19.621333999Z",
+  "model": "glm-5.3"
+}

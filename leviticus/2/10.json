@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Waan minchaa irraa hafu Aharooniifi ilmaan isaaf ti — qulqullumaa qulqullumootaa, qurbaawwan ibiddaa Yahwe irraa.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "waan hafu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ilmaan isaafiif"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullumaa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullumootaa"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "qurbaawwan ibiddaa irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:19.157173188Z",
+  "model": "glm-5.3"
+}

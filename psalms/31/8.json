@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Kheesed kee keessatti nan hawwaa, nan gammada; sababoon ⟨את⟩ rafeena kiyya argiteef, yaaddoo lubbuu kiyya beekteef.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "nan hawwaa"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "nan gammada"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "Kheesed kee keessatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sababoon"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "argiteef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafeena kiyya"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "rafeena kiyya"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beekteef"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "yaaddoo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:40.034080439Z",
+  "model": "glm-5.3"
+}

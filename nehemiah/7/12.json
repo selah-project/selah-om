@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ilmoota Elaam, kuma tokko, dhibba lama, digdamii afur.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmoota"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elaam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dhibba lama"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "digdamii"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "fi afur"
+    }
+  ],
+  "timestamp": "2026-08-29T13:20:28.954819692Z",
+  "model": "glm-5.3"
+}

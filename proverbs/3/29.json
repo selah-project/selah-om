@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Re'aa kee irratti hamina hin qopheessi, yeroo inni nagaa ta'ee ⟨את⟩ si wajjin jiraatu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "qopheessi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "re'aa kee"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamina"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nagaa ta'ee"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ si wajjin",
+      "marks": "si wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:50.041283643Z",
+  "model": "glm-5.3"
+}

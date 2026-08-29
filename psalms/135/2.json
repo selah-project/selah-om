@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Warra mana Yahwe keessatti dhaabbatan, mana Waaqayyo keenya gabatee keessatti.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "dhaabbatan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "gabatee keessatti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Waaqayyo keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:54.272650585Z",
+  "model": "glm-5.3"
+}

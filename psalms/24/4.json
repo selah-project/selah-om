@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Harka qulqulluu qabu, onnee ifuu qabu, lubbuun koo dogoggoraa irratti hin ol-kaafne, mormaanis hin kakabsne.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "fi ifuu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ol-kaafne"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "dogoggoraa irratti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun koo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kakabsne"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "mormaanis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:02.264519699Z",
+  "model": "glm-5.3"
+}

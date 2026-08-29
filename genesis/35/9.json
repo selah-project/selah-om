@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Eloohiim Ya'aqob irratti ammas mul'ate, Paddaan-Araam irraa yeroo deemu isaa, ⟨את⟩ isaa kabajjees.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mul'ate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "yeroo deemu isaa"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Paddaan irraa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kabajjees"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:15.619579957Z",
+  "model": "glm-5.3"
+}

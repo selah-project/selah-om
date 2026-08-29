@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Kheesed kee keessatti diinoota kiyya balleessi; lubbuu kiyya rakkisan hunda dhabamsiisi; sababa ani gatiin kee ta'een.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "kheesed kee keessatti"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "balleessi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinoota kiyya"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "dhabamsiisi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "rakkisan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gatiin kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:11.573126979Z",
+  "model": "glm-5.3"
+}

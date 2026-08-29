@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Maahalaleel waggaa shanamii fi soddomaa jiraatee ⟨את⟩ Yeered dhalate.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraatee"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Maahalaleel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanamii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "fi soddomaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeered"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:51.354398199Z",
+  "model": "glm-5.3"
+}

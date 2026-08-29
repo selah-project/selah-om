@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo inni jechoota kana wajjin natti dubbachuu danda'u, fuulla koo gara lafatti najeegee, ijaan-ookheen booyee mooti.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "yeroo inni natti dubbachuu danda'u"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wajjin natti"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "akka jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "najeegee (kennadhe)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulla koo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "gara lafatti"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "ijaan-ookheen booyee mooti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:36:06.639275263Z",
+  "model": "glm-5.3"
+}

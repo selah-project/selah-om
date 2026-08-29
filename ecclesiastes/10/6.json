@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Seexaniiddowwan olaanaa ol kenname, warra qabeenya qaban immoo iddoo gadaanaa keessatti jiratu.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ol kenname"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "seexan"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "iddowwan olaanaa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨weellaa⟩"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "warra qabeenya qaban"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "iddoo gadaanaa keessatti"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jiratu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:18.057231616Z",
+  "model": "glm-5.3"
+}

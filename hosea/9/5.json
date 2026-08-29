@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Guyyaa walga'ii maaltan raawwattu? Guyyaa taabataa Yahwe maaltan raawwattu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maaltan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "raawwattu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "guyyaas"
+    },
+    {
+      "surface": "חג",
+      "gloss": "taabataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:56.573553709Z",
+  "model": "glm-5.3"
+}

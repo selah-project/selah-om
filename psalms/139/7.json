@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Eessa baadha afoofaa kee irraa? Eessa facaafadhu ittaatti kee irraa?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Eessa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "baadha"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "afoofaa kee irraa"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "Eessa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ittaatti kee irraa"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "facaafadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.279235651Z",
+  "model": "glm-5.3"
+}

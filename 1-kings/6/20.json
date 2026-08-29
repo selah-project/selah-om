@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Deebirichaa fuulduraa ammaa digdami dheerina, ammaa digdami bal'ina, ammaa digdami olka'ina; waraqee qulqulluun isa marse; altarii sedarii immoo marse.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "deebirichaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "digdami"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerina"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "digdami"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'ina"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "digdami"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaa"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "olka'ina isa"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "isa marse"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waraqee"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "marse"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedarii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:05:14.366736068Z",
+  "model": "glm-5.3"
+}

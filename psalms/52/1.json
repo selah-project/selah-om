@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Geeffama to'ataa qofaaf. Barsiisa kan Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geeffama to'ataa qofaaf"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Barsiisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:42.563262862Z",
+  "model": "glm-5.3"
+}

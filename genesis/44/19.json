@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "««Gooftaan kiyya fudhadamoota isaa ⟨את⟩ gaafachuu jedhe: «Abbaa yookiin obboleessa isin qabduu?»",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Gooftaan kiyya"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "gaafachuu jedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fudhadamoota isaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "fudhadamoota isaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "היש",
+      "gloss": "qabduu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "אב",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "yookiin"
+    },
+    {
+      "surface": "אח",
+      "gloss": "obboleessa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:51:29.056375269Z",
+  "model": "glm-5.3"
+}

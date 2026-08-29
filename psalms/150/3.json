@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 150,
+  "translation": "Isaatecaa haboo baatiinsaa keessatti godhaa; Isaa nevel fi kinor-tiin godhaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Isaa godhaa"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "haboo baatiinsaa keessatti"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shaapphar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isaa godhaa"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel-tiin"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "fi kinor"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.535628332Z",
+  "model": "glm-5.3"
+}

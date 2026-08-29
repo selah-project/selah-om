@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Balbalaawwan bira, magaalaa afuuffa irratti, baafataawwan seenutti ni gaddifti.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "bira"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "balbalaawwan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afuuffa"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "baafataawwan seenu"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "gara baafataa"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ni gaddifti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:37.693093363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sababni isaas, kuffisni cufa irraa hin baafamu; rakkoonis lafa irraa hin guddatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "baafamu"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "cufa irraa"
+    },
+    {
+      "surface": "און",
+      "gloss": "kuffisni"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "lafa irraatis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "guddatu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rakkoo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:21.278789594Z",
+  "model": "glm-5.3"
+}

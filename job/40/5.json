@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Tokko dubbadheera, garuu hin deebisu; lammatti, garuu hin dabalchu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "dubbadheera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin deebisu"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "hin deebisu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "lammatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin dabalchu"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "hin dabalchu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:31:32.260070552Z",
+  "model": "glm-5.3"
+}

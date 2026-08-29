@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ammas ati dhiqadhu, zayitaa dhangadhu, uffaannaa kee si kennadhu, gadi sangaraa buunaa bu'i; namicha san hin beeksisin, yeroo baafachuuf niitu dhugutu xumura godhu.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "dhiqadhu"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "zayitaa dhangadhu"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kennadhu"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "uffaannaa kee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "bu'i"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sangaraa buunaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "beeksisin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namicha san"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "xumura godhu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "niitu"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "dhugutu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:39:27.557186514Z",
+  "model": "glm-5.3"
+}

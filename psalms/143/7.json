@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Dheessuu na deebisi, Yahwe; ruhuun koo dhumeera; fuula kee na irraa dhoksi; yoo na dhoksite, warra gara godduutti seenu waliin walfakkaadha.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Dheessuu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "na deebisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "dhumeera"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhuun koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dhoksi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "walfakkaadha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "warra... seenu"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godduutti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:36.459822908Z",
+  "model": "glm-5.3"
+}

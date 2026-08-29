@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Gara aldaawaa Eloohiim seena; gara Eel, gammachuu jaalala koo, fi kinnaratti si galateefadha, yaa Eloohiim, Eloohiim koo.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "seena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aldaawaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "jaalala koo"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "si galateefadha"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnaratti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaa Eloohiim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:07.782429704Z",
+  "model": "glm-5.3"
+}

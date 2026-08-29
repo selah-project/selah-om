@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akka Yahween ⟨את⟩ Moshee ajajetti, akkasumas dirree Siinaayi keessatti isaan lakkoofsan.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "lakkoofsan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dirree"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinaayi"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:02.125852919Z",
+  "model": "glm-5.3"
+}

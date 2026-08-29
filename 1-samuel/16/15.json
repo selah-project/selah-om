@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Abbaan seera Sha'uulis isaatti, \"Kanaa! Ruuhni Eloohiim hamtuu si nagaafta.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Abbaan seera"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kanaa!"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dursaa to'annoo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "si nagaafta"
+    }
+  ],
+  "timestamp": "2026-08-29T07:26:59.490680496Z",
+  "model": "glm-5.3"
+}

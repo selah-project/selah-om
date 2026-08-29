@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Dhidhii kee fi booda kee irraa — siif kan ta'e; siif kan ta'eetta fudhatee, siif kan ta'eenna darbiteef.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "dhidhii kee"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "fi booda kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siif kan ta'eettaf"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "darbite"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:59.373634944Z",
+  "model": "glm-5.3"
+}

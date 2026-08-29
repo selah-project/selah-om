@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Si karaa dogoggoraa irraa, nama dubbii-jijjiiraa dubbatu irraa bilisoomsuuf.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "Si bilisoomsuuf"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "karaa irraa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dogoggoraa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nama irraa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "dubbii-jijjiiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:43.245782935Z",
+  "model": "glm-5.3"
+}

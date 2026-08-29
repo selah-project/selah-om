@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 52,
+  "translation": "Yeroo hunda si galateeffadha, waan ati hojjeteef; maqaa kee eegadha, waan gaaru fi waaqeffattoota kee fuulduratti ta'uuf.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "si galateeffadha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan ... eef"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "eegadha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan ... uuf"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaaru"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "waaqeffattoota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:12.160169054Z",
+  "model": "glm-5.3"
+}

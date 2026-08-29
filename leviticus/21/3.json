@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Obboleettii isaa dhiittii, kan isatti dhihoo taate, kan dhiiroon hin qabneef — isheetiif qabamuu danda'a.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "Obboleettii isaa"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "dhiittii"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "kan isatti dhihoo taate"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "qabne"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dhiiroon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetiif"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "qabamuu danda'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:01.469810571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Eelitti gabarree tokko fayyadaa? Yoo nuti-qabeessi ta'e, inni ofiif ni fayyadaa?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Eelitti"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "fayyadaa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gabarree"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ni fayyadaa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nuti-qabeessi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:26:09.020740540Z",
+  "model": "glm-5.3"
+}

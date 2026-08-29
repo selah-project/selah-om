@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nahum 1:14",
+  "book": "nahum",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe si irratti ajajee jira: maqaan kee inni booda hin rammanu. Mana Eloohiim kee irraa fakkii boca'aa fi fakkii dhangula'e baafadha; haadha kee siif mijdheera, sababa ati gad-aantaa taateef.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ajajee jira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "rammanu"
+    },
+    {
+      "surface": "משמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "inni booda"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana … irraa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "baafadha"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "fakkii boca'aa"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "fi fakkii dhangula'e"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "mijdheera"
+    },
+    {
+      "surface": "קברך",
+      "gloss": "haadha kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "gad-aantaa taateef"
+    }
+  ],
+  "timestamp": "2026-08-29T15:20:21.104316392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Innis abbaa isaa bira dhufe; 'Abbaa ko!' jedhe. Abbaan ammas 'Ani as jira; ati eenyu, ilmaa ko?' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bira dhufe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abbaa ko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ani as jira"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaa ko"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:32.397432470Z",
+  "model": "glm-5.3"
+}

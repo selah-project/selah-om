@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 64,
+  "translation": "Eloohiim immoo dheebaan isaan mooyyeeffa; yeroo tokko tokkotti isaan miidhamu.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "isaan mooyyeeffa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "dheebaan"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "yeroo tokko tokkotti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "miidhamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:55.114579119Z",
+  "model": "glm-5.3"
+}

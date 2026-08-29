@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Harkaan kee na gargaaruuf haa ta'u, sababa ajajoota kee filadheef.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harkaan kee"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "na gargaaruuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ajajoota kee"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "filadhe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:33.528906610Z",
+  "model": "glm-5.3"
+}

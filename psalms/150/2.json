@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 150,
+  "translation": "Isaa humna guddaa Isaa keessatti godhaa; Isaa guddina Isaa hedduun godhaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Isaa godhaa"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "humna guddaa Isaa keessatti"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isaa godhaa"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "hedduun"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "guddina Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.535482056Z",
+  "model": "glm-5.3"
+}

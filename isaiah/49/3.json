@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Ana biratti ni jedhe: Barattaan koo ati taata, Israa'el, si keessatti nan of-miidhessa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ana biratti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "barattaan koo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati taata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "nan of-miidhessa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:59.373630697Z",
+  "model": "glm-5.3"
+}

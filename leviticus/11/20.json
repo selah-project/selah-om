@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Hundi siriittii boona iffatanii kan ji'oota afur irratti deeman, isaan ni duub-dhorkamtoodha kee irratti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "siriittii boona"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "iffatanii"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "duub-dhorkamtoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kee irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:12.937475282Z",
+  "model": "glm-5.3"
+}

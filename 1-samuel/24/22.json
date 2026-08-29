@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Ammas amma, Yahwe'n naaf kakadhu — maaltuu maatiin koo booda naa hin baafu, fi maqaa koo mana abbaa koo irraa hin badhaasfisu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ammas amma"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "kakadhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe'n"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maaltuu"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "hin baafu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maatiin koo"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "maatiin koo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fi maaltuu"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "hin badhaasfisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa koo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "maqaa koo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana ... irraa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:15.270622441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahwe irratti gammaddaa, bultoo ta'aa warra sirrii; riiree-dhiyeessaa, hunda keessan warra onnee sirrii qaban.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "gammaddaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "bultoo ta'aa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "warra sirrii"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "riiree-dhiyeessaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda keessan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:58.644414632Z",
+  "model": "glm-5.3"
+}

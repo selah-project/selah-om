@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 5:12",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hamanis immoo jedhe: Eeyyee, moo'ittii Esitteri nama tokkollee ⟨את⟩ mootummaa wajjin waan isheen hojjettettihi kennaa ishee irratti hin seensisse, ani qofa malee; lagas boru ani isheetti wajjin mootummaa kan waamame ta'a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanis"
+    },
+    {
+      "surface": "אף",
+      "gloss": "immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "seensisse"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esitteri"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "moo'ittii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hojjettettihi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "malee (ki im)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ani (ani qofa) — mallattoon kuffiizii 'ani qofa malee' agarsiisa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lagas"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "boru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "קרוא",
+      "gloss": "kan waamame"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:00:47.872429407Z",
+  "model": "glm-5.3"
+}

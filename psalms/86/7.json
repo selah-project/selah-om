@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Guyyaa rakkoo koo keessa siin kadhata; kunoo ati na deebifta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "rakkoo koo keessa"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "siin kadhata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ati na deebifta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:17.789850555Z",
+  "model": "glm-5.3"
+}

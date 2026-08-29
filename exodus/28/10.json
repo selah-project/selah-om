@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Maqoota isaanii kan jaha tokko, tokkicha foota tokkoo irratti; maqoota jaha kan hafan immoo ⟨את⟩ tokkicha foota lammaffaatti, akka dhaloota isaanii.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "maqoota isaanii kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "tokkicha foota"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maqoota jaha kan hafan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqoota"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kan hafan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "tokkicha foota"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lammaffaatti"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "akka dhaloota isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:36.674693859Z",
+  "model": "glm-5.3"
+}

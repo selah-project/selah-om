@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Mootichi deebi'ee Yardeenitti dhufe; Yihuudaanis Gilgaala dhufe, mooticha wal qabachuuf, ⟨את⟩ mooticha ⟨את⟩ Yardeen darbisuuf.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gaditti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeen"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yihuudaanis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgaala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemuuf"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "wal qabachuuf"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "darbisuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeen"
+    }
+  ],
+  "timestamp": "2026-08-29T07:57:43.436036288Z",
+  "model": "glm-5.3"
+}

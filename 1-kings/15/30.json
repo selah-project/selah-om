@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sababa dogoggora Yaarab'am kan hojjateef, fi Israa'eliisin dogoggora hojjechuuf, akka kaddeessa isaas kan Yahwe, Eloohiim Israa'el kaddeesseef.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dogoggora"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaarab'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hojjateef"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi...kan"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "dogoggora hojjechuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'elii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "akka kaddeessa isaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "kaddeesseef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Eloohiim Israa'el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:48.798687935Z",
+  "model": "glm-5.3"
+}

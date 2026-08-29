@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Waan akka amananifi: Yahwe, Eloohiim abbootii isaanii — Eloohiim Avrahaam, Eloohiim Yitsaaq fi Eloohiim Yaakaab — siitti mul'ate.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "waan akka amananifi"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "amanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "mul'ate"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "fi Eloohiim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakaab"
+    }
+  ],
+  "timestamp": "2026-08-29T04:57:42.451017923Z",
+  "model": "glm-5.3"
+}

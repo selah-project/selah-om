@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Fi akka gurra ilmaan kee fi ilmaan ilmaan keetti himtu — waan ani Mitsraayim irratti hojjedhe fi ⟨את⟩ mallattoonni kiyya isaaniitti kaa'e; akka anaan Yahwe ta'e beektaniif.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "himtu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "fi ilmaan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ani Mitsraayim irratti hojjedhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mallattoonni kiyya"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mallattoonni kiyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "beektani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:13.776924025Z",
+  "model": "glm-5.3"
+}

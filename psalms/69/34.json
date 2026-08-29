@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Sababiin Yahwe kan hiyyeessota dhaggeeffata, ⟨את⟩ hidhamtoota isaa hin salphisu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhaggeeffata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "hiyyeessota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hidhamtoota isaa"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "hidhamtoota isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "salphisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:57.971566304Z",
+  "model": "glm-5.3"
+}

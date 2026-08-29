@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Barreeffama keessattis akka kana barreesse: Uuriyaah ⟨את⟩ gara fuulla imaltuu cimaa duraatti dhiyyessaa; isaa booda deebisaa — kuffamee, du'u haa ta'u.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "barreesse"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "barreeffama keessatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dhiyyessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מול",
+      "gloss": "duraatti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuulla"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "imaltuu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "deebisaa"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "isaa booda"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "kuffamee"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'u haa ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:38.329927170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ammas na ⟨אתי⟩ waamee naatti dubbatee jedhe: Ilaali, biyya kaabaa deemtoonni Roocha kiyya biyya kaabatti akka nagayaan seenuu godhan.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "waamee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "na (ani)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "deemtoonni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biyya kaabaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya kaabaa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaabaa"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "godhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Roocha kiyya"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Roocha kiyya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaabatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:03:40.419798591Z",
+  "model": "glm-5.3"
+}

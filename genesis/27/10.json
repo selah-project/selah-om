@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Isaa gara abbaa keetti fidu; inni nyaata, akkasumas du'a isaa dura si eebbisa.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "fidu"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "gara abbaa keetti"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "inni nyaata"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "akka...haawaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "si eebbisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "du'a isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:22.255312432Z",
+  "model": "glm-5.3"
+}

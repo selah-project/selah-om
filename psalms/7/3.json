@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Akka sima-najashii na baate wajjin waan na baate malee, na dheedhessuu, kan na oolchuu hin jiru malee, ani na baate hin baane.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "malee"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "na dheedhessuu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "akka sima-najashiitti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "na baate (nafsi kiyya)"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "dheedeessuu adda baasuu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru malee"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kan oolchuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:19.845514747Z",
+  "model": "glm-5.3"
+}

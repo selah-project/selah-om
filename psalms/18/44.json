@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Nafftii baafatta wal dhabbii sabaa irraa; naa taasisa mataa sabootaa; saba waan hin beeku na tajaajila.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "nafftii baafatta"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "wal dhabbii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "naa taasisa"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabootaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waan hin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "na tajaajila"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:37.829934921Z",
+  "model": "glm-5.3"
+}

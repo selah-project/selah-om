@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ummatni guyyaa torbanffaatti boqate.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "boqate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ummatni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "torbanffaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:30.983425950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahween Mosheen ajajetti akka akka jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:30:31.181269800Z",
+  "model": "glm-5.3"
+}

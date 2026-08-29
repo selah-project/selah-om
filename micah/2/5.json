@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kunooaf gamgamaa Yahwe keessatti sarara qoodaa hamaan tokkollee siif hin ta'u.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kunooaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "hamaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sarara"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "qoodaa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "gamgamaa keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:59.523138779Z",
+  "model": "glm-5.3"
+}

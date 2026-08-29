@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Waan ani dubbadhu inni akka beeku narramuu danda'amaa? Yoo namni jeede, dhugumatti ni liqimfama.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "narramuu danda'amaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ani dubbadhu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jeede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "ni liqimfama"
+    }
+  ],
+  "timestamp": "2026-08-29T12:32:55.858194021Z",
+  "model": "glm-5.3"
+}

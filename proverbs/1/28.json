@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yeroo san natti hucaa; garuu hin deebisu; natti barbaadanii hin argatan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "yeroo san"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "natti hucaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "deebisu"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "natti barbaadan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "argatan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:24.184076244Z",
+  "model": "glm-5.3"
+}

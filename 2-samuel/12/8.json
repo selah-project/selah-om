@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ani sii ⟨את⟩ mana kan bulchaa kee kennadheera, fi ⟨את⟩ dubartoota kan bulchaa kee goroo sii keessatti; Aniis sii ⟨את⟩ mana Israa'elii fi Yuudaa kennadheera; yoo xiqqaate, Ani sii akkaanaa fi akkaanaas dabaladheera.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kennadheera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "kan bulchaa kee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dubartoota"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "dubartoota"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "kan bulchaa kee"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "goroo sii keessatti"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kennadheera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yuudaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqaate"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "dabaladheera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "akkaanaa"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "akkanaas"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:30.322635856Z",
+  "model": "glm-5.3"
+}

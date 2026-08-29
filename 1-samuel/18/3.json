@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yehoonaataanis Daawid waliin kakuu godhe, sababiin isaas akka lubbuu isaa jaalate ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kakuu godhe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonaataan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawid (waliin)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "jaalala isaa irratti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "akka lubbuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:30:56.918685450Z",
+  "model": "glm-5.3"
+}

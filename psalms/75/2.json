@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Si galateffanna, yaa Eloohiim, si galateffanna, maqaan kee dhiyoo ⟨dha⟩; hojiiwwan laalawaa kee himaaniiru.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "galateffanna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "galateffanna"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "dhiyoo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaan kee"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "himaaniiru"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "hojiiwwan laalawaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:42.798617228Z",
+  "model": "glm-5.3"
+}

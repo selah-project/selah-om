@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 23:19",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Tokkoon ri'aa reetii qurba dilatiif godha, fi ibiyyoo lama ilman wagga tokkoo qurba nageenyaa godha.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "godha"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ri'aa"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "reetii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "qurba dilatiif"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "fi lama"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ibiyyoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wagga tokkoo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurba ... godha"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nageenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:37.090258249Z",
+  "model": "glm-5.3"
+}

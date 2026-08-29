@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hundi isaanii kan raajii dhiiraa ti, akka daawwaa ibiddaan gubaa kan boona taa'e; inni ibidda kakaasuu dhaabata, digdugaa saaphanaa irraa, sahaa isaa khamuuutti.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hundi isaanii"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "kan raajii dhiiraa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "daawwaa"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ibiddaan gubaa"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "kan boona taa'e"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "dhaabata"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kakaasuu irraa"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "digdugaa irraa"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "saaphana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saha"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "khamuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:45.509964541Z",
+  "model": "glm-5.3"
+}

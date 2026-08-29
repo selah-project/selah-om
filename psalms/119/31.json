@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ragaan keetti maxxane; Yahwe yoo, naa hin salphisi.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "maxxane"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "ragaan keetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "naa salphisi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:11.791478344Z",
+  "model": "glm-5.3"
+}

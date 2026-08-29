@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 126,
+  "translation": "Yahwe waan gurguddoo nuti waliin hojjedhe; haa gammadnu.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "waan gurguddoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nuti waliin"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "haa taanu \/ taanuu"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "gammadnu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:28.266280336Z",
+  "model": "glm-5.3"
+}

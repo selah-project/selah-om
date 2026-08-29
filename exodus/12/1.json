@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahwe biyya Mitsraayim keessatti Mosheettis fi Aharoonttis akka jedhu dubbate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheettis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi itti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonttis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:58.765662784Z",
+  "model": "glm-5.3"
+}

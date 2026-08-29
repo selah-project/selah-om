@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Ati harka mirgaa addattotaa isaa ol kaaste; addattotaa isaa hundi jaajachuu godhiisite.",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "ol kaaste"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "harka mirgaa"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "addattotaa isaa"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "jaajachuu godhiisite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "addattotaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:22.617997790Z",
+  "model": "glm-5.3"
+}

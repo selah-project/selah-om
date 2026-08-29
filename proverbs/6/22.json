@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yeroon ati deemu, si qajeelcha; ati hirattuu ⟨את⟩ si eega; ati ka'uus isheen si waliin haasofi.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "yeroon ati deemu"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "qajeelcha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "ati hirattuu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "yeroon ati ka'uus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "si waliin haasofi"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:04.045939267Z",
+  "model": "glm-5.3"
+}

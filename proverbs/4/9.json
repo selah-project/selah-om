@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Mataa keetti maakida jaalalaa si ganna; muundii miidhaginaa si dhowrteetti.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "si ganna"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "mataa keetti"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "maakida"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalalaa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "muundii"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "miidhaginaa"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "si dhowrteetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:57.090206431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Bulchiisaaf, Gittith irratti, dhiira Qorach, mazmara.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiisaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmara"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:50.278628811Z",
+  "model": "glm-5.3"
+}

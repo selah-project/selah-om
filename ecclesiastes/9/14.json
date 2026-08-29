@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Magaalaa xiqqaa, namoonni isa keess yeroo muraa qaban; mootii guuddaan isitti dhufe, ishee naanna'ee ⟨את⟩, ishee irratti dambaliiwwan guddaa ijaare.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "fi namoonni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "isa keess"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "muraa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isitti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "naanna'ee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (magaalaa sana)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ijaare"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "dambaliiwwan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:57.086177086Z",
+  "model": "glm-5.3"
+}

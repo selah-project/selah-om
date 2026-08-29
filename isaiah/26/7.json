@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Karaan mootummaa-qabeessa sirnaan qindaa'e; Ati Sirnaa taate, karaa mootummaa-qabeessaa ni miidhagsa.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "karaan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mootummaa-qabeessa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sirnaan qindaa'e"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Sirnaa taate"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mootummaa-qabeessaa"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ni miidhagsa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:34.093257216Z",
+  "model": "glm-5.3"
+}

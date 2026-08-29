@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Kunoon ilmaan Israa'el ti: Re'uubeen, Shiim'on, Leevii, Yihuudaa, Yisaskaar, fi Zebulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uubeen"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shiim'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevii"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "fi Yihuudaa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskaar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "fi Zebulun"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:34.384906739Z",
+  "model": "glm-5.3"
+}

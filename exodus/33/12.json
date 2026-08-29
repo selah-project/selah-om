@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Mosheenis Yahwetti jedhe: Ilaali, ati natti 'Sardii kana ol baasi' jechaa jirta, atis waan ati waliin kiyya ergu natti hin beeksifne; atis 'Maqaan si beeka, fi ija kiyya keessattis jaalala siif argate' jettee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jechaa jirta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "העל",
+      "gloss": "ol baasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sardii kana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sardii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "natti beeksifne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ati ergu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ergu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "waliin kiyya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "jettee"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "si beeka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "fi"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "argatte"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ija kiyya keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:23:06.196773561Z",
+  "model": "glm-5.3"
+}

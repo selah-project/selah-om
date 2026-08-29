@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Eebuun ⟨את⟩ eebolee xinqee maqaa Yahwe ti; teessoo godaame akka (iddoon) bu'a qoppaa lama zaree teenan xinqeetti.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "eebolee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eeboleen (lakkoofsa saddeet))"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "eeboleen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "xinqee"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "godaame"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "teessoo"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "akka (iddoon bu'a)"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "qoppaa lama"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaree"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "teenan"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "xinqeetti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:57:22.478600295Z",
+  "model": "glm-5.3"
+}

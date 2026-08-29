@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Saataanis fuula Yahwe biraa ⟨את⟩ bahe; Ayyuubis ⟨את⟩ rukute — muda'ii kuffisaa qaama isaa irraa kan kabajaa miilaa giddu galeessaa hanga gubbaa mataa isaa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Saataanis"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ biraa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayyuub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuub"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "muda'ii kuffisaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kuffisa qaama isaa irraa kan kabajaa"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kan kabajaa"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "miilaa giddu galeessaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangana"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "gubbaa mataa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:15:26.384551101Z",
+  "model": "glm-5.3"
+}

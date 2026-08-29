@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Yakka isaanii irratti yakkaa dabalisi, sirrummaa kee seensuu hin dadhaban haa ta'u.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "dabalisi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "yakkaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "yakka isaanii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sirrummaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:13.416030487Z",
+  "model": "glm-5.3"
+}

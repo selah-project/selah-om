@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Iji kiyya gadi-deebii dhaan jiru; Yahwe, guyya guyyaan siin chaala; harka kiyya siitti bal'isee baafadha.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Iji kiyya"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "gadi-deebii"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dhaan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "gamnaa kiyya irratti — hiikkaa guuttaan-golbaa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "siin chaala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guyya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "bal'isee baafadha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "harka kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.645701451Z",
+  "model": "glm-5.3"
+}

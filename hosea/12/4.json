@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Keesa keessaa obboleessa isaa ⟨את⟩ cinaacha argamsiise; humna isaa keessattis Eloohiim ⟨את⟩ morme.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "keesa keessaa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "cinaacha argamsiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleessa isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "humna isaa keessattis"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "morme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T10:41:29.694355572Z",
+  "model": "glm-5.3"
+}

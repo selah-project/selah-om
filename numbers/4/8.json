@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Isaan irrattis maraa diimaa-ejji babalani, ⟨את⟩ isa gogaa takkashiin haguugani, ⟨את⟩ boollaawwan isaa galchani.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "babalani"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irrattis"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "maraa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diimaa-ejji"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ejjii"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "haguugani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "gogaa takkashiin"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takkash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "galchani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boollaawwan isaa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "boollaawwan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:50:19.585793501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Aniis qulqullummaa koo irratti deema; na bilisoomsi, na rahaa godhi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniis"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "qulqullummaa koo irratti"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "deema"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "na bilisoomsi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "na rahaa godhi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:08.063836064Z",
+  "model": "glm-5.3"
+}

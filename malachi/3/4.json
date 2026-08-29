@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahweef kennaa Yihuudaa fi Yerushaalayim miidhagsa ta'a, akka guyyoota darbee fi akka waggoota jalqabaa.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "miidhagsa ta'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushaalayiinis"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "akka guyyoota"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "darbee"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "akka waggoota"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "jalqabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:21.032947622Z",
+  "model": "glm-5.3"
+}

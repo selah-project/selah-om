@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Guyyaa Yahwe gadda kee irraa, rifu'uu kee irraa, akkasumas hojii cimaa isa si irrati hojjename irraa si boqonneessinu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "boqonneessinu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "gadda kee irraa"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "rifu'uu kee irraa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "akkasumas ... irraa"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hojjename"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irrati"
+    }
+  ],
+  "timestamp": "2026-08-29T08:51:06.976433932Z",
+  "model": "glm-5.3"
+}

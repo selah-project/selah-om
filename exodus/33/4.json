@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Sabhii jechoota hamaa kana ⟨את⟩ yeroo dhageenye, gaddaan galfatan; namni tokkollee miilla isaa ofirratti hin baane.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yeroo dhageenye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabhii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota hamaa kana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hamaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "gaddaan galfatan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "baane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokkollee"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "miilla isaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ofirratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:00.207289941Z",
+  "model": "glm-5.3"
+}

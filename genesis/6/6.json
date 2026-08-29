@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahween namicha dachii keessatti uumeef gadduu, onnee isaa keessattis dhiphate.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "gadduu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uumeef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namicha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii keessatti"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "dhiphate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:19.948931639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Mataa isaa morman ⟨את⟩ mataa isaa, meeshaalee isaa liqsanii ⟨את⟩ meeshaalee isaa, ergaa biyya Filistiiwwanii keessaa naannawaatti erganiiru, gargaarsa mana gosaawwan isaanii keessatti fi ⟨את⟩ sabaa irratti labsuuf.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "morman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa isaa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "liqsanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeshaalee isaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "erganiiru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiiwwanii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannowaatti"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "gargaarsa labsuuf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "gosaawwan isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fi",
+      "marks": "sabaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:43:57.947781960Z",
+  "model": "glm-5.3"
+}

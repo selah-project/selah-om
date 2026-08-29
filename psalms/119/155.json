@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Badhaadhumti rakoon miidhamtoota irraa fagee jira; sababiin asaa seera kee hin barbaadan.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "fagee jira"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "rakoon miidhamtoota irraa"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "badhaadhumti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin asaa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "seera kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "barbaadan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:57.930843645Z",
+  "model": "glm-5.3"
+}

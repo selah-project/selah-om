@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Kyoonni guyyaan tokko baayina kee keessatti warra kuma tokko caala; fuulla baatiin mana Waaqayyaa koo keessatti filadhe — 'eeguu eiyyaa' — mana warra rakkoo keessatti wajjiin jiraachuu caalmaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kyoonni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "caalmaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaan tokko"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "baayina kee keessatti"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "warra kuma tokko caala"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "filadhe"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "fuulla baatiin (eeguu eiyyaa)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana ... keessatti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Waaqayyaa koo"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "wajjiin jiraachuu"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "mana ... keessatti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "warra rakkoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:45.634688428Z",
+  "model": "glm-5.3"
+}

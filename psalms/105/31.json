@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Jedhe, bookeessaa dhufe; ciinboo daangawwan isaanii hunda keessatti.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bookeessaa"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ciinboo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "daangawwan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:36.429424152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahween Mosheegaris jedhe: \"Paroohi sin hin dhaga'u, akka rukuttawwan kiyya biyya Mitsraayim keessatti baay'awanuf.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "garis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhaga'u"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroohi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "baay'awanuf"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "rukuttawwan kiyya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:58.689622242Z",
+  "model": "glm-5.3"
+}

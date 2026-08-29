@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Dabbata mana Yahwe keessatti argame baasuudhaan ⟨את⟩ baasani; hunda harka to'attootaa fi harka hojjattootaa hojii sanaa irratti dabarsani.",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "baasuudhaan baasani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabbata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dabbata"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "argame"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "dabarsani"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "to'attootaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "hojjattootaa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "hojii sanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:11:09.754339126Z",
+  "model": "glm-5.3"
+}

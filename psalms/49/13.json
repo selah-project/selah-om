@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Garuu namni ulfina keessatti hin hafu; akka bineensotaa fakkatee, badan.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Garuu namni"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ulfina keessatti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "fakkatee"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "akka bineensotaa"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:25:27.727410931Z",
+  "model": "glm-5.3"
+}

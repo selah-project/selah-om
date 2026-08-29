@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Israa'eel Uumaa isaa ⟨את⟩ irraanfatte, mana-citaawwan iyaarte; Yihuudaa ganda cimoo baay'ise; aniis ibidda ganda isaa irratti nan erga, innis minoowwan isaa ni liqimsa.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "irraanfatte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uumaa isaa"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Uumaa isaa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "iyaarte"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "mana-citaawwan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'ise"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "cimoo"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "nan erga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ganda isaa irratti"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "liqimsa"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "minoowwan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:18:48.976523731Z",
+  "model": "glm-5.3"
+}

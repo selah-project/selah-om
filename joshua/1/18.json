@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Namni kamiyyuu waan afaan kee ⟨את⟩ ganuu, jechoota kee ⟨את⟩ waan tokko hin dhageeffanne, waan ati isa ajajjaa hundumaatti, ajajamuu qaba; qofa cimadhaa, jajjabadhaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Namni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "ganuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan kee"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin dhageeffanne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageeffanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota kee"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jechoota kee"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "isa ajajjaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ajajamuu qaba"
+    },
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "cimadhaa"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "jajjabadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:41:57.765265343Z",
+  "model": "glm-5.3"
+}

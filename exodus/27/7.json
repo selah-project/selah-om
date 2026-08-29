@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Miilonni isaa fnee ‹את› rifeensa vaaqaa keessatti seenan; miilonni rifeensa vaaqaa kiwwan lama altarii irratti ‹את› yeroo barbaadan isa haa ta'u.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "haa seenan \/ seenanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "‹את›",
+      "marks": "miilonni isaa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "miilonni isaa"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "fnee rifeensa vaaqaa keessatti"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "miilonni rifeensa vaaqaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "kiwwan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "yeroo barbaadan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "‹את›",
+      "marks": "isa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:36.863475427Z",
+  "model": "glm-5.3"
+}

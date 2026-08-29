@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Kunoo gara Keetti, Yahwe, Adoonaay, ija koo; si irratti amanee jira; lubbumaa koo hin ballessiisi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara Keetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija koo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "amanee jira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ballessiisi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbumaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:02.884475597Z",
+  "model": "glm-5.3"
+}

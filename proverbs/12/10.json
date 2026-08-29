@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Nami sirrii lubbuu beellama isaa beeka; rahmanni warra hamtuu immoo gooraa dha.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nami sirrii"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "beellama isaa"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "rahmanni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "warra hamtuu"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "gooraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:35.885979031Z",
+  "model": "glm-5.3"
+}

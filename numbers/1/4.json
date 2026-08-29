@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Fi ⟨את⟩ isin wajjiin dhiira dhiira gosa tokkoon tokkoo ta'u — dhiiri mataa mana abbootii isaa, inni.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "fi ⟨את⟩ isin wajjiin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "gosa tokkoon tokkoo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiiri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:59.623734320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Laggeen isaanii dhiiga jijjiiree; yaa'uu isaanii dhuguu hin dandeenye.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "jijjiiree"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "Laggeen isaanii"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "yaa'uu isaanii"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "dhuguu hin dandeenye"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:26.260805094Z",
+  "model": "glm-5.3"
+}

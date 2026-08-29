@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kaasichi ⟨את⟩ gulsaa fi ⟨את⟩ kennaa midhaanii altarii irratti ol baafata; kaasichi isa araarsa, innis qulqulleessa.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ol baafata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaasichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulsaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gulsaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kennaa midhaanii"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kennaa midhaanii"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarii irratti"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "araarsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaasichi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "qulqulleessa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:00.588341351Z",
+  "model": "glm-5.3"
+}

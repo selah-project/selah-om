@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Fi Humshiim irraas ⟨את⟩ Abitub fi ⟨את⟩ Elpaal horatuuse.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Humshiim irraas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "horatuuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abitub"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Abitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-29T15:38:53.533059282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Sababa malee naaf godaa fi godaannoo isaanii dhoksan; sababa malees lubbuu kiyyaaf qupxisan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sababa malee"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "dhoksan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "godaa"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "godaannoo isaanii"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sababa malees"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "qupxisan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lubbuu kiyyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:50.177162924Z",
+  "model": "glm-5.3"
+}

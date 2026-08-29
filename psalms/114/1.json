@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 114,
+  "translation": "Yisra'el yeroo Mitsraayim irraa baatu, mana Yaaqob ummata afaan ajaa'ibbii irraa (baatu).",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "yeroo ... baatu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ummata irraa"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "afaan ajaa'ibbii (qeeyyattuu)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:23.517422054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Fi ⟨את⟩ gamaddama hunda walitti qabadhu gara bala gojoo walga'ii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gamaddama hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gamaddama"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "walitti qabadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "gojoo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:33:16.560086112Z",
+  "model": "glm-5.3"
+}

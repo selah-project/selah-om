@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Inni isaaniinis jedhe: \"Guyyaa sadii booda anaatti deebiaa.\" Sabiinis deemte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isaaniinis jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniitti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "booda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "deebiaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "anaatti"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deemte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabiinis"
+    }
+  ],
+  "timestamp": "2026-08-29T13:55:26.696498709Z",
+  "model": "glm-5.3"
+}

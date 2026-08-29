@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ilaali, na deebii Yahwe Eloohiim kiyya; ija kiyya ifteessi — hinnaan du'aa akka hin hinnaaneef.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "na deebii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ifteessi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin ... nef"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "hinnaane"
+    },
+    {
+      "surface": "המות",
+      "gloss": "hinnaan du'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:12.175034690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Inni immoo sugada, akkas jedhe: \"Gabicha kee maal ta'ee, akka muduraa lafaatti kan akka nama du'aa, akkuma ani, gara isaatti geessuu dandeessa?\" — maal ta'ee gabicha kee, sababii maaliif kan geettu gara saree du'ee kan akka anaatti?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "sugada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal ta'ee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabicha kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababii maaliif"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "geettu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "saree du'ee"
+    },
+    {
+      "surface": "המת",
+      "gloss": "du'ee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan akka"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "anaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:48:41.589308040Z",
+  "model": "glm-5.3"
+}

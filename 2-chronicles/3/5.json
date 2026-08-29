@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Fi ⟨את⟩ mana guddaa muka firaasii ti'in daneeffate, warqee gaariidhaan immoo daneeffate, irrattis mooraawwan (tiinina) fi sarara (tartiiba) ol-baate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Fi ⟨את⟩",
+      "marks": "mana guddaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "daneeffate"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "firaasii"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "daneeffate"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ol-baate"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "mooraawwan (tiinina)"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "fi sarara (tartiiba)"
+    }
+  ],
+  "timestamp": "2026-08-29T13:51:58.038015865Z",
+  "model": "glm-5.3"
+}

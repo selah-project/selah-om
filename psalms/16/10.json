@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Kanaafuu nafa kiyya She'oolitti hin dhiiftee, kan kheesed kee taate bakka balleessaa arguushee hin dhiiftee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "dhiiftee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa kiyya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "She'oolitti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hin dhiifte"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "kan kheesed kee taate"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arguushee"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "bakka balleessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:43.219756160Z",
+  "model": "glm-5.3"
+}

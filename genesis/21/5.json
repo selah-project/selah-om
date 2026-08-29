@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Abraamis waggaa dhibba eega, Yitsaaq ⟨את⟩ ilma isaa isaatiin dhalatteetti.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Abraamis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "da'umsa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "dhalachuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:38.934938271Z",
+  "model": "glm-5.3"
+}

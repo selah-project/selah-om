@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Guyyoonni Tarach waggaa dhibba lama fi shan ta'aniiru; Tarach Chaaraan du'e.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'aniiru"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Guyyoonni"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tarach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "fi dhibba lama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tarach"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Chaaraan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:59.597351698Z",
+  "model": "glm-5.3"
+}

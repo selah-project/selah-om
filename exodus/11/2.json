@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "\"Maaloo, karaa gurra sanyootaa dubbachi; namni tokko ⟨את⟩ jaalaa isaa irraa, dubartiin tokko ⟨את⟩ jaaltii ishee irraa meeshaalee kummakummaa fi meeshaalee warqee ha gaafatan.\"",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbachi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Maaloo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "karaa gurra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sanyootaa"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ha gaafatan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jaalaa isaa irraa"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "dubartiin tokko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "jaaltii ishee irraa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kummakummaa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:57.872073022Z",
+  "model": "glm-5.3"
+}

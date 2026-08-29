@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Adooni-Bezeq'is baate; isaan hordofan, ⟨את⟩ qabatanii, hantuute harka isaa fi baalle miilla isaa ⟨את⟩ murrani.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "baate"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adooni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeq"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "hordofan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "booda isaa"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "qabatanii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "murrani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hantuute harka isaa fi baalle miilla isaa"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "hantuute fi baalle"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "miilla isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:00:10.587030334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoo ani waamee Innis naan deebisee, sagalee kiyya akka Innin dhaggeeffe ani hin amanu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "waamee"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "naan deebisee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "hin amanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "dhaggeeffe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:30:22.861238810Z",
+  "model": "glm-5.3"
+}

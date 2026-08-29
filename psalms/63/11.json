@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Harka meeřaa irratti ni dhiyeessamu, qooda warreeleetti ni ta'u.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ni dhiyeessamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meeřaa"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "qooda"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "warreelee"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ni ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:41.057293716Z",
+  "model": "glm-5.3"
+}

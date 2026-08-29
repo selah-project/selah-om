@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Hojii namootaa wajjin, jecha funyaan kee tiin koo eegadhe; karaa warra humna-dhiiranii irraa.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Hojii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "funyaan kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "koo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "eegadhe"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "warra humna-dhiiranii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:11.549554053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 31:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Saba walitti qabi — namoota fi dubartoota, daa'immoota xixiqqoo, fi keeyyooattaa kee kan balbala kee keessa jiru ⟨את⟩ — akka dhageettaniif, akka barataniif, fi Yahwe Eloohiim keessan ⟨את⟩ akka sodaachitu, jecha Seera kana hunda ⟨את⟩ hojjachuuf akka eeganiif.",
+  "tokens": [
+    {
+      "surface": "הקהל",
+      "gloss": "walitti qabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "fi dubartoota"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "fi daa'immoota xixiqqoo"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "fi keeyyooattaa kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "balbala kee keessa jiru"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka …aniif"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dhageettan"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "fi akka …aniif"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "baratan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "fi sodaachitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim keessan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "fi eeganiif"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha Seera kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Seera"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:38:02.246342705Z",
+  "model": "glm-5.3"
+}

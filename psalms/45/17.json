@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Bakka abbootii keetti ilmaan kee ta'u; isaan mootota taasisa lafa guutuu keessatti.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "abbootii keetti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu keessatti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:27.258249935Z",
+  "model": "glm-5.3"
+}

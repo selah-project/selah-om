@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe fuulla isaa si irratti ifa haata'u, si haa jaallatu",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "haata'u ifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulla isaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "si haa jaallatu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:08.301109762Z",
+  "model": "glm-5.3"
+}

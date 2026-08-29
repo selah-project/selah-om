@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 131,
+  "translation": "Faarsa ol-ol-fuudhuu kan Daawid. Yahwe, onnee kiyyoo ol guddaa miti, ijjiiwanan kiyyoos ol ka'aa miti; waan gurguddoo fi waan ajaa'ibbii ana irra caalan keessas hin soofne.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ol-ol-fuudhuu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ol guddaa hin taane"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyyoo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas miti"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ol ka'aa miti"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijjiiwanan kiyyoo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "soofne"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "waan gurguddoo keessa"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "fi waan ajaa'ibbii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ana irra caalan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:16.667158075Z",
+  "model": "glm-5.3"
+}

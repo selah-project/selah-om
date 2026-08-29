@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Dhuma jalqabaa irraa dabala, waan yeroo duraa irraa waan hin hojjetaminiin; 'Gorsan kiyya ni dhaabbata, feensa kiyya hunda ni hojjedha' jedha.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "dabala"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "jalqabaa irraa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "yeroo duraa irraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "hojjetamin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "gorsan kiyya"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ni dhaabbata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "feensa kiyya"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ni hojjedha"
+    }
+  ],
+  "timestamp": "2026-08-29T09:09:37.325795416Z",
+  "model": "glm-5.3"
+}

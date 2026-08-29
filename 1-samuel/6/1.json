@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sadarkaa Arkaan Yahwe billee Pilishtim keessatti ji'a torbaan ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arkaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "billee keessatti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilishtim"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ji'a"
+    }
+  ],
+  "timestamp": "2026-08-29T14:41:53.431676427Z",
+  "model": "glm-5.3"
+}

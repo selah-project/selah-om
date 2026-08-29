@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Fi ⟨את⟩ Adoraayim, fi ⟨את⟩ Lakkish, fi ⟨את⟩ Azeeqah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adoraayim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adoraayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lakkish"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakkish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azeeqah"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeeqah"
+    }
+  ],
+  "timestamp": "2026-08-29T13:53:10.935411624Z",
+  "model": "glm-5.3"
+}

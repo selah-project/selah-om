@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Eloohiimitti jedhaa: hojiiwwan Keessi maaltu kan sodaachisaa ta'e! Baay'ina humna Keetiin diinaan Keessi sirratti sobaatu.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "jedhaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimitti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "sodaachisaa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojiiwwan Keessi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "baay'inaan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humna Keetiin"
+    },
+    {
+      "surface": "יכחששו",
+      "gloss": "sobaatu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sirratti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diinaan Keessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:16.748909313Z",
+  "model": "glm-5.3"
+}

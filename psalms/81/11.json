@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Ani Yahwe, Eloohiim kee, kan si biyya Mitsraayim irraa ol-baase; afaan kee bal'isi, ani guuta.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "kan si ol-baase"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "bal'isi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ani guuta"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:59.987305067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Yahwe akka abba mootaa isaatti bulcha; lafti hawwii; odolloonni baay'een gammadu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akka abba mootaa isaatti bulcha"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "hawwii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gammadu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "odolloonni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:37.172024680Z",
+  "model": "glm-5.3"
+}

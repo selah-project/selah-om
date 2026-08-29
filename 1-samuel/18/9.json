@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Adeemsi ta'e, Saawuli ⟨את⟩ Daawid ija isaa bira qabaatee ilaale, guyyaa sanarraa kaasee guutuu olitti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Adeemsi ta'e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saawuli"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ija isaa bira qabaatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "guyyaa sanarraa kaasee"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "guutuu olitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:29:35.831031819Z",
+  "model": "glm-5.3"
+}

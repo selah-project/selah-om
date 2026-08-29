@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Adeemi, seenaan Israa'iel ⟨את⟩ qabachiisi; isaanitti akkuma kanaan jedhi: 'Yahwe, Eloohiimtiin abbootii keessan — Eloohiimtiin Avrahaam, Is-haaq fi Ya'aqob — natti mul'ate, jedhuun: qabadachuu qabadadheera ⟨את⟩ keessan,ifi ⟨את⟩ waan isiniif Mitsraayim keessatti hojjatame.'",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "adeemi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "qabachiisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seenaan Israa'iel"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "seenaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jedhit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiimtiin"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abbootii keessan"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "natti mul'ate"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiimtiin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is-haaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "fi Ya'aqob"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "qabadachuu"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "qabadadheera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ifi ⟨את⟩"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "waan hojjatame"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraayim keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:23.780127154Z",
+  "model": "glm-5.3"
+}

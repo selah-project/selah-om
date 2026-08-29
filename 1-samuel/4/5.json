@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ta'eera, yeroo sanduqa kakuu Yahwe ka'atti dhufu, Israa'el hundinuu waamicha guddaa waame, laftis rukute.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ta'eera"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "yeroo dhufu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gala"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ka'aa"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "waaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "waamicha"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "rukutti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafcha"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:46.927126523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Badii afaan isaanii, jecha labbii isaanii irraa — boontuu isaanii keessatti haa qabadaman; abaaraa fi soba irrattis ni himu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "badii"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "afaan isaanii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "labbii isaanii"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "haa qabadaman"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "boontuu isaanii keessatti"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "fi abaara"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "fi soba"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ni himu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:11.654708350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "⟨אתו⟩ zaaraa qulqulluun haguugee, daangaa zaaraa naannoo isaa isa taasise.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "haguugee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zaaraa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluun"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zaaraa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:09.760523600Z",
+  "model": "glm-5.3"
+}

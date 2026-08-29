@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Gammadduu irratti 'madaa dha' jedhe; gammachuutis 'kun maal hojjedaa?' jedhe.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "gammadduu irratti"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "madaa"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "gammachuutis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:35.538718470Z",
+  "model": "glm-5.3"
+}

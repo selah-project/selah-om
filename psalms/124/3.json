@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 124,
+  "translation": "Silaa jireenyi nu ni liqimaniitu ture, yeroo hinboon isaanii nu irratti akka ibiddatti kaka'utti:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Silaa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyi"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "nu ni liqimaniitu ture"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "yeroo kaka'utti"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "hinboon isaanii"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nu irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:36.383059157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Baarkaa Yahwe, hojiiwwan Isaa hundinuu, iddoo hunda bullaa Isaa keessatti; nafi kiyyoowu, Yahwe ⟨את⟩ baarfi.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "baarkaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hojiiwwan Isaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iddoo hunda"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "iddoowwan"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "bullaa Isaa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "baarfi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafi kiyyoowu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:58.000039997Z",
+  "model": "glm-5.3"
+}

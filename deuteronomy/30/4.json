@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yoo bureetti bahe si samii dhibba keessa ta'e, Yahwe Eloohiim kee si achii sirraa kuusa, achii sirraas si fudhata.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "bureetti bahe si"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achii sirraa"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "si kuusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "achii sirraas"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "si fudhata"
+    }
+  ],
+  "timestamp": "2026-08-29T06:35:12.907823136Z",
+  "model": "glm-5.3"
+}

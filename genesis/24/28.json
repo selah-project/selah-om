@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Intalaan dheeratteetti, mana haadha ishee gara mana haadha isheetti isaanitti akka jechoota kanaatti himte.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "dheeratteetti"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intalaan"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "himte"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana ... gara mana ...tti"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "haadha ishee"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "akka jechoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kanaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:25.979254072Z",
+  "model": "glm-5.3"
+}

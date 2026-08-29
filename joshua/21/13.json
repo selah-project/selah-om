@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Warra Aharoon qaallichaafis ganda qusannaa kan ajjeesaa kennaniiru: ⟨את⟩ Khevronii fi ⟨את⟩ dirree ishee, fi ⟨את⟩ Libnahii fi ⟨את⟩ dirree ishee.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "warra...afis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qaallicha"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kennaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganda qusannaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "qusannaa"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "kan ajjeesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dirree ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dirree ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Libnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dirree ishee"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dirree ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:56:28.230712065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Kunoo, bishaan ni dhoorka, fi ni goggoga; isaan ni erga, fi lafa ni-jaallataba.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ni dhoorka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "fi ni goggoga"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "isaan ni erga"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "fi ni-jaallataba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:13.559818622Z",
+  "model": "glm-5.3"
+}

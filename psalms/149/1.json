@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Yaah badadhaa; Yahweef gabatee haaraa galadhaa; boonsi isaa garee kheesidotaatti haa tahu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "badadhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "galadhaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "boonsi isaa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "garee"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "kheesidotaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:09.332435006Z",
+  "model": "glm-5.3"
+}

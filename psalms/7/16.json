@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Godaa qoddee, bal'inaanis qodate; godaa hojjetu keessatti kufa.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "godaa"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "qoddee"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "bal'inaanis qodate"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "hojjetu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:44.141717188Z",
+  "model": "glm-5.3"
+}

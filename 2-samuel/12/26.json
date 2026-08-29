@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yoo'aabiis Rabbah-ilaa ilmaan Ammoonitiif lolte, ⟨את⟩ magaalaa mootummaa qabatteetti.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "lolteetti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aabiis"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbah-ilaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoonitii"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "qabatteetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa mootummaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mootummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:34.289756769Z",
+  "model": "glm-5.3"
+}

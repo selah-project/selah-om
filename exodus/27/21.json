@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 27:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Ahree Mana Walgeeffannaa keessatti, alatti shannaa (paroketii) kan ragaarratti jiru, Aharooni fi ilmaan isaa isa ⟨אתו⟩ ganfasu galgala irraa hanga ganama, fuula Yahwe duratti; seera hunda-duraa dhofu dhaloota isaniitiif, ilmaan Israa'el irraa.",
+  "tokens": [
+    {
+      "surface": "באהל",
+      "gloss": "Ahree Mana keessatti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Walgeeffannaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "shannaa (paroketii)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ganfasu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isa (ifaANN hima)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "fi ilmaan isaa"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "galgala irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula ... duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hunda-duraa dhofu"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "dhaloota isaniitiif"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ irraa",
+      "marks": "ilmaan Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:53.464967580Z",
+  "model": "glm-5.3"
+}

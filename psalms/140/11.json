@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Waamaraa bishaan isaan irratti hafu; ibiddaatti isaan kuffisu; godaatota gidduu — lakkoofsi miti, hin ka'u.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "waamaraa bishaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatti"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "isaan kuffisu"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "godaatota gidduu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lakkoofsi miti"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "hin ka'u"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:27.828787225Z",
+  "model": "glm-5.3"
+}

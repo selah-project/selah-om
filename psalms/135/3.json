@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Guddisaa Yaah, sababa Yahwe gaariidhaan; maqaa isaaaf sagaleedhaan gadi-fageenya gaafadhaa, sababa ni jaallatamaadha.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "guddisaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa ... dhaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gadi-fageenya gaafadhaa"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "maqaa isaaaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "jaallatamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:54.272790989Z",
+  "model": "glm-5.3"
+}

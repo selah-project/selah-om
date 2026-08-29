@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Guyyaa saaxummaa keessanii ni nyaatama, bor itti aanuuttiis; waan guyyaa sadaffaa dheeraa hafu ibiddaatin ni bakkachufa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Guyyaa"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "saaxummaa keessanii"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni nyaatama"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "bor itti aanuuttiis"
+    },
+    {
+      "surface": "וְהנותר",
+      "gloss": "waan hafes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sadaffaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ni bakkachufa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:35.322557992Z",
+  "model": "glm-5.3"
+}

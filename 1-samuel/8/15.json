@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sanyii keessaniifi reeffanna keessan ni walakkeessee, saanisota isaa fi gabroota isaa niif kenna.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "sanyii keessan"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "reeffanna keessan"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ni walakkeessee"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "niif kenna"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "saanisota isaa"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "gabroota isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:12.172584868Z",
+  "model": "glm-5.3"
+}

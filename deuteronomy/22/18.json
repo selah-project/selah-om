@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Illaaltotni durii duraa gammoo ergaa sana ergaa sana ⟨את⟩ fudhatanii adabu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Illaaltotni durii duraa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gammoo ergaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ergaa sana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ergaa sana"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "adabu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:13.982118964Z",
+  "model": "glm-5.3"
+}

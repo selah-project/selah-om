@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Rigleen ishee gara du'a gadi bu'a; tarkaanfiin ishees She'ool ni of-tumsa.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "rigleen ishee"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "gara du'a gadi bu'a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'ool"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "tarkaanfiin ishee"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ni of-tumsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:54.507203747Z",
+  "model": "glm-5.3"
+}

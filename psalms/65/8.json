@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Haasaasa bishaanwwanii, haasaasa dalgeen isaaniifi, kufaatii sabootaa dhaamsa.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "dhaamsa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "haasaasa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bishaanwwanii"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "haasaasa"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "dalgeen isaanii"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "kufaatii"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sabootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:10.422927118Z",
+  "model": "glm-5.3"
+}

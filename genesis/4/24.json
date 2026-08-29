@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sababni isaas, Kayin irratti dararaan torbaan ga'ama; Lemek immoo torbatamii fi torbaati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "torbaan"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "dararaan ga'ama"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin irratti"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "Lemek immoo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "torbatamii"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "fi torbaati"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:36.688388246Z",
+  "model": "glm-5.3"
+}

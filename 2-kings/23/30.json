@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Gabrootan isa du'aatti baatetaan Megiddo irraa baasani, Yerushaalayim asaasan, awwaala isaa keessatti awwaalan; ummatni lafaa ⟨את⟩ Yeho'aaz ilmoo Yooshiyaachu fudhate, ⟨את⟩ isa dibani, ⟨את⟩ isa bakka abba isaa mootii godhani.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "baatetaan baasani"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'aatti"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "Megiddo irraa"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "asaasan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "awwaalan"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "awwaala isaa keessatti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummatni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeho'aaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeho'aaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yooshiyaahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "dibani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (kan dibame)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "mootii godhani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa (kan mootii godhame)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abba isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:54:47.446831005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Siin gaddaadha, garuu hin natti deebisitu; dhaabbadhe, garuu na ilaaltuu.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "gaddaadha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Siin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "natti deebisitu"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "dhaabbadhe"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "ilaaltuu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-29T12:30:04.471915279Z",
+  "model": "glm-5.3"
+}

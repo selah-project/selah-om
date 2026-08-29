@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 18:51",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Badannoota mootii isaa guddisa; Maashiyaakis kheesed hojjata — Daawidiifi zaraa isaa irratti, yeroo duubatti.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "guddisa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badannoota"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "mootii isaa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hojjata"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "Maashiyaakis"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ו לזרעו",
+      "gloss": "zaraa isaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo duubatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:44.003742677Z",
+  "model": "glm-5.3"
+}

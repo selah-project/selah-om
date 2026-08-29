@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "fi mootoltotta kaaba keessaa, gaarreen keessaa fi Baadiyyaa keessaa, kibba Kinerotaa, Sheefela keessaa, fi Nafoota Dor keessaa, bahaatti.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "fi mootoltotta"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mootoltotta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaaba keessaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen keessaa"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "fi Baadiyyaa keessaa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kibba"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerotaa"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "fi Sheefela keessaa"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "fi Nafoota"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bahaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:51:35.533390338Z",
+  "model": "glm-5.3"
+}

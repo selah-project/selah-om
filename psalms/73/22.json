@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Ani garuu sammuu-dhabaa, beekuu hin danda'u; beelladaadhaan si wajjin ta'ee jira",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ani garuu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "sammuu-dhabaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeku danda'u"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "beelladaa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'ee jira"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:39.851122915Z",
+  "model": "glm-5.3"
+}

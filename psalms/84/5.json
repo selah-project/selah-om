@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Gammachuu qabu warra mana kee keessatti jiraatan; itti fufiin si faarsu. Seelaa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gammachuu qabu"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "warra jiraatan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee keessatti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "itti fufiin"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "si faarsu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:00.406443205Z",
+  "model": "glm-5.3"
+}

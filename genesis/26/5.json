@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Sababa waan Avrahaam sagalee kiyya tiigee fi eega koo, ajajjoota kiyya, seerota kiyya fi Toorota kiyya eeguu tiigeesseef.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tiigee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sagalee kiyya"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "tiigeesseef"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "eega koo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajajjoota kiyya"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "seerota kiyya"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "Toorota kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:36:21.404391278Z",
+  "model": "glm-5.3"
+}

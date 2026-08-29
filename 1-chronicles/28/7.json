@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Mootummaa isaa ⟨את⟩ ijoofadha yeroo hundaaf, yoo ajajaawwan koo fi murtoonni koo akka guyyaa kanaa hojjachuuf cimaa ta'e.",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "ijoofadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootummaa isaa"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mootummaa isaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanguma"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "cimaa ta'e"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajajaawwan koo"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "fi murtoonni koo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:49:07.548613534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ati nyaatta, garuu hin qopheessitu; rakkoon kee keessaan kee keessa jira; porpheeddeetta garuu hin oolchitu; waan oolchitees meechaaf kena.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nyaatta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu miti"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "hin qopheessitu"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "rakkoon kee"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "keessaan kee keessa"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "porpheeddeetta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu miti"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "hin oolchitu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "oolchite"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "meechaaf"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kena"
+    }
+  ],
+  "timestamp": "2026-08-29T15:19:52.388645088Z",
+  "model": "glm-5.3"
+}

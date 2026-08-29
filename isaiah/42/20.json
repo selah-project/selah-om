@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Waan baay'ee argitee, garuu hin eeggattu; gurri banaa qabaatus, hin dhageeffatu.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "argitee"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "waan baay'ee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "eeggattu"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "gurri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageeffatu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:10.930758523Z",
+  "model": "glm-5.3"
+}

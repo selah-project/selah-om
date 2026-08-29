@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Dhageessi, Yahwe, sagalee kiyyoo naan waamuu; naa mararfadhu, na deebisi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee kiyyoo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "naan waamuu"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "naa mararfadhu"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na deebisi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:18.432195671Z",
+  "model": "glm-5.3"
+}

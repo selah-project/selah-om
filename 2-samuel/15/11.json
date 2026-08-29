@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Lammiyya dhibba lama Yerushaalayim irraa waamamanii Abshaaloom ⟨את⟩ waliin deeman; samii-tasaa isaaniitiin deemanii, waan tokkollee hin beekne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ waliin",
+      "marks": "Abshaaloom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaaloom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dhibba lama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lammiyya"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushaalayim irraa"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "waamamanii"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "samii-tasaa isaaniitiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan tokkollee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:52:28.269669872Z",
+  "model": "glm-5.3"
+}

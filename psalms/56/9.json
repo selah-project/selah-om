@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 56,
+  "translation": "Adeemaa kiyya ati lakkoofte; bunaan kiyya marsaa kee keessaa kaa'i; silaa kitaaba kee keessaa hin jiraa?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "adeemaa kiyya"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "ati lakkoofte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ati⟩"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "kaa'i"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "bunaan kiyya"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "marsaa kee keessaa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "silaa"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "kitaaba kee keessaa hin jiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:43.225209820Z",
+  "model": "glm-5.3"
+}

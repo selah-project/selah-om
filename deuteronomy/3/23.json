@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo sanas ani gara Yahweetti naa-gammachiisaadheen kadhadhe, jechuudhaan:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "naa-gammachiisaadheen kadhadhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jechuudhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:23.893168769Z",
+  "model": "glm-5.3"
+}

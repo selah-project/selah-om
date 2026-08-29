@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sha'uulnis akkas jedhe: Ilaali, ilmachaa Achituub, dhageessi. Inni immoo jedhe: Ani as jira, Adoonaay kiyya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulnis"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmachaa"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ani as jira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:02.506705540Z",
+  "model": "glm-5.3"
+}

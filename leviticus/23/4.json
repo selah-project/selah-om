@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Kunniin mo'adaawwan Yahwe, muqannaawwan ⟨את⟩ qulqullumaa, mo'adaawwan isaanii keessatti waamitan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunniin"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mo'adaawwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "muqannaawwan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullumaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "waamitan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mo'adaawwan isaanii keessatti"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "mo'adaawwan isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:41.312746559Z",
+  "model": "glm-5.3"
+}

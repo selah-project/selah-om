@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ya'aqob akka isaan argate \"kun manneen ⟨Eloohiim⟩ ti\" jedhe; maqaa iddoo sanaa Maaxanayim jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "isaan argate"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "manneen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaa jedhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "iddoo sanaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maaxanayim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:56.565316470Z",
+  "model": "glm-5.3"
+}

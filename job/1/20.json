@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ayyaab immoo ka'e, ⟨את⟩ dirree isaa diige, ⟨את⟩ guddoo isaa gogse, dachii irratti kufe, Waaqeffate.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyaab"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "diige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirree isaa"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "dirree isaa"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "gogse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guddoo isaa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "guddoo isaa"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dachii irratti"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "Waaqeffate"
+    }
+  ],
+  "timestamp": "2026-08-29T12:16:27.375105205Z",
+  "model": "glm-5.3"
+}

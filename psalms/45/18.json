@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Maqaa kee dorgommii hunda keessatti yaadadcha; kanaafu saboonni si galateeffatu yeroo hundaafi dheeraa.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "yaadadcha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "דר",
+      "gloss": "dorgommii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "fi dorgommii"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaafu"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "si galateeffatu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "yeroo hundaafi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dheeraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:27.258479263Z",
+  "model": "glm-5.3"
+}

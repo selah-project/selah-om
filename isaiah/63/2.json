@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Maaliif uffata kee diigameerra, uffanni keesis akka miira inbidii keessatti danche?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "diigameerra"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "uffata kee"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "uffanni keesis"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "akka danche"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "miira inbidii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:18:09.860172392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Onneen kiyyoo waan gaarii baafachiise; ani waan hojjedhe keenyaa mootii'if natti dubbadha; arrawni kiyyaa qalamii barreessaa saffisaa ta'e ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "baafachiise"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onneen kiyyoo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan (jechama)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "natti dubbadha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "waan hojjedhe keenyaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootii'if"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "arrawni kiyyaa"
+    },
+    {
+      "surface": "עט",
+      "gloss": "qalamii"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "barreessaa"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "saffisaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:11.136570206Z",
+  "model": "glm-5.3"
+}

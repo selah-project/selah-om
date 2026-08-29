@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Ibrootonni ⟨את⟩ Yordaanos biyya Gaad fi Gilaad dabran; Saawul ammas Gilgaal ta'ee; ummata hundi rabdutti isa hordofan.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ibrootonni"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dabran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordaanos"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordaanos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "Gilaad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Saawul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ammas"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgaal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "rabdutti"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "isa hordofan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:43.295193194Z",
+  "model": "glm-5.3"
+}

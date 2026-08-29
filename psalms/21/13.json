@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Sababiin gogaa isaanii taasifta; meeshaan kee irratti fuula isaanii irratti qopheessita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "isaan taasifta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "meeshaan kee irratti"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "qopheessita"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fuula isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:25.456612715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Kunoo, kunniin miidhaa hojjatoo dha; kan yeroo hunda tasaa jiranis humna isaanii daballee jira.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kunniin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "miidhaa hojjatoo"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "fi kan tasaa jiran"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "dabalan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:53.755455442Z",
+  "model": "glm-5.3"
+}

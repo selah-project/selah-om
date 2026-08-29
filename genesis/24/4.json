@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Garuu gara biyya kiyyaafi gara sanyii kiyyaatti ni deema; kormaan kiyyaaf, Isxaaq'iif, haadha manaa fudhata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "biyya kiyyaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "sanyii kiyyaatti"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ni deema"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haadha manaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kormaan kiyyaaf"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isxaaq'iif"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:56.311864766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Foonii fi gogaa ammoo ibiddaatin kampii alatti gubse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "foona"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "foona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gogaa"
+    },
+    {
+      "surface": "העור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gubse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:20.137069543Z",
+  "model": "glm-5.3"
+}

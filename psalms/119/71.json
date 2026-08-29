@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Gara ani gara-bacha'uuta ta'e natti tola; akka dhaabbilee kee baradhuuf.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "gara-bacha'uuta ta'e"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka...uuf"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "baradhu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dhaabbilee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:50.315115696Z",
+  "model": "glm-5.3"
+}

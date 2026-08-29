@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "\"Mitii! Nam-totni, eega, geejjibaadha; Yahwe ⟨את⟩ tajaajalaa, waan isin barbaadanu isa qofa.\" Isaanimmoo Fira'awn fuura duraas haa'e.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkuma jedhame"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eega"
+    },
+    {
+      "surface": "נא",
+      "gloss": "geejjibaadha"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "nam-totni"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "tajaajalaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "barbaadanu"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "haa'e"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Fira'awn fuura duraas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ fuura duraas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuura"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fira'awn"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:05.271244947Z",
+  "model": "glm-5.3"
+}

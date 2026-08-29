@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Bane, mucaa ⟨את⟩ argatti — kunoo, daa'ima baa'atu; gadda isaa qabduutiin jetti: «Mucaa Ibrootaa irraa tokko kun.»",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "bane"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "argatti isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "daa'ima"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "baa'atu"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "gadda qabduutiin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaa irratti"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jetti"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "muccota irraa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibrootaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:33.115093705Z",
+  "model": "glm-5.3"
+}

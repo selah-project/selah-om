@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "'Eenyummatuu barbaadaa dha? Asitti gara bahu!' Kan onnee hawwaa qabuuf immoo kuniin jedhe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "eenyummatuu"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "barbaadaa"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "gara bahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "asitti"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kan hawwaa (qabu)"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "jedhe (kuniin)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:34.629127641Z",
+  "model": "glm-5.3"
+}

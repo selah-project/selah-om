@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sababa waan Daawid ⟨את⟩ waan sirrii ta'e gaggeesseef ilaalcha Yahwetti, akkasumas waan ajajamu hunduma irraa hin daganeef, guyyoota jireenyaa isaa hunduma — qofa barruu Uriyaah Hiitii keessatti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sababa waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gaggeesse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan sirrii ta'e"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "waan sirrii ta'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ilaalcha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "dagane"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunduma irraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ajajamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduma"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jireenyaa isaa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "barruu keessatti"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyaah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiitii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:16:11.033868038Z",
+  "model": "glm-5.3"
+}

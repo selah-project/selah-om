@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Kunoota waan ol-ka'an ani uumeen, akkasuma ni bu'u.",
+  "tokens": [
+    {
+      "surface": "פעלי",
+      "gloss": "Kunoota"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "waan ol-ka'an"
+    },
+    {
+      "surface": "גם־",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ani uumeen"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "ni bu'u"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:24.984639594Z",
+  "model": "glm-5.3"
+}

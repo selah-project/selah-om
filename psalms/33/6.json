@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Jecha Yahwe tiin samoonni uumamanii; hafiisa afuun Isaatti humnoonni isaa hundi.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "jecha...tiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samoonni"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "uumamanii"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "hafiisa...tiin"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afuun Isaatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "humnoonni isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:00.441248997Z",
+  "model": "glm-5.3"
+}

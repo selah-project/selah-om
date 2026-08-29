@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ifa maddiyyaa fuuldura isaa irraa gannaan isaa dabre; cilee fi gubboo ibiddaa.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ifa maddiyyaa irraa"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "fuuldura isaa"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "gannaan isaa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dabre"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "cilee"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "fi gubboo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:17.122439199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Ummata kiyyas sagalee kiyya hin dhageenye, Israa'ielis natti hin olane.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageenye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ummata kiyya"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "sagalee kiyya"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'ielis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "olane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:59.987559714Z",
+  "model": "glm-5.3"
+}

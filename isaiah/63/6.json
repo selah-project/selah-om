@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Sabboonni aarsaa kiyya keessa miilan tuuse, bohaattii kiyya keessa isaan dhugoomse, dhiiga isaanii dachii irratti gadi buuse.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "miilan tuuse"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sabboonni"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "aarsaa kiyya keessa"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "isaan dhugoomse"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "bohaattii kiyya keessa"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "gadi buuse"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dachii irratti"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "dhiiga isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:35.412710523Z",
+  "model": "glm-5.3"
+}

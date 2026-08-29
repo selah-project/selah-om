@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yoo seennan immoo, 'Yoom nan kaadhu?' jedha; galgala nan safara; rukuttaa-fooliiin immoo hanga dullacha galgalaatti nan guutama.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "seennan"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yoom"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nan kaadhu"
+    },
+    {
+      "surface": "ומדד",
+      "galgala": "",
+      "gloss": "nan safara"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galgala"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "nan guutama"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "rukuttaa-foolii"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hangatti"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "dullacha galgalaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:19:06.560042506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Harka koo siitti baafadhe; lubbuu koo akka lafa dheebuu siif taate. Selaah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "baafadhe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka koo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "akka lafa"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:36.459622767Z",
+  "model": "glm-5.3"
+}

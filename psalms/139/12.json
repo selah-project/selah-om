@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Akkas duukaan sii hin dhokatu; halkanis akka guyyaa ni ifa; akka dukkatti, akka ifaatti sii.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akkas"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duukaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "dhokatu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "halkanis"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ni ifa"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "akka dukkatti"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "akka ifaatti sii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:43.772988817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Kan madaalamuus Elohiim akka jedhe: maaltu akka himtu seerota kiyyaa, kakuu kiyyas maaltu akka afaan keetin baafatte?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "kan madaalamuus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohiim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "akka himtu"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "seerota kiyyaa"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "baafatte"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakuu kiyya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan keetii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.027404096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Anooshiin waggaa soddoma-torba jiraate, Maaha... Kenaan ⟨את⟩ Keenaan kan dhalche.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Anoosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "soddoma-torba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keenaan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:20.377567608Z",
+  "model": "glm-5.3"
+}

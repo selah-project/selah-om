@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Bajaan kaleessa keenyaaf nan kadhaa: jaajoroo bilisummaa kee na deebisi, ruuhaa oleessaa ta'eenis na tumsi.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "na deebisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "jaajoroo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "bilisummaa kee"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruuhaa...een"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "oleessaa ta'ee"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "na tumsi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:03.039421383Z",
+  "model": "glm-5.3"
+}

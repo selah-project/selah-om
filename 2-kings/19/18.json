@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "⟨את⟩ gabbifattootaa isaanii ibiddaatti darban, sababaa isaan waaqotaa miti, garuu harka namummaa hojjedchedha — muka fi dhagaa; kanaaf balleessaniiru.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "darban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabbifattootaa isaanii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "gabbifattootaa isaanii"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waaqotaa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojjedche"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namummaa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "fi dhagaa"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "balleessaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T08:39:09.156709002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Faaruun sirnaawaa, kan Asaafiif.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faaruun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sirnaawaa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kan Asaafiif"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:45.339788805Z",
+  "model": "glm-5.3"
+}

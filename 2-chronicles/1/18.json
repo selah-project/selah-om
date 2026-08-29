@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Sulaymaanis mana maqaa Yahweefi mana mootummaa isaa ijuuf jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaymaanis"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijuuf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "fi mana"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "mootummaa isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:47:26.698137912Z",
+  "model": "glm-5.3"
+}

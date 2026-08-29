@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahwe, jaalala keetti gaarreen koo humna dhaabate; fuula kee dhokatte; ani gara gorfamaa ta'e.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "jaalala keetti"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "dhaabate"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "gaarreen koo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "dhokatte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ani gara ... ta'e"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "gorfamaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:05.417890617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Maashiyaakoota kiyya hin ta'inaa; raajjoota kiyyas hin boo'aa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ta'inaa"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Maashiyaakoota kiyya"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "raajjoota kiyyas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "boo'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:51.890318740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Sanyiin isaa yeroo dhaabbataa taasifna; gadheenisaas akkaguyyaa samii.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "taasifna"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo dhaabbataa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sanyiin isaa"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "gadheenisaas"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:01.297081750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Kan meeshaawwan Sha'uul baatu Sha'uul du'e arguun, inniis afoola isaa irratti kufe, isa wajjin du'e.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arguun"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaawwan isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inniis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "afoola isaa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:44:04.198855425Z",
+  "model": "glm-5.3"
+}

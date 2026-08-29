@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Afaan ilmaan xixiqqoo fi warra hoo'an irraa humna dhaabsiifte, sababa diina keeetiif, diina fi kan ofum deebbi'u dhiisuuf.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "afaan…irraa"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ilmaan xixiqqoo"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "fi warra hoo'an"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "dhaabsiifte"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "diina kee"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "dhiisuuf"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diina"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "fi kan ofum deebbi'u"
+    }
+  ],
+  "timestamp": "2026-08-29T15:21:34.594581920Z",
+  "model": "glm-5.3"
+}

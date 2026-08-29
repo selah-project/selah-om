@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Warri Yahwe eeggame ni cimoomu; akka jinxeensotaatti gababaa baafataa baafu; ni fiigan, hin gogu; deemu, hin dadheebbatu.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "warri eeggame"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "ni cimoomu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "humna"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "baafataa baafu"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "gababaa"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "akka jinxeensotaatti"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ni fiigan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "gogu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "dadheebbatu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:36.340458889Z",
+  "model": "glm-5.3"
+}

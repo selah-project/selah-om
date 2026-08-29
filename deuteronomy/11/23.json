@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwen immoo ⟨את⟩ saboota kana hunda facaafsa oduu keessan dura; saboota isin caalaa guddaa fi humna qaban dabaldeen qabadantu.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "facaafsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saboota kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "oduun keessan dura"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "qabadantu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "fi humna qaban"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "isin caalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:00.588203353Z",
+  "model": "glm-5.3"
+}

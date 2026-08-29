@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 40:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Gaarreen ol'aanaa irratti olii ba'i, gaaffattuu gammachuu Siiyoon; ijiilee keenyaan sagalee kee ol kaasi, gaaffattuu gammachuu Yerushaalayim; ol kaasi, hin rifatin! Magaaloota Yeekkaatiif jedhi: «Kunoo Eloohiimkeen!»",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ol'aanaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "olii ba'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atti"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "gaaffattuu gammachuu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siiyoon"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "ol kaasi"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ijilee keenyaan"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sagalee kee"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "gaaffattuu gammachuu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "ol kaasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "rifatin"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "magaaloota ...tti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeekkaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiimkeen"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:35.931790317Z",
+  "model": "glm-5.3"
+}

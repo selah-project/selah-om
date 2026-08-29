@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sababaa jecha, ji'a jahaaf Yoaab akkasumas Israa'el hundaan achitti jiraataniiru — hanga dhiira hunda Edom keessaa baasaniif.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababaa jecha"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "jahaaf"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ji'a"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jiraataniiru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoaab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkasumas hundaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "baasaniif"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:54.715135546Z",
+  "model": "glm-5.3"
+}

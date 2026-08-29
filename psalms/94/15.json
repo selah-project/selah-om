@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Murtiin qajeelumaatti deebi'a, booda isaa hundi warra onnee qajeelaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "qajeelumaatti"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "deebi'a"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtiin"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "booda isaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "warra qajeelaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:57.136095141Z",
+  "model": "glm-5.3"
+}

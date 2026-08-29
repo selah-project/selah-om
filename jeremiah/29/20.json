@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Isin immoo, dhaggeeffaa jecha Yahwe, waan Yerushaalayim irraa Babilaan ergadhe hije-darbee hundi.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "isin immoo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhaggeeffaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "hije-darbee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ergadhe"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushaalayim irraa"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilaan"
+    }
+  ],
+  "timestamp": "2026-08-29T09:43:33.046042574Z",
+  "model": "glm-5.3"
+}

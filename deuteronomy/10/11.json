@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yahwe naan jedhe: Ka'i, fuuldura ummataa imalaa, akka isaan seenuu ⟨את⟩ biyya kan abbootiif kakuun kinnaniif isaaniif kennu dhaalanii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imalaa"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "imalaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummataa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "akka isaan seenuu"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "dhaalanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "kakuun kinnaniif"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "abbootiif"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T14:35:27.079857319Z",
+  "model": "glm-5.3"
+}

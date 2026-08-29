@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "yoo cinnee isaa na eebbisse hin jedhame, fi gogaa hoolaa koo irraa ofuma hin ho'anne —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "na eebbisse"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "cinnee isaa"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "fi gogaa irraa"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "hoolaa koo"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "ofuma ho'ate"
+    }
+  ],
+  "timestamp": "2026-08-29T12:30:36.837539056Z",
+  "model": "glm-5.3"
+}

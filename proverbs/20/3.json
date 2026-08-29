@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Dhiibbaa namatti cessaa wal-dhabbuu, garuu foolesi hunduu wal-dhibata.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "dhiibbaa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namatti"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "cessaa"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "wal-dhabbuu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "foolesi"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "wal-dhibata"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:29.597155304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Lafa xxeessaa ﬁ geeshoo, michuu ﬁ faarsoo ﬁ ruuwan; lafa zayitaa dhadacha zayitaa ﬁ malabbii.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Lafa"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "xxeessaa"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ﬁ geeshoo"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "michuu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "faarsoo"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ruuwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dhadacha zayitaa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ﬁ malabbii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:04.573783527Z",
+  "model": "glm-5.3"
+}

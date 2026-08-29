@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sadaffaan baltii Suuritti, sadaffaanis baltii duuba ijajjessitootaa; eegannaa mana ⟨את⟩ eegaa haa eegdanu, dambalii ta'aa.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "sadaffaanis"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "baltii"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Suuritti"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "sadaffaanis"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "baltii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "ijajjessitootaa"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "haa eegdanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eegannaa"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "eegannaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana eegaa"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "dambalii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:15.765287558Z",
+  "model": "glm-5.3"
+}

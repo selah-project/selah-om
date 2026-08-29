@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Boona tokkoffaa fi kan fuula kabajamaa, gorsaa fi ogeessa hojjetoo, beeka-sirreelee.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "Boona"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tokkoffaa"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "fi kan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fuula kabajamaa"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "fi gorsaa"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "fi ogeessa"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "hojjetoo"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "fi beeka-"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "sirreelee"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:30.339973387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Fagasoon isaa addunyaa ifa baafate; lafti argate, gargar-taatte.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ifa baafate"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Fagasoon isaa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "argate"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "gargar-taatte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:37.172525660Z",
+  "model": "glm-5.3"
+}

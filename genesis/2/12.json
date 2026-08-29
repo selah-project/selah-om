@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Dahabni biyya sanaas gaarii dha; achitti beddolachii fi ebsa shooamii tuqama.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Dahabni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "beddolachii"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ebsa"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shooamii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:20.075437725Z",
+  "model": "glm-5.3"
+}

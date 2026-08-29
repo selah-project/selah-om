@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ani ⟨את⟩ ilmaawwan keessan fi ⟨את⟩ intalaawwan keessan harka ilmaawwan Yahuudaa gurgura; isaanis warra Sabaa gara biyya fagoo gurguru; kanaaf Yahwe dubbate.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "gurgura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaawwan keessan"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ilmaawwan keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "intalaawwan keessan"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "intalaawwan keessan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "gurguru"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "warra Sabaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fagoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    }
+  ],
+  "timestamp": "2026-08-29T10:48:14.728945786Z",
+  "model": "glm-5.3"
+}

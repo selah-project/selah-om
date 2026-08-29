@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Hamtuun molaa warra hamtuu hawwata; hiyyi sirrii immoo midhaan kenna.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "hawwata"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamtuun"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "molaa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "warra hamtuu"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "hiyyi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "midhaan kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:35.886241585Z",
+  "model": "glm-5.3"
+}

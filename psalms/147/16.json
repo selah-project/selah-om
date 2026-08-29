@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Inni adula akkuma ullaa kenna, duuda bishaa akkuumaa esutti facaasa.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Inni ... kenna"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "adula"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "akkuma ullaa"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "duuda bishaa"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "akkuumaa esutti"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "facaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:45.419671296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Qajeelfama kee garaa kiyya keessaa hin hoddine; amantaa kee fi baraarsa kee dubbadhe; kheesed kee fi dhugaa kee hin dhokinee waldaa guddaaf.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "qajeelfama kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "hoddine"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "garaa kiyya"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amantaa kee"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "fi baraarsa kee"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dubbadhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "dhokinee"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "fi dhugaa kee"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "waldaaf"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:36.921449088Z",
+  "model": "glm-5.3"
+}

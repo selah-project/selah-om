@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Abrahaam ⟨את⟩ waan hunda kan isaa tiif Is-haaqiffe kenne.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Is-haaqif"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:33.704033098Z",
+  "model": "glm-5.3"
+}

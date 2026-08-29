@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Aaddeen Yahwe Israa'elitti gubate; isaanis harka Pilistotaa fi harka ilmaan Ammooniiitti gurgure.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "gubate"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aaddeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'elitti"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "gurgure"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistotaa"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoonii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:05:58.087737922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "In keessa, Yahwe, natti kennadheera; yeroo hunda hin na'isiin.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "In keessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "natti kennadheera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "na'isiin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:20.441263433Z",
+  "model": "glm-5.3"
+}

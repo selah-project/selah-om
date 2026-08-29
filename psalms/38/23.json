@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Gargaaraa koof saffisi, Adoonaay, hoji'aan koo.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "saffisi"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "Gargaaraa koof"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "hoji'aan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:20.171685472Z",
+  "model": "glm-5.3"
+}

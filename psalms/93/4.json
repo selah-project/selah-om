@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 93,
+  "translation": "Sagalee bishaan baay'ee caala, barcasota galaanaa humna guddaa qaban caala — Yahwe ol ka'aa humna guddaa qaba.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "sagalee ... caala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "humna guddaa qaban"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "barcasota"
+    },
+    {
+      "surface": "ים",
+      "gloss": "galaanaa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "humna guddaa qaba"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ol ka'aa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:15.404700964Z",
+  "model": "glm-5.3"
+}

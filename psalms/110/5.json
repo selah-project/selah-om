@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Adoonaay mirga kee irratti ⟨inne⟩; guyyaa aarsaa isaa mootanota caccabsa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mirga kee"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "caccabsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "aarsaa isaa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootanota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.012881856Z",
+  "model": "glm-5.3"
+}

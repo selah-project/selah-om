@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ijoollee ishee lamaanis ⟨את⟩ ⟨וְאֵת⟩ — maqaan tokkonis Gershoome, sababa 'Garaajii biyya alaa ta'eera' jedhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨וְאֵת⟩",
+      "marks": "lamaanis"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaanis"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ijoollee ishee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokkonis"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershoome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "גר",
+      "gloss": "garaajii"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "alaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:23.052316802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yahwe sanyii Yisraayel hunda dide, isaan miidhe, harka miidhaa'ottaatti kenne, yeroo isaan fuula isaa irraa darbiteef.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "isaan miidhe"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka … keessa"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "miidhaa'ottaatti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo …"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "isaan darbite"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fuula isaa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:36:16.301282114Z",
+  "model": "glm-5.3"
+}

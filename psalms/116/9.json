@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Ani Yahwe dura deemaa jira, biyyoota jiraatanii keessatti.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "deemaa jira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "biyyoota keessatti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jiraatanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:53.489210440Z",
+  "model": "glm-5.3"
+}

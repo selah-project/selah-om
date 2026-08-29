@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Murtii ijoolle abbaa hin qabneefi woonduftii raawwata, aloola jaallata, sooratafi uffata isaaf kennuuf.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "raawwata"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ijoolle abbaa hin qabne"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "woonduftii"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "jaallata"
+    },
+    {
+      "surface": "גר",
+      "gloss": "aloola"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kennuuf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "uffata"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:56.781683051Z",
+  "model": "glm-5.3"
+}

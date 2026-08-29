@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Wantootas isaa hanga bookeetti hin hafsinuu; waan isaa irraa hafe hanga bookeettis ibiddaatin gubissaa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin hafsinuu"
+    },
+    {
+      "surface": "תותירu",
+      "gloss": "hin hafsinuu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bookeetti"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "waan isaa irraa hafe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bookeettis"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "gubissaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:42.794549572Z",
+  "model": "glm-5.3"
+}

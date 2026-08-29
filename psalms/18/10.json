@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Samii dhoongoosee bu'e; dukkanni cimaa jalatti isaatti.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dhoongoosee"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dukkanni cimaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.610802077Z",
+  "model": "glm-5.3"
+}

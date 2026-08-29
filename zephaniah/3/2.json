@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sagalee hin dhagiinne; leenjii hin fudhatne; Yahwe irratti hin amanne; gara Eloohiim isheetii hin dhiyaanne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dhagiinne"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "fudhatne"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "leenjii"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe irratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "amanne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Eloohiim isheetii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "dhiyaanne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:07.013599727Z",
+  "model": "glm-5.3"
+}

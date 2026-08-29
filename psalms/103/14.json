@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Sababa Innii uumama keenya beeka, yaadata akkasumas nuti boolla jina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "uumama keenya"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yaadata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "boolla"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:50.371123508Z",
+  "model": "glm-5.3"
+}

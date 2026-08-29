@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Sagalee hamma koo irraa lafee koo wantoota koo irratti maxxane.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "hamma koo"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "maxxane"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "lafee koo"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "wantoota koo irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:47.086380082Z",
+  "model": "glm-5.3"
+}

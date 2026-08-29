@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Bishaan-ajaa if-dhiyoo keessaa deemuus hin sodaatu, gogaa guutuu Gingiloo bishaan-ajaa midhagus hin sodaatu.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "bishaan-ajaa"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "if-dhiyoo"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "gogaa guutuu"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "midhagu"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "Gingiloo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:11.718298197Z",
+  "model": "glm-5.3"
+}

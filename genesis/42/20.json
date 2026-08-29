@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "⟨את⟩ Obboleeyzan keessan xiqqaa garatti kiyya fachaasaa, jechoon keessan mirkaneffamu, isin hin duutan; isinis akkuma jedhame hojjatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeyzan keessan xiqqaa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "obboleeyzan keessan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "fachaasaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "mirkaneffamu"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jechoon keessan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "duutan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjatan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkuma jedhame"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:43.549223362Z",
+  "model": "glm-5.3"
+}

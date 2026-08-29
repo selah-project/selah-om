@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Mosheetiis jedhan: \"Ati nu wajjin dubbachi; nutiinis dhokna; Eloohiimiis nu wajjin hin dubbachuu jiraachuu akka hin duubnuuf.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galatti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbachi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nu wajjin"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "nutiinis dhokna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin jiraachuu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbachuu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nu wajjin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka hin duubnuuf"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "duubnu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:53.078171549Z",
+  "model": "glm-5.3"
+}

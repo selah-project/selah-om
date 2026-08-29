@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 6:13",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Warra waan hin jirreef gammaddan, kan jedhan, \"Sila humna keenyaan qubeen lamaan ofiif hin fudhanne?\"",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "warra gammaddan"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "hin jirreef"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kan jedhan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "sila hin...ne"
+    },
+    {
+      "surface": "בחזקנו",
+      "gloss": "humna keenyaan"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "fudhanne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "qubeen lamaan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:49:31.975895238Z",
+  "model": "glm-5.3"
+}

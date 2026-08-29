@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Gammeessaan ummata riwaacha beekan, Yahwe! ifa fuula kee keessaa ni deemu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gammeessaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "beekan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "riwaacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ni deemu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:41.668679651Z",
+  "model": "glm-5.3"
+}

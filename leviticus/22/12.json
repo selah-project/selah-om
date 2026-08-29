@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Intala abbaa qaamaa yoo nam-tokko alaa-qabuurratti heerumte, isheen kaffaltii waan qulqulluu irraa hin nyaatu.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "abbaa qaamaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "heerumte"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nam-tokkoorratti"
+    },
+    {
+      "surface": "זר",
+      "gloss": "alaa-qabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isheen"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "waan qulqulluu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nyaatu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:23.760236770Z",
+  "model": "glm-5.3"
+}

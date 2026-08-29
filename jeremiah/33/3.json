@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Natti waamii; ani si deebisa; waan guddaa fi waan cufamtee beekumsa dhiyyoo hin qabne siif hima.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "waamii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Natti"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "ani si deebisa"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "siif hima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "waan guddaa"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "waan cufamtee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "beekumsa qabne"
+    }
+  ],
+  "timestamp": "2026-08-29T09:46:05.271045082Z",
+  "model": "glm-5.3"
+}

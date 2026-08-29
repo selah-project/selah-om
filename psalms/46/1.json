@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Qopheessaaaf, ilmaan Koraachitiif, Alamoot irratti — sirbii.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Qopheessaaaf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan ... tiif"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraach"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamoot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sirbii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:25:01.504974590Z",
+  "model": "glm-5.3"
+}

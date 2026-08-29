@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Nu akka hoola nyaataa taasiftee nuu kennite; saboota keessatti nu barbaaddeelteette.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "nuu kennite"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "akka hoola"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "nyaataa"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "saboota keessatti"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "nu barbaaddeelteette"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:34.939039912Z",
+  "model": "glm-5.3"
+}

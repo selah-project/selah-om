@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Dhageessi, uummata koo, ani nii dubbadha; yaa Israa'el, ani si keessatti ragaa baadha; Eloohiim, Eloohiim kee, ani.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Dhageessi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "uummata koo"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ani nii dubbadha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaa Israa'el"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ani si keessatti ragaa baadha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:33.909492751Z",
+  "model": "glm-5.3"
+}

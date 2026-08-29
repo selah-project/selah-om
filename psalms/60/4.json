@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "You have shaken the earth, you have split it; heal its fractures, for it staggers!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "You have shaken"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "the earth"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "you have split it"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "heal"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "its fractures"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "it staggers"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:05.809366794Z",
+  "model": "glm-5.3"
+}

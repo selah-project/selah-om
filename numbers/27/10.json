@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Yoo obboleeyyii hin qabu, dhaala isaa ⟨את⟩ obboleeyyii abbaa isaatti kennitu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "obboleeyyii"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaala isaa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaala isaa"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "obboleeyyii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:08:39.777491201Z",
+  "model": "glm-5.3"
+}

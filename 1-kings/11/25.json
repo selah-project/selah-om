@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Inni adeersa Israa'eliif ture guyyoota Shelomoo hundumaatti; akkasumas, kan ⟨את⟩ hamtuu Hadaad hojjete daballee, Israa'elitti jibbe, Araamis irratti mootummaa hojjete.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "adeersa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'eliif"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundumaatti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamtuu Hadaad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadaad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "jibbe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'elitti"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummaa hojjete"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:41.670068200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Mosheen ajajee, teessoo keessatti sagaleen baafame: \"Dhiira fi dubartii, waan kennaa qulqullaa taateef hojii biraa hin hojjadhaa\" jedhaniini; ummannis fiduu irraa dhaabame.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "baafamanii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "teessoo keessatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhaniini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hojjadhaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "biraa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "kennaa taateef"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullaa"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "dhaabame"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummannis"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "fiduu irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:58.584970620Z",
+  "model": "glm-5.3"
+}

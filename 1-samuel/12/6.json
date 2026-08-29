@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Samuweeliinis sabichaatii jedhe: \"Yahwe — waan ⟨את⟩ Moshee fi ⟨את⟩ Aharoon uume, fi waan abbootii keessan biyya Mitsraayim irraa ol ba'edhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…f"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Aharoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi waan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ol ba'edhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii keessan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abbootii keessan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:58.976878047Z",
+  "model": "glm-5.3"
+}

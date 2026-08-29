@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 29:7",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Akkasumas balbalee poortikicha cufaniilanii, lampoota ⟨את⟩ dangiisanii; quraannaa hin quraanne, kibanis mana quduusaa keessatti Eloohiim Israa'eliif hin ol-qopheessan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "cufaniilanii"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "balbalee"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "poortikicha"
+    },
+    {
+      "surface": "ויכבו",
+      "gloss": "dangiisanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampoota"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampoota"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "quraannaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הקטירו",
+      "gloss": "quraanne"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "kiban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ol-qopheessan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mana quduusaa keessatti"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohiimiif"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T14:05:54.610092532Z",
+  "model": "glm-5.3"
+}

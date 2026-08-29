@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Ati ⟨inni⟩ mootii koo ti, Eloohiim; badhaasa Ya'aqoobtti amajii.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨inni⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootii koo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amajii"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badhaasa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.623168363Z",
+  "model": "glm-5.3"
+}

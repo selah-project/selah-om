@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Moowaab dhukaa dhiqaa kiyya; Edom irraarratti sandaala kiyya nan-tuula; Falashaa, ana irratti shoora!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moowaab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "dhukaa"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "dhiqaa kiyya"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraarratti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nan-tuula"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandaala kiyya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Falashaa"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "shoora!"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:32.747052282Z",
+  "model": "glm-5.3"
+}

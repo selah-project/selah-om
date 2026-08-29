@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yahwe na jedhe: waanti isaan dubbatan gaarii dha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waanti"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "isaan dubbatan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:26:40.411798836Z",
+  "model": "glm-5.3"
+}

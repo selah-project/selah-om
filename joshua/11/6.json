@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 11:6",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwe Yooshu'aa'is jedhe: \"Isaan hin sodanu; kennaa bultii guyyaa kana kanatti, ani isaan hundi Israa'el fuulduratti ajjeesamee nan kennaa; fardoonni isaanii (e.g. ⟨את⟩) mormi isaanii baafadhu, giigorraan isaanii (e.g. ⟨את⟩ ibiddaatin) gubuudhaan balleessi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…'iis"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yooshu'aa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodanu"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "bultii guyyaa"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "kanatti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nan kennaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isaan hundi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "isaan hundi"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ajjeesamee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fardoonni isaanii"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "fardoonni isaanii"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "mormi isaanii baafadhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giigorraan isaanii"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "giigorraan isaanii"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "gubuudhaan balleessi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ibiddaatin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:37:45.313827284Z",
+  "model": "glm-5.3"
+}

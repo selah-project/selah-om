@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Guyyoonni kiyya gatii dheerate akka bifa duubee argamu; aniis akka marga hoo'e.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "guyyoonni kiyya"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "akka duubee"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "gatii dheerate argamu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "akka marga"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "hoo'e"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:59.373773435Z",
+  "model": "glm-5.3"
+}

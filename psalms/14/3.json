@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Hundi garagalaniiru, waliin balleefamaniiru; waan toltuu hojjetu hin jiru — tokkollee hin jiru.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Hundi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "garagalaniiru"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "balleefamaniiru"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waan toltuu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkollee hin jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:22.225983629Z",
+  "model": "glm-5.3"
+}

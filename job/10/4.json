@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ija lafaa qabaattaa moo? Akka namti ilaaltutti ilaalaa moo?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "Ija"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qabaattaa moo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "akka ilaaltutti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "namti"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ilaalaa moo"
+    }
+  ],
+  "timestamp": "2026-08-29T12:21:16.656542226Z",
+  "model": "glm-5.3"
+}

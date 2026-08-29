@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mootichiinis ni jedhe, 'Balbala keessa eenyu?' Haamanniis balbala mana mootichaa alaa keessa seenaa ture, mootichaadhaaf Mardokaayi ⟨את⟩ muka lulsuu kan isaaf hojjee irratti lulsuuf jedhuuf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichiin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "balbala keessa"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Haamanniis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seenaa"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "alaa keessaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuf"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mootichaadhaaf"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "lulsuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mardokaayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardokaayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "muka lulsuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hojjee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:37.993982938Z",
+  "model": "glm-5.3"
+}

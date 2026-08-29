@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Hamoori abbaa Shekem immoo Ya'aqob biratti akka ⟨את⟩ isa wajjin dubbatu'uuf bahe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dubbatu'uuf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:11.079737985Z",
+  "model": "glm-5.3"
+}

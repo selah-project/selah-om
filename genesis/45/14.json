@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Inni gara morma Benyaamiin obboleessa isaa irratti kufe, ruure; Benyaamiinis morma isaa irratti ruure.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "morma"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyaamiin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleessa isaa"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ruure"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Benyaamiinis"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ruure"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "morma isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:52:42.011420266Z",
+  "model": "glm-5.3"
+}

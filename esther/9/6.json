@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Magaalaa keessa Shushan keessatti Yihuudonni namoota shamii dhibba ajjeesanii balleessan.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Shushan keessatti"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "magaalaa keessa"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ajjeesanii"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yihuudonni"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "balleessan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shamii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:20.117814706Z",
+  "model": "glm-5.3"
+}

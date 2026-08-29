@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Mana-jabana qulqulluu, ⟨את⟩ fitoota isaa, fitoota tuulamaa, fi ⟨את⟩ meeshaalee isaa hunduu, fi ⟨את⟩ olijaa ifaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana-jabana qulqulluu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "mana-jabana"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitoota isaa"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "fitoota isaa"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "fitoota"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "tuulamaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isaa hunduu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "olijaa ifaa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olijaa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ifaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:22.887710417Z",
+  "model": "glm-5.3"
+}

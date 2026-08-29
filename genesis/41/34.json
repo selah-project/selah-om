@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Paroh kun hojjadhu, tikaa-tikawwan ⟨את⟩ biyya Mitsraayim irratti dhaabbadhu, fi dheessa biyya Mitsraayim waggaa torban deebisaan keessatti baafadhu.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dhaabbadhu"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "tikaa-tikawwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ biyya"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "fi dheessa baafadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Mitsraayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "torban"
+    },
+    {
+      "surface": "שני",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "deebisaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:51.901232642Z",
+  "model": "glm-5.3"
+}

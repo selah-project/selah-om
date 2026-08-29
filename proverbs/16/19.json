@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Haadhoo of-simtuu ⟨wajjin⟩ hiikkoottota wajjin caalaa gaggaara, bittaa boonsota wajjin wal-qabuu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caalaa gaggaara"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "of-simtuu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "haadhoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiikkoottota"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "hiikkoottota"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "wal-qabuu bittaa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boonsota"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "boonsota"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:22.573926763Z",
+  "model": "glm-5.3"
+}

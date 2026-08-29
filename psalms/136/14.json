@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "Israaeelis gidduu isaa keessaa darbeef, kiyi yeroo duubatti kheesdi Isaa.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Israaeelis ... darbeef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaeel"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "gidduu isaa keessaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiyi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo duubatti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesdi Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:06.519685597Z",
+  "model": "glm-5.3"
+}

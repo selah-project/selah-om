@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Icci dhaabbatee fuulla dallaa Yahwe duraa, fuuldura waldaa Israa'el hundaatti, harka isaa bal'ise.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhaabbatee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulla duraa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dallaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "waldaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "bal'ise"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "harka isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T16:00:27.012381848Z",
+  "model": "glm-5.3"
+}

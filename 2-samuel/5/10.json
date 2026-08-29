@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Daawid itti fufee guddachaa fi guddachaa ture, Yahwe Eloohiim ciiguraa isa waliin ture.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "itti fufee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "guddachaa"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "fi guddachaa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ciiguraa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa waliin ture"
+    }
+  ],
+  "timestamp": "2026-08-29T07:45:55.863198491Z",
+  "model": "glm-5.3"
+}

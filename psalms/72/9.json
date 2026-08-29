@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Fuulduratti isaa biyya-dheebonni ni fuulan, ajeessitootnis isaa kudura ni leexisan.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "fuulduratti isaa"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ni fuulan"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "biyya-dheebonni"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ajeessitootnis isaa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kudura"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ni leexisan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:44.963363183Z",
+  "model": "glm-5.3"
+}

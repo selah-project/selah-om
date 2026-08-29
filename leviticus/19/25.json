@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Wagguyyaa shanaffaa keessatti midhaan isa ni baadhattan, akka midhaan isaa isiniif dabaluu; Ani Yahwe, Eloohiim keessan.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "waggaa shanaffaa keessatti"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "shanaffaa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni baadhattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaan isa"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "midhaan isa"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "dabaluu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "midhaan isaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:33.669850080Z",
+  "model": "glm-5.3"
+}

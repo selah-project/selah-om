@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Inni balleessan kee hunda dhiifata, dhukkuba kee hunda Fayyisa.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "dhiifata"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "balleessan kee"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "Fayyisa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "dhukkuba kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:58.612980531Z",
+  "model": "glm-5.3"
+}

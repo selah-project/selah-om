@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ilmoowwan Israa'elii dubbadhu, isaanittis jedhi: Ani Yahwe, Eloohiim keessan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoowwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "isaanittis jedhitu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:53.990072136Z",
+  "model": "glm-5.3"
+}

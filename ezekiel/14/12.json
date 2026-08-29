@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Jecha Yahwe gara kiyyaatti dhufe, akka akkas jedhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyyaatti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka akkas jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:11:01.177922911Z",
+  "model": "glm-5.3"
+}

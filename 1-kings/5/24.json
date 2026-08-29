@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 5:24",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hiiraamis mukula araraa fi mukula beroshii, waan inni barbaaddamu hunda, Sheloomoof kenna ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "Hiiraamis"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Sheloomoof"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukula"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araraa"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "mukula ... fi"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beroshii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "waan inni barbaaddamu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:06:45.607132615Z",
+  "model": "glm-5.3"
+}

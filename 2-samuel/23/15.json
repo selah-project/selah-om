@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Daawid hawwiise, jedhe: 'Eenyu bishaan lolaa Betleeheem, bantii balbala biraa ta'e, naa hoo'a!'",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "hawwiise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "naa hoo'a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "lolaa irraa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Leeheem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "bantii balbala biraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:59:55.835012438Z",
+  "model": "glm-5.3"
+}

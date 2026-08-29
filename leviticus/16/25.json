@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Bilicha niiqaa baddiitiis ⟨את⟩ mooraa irratti ni haasaasa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bilicha"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "bilicha"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "niiqaa baddii"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ni haasaasa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mooraa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:15.320078549Z",
+  "model": "glm-5.3"
+}

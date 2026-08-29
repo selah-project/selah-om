@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Isaan Yahwe fuulduratti yeroo hunda haa jiraatan; yaadannonni isaanii lafa irraa haa baafamu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "haa jiraatan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuulduratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "haa baafamu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafa irraa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "yaadannonni isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.683670830Z",
+  "model": "glm-5.3"
+}

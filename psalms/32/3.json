@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Akka silitoo ta'e, lafee kiyya gogde, geengoo kiyya irratti guyyaa guutuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "silitoo ta'e"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "gogde"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "lafee kiyya"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "geengoo kiyya irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:03.119049597Z",
+  "model": "glm-5.3"
+}

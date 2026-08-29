@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis ⟨את⟩ iffaa kan gaarii ta'e arguun, iffaa fi icha gidduu adda baase.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arguun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iffaa"
+    },
+    {
+      "surface": "האור",
+      "gloss": "iffaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "adda baase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "האור",
+      "gloss": "iffaa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "icha"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:45.527273719Z",
+  "model": "glm-5.3"
+}

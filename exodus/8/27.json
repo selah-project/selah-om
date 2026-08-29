@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Yahwe jechoota Mosheetti akka ta'e hojjedhe, bookeen diigaggaa Par'oo irraa, gabroota isaa irraa fi ummata isaa irraa hafe; tokkolleen hin hafne.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jechoota isaatiin akka ta'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheetti"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "hafe"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "bookeen diigaggaa"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "Par'oo irraa"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "gabroota isaa irraa"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "fi ummata isaa irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "hafne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokkolleen"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:28.329271094Z",
+  "model": "glm-5.3"
+}

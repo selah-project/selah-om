@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Karaa jireenyaa na beeksifta; immoo fuula keetti guutu gammacha; mirga harka keetti geessisa jaalala fi kan wel-tumaa.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "na beeksifta"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jireenyaa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "guutu"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "gammacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula keetti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula keetti"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "jaalala geessisa"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "mirga harka keetti"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "kan wel-tumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:43.220020167Z",
+  "model": "glm-5.3"
+}

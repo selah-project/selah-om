@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 148,
+  "translation": "Addeessi fi Ji'a Isa gammadaa; ifa urjiiwwanii hundi Isa gammadaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa gammadaa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Addeessi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "fi Ji'a"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isa gammadaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "urjiiwwanii"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.304250489Z",
+  "model": "glm-5.3"
+}

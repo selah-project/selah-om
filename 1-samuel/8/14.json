@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Qonnoota keessan ⟨את⟩, reeffanna keessan ⟨את⟩ fi guyaa zaytuunaa keessan kan miidhagoo ta'e ⟨את⟩ ni fudhata, gabroota isaa niif kenna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qonnoota keessan"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "qonnoota keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "reeffanna keessan"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "reeffanna keessan"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "guyaa zaytuunaa keessan"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "kan miidhagoo ta'e"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ni fudhata"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "niif kenna"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "gabroota isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:18:12.172470465Z",
+  "model": "glm-5.3"
+}

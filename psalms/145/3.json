@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Yahwe guddaa dha; baay'een faarfama; guddina Isaatis hin qoratamu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "baay'een faarfama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "guddina Isaatis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "qoratamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:18.863969236Z",
+  "model": "glm-5.3"
+}

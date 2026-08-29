@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahwe Eloohiim isaanii akka dagataniifu, isaan ⟨את⟩ harka Siiseraa, qondaana waraana Hatsoor, harka Filistiinotaa fi harka mootii Moo'aab gurgurate; isaanis isaan waliin lolaniiru.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "dagataniifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "gurgurate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaanii",
+      "marks": "isanii (hintuu fi harka)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Siiseraa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "qondaana"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "waraana"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsoor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "fi harka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinotaa"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "fi harka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lolaniiru"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:11.137816063Z",
+  "model": "glm-5.3"
+}

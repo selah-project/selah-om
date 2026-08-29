@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Bishan biiqqaa onneetti saboota beekumsa kee malee; biyya mootummaan maqaa kee hin waamne irrattis.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "onnee biiqqaa kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "beekumsa kee malee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "biyya mootummaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waamne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:47.382208919Z",
+  "model": "glm-5.3"
+}

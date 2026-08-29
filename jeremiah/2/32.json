@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Daa'imti miilla ishee dagetti moo? Dilbbalti hirribbii ishee dagetti moo? Ummanni kiyya immatu na dagete guyyoota lakkoofsa hin qabneef.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "dagetti"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "Daa'imti"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "miilla ishee"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Dilbbalti"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "hirribbii ishee"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Ummanni kiyya immatu"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "na dagete"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkoofsa qabne"
+    }
+  ],
+  "timestamp": "2026-08-29T09:22:00.568807550Z",
+  "model": "glm-5.3"
+}

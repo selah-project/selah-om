@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Yahwe naaf rukuttaa olaanaa ta'e, Eloohiim kiyyaas dhagaa ittisaa kiyyaa ta'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "rukuttaa olaanaa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Eloohiim kiyyaas"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ittisaa kiyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:16.751384330Z",
+  "model": "glm-5.3"
+}

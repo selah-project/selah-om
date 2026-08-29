@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Isin ammoo Yahwe Eloohiim keessan waliin maxxanneef, hundi keessan har'a jirtu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "isin ammoo"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "maxxanneef"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe waliin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jirtu"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hundi keessan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    }
+  ],
+  "timestamp": "2026-08-29T06:18:36.824937577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Hojii rakkisaa namoota irratti haa ta'u, isaanis isa hojjadhaa; jechoota sobaa hin ilaalan.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "rakkisaa haa ta'u"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "Hojii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjadhaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ilaalan"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:22.686479109Z",
+  "model": "glm-5.3"
+}

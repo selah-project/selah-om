@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "kheesed kuma duraa kan ana jaalatu fi ajaja kiyya eegatuuf hojjeda.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hojjeda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kuma duraa"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kan ana jaalatu"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "fi eegatu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajaja kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:40.750335837Z",
+  "model": "glm-5.3"
+}

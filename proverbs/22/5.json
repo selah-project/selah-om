@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sammaawwan fi aa'uuwwan daandii qallattuu irratti jiru; kan lubbuu isaa eegu isaan irraa baay'ee ni fagaata.",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "sammaawwan"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "aa'uuwwan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "daandii irratti"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "qallattuu"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "kan … eegu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "baay'ee ni fagaata"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:12.358415101Z",
+  "model": "glm-5.3"
+}

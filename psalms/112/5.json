@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Tolu namni tollataa fi deemsisa dha; yaada isaa seeraan qopheessa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tolu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "tollataa"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "fi deemsisa"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "qopheessa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "yaada isaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "seeraan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:43.751545084Z",
+  "model": "glm-5.3"
+}

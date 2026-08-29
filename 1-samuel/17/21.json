@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Israa'el fi Piilishtarraan meeshaa waraanaa faana faana wajjin qopheessan.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "qopheessan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "fi Piilishtarraan"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "meeshaa waraanaa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "faana wajjin"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "faana"
+    }
+  ],
+  "timestamp": "2026-08-29T07:24:48.742227441Z",
+  "model": "glm-5.3"
+}

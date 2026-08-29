@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 38:31",
+  "book": "job",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Halgiiwwan Kiimaa wal-qabsee dandeessa? Moo halgii Kesil banee dandeessa?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "wal-qabsee dandeessa"
+    },
+    {
+      "surface": "מעדנות",
+      "gloss": "halgiiwwan"
+    },
+    {
+      "surface": "כימה",
+      "gloss": "Kiimaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "moo"
+    },
+    {
+      "surface": "משכות",
+      "gloss": "halgii"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Kesil"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "banee dandeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:35:16.130545912Z",
+  "model": "glm-5.3"
+}

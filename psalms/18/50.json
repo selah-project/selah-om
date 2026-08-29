@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Sababa kanaaf, saboota keessatti yaa Yahwe siin sabboona, maqaa keetiinis siin wimbiifadha.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "siin sabboona"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "saboota keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "maqaa keetiinis"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "siin wimbiifadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:44.003603996Z",
+  "model": "glm-5.3"
+}

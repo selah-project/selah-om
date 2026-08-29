@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Sila Innis karaa koo hin arguu? Tarkaanfiiwwan koo hunda hin lakkaawwuu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sila... hin?"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Innis"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hin arguu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaa koo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "tarkaanfiiwwan koo"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "hin lakkaawwuu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:30:25.141400500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Kyoonni aduu fi gaachaannoo Yahwe Eloohiimii ti; jaalala fi kabaja Yahwe kenna; gaarii homaa hin dhorku warra gammoo keessa deemanii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kyoonni"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "fi gaachaannoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "fi kabaja"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin dhorku homaa"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "hin dhorku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "warra ... deemanii"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "gammoo keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:45.634854723Z",
+  "model": "glm-5.3"
+}

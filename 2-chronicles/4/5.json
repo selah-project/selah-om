@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Bal'inni isaa bal'ina harka tokko ti; lafeen isaa ammoo akka hojii lafee kiyyoraa, bahii shooshanaa ti; baatii kuma sadii ni guuta.",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "bal'inni isaa"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bal'ina harka tokko"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "lafeen isaa ammoo"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "akka hojii"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lafee"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kiyyoraa"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "bahii"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "shooshanaa"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ni guuta"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "baatii"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:13.535392848Z",
+  "model": "glm-5.3"
+}

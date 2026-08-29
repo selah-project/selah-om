@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahweis Yehoshuatiin jedhe: «Ilaali, Yeriychoo ⟨את⟩ fi mootummaa ishee ⟨את⟩ harka keetti kaffaleera — warra humna qaban.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tiin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuatiin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kaffaleera"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriychoo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriychoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mootummaa ishee"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "fi mootummaa ishee"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "warra"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "humna qaban"
+    }
+  ],
+  "timestamp": "2026-08-29T06:42:06.404208292Z",
+  "model": "glm-5.3"
+}

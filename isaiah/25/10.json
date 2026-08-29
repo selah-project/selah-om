@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Sababa harki Yahwe gaarree kana irratti itti hafuuf, Mo'aabi isaa jalatti kan ri'amu ta'a, akka raawwanii gad-bakka Madmeenaa irratti kan ri'amani ta'ee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "itti hafuuf"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana irratti"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "ri'amu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aabi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "isaa jalatti"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "akka ri'amanii"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "raawwanii"
+    },
+    {
+      "surface": "במי",
+      "gloss": "bakkatti"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmeenaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:22.464522852Z",
+  "model": "glm-5.3"
+}

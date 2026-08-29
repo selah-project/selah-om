@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Maqaa qulqulluu isaa irratti itti boonaa; onnee kanneen Yahwe barbaadan hawwi qabaatuu.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "itti boonaa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa irratti"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqulluu isaa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "hawwi qabaatuu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kanneen barbaadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:48.995344979Z",
+  "model": "glm-5.3"
+}

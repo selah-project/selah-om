@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Sanduqa Yahwe ⟨את⟩, teentalaa walga'ii ⟨את⟩, fi meeshaalee qulqulluu teentalaa keessa jiran hunda ⟨את⟩ ol baasan; kahiinonni fi Leewiyonni ⟨את⟩ isaan ol baasan.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ol baasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teentalaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentalaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teentalaa keessa jiran"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ol baasan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isaan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahiinonni"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Leewiyonni"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:24.902394573Z",
+  "model": "glm-5.3"
+}

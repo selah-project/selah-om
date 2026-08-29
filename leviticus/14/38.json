@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kohaanichi mana irraa bahu mana balbala gadi, mana san torban guyyaaf cufa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohaanichi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "cufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana san"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mana san"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:48.966408762Z",
+  "model": "glm-5.3"
+}

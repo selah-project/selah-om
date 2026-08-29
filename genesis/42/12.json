@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Isaaniinis jedhe: \"Mitii, dhukkubbii lafaa argachuuf dhufteen.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniinis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mitii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "dhukkubbii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "dhufteen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "argachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:36.071041957Z",
+  "model": "glm-5.3"
+}

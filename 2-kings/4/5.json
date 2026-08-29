@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Isheen biraatiin ⟨את⟩ fuudhee deemittaa, balbalas ofii irratti fi ijoollee ishee irratti cufte; isaan meeshaaleen dhiyeessaa jiran, isheen immoo dhangalaasaa jirti.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "deemittaa"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "biraatiin ⟨את⟩",
+      "marks": "(Eliishaa) biraatiin"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "cufte"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "balbala"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ofii irratti"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "fi … irratti"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ijoollee ishee"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "dhiyeessaa jiran"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ishee bira"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "isheen immoo"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "dhangalaasaa jirti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:25:54.572095925Z",
+  "model": "glm-5.3"
+}

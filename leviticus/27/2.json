@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "“Ilmoon Israa'eelitti dubbadhu, isaaninis akkana jedhi: namni waadaa addaa ta'e yoo kenne, gatii ati murteessituu caalatti, lubbuuwan Yahweef ta'u.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "isaaninis jedhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "addaa ta'e"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "waadaa"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "gatii ati murteessituu"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "lubbuuwan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    }
+  ],
+  "timestamp": "2026-08-29T05:46:29.201577608Z",
+  "model": "glm-5.3"
+}

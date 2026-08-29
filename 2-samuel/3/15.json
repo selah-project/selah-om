@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ishee-Boshetis ergee, ishee dhiira isheetiin — Falte'eel ilmaa Laayish — irraa fudhate.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ishee-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boshet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiira isheetii"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Falte'eel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmaa"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Laayish"
+    }
+  ],
+  "timestamp": "2026-08-29T07:45:24.722809991Z",
+  "model": "glm-5.3"
+}

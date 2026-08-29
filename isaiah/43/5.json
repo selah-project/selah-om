@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Hin sodaatin, sababa ani ⟨את⟩ wajjin kee jiraaniif; baha irraa sanyii kee fida, dhiha irraas si walitti qaba.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin sodaatin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodaachuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wajjin kee",
+      "marks": "wajjin kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "baha irraa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "fida"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sanyii kee"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dhiha irraas"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "si walitti qaba"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:13.573274860Z",
+  "model": "glm-5.3"
+}

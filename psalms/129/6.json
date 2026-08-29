@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 129,
+  "translation": "Sirna uummata gilgaalee kan dura oomuu isaa mati qallate ta'aa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ta'aa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sirna uummata"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "gilgaalee"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "dura"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "oomuu isaa mati"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "qallate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:26.683439863Z",
+  "model": "glm-5.3"
+}

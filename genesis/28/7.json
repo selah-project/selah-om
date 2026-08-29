@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Ya'aqob abbaa isaa fi haadha isaa dhageeffatee Paddan Araam deemeera.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageeffatee"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deemeera"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:25.516282885Z",
+  "model": "glm-5.3"
+}

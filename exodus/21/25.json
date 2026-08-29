@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "keeyyaa bakka keeyyaa, madaa bakka madaa, rukuttaa bakka rukuttaa.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "keeyyaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "keeyyaa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "madaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "madaa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "rukuttaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:03.519104988Z",
+  "model": "glm-5.3"
+}

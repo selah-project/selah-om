@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Sudutta gabroota kee soorata simbirroota samiitiif kennan; foon waldaa kee (kheesidota kee) bineensota dacheetiif.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "kennan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudutta gabroota kee"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "sudutta"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabroota kee"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "simbirroota"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiitiif"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "foon"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "waldaa kee (kheesidota kee)"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "bineensota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dacheetiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:48.283488106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Fadiin warra garee keessaa lakkaa'aman immoo kiikara kudar ta'e — kuma tokko, dhibba torbaafi shanafi torbattama shiikil — shiikil qulqullummaa tiin.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "fadiin"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "warra lakkaa'aman"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "garee"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kudar"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kiikara"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "torbattama"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shiikil"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shiikil ... tiin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qulqullummaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:04.940287072Z",
+  "model": "glm-5.3"
+}

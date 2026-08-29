@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Yoo akkana himu jedhe, kunoo — ijaarra sanyii kee irratti falme.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "himmu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akkana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ijaarra"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sanyii kee"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "falme"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:49.267955276Z",
+  "model": "glm-5.3"
+}

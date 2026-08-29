@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Sanyunwan hundi na marsanii; maqaa Yahwe tiin ani isaan baafacha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sanyunwan"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "na marsanii"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa tiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "isaan baafacha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:59.580209130Z",
+  "model": "glm-5.3"
+}

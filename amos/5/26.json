@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Fi ⟨את⟩ Siikkut mootii keessan fi ⟨את⟩ Kiyyuun fakkiiwwan keessan baataniitu — urjii waaqoota keessan, waan isin ofiif hojjettan.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "baataniitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siikkut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Siikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mootii keessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiyyuun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyuun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "fakkiiwwan keessan"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "urjii"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "waaqoota keessan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "hojjettan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ofiif"
+    }
+  ],
+  "timestamp": "2026-08-29T10:49:54.252219232Z",
+  "model": "glm-5.3"
+}

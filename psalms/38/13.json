@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Warra naa-fii kufaansaa godhaniitu, warra hamtuu koo barbaadanis bultii baha; guyyaa guutuu dhokataa yaadu.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "kufaansaa godhaniitu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "warra barbaadan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naa-fii"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "warra barbaadanis"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "hamtuu koo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bultii baha"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bultii"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "dhokataa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "yaadu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:06.191835926Z",
+  "model": "glm-5.3"
+}

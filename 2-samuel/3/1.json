@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Fi waraanni sana dheeraa ta'e mana Sha'uul fi mana Daawid gidduutti; Daawid immoo ni deema ni cimata, manni Sha'uul immoo ni deemu ni laafatu.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "waraanni"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduutti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi... gidduutti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawid immoo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ni deema"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "ni cimata"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "manni... immoo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ni deemu"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "ni laafatu"
+    }
+  ],
+  "timestamp": "2026-08-29T07:43:38.259587695Z",
+  "model": "glm-5.3"
+}

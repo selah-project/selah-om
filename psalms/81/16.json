@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Warra Yahwe jibban Isa irratti ni sobatu; yeroon isaanii yeroo hunda haa ture.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "warra jibban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ni sobatu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isa irratti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haa ture"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "yeroon isaanii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:12.264696300Z",
+  "model": "glm-5.3"
+}

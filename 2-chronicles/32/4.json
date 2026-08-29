@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Saba baay'ee walitti qabame; burqitoota hunda ⟨את⟩ fi lagaa biyya keessa yaatuu ⟨את⟩ cufan, maalan jechuudhaan, 'Maaliif mootonni Ashuur yaa'u, bishaan baay'ee argatan?'",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "walitti qabame"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "cufan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burqitoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "burqitoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lagaa yaatuu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lagaa"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "yaatuu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "maalan jechuudhaan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "yaa'u"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "argatan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:08:58.639948146Z",
+  "model": "glm-5.3"
+}

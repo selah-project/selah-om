@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mitsraayim immoo ⟨את⟩ Luudoota fi ⟨את⟩ Anaamota fi ⟨את⟩ Lehaabota fi ⟨את⟩ Naptuuhota dhalche.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsraayim immoo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Luudoota"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Luudoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anaamota"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anaamota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehaabota"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehaabota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naptuuhota"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naptuuhota"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:12.294659405Z",
+  "model": "glm-5.3"
+}

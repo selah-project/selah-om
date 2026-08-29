@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Kunis ajaja, seerota fi murtiileedha, warra Yahwe Eloohiim keessan akka isin barsiisu, dachii keessatti waan isin godhuuf, dachii sana irratti akka isin seenu fi qabattuuf jecha; dachii isa gara isa deemu turan.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kuniis"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "seerota"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "fi murtiilee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "warra"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "akka barsiisu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waan godhuuf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii keessatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "seenu turan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gara isaa"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "qabattuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:34:56.308260747Z",
+  "model": "glm-5.3"
+}

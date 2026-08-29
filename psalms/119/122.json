@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Gabbara kee gaarii ta'uuf wal-qabadhu; boonni ana hin miilan.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "wal-qabadhu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara kee"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "gaarii ta'uuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ana hin miilan"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "boonni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:40.028220210Z",
+  "model": "glm-5.3"
+}

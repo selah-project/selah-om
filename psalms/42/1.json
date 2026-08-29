@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Geesota duraa; maashikiil barsiisaa; warra ilmaan Qoraachitiif.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "geesota duraa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maashikiil barsiisaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "warra ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraach"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:51.135318187Z",
+  "model": "glm-5.3"
+}

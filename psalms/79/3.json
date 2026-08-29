@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 79,
+  "translation": "Dhiiga isaanii akka bishaanii Yerushaalayim marsii driiban; akkasumas nama hin qabu.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "driiban"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dhiiga isaanii"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "akka bishaanii"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "marsii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akkasumas hin qabu"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nama (aarsituu)"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:48.283613942Z",
+  "model": "glm-5.3"
+}

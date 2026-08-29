@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Halkan hin hordofne ta'e; akka simichaa tokkoo mana irratti ta'e.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "halkan hin hordofne"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "akka simichaa"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "tokkoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גג",
+      "gloss": "mana irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:47.086622396Z",
+  "model": "glm-5.3"
+}

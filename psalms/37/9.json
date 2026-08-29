@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Kan hobaa raawwatan ni bahaniidha, warri Yahwe eeggitan immoo isaan lafa baasatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "hobaa raawwatan"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "ni bahaniidha"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "warri eeggitan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "baasatu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:44.212498691Z",
+  "model": "glm-5.3"
+}

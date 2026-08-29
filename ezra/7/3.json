@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "ilma Amaraayyaa, ilma Azaraayyaa, ilma Meraayot.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaraayyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraayyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Meraayot"
+    }
+  ],
+  "timestamp": "2026-08-29T13:14:02.729901342Z",
+  "model": "glm-5.3"
+}

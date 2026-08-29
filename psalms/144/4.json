@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 144,
+  "translation": "Namni akka banaa dha; guyyoonni isaatiis akka gcciiddarfacaa darbu.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "akka banaa"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "dha"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "guyyoonni isaatiis"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "akka gciiddarfacaa"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "darbu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:09.607477640Z",
+  "model": "glm-5.3"
+}

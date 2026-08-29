@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe akka jedhe: sababaa tooraa koo ⟨את⟩ kan isaan dura kaa'e dhiisaniif, iyyi koo hin dhagahaniif, isheenis hin sochooneef.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akka jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "dhiisaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tooraa koo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tooraa koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "isaan dura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhagahaniif"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "iyyi koo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sochoone"
+    },
+    {
+      "surface": "בה",
+      "gloss": "isheenis"
+    }
+  ],
+  "timestamp": "2026-08-29T09:31:03.408029880Z",
+  "model": "glm-5.3"
+}

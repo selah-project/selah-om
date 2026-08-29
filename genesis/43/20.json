@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Yaa Adoonaay koo, maaloo, dhugaa nuti jalqaba irratti soorata bituuf gadii buune.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay koo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "gadii buuchuu"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "buune"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "jalqaba irratti"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "bituuf"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "soorata"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:44.032225724Z",
+  "model": "glm-5.3"
+}

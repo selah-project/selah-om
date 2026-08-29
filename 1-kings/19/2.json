@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Iizebelis ergaa Eliyaasitti ergatteetti akkas jedhi: akkas haataanu Eloohiim godhu, akkasumas dabalu — yeroo kanatti ganama lubbuu kee akka lubbuu tokko isaaniitti taasisa.",
+  "tokens": [
+    {
+      "surface": "ויתשלח → ותשלח",
+      "gloss": "ergatteetti"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iizebelis"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "haataanu godhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "dabalu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "yeroo kanatti"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "taasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu kee"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "akka lubbuu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:20:10.459916977Z",
+  "model": "glm-5.3"
+}

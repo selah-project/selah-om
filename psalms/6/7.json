@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Achuu koo tiin dadhabeera; halkan guutuu naannoo koo bishaan baafadha; dhikkoo koo tiin foon koo danqa.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "dadhabeera"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "achuu koo tiin"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "bishaan baafadha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "naannoo koo"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "dhikkoo koo tiin"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "foon koo"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "danqa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:01.813103413Z",
+  "model": "glm-5.3"
+}

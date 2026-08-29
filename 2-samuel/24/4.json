@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Jechi mootichaa Yoo'aab fi ajajarota waraanaa irratti cimaa ta'e; Yoo'aab fi ajajarotni waraanaas fuulla mooticha dura sabicha ⟨את⟩ Israa'el ⟨את⟩ lakkoofsuuf ba'an.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "cimaa ta'e"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ajajarota"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "fi ajajarotni"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulla dura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "lakkoofsuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabicha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:22.683793852Z",
+  "model": "glm-5.3"
+}

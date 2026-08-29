@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Namichi qulqulluu akka ta'u uffata isaa ni dhoya, riiga isaa hunda ni laala, bishaan dhiqata, qulqullaa'a; booda qubannoo seena, dhaddacha isaa alatti torban guyyaa jiraata.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "ni dhoya"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "namicha qulqulluu akka ta'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uffata isaa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uffata isaa"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "ni laala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riiga isaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "riiga isaa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhiqata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "qulqullaa'a"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "qubannoo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraata"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "dhaddacha isaa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:40.815009741Z",
+  "model": "glm-5.3"
+}

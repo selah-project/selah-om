@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Rabsheeqe deebi'ee ⟨את⟩ mootii Ashur Libna irratti waraanuu jiru argate — sababa Lakkiish irraa naqee jiru dhugaa ef.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rabsheeqe"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Rabsheeqe"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "waraanuu jiru"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhugaa ef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "naqee jiru"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakkiish"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:09.382532560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Baay'een isaanii jedhu: 'Eenyu nuuyyee mugsa kenna?' Yaah, ifa fuula kee nu irratti kaasi, Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "baay'een isaanii"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenu"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "nu argisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mugsa"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "kaasi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:45.070736421Z",
+  "model": "glm-5.3"
+}

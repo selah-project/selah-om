@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 93,
+  "translation": "Raajiiwwan kee baay'een amanamoo ta'aniiru; qulqullinni mana kee kan barbaachisu ta'e, Yahwe, guutuu yeroo dheeraaf.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "raajiiwwan kee"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "amanamoo ta'aniiru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "mana kee"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kan barbaachisu ta'e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullinni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "guutuu yeroo dheeraaf"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:45.254161864Z",
+  "model": "glm-5.3"
+}

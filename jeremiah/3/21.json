@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sagalee gaarree duwwaa irratti dhageeffamti—roora fi tumsa ilmaan Israa'eli; sababiin isaas karaa isaanii dalagneessanii fi Yahwe Eloohiim isaanii irra dachaan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "gaarree duwwaa"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "dhageeffamti"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "roora"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "tumsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "dalagneessanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaa isaanii"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "karaa isaanii"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "dachaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim isaanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohiim isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T09:25:17.762607372Z",
+  "model": "glm-5.3"
+}

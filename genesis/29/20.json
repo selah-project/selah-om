@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ya'aqobis Raachieliif waggaa torba tajaajile; jaalala isheetiif ija isaa keessatti akkuma guyyoota mura'aaf ta'eetti.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "tajaajile"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobis"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Raachieliif"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'eetti"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ija isaa keessatti"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "akkuma guyyoota"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "mura'aaf"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "jaalala isheetiif"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (jaalala isheetiif)"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:23.024651414Z",
+  "model": "glm-5.3"
+}

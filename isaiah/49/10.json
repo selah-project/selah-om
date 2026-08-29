@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Hiyyessuu hin taanu; dheebuu hin taanu; hoo'iin fi aduun isaan hin tuqsiisu. Sababa Isaan kakkalsan, Isaan qajeelcha; burqaa bishaanii irratti Isaan hayyoomsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "hiyyessuu taanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dheebuu hin"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "taanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "tuqsiisu"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "hoo'iin"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "aduun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "Isaan kakkalsan"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "Isaan qajeelcha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "burqaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "Isaan hayyoomsa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:48.424805566Z",
+  "model": "glm-5.3"
+}

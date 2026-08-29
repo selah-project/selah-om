@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Kan aduutti hin-ba'i jedhu, innis hin baafamu; urjilee immoo ni moggaasa.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "jedhu"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "aduutti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin ba'i"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "hin baafamu"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "immoo"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "urjilee"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "ni moggaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:17:37.618439166Z",
+  "model": "glm-5.3"
+}

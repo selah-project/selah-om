@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Laabaanis jedhe, \"Toltu ⟨(it is)) good⟩ akka siif kennadhu kan namatti biraa kennu caalatti; na wajji haa jiraattu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laabaanis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolu"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "kennadhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (siif)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kan... kennu caalatti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namatti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biraa"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "haa jiraattu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "na wajji"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:23.024392790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Inni maallaqaa daddarba — 'eessa jira?' Dukkana guyyaa harka isaa keessatti qopheessa akka ta'e beeka.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "daddarba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "maallaqaa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "eessa jira?"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "qopheessa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaa keessatti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dukkanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:22:50.375383374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Akkas jedhe: Abdiarsiisaa ta'aa ta'i Kenaan; abdi-abbootaa obboleeyyan isaaf ta'a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akkas jedhe"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "abdiarsiisaa ta'aa ta'i"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abbootaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "obboleeyyan isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:45.749380751Z",
+  "model": "glm-5.3"
+}

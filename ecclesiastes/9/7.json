@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Adeemi, raajeffataa kee gammachaan soori; dhugaatis onnee tolaan bineensa kee; sababiin isaasis Eloohiim akka duraa hojii kee ⟨את⟩ jaalate.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "adeemi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "soori"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "gammachaan"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "raajeffataa kee"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dhugaatis"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolaan"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "bineensa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaasis"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "akka duraa"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "jaalate"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojii kee"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:52:00.529750922Z",
+  "model": "glm-5.3"
+}

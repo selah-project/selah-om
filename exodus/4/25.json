@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Tsipporaan seeppoo fudhatee, caasaa ⟨את⟩ gogaa ijoollee ishee malee mo'aa isaa baaftee, milaa isaatti tuqdee, akkas jedhe: Chiyyota dhiigaa natti taate.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporaan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "seeppoo"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "baaftee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo'aa isaa"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "mo'aa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ijoollee ishee"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "tuqdee"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "milaa isaatti"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "chiyyota"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "taate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:18.445602739Z",
+  "model": "glm-5.3"
+}

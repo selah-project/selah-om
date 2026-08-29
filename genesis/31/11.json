@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Ergamaan Eloohiim hiikaa keessatti natti jedhe: \"Ya'aqob.\" Aninis ni jedhe: \"Odoodhuma!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ergamaan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "hiikaa keessatti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "aninis ni jedhe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Odoodhuma"
+    }
+  ],
+  "timestamp": "2026-08-29T14:15:40.101769302Z",
+  "model": "glm-5.3"
+}

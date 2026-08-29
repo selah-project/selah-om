@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Waan dhugaa dhuganii, elaahota warqii, quranxii, birtii, sibillaa, mukaa fi dhagaa faarsaniiru.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "dhuganii"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "waan dhugaa"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "fi faarsaniiru"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "elaahota"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "warqii"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "quranxii"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "birtii"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "sibillaa"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "mukaa"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "fi dhagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:01:30.674092508Z",
+  "model": "glm-5.3"
+}

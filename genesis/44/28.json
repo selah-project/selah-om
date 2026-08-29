@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Inni tokko ⟨את⟩ irraa kiyya ba'e; aniis, 'Dhugumatti akka fincan-dhabeetti' jedhe; hanga yeroo kanaatti hin argine.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "inni tokko"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ irraa kiyya",
+      "marks": "inni tokko"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "aniis jedhe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti akka"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "fincan-"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "-dhabeetti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "argine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yeroo kanaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:52:58.578930905Z",
+  "model": "glm-5.3"
+}

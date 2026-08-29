@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Chizkiyaahu ⟨את⟩ isin Yahwe irratti hin amanamsiinu akka jedhuutti: \"Yahwe dhugumatti ni baraara; magaalaa tun harka mootii Ashuritti hin kennamtu.\"",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "amanamsiinu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyaahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutti"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "baraara"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ni baraara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "kennamtu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-29T09:05:22.495065210Z",
+  "model": "glm-5.3"
+}

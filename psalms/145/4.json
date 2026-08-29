@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Durri duratti hojii kee faarsa; humna kees ni himata.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Durri"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "faarsa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hojii kee"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "humna kees"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ni himata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:18.864101264Z",
+  "model": "glm-5.3"
+}

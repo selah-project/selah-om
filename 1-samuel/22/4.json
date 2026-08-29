@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Fuula mootii Mooabitti ⟨את⟩ isaan geesse; Daawid dhaabbata keessa ture guyyaa hunda isa wajjin jiraatan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "geesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula mootii Mooab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mooab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ture"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "dhaabbata keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:34:58.632551206Z",
+  "model": "glm-5.3"
+}

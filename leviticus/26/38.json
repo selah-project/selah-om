@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Isin biyyoota madreewaan keessatti badditu; biyyi diina keessan ⟨את⟩ isin ni nyaata.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "isin badditu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "biyyoota madreewaan keessatti"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ni nyaata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyyi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "diina keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:32.160056956Z",
+  "model": "glm-5.3"
+}

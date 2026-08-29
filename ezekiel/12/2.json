@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 12:2",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ilma namaa, giddu galeessa mana mormaa keessa jiraatta — isaan ija arguuf qabaatu garuu hin argan, gurra dhaga'uuf qabaatu garuu hin dhagayan; sababa isaan mana mormaa ta'aniif.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giddu galeessa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "mormaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jiraatta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ija"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arguuf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "argan"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhaga'uuf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhagayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "mormaa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isaani"
+    }
+  ],
+  "timestamp": "2026-08-29T10:08:02.839110647Z",
+  "model": "glm-5.3"
+}

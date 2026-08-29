@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Yoo Yahwe naaf gargaarsa hin taane, danda'aan nafi kiyya swukumsa keessa jiraatte turti.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "yoo … hin taane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "gargaarsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "danda'aan"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "jiraatte turti"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "swukumsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafi kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:15.913837373Z",
+  "model": "glm-5.3"
+}

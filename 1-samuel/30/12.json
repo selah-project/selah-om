@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Isaaf kutaa inibuu tuffamee tokkoo fi uddee ruuzinii lammii kennanii; Isaatu nyaate, lubbuun Isaa gara Isaa deebite, waan guyyoota sadii fi halkan sadii keessatti daabboo hin nyaane, bishaanis hin dhugne.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kennanii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaaf"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "kutaa"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "inibuu tuffamee"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lammii"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "uddee ruuzinii"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "nyaate"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "deebite"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "lubbuun Isaa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gara Isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaane"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "daabboo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "dhugne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "halkan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:08.499772001Z",
+  "model": "glm-5.3"
+}

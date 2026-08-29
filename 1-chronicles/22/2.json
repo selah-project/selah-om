@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Daawidis ajajamuu alaawwan ⟨את⟩ biyya Yisraa'el keessa jiran walitti qabuuf ni jedhe; hedduttiwwanis xaralaa filannoowaa manaattiin manaa Eloohiim ijaaruuf sochoose.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawidis"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "walitti qabuuf ajajamuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alaawwan"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "alaawwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sochoose"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "hedduttiwwan"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "xaachuuf"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "xaarreen"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "filannoo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijaaruuf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T13:41:22.308373938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Yisraa'elis Yoosiphin jedhe: du'a yeroo kanaa, fuula kee ⟨את⟩ nan arguusaa booda, sababni isaas ati odoo jirtaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosiph"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "du'a yeroo kanaa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "yeroo kanaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "nan arguusaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kee"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "odoo jirtaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jirtaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:52:42.050379430Z",
+  "model": "glm-5.3"
+}

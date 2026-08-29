@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Eenyu raawwatee hojjete, dhaddacha duraa irraa waame? Ani Yahwe, isa duraa; kanwwan boodaa ⟨את⟩ Ani Ani isaa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyu"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "raawwatee"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "dhaddacha"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "duraa irraa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "isa duraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanwwan boodaa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "kanwwan boodaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ani isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:00.043030111Z",
+  "model": "glm-5.3"
+}

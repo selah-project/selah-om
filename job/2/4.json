@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Satanaanis Yahwe ⟨את⟩ deebisee jedhe: “Gogaa gogaa irratti; namichi waan hunda waan qamu lubbuu isaa irratti kenna.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satanaanis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "waan hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "qamu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:16:06.765419064Z",
+  "model": "glm-5.3"
+}

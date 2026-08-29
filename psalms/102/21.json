@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Galaaffata hidhamaa dhaggeeffachuuf, ilmaan du'aa-muraa hiikuuf;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "dhaggeeffachuuf"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "galaaffata"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "hidhamaa"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "hiikuuf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "du'aa-muraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:56.758219929Z",
+  "model": "glm-5.3"
+}

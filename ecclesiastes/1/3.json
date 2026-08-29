@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Maaltu faydaa namaaf taata hojii isaa hunda keessatti, waan aduu jalatti hojjatu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "faydaa"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "namaaf"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "hojii isaa"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "waan hojjatu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:55.850565154Z",
+  "model": "glm-5.3"
+}

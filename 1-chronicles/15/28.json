@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 15:28",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Yisra'el hundiinis sanduuqa kakuu Yahwe ⟨את⟩ iyyeechaan, iyyee shaampuu fi funaan qaxxaamuranii fi sanciin ayyaawwachuudhaan, naabalaa fi kiinaraatinis ayyaawwachuudhaan ol baasan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hundiinis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ol baasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa kakuu Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "iyyeechaan"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "iyyee"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shaampuu"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "funaan qaxxaamuranii"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "sanciin"
+    },
+    {
+      "surface": "משמעים",
+      "gloss": "ayyaawwachuudhaan"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "naabalaa"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "fi kiinaraa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:38:06.851291827Z",
+  "model": "glm-5.3"
+}

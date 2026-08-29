@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Bullaa, mooqaa, raammoo diimaa, dorraa fi rihii reettii.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "bullaa"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "mooqaa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "raammoo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dorraa"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "rihii reettii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:08.691440229Z",
+  "model": "glm-5.3"
+}

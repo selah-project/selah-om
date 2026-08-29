@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Faana-dubbii ummata kee keessaa hin imamu; dhiiga mellifaa kee irratti hin dhaabbadhu; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "imamu"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "faana-dubbii"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "ummata kee keessaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dhaabbadhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mellifaa kee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:04.658520074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Konkattaachi alatti hin bana; baatiin koo imaltuu irratti banu.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "alatti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bana"
+    },
+    {
+      "surface": "גר",
+      "gloss": "konkattaacha"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "baatiin koo"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "imaltuu irratti"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "banu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:30:47.685733947Z",
+  "model": "glm-5.3"
+}

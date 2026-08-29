@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 3:11",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Mattoonni isii gatii irratti muru, kohaanonni isii mindaatiin barsiisu, raajoonni isii warqeedhaan raajuu; Yahwe irratti hirkatanii, 'Yahwe gidduu keenya hin jiruu mitii? Rakkinni keenya irratti hin dhuguu' jedhan.",
+  "tokens": [
+    {
+      "surface": "ראשיה",
+      "gloss": "Mattoonni isii"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "gatii irratti"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "muru"
+    },
+    {
+      "surface": "וכהניה",
+      "gloss": "kohaanonni isii"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "mindaatiin"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "barsiisu"
+    },
+    {
+      "surface": "ונביאיה",
+      "gloss": "raajoonni isii"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "warqeedhaan"
+    },
+    {
+      "surface": "יקסמו",
+      "gloss": "raajuu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "hirkatanii"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mitii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "gidduu keenya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dhuguu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "keenya irratti"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakkinni"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:59.073335879Z",
+  "model": "glm-5.3"
+}

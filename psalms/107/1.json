@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Yahwe'is galateffadhaa, akkaataa inni tolu; kufensaa isaa kan bara dhumaa ti; waan kheesed isaa bara dhumatti hafuuf.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "galateffadhaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe'is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkaataa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kufensaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bara dhumaa ti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:58.743956691Z",
+  "model": "glm-5.3"
+}

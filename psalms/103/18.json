@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "(Kan) kakuu isaa eeganiifi, ajajoota isaa yaadatanii isaan raawwatuuf.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "eeganiif"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kakuu isaa"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "yaadataniifi"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ajajoota isaa"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "isaan raawwatuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:20.378045591Z",
+  "model": "glm-5.3"
+}

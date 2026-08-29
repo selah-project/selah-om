@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Abeen isa waliin godhe; bishaan burqitootaa ⟨את⟩ mootummaa alaa jiru cufuuf—isa gargaaran.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "abeen godhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "abbootii warraa isa"
+    },
+    {
+      "surface": "וגיבריו",
+      "gloss": "jaallota cimoo isa"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "cufuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan burqitootaa"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "burqitootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "isa gargaaran"
+    }
+  ],
+  "timestamp": "2026-08-29T14:08:58.639774106Z",
+  "model": "glm-5.3"
+}

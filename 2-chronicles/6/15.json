@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Wáan gabrichaa, Daawid abbaa koo, waan ati dubbitteetti ⟨את⟩ eeggte; afaan keetiin dubbattee, harka keetiin akka guyyaa har'aa guutaa jirta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "eeggte"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "gabrichaa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaa koo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan ati dubbitteetti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "dubbitteetti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "dubbattee"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "afaan keetiin"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "harka keetiin"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "guutaa jirta"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akka guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "har'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:52:32.899120606Z",
+  "model": "glm-5.3"
+}

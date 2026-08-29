@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Meeshaalee halluu adda addaan isaan geeffamuun gara mootichaatti; dhiirrottonni ishee booda dhufan, michiltonni isheeti, isaan siif geeffamu.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "meeshaalee halluu adda addaan"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "isaan geeffamuun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "gara mootichaatti"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "dhiirrottonni"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "booda isheetti dhufan"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "michiltonni isheeti"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "isaan geeffamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.090410707Z",
+  "model": "glm-5.3"
+}

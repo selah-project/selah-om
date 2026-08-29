@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Inni natti siqa: \"Ati abiiti, Eel kiyya, fi dheeda baraakummaa kiyya.\"",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "natti siqa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abiiti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel kiyya"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "fi dheeda"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "baraakummaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.903478270Z",
+  "model": "glm-5.3"
+}

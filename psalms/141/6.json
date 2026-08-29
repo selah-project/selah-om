@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Yeroon abbaa seeraa isaanii crag-rock-ii irratti ene, jechoota koo ni dhageettii, kunoo akka jaallatamaa ta'aniif.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ene"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "crag-rock-ii"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "abbaa seeraa isaanii"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ni dhageettii"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "jechoota koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "akka jaallatamaa ta'aniif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:02.884236149Z",
+  "model": "glm-5.3"
+}

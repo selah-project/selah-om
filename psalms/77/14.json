@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Eloohiim, karaan kee qulqullina keessan ti; Eel guddaan ta'een akka Eloohiim ta'e eenyu?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "qulqullina keessan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "karaan kee"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "akka Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:09.693141223Z",
+  "model": "glm-5.3"
+}

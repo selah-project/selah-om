@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Geeffama jaallata gabatee irratti kan Sheminiithaa, mizmoori Daawifi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Geeffama jaallata gabatee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "kan Sheminiithaa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawifi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:57.257879148Z",
+  "model": "glm-5.3"
+}

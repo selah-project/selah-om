@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Galaanni fi guutuun isaa haara'u; addunyaan fi kanneen ishee keessa jiraatanis.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "haara'u"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaanni"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "fi guutuun isaa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "fi kanneen... jiraatan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:33.462801643Z",
+  "model": "glm-5.3"
+}

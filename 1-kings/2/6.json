@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Akkuma beekumsa keetti hojjedhu, cirracaa isaa nagaa keessatti She'ool hin buusisin.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "akkuma beekumsa keetti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "buusisin"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "cirracaa isaa"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "nagaa keessatti"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "She'ool"
+    }
+  ],
+  "timestamp": "2026-08-29T08:04:23.350694404Z",
+  "model": "glm-5.3"
+}

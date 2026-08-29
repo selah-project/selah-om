@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yahimmoo Yahwe hamtuu sanii irraa gadddeesse — waan sabniisaaf hojjachuuuf jedhe (sanii).",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "gadddeesse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hamtuu sanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuuf"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sabniisaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:00.876758362Z",
+  "model": "glm-5.3"
+}

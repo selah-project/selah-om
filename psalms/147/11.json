@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Yahwe ⟨את⟩ warra Isa sodaachan, ⟨את⟩ warra kheesed Isaatti kakkatan jaalata.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "jaalata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra Isa sodaachan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "warra Isa sodaachan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warra kheesed Isaatti kakkatan"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "warra kakkatan"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kheesed Isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:52.154926565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Isaanis Baal-Pe'oritti maxanuuf, golaa warra duutaa ni nyachan.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "maxanuu"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'oritti"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "nyachan"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "golaa"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "warra duutaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:29.995530672Z",
+  "model": "glm-5.3"
+}

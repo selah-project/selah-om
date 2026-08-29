@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kottaa ilmaan, na dhageessaa; yir'ata Yahwe isin barsiisa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kottaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "yir'ata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "isin barsiisa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:38.242317977Z",
+  "model": "glm-5.3"
+}

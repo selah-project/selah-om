@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "«Qallina isheenis yeshaa uuma; warra kheesed ishees simSimataa simSimsu.»",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "qallina isheenis"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "uuma"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "yeshaa"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "warra kheesed ishees"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "simSimataa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "simSimsu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:41.844595087Z",
+  "model": "glm-5.3"
+}

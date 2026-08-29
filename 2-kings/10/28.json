@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Akka kanatti Yehuu ⟨את⟩ Baal Israa'elii irraa balleesse.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "balleesse"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'elii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:28:32.643342882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sababatti lafa irratti namni abraara tokkollee hin jiru, waan gaarii hojjee akkasumas balleeffachuu hin balleeffannu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababatti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "abraara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "balleeffannu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:13.483498572Z",
+  "model": "glm-5.3"
+}

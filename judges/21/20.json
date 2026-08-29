@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Isaaniis ⟨את⟩ ilmaan Beniyaamiin ajajanii jedhan: Ka'aa, kiraa dhookadhaa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajajanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan Beniyaamiin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniyaamiin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ka'aa"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "dhookadhaa"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "kiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:15:57.500420934Z",
+  "model": "glm-5.3"
+}

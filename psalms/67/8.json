@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 67,
+  "translation": "Eloohiim nu eebbissa; fi dhuma lafaa hundinuu ⟨את⟩ Isa sodaatu.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "nu eebbissa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "fi sodaatu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhuma lafaa hundinuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dhuma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:48.241856065Z",
+  "model": "glm-5.3"
+}

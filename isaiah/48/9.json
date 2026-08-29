@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Maqaa koo sababaan humna du'a kiyya ni dargaa-galeessa, faarfannaa kiyya si irrattis ni hambisa, akka si hin baafatuuf.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "maqaa koo irratti"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "ni dargaa-galeessa"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "humna du'a kiyya"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "faarfannaa kiyyas"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "ni hambisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akka hin"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "si baafatuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:00.187060422Z",
+  "model": "glm-5.3"
+}

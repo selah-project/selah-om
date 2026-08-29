@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Yahwe hamaa hunda irraa si eeggata; ⟨את⟩ lubbuu kee ni eeggata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "si eeggata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamaa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ni eeggata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu kee"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:23.846261354Z",
+  "model": "glm-5.3"
+}

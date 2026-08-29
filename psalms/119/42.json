@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ani warra na gorsan deebisa, sababa jecha keetti koo.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ani ... deebisa"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "warra na gorsan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "(hin jedhamne — deebii keessa jira)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "koo"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "jecha keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:36.462489874Z",
+  "model": "glm-5.3"
+}

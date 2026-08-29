@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Kuma tokko sarara kee irratti kufa, kuma kudhan immoo mirga kee irratti; isaan garuu sitti hin dhiyaatu.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "sarara kee irratti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kuma tokko"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "kuma kudhan"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "mirga kee irratti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sitti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "dhiyaatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:11.718447259Z",
+  "model": "glm-5.3"
+}

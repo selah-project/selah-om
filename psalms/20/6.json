@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Gammaduu kee keessatti nan hiiqina, maqaa Eloohiim keenya irratti durba kaafna; Yahwe hunda gaaffiiwwan kee haa guutu.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "nan hiiqina"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "gammaduu kee keessatti"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "maqaa irratti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "durba kaafna"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "haa guutu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "gaaffiiwwan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:02.578945839Z",
+  "model": "glm-5.3"
+}

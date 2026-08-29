@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Raachaa fi handaara isaa hin warramu; jecha lubbuu ti warramu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "warramu"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "raachaa"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "handaara isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lubbuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "warrama"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:33.024775189Z",
+  "model": "glm-5.3"
+}

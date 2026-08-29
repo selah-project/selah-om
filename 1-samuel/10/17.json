@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Samu'eli ⟨את⟩ ummata gara Yahweitti, tuqaa Mitspaatti, waamee walitti qabe.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "waamee walitti qabe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samu'eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "tuqaa Mitspaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:41:40.871451749Z",
+  "model": "glm-5.3"
+}

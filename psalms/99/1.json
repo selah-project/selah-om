@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Yahwe bulchiinsa jalqabe; saboonni ittinan; Kerubiim irratti hunda'e; lafti ginuu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bulchiinsa jalqabe"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ittinan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hunda'e"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Kerubiim irratti"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ginuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:00.922696726Z",
+  "model": "glm-5.3"
+}

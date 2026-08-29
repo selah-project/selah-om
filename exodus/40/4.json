@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Meeraas ⟨את⟩ seensa; qindaa'ina isaa qindeessi; Shaamuu-dhahaaas ⟨את⟩ seensi, ifa isheetis ol baasi.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "seensa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meeraa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Meeraa"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "qindeessi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qindaa'ina isaa"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "qindaa'ina isaa"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "seensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaamuu-dhahaa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Shaamuu-dhahaa"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ol baasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa ishee"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ifa ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:03.455689224Z",
+  "model": "glm-5.3"
+}

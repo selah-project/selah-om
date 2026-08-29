@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Warra rakkisaa isaa fuula isaa dura rukute; warra jaalalaa isaais ni rukuta.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fuula isaa dura"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "warra rakkisaa isaa"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "warra jaalalaa isaa"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ni rukuta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:53.910504219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Kan argame hundi ni dhiigama; kan kafee hundis mookaadhaan kufa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kan argame"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ni dhiigama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "kan kafee"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mookaadhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:49:34.822196364Z",
+  "model": "glm-5.3"
+}

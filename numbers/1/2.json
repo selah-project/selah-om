@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ol-kaasaa ⟨את⟩ mataa hunda garee ilmo Israa'el, maatii isaanii irratti, mana abbootii isaanii irratti, lakkoofsa maqoota, dhiira hunda, guruucca isaanii irratti.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ol-kaasaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "garee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "maatii isaanii irratti"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "lakkoofsa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqoota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "guruucca isaanii irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:47:59.623287785Z",
+  "model": "glm-5.3"
+}

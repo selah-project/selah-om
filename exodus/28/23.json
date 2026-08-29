@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Hoshicha irrattis cufaawwan warqee lama godhita; cufaawwan lamas ⟨את⟩ dhumoota lama hoshichaa irratti kaafta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "godhita"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshicha"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "cufaawwan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaafita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cufaawwan lama"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "cufaawwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dhumoota"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:17:01.777131999Z",
+  "model": "glm-5.3"
+}

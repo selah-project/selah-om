@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Diinaan lubbuu koo haa hordofu, haa arguu; jireenyaa koo lafa irratti haa heedu; kabajaan koo duubbee keessatti haa jiraatu. Seelaa.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "haa hordofu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "diinaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "haa arguu"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "haa heedu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jireenyaa koo"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "kabajaan koo"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "duubbee keessatti"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:07.662346724Z",
+  "model": "glm-5.3"
+}

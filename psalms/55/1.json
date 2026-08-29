@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Qajeelchaaf, naannoo qindaa'inootaatiin, garsa barsiisaa, kan Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "qajeelchaaf"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "naannoo qindaa'inootaatiin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "garsa barsiisaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:25.301359340Z",
+  "model": "glm-5.3"
+}

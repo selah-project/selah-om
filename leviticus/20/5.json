@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Fuula kiyya Ani nama sanaa irratti fi maati isaa irratti nan dhaaba; isaa nan baafadha; warra isa duuda Moloki dhuma saaman hunda, ummata isaanii keessaa nan baafadha.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "nan dhaaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kiyya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nama... irratti"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "maati isaa irrattis"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "nan baafadha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warra hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "saaman"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "isa duuda"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "saamuuf"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Moloki"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ummata isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:05.908392847Z",
+  "model": "glm-5.3"
+}

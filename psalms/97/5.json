@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 97,
+  "translation": "Gaarreen akka daankagaa bishaan-baay'aniitti dhangamaniitu duratti Yahwe, duratti Adoonaay biyya hundaa ti.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "akka daankagaa"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "dhangamaniitu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:43.428230849Z",
+  "model": "glm-5.3"
+}

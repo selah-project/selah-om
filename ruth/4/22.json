@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Oobedis ⟨את⟩ Yishayii uume, Yishayiinis ⟨את⟩ Daawid uume.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Oobedis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayii"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayii"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishayiinis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T12:39:00.770974542Z",
+  "model": "glm-5.3"
+}

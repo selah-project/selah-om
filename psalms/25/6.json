@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Rahmata kee yaadadhu, Yahwe, fi kheesed kee, kanaaf kan bara duree irraa isaan ⟨turan⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yaadadhu"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahamata kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "fi kheesed kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kan bara duree irraa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:07.042655526Z",
+  "model": "glm-5.3"
+}

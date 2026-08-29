@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mosheen ammalee ⟨את⟩ namicha wajjin jiraachuuf fedhe; namichis ⟨את⟩ Sippooraa intala isaa Mosheef kenne.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ammalee fedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "jiraachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namicha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sippooraa"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Sippooraa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "intala isaa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheef"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:58.126450902Z",
+  "model": "glm-5.3"
+}

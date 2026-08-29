@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Fi kan mootummaa ilmaan Israa'elitti harka isaa hin dabaruu; fi Eloohiimii ⟨את⟩ arganii, ni yaaluu fi ni dhuguu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "fi gara"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "kan mootummaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dabaruu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "fi arganii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiimii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimii"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ni yaaluu"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ni dhuguu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:05.138245132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Nafa koo samsamuu irraa badbaasi; kan tokko koo hawwi sanyii irraa (badbaasi).",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "badbaasi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "samsamuu irraa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa koo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "hawwi irraa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "kan tokko koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:36.213443326Z",
+  "model": "glm-5.3"
+}

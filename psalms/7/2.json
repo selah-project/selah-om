@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe Eloohiim kiyya, keessa waan sitti kakanne natti godhi; hunda warra na hordofani irraa na baraari, na oolchi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "waan sitti kakanne (waan sitti hafe)"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "na baraari"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "warra na hordofani"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na oolchi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:19.845399031Z",
+  "model": "glm-5.3"
+}

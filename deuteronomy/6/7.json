@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ilmoota keef isaan warraabbadhu; yeroo mana kee keessatti jiraattu, karaa irratti deemu, seentaafi ka'u keessattis isaan waliin dubbadhu.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "warraabbadhu"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ilmoota keef"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan waliin"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "jiraattu yeroo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mana kee keessatti"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "deemu yeroo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "seentuu keessatti"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ka'uu keessattis"
+    }
+  ],
+  "timestamp": "2026-08-29T06:17:11.099710342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Eloohiim kee nagaa jaaladhu, fi ⟨את⟩ Isa gabbaru, fi maqaan Isaatiin kakadhu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nagaa jaaladhu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "fi ⟨את⟩ Isa",
+      "marks": "Isa (gabbaru)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "gabbaru"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "fi maqaan Isaatiin"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kakadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:54.756235065Z",
+  "model": "glm-5.3"
+}

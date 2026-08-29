@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Harka Isaa hin yaadanne, guyyaa inni ⟨את⟩ isaan moraa diinaa irraa bilisoomse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "yaadanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Harka Isaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inni"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "bilisoomse"
+    },
+    {
+      "surface": "מני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "moraa diinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:26.260547089Z",
+  "model": "glm-5.3"
+}

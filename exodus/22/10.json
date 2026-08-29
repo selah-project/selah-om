@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Kakuun Yahwe lamaan isaanii gidduu ta'a, yoo inni harka isaa waan dhibbataa isaa irratti hin baane; kan qabatu isa fudhata, innis hin kaffalu.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Kakuun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "lamaan isaanii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "baane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "waan … irratti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "dhibbataa isaa"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "kan qabatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "-s hin"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kaffalu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:03.415618583Z",
+  "model": "glm-5.3"
+}

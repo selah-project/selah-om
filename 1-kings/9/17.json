@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Sulaymaanis Gaazeriifi Biet-Hooroon gadii iyyoo ⟨את⟩ Gaazer fi ⟨את⟩ Biet-Hooroon gadii hojjate.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaymaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaazer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Biet-Hooroon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Biet-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Hooroon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "gadii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:10:05.829650384Z",
+  "model": "glm-5.3"
+}

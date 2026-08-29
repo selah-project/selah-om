@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Jaakobiis deebisee Laabaanitti jedhe: Ani sodaadheef, sababa ani jedhe: dhorkaa maaltu ⟨את⟩ intaltakee na irraa butumsitu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Laabaanitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa...f"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ani sodaadhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dhorkaa"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "butumsitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaltakee"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "intaltakee"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "na irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:15.828025559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Akkuma sabaa, akkuma qaaliis ta'a; karaawwan isaa irratti nan qorata, hojiiwwan isaaas deebisee isaaf nan kenna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "akkuma sabaa"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "akkuma qaalii"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "nan qorata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "karaawwan isaa"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "hojiiwwan isaas"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nan deebisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:50.187491662Z",
+  "model": "glm-5.3"
+}

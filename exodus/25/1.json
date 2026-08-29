@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Yahween Mosheetti dubbachuu jalqabe akka jedhuutti,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbachuu jalqabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti (Mosheetti)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:28.500645050Z",
+  "model": "glm-5.3"
+}

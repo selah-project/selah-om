@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Kan abbaa isaa fi haadha isaa irratti «itti hin argine» jedhe; obboleeywan isaa ⟨את⟩ hin beeku, ilma isaa ⟨את⟩ hin beeku; sababa ajaja kee eeganii, kakuu kees ni eegu.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "kan jedhe"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "abbaa isaa irratti"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "fi haadha isaa irratti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "itti argadhe"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "obboleeywan isaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "obboleeywan isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "hinneense"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilma isaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hin beeku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "eeganii"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ajaja kee"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "fi kakuu kee"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ni eegu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:36:42.107222945Z",
+  "model": "glm-5.3"
+}

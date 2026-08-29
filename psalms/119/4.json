@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ati qajeelfamoo Keetti akka ⟨nu⟩ dhiphidhaan eegnu ajajjite.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ajajjite"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "qajeelfamoo Keetti"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eegnu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dhiphidhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:04.730323099Z",
+  "model": "glm-5.3"
+}

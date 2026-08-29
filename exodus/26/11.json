@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Ati haankoo nyaachii shantama hojjedha; haankoota wallee keessatti seensisita, ⟨את⟩ tandii maxxansita, tokko ta'a.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hojjedha"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "haankoo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nyaachii"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "shantama"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "seensisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haankoota"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "haankoota"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "wallee keessatti"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "maxxansita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tandii"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tandii"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:10.216656957Z",
+  "model": "glm-5.3"
+}

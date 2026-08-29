@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yahwe ammoo jedhe: \"Ati qiiqiyyoona dabdate jirta, kan itti hin dadhabneef, kan hin guddisneef; halkan tokkoo keessa ture, halkan tokkoo keessas bade.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "dabdate jirta"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiiqiyyoona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "dadhabneef"
+    },
+    {
+      "surface": "בו",
+      "gloss": "itti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "guddisneef"
+    },
+    {
+      "surface": "שבן",
+      "gloss": ""
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan tokkoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "ובן",
+      "gloss": ""
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan tokkoo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bade"
+    }
+  ],
+  "timestamp": "2026-08-29T10:54:00.794418609Z",
+  "model": "glm-5.3"
+}

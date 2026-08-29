@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Innis jedhe, \"Kuusaa haaraa natti fudhadhaa; dheekkessaa isii keessaa kaa'aa.\" Isaanis isaaf fudhataniiru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Innis jedhe"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "fudhadhaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "Kuusaa"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "kaa'aa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isii keessaa"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "dheekkessaa"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "Isaanis fudhataniiru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T08:22:25.060904031Z",
+  "model": "glm-5.3"
+}

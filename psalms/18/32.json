@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Sabiin, eenyummiin Elooha Yahwe ala jiru? Fi eenyu dabboo — Eloohiim keenya ala?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabiin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu(mmiin)"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "fi eenyu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dabboo"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "isa ala"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:59.732098738Z",
+  "model": "glm-5.3"
+}

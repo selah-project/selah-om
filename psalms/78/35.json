@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Eloohiim dhagaa isaaniiti, Eel Oltaa fee'an isaaniiti akka yaadaniisan gorfatan ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "gorfatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "dhagaa isaaniiti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Olt"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "fee'an isaaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:19.890245630Z",
+  "model": "glm-5.3"
+}

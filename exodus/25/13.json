@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Bololi mukaa shittii tolchita; isaan dahabbiin waan maruu dandeessisu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "tolchita"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bololi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukaa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittii"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "waan maruu dandeessisu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bololota (isaan)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabbiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:29.864322927Z",
+  "model": "glm-5.3"
+}

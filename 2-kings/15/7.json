@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Azarjaah abbootiisa wajjin hir'ate; abbootiisa wajjin magaalaa Daawid keessatti kal'aniif; Yootaam ilmaan isaa inni bakka isaa bu'ee mootummaa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hir'ate"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootiisa"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kal'aniif"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootiisa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yootaam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "bakka isaa bu'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:53:41.746523091Z",
+  "model": "glm-5.3"
+}

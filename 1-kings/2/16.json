@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "\"Ammoo kadhannaa tokko si irraa ⟨את⟩ kadha; fuula ko hin deebiisin.\" Isheenis \"Dubbadhu\" jette.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kadhannaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kadha"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "si irraa ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "deebiisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula koo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula koo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "isheenis jette"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:01:53.622820333Z",
+  "model": "glm-5.3"
+}

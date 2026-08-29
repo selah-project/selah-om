@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Gosa Yihuudaa filate, ⟨את⟩ gaarregaa Tsiyoon inni jaalate.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "filate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gosa Yihuudaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaarregaa Tsiyoon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarregaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inni"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jaalate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:15.603396156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Bulchiisaaf, irratti Ayeelet ha-Shaajar, mizmoora Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulchiisaaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayeelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shaajar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:24.281453165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Ishee Elazaar ogeessa qalbiiitti kennituun; inni ⟨את⟩ ishee ala kampaanii baasee, fuula isaa duratti ⟨את⟩ ishee qalchisuun (in jenna).",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "kennituun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (fardaa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti (Elazaar)"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ogeessa qalbii"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "baasee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (fardaa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(gara)"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampaa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "qalchisuun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (fardaa)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuula isaa duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:02:10.544103956Z",
+  "model": "glm-5.3"
+}

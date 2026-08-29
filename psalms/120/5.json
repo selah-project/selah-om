@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 120,
+  "translation": "Balaa natti, waan Mesheekiin dhiyyoo jiraadheef, waan teentoota Keedaar wajjin wajjin jiraadheef!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Balaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "dhiyyoo jiraadheef"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Mesheekiin"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "wajjin jiraadheef"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "teentoota"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Keedaar"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:47.689914613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Kan dheerinaa irratti irritii qabu loltuu caalmaa ⟨qaba⟩; kan waana isaatiin too'atu magaalaa qabatu caalmaa ⟨qaba⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "caalmaa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerinaa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "irritii"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "loltuu"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "too'atu"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "waana isaatiin"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "qabatu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:54.592375711Z",
+  "model": "glm-5.3"
+}

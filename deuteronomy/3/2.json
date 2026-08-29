@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe natti jedhe: Isaa hin sodaadhu, sababa harkaa keetti naa kenneera jira ⟨את⟩ isaa, fi ⟨את⟩ ummata isaa hunduu, fi ⟨את⟩ biyyi isaa; isaaf akka waan Sihoon, mooticha Amorootaa, Hiishboon keessatti jiraatu isaaf taasitettti, akkasuma taasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sodaadhu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaa",
+      "marks": "isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harkaa keetti"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "naa kenneera jira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaa",
+      "marks": "isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ummata isaa hunduu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "biyyi isaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyyi isaa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "taasi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka waan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "taasitettti"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Hiishboon keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:33:50.368427557Z",
+  "model": "glm-5.3"
+}

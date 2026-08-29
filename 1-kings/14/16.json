@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Israa'el ⟨את⟩ kennu, sababaan balleessotaa Yarobeam kan balleesseefi kan Israa'el balleessiseef.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "balleessotaa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "balleesseef"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "balleessiseef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:28.889034569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Fedhii kee raawwachuuf jaaladhe, Eloohiim kiyya; Tooraa kee garaa kiyya keessatti.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuuf"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "fedhii kee"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jaaladhe"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Tooraa kee"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "garaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:36.921044948Z",
+  "model": "glm-5.3"
+}

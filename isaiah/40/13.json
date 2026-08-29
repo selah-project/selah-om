@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Eenyummaan ruuhicha Yahwe miccireera? Namni miira isaa isa beeksise?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyummaan"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "miccireera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuhicha Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "miira isaa"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "isa beeksise"
+    }
+  ],
+  "timestamp": "2026-08-29T09:06:40.250789193Z",
+  "model": "glm-5.3"
+}

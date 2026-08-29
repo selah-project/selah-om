@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Meeqqummaan kee meeqqumma yeroo hunda ti, seeraan kee dhugaa ti.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "meeqqummaan kee"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "meeqqumma"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "seeraan kee"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:20.750986131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Kan biyyoota leellisu, akkaan hin qoratuu mitii? Kan namummaan beekamsa barsiisu, ⟨akkaan hin beekuu mitii⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "kan biyyoota leellisu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyoota"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akkaan hin... mitii"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qoratuu"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "kan namummaan beekamsa barsiisu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namummaan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekamsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.088586849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Daawidis jedhe: \"Yahwe, Eloohiim Israa'eel, adaan kee dhugumaa dhageessee jira; Sha'uul gara Ke'eeila seeni gaarrees guutuuf anaaf seenuuf barbaada.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhugumaa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adaan kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanta"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "barbaada"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "seeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'eeila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "guutuuf"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "gaarrees"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "anaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T07:33:22.686388758Z",
+  "model": "glm-5.3"
+}

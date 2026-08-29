@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ifa inni mul'isu irraa, gubaa ibiddaa gubaniifan.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ifa inni mul'isu irraa"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "inni mul'isu"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "gubaniifan"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "gubaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:58:48.512744488Z",
+  "model": "glm-5.3"
+}

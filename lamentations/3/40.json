@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Hafee karaa keenya haa barbaadnu, haa qorannu, haa deebifnu gara Yahwe.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "haa barbaadnu"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "karaa keenya"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "fi haa qorannu"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "fi haa deebifnu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:33:14.915828828Z",
+  "model": "glm-5.3"
+}

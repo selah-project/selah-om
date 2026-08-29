@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mana bojjii maleeyukkisaa haa ga'u malee, isaan waliin taa'ee nyaachuu fi dhuguuf ⟨את⟩ hin seetu.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "bojjii maleeyukkisaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "seetu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "taa'ee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nyaachuu fi dhuguuf"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nyaachuu"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "fi dhuguuf"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:56.794111932Z",
+  "model": "glm-5.3"
+}

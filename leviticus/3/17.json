@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Seera olaamaa dhuma hin qabne dhumatti dhirtii keessaniiti, teessoo keessan hunda keessatti: chaacha hunda fi dhiiga hunda hin nyaachinaa.",
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "olaamaa dhuma hin qabne"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "dhumatti dhirtii keessanii"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "teessoo keessan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "chaacha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaachinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:27.426003600Z",
+  "model": "glm-5.3"
+}

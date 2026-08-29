@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Sanitti geessa Daawid ni bulbulseesa; Maashiyaak kooof ifa qopheesseera.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Sanitti"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ni bulbulseesa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "geessa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawidif"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "qopheesseera"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "Maashiyaak kooof"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:07.753785751Z",
+  "model": "glm-5.3"
+}

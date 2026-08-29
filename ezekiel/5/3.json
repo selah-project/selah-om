@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Achumaa irraa immoo mura xiqqaa lakkoofsaa fudhadu, daangelee (karmii) kee keessaa isaan hidhi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fudhadu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achumaa irraa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mura xiqqaa"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "lakkoofsaa"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "hidhi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mura xiqqaa sana"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "daangelee kee keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:05:43.741666665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Ammas natti, Yahwe, sababa rakkinni natti dhufe; ija koo, lubbuu koo fi gadhhessa koo duubaa dhabanii.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ammas natti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "rakkinni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "dhabanii"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "duubaa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija koo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "fi gadhhessa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:31.592930466Z",
+  "model": "glm-5.3"
+}

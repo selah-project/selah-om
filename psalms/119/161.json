@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Mootonni miidhutti jaamaa nan si qooddachaa jira, sararaan garuu onnee ti tiinaa kee ti.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "nan si qooddachaa jira"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "miidhutti"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "sararaan kees ti"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tiinaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:11.250221143Z",
+  "model": "glm-5.3"
+}

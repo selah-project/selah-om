@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Mootichi isheetti, “Maal si haa ta'u?” jedhe; isheenis deebitee, “Dhugumatti, ani dubartii hawwattuu; dhiira koo du'e” jedhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "deebitee jedhi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "hawwattuu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "dhiira koo"
+    }
+  ],
+  "timestamp": "2026-08-29T07:51:50.682602418Z",
+  "model": "glm-5.3"
+}

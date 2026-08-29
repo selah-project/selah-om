@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Kanaafuu akka samiiwwan lafa irraa ol ta'an, akkasumas karaawwan kiyya karaawwan keessan irraa ol ta'u, fi yaadannoon kiyya yaadannoo keessan irraa ol ta'a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaafuu"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ol ta'an"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lafa irraa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ol ta'u"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaawwan kiyya"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "karaawwan keessan irraa"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "fi yaadannoon kiyya"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "yaadannoo keessan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:16:37.250412119Z",
+  "model": "glm-5.3"
+}

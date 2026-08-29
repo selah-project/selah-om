@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Akkuma sanaa nakamuu hin eeyyamu yeroo qoodduwwan kee hunda ilaallu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkuma sanaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nakamuu hin eeyyamu"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "yeroo ilaallu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "qoodduwwan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:32.563378465Z",
+  "model": "glm-5.3"
+}

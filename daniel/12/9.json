@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Innis ni jedhe: Deemi, Daani'el; jechoonni cufamanii mallatteeffamanii ⟨hundi⟩ hanga yeroo dhumaatti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Deemi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daani'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "cufamanii"
+    },
+    {
+      "surface": "וַחֲתֻמִים",
+      "gloss": "mallatteeffamanii"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "dhumaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:12:04.762950052Z",
+  "model": "glm-5.3"
+}

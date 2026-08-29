@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Ya'qoob, natti dhageessi; Israa'eelis, waamtuu kiyya; Ani Inni; Ani jalqabaa; akkasumas Ani boodaa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qoob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'eelis"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "waamtuu kiyya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "jalqabaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "boodaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:10:00.187492950Z",
+  "model": "glm-5.3"
+}

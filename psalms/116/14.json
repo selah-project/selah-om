@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Kakuuwan koo Yahweef nan guuta — duraa hoo, ummata isaa hundumaaf.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "kakuuwan koo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nan guuta"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hoo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundumaaf"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummata isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:39.577892531Z",
+  "model": "glm-5.3"
+}

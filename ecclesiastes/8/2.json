@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ani ⟨ Gorsaa ⟩: afaan mootichaa eegi, sababa kakuu Eloohiimtti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sababatti"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "waan"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimtti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:04.032389153Z",
+  "model": "glm-5.3"
+}

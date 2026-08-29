@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 126,
+  "translation": "Hiikkaa: Faarsa ol-ka'aa. Yahwe yeroo deebisuu ⟨את⟩ deebii Tsiyyon, akka barfamtootaa taanuu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "faarsa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ol-ka'aa"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "yeroo deebisuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deebii Tsiyyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "taanuu"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "akka barfamtootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:28.265902718Z",
+  "model": "glm-5.3"
+}

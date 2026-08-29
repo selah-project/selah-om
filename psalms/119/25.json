@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Nafiilki rukuttaa eebana akka jecha keeti natti godhi.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "rukutta"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "eebana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafiilki"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "natti godhi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akka jecha keeti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:10.194813904Z",
+  "model": "glm-5.3"
+}

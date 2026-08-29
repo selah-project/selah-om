@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Isaanii hunda tokkoon Foo gadeessa fi boontoota dha; waan isaan barsiisan hawaa-hawaa qofa — muka Foo dha.",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "tokkoon Foo"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "gadeessa"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "boontoota dha"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "waan isaan barsiisan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hawaa-hawaa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Foo dha"
+    }
+  ],
+  "timestamp": "2026-08-29T09:28:19.036541243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Maal dabalataa waan ani hojjedhu koorma kiyyaaf, ani isa keessatti hin hojjedhu? Maaf, innaa ooluu eegadhe, inni immoo innaa dukessa oole?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalataa"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "koorma kiyyaaf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhu (ani)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessatti"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maaf"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "eegadhe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ooluu"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "innaa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "oole"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "innaa dukessa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:48:05.790335452Z",
+  "model": "glm-5.3"
+}

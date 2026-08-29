@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani isheeitti jedhe: guyyaa hedduu anaaf teessa; sharmuuttaa hin raawwadhu, namatti hin taatu; aniis akka ati.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheeitti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hedduu"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "teessa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "raawwadhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "taatu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namatti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akka ati"
+    }
+  ],
+  "timestamp": "2026-08-29T15:18:44.838854475Z",
+  "model": "glm-5.3"
+}

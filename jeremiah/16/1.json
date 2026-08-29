@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Jechi Yahwe gara kooti dhufee naan jedhe:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kooti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "naan jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:37.315210363Z",
+  "model": "glm-5.3"
+}

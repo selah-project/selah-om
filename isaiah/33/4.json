@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Boonti keessan walitti qabamte; akka walitti qabdu raammii dibame; akka dhaabbata goroogoroo irratti dheddheeru.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "walitti qabamte"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "boonti keessan"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "walitti qabdu"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "raammii dibame"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "akka dhaabbata"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "goroogoroo"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "dheeru irratti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:14.647944494Z",
+  "model": "glm-5.3"
+}

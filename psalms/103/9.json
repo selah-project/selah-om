@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Yeroo hundaaf hin mormu, aaccabbii isaa yeroo dheeraa hin eega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo hundaaf"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "mormu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo dheeraa"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "aaccabbii…eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:16.092349611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Aharooniifi ⟨את⟩ ilmaan isaatis ati tajaajilaa seera isaanii ilaaltuu; alagaa dhiyaatu ise rasaasa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ilaaltuu"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "seera isaanii eega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "humna tajaajila isaanii"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "humna tajaajila isaanii"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "alagaa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dhiyaatu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ise rasaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:41.418567501Z",
+  "model": "glm-5.3"
+}

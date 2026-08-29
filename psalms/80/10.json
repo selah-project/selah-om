@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Fuulduratti isheedhaaf bal'ina godde; xurree isheetti qabuudhaan xurreeffate, laacha guute.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "bal'ina godde"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "fuulduratti isheedhaaf"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "xurreeffate"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "xurree isheetti"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "laacha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:22.274627762Z",
+  "model": "glm-5.3"
+}

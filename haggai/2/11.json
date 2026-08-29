@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Akka kanas jedhe Yahwe Tzeva'ot: seera waliin ⟨את⟩ abbaltotaamatti gaafadhu, akkas jedhu:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzeva'ot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "gaafadhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yoo dandeessan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaltota"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abbaltota"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "seera"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:01:31.236542654Z",
+  "model": "glm-5.3"
+}

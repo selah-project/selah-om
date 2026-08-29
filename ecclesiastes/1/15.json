@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Waanti curree ta'e sirreeffamuu hin danda'u; waanti puutus lakkaa'amu hin danda'u.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "waanti curree ta'e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "sirreeffamuu"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "waanti puutu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "danda'u"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "lakkaa'amu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:13.995308229Z",
+  "model": "glm-5.3"
+}

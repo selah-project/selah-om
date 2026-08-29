@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Abdiin isheetti dhufuuf dafee, akkas jedhe: \"Maaloo naa bulchi bishaan xiqqaa eega kee irraa.\"",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dafee"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "abdiin"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "isheetti dhufuuf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "naa bulchi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "eega kee irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:43.290912593Z",
+  "model": "glm-5.3"
+}

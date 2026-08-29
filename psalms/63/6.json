@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Akka dibataa fi dhiituu ⟨dha⟩ sanyii koo ni dhoowwattu; fi lafa fakkaacha gammachuu kan miila keenya faarsa.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "dibataa"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "fi dhiituu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ni dhoowwattu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sanyii koo"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "fi miila keenya"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "fakkaacha gammachuu"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "faarsa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:32.719472006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yoo qurbaan kee gumaacha bikkaa irratti adhaanamu ta'e, midhaan dhiiqaa zayitaatiin makamee maatsaa ta'a.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "gumaacha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "bikkaa"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "qurbaan kee"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "midhaan dhiiqaa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "makamee"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "zayitaatiin"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "maatsaa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:10.662198350Z",
+  "model": "glm-5.3"
+}

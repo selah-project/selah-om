@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yeroo san Nuti hubachiisa balaammoo isaa keessatti isaan dubbiisa; {iyyaaddoo hamaa isaa keessattis isaan ciniiniisa.}}",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Yeroo san"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "isaan dubbiisa"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "hubachiisa balaammoo isaa keessatti"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "balaammoo isaa keessatti"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "iyyaaddoo hamaa isaa keessattis"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "isaan ciniiniisa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:09.336190880Z",
+  "model": "glm-5.3"
+}

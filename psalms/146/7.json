@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Kan murtii miidhamtootaa godhu, kan soorata beellamtootaa kennu; Yahwe hidhtootaa bana.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "miidhamtootaaaf"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "soorata"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "beellamtootaaaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "hidhtootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:56.425512466Z",
+  "model": "glm-5.3"
+}

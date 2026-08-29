@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Arpaksadis ⟨את⟩ Shelach dhalche; Shelachiis ⟨את⟩ Eber dhalche.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpaksadis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Shelachiis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:27.137515966Z",
+  "model": "glm-5.3"
+}

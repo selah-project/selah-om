@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 76,
+  "translation": "Atumti, atumti kan sodaatamtuudha; akkasumas eenyu si duratti dhaabbachuu danda'a erga aarsaan kee bifaate?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "atumti"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kan sodaatamtuudha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "atumti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "akkasumas eenyu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dhaabbachuu danda'a"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "si duratti"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "erga"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "aarsaan kee bifaate"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:21.126363771Z",
+  "model": "glm-5.3"
+}

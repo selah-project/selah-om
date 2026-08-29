@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 70,
+  "translation": "Eloohiim, na baraaraa; Yahwe, gargaaraa koof saffisu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "na baraaraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "gargaaraa koof"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "saffisu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:16.525880183Z",
+  "model": "glm-5.3"
+}

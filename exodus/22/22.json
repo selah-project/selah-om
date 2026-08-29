@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo rakkisuu rakkisitan ⟨את⟩ isa — waan yee gurraacha gurraachaa isa gara Kiyya, ani dhageessee dhagaadha gurraaccha isa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "rakkisuu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "rakkisitan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yee"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "gurraacha"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "gurraachaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara Kiyya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessee"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dhagaadha"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "gurraaccha isa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:30.273334174Z",
+  "model": "glm-5.3"
+}

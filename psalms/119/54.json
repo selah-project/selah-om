@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Seeraan kee gosoota sirbootaa [[todo:]] mootummaa naannoo koo ta'an.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "gosoota sirbootaa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naannoo koo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Seeraan kee"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "naannoo koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:58.967504941Z",
+  "model": "glm-5.3"
+}

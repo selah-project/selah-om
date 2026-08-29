@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Lafa hundi Yahweef iyyaa; ho'iidhaan boolladhaa, gammaddaa, siraa.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "iyyaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Lafa"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ho'iidhaan boolladhaa"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "gammaddaa"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "siraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:36.173694128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Siiquun lubbuu kiyya hawwii tiif ajajoota kee hunda yeroo hunda.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "siiquun (cuftee)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyya"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "hawwii tiif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...tti"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "murtiwwan kee (ajajoota)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda... yeroo hunda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:53.502226925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Adeemsaan gatiin ilmaan Israa'iel hundi fuula Moshee irraa ba'an.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gatiin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fuula ... irraa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:04.135628675Z",
+  "model": "glm-5.3"
+}

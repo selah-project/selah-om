@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Ati fuuldura kiyya gabatee maxxansiifatteessa fuullaa warra aarii koo; dhadhaan mataa koo dibdeettaa; kooppaan koo ni echa.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "maxxansiifatteessa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura kiyya"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuullaa"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "warra aarii koo"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "dibdeettaa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dhadhaan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa koo"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kooppaan koo"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "ni echa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:16.455405029Z",
+  "model": "glm-5.3"
+}

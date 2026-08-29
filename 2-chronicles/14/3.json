@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yihuudaatti akka ⟨את⟩ Yahwe, Eloohiim abbootii isaanii, barbaadaniifii seeraa fi ajaja hojjetan jedheen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedheen"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yihuudaatti"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "barbaadaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "abbootii isaanii"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "fi hojjetan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "seeraa"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "fi ajaja"
+    }
+  ],
+  "timestamp": "2026-08-29T13:57:00.746259036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Naxor immoo erga Toorra ⟨את⟩ horomsee booda waggaa soddoma-torba tokko fi dhibba tokko jiraate; ilmaan fi daa'iman horomsese.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga... booda"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "horomsee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toorra"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Toorra"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "soddoma-torba tokko"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "fi dhibba tokko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "horomsese"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "daa'iman"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:32.519490195Z",
+  "model": "glm-5.3"
+}

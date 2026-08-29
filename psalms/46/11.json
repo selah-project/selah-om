@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Dhiiga, fi beekaakis akka Ani Eloohiim; Ana sabaa keessatti ol qaqqabu, Ana lafa irratti ol qaqqabu.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Dhiiga"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "fi beekaakis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ol qaqqabu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sabaa keessatti"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ol qaqqabu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:58.438953708Z",
+  "model": "glm-5.3"
+}

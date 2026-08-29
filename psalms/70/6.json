@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 70,
+  "translation": "Ani garuu hiikkaa fi mindaa dha; Eloohiim, naa godaansi! Ati deggersa kiyya fi naa-baati kiyya; Yahwe, hin dhiifrin!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ani garuu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi mindaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "naa godaansi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "deggersa kiyya"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "fi naa-baati kiyya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "dhiifrin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:07.869432876Z",
+  "model": "glm-5.3"
+}

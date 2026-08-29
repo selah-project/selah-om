@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Fi Daawit ⟨את⟩ onnee namoota Yihuudaa hunda akka namtokkootti gaddise; mootichas erganii jedhan: 'Ati deebii' fi gabroommaan kee hundaan.'",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "gaddise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee namoota Yihuudaa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "akka namtokko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "erganii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebii'"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabroommaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:57:43.435888517Z",
+  "model": "glm-5.3"
+}

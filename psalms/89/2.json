@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "kheesed Yahwe yeroo hunda waan laulu; durtii fi durtii irratti amantii kee afaan koo beeksisa.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waan laalu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii irratti"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "fi durtii"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "beeksisa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amantii kee"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:47.802972171Z",
+  "model": "glm-5.3"
+}

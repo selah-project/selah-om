@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Sirrii ta'uu qabuudhaan Yahwe daawaa isaa hunda keessatti, kan kheesed immoo hojii isaa hunda keessatti.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "sirrii ta'uu qabuudhaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "daawaa isaa"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "kan kheesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hojii isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:33.057692629Z",
+  "model": "glm-5.3"
+}

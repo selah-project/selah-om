@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Israa'el immimsee'e, waanti manni teenti ol-ta'aa gara Miigdaal-Eederti.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "immimsee'e"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "waanti manni teenti"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "manni"
+    },
+    {
+      "surface": "מֵהָלְאָה",
+      "gloss": "ol-ta'aa"
+    },
+    {
+      "surface": "לְמִגְדַּל",
+      "gloss": "Miigdaal"
+    },
+    {
+      "surface": "עֵדֶר",
+      "gloss": "Eeder"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:14.827015053Z",
+  "model": "glm-5.3"
+}

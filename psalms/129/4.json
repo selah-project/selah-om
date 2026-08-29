@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 129,
+  "translation": "Yahwe ⟨is⟩ abbaa-mirkoo; hidda moocheffattootaa baafate jira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "abbaa-mirkoo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "baafate jira"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "hidda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "moocheffattootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:28.332971901Z",
+  "model": "glm-5.3"
+}

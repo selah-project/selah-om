@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ati dhokata koo ⟨ti⟩; miira irraa n eegita; gilgilaa bahaati na marsita. Seelaa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "dhokata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "koo"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "miira irraa"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "n eegita"
+    },
+    {
+      "surface": "רני",
+      "gloss": "gilgilaa"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "bahaati"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "na marsita"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:04.095632528Z",
+  "model": "glm-5.3"
+}

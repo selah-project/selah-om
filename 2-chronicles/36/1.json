@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Afaan biyyaatti Yihoo'achaz ilma Yooshiyaah fudhatanii, abbaa isaa bakka bu'ee Yerushaalayim irratti mootummoota isa himamsiisan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yihoo'achaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yihoo'achaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yooshiyaah"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "mootummoota isa himamsiisan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakka bu'ee"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T14:11:28.784197369Z",
+  "model": "glm-5.3"
+}

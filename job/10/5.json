@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Guyyaan kee akka guyyoota nama du'aati? Waggeewan kee akka guyyoota namcaa?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "akka guyyoota"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nama du'aa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "guyyaan kee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "waggeewan kee"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "akka guyyoota"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "namcaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:19:45.820402844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 146,
+  "translation": "Kan samiiwwanii fi lafa, ⟨את⟩ bishaanii fi ⟨את⟩ waan hunda isaan keessa jiru uume; kan dhugaa dhaaduma eegu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "uume"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "fi lafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaanii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bishaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda isaan keessa jiru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan keessa"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "egu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dhaaduma"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:56.425371350Z",
+  "model": "glm-5.3"
+}

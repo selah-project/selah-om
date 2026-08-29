@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Garuu isa lafaa lubbuu isaa — dhiiga isaa — nyaadhuu jedhuu hin nyaatanu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "isa lafaa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "lubbuu isaa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiiga isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaatanu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:49.813767955Z",
+  "model": "glm-5.3"
+}

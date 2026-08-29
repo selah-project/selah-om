@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Eloohiim kheesed kiyya natti dursee arga; Eloohiim diinaan kiyya nan argisiisa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed kiyya"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "natti dursee arga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "nan argisiisa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "diinaan kiyya keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:54.657892174Z",
+  "model": "glm-5.3"
+}

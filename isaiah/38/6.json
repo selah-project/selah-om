@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Mootii Asshuur harka irraas si baafadha, ⟨את⟩ magaalaa kanaas; magaalaa kana irrattis eeggadha.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "harka irraas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshuur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "si baafadha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magaalaa kana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa kana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "eeggadha"
+    },
+    {
+      "surface": "על",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa kana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:12.417367426Z",
+  "model": "glm-5.3"
+}

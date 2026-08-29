@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Deemu kee tarkaanfiin kee hin dhiphatu; fiigdu yoo taate, hin kufu.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "deemu kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dhiphatu"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "tarkaanfiin kee"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "fiigdu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "kufu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:57.090795644Z",
+  "model": "glm-5.3"
+}

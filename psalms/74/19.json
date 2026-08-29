@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Nafaa turiyaa kee nama boreensii hin kennitu; nafaa waan gaddaa kee yeroo hunda hin dagatin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kennitu"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "nama boreensii"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafaa"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "turiyaa kee"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nafaa"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "waan gaddaa kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dagatin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:27.683459783Z",
+  "model": "glm-5.3"
+}

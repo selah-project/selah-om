@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Isaanis akka jechaa kanaatti ana biraatti baatayyuu afur erganii; aniis isaan deebise ⟨את⟩ jechaa akka jechaa kanaatti.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "erganii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ana biraatti"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jechaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaatti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "baatayyuu"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "isaan deebise"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jechaa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jechaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:22:12.155929129Z",
+  "model": "glm-5.3"
+}

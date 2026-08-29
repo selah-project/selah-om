@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Eloohiimnis bahaan ol ka'abuutti guyyaa itti aanutti tolchee qopheesse; innis ⟨את⟩ qiqaayyoon rukute; qiqaayyoonis hogogde.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "qopheesse"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiimnis"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolchee"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ol ka'abuutti"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "bahaan"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "guyyaa itti aanutti"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqaayyoon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqaayyoon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "hogogde"
+    }
+  ],
+  "timestamp": "2026-08-29T10:55:11.239031706Z",
+  "model": "glm-5.3"
+}

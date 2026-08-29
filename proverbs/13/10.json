@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Gadi fageenyi waan hundaan qofa wal-diddagua kenna; garuu ⟨את⟩ warra gorgortan wajjin hirmaannaan argama.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "waan hundaan qofa"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "gadi fageenyi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "wal-diddagua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warra gorgortan"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "warra gorgortan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hirmaannaan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:51.345637489Z",
+  "model": "glm-5.3"
+}

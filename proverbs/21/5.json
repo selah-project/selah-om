@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yaadannoon hojjataa gamnaa qofa bahatiif; kan hunda saffisu ammoo qofa hiyyummaatiif.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "yaadannoon"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "hojjataa gamnaa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "bahatiif"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kan hunda"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "saffisu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "hiyyummaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:37.532964877Z",
+  "model": "glm-5.3"
+}

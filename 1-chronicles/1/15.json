@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "fi ⟨את⟩ Hiivii, fi ⟨את⟩ Arkii, fi ⟨את⟩ Siinii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Hiivii"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiivii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Arkii"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Siinii"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Siinii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:09.268110176Z",
+  "model": "glm-5.3"
+}

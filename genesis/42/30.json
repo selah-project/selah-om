@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "«Namichi, abbaa biyyaa, nu ⟨את⟩ waliin kaarcaa dubbate; nu akka nama-dhaddachaa biyyatti godhee ⟨את⟩ biyya nu qorate.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyaa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "nu ⟨את⟩ waliin"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kaarcaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nu godhee"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nu"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "akka nama-dhaddachaa biyyatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T04:50:37.360491093Z",
+  "model": "glm-5.3"
+}

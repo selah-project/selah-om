@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Nebusaradanis abbaan ajaa'rabaa ⟨את⟩ isaan fudhatee ⟨את⟩ isaan gara mootii Baabilon, Riblilaatti geessise.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebusaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ajaa'rabaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "geessise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilon"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblilaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:43:14.058631191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Sababni isaas isa hojjattoota hojiichaaaf kennu; fi isaan ⟨הם⟩ isa fayyadachuun ⟨את⟩ mana Yahwe dandamsiisan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababni isaas"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "hojjattoota"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "hojiichaa"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "dandamsiisan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:05.402520216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 98,
+  "translation": "Mizmor. Yahweef siruu haaraa laalaa, sababa inni yaadachiisaa hin qabne raawwate; harki mirgaa Isaa fi Hudhaa qulqullaa Isaa badhaasa Isaaf tolche.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "laalaa (siruu)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "siruu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "yaadachiisaa hin qabne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "raawwate"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "badhaasa tolche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaaf"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "harki mirgaa Isaa"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "fi Hudhaa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qulqullaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:36.173262473Z",
+  "model": "glm-5.3"
+}

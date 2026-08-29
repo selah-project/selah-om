@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Yeroo saboonni walitti qabaman, mootummooninis — Yahwe ⟨את⟩ tajaajiluuf.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "yeroo... walitti qabaman"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboonni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "walitti (tokkoon)"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "mootummooninis"
+    },
+    {
+      "surface": "לעבod",
+      "gloss": "tajaajiluuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:56.758524766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Garuu guyyaa qaamni jiru isa keessatti mul'atu, inni qulqullaa hin taane.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "mul'atu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessatti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "qaamni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiru"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "qulqullaa hin taane"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:17.574535279Z",
+  "model": "glm-5.3"
+}

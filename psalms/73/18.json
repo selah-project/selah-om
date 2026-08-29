@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Dhugumatti bakka lola'aa irratti isaan dhiyaattaa, balleettii irratti isaan kufsisaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "bakka lola'aa irratti"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "dhiyaattaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "kufsisaa"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "balleettii irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:04.426981077Z",
+  "model": "glm-5.3"
+}

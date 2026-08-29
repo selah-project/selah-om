@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Yisraa'els immoo, Maalatti raawwattan waa badaa ta'e naaf, maaloo namicha akka obboleessa isinii jiru hubachiiftaniiti jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "immoo jedhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'els"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maalatti"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "raawwattan waa badaa ta'e naaf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "hubachiiftaniiti"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "namicha akka"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinii"
+    },
+    {
+      "surface": "אח",
+      "gloss": "obboleessa isinii jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:49.877214379Z",
+  "model": "glm-5.3"
+}

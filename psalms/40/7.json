@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Qoraa fi kennaa hin barbaadde; gurra lama natti bane; olqoraa fi qoraa-baddaa hin gaafanne.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qoraa"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "fi kennaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "barbaadde"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "gurra lama"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "bane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "olqoraa"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "fi qoraa-baddaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "gaafanne"
+    }
+  ],
+  "timestamp": "2026-08-29T15:59:37.118072140Z",
+  "model": "glm-5.3"
+}

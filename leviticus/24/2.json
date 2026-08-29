@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "\"Ijoollee Israa'elitti ajaji; siif ol-oluu dhiyeessa meeshaa zayitaa qulqulloo (riqqaa) kan hafuura baafatame, ifaaf, lampii yeroo hunda baasuu ilaallatuuf.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ajaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoollee Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijoollee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dhiyeessu (siif ol-oluu)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "meeshaa (zayitaa)"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "זך",
+      "gloss": "qulqulloo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "baafatame (riqqaa)"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ifaaf"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "baasuu ilaallatuuf"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampii"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:07.800926665Z",
+  "model": "glm-5.3"
+}

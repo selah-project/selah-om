@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Kunoo ijoollee koo, ajaja abbaa kee eegi, seera haadhaa keetis hin dhiisi.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kunoo ijoollee koo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "dhiisi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadhaa keetis"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:19.181660813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Gababajjootan duraa bobbaani, naa'as-tumtuu onneeffattootan duuba; giddu galeessaa dargaggoota sirluu-tumtuu calchee turaniiru.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "duraa bobbaani"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "gababajjootan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "naa'as-tumtuu onneeffattootan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giddu galeessaa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "dargaggoota"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "sirluu-tumtuu calchee turaniiru"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:26.166527637Z",
+  "model": "glm-5.3"
+}

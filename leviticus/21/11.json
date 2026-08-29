@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Du'aa hunda birsatti hin dhiyaatu; abbaa isaaf fi haadha isaaf immoo hin qulqullummaa-niwwa'u.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "birsatti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "Du'aa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dhiyaatu"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "abbaa isaaf"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "haadha isaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "qulqullummaa-niwwa'u"
+    }
+  ],
+  "timestamp": "2026-08-29T05:43:45.411950659Z",
+  "model": "glm-5.3"
+}

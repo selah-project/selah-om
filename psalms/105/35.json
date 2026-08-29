@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Hunda marga biyya isaanii ni baafate; fidaa lafa isaanii ammas ni baafate.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "ni baafate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hunda"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "marga"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "biyya isaanii"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ammas ni baafate"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fidaa"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "lafa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:48.043316582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Kakattiin isaanii isaanii kenneef; magariisa lubbuu isaanii keessatti erges.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kenneef"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "kakattiin isaanii"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "erges"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "magariisa"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "lubbuu isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:26.038684585Z",
+  "model": "glm-5.3"
+}

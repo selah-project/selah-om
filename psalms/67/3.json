@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 67,
+  "translation": "Karaan Ke lafa irratti haa beekamu, badannaan Ke saboota hunda biratti haa beekamu.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "haa beekamu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Karaan Ke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "badannaan Ke"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:36.892495665Z",
+  "model": "glm-5.3"
+}

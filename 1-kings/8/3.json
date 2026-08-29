@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ilma-dheedhiin Israa'eel hundi dhufan, kahiinonniis sanduqa ⟨את⟩ kaasan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ilma-dheedhiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kaasan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahiinonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduqa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduqa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:24.902127630Z",
+  "model": "glm-5.3"
+}

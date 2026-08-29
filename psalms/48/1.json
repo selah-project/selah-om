@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Faarsa shimuu-qopheessaa kan ilmaan Qoraakh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "shimuu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "faarsa qopheessaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kan ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraakh"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.274386861Z",
+  "model": "glm-5.3"
+}

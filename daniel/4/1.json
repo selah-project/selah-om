@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ani Nebukadnetsar tasgabbii baha jira ture mana keessatti, fi jaalacha baha jirau waarara keessatti.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "tasgabbii baha jira ture"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ture"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "mana keessatti"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "fi jaalacha baha jiraau"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "waarara keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:00:17.706422132Z",
+  "model": "glm-5.3"
+}

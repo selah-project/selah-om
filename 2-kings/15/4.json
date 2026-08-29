@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Garuu iddoonni ol-ancaa hin haqamne; ummatni iddoo ol-ancaa keessatti cusheetummaa fi q'urnaa hojjedhuu ture.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "iddoonni ol-ancaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "haqamne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ture"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatni"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "cusheetummaa hojjedhuu"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "fi q'urnaa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "iddoo ol-ancaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:32:11.849195795Z",
+  "model": "glm-5.3"
+}

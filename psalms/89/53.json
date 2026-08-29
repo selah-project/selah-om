@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Faarfamu Yahwe yeroo hunda malee, Ameen — akkasumas Ameen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Faarfamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda malee"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "akkasumas Ameen"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:45.960026661Z",
+  "model": "glm-5.3"
+}

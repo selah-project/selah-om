@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Zebul, mootummaa magaalaa sanaa, jechoota Gaal ilma Ebed dhagaye; aarrii isa'a gubate.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mootummaa magaalaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa sanaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota Gaal ilma Ebed"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "gubate"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "aarrii isa'a"
+    }
+  ],
+  "timestamp": "2026-08-29T07:06:26.860040149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ilmichi guddatee hidhutti ga'eera; Abraamis guyyaa Yitsaaq ⟨את⟩ wean-ka'eetti ayyaana guddaa godhe.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "guddatee"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmichi"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "hidhutti ga'eera"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraamis"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ayyaana dhugaatii"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "wean-ka'eetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaaq"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:38.936346853Z",
+  "model": "glm-5.3"
+}

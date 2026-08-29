@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Hojii foollyoota isa gaddisa; sababiin isaas magaalatti deemu hin beeku.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "foollyoota"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "isa gaddisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:31.317330756Z",
+  "model": "glm-5.3"
+}

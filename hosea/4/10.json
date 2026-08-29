@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ni nyaatu hoo hin qabbanyu; zinaa hojjatu hoo hin baay'atu; sababa kanaas Yahwe ⟨את⟩ dhiisan, eeeguu dhiisan.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ni nyaatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hoo miti"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "hin qabbanyu"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zinaa hojjatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hoo miti"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "hin baay'atu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa kanaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dhiisan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eeeguu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:50.187694489Z",
+  "model": "glm-5.3"
+}

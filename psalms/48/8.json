@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Briiwwan Tarshiishi qabxii bahaatiin ‹Ati› caccabessa.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "qabxii"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "bahaatiin"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "caccabessa"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "briiwwan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshiishi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:01.870790629Z",
+  "model": "glm-5.3"
+}

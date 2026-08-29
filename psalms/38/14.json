@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Anis akka dhugaa hin dhagahinee ta'e; akka mutaa ilaalanis afaan isaa hin banaa ti.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Anis"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "akka dhugaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dhagahinee"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "akka mutaa ilaalanis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:06.192069312Z",
+  "model": "glm-5.3"
+}

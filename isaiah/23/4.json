@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Saarrisaa, Tsiidoon, sababa galaanni jedhe, dhaabbata galaanaa, akka jedhu: An hin dhibamne, hin horre, dargaggoota hin guddisne, intaltota hin ol-qabne.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Saarrisaa"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiidoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "galaanni"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "הים",
+      "gloss": "galaanaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "dhibamne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "horre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "guddisne"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "dargaggoota"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ol-qabne"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "intaltota"
+    }
+  ],
+  "timestamp": "2026-08-29T08:57:21.957465797Z",
+  "model": "glm-5.3"
+}

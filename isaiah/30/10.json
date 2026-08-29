@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Kan argittootaaniif 'Hin arginaa,' kan arga-si'aattootaaniifis 'Nu hin si'ainaa; sirrii nu hin himinaa, mijeechaa nutti dubbachaa, gowwumsa natti si'aadaa' jedhan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "argittootaaniif"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "arginaa"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "arga-si'aattootaaniifis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "si'ainaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "himinaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "mijeechaa"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "si'aadaa"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "gowwumsa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:59:12.446001091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Yerushaalaym wajjin ⟨את⟩ simachaa, jaalattotni ishee hundi ishee wajjin gammaddaa; ishee wajjin ⟨את⟩ gammachuu shoora, gaddattootni isheetti hundi.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "simachaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalaym"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "gammaddaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee wajjin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "jaalattotni ishee"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "shoora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ishee wajjin ⟨את⟩"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "gaddattootni isheetti"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "isheetti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:00:39.909860633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Dhiira biraatti dhufe; \"Naa lolchi, maaloo\" jedhe. Dhiirri sun lolche, lolchaas isa dhibbes.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiira"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biraa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "naa lolchi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "lolche"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dhiirri"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lolcha"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "dhibbes"
+    }
+  ],
+  "timestamp": "2026-08-29T08:20:59.081669279Z",
+  "model": "glm-5.3"
+}

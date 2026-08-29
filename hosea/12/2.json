@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Efrayim rukuttaa hedduu, rukuttaa kaaddimaas hordofsa; guyyaa guutuu kijibba fi midhaa baay'isa; Ashur wajjin kakuu godhu; zaytaanis Mitsraayim geessifama.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hedduu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rukuttaa"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "hordofsa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "rukuttaa kaaddimaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gutti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kijibba"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "midhaa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "baay'isa"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "zaytaanis"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "geessifama"
+    }
+  ],
+  "timestamp": "2026-08-29T10:41:29.694091274Z",
+  "model": "glm-5.3"
+}

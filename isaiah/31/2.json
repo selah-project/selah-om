@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Akkasumas inni ogeessa, hamtuu fide, jechoota isaa ⟨את⟩ hin deebifne; mana dogongortootaa irratti fi gargaarsa hojjatootaa hamtuu irratti ka'a.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeessa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "fide"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota isaa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jechoota isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "deebifne"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ka'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dogongortootaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irratti"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "gargaarsa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjatootaa"
+    },
+    {
+      "surface": "און",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:02:08.292119639Z",
+  "model": "glm-5.3"
+}

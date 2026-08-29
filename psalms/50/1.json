@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Faarsa Asaafiitiif. Eel, Eloohiim, Yahwe ni dubbate; lafatti waama, ka'umsa aduu irraa gara galgala isheetiitti.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaafiitiif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni dubbate"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafatti"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ka'umsa ... irraa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara ... tiitti"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "galgala isheetiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:55.561274424Z",
+  "model": "glm-5.3"
+}

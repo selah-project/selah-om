@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Garuu ⟨את⟩ mootummaa guutuu hin baqoosu; korma tokko ilma keettiif nan kenna — Daawit gabaykaa kiyyaaf, akkasumas Yerushaalayimiif, waan anan filuuf.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootummaa guutuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "baqoosu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "korma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nan kenna"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ilma keettiif"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gabaykaa kiyya"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "akkasumas sababaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "anan filu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:11:54.714571581Z",
+  "model": "glm-5.3"
+}

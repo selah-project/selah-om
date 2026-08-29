@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Eloohiim, yeroo ummata kee fuuldura baatu, yeroo baddadarratti lakkoofsa deemu — Seelaa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "yeroo ... baatu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "yeroo ... deemu"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "baddadarratti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:07.996829020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 26:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Fi isaan jalarratti wal-fakkaatanii qabu, fi mataa isaa irratti gara maarkiza tokkotti walitti guutuu ta'u; lamaanuu akkasuma; gad-duddota lamaaniifis isaan ta'u.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "fi ... ta'u qabu"
+    },
+    {
+      "surface": "תאמים",
+      "gloss": "wal-fakkaatanii"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "jalarratti"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "walitti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u qabu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "maarkizichaa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tokkotti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "lamaanuu"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "המקצעת",
+      "gloss": "gad-duddota"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:27.327652106Z",
+  "model": "glm-5.3"
+}

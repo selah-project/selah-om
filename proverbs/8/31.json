@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Tebaala lafa isaa irratti taphachaa ture; jaalalli kiyya immoo ⟨את⟩ ilmaan namootaa waliin ture.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "taphachaa ture"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "tebaala…irratti"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lafa isaa"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "jaalalli kiyya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan namootaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:42.090064512Z",
+  "model": "glm-5.3"
+}

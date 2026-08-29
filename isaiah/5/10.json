@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sababiin isaas, tirii wainii kudhan baa'iyyaa tokko hojjetu; sanyii hoomeera tokko iifaa tokko hojeta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "tirii"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "wainii"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "baa'iyyaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "fi sanyii"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "hoomeera"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojeta"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "iifaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:55.544298588Z",
+  "model": "glm-5.3"
+}

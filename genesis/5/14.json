@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Guyyoonni keenanan hunda waggaa kudhanii fi torba dhibba ta'e; du'e.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoonni"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "keenanan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhanii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "fi torba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:51.353874785Z",
+  "model": "glm-5.3"
+}

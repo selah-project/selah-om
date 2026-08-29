@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 142,
+  "translation": "Yaadannoo kiyya fuuldura Isaatti dhangamsa; rakkinni kiyya fuuldura Isaatti ibsa.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "dhangamsa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuuldura Isaatti"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "yaadannoo kiyya"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "rakkinni kiyya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuuldura Isaatti"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ibsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:19.784879686Z",
+  "model": "glm-5.3"
+}

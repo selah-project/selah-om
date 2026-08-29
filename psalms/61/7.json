@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Guyyoota mootii guyyaawwaniirratti dabalisi; waggootni isaa akka dhalootaa fi dhalootaa haa ta'u.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyaawwan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "dabalisi"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "waggootni isaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "dhalootaa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "fi dhalootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:39.083177229Z",
+  "model": "glm-5.3"
+}

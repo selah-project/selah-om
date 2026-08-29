@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Gara gadii Kiidoonii yoo ga'an, Uzzaa harka isaatti ergu ⟨את⟩ sanduuqa qabuuf, sababaa loonni rifachiifaman.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ga'an"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gadii"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kiidoonii"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ergu"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzzaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaatti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaatti"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "qabuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "rifachiifaman"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lonni"
+    }
+  ],
+  "timestamp": "2026-08-29T13:37:25.503220936Z",
+  "model": "glm-5.3"
+}

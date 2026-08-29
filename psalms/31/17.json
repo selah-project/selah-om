@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Facciin kee akka ifu godhi gabbeessa keeffi; kheesed kee keessatti na godhi baraaraa.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "godhi akka ifu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "facciin kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "...keeffi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbeessa kee"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "na godhi baraaraa"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "kheesed kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:16.749264756Z",
+  "model": "glm-5.3"
+}

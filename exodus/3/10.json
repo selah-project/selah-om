@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Amma immoo kootti; ani si ergadha gara Fir'awniitti, sabni koo, ilmaan Israa'el, ⟨את⟩ Mitsraayimiirraa baafi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma immoo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kootti"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ani si ergadha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "baafi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabni koo, ilmaan Israa'el"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabni koo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayimiirraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:15.350539289Z",
+  "model": "glm-5.3"
+}

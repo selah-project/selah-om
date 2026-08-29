@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Yahwe kan kufan hunda deeggara, kan dugdubatan hunda ni bahaasa.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "deeggara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "kan kufan"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ni bahaasa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "kan dugdubatan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:01.463220298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Garuu firii mukaa kan gamicha keessaa giddu jiru irraa, Eloohiim akka isaa hin nyaatanu, isaa hin taasinus, akka duutaniif malee je'e.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "garuu firii irraa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mukaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giddu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gamichaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je'e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaatanu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "taasinu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akka...malee"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "duutani"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:45.607937982Z",
+  "model": "glm-5.3"
+}

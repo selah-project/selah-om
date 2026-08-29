@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Isin na waamitu, deemtu, ana irratti kadhattu; ani isin dhaggeessa.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Isin na waamitu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na",
+      "marks": "waamitu (na)"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "deemtu"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "kadhattu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ana irratti"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ani dhaggeessa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isin"
+    }
+  ],
+  "timestamp": "2026-08-29T15:08:20.918251777Z",
+  "model": "glm-5.3"
+}

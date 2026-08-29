@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Ani dhageenye ⟨את⟩ waan raajjessitootni raajjessitoota maakoo isa keenya jechuun「kan biro miti, kana」— hiikkaa: waan raajjessitootni raajjefan raajjessaan maqaa koo soba jechuun「Ani riyaan jedhe, ani riyaan jedhe」ni jedhan.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ani dhageenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "raajjessitootni"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "raajjessan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "maqaa koo keessatti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "soba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jechuun"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ani riyaan jedhe"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ani riyaan jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:06:31.009747061Z",
+  "model": "glm-5.3"
+}

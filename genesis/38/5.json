@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Akkasumas dabaltee akkasumas ilma tokko dhalatte, maqaa isaa Sheelaa jedhiiti waamte; yoo inni Keezib turre, yoo inni dhalatte waan isaa.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "dabaltee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma tokko"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waamte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Sheelaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yoo inni turre"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Keezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "yoo inni dhalatte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:25.965962419Z",
+  "model": "glm-5.3"
+}

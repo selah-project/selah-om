@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 124,
+  "translation": "Faarsa ol-ol'aa kan Daawid. Yahwe yoo nuuf hin taane, akkana jedha Israa'el:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ol-ol'aa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "yoo hin taane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "akkana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:36.382636972Z",
+  "model": "glm-5.3"
+}

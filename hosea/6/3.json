@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Ni beellaa, hordofnee beekuuf Yahwe ⟨את⟩; akka biftu galgala kan mul'atu baha isaa; akka roobbi nutti dhufa, akka malqoo yeroo xumuraa lafa bishaan itti roobu.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Ni beellaa"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "hordofnee"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "beekuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "akka biftu galgala"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kan mul'atu"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "baha isaa"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "akka roobbi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nutti"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "akka malqoo yeroo xumuraa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "bishaan itti roobu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:36:46.851239461Z",
+  "model": "glm-5.3"
+}

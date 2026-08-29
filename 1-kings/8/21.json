@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Achitti bakka sanduuqaaf dhaaben, achittis kakuu Yahwe kan jiru, kakuu inni abbootii keenya wajjin, yeroo inni ⟨את⟩ isaan biyya Mitsraayim irraa bahe, uume.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "dhaaben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sanduuqaaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achittis"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uume"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abbootii keenya"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "yeroo inni bahe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T08:09:42.098866973Z",
+  "model": "glm-5.3"
+}

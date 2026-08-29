@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Onnee qulqulluu Eloohiim, natti uumi; ruuhicha sirrii keessa koo haaromsi.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Onnee"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "qulqulluu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "uumi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruuhicha"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sirrii"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaromsi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "keessa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:00.726440757Z",
+  "model": "glm-5.3"
+}

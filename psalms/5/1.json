@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Dhiyoo [ajajicha qabiyyee] irratti, akka Nechiilototii, mizmoori Daawiid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dhiyoo [ajajicha qabiyyee] irratti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nechiilototii"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:54.618938160Z",
+  "model": "glm-5.3"
+}

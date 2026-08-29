@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Keennaan, Sirrii keenya ni billisina; maqaa kee tiin isa nu narani ni cachifina.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Keennaan"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "Sirrii keenya"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "ni billisina"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "maqaa kee tiin"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "ni cachifina"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "isa nu narani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.623388704Z",
+  "model": "glm-5.3"
+}

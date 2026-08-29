@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Fuuldura digdamii kan mandara keessaa, fi fuuldura daaka rukuttaa kan mandara alaabaa; attiiqaa gara fuuldura attiiqaa, sadarkaa sadii keessa.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "digdamii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "mandara"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "fi fuuldura"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "daaka rukuttaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "mandara"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "alaabaa"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "attiiqaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "attiiqaa"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "sadarkaa sadii keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:31:39.333346973Z",
+  "model": "glm-5.3"
+}

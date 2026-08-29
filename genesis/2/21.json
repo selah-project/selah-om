@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe Eloohiim hingala bosina cimaa adaaman irratti kuffise; innis hirate. Ishii meeqqaa keessaa tokko fudhate, immoo foon iddoo sana itti cufte.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "kuffise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "hingala bosina cimaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adaaman"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "hirate"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "ishii meeqqaa isaa keessaa"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "cufte"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "foon"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "iddoo sana itti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:41.949420095Z",
+  "model": "glm-5.3"
+}

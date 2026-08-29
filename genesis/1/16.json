@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimis ifaawwan lama gurguddoo ⟨את⟩ uume: ifaa guddaa guyyaa bulchuuf, ifaa xiqqaa halkan bulchuufis, kotuuttis ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifaawwan lama gurguddoo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ifaawwan"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "gurguddoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifaa guddaa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ifaa"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "bulchuuf"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ifaa xiqqaa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ifaa"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "xiqqaa"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "bulchuuf"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "kotuuttis"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "kotuuttis"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:28.213160344Z",
+  "model": "glm-5.3"
+}

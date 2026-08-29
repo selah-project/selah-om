@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Huuris ⟨את⟩ Uurii dhalate; Uuriis ⟨את⟩ Betzaleel dhalate.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Huuris"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uurii"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uurii"
+    },
+    {
+      "surface": "ו אורי",
+      "gloss": "Uuriis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betzaleel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzaleel"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:43.748852046Z",
+  "model": "glm-5.3"
+}

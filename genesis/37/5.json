@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yooseef riyya riyye, obboleeyyan isheetti himes; obboleeyyonnis dibamuu dabalaniif, addatti jaamaa turan.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "riyye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooseef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "riyya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "himes"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "obboleeyyan isheetti"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "dabalaniif"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "addatti"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "jaamaa turan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ishee (Yooseef)"
+    }
+  ],
+  "timestamp": "2026-08-29T04:45:22.811117294Z",
+  "model": "glm-5.3"
+}

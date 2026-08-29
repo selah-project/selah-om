@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Keruubii irratti fardee bobba'e; konnee qilleensaa irratti ol-bobba'e.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "fardee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Keruubii"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "bobba'e"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ol-bobba'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "konnee"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "qilleensaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:01.610918516Z",
+  "model": "glm-5.3"
+}

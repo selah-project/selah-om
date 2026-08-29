@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Ilmoo Israa'elitti dubbadhu, isaanitti akkas jedhi: Yeroo biyya ani siniif kennu isheen gadi seetan, biyyi sabbata Yahwef eeggatti.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "akkas jedhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "seetan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "siniif"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "eeggatti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    }
+  ],
+  "timestamp": "2026-08-29T05:45:17.037042961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Akkumas kana booda onnee Yoo'aash waliin ta'ee ture mana ⟨את⟩ Yahwe haaromsiisuuf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Akkumas ta'e"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'ee ture"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoo'aash"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "haaromsiisuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:43:51.419783430Z",
+  "model": "glm-5.3"
+}

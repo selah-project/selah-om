@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Mootichi Aaraam immoo abbootii gaarii warra mootummaa isaa kan inni qabu wajjin ta'an ajajse，akka jedhu: \"Xiqqaa wajjin hin wallittan，guddaa wajjin hin wallittan，Mooticha Israa'el qofa wajjin wallittaa.\"",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Mootichi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aaraam"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbootii gaarii warra mootummaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii gaarii"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "warra mootummaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inni qabu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "wallittan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xiqqaa"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "Xiqqaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guddaa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mooticha Israa'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mooticha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:43:17.985680058Z",
+  "model": "glm-5.3"
+}

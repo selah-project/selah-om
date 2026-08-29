@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Yoo ati hin ergin, hin gaddina; sababiin isaatiis namichi nuutti jedhe, fuula koo hin argitan, mataa obboleessi keessan si waliin ta'ee malee.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ati hin ergin"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hin ergin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "gaddina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaatiis"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namichi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nuutti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "argitan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula koo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "malee"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "obboleessi keessan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ si waliin ta'ee",
+      "marks": "si waliin ta'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:17:49.876957719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Bishoonni gabaa irraa ni bahu; laggeen immoo dhoohu, gogda.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "ni bahu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishoonni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gabaa"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "laggeen immoo"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "dhoohu"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "gogda"
+    }
+  ],
+  "timestamp": "2026-08-29T12:20:58.111976076Z",
+  "model": "glm-5.3"
+}

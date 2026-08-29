@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Hin jedhaninee waan hin jedhan: onneetti isaanii keessatti hin jedhan «Heexee, lubbuu keenya!» hin jedhanis «Isa nee liqimsine!»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin jedhaninee"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hin jedhan"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "onneetti isaanii keessatti"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heexee"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "lubbuu keenya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin jedhanis"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hin jedhan"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Isa nee liqimsine"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:26.122526874Z",
+  "model": "glm-5.3"
+}

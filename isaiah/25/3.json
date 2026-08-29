@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Kanaafuu, ummata cimaa si kabaja; magaalota sanyunoota arrabsitootaa si raggada.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kanaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "si kabaja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "עז",
+      "gloss": "cimaa"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sanyunoota"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "arrabsitootaa"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "si raggada"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:50.744256648Z",
+  "model": "glm-5.3"
+}

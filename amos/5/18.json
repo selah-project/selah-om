@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "amos 5:18",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Badii isin guyyaa Yahwe barbaadan! Maalif guyyaan Yahwe isiniif? Iccitii malee ifaa miti.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "badii"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "isin barbaadan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyyaa Yahwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maalif"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iccitii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "malee"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifaa miti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:50:05.285719584Z",
+  "model": "glm-5.3"
+}

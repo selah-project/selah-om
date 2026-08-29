@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Beelas biyya irratti waame; dheetta bu'a guutuu cabsе.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "beelas"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dheetta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bu'a"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "cabsе"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:51.890425369Z",
+  "model": "glm-5.3"
+}

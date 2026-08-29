@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Bu'aan Sha'uul yeroo Avneer Chebron keessatti du'e dhageefu, harki isaa dadhabde, Yisra'el hundinis sodate.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageefu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bu'aan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneer"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chebron keessatti"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "dadhabde"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harki isaa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisra'el hundinis"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sodate"
+    }
+  ],
+  "timestamp": "2026-08-29T07:46:01.191323605Z",
+  "model": "glm-5.3"
+}

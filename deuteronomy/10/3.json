@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Sanduuqa muka shittim godhe; walduraa lama dhagaa akka duraa buuxse; gar gaara olitti ba'e; walduraawwan lamaan harka koo keessa turan.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "buuxse"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "walduraa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaa"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "akka duraa"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "gar gaara"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lamaan"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "walduraawwan"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "harka koo keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:45.186845990Z",
+  "model": "glm-5.3"
+}

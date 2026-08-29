@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Kadhannaa kan dhibatuu, yeroo dadhabsuu, fuula Yahwe dura yaada isaa dhangamsu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Kadhannaa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kan dhibatuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "dadhabsuu"
+    },
+    {
+      "surface": "וילפני",
+      "gloss": "fuula … dura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "dhangamsu"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "yaada isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:10.928675823Z",
+  "model": "glm-5.3"
+}

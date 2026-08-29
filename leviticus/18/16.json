@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Araddoo niiti obboleessa kee hin mul'isitu — inni <du'a> araddoo obboleessa kee <du'a>.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "araddoo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "niiti"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mul'isitu"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "araddoo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni <du'a>"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:44.383234161Z",
+  "model": "glm-5.3"
+}

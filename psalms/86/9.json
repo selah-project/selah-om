@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Gootni hundi kan uumte ni dhufu, fuulduraa kee suuqanii ffacafu, Adoonaay, maqaa keesinis ulfaadisu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gootni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uumte"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ni dhufu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ffacafu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuulduraa kee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ulfaadisu"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "maqaa keesis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:05.597776458Z",
+  "model": "glm-5.3"
+}

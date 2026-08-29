@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Yahwe kan itti sodaatan ni eebbissa — xiqqoon waliin guddaa.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "ni eebbissa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kan itti sodaatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "xiqqoon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "guddaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:10.449018354Z",
+  "model": "glm-5.3"
+}

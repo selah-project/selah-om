@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Ati beekta ragata koo fi haasa koo fi ejjen koo; fuuldura kee ta'an hundi warra na rakkisan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beekta"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ragata koo"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "fi haasa koo"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "fi ejjen koo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fuuldura kee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "warra na rakkisan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:41.515259183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Gargaarsaaf ilaalan, garuu gargaaraa hin jiru; Yahwetti dabran, garuu isaan hin deebisan.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "gargaarsaaf ilaalan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "garuu hin jiru"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "gargaaraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "isaan deebisan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:59:13.690025547Z",
+  "model": "glm-5.3"
+}

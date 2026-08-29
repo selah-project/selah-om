@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Ani isa keessaa ruuhna kennadha; odoo dhagata; gara biyya isaa deebi'ata; ani immoo maalleen biyya isaa keessatti isa hoo'adha.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "kennadha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessaa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhna"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "dhagata"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "odoo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "deebi'ata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "biyya isaa"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "isa hoo'adha"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "maalleen"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "biyya isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:04:45.052937739Z",
+  "model": "glm-5.3"
+}

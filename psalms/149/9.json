@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 149,
+  "translation": "Isaan irratti murtee barreeffamaa raawwachuuf; kun beeletiinni kan warra jaalala Isaa hundatiiti. Haalali Yaah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuuf"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtee"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "barreeffamaa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "beeletiinni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hunda kan"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "warra jaalala Isaa"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "haalali"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:39.387904311Z",
+  "model": "glm-5.3"
+}

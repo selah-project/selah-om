@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ganama dhibbaa'aanii kan aduun bishaan irratti ba'etti, Moo'aabiin bishaan irratti fageen duraan ⟨את⟩ bishaan akka dhiiga diimaa ta'e argataniiru.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "dhibbaa'aanii"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "aduun"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "ba'etti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "argataniiru"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "fageen duraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "akka dhiiga"
+    }
+  ],
+  "timestamp": "2026-08-29T08:24:26.295318027Z",
+  "model": "glm-5.3"
+}

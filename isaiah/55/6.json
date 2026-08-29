@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Yahwe yeroo inni argamu barbaadadhaa; yeroo inni dhiyoo ta'u isaa waamadhaa.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "barbaadadhaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "yeroo inni argamu"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "isaa waamadhaa"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "yeroo inni"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dhiyoo ta'u"
+    }
+  ],
+  "timestamp": "2026-08-29T09:15:00.093270892Z",
+  "model": "glm-5.3"
+}

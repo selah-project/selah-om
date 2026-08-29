@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 31:52",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Warqeen kennaa ol-kaawaa Isaan Yahwef ol-kaasan hundi 16,750 shiqiloota ture — ⟨את⟩ abbootii kumootaa irraa fi ⟨את⟩ abbootii dhibbootaa irraa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Warqeen"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kennaa ol-kaawaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Isaan"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "ol-kaasan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "…"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "…"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "…"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "…"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "16,750"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shiqiloota"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ … irraa",
+      "marks": "abbootii kumootaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "kumootaa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ … irraa",
+      "marks": "abbootii dhibbootaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "dhibbootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:10:03.048174792Z",
+  "model": "glm-5.3"
+}

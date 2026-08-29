@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Gumsaa ibiddaa kan miidhagaa qabu siif nan-ol-dhiyeessa, foo'annaa hoolaa dhiiraa wajjin; sangota reewwan dhiiraa wajjin nan-godha. Seelaa.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "gumsaa ibiddaa"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "kan miidhagaa qabu"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nan-ol-dhiyeessa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "foo'annaa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "hoolaa dhiiraa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nan-godha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sangota"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "reewwan dhiiraa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:44.518381364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Onneen koo keessatti ni baqqaqi; raggersi duutaa na gadi bu'e.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "onneen koo"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ni baqqaqi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "keessatti (koo)"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "raggersi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "duutaa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "na gadi bu'e"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irra koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:37.584591999Z",
+  "model": "glm-5.3"
+}

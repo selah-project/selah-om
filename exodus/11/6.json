@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Guddaan qeeqa biyya Mitsraayim hunda keessatti ta'a, akka isaas maaltu nan habaamuu hin turre, akkasuma akka isaas itti aanan hin taatu.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "qeeqa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka isaas"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "akkuma isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "turre"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "akkasuma akka isaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "taatu itti aanan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:23.251970375Z",
+  "model": "glm-5.3"
+}

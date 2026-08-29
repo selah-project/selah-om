@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Bultichi Aadoonaay ⟨את⟩ maraattii sana ilaala, ⟨את⟩ maraattii sana guutuu torban guutuu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ilaala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "bultichi Aadoonaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maraattii sana"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maraattii sana"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maraattii sana"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "maraattii sana"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guutuu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:01.952848443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Hangam dhumaa Yahwe natti dagattaa? Hangam fuula kee ⟨את⟩ ana irraa dhokattaa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangam"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hangam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "natti dagattaa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "dhumaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hangam"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hangam"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "dhokattaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuula kee"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ana irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:12.174695756Z",
+  "model": "glm-5.3"
+}

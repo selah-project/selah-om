@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Yoo isaan ajjeesee, Isa barbaadanii; deebi'anii Eelitti haa-barbaadanii deeman.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "isaan ajjeesee"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "Isa barbaadanii"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "deebi'anii"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "haa-barbaadanii deeman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eelitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:19.890138891Z",
+  "model": "glm-5.3"
+}

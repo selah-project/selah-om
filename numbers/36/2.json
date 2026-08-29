@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Dubbatan: \"Adoonaay kiyya, Yahween ⟨את⟩ biyya dhaalaatti goorsa qooduun ilmaan Yisraa'elitti akka kennitu ajaje; Adoonaay kiyyas Yahween ajajamee ⟨את⟩ dhaala obboleessa keenya Tselophchaad ilmaan dhiiraa isaa akka kennitu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dubbatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoonaay kiyya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akka kennitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "dhaalaatti"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "goorsa qooduun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'elitti"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adoonaay kiyyas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajamee"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akka kennitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaala obboleessa keenya Tselophchaad"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselophchaad"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "obboleessa keenya"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "ilmaan dhiiraa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:58.215758654Z",
+  "model": "glm-5.3"
+}

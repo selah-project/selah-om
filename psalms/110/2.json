@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 110,
+  "translation": "Miila-citii humna kee Yahwe Tsiyoon irraa erga; \"Diyyoota kee keessatti bulchi.\"",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "miila-citii"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "erga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyoon irraa"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "bulchi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diyyoota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:03.361120679Z",
+  "model": "glm-5.3"
+}

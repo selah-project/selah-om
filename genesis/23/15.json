@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "\"Adoonaay kiyya, na dhagayaa: biyyi sheekiila afur mi'aawe — ana gidduu jiru kee maal ta'ee? Du'a keetiis ⟨את⟩ awwaali.\"",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay kiyya"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "na dhagayaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyyi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sheekiila"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ana gidduu"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "kee"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta'ee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "du'a keeti"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "du'a keeti"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "awwaali"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:09.168635456Z",
+  "model": "glm-5.3"
+}

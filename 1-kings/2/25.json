@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mootichi Shelomoonis harka Benaayaa ilma Yehooyaadaa'n erges; innis ⟨isa⟩ tuqe, innis du'e.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erges"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoon"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harkaan"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benaayaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehooyaadaa"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "tuqe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T08:03:38.255046554Z",
+  "model": "glm-5.3"
+}

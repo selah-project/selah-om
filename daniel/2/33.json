@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Mila isaa sibiila, cida isaa immoo bifa tokko sibiila, bifa tokko immoo walkitta.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "mila isaa"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "sibiila"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "cida isaa"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "bifa tokko"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "sibiila"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "bifa tokko immoo"
+    },
+    {
+      "surface": "די",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "walkitta"
+    }
+  ],
+  "timestamp": "2026-08-29T13:00:28.045955829Z",
+  "model": "glm-5.3"
+}

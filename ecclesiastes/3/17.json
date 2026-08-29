@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani kennaa koo onnee koo keessatti jenne: Eloohiim ⟨את⟩ kennaa-dhugaa fi ⟨את⟩ yakkaa ni murtessisa; sababiniis yeroon hawaasha hundaafifi hojii hundaaf jira.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "jenne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "onnee koo keessatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennaa-dhugaa"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "kennaa-dhugaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "yakkaa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yakkaa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ni murtessisa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiniis"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaafif"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hawaasha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi...rra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jira"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:38.252680615Z",
+  "model": "glm-5.3"
+}

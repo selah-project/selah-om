@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Daawid Sha'uul lubbuu isaa barbaachuuf ba'e arge; Daawid immoo manda Ziif keessatti, Hoorshaa keessa ture.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "barbaachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubbuu isaa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawid immoo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "manda keessatti"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Hoorshaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:58.160326032Z",
+  "model": "glm-5.3"
+}

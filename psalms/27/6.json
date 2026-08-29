@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Amma mataan kiyyoo ol qabama irra diinaa kiyyoo, naannoo kiyyoo; tentii Isaa keessatti gatoonni dinqisiifannoo geessessa; waanhee, waanhee qoosissa Yahwef.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ol qabama"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataan kiyyoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "diinaa kiyyoo"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "naannoo kiyyoo"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "geessessa"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "tentii Isaa keessatti"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "gatoonni"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "dinqisiifannoo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waanhee"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "waanhee qoosissa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:18.432087539Z",
+  "model": "glm-5.3"
+}

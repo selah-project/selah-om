@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Fedhii kee raawwachuuf na barsiisi, sababa Ati Eloohiim kiyya taateef; Rookeen kee tola, lafa qajeelaa irratti na qajeelcha.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "na barsiisi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raawwachuuf"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "fedhii kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Rookeen kee"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tola"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "na qajeelcha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "qajeelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:11.572809007Z",
+  "model": "glm-5.3"
+}

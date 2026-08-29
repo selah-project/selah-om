@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "⟨את⟩ Yahwe kabajsi qabeenya kee irraa, akkasumas bu’aa midhaga kee hunda duraa irraa.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "kabajsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "qabeenya kee irraa"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "akkasumas duraa irraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "bu’aa midhaga kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:09.283368942Z",
+  "model": "glm-5.3"
+}

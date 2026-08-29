@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe fuulla isaa si irratti haa ol-qabaatu, siif haa nagaa qabaatu",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "haa ol-qabaatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuulla isaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "haa qabaatu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:08.301349101Z",
+  "model": "glm-5.3"
+}

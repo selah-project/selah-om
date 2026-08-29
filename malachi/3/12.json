@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sabniwwan hundi ⟨את⟩ isin 'eebbamtoota' ni jedhu; sababni isin biyya jaalatamaa taatanii, jedhe Yahwe Tseva'ot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "'eebbamtoota' ni jedhu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sabniwwan hundi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sabniwwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "taatanii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jaalatamaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:06.679283732Z",
+  "model": "glm-5.3"
+}

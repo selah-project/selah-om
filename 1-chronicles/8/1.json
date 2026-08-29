@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Binyamiinis ⟨את⟩ Belaa injifannoo isaa dhuge; Ashbel lammaffaa, Aharah sadaffaa.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamiinis"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhuge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belaa"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belaa"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "injifannoo isaa"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sadaffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:16.247048117Z",
+  "model": "glm-5.3"
+}

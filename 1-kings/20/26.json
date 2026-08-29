@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Yeroo deebii waggaa ta'e, Been-Hadad ⟨את⟩ Araam lakkoofesse, Aafeekaa ol ba'e, Israa'el waliin waraanaaf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "lakkoofesse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Been"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Araam"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Aafeekaa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "waraanaaf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T08:21:25.590669552Z",
+  "model": "glm-5.3"
+}

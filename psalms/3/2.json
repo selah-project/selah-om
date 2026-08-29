@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe, maal baay'ani diinnoota kiyya! Baay'een isaanii kiishatti ka'u.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "baay'ani"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "diinnoota kiyya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baay'een isaanii"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ka'u"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kiishatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:06.834287316Z",
+  "model": "glm-5.3"
+}

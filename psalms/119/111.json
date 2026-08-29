@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ragaa Ke dhaalmoodaa yeroo hundaatiif fudhadhe; sababas gammacha onnee kiyya isaaniiti.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "dhaalmoodaa fudhadhe"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ragaa Ke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hundaatiif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababas"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gammacha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:16.291609393Z",
+  "model": "glm-5.3"
+}

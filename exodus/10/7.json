@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Gabroonni Paaroo'is immoo akkas jedhan: 'Yeroo dheeraaf kuni nuuf maal waan sassaabuu? Namoota hafuura baafadhu, Yahwe Waaqa isaaniitiin akka gabbaru haa bayyan. Mitsraayim badee jirtuu akkamii akka hin beekne har'as beektaa?'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Gabroonni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paaroo'is"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Yeroo dheeraaf"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "sassaabuu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hafuura baafadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "gabbaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Waaqa isaaniitiin"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "har'as"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "beektaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkamii akka"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "badee jirtuu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:12.629758203Z",
+  "model": "glm-5.3"
+}

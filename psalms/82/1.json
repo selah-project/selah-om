@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 82,
+  "translation": "Mizmoora kan Aasaafiti. Eloohiim agdii Eel keessatti dhaabbata; waldaa Eloohiim keessatti murtii godhaa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoora"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kan Aasaafiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "agdii keessatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "waldaa keessatti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "murtii godhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:27.886191953Z",
+  "model": "glm-5.3"
+}

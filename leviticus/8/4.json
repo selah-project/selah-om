@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mosheen akka Yahwe ⟨את⟩ isa ajajetti hojjete; gamaddamnis gara bala gojoo walga'ii walitti qabamte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "walitti qabamte"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gamaddamni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "gojoo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:33:16.560240464Z",
+  "model": "glm-5.3"
+}

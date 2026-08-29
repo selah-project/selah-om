@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Akka jedhe: 「Yaa Yahwe, kan kenneesaa koositi!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akka jedhe"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "kan kenneesaa koositi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "adabboo koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:59.939272452Z",
+  "model": "glm-5.3"
+}

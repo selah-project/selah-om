@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sabichis Shamuu'eeliin jedhe: «Saawuul nu irratti akka moota jechuun eenyu jedhe? Namoota san kennaa, isaan ajjeefanna.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabichis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Shamuu'eeliin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'eel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saawuul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "akka moota"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota san"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ajjeefanna"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:01.779033096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Fi ⟨את⟩ muummee shaashaannee, fi ⟨את⟩ miila-muumee warra shaashaannee, fi ⟨את⟩ shaloo baadii shaashaannee lalisaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "muummee shaashaannee"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "muummee"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shaashaannee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "miila-muumee warra shaashaannee"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "miila-muumee (moggaasa)"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "warra"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shaashaannee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "shaloo baadii shaashaannee lalisaa"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "shaloo"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "baadii"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shaashaannee"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "lalisaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:32.328062605Z",
+  "model": "glm-5.3"
+}

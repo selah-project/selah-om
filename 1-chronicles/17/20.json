@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yahwe, akka sii ta'e hin qabu; Eloohiim si alatti kan hin qabne, waan hunduma gurra keenyaan dhaggeeffanne keessatti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akka sii ta'e"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kan hin qabnes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "si alatti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waan hunduma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…keessatti"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "dhaggeeffanne"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "gurra keenyaan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:40:05.074594850Z",
+  "model": "glm-5.3"
+}

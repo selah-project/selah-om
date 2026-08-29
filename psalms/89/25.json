@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Amantaa kiyyaas fi kheesed kiyya isaa wajjin ta'u; maqaa kiyya keessattis qarree isaa ni olkaawwamu.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "amantaa kiyyaas"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "kheesed kiyyaas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaa wajjin"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "maqaa kiyya keessattis"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ni olkaawwamu"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "qarree isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.903124077Z",
+  "model": "glm-5.3"
+}

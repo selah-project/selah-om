@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Mootichiis Eesteriif sarbaawa warqee ⟨את⟩ dhiyeesse. Esteris kaattee mooticha dura dhaabbatti.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mootichiis"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Eesteriif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarbaawa warqee"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "sarbaawa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "kaattee"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteris"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dhaabbatti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:58:27.255071310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Yoo samii ol-baadhe, siin jirta; yoo She'ool keessatti sirna rafaa tolfadhe, dhugaa, siin jirta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ol-baadhe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siin jirta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "siin jirta"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "sirna rafaa tolfadhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'ool"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "dhugaa, siin jirta"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.279367519Z",
+  "model": "glm-5.3"
+}

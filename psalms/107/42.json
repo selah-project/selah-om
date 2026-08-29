@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Sirrioonni ni argu, ni gammaddu; dogoggorri hundi afaan isheeti cufte.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ni argu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sirrioonni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ni gammaddu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "dogoggorri"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "cufte"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afaan isheeti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:34.588069327Z",
+  "model": "glm-5.3"
+}

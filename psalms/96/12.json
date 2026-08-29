@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 96,
+  "translation": "Beeroonni boosatu, isaa keessaa waan hundi malee; yeroo san mukoonni bosonaa hundi siggaddhaan.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "boosatu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "beeroonni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi malee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaa keessaa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "yeroo san"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "siggaddhaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mukoonni"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bosonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:23.188302939Z",
+  "model": "glm-5.3"
+}

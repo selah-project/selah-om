@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Muraan lafee koo keessatti addaaryoonni koo na gatanii kabaja naa haqan; guyyaa guyyaan naan jedhu: Eloohiim keet eessa jira?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "muraan"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "lafee koo keessatti"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "na gatanii kabaja naa haqan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "addaaryoonni koo"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "jedhuudhaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa guyyaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "eessa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim keet"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:21.460965167Z",
+  "model": "glm-5.3"
+}

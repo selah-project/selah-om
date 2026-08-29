@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Yoo deebi'uu dachii kana keessa jiraattanii, ani ⟨את⟩ isin ijjessa, hin balleessu; ⟨את⟩ isin maddaarsa, hin hawwaadhu; sababa hamtuu waan ani isin irratti hojjedheef dhiifama.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebi'uu"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "jiraattanii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii...keessa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ijjessa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "balleessu"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "maddaarsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "hawwaadhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "dhiifama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isin irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:55:52.299218449Z",
+  "model": "glm-5.3"
+}

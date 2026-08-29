@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hojii hodhaa isaa gara mataa isaa ni deebi'a, badii-dhiigaa isaa immoo qubee mataa isaa irratti ni bu'a.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ni deebi'a"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "hojii hodhaa isaa"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mataa isaa irratti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "immoo irratti"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "qubee mataa isaa"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "badii-dhiigaa isaa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ni bu'a"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:41.887678799Z",
+  "model": "glm-5.3"
+}

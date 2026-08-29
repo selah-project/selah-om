@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Obadaayaa gaafa Achabaab wal qunnamsiisuuf deeme, isaa akka himu; Achabaabis gaafa Eliyyaay wal qunnamsiisuuf deeme.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadaayaa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gaafa wal qunnamsiisuuf"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabaab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "isaa akka himu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Achabaabis deeme"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabaab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gaafa wal qunnamsiisuuf"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyyaay"
+    }
+  ],
+  "timestamp": "2026-08-29T08:18:32.974235841Z",
+  "model": "glm-5.3"
+}

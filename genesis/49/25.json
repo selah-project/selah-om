@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Eel abbee keetiin si gargaara, Shaddaayis ⟨את⟩ si eebbessa — eebbissa samiiwwanii irraa gubbaa, eebbissa gaduuwwaa jalaa ciccifaman, eebbissa dheddii fi mooraa.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Eel irraa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbee kee"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "si gargaara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddaay"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaay"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "si eebbessa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "eebbissa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwanii"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa gubbaa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "eebbissa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "gaduuwwaa"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "cicciftu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalaa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "eebbissa"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "dheddii"
+    },
+    {
+      "surface": "וירחם",
+      "gloss": "mooraa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:56:35.726135306Z",
+  "model": "glm-5.3"
+}

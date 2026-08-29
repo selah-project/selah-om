@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hiika keessatti hin dhaaquine akka arraa'aa; sababiin arraan mindii sobbawwan keessatti ni hafa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "dhaaquine"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "hiika keessatti"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "akka arraa'aa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "arraan"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "mindii"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sobbawwan"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ni hafa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:43.672615722Z",
+  "model": "glm-5.3"
+}

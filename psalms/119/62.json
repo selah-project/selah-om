@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Halchalii halkanii ni kaka'aa siif galata galchuuf, muuxannawwan sirrii ta'an kee irratti.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "halchalii halkanii"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ni kaka'aa"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "galata galchuuf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "muuxannawwan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sirrii ta'an kee"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:19.016552133Z",
+  "model": "glm-5.3"
+}

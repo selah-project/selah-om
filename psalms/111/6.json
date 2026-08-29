@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Humna hojii Isaa umatta Isaatiif mul'ise, dhaala biyyootaa isaanitti akka kennuuf.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Humna"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hojii Isaa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "mul'ise"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umatta Isaatiif"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akka kennuuf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyyootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:52.378203848Z",
+  "model": "glm-5.3"
+}

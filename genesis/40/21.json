@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Deebisesus ⟨את⟩ sa'a dheeffattootaa hojii dheeffannoo isaa irratti, finjeeles Paaroon harka ga'e.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebisesus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa'a dheeffattootaa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dheeffattootaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "hojii dheeffannoo isaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "finjeeles"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "finjeelee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כף",
+      "gloss": "harka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paaroon"
+    }
+  ],
+  "timestamp": "2026-08-29T04:46:27.559431035Z",
+  "model": "glm-5.3"
+}

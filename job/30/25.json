@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Sila kan guyyi isaa rakkisaa qabuuf hin sin'iinne? Nafkoonni kiyya hiyyeef addaan baate.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "sin'iinne"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "kan guyyi isaa rakkisaa qabuuf"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyi"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "addaan baate"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafkoonni kiyya"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "hiyyeef"
+    }
+  ],
+  "timestamp": "2026-08-29T12:29:38.650006456Z",
+  "model": "glm-5.3"
+}

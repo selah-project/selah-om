@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Daawidis Sha'uulin jedhe: \"Maalif jechoota namootaa ⟨את⟩ naa dhageessaa, 'Daawid rakko (hamtu) siitti barbaada' jedhanii?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sha'uuliif"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maalif"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dhageessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoota namootaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "'Isumaa' \/ ilaali"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "barbaada"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "rakko (hamtu) siitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:43.806367493Z",
+  "model": "glm-5.3"
+}

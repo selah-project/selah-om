@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimiin raajii Samiiwwanii jedhee moggaase. Galgala ta'e, ganama ta'e — guyyaa lammaffaa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "moggaase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raajii"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Samiiwwanii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Galgala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lammaffaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:30.204097916Z",
+  "model": "glm-5.3"
+}

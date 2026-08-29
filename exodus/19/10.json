@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Yahweenis Mosheetti jedhe: \"Sabaattiga'a; guyya haraa fi beeraboota isaani qulqulleessi, isaanis uffata isaanii haa dhiqatanu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheetti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaatti"
+    },
+    {
+      "surface": "ויקדשתם",
+      "gloss": "qulqulleessi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyya haraa"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "beeraboota isaani"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "haa dhiqatanu"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "uffata isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:19:56.289481148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Sibiida abbiroota nan nyaachuu? Dhiiga reettotas nan dhugaa?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "nan nyaachuu?"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sibiida"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "abbiroota"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "reettotas"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "nan dhugaa?"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:40.026901563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Qayiin ⟨את⟩ niitii isaa beekate; inni humna qabatee ⟨את⟩ Chenok dumessitee dhalatte. Qayiin mootummaa iyyu gatate, maqaa mootummaa sanaas akka maqaa ilma isaa Chenok jedhe.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "beekate"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niitii isaa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "niitii isaa"
+    },
+    {
+      "surface": "וותהר",
+      "gloss": "humna qabatee"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chenok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chenok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gatate"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mootummaa iyyu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mootummaa sanaa"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "akka maqaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isaa"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chenok"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:49.891961471Z",
+  "model": "glm-5.3"
+}

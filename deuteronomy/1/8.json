@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilaali — biyya ⟨את⟩ isin dura kaa'adheeru. Seenan biyya ⟨את⟩ qabadhaa, biyya Yahwe abbooti keessanitti — Avrahaam, Yits'aaq fi Ya'aqob — isaaniifi sanyii isaaniitiif isaani booda isa kennuuf imaamseera.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kaa'adheeru"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "isin dura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Seenan"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "qabadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "imaamseera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "abbooti keessanitti"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yits'aaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "akkasumas Ya'aqob"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kennuuf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "akkasumas sanyii isaaniitiif"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "isaani booda"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:25.546853005Z",
+  "model": "glm-5.3"
+}

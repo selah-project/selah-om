@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Sababa kanaaf dhiibni ⟨את⟩ abbaa isaa fi ⟨את⟩ haadha isaa dhiisa, haadha manaa isaa waliin dhoksata; isaan lachuu fuudhan tokko ta'u.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "dhiisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dhiibni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa isaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haadha isaa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "dhoksata"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "haadha manaa isaa waliin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "isaan lachuu ta'u"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "fuudhan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:41.950797659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 23:19",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Isheen ⟨את⟩ har'maacha ishee baay'ifti, yaadachuuf ⟨את⟩ guyyoota dargaggummaa ishee, yeroo biyya Mitsraayim keessatti har'maachaa ture.",
+  "tokens": [
+    {
+      "surface": "ותרבה",
+      "gloss": "baay'ifti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "har'maacha ishee"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "har'maacha ishee"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yaadachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyyoota dargaggummaa ishee"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "dargaggummaa ishee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "har'maachaa ture"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya…keessatti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T10:18:37.109996336Z",
+  "model": "glm-5.3"
+}

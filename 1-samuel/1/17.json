@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eliinis deebi'ee jedhe: Nagaa ta'i; Eloohiim Israa'el ⟨את⟩ kadhannoo kee kan Isaarraa kadadhe sii haa kennu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebi'ee"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ta'i"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "haa kennu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadhannoo kee"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "kadhannoo kee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kadadhe"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "Isaarraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:15:37.746581675Z",
+  "model": "glm-5.3"
+}

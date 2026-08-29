@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Sagalee aarsa kee hin dagatin; chinnaa kaawwan kee yeroo hunda ol kenna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dagatin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Sagalee"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "aarsa kee"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "chinnaa"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "kaawwan kee"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ol kenna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:30.362957522Z",
+  "model": "glm-5.3"
+}

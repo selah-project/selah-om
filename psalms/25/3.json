@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Akkaasumas, kan si eegatan hundinuu hin nebbaramu; kan dogoggoman yoo homaa miti immoo ni nebbaramu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akkaasumas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "kan si eegatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "nebbaramu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ni nebbaramu"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "kan dogoggoman"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "yoo homaa miti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:29.389509900Z",
+  "model": "glm-5.3"
+}

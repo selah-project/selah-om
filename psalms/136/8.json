@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "⟨את⟩ aduu guddina guyyaatti: kiyaa Ol kheesedi isaa ti.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "guddina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiyaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "Ol"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedi isaa ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:12.494089353Z",
+  "model": "glm-5.3"
+}

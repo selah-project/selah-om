@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 111,
+  "translation": "Beekumsa jalqaba sodaa Yahwee dha; hojjattootaa isaas hundaaf sassaaboo gaarii; faarfannoo isaas bara samii haa ta'u.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sodaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "sassaaboo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hundaaf"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "hojjattootaa isaas"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "faarfannoo isaas"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "haa ta'u"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "bara samii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:06.876285163Z",
+  "model": "glm-5.3"
+}

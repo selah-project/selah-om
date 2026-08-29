@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Namni yoo shubbata sanyii isaa irraa baatu, bishaaniin ⟨את⟩ goga isaa guutuu dhiqata, galgala ga'utti makulloo ta'a.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isaa irraa"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "shubbata"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dhiqata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaaniin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goga isaa guutuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goga isaa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "makulloo ta'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ga'utti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galgala"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:07.887574603Z",
+  "model": "glm-5.3"
+}

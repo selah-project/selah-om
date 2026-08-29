@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "fi ⟨את⟩ Arvaadii, fi ⟨את⟩ Tsemaarii, fi ⟨את⟩ Hamaatii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Arvaadii"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvaadii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Tsemaarii"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemaarii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Hamaatii"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamaatii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:29:09.268272824Z",
+  "model": "glm-5.3"
+}

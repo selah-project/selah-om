@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Ni jedhu: \"Yaah hin argu; Eloohiim Ya'aqoobis hin hubatu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "argu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "-is hin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "hubatu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:45.280512494Z",
+  "model": "glm-5.3"
+}

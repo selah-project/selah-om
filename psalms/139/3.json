@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 139,
+  "translation": "Daandii koo fi hirribaa koo feeffatte, karaawwan koo hunda amma beekta.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "daandii koo"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "fi hirribaa koo"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "feeffatte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "karaawwan koo hunda"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaawwan koo"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "amma beekta"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:50.817945999Z",
+  "model": "glm-5.3"
+}

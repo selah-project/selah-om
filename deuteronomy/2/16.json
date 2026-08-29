@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "ↁ Yeroo namootni waraanaa hundi saba keessaa du'uuf xumuraman ta'e.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ↁ ta'e"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "xumuraman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namootni"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uuf"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "saba keessaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:26.764574854Z",
+  "model": "glm-5.3"
+}

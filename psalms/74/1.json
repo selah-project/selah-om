@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Maashkiila kan Asaaf. Maalii, Eloohiim, yeroo-dhumaatti nu gatoomsitee? Samiin arraba kee tuuta biyyi-margiinsaa kee irratti bahee jira.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maashkiila"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kan Asaaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maalii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "gatoomsitee"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo-dhumaatti"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "samiin bahee jira"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "arraba kee"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "tuuta"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "biyyi-margiinsaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:51.320930111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Kadhannaa kiyya akka qunaqunaatti fuula kee duratti dhaabbachuun haa godhamu; ol-kaasni harka kiyya akka kenna galgalaatti.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "dhaabbachuun haa godhamu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannaa kiyya"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "akka qunaqunaatti"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuula kee duratti"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ol-kaasni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "harka kiyya"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "akka kenna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galgala"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:19.000122594Z",
+  "model": "glm-5.3"
+}

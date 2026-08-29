@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Dasqiiwwan Edom fi Ismaa'eloota, Moo'aab fi Hagareenyoota —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Dasqiiwwan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "fi Ismaa'eloota"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "fi Hagareenyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:25.830861030Z",
+  "model": "glm-5.3"
+}

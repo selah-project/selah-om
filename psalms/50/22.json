@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Yaadadhaa, maaloo, kana, warra Eloohaa dagatan: akkasoo ani si baalle, fidduus hin jiru.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "yaadadhaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "warra dagatan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloohaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akkasoo"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "ani si baalle"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fi hin jiru"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "fiddu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:08.917066796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Eloohiimis Nookhiitiinis ⟨את⟩ ilmoo isaa eebbifte, isaaniinis jedhe: Baadii, dabaladhaa, lafti guutaa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "eebbifte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nookhi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nookhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmoo isaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniinis"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "baadii"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dabaladhaa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "guutaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:27:49.811254570Z",
+  "model": "glm-5.3"
+}

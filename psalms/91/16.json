@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Waggoota dheeraa qabuudhuun ni guuta; fayyummaa kiyya isaa ni agarsiisa.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "qabuudhuun ni guuta"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ni agarsiisa"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "fayyummaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.526057252Z",
+  "model": "glm-5.3"
+}

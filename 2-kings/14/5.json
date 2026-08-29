@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Akkuma mootumichi harka isaatti cimee, ajjeese ⟨את⟩ minda-toota isaa, warra ⟨את⟩ mooticha abbaa isaa ajjeesan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Akkuma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "cimee"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mootumichi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaatti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minda-toota isaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "minda-toota isaa"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ajjeesan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:59.113220780Z",
+  "model": "glm-5.3"
+}

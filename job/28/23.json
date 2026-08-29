@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Eloohiim karaa ishee hubacha; innis ⟨את⟩ iddoo ishee beeka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "hubacha"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "karaa ishee"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "innis"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iddoo ishee"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "iddoo ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:26:47.136926905Z",
+  "model": "glm-5.3"
+}

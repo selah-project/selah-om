@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Garuu yeroo haadhaa ⟨את⟩ garee walitti qabattaniif, huqqisa qofa; abuuraa hin godhinaa.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "yeroo...walitti qabattaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garee"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "garee"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "huqqisa qofa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "godhinaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:06.940152755Z",
+  "model": "glm-5.3"
+}

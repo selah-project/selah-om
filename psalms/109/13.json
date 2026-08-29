@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Dhuma isaatis haa baafamu; durtii biroo keessatti maqaan isaanii haa dhiifamu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "haa haffu"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "dhuma isaatis"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "haa baafamu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "durtii keessatti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "haa dhiifamu"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maqaan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.683386774Z",
+  "model": "glm-5.3"
+}

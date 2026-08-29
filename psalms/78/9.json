@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Ilmootni Efrayim, warra qawaa saasu, guyyaa warraa irratti deebi'an.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmootni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "saasu"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "warra rukutani"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qawaa"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "deebi'an"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "warraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:40.415411072Z",
+  "model": "glm-5.3"
+}

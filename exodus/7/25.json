@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Lakkoofsi guutuu torban guutame, erga Yahwe ⟨את⟩ Laga Niluu rukutee booda.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "guutame"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lakkoofsi guutuu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "erga"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "rukutee booda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laga Niluu"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Laga Niluu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:54.484044554Z",
+  "model": "glm-5.3"
+}

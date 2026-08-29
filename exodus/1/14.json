@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Jireenyaa isaanii ⟨את⟩ hojii cimaa qabu waan ibidda-dhigaa fi cufensa cufensaa fi hojii waan daaraa hunda tiin miidhanii mirkoo-eessaniiru; hojii isaanii hunda ⟨את⟩ — waan isaan isaaniin hojjisaniif — daangaa malee taamsiisan.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "mirkoo-eessaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jireenyaa isaanii"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "jireenyaa isaanii"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "cimaa qabu"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ibidda-dhigaa"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "cufensa cufensaa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "waan daaraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojii isaanii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hojii isaanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hojjisaniif"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "daangaa malee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:25.198350459Z",
+  "model": "glm-5.3"
+}

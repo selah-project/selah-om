@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Amma qulqulluu nan ta'aa mana hamtuu keessaa — koonfura hamtuu fi eefa gabaabaa kan arrabsamtu?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "amma"
+    },
+    {
+      "surface": "האש",
+      "gloss": "qulqulluu nan ta'aa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "koonfura"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "akkasumas eefa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "gabaabaa"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "kan arrabsamtu"
+    }
+  ],
+  "timestamp": "2026-08-29T10:57:09.951343790Z",
+  "model": "glm-5.3"
+}

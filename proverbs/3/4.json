@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Akka kanatti gammacha fi ogummaa tolaa argita — ijjii Eloohiim fi ijjii namaa keessatti.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Akka kanatti ... argita"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gammacha"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "fi ogummaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ijjii ... keessatti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "fi ijjii namaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:53.276286729Z",
+  "model": "glm-5.3"
+}

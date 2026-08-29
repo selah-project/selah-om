@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ogeessummaa horatti, hubannoo horatti; hin dagatin, jechoota afaan kiyyaas hin crocin.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "horatti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogeessummaa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "horatti"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "hubannoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dagatin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin...crocin"
+    },
+    {
+      "surface": "תט",
+      "gloss": "crocin"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan kiyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:43.113841886Z",
+  "model": "glm-5.3"
+}

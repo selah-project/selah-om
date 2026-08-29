@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Moshee zayita dibaa fudhatee, ⟨את⟩ mana-tentiisaa fi ⟨את⟩ waan isa keessa jiru hunda dibee, isaan qulqulleesse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zayita dibaa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayita"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dibaa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dibee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana-tentiisaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mana-tentiisaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessa jiru"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "qulqulleesse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:00.136696128Z",
+  "model": "glm-5.3"
+}

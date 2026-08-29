@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Gara Isatti afaan kiyyaan waame, fi faarfanni arraba kiyya jala.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Gara Isatti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan kiyyaan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "waame"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "fi faarfanni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "arraba kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:51.172652841Z",
+  "model": "glm-5.3"
+}

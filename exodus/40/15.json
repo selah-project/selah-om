@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Isaaniis akka abbaa isaanii dibiteetti dibu; akkuma ati abbaa isaanii ⟨את⟩ dibdeetti. Hojii qeelesa naa-tajejechuuf dibamti. Dibanni isaanii isaaniif hojii qeelesa hafuura-dheeraa, durtii isaanii keessatti ta'uuf ta'a.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dibdeetti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaanii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "dibdeetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa isaanii"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abbaa isaanii"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "qeelesa-tajejechuuf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naa-"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ta'uuf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "dibanni isaanii"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "hojii qeelesa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hafuura-dheeraa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "durtii isaanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:07.918203069Z",
+  "model": "glm-5.3"
+}

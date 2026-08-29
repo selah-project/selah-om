@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Abbaan keessanis na qalate, ⟨את⟩ mindaa kiyyas waamsise — kudhan yeroo; garuu Eloohiim natti balee gochuu hin dabarsine.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "abbaan keessanis"
+    },
+    {
+      "surface": "התל",
+      "gloss": "na qalate"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "waamsise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindaa kiyya"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mindaa kiyya"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dabarsine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "balee gochuu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:49.729001968Z",
+  "model": "glm-5.3"
+}

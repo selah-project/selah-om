@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Yehooshuua ⟨את⟩ sagalee ummata yeroo baafachuu isaanii dhageessee, Moosheetti jedhe: \"Sagaleen lolaa eidgala keessatti jira.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageessee"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "yeroo baafachuu isaanii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooshee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lolaa"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "eidgala keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:21:53.407285512Z",
+  "model": "glm-5.3"
+}

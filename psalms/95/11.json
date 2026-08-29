@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Ani booda du'a kee tiin kakadhe: \"Isaan nagaa kiyyaatti hin seenu.\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "kakadhe"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "du'a kee tiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tti"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nagaa kiyyaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:17.547166928Z",
+  "model": "glm-5.3"
+}

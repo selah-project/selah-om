@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Akkaataa kanaan Re'u waggoota lama fi afurtama jiraachaa ture, ⟨את⟩ Serug dhalatee.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraachaa ture"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "fi afurtama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggoota"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:37.547078184Z",
+  "model": "glm-5.3"
+}

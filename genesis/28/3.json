@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Eel Shaddaay si ⟨את⟩ haa eebbisu, si haa baay'isi, akkasumas si haa dabalchu, akkasumas garee uummamtootaaf haa taatu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaay"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "haa eebbisu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si (Yaaqob)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "si haa baay'isi"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "si haa dabalchu"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "haa taatu"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "garee"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "uummamtoota"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:45.115183347Z",
+  "model": "glm-5.3"
+}

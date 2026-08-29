@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Ummootaa, Eloohiim keenya eebbisaa; ijaarsa faarfamaa Isaa akka dhageeffamu godhaa.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "eebbisaa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Ummootaa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "akka dhageeffamu godhaa fi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijaarsa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "faarfamaa Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:35.204066111Z",
+  "model": "glm-5.3"
+}

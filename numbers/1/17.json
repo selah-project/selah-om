@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mosheen fi Aharoon ⟨את⟩ namoota kana, waan maqootaan moggaafaman, fudhatan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheen"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "fi Aharoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namoota kana"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "moggaafaman"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "maqootaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:48:02.124856718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Sababa gurra isa natti gaddisiisuu isaatiif, guyyoota koo hunda keessatti maqaa isaa irratti nan waada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "gaddisiise"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "gurra isa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "guyyoota koo hunda keessatti"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nan waada"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:09.753660557Z",
+  "model": "glm-5.3"
+}

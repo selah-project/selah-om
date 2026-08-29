@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 38,
+  "translation": "Jecha Yahwe Yeshaa'yaa'u bira dhufe akka jedhu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaa'yaa'u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T14:57:51.242550726Z",
+  "model": "glm-5.3"
+}

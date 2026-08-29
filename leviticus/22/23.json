@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Gaaliinis ruccuunis dheerate ykn gabaabate — dhiyeessa fedhiiti ⟨את⟩ isa taasuu dandeessa; waadaaf garuu hin fudhatamu.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "gaaliinis"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ruccuunis"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "dheerate"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "gabaabate"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "dhiyeessa fedhii"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "taasuu dandeessa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhiyeessa fedhii isa taasitu"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "waadaaf garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "fudhatamu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:44:02.729055679Z",
+  "model": "glm-5.3"
+}

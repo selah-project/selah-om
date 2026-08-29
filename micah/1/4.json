@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Gaarreen isaa jala baakkatu, lagaawwan addaan bahu, akka dorgoo ibiddaa dura, akka bishaan korqee gadiitti dhangala'an.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "baakkatu"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "Gaarreen"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "isaa jala"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "lagaawwan"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "addaan bahu"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "akka dorgoo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddaa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "akka bishaan"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "dhangala'an"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "korqee gadiitti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:53:36.274012015Z",
+  "model": "glm-5.3"
+}

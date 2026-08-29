@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Aram Israa'el duratti akka kufe argatte, walitti qabamte.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "argatte"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "walitti qabamte"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:49:11.799498485Z",
+  "model": "glm-5.3"
+}

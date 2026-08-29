@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Inni malaakaa wajjin fafatee moo'ate; dhukkee, isaaf kadhate; Beeteel irratti isa argate, achas nuti wajjin dubbate.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "fafatee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaakaa"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "moo'ate"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "dhukkee"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "kadhate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beeteel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beeteel"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "isa argate"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "achas"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nuti wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:19.414856216Z",
+  "model": "glm-5.3"
+}

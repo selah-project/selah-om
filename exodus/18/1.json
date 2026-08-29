@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yitroon abbaa-tumsaa Midyaan, abbaa-warraa Moshee, waan Eloohiim ⟨את⟩ hunda waan Mosheefi Israa'el sababa isaa godhe dhageesse — sababa Yahwe ⟨את⟩ Israa'el Mitsraayim irraa baase.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dhageesse"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroon"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "abbaa-tumsaa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyaan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "abbaa-warraa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "godhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheef"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "Israa'elis"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sababa isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraayim irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:23.051123359Z",
+  "model": "glm-5.3"
+}

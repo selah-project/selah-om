@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Yahwe yaada namoota beeka, sababni isaas duwwaa ⟨dha⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yaada"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "duwwaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:46.088737304Z",
+  "model": "glm-5.3"
+}

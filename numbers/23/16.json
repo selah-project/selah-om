@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Yahwe Bilam qunname, jecha afuun isaatti kaafe; inninis akkas jedhe: \"Baalak biraatti deebi'i, akkana dubbadhu.\"",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "qunname"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afuun isaatti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "deebi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biraatti"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baalak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "akkana"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dubbadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:06:29.388127130Z",
+  "model": "glm-5.3"
+}

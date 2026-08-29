@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroo Achabaab du'e, mootiin Moowaab mootii Israa'eliirratti fincile.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabaab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "fincile"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moowaab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eliirratti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:02.831696679Z",
+  "model": "glm-5.3"
+}

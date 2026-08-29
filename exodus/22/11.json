@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Yoo hatamuun isa irraa hate, kan qabatuuf ni kaffala.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "hatamuun"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "hate"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ni kaffala"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kan qabatuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:03.415799657Z",
+  "model": "glm-5.3"
+}

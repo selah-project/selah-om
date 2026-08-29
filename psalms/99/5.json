@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 99,
+  "translation": "Yahwe Eloohiim keenya ol kaasaa; kutaa miila isaa irratti suugaa; qulqullaa'e ⟨inni⟩.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ol-kaasaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim-keenya"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "suugaa"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "kutaa-miilaaf"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "qulqullaa'e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:25.972106979Z",
+  "model": "glm-5.3"
+}

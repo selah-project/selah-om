@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahwe amala sabaas argamsiisuurraa, isaaniis Mitsraayimitti fudhatee akka baafatan godhe; akka kanaan Mitsraayiminis qabeenya isaa baafatanii hiikkatan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fudhatee... godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amala"
+    },
+    {
+      "surface": "חן",
+      "gloss": "amala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaas"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "argamsiisuurraa, isaaniis...itti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "akka baafatan"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "baafatanii hiikkatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayiminis"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:41.406266408Z",
+  "model": "glm-5.3"
+}

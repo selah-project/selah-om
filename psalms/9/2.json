@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe, onnee kiyya guutuu wajjinin sii galata nan kennadha; raajannoo kee hunda natti nan hima.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "galata nan kennadha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu wajjinin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "natti nan hima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "raajannoo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:53.585105956Z",
+  "model": "glm-5.3"
+}

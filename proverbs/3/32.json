@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kan daangaa dabbe isaa Yahwe nan-dheebba dha; ⟨את⟩ kan sirrii ta'an immoo dhokata isaa ti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "nan-dheebba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "daangaa dabbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "immoo ⟨את⟩",
+      "marks": "kan sirrii ta'an"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "kan sirrii ta'an"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "dhokata isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:50.041923334Z",
+  "model": "glm-5.3"
+}

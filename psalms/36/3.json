@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Inni iji isaa keessatti of laaffisa, yakka isaa argachuuf jibbachuuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "of laaffisa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "iji isaa keessatti"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "argachuuf"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "yakka isaa"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "jibbachuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:19.621700546Z",
+  "model": "glm-5.3"
+}

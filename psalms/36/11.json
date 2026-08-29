@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Kheesed kee warra si beekaniif itti fufsi; rakkoo-miidhagina kee immoo warra onnee qajeelaniif.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "itti fufsi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "warra si beekaniif"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "rakkoo-miidhagina kee"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "warra qajeelaniif"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:08.738223306Z",
+  "model": "glm-5.3"
+}

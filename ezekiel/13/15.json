@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Bacaatta kiyya ciniicha irratti fi ciniicha waamutti hidhuu mitiidhaan waamtan irratti guute; isinittiin ni jedha: ciniichi hin jiru, waamtoonnis ⟨את⟩ isaas hin jiran.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "ni guuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bacaatta kiyya"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "bacaatta kiyya"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ciniicha irratti"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "waamtan irratti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hidhuu mitiidhaan"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "hidhuu mitiidhaan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ni jedha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinittiin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ciniichi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiran"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "waamtoonnis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaas"
+    }
+  ],
+  "timestamp": "2026-08-29T10:07:27.278863725Z",
+  "model": "glm-5.3"
+}

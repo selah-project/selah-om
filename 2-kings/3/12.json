@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yehooshafaatis ni jedhe, “Jechi Yahwe ⟨את⟩ Isa isa wajjin jira.” Mootiin Yisraayeel, Yehooshafaat, mootiin Edoomis gara isaatti bu'an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafaat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jira"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ Isa",
+      "marks": "jechi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "bu'an"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gara isaatti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayeel"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehooshafaat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoom"
+    }
+  ],
+  "timestamp": "2026-08-29T14:52:30.941190482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Kadhaddaa nageenya Yerushaalayim; warri si jaalatan nageenya qabaatani haa jiraatan.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "kadhaddaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nageenya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "haa jiraatan"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "warri si jaalatan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:10.229842387Z",
+  "model": "glm-5.3"
+}

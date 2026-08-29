@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Namootni Yisra'el Mitseeppaa ba'an, ⟨את⟩ Filistiinota hordofan, isaan rukatan, hanga gadii Beetii-Kaariitti.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namootni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitseeppaa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "hordofan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiinota"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinota"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "isaan rukatan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "gadii"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beetii"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kaariitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:19:08.478984382Z",
+  "model": "glm-5.3"
+}

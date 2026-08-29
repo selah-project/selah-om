@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Rehabeamis gara Shekem deeme; ki Israeliin hundi akka isaa mooti godhanuuf Shekemiimidhaan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iimidhaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "mooti godhanuuf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:08.978572787Z",
+  "model": "glm-5.3"
+}

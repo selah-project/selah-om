@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Bona gayyaa irraa danddattiin hin qonna; saddeessa irratti gaafata, wanti hin jiru.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "bona gayyaa irraa"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "danddattiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "qonna"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "gaafata"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "saddeessa irratti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wanti hin jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T12:07:29.597284637Z",
+  "model": "glm-5.3"
+}

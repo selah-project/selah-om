@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe jedhe: \"Yihuuda haara ga'i; kunoo, ⟨את⟩ biyya harka isaatti kenne.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "haara ga'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:56:48.856947147Z",
+  "model": "glm-5.3"
+}

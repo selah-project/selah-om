@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Daandii hamaa kamiiruu irraa miila koo of-torse, akka jecha Keetti eeguuf.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kamiiruu irraa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamaa"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "of-torse"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miila koo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "akka … -uuf"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "eegu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "jecha Keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:50.478207521Z",
+  "model": "glm-5.3"
+}

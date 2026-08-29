@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Adeemee fudhatee ⟨את⟩ Goomer, intala Diblaayim; isheenis waan heerumtee ilmoo dhiiraa isaaf dhalatte.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Adeemee"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Goomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Goomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblaayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "waan heerumtee"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dhalatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoo dhiiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:38:03.358163388Z",
+  "model": "glm-5.3"
+}

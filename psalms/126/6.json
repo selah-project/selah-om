@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 126,
+  "translation": "Deemsa-dheenaa ni deema, osoo iluudhaan meeshaa ⟨הזרע⟩ buusaa baata; dhugumaatti heesuudhaan ni deebi'a, alummoota Isaa baachuudhaan.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Deemsa-dheenaa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ni deema"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "osoo iluudhaan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "baata"
+    },
+    {
+      "surface": "משך",
+      "gloss": "meeshaa buusaa"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "buusaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dhugumaatti"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ni deebi'a"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "heesuudhaan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "baachuudhaan"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "alummoota Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:05.558521392Z",
+  "model": "glm-5.3"
+}

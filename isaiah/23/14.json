@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Gaddeessaa! Doononni Tarshiishii, sababni isaas tuuqni keessan cabaee jira.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Gaddeessaa!"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "Doononni"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshiishii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "cabaee jira"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "tuuqni keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:57:48.042084652Z",
+  "model": "glm-5.3"
+}

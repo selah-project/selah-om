@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Isatti ni jedhe: yoo fuulli kee hin deemin, na asirraa hin ol baasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuulli kee"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "deemin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin (dhorkaa)"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "na ol baasi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "asirraa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:52.701773130Z",
+  "model": "glm-5.3"
+}

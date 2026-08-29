@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yoo kufe, hedduumaa hin darbamtu, kanin Yahwe harka isaa reggessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "darbamtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "reggessa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:45.097002222Z",
+  "model": "glm-5.3"
+}

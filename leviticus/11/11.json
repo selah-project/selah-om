@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Rikkina isiniif ta'u; nii isaanii irraa hin dhiyaattinaa, ⟨את⟩ ceengalcha isaanii rikkinaa taasisaa.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "rikkina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiniif"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nii isaanii irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dhiyaattinaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ceengalcha isaanii"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ceengalcha isaanii"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "rikkinaa taasisaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:34:11.267121602Z",
+  "model": "glm-5.3"
+}

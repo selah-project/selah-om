@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 120,
+  "translation": "Maal siif kennamaa, maalis siif dabalataa, ⟨yaa⟩ arraba ri'aa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kennamaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maalis"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "dabalataa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "arraba"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ri'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:32.824491006Z",
+  "model": "glm-5.3"
+}

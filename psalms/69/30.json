@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Ani garuu dallanaa fi addunaa ta'ee jira; haadha gad-deebii kee, yaa Eloohiim, ol na qaqqabeessi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ani garuu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dallanaa"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "addunaa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "gad-deebii kee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ol na qaqqabeessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:35.187983668Z",
+  "model": "glm-5.3"
+}

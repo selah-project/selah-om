@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Innis na minnii bofa hamtaa irraa, chiinna sibiilaa irraa ol baase; jala koo dheerina irratti dhaabbese, tarkaanfiiwwan koo qopheese.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "na ol baase"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "minnii bofa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hamtaa"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "chiinna sibiilaa"
+    },
+    {
+      "surface": "היון",
+      "gloss": "sibiilaa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dhaabbese"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dheerina"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jala koo"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "qopheese"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "tarkaanfiiwwan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:02.508619045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Kunoo akka jedhe Yahwe: akkaasumas shibbaan ce'aa ni qabatama, bitannaan roobaa ni baafama; ⟨את⟩ diina kee Ani nan morka, ⟨את⟩ ilmaan kees Ani nan baraara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkaasumas"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "shibbaan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ce'aa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ni qabatama"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "bitannaan"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "roobaa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ni baafama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diina kee"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "diina kee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "nan morka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan kee"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "nan baraara"
+    }
+  ],
+  "timestamp": "2026-08-29T09:13:40.595401759Z",
+  "model": "glm-5.3"
+}

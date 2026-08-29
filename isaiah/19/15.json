@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Hojiin Mitsraayimiif hin taatu — waan mataan ykn gatiin, baaltiin daattuu ykn quxuluun hojjedhu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "taatu"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraayimiif"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjedhu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataan"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "gatiin"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "baaltiin daattuu"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "quxuluun"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:03.290400993Z",
+  "model": "glm-5.3"
+}

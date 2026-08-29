@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yihaween diinota Reetsiin isarratti ol kaasee, ⟨את⟩ diinotasaa immoo walitti kakaase.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ol kaasee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yihawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diinota Reetsiin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "diinota"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Reetsiin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isarratti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diinotasaa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "diinotasaa"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "walitti kakaase"
+    }
+  ],
+  "timestamp": "2026-08-29T14:55:56.185071650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Wanti gaazaam hafte, arbeen ni baafate; wanti arbeen hafte, yeelqeen ni baafate; wanti yeelqeen hafte, xaasilin ni baafate.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "wanti…hafte"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gaazaam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ni baafate"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbee"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "wanti…hafte immoo"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ni baafate"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeelqeen"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "wanti…hafte immoo"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeelqeen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ni baafate"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "xaasilin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:40:28.448826552Z",
+  "model": "glm-5.3"
+}

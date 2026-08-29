@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 16:17",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Sababiin asii akka ijaan kiyya walduraa dubbachuun karaawwan isaanii hunda irratti argamtu; fuulduratti kiyyaas miti dhokatan, miidhaan isaanii ija kiyya duraa miti dhokate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin asii"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijaan kiyya"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti argamtu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "דרכיהם",
+      "gloss": "karaawwan isaanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "נסתרו",
+      "gloss": "dhokatan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fuulduratti kiyyaas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas miti"
+    },
+    {
+      "surface": "נצפן",
+      "gloss": "dhokate"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "miidhaan isaanii"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "duraa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T15:02:53.540148712Z",
+  "model": "glm-5.3"
+}

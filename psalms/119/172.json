@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Arrabaan kiyyan jecha kee haa deebisu, sababniis ajaja kee hundi sirriidha.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "haa deebisu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "arrabaan kiyya"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jecha kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababniis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ajaja kee"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sirriidha"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:30.688378209Z",
+  "model": "glm-5.3"
+}

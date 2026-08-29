@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Kan isaan gubu deeggarsa isaa ni dhiqata, qaama isaa bishaanin ni dhiqata, itti booda kampa keessa seera.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "kan... gubu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ni dhiqata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "deeggarsa isaa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ni dhiqata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaama isaa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "qaama isaa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaanin"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "itti booda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka kanaan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:15.320694386Z",
+  "model": "glm-5.3"
+}

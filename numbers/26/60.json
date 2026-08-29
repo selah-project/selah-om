@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Aharoniinis ⟨את⟩ Naadaab fi ⟨את⟩ Abiihuu, ⟨את⟩ El'azaraa fi ⟨את⟩ Iitaamar bare.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "bare"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoniinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naadaab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Naadaab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Abiihuu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abiihuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'azaraa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azaraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Iitaamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Iitaamar"
+    }
+  ],
+  "timestamp": "2026-08-29T06:07:58.456953805Z",
+  "model": "glm-5.3"
+}

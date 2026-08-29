@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yehoshafaatis mooticha Israa'elii jedhe: \"Maaloo, har'a jecha Yahwe ⟨את⟩ barbaadi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafaatis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'elii"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "barbaadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Maaloo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecha Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T13:58:33.600605113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe ni beekame; murtii hojjete; hojja harkoo isaatti [kan] margaa rakkate. Higgaayoon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ni beekame"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "hojja"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "harkoo isaatti"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "rakkate"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "margaa"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaayoon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:02.230083978Z",
+  "model": "glm-5.3"
+}

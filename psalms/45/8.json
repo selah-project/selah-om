@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Qajeelummaa jaallatte, hamtuu of-dhibde; kanaafuu Eloohiim, Eloohiim kee, si zayitaa gammachuu kan hiriyoota kee caalaa si dibeera.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "jaallatte"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "qajeelummaa"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "of-dhibde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanaafuu (iddee)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "si dibeera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayitaa"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "hiriyoota kee caalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:30.463887010Z",
+  "model": "glm-5.3"
+}

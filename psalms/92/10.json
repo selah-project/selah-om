@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 92,
+  "translation": "Kanaaf ilaali, diinoota kee, Yahwe; kanaaf ilaali, diinoota kee ni badu; hojjattoota madaa hundi ni addaan bahu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diinoota kee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "diinoota kee"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ni badu"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ni addaan bahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hojjattoota"
+    },
+    {
+      "surface": "און",
+      "gloss": "madaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:54.207056210Z",
+  "model": "glm-5.3"
+}

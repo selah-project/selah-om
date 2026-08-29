@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 32:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Ani hunda kheesedotaas fi hunda dhugaa Ati ⟨את⟩ gabrootta keetiif hojjedhe caalaa xiqqaa dha; sababni isaas wanta koo malee Yarduun kana ⟨את⟩ nan dabale, ammammoo lama mahaara ta'ee jira.",
+  "tokens": [
+    {
+      "surface": "קטנתי",
+      "gloss": "xiqqaa dha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "החסדים",
+      "gloss": "kheesedotaas"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ati hojjedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabrootta keetiif"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabrootta keetiif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "במקלי",
+      "gloss": "wanta koo malee"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "nan dabale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarduun kana"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ammammoo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'ee jira"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "mahaara"
+    }
+  ],
+  "timestamp": "2026-08-29T04:41:39.339143968Z",
+  "model": "glm-5.3"
+}

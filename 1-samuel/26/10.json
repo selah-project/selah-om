@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Daawidis jedhe, \"Yahwe jiraachaa jira; yahoon Yahwe inni isaa tuqa, ykn guyyaati isaa dhufee du'a, ykn lollii seenee addaan bahuuf —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiraachaa jira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yahoon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "isaa tuqa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "guyyaati isaa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dhufee"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "או",
+      "gloss": "ykn"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "lollii"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "seenee"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "addaan baha"
+    }
+  ],
+  "timestamp": "2026-08-29T07:36:48.135475968Z",
+  "model": "glm-5.3"
+}

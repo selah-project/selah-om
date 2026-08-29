@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Ol hin ba'inaa, sababa Yahwe keessan keessa hin jiru; ajeessota keessan dura hinfamneef.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin…(-naa)"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ol ba'inaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "keessan keessa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin…(-neef)"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "hinfamne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ajeessota keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:57:58.948136983Z",
+  "model": "glm-5.3"
+}

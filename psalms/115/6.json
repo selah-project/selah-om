@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Gurra isaanii qabu garuu hin dhaga'anu; funyaan isaanii qabu garuu hin lallabanu.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii qabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dhaga'anu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "funyaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii qabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "lallabanu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:32.632561922Z",
+  "model": "glm-5.3"
+}

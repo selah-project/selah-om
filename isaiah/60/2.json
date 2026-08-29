@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Sabbadhaa ilaali: dhukkubbichi dachaa heddata, ulfaata-dhukkubbiinis saboota; Yahwe immoo sirratti ni bakkata, kabajni Isaas sirratti ni mul'ata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabbadhaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "dhukkubbichi"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "heddata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dachaa"
+    },
+    {
+      "surface": "ו ערפל",
+      "gloss": "ulfaata-dhukkubbiinis"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "sirratti immoo"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ni bakkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "kabajni Isaas"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sirratti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ni mul'ata"
+    }
+  ],
+  "timestamp": "2026-08-29T09:17:25.921967599Z",
+  "model": "glm-5.3"
+}

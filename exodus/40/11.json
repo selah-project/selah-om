@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Hiikkaa bishaanii fi ⟨את⟩ utubaa isaa dibeessa, isaas qulqulleessitissa.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dibeessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiikkaa bishaanii"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "hiikkaa bishaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "utubaa isaa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "utubaa isaa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "qulqulleessitissa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaas",
+      "marks": "hiikkaa bishaanii fi utubaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:23.709754744Z",
+  "model": "glm-5.3"
+}

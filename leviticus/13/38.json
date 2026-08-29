@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Dhiirras dubartis yoo gogaa lafa isaanii irratti dogoggorrimee adii dogoggorrimee aduu ilaallaman,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dhiirras"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoo ... (mdd.)"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "illaallaman"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "lafa isaanii"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "dogoggorrimee adii"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "dogoggorrimee"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "adii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:36:49.914832405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Yoosiphis deebisee jedhe: Kun hiika isaa ti; saffisotni sadii saddonota sadii ⟨isā⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosiph"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "hiika"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "saffisotni"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "saddonota"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨isā⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:44.066945020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ergamtoonni isaatti deebi'anii, isaaninis isaanitti jedhe: \"Maal kana — deebi'tan?\"",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "deebi'anii"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ergamtoonni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maal"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "deebi'tan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:23:42.377902805Z",
+  "model": "glm-5.3"
+}

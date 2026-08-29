@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Mooticha Libnah, tokko; mooticha Adullam, tokko;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T06:50:56.082053123Z",
+  "model": "glm-5.3"
+}

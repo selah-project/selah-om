@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 114,
+  "translation": "Gaarreen akka reettota raawwattan, teessoowwan xixiqqoon akka ijoollee hoolaa raawwattan?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Gaarreen"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "raawwattan"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "akka reettota"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "teessoowwan xixiqqoon"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "akka ijoollee"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoolaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:28.522657530Z",
+  "model": "glm-5.3"
+}

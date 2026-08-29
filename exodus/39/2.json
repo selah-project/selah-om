@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Efodaa ⟨את⟩ uume — dahaa, biluu, argee-diimaa, ruumee diinee shaniitii fi saaphana margee wajjin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodaa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argee-diimaa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ruumee diinee"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shaniitii"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "saaphana"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "margee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:27:57.991394232Z",
+  "model": "glm-5.3"
+}

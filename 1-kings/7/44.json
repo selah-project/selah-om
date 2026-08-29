@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Fi ⟨את⟩ Galaanicha tokko, fi ⟨את⟩ loota lama-kudhan Galaanicha jala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Galaanicha tokko"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Galaanicha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "loota lama-kudhan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "loota"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lama"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Galaanicha"
+    }
+  ],
+  "timestamp": "2026-08-29T08:06:01.977148255Z",
+  "model": "glm-5.3"
+}

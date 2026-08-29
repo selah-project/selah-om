@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Gibira kee keessatti balleennew; aaccina kee keessatti dajaa'anne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "balleennew"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "gibira kee keessatti"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "aaccina kee keessatti"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "dajaa'anne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:48.170326557Z",
+  "model": "glm-5.3"
+}

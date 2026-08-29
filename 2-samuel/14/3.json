@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "'Mooticha bifi, akkanaan isatti dubbadhu.' Yo'aabiinis jechoonni ⟨את⟩ boca ishee keessa kaa'e.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "bifi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akkanaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kaa'e"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'aabiinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechoonni"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "boca ishee keessa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:31.136568691Z",
+  "model": "glm-5.3"
+}

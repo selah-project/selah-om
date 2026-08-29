@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yeroon ajjeesuu, fi yeroon Fayyisuu; yeroon cabsuu, fi yeroon ijaaruu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ajjeesuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "Fayyisuu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "yeroon"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "cabsuu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "fi yeroon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijaaruu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:53.228156967Z",
+  "model": "glm-5.3"
+}

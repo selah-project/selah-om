@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Ilmoon gabbaroota kee ni galmeeffatu, fi sanyiin isaanii fuula duraa kee ni dhaabbatu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gabbaroota kee"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ni galmeeffatu"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "fi sanyiin isaanii"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuula duraa kee"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ni dhaabbatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:36.299220224Z",
+  "model": "glm-5.3"
+}

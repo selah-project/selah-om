@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Abbaan seeraa ni ajaja, ⟨את⟩ simbiricha tokkicha ajeeffamu, qaaqa waan dachee hundee, bishaan jiru irratti.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "abbaan seeraa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ajeeffamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simbiricha tokkicha"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "simbiricha"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tokkicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qaaqa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "waan dachee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:40.813283488Z",
+  "model": "glm-5.3"
+}

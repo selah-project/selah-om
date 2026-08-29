@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Mana bosona Laabanoonis iituuf: dheerinni isaa amma dhibba, bal'inni isaa amma shantama, olka'iinni isaa amma soddoma; sarara afur kan baaltiiwwan eddaa irratti, baaltiiwwan eddaas baaltiiwwan irratti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "iituuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana bosona Laabanoon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bosona"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Laabanoon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dheerinni isaa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "shantama(lubbuu)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bal'inni isaa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "soddoma(lubbuu)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "olka'iinni isaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afur"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "sarara"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "baaltiiwwan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "eddaa"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "baaltiiwwan eddaa(kaafaman)"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "eddaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "baaltiiwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:06:07.253056361Z",
+  "model": "glm-5.3"
+}

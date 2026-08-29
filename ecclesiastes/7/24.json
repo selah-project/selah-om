@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Waan duraa ta'e fageeessa; furdaa, furdaa — eenuma arguu danda'a?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "fageeessa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Waan"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "duraa ta'e"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "furdaa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "furdaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenuma"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "arguu danda'a"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:28.344529713Z",
+  "model": "glm-5.3"
+}

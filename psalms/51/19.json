@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Sababonni Eloohiim ⟨is⟩ samuu cabdeedha; onnee cabdeefiin tuqamaa, Eloohiim hin salphissu.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Sababonni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samuu"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "cabdee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "cabdee"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "fiin tuqamaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "salphissu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:13.587327927Z",
+  "model": "glm-5.3"
+}

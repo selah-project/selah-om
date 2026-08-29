@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Hamtuun qajeelaa hedduudha; Yahwe immoo isaan hunda irraa isa baraarsa.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "hedduudha"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "hamtuun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "isa baraarsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe immoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:07.257312185Z",
+  "model": "glm-5.3"
+}

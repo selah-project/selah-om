@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Samuweeliinis ⟨את⟩ saawwan Israa'el hunda dhiyeesse; saawwan Binnyaamiin filame.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyeesse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saawwan Israa'el hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "saawwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "filame"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "saawwan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binnyaamiin"
+    }
+  ],
+  "timestamp": "2026-08-29T14:42:21.960945238Z",
+  "model": "glm-5.3"
+}

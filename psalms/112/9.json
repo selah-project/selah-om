@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Barbaachaasaa baasee hiyyeettootaaf kenne; gibbi isaa yeroo hunda dhaabbata; olaantummaan isaa kabajaan ol ka'ama.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "baasee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "hiyyeettootaaf"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "gibbi isaa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "olaantummaan isaa"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ol ka'ama"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "kabajaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:12.235447551Z",
+  "model": "glm-5.3"
+}

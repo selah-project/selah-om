@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 150,
+  "translation": "Yaah godhaa! Eel godhaa ⟨tokko⟩ santumaa Isaa keessatti; Isaa riqicha humna Isaa keessatti godhaa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "godhaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "godhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "santumaa Isaa keessatti"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Isaa godhaa"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "riqicha keessatti"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "humna Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:26.535286373Z",
+  "model": "glm-5.3"
+}

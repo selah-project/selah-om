@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Miira keeti irratti ragaa dubbii-sobaa hin ta'in.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ta'in"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "miira keeti irratti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ragaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dubbii-sobaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:20.718502912Z",
+  "model": "glm-5.3"
+}

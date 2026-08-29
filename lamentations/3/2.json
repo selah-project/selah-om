@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "⟨את⟩ na qajeelchuu dreessise; dheebuna seensise, ifa hin qabaanne.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ na",
+      "marks": "na (ani)"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "qajeelchuu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "seensise"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dheebuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ifa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:45:10.278187624Z",
+  "model": "glm-5.3"
+}

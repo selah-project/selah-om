@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Sararaan qulqullummaa hin-baafamiin dura, boowlilee warqee hin-cufamiin dura, dhuga'aan burqaa irratti hin-cabbamiin dura, gargar-guutunis godaa keessaa hin-cabbamiin dura.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "baafamiin"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sararaan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "cufamiin"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "boowlilee"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "cabbamiin"
+    },
+    {
+      "surface": "כד",
+      "gloss": "dhuga'aan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "burqaa"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "cabbamiin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "gargar-guutunis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "godaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:54:32.612641820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Guyyaa sanas isaan eebbisees, \"Keeyyaan Israa'el ni eebbisa: 'Eloohiim si akka Efraayim fi akka Menashee taasiisu' jedhuun\" jedhe; Efraayimis ⟨את⟩ Menashee dura kaafe.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "eebbisees"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "keeyyaan"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ni eebbisa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuun"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "taasiisu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "akka Efraayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "fi akka Menashee"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kaafe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dura"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:34.469613395Z",
+  "model": "glm-5.3"
+}

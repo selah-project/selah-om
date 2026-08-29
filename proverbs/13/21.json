@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Rakkoo eenyummaa (ṣaddiqim) - hin taane: badii raawwattoota rakkoon isiitiin hordofsiisa; ⟨את⟩ sirriwwaansaa amala gaarii deebisa.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "badii raawwattoota"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "hordofsiisa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakkoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sirriwwaansaa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sirriwwaansaa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "deebisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:03:03.213842888Z",
+  "model": "glm-5.3"
+}

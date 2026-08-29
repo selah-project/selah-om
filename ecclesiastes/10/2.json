@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Onneen ogeesaa mirga isaati, onneen seelaa bita isaati.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "onneen"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeesaa"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "mirga isaa"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "onneen"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "seelaa"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "bita isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:05.588397028Z",
+  "model": "glm-5.3"
+}

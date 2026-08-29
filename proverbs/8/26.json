@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Odoo lafaa fi teessota bal'oo hin uumin, fi mataa afuraa addunyaa hin uumin.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "odoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uumin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "fi teessota bal'oo"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "fi mataa"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "afuraa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:01:34.280260542Z",
+  "model": "glm-5.3"
+}

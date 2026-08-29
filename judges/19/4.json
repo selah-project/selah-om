@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Hawwaa isaa, abbaan dubartaa sanii, isa cufee; guyyoota sadii ⟨את⟩ isa waliin ture; ni nyaachaniiru, ni dhugiiru, achitti halkan turaniiru.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "cufee"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "hawwaa isaa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abbaan"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "dubartaa sanii"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ture"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa waliin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "nyaachaniiru"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "dhugiiru"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "halkan turaniiru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:14:14.016486771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Sababiin ruuhii isaa luddiisan, afaan isaatii'n dogoggore dubbate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "luddiisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuhii isaa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruuhii isaa"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "dogoggore dubbate"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "afaan isaatii'n"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:17.208290239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sababa isaatti, ⟨את⟩ nama Yahwe jaallatu, ni tolkachiisa; akkuma abbaa, ⟨את⟩ ilmoo isa gammaddu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "jaallatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ni tolkachiisa"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "akkuma abbaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmoo"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "isa gammaddu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:58:09.283875222Z",
+  "model": "glm-5.3"
+}

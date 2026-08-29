@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Moshees jechaawwan Yahwe hundaa ⟨את⟩ barreese; ganama gallgallee dhaqaatee gaarreen jala gola ibdaa ijaare, fi dhaabbilee kudhan-lama, sabaa kudhan-lama Israa'elatiif.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "barreese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechaawwan hundaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechaawwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "gallgallee dhaqaatee"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ijaare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gola ibdaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kudhan-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lama"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "dhaabbilee"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kudhan-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lama"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:47.191022393Z",
+  "model": "glm-5.3"
+}

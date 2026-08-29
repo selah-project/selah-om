@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Kheesed kiyya immoo isa irraa hin haadhoomu, akka kheesed Sha'uuli irraa haadhe, Sha'uulii kan ati duraa irraa haadhe san.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "kheesed kiyya immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "haadhoomu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "haadhe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "haadhe"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ati duraa irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:47:00.972537919Z",
+  "model": "glm-5.3"
+}

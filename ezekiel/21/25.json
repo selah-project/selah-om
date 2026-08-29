@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Daandii toorfadhu akka seechi haguugoo Rabbaa ilmaan Ammonitti dhufu, fi Yihuudaa Yerushaalayim cufameetti.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "toorfadhu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "akka ... dhufu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "haguugoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbaa ilmaan Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yihuudaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "cufameetti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:14:50.532933469Z",
+  "model": "glm-5.3"
+}

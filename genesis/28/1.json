@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Is-haaq Yaaqobiin waame, eebbisef ⟨את⟩, ajajef ise, akkasumas isaaf jedhe: Dubartii intaltan Kanaan keessaa hin fudhatin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waame"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is-haaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "eebbisef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ise (Yaaqob)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ajajef ise"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fudhatin"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "intaltan keessaa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:38:45.113918619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Dhugumatti, Yahwe, mootonni Ashur ⟨את⟩ sabaawwan fi ⟨את⟩ dacheewwan isaanii balleessaniiru.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Dhugumatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "balleessaniiru"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootonni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaawwan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sabaawwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dacheewwan isaanii"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dacheewwan isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:39:09.156479053Z",
+  "model": "glm-5.3"
+}

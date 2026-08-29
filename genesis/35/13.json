@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Eloohiimis isa irraa ol-bahe, iddoo Isaan itti waliin dubbataniitti.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol-bahe"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "isa irraa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbataniitti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "waliin (Isa waliin)"
+    }
+  ],
+  "timestamp": "2026-08-29T04:44:41.089452023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Dagaggadhuutti hin baji fuula isaa irraa; waan dogoggoraa keessatti hin dhaabbadin; waan barbaade hunduma ni hojjeta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "dagaggadhuutti hin baji"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fuula isaa irraa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dhaabbadin"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "waan keessatti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dogoggoraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunduma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "barbaade"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ni hojjeta"
+    }
+  ],
+  "timestamp": "2026-08-29T12:51:04.032550218Z",
+  "model": "glm-5.3"
+}

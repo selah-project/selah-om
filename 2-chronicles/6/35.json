@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Kadhannaa isaanii fi kadhachaa isaanii samii irraa dhageessuu, mootummaa isaanii raawwadhu.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dhageessuu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadhannaa isaanii"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "kadhannaa isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadhachaa isaanii"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "fi kadhachaa isaanii"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "raawwadhu"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "mootummaa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:51:32.857419524Z",
+  "model": "glm-5.3"
+}

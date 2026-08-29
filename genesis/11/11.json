@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sheemis ⟨את⟩ Arpaxshad kan dhalatee booda waggaa shan dhibba jiraate; ilmaan gabadhaa fi girtiftuu dhalsee jira.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiraate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "boda"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kan dhalatee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaxshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaxshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dhalsee jira"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmaan gabadhaa"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "girtiftuu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:38.393427574Z",
+  "model": "glm-5.3"
+}

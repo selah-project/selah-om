@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yahwe wajjin gammaddadhu; akkasumas gaaffii onnee kee siif kenna.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "gammaddadhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "gaaffii"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onnee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:58.614001364Z",
+  "model": "glm-5.3"
+}

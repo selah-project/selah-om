@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "⟨את⟩ sagalee Yahwe Eloohiim eddala keessatti qiilleensa guyyichaa irratti deemaa jiru dhageettanii, namichi fi dubartii isaa fuula Yahwe Eloohiim irraa of dhoksanii, eddala mukoota keessatti.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "dhageettanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "deemaa jiru"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "eddala keessatti"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "qiilleensa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyichaa"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "of dhoksanii"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namichi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "fi dubartii isaa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fuula … irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "eddalichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:08.745500066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ati niitii hin fudhattanu siif, fi mucaa dhiiraa fi mucaa durbaa siif hin ta'u bakka kana keessatti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fudhattanu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "niitii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hin ta'u"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mucaa dhiiraa"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "fi mucaa durbaa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bakka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:37.315458509Z",
+  "model": "glm-5.3"
+}

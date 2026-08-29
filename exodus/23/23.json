@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Sababa ergaan kiyya si dura deemee si geessa — gara Emoriiti, Hiittiifi, Perizuutiifi, Kenaaniitiifi, Hiwiitiifi, Yebusiitiif — ani isaan balleessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "deemee"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ergaan kiyya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "si dura"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "si geessa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriitiif"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiittiifi"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizuutiifi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kenaaniitiif"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwiitiif"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusiitiif"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "ani isaan balleessa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:10:24.029136291Z",
+  "model": "glm-5.3"
+}

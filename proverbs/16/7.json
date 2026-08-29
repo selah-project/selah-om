@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yeroo karaawwan namichaa Yahwe gammachiisu, diinaa Isaas Isaan waliin nagaa taasisa.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Yahwe gammachiisu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "karaawwan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namichaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Isaas"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "diinaa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nagaa taasisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Isaan waliin",
+      "marks": "Isaan waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:06:18.677299283Z",
+  "model": "glm-5.3"
+}

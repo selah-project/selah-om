@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Isinis akka humna kiyyaa hundaan ⟨את⟩ abbaa keessan tajaajiladhe beektu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "isinis"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hundaan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "humna kiyyaa"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "tajaajiladhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbaa keessan"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "abbaa keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T04:40:49.728657804Z",
+  "model": "glm-5.3"
+}

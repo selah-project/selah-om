@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Ajajicha fuuldurbeelessaa dubbatee Firoon akka jedhu, \"Yaalii koo har'a yaadachaadha.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbatee"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ajajicha"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "fuuldurbeelessaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Firoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaalii koo"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "yaalii koo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "yaadachaadha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    }
+  ],
+  "timestamp": "2026-08-29T04:47:35.962747427Z",
+  "model": "glm-5.3"
+}

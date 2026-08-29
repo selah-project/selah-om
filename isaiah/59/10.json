@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Akkuma ija hin qabne dalgaatti harkaan barbaanna; akkuma ijoota hin qabne harkaan barbaanna. Guyyaa guddaa keessa akka galgalaatti kufna; iddoo dhiboo keessatti akkuma du'anii taana.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "harkaan barbaanna"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "akkuma ija hin qabne"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dalgaatti"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "akkuma ... hin qabne"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ijoota"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "harkaan barbaanna"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "kufna"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "guyyaa guddaa keessa"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "akka galgalaatti"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "iddoo dhiboo keessatti"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "akkuma du'anii"
+    }
+  ],
+  "timestamp": "2026-08-29T15:00:15.153092232Z",
+  "model": "glm-5.3"
+}

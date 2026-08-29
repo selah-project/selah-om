@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Arge ⟨את⟩ jiraattoota hunda kan aduu jala socho'an, waliin mucaa lammaffaa, inni bakka isaas irratti dhaabbachaa jiru.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Arge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiraattoota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jiraattoota"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "kan socho'an"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dhaabbachaa jiru"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "bakka isaas irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:29.021092978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Yahwe qajeelaa ni qorata; dogoggoraa fi rakkisuu jaalatu immoo lubbuun Isaa ni jibba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "ni qorata"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "dogoggoraa"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "jaalatu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "rakkisuu"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ni jibba"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuun Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:29.886640620Z",
+  "model": "glm-5.3"
+}

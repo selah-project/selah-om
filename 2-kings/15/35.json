@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 15:35",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Garuu bakkoota ol-dhaadhaa hin haqamne; samiin seenaa fi hoo'a baadiyyaa bakkoota ol-dhaadhaa keessatti hojjedhu turan. Inni balballa gadii mana Yahwe isaa ol-dhaadhaa ijjise ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bakkoota ol-dhaadhaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "haqamne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "seenaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "samiin"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "seenaa fi"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "hoo'a baadiyyaa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bakkoota ol-dhaadhaa keessatti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inni"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ijjise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balballa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "balballa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ol-dhaadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:42.835884133Z",
+  "model": "glm-5.3"
+}

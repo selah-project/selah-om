@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiim ⟨את⟩ boreedonni lafaa gosa isaanii, fi ⟨את⟩ beeyladonni gosa isaanii, fi ⟨את⟩ raacuus hunda biyyee gosa isaatii hojjete; Eloohiim argate waan tole.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boreedonni lafaa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "boreedonni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "gosa isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beeyladonni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "beeyladonni"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "gosa isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raacuus hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "raacuus"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "biyyee"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "gosa isaatii"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tole"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:36.355090810Z",
+  "model": "glm-5.3"
+}

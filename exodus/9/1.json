@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahween Mosheetti jedhe: Para'oo seen, isaatti akkana jedhi: Akkana jedhe Yahwe, Eloohiim Ibirayeemotaa: ⟨את⟩ saba kiyya ergi, akka ana tajaajilan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para'oo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dubbatta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akkana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibirayeemotaa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba kiyya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "saba kiyya"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ana tajaajilan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:00:53.654213334Z",
+  "model": "glm-5.3"
+}

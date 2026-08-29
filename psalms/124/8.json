@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 124,
+  "translation": "Gargaarsa keenya maqaa Yahwe keessatti ti, kan samii fi lafa hojjete.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "gargaarsa keenya"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan … hojjete"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "fi lafa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:51.374646019Z",
+  "model": "glm-5.3"
+}

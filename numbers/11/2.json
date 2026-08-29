@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Sabaanis gara Mosheetti baqate; Mosheenis gara Yahweitti kadhe; ibiddi immoo dhaabate.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "baqate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara ... ti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "kadhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara ... itti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "dhaabate"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ibiddi"
+    }
+  ],
+  "timestamp": "2026-08-29T14:30:41.671783692Z",
+  "model": "glm-5.3"
+}

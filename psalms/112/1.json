@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 112,
+  "translation": "Halaluu Yaah! Gammachuun nama kan ⟨את⟩ Yahwe sodaatu, ajajoota Isaa keessatti baay'ee kan jaallatu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halaluu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Gammachuun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kan sodaatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "ajajoota Isaa keessatti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kan jaallatu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:16.632207255Z",
+  "model": "glm-5.3"
+}

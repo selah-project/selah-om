@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmooleen Aaraach, dhibba torba fi tamantam-shan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Aaraach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "tamantam-shan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:11:15.151593563Z",
+  "model": "glm-5.3"
+}

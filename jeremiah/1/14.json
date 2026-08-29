@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahweis gara koo \"Rakkinni kaabaa bahiinsa baha hunda biraa kan biyya guutuu irratti banama\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara koo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaabaa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "banama"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "rakkinni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kan biyya guutuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T09:22:29.452554410Z",
+  "model": "glm-5.3"
+}

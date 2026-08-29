@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Akka kana Aharooniifi ilmaan isaa irratti raawwattaa, akka waan hunda waan ani ajajetti si irratti ⟨את⟩; guyyoota torbaaf harka isaanii guuttita.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "raawwattaa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharooniif"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ilmaan isaa'iif"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka kana"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka waan hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ani ajajetti"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "guyyoota torbaa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "torbaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "guuttita"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "harka isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:22.672053650Z",
+  "model": "glm-5.3"
+}

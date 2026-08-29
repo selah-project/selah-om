@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Du'aan hin faarsu Yaah; warri gara duumaa gadi bu'anis hundi hin faarsu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "du'aan"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "faarsu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "warri gara isaa gadi bu'anis"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "duumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:36.860387736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Daangaa bal'ina harkaa naannoo isaa isa taasise; daangaa zaaraa daangaa isaa naannoo isa taasise.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bal'ina harkaa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "זר",
+      "gloss": "daangaa zaaraa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zaaraa"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "daangaa isaa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo isa taasise"
+    }
+  ],
+  "timestamp": "2026-08-29T05:26:09.760804209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Fi ⟨את⟩ hoshaan hojii ogeessaa, akka hojii effuddaa — dahabaa, buluukkaa, aragamaanii, tolaa diimaa fi dorroowaa maramee — hojjete.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fi hojjete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshaan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshaan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ogeessaa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "akka hojii"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "effuddaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluukkaa"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "fi aragamaanii"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "fi tolaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "fi dorroowaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "maramee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:28:15.822111226Z",
+  "model": "glm-5.3"
+}

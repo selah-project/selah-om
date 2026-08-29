@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Hamaa waan duraa kee hunda caalaa hojjettee — waan ati duraa turre hunda caalaa; fageenytee ati ofiif waaqota biroo fi waaqota baaqan uumtee ani akka jibbu, Anis ⟨את⟩ duuba gogaa keetti tuule.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "hamaa hojjettee"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjetuu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda caalaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turree"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "duraa kee"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "fageenytee"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "uumtee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ofiif"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waaqota"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "biroo"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "fi waaqota baaqan"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ani akka jibbu"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ Anis",
+      "marks": "Ani (Yahwe)"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "tuule"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "duuba"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "gogaa keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:59.894653820Z",
+  "model": "glm-5.3"
+}

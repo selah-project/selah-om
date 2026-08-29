@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Baadiyyuuwwan koo hunda irraa na baasi; harmaatta daawaa hin na godhin.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "hunda irraa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "baadiyyuuwwan koo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "na baasi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "harmaatta"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "daawaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "na godhin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:24.879403145Z",
+  "model": "glm-5.3"
+}

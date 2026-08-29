@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Tolaan koo isa irratti balbala, tolaa kiyya keessatti qabadama; Babiloon, biyya Kasdiyimtti isa fida; biyyicha sanis hin arguu, achis immoo du'a.",
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "tolaan koo isa irratti balbala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolaan koo (רשתי)"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "tolaan koo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "qabadama"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "tolas kiyya keessatti"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "fida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isa (Babiloonitti)"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babiloon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiyim"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ ⟨ואותה⟩",
+      "marks": "biyyicha san (לא יראה)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arguu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "achis"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T10:08:28.415117561Z",
+  "model": "glm-5.3"
+}

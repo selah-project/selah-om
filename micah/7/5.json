@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hin amaninaa akkaataa dheeratti, hin ittamannaas akkaataa jaallaa; kan bosonaa kee irratti hirribdu irraa, baafata afaan kee eegi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "amaninaa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "akkaataa dheeratti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ittamannaas"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "akkaataa jaallaa"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "kan bosonaa irratti hirribdu"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "kee"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eegi"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "baafata"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afaan kee"
+    }
+  ],
+  "timestamp": "2026-08-29T10:56:42.531153764Z",
+  "model": "glm-5.3"
+}

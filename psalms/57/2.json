@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Chiyaadhu naa, Eloohiim, chiyaadhu naa; lubbuun kiyya si keessatti hirkattee fi, illee gaafa kormanja kee jala ni hirkadha, yeroo balleensi darbutti.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "chiyaadhu naa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "chiyaadhu naa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "hirkattee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuun kiyya"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "illee gaafa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kormanja kee"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ni hirkadha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "balleensi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:55.135606942Z",
+  "model": "glm-5.3"
+}

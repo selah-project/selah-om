@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Nu duubatti deebifte gara feraajaa; waan nu jedhu ni hiiksuu waan isaanitti eegamu barbaadan.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Nu deebifte"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "duubatti"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gara... irraa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "feraajaa"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "waan nu jedhu"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "ni hiiksuu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "waan isaanitti eegamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:34.938916841Z",
+  "model": "glm-5.3"
+}

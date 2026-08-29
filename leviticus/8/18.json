@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Kormaa qurnaaraa dhiyese; Aharooniifi ijoolleen isaa ⟨את⟩ harka isaanii mataa kormaa san irratti kaa'an.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dhiyese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kormaa qurnaaraa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kormaa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurnaaraa"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "kaa'an"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ijoolleen isaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaanii"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "kormaa san"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:41.608532818Z",
+  "model": "glm-5.3"
+}

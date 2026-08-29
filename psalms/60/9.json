@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Gilad kan kiyya, Manaassees kan kiyya; Efiraamiimmoo humna bantii kiyya; Yahuuda seerumaa kiyya.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kan kiyya"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "kan kiyya -s"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manaasse"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efiraamiimmoo"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bantii kiyya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "seerumaa kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:32.746844566Z",
+  "model": "glm-5.3"
+}

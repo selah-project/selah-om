@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Haman immoo of-eegge, mana isaatti galte, ergaa fi ⟨את⟩ jaallatoota isaa fi ⟨את⟩ Zeeresh haadha manaa isaatis isa biraa geessise.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "of-eegge"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "galte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaatti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ergaa fi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "geessise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaallatoota isaa"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "jaallatoota isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "haadha manaa isaatis"
+    }
+  ],
+  "timestamp": "2026-08-29T15:34:28.305555059Z",
+  "model": "glm-5.3"
+}

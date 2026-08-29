@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 91,
+  "translation": "Gara fuula isaa ija keetiin qofa ilaalt; kaffaltii dogoggora-tumaa ni argita.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ija keetiin"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ilaalt"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "kaffaltii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dogoggora-tumaa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ni argita"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:11.718551503Z",
+  "model": "glm-5.3"
+}

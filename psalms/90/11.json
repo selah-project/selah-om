@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Eenyumtu humna booda kee beeka? Akka sodaacha kee, akkasuma kabaja keetti.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyumtu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "booda kee"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "akka sodaacha kee"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kabaja keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.633339237Z",
+  "model": "glm-5.3"
+}

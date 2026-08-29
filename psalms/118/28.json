@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Ati Eel kiyya dha; nan-galateeffisa; Eloohiim kiyya, nan-ol-kaasa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eel kiyya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "nan-galateeffisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "nan-ol-kaasa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:26.115466587Z",
+  "model": "glm-5.3"
+}

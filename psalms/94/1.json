@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 94,
+  "translation": "Eel deebii, Yahwe; Eel deebii, ifatti ba'i.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "deebii"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ifatti ba'i"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:12.720503822Z",
+  "model": "glm-5.3"
+}

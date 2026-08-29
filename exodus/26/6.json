@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Fi digdamsa qarsootaa warqee tolfedha; fi ⟨את⟩ birda'oota tokkoon gara obboleettii ishee qarsootan walitti qabadhu; Mishkanichi tokko ta'a.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "fi tolfedha"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "digdamsa"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "qarsootaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "fi walitti qabadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birda'oota"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "birda'oota"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obboleettii ishee tokkoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "obboleettii ishee"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "qarsootan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanichi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T05:13:38.727340911Z",
+  "model": "glm-5.3"
+}

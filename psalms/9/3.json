@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Si wajjinin nan si'aadadha, si keessatti nan hawwaddadha; Maqaa kee Elyoonin nan siru.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "nan si'aadadha"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "nan hawwaddadha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si wajjinin \/ si keessatti"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nan siru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Maqaa kee"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:53.585229097Z",
+  "model": "glm-5.3"
+}

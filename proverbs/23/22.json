@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Dhaga'i abbaa kee kan si dhalche; haadha kee yeroo gitee hin salphisi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dhaga'i"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "abbaa kee"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "kan si dhalche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "salphisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "yeroo gitee"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haadha kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:09:24.290673733Z",
+  "model": "glm-5.3"
+}

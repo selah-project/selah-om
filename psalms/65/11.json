@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 65,
+  "translation": "Dangoo ishee dhoorarta; haaraawwan ishee gadi baafte; roobawwanan ishee laaftifta; haadha ishee eebbissa.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "dangoo ishee"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "dhoorarta"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "gadi baafte"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "haaraawwan ishee"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "roobawwanan"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "laaftifta"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "haadha ishee"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "eebissa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:38.193397891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "⟨את⟩ Moo'aabis rukute; Moo'aabonni gabroota Daawid ta'an, kaffalaa fidan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moo'aab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aabonni"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gabroota"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Daawiidif"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "fidan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kaffalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T13:39:23.035289930Z",
+  "model": "glm-5.3"
+}

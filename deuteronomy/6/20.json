@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yeroon ijji kee si gaafatu «boruu» jedhuu: Maal jechuudha ragoonni, seeronni fi murtoonni kun, kan Yahwe Eloohiim keenya «Isin» ajaje?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yeroon...gaafatu"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "ijji kee si gaafatu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ijji kee"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "boruu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maal jechuudha"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ragoonni"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "seeronni"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "murtoonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ Isin",
+      "marks": "Isin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:16:36.124975696Z",
+  "model": "glm-5.3"
+}

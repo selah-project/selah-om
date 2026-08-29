@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Jecha isaa Ya'aqoobiif hima; seera isaaifi murtoolee isaa Israa'eeliif.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "hima"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Jecha isaa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ya'aqoobiif"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "seera isaa"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "murtoolee isaa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'eeliif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:15.760976334Z",
+  "model": "glm-5.3"
+}

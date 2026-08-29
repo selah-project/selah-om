@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Daawid ⟨את⟩ waan hunda kan Amaleek fudhate deebise; ⟨את⟩ dubartoota lama isaa Daawid baraarse.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "deebise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan hunda kan Amaleek fudhate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dubartoota lama isaa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "dubartoota isaa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "baraarse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:03.229099923Z",
+  "model": "glm-5.3"
+}

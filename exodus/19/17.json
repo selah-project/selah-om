@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Mosheenis ⟨את⟩ ummata Eloohiim-qunnamsiisuuf kampa irraa baase; isaan gaarree jalatti dhaabbani.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "baase"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheenis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qunnamsiisuuf"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "dhaabbani"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarree"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:38.087435697Z",
+  "model": "glm-5.3"
+}

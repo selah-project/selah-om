@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Isaani booda waggaa torban beelaa ka'u; gatangoon hundi biyya Mitsraayim keessatti ni dagata; beelaan ⟨את⟩ biyya ni balleessa.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "ka'u"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torban"
+    },
+    {
+      "surface": "שני",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "beelaa"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "Isaani booda"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ni dagata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "gatangoon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ni balleessa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "beelaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyya"
+    }
+  ],
+  "timestamp": "2026-08-29T14:16:44.216189028Z",
+  "model": "glm-5.3"
+}

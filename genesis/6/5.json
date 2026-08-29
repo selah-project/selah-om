@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahween akka rakkinni namaa dachii keessatti baay'ee ta'e arguun, akkasumas wantoota onnee isaa yaadu hundi guyyaa guyyaa hamtuu qofa ta'u argate.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arguun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "rakkinni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii keessatti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkasumas wantoota"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yaadu"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "yaadannoo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "qofa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:19.947793382Z",
+  "model": "glm-5.3"
+}

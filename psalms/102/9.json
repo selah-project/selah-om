@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Guyyaa guutuu diyyoonni kiyya na lagatan; sanalee na hawwisaniis waan kooatti kakatan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "na lagatan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "diyyoonni kiyya"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "sanalee na hawwisani"
+    },
+    {
+      "surface": "בי",
+      "gloss": "waan kooatti"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "kakatan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:59.373338593Z",
+  "model": "glm-5.3"
+}

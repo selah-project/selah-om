@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Gara kuma shan namootaa fudhee, ⟨את⟩ isaan maraatii Beeyt Eelii fi Aayi gidduutti — magaalaa dhihaatti — dhiyee.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhee"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "gara shan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namootaa (dhiira)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dhiyee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maraatii"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "maraatii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beeyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eelii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aayii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dhihaatti"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:46:49.995340529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 116,
+  "translation": "Sababiin isaas nafa koo du'aa irraa, ⟨את⟩ ija koo imimmaan irraa, ⟨את⟩ miila koo kufuu irraa na baraarfachteetta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaas"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "na baraarfachteetta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa koo"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "du'aa irraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ija koo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija koo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "imimmaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miila koo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miila koo"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "kufuu irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:01.470183709Z",
+  "model": "glm-5.3"
+}

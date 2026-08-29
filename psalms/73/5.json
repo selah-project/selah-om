@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Rakkoo du'aattootaa keessatti hin jiran; namoota (adamummaa) wajjin hin rakkifaman.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "rakkoo keessatti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "du'aattootaa"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "hin jiran"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "namoota wajjin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamummaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "rakkifaman"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:46.967270433Z",
+  "model": "glm-5.3"
+}

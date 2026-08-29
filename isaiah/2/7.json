@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ligni isaa kuusaa fi warqee tiin guutameera, qabeenya isaa lakkoofsa hin qabu; ligni isaa farda tiin guutameera, gaariwwan isaa lakkoofsa hin qabu.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "guutameera"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ligni isaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuusaa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "lakkoofsa"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "qabeenya isaa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "guutameera"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ligni isaa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin qabu"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "lakkoofsa"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "gaariwwan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:19.293303061Z",
+  "model": "glm-5.3"
+}

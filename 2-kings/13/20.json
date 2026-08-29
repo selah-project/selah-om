@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Akkas Eliishaas du'e, ajajeffame. Akka yeroo sanatti, gareewwan ajajaa Mo'aab biyya keessa seenaniitu, yeroo yeroo yeroo sanatti.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliishaas"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ajajeffame"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "gareewwan ajajaa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "seenan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yeroo yeroo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yeroo sanatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:33:06.173625787Z",
+  "model": "glm-5.3"
+}

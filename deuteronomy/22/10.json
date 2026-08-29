@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sangaa fi harree waliin hin faarsitu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "faarsitu"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "sangaatti"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "fi harree"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:27:39.143812014Z",
+  "model": "glm-5.3"
+}

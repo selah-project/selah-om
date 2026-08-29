@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Faanoosaa, dhiiga ishee ⟨את⟩ gara bakka qulqulluu keessa hin fidamneef; ishee bakka qulqulluu keessatti akka ajajetti koo aa'aa taa'aa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Faanoosaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "fidamneef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga ishee"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "dhiiga ishee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bakka qulqulluu"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "aa'aa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "taa'aa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ishee"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "bakka qulqulluu keessatti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ajajetti koo"
+    }
+  ],
+  "timestamp": "2026-08-29T05:36:24.971950101Z",
+  "model": "glm-5.3"
+}

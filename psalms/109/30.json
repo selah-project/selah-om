@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Yahwe bal'inaan afaan koo biratti galata galmeessa; namoota hedduu keessatti Isaa faarsa.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "galata galmeessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bal'inaan"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afaan koo biratti"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "namoota hedduu"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "Isaa faarsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:46.400611861Z",
+  "model": "glm-5.3"
+}

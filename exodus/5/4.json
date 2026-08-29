@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Mootichi Mitsraayim akkuma \"Maalaa akkan jechi, Moshee fi Aharoon, sabaa hojii isaa irraa ariifattaa? Gara rakkoo keessanii deebiaa\" isaaniin jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaaniif"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maalaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "balleessattaniinitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabichaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabichaa"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "hojii isaa irraa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "deebiaa"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "gara rakkoo keessaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:52.240920227Z",
+  "model": "glm-5.3"
+}

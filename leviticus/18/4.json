@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Murtii kiyya ⟨את⟩ hojjitaniittu; chuuqoo kiyya ⟨את⟩ eekgattaniittu, isaaniin deemuuf; Ani Yahwe, Eloohiim keessan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murtii kiyya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murtii kiyya"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hojjitaniittu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chuuqoo kiyya"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "chuuqoo kiyya"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "eekgattaniittu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "deemuuf"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohiim keessan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:53.990681600Z",
+  "model": "glm-5.3"
+}

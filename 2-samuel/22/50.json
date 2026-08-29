@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Sababa kanaaf, gaarreen keessan gidduu Yahwe siin galateeffadha; maqaa keetiinis siin sirreessa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "siin galateeffadha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gaarreen keessan gidduu"
+    },
+    {
+      "surface": "ו לשמך",
+      "gloss": "akkasumas maqaa keetiinis"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "siin sirreessa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:58:57.583897444Z",
+  "model": "glm-5.3"
+}

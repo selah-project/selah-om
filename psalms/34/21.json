@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Kun hunda lafee isaa eega; tokko kanneen irraa hin ciccime.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "lafee isaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "kanneen irraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ciccime"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:36.273248993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 135,
+  "translation": "Mallatteewwan fi ajaa'ibbee gara keessaa kee erge, yaa Mitsraayim, Fir'awn irratti fi gabroota isaa hundatti.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "erge"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "mallatteewwan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "fi ajaa'ibbee"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "gara keessaa kee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Fir'awn irratti"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "fi hundatti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gabroota isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:27.128509170Z",
+  "model": "glm-5.3"
+}

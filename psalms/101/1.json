@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 101,
+  "translation": "Mazmara kan Daawid. Kheesed fi murtii nan laalu; keef, Yahwe, nan heesseeffadha.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmara"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi murtii"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nan laalu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "keef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nan heesseeffadha"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:27.302555066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Ani Yahwe; suni maqaan koo; ulfina koo kan biraa hin kennu, faarfama kiyyaas wantoota kutattamanif hin kennu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "suni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "maqaan koo"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ulfina koo"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kan biraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "faarfama kiyyaas"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "wantoota kutattaman"
+    }
+  ],
+  "timestamp": "2026-08-29T09:07:00.428996408Z",
+  "model": "glm-5.3"
+}

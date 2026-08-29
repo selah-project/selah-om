@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Yahwe irratti hirkadhu onnee kee guutuudhaan; fi hubannoo kee irratti hin taa'in.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "hirkadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuudhaan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi... irratti"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "hubannoo kee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "taa'in"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:43.369096250Z",
+  "model": "glm-5.3"
+}

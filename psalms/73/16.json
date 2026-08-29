@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Achiis kun beekuuf yaadeera; kun ijaarratti himmata dha.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "yaadeera"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "beekuuf"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "himmata"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dha"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ijaarratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:49.268097364Z",
+  "model": "glm-5.3"
+}

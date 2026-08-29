@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Fi ⟨את⟩ tokkoo-kosaa, fi ⟨את⟩ shalaakhaa, fi ⟨את⟩ yanshoophaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "tokkoo-kosaa"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "tokkoo-kosaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "shalaakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalaakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "yanshooph"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshooph"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:12.936502656Z",
+  "model": "glm-5.3"
+}

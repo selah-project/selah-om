@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Kanaaf jedhi: Kunnaa, kakuu kiyya nagaas isaaf nan kenna.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kunnaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nan kenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu kiyya"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakuu kiyya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:05:48.125862301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "⟨את⟩ adurree fi urjiiwwan halkan bulchuuf; kanaaf kheesdi isaa yeroo hunda ture.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adurree"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "adurree"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "fi urjiiwwan"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "bulchuuf"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesdi isaa ture"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:07.862949184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Nu mul'isi, Yahwe, kheesed kee, badhaadhaa kee nuuf kenni.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Nu mul'isi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesed kee"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "badhaadhaa kee"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:18.526794882Z",
+  "model": "glm-5.3"
+}

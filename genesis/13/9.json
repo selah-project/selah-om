@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Sila biyyi hundi fuuldura kee mitii? Maaloo na irraa addaan ba'i; yoo bitaatti deemtu, ani mirgaatti; yoo mirgaatti deemtu, ani bitaatti.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sila... mitii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "biyyi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuuldura kee"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "addaan ba'i"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maaloo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "na irraa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "bitaatti"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ani mirgaatti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "mirgaatti"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ani bitaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:30:00.874711061Z",
+  "model": "glm-5.3"
+}

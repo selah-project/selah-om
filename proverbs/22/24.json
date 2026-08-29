@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Balaalee kan adiina wajjin hin jiraadhu, fi ⟨את⟩ kan daangaa-diina bira hin dawwadhu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "jiraadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaalee kan adiina"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "balaalee kan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "adiina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "daangaa-diina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dawwadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:10:23.613210199Z",
+  "model": "glm-5.3"
+}

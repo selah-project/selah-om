@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ibiddi Yahwe bu'e, ⟨את⟩ kurbanii gubame fi ⟨את⟩ mukoota fi ⟨את⟩ dhagoota fi ⟨את⟩ cabbii fi ⟨את⟩ bishaan kan teessoo keessa jiru arrabaan isaatiin male.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "bu'e"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibiddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": " (obboofte)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbanii gubame"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurbanii gubame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "mukoota"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "dhagoota"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagoota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "cabbii"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "cabbii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "bishaan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "teessoo keessa jiru"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "arrabaan isaatiin male"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:25.588326655Z",
+  "model": "glm-5.3"
+}

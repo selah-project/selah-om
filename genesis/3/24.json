@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "⟨את⟩ namicha addan baase; bahaan baadiyyaa Edni irratti ⟨את⟩ Keerubotaanifi ⟨את⟩ ancaasii si'aa jijjiiramaa daandii muka jireenyaa eeguuf jirchiise.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "addan baase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namicha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "jirchiise"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "bahaan"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "baadiyyaa irratti"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keerubotaanii"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "Keerubotaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "ancaasii si'aa"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ancaasii si'aa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "meecha"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "jijjiiramaa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eeguuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daandii"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jireenyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:25.997163311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Isaan biyya Mitsraayim irraa nan deebisa, Ashur irraanis nan qabsee walitti nan fidaysa; biyya Gilgaad fi Libaanoonis nan seensa; iddoon isaanitiif hin argamu.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "nan deebisa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "biyya irraa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "Ashur irraa"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "nan qabsee walitti nan fidaysa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilgaad"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "Libaanoonis"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "nan seensa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "argamu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitiif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:05:01.362714244Z",
+  "model": "glm-5.3"
+}

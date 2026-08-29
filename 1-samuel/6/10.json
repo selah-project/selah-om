@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Namoonni akka godhanii, gaa'elota lama horatanii fudhatanii, gaarii irratti hidatanii, ⟨את⟩ mucaa isaanii mana keessatti cufan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "godhanii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "fudhatanii"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "gaa'elota"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "horatanii"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "hidatanii"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "gaarii irratti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mucaa isaanii"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "mucaa isaanii"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "cufan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:20:49.480455571Z",
+  "model": "glm-5.3"
+}

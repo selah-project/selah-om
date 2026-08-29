@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Siyoona irraa, guutummaa miidhaginaa, Eloohiim ifa baate.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Siyoona irraa"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "guutummaa"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "miidhaginaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ifa baate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:55.561492169Z",
+  "model": "glm-5.3"
+}

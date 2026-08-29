@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kunoo maqaa ilmaan Aharooni, qotiyaalee dibaman, kan harka isaanii guutame akka qotiyaana tajaajilan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "qotiyaalee"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "dibaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "guutame"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "harka isaanii"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "akka qotiyaana tajaajilan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:49:19.369973904Z",
+  "model": "glm-5.3"
+}

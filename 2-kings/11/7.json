@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Lameen gareewwan keessan, warra Sabbiittaa bahan hundi, eegannaa manaa Yahwe ⟨את⟩ eegaa, naannoo mootichaa.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "lameen"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "gareewwan"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "keessan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "bahan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabbiittaa"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eegannaa manaa Yahwe"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "eegannaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:45.506869415Z",
+  "model": "glm-5.3"
+}

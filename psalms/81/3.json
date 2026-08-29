@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 81,
+  "translation": "Zeemarree ol baasaa, tummee kennaa, kiinnaar jaallatamaa naabilliin waliin.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ol baasaa"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zeemarree"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tummee"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kiinnaar"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "jaallatamaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "naabil"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:25.191936383Z",
+  "model": "glm-5.3"
+}

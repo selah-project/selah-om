@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Gogoggoo ooramtuuwwan diidaa dawnifamanii, gogoggoo takhashiimootaa fi mukoota shiitiimii.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "gogoggoo"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ooramtuuwwan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "diidaa dawnifamanii"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "gogoggoo"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhashiimootaa"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiitiimii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:33.162734661Z",
+  "model": "glm-5.3"
+}

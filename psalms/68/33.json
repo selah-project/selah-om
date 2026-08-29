@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Mootummoonni lafaa, Eloohiimitti sirreefadaa; Adoonaayitti kabajaa sirreefadaa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "mootummoonni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "sirreefadaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohiimitti"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "sirreefadaa kabajaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaayitti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:33.747093604Z",
+  "model": "glm-5.3"
+}

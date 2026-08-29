@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kunoo, Adoonaay, Yahwe Tseva'ot Yerushaalayimi fi Yehudaatti irraa deeggarsa dhiiraa fi deeggarsa dubaraa — deeggarsa dagalee hunda fi bishaan deeggarsu hunda ni kaasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "ni kaasa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushaalayimi irraa"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "fi Yehudaatti irraa"
+    },
+    {
+      "surface": "משען",
+      "gloss": "deeggarsa dhiiraa"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "fi deeggarsa dubaraa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "deeggarsa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dagalee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hunda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "deeggarsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:42:30.339530341Z",
+  "model": "glm-5.3"
+}

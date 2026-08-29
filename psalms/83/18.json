@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 83,
+  "translation": "Sorumtu haa ta'anii, yeroo hunda haa ajaa'ibsiitan, haa dulloomaniitis haa badaniitti.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "haa sorumtu ta'anii"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "haa ajaa'ibsiitan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "haa dulloomaniitis"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "haa badaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:22.423541804Z",
+  "model": "glm-5.3"
+}

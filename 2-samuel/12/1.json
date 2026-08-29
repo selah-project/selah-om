@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahwe Nataan Daawidiif ergamsiisaa isa erges; innis isatti dhufe, akkas jedhes: \"Namoota lama tokko magaalaa tokko keessatti turan; tokki duraa qabeessa, tokki immoo hiyyeessa.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erges"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nataan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nataan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "daangaa irratti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isatti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "היו",
+      "gloss": "turan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalaa keessatti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokki"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "qabeessa"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "tokki immoo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hiyyeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:47:22.498963064Z",
+  "model": "glm-5.3"
+}

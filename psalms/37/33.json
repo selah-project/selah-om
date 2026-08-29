@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Yahwe hin dhiisu isa harka isaa keessatti, akkasumas hin mirkaneessu yeroo inni murtiifamutu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "dhiisu isa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "harka isaa keessatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "mirkaneessu isa"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "yeroo inni murtiifamutu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:51.501593656Z",
+  "model": "glm-5.3"
+}

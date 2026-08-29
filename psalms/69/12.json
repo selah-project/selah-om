@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Caacaa uffadhe uffata koo taasisiisi, isaanif mammaksa ta'eera.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "uffadhe... taasisiisi"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "uffata koo"
+    },
+    {
+      "surface": "שק",
+      "gloss": "caacaa"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ta'eera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "mammaksa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:47.458866658Z",
+  "model": "glm-5.3"
+}

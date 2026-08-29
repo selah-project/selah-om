@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani \"si hojjedhaa miti, isin gadi baafadha\" jedheera: ani ⟨את⟩ isin miidhamtuu Mitsraayim irraa ol baafadha, gara biyya Keena'anaan, Hiittii, Emorii, Perizzii, Hiivii fi Yebusiitti, gara biyya aannan fi dawaa dhangamsaatti.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jedheera"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ol baafadha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "miidhamtuu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Keena'anaan"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiittii"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emorii"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizzii"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hiivii"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "dhangamsa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "aannan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:39.312388243Z",
+  "model": "glm-5.3"
+}

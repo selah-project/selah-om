@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Ol'aanaaf, ilmaan Qoraach, sirbii.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ol'aanaaf"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sirbii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:26:39.229685741Z",
+  "model": "glm-5.3"
+}

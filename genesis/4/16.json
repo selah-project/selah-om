@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Kajin Yahwe jala ba'e; Eedenaa bahaatti, biyya Nood keessatti jiraachaa hafe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "Yahwe jala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraachaa hafe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nood"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "bahaatti"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eedenaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:26:13.595051688Z",
+  "model": "glm-5.3"
+}

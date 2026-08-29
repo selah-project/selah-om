@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Daawidis kakaabnaa kana ⟨את⟩ adaaddii kana sha'uul irrattis, Yehoonatan ilma isa irrattis hojeteera.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "adaaddii hojeteera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakaabnaa"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "kakaabnaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irrattis"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilma isa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:42:53.883705283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 93,
+  "translation": "Yahwe abiin mootummaa; ulfina hoo'ate, Yahwe humna hoo'ate, of marseenis; akkasumas addunyaan ni dhaabbattu, hin sochooftu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "abiin mootummaa"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ulfina"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "hoo'ate"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "hoo'ate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "humna"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "of marseenis"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ni dhaabbattu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sochooftu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:15.404232728Z",
+  "model": "glm-5.3"
+}

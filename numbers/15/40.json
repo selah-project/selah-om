@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Akka isin yaadattanii ⟨את⟩ ajajaawwan kiyya hunda raawwattanifiifi, Eloohiim keessaniif qulqullu taatanifi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "akka...tanifiifi"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "yaadattanii"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "raawwattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajajaawwan kiyya hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ajajaawwan kiyya"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "taatan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullu"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Eloohiim keessaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T06:01:06.376898361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 50,
+  "translation": "Boqonnaa kee irratti si hin kufsiisu; qoricha kee kan ibiddaan qoorame duraa koo yeroo hunda jira.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "boqonnaa kee"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "kufsiisu si"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "qoricha kee kan ibiddaan qoorame"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "duraa koo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:33.909615111Z",
+  "model": "glm-5.3"
+}

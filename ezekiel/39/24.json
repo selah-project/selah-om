@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Akka hin-qulqullina isaanii fi akka daddarba isaanii ta'eetti ⟨את⟩ isaan waliin hojjedhe, fuula kiyyas isaan irraa dhoke.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "akka hin-qulqullina isaanii"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "fi akka daddarba isaanii"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan (Warra Israa'eel)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "dhoke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula kiyya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:29:56.003870644Z",
+  "model": "glm-5.3"
+}

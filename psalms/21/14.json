@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yahwe, humna keetiin ol taasi; waltanna, laalanna humna kee.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ol taasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "humna keetiin"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "waltanna"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "laalanna"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "humna kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:25.456908785Z",
+  "model": "glm-5.3"
+}

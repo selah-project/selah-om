@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Sanyiin bahe, ⟨את⟩ kampa Aramitis hammuudame. Se'a tokko midhaan xinchaa shiqeelaa tokkotti, se'a lamaan garuu se'eelaa tokkotti ta'e, akka jechicha Yahwe ti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Sanyiin bahe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Sanyiin"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "hammuudame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampa Aramitis"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramitis"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "Se'a tokko"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "midhaan xinchaa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shiqeelaa tokkotti"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "se'a lamaan"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "se'eelaa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shiqeelaa tokkotti"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akka jechicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T14:52:38.415417614Z",
+  "model": "glm-5.3"
+}

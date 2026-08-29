@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 22:21",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Ijoolleen Re'uubeen, ijoolleen Gaad fi walakka sabicha Menaasheh deebisanii, gargaaraa kumaa Yisraa'el wajjin dubbatan.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ijoolleen"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uubeen"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "fi ijoolleen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "fi walakka"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sabicha"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menaasheh"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dubbatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gargaaraa kumaa Yisraa'el"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "gargaaraa"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "kumaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T06:57:02.755927407Z",
+  "model": "glm-5.3"
+}

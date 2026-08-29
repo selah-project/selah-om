@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Isaaf sabbata warqee afur godha; sabbatawwan ⟨את⟩ kofura afur irratti, kan ji'oota afur isaatti, kaaadhu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "godha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "sabbata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaaadhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabbatawwan"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "sabbatawwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "kofura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ji'oota isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:12:16.258300546Z",
+  "model": "glm-5.3"
+}

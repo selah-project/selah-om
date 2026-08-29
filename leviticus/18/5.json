@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Seerota kiyya eegaa, raggaabbii kiyya tiinis, wantoota nama hojjetu isaaniitiin jiraacha jiraata; Ani Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eegaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seerota kiyya"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "seerota kiyya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raggaabbii kiyya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "raggaabbii kiyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wantoota"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hojjetu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jiraacha jiraata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaaniitiin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:41:06.674001602Z",
+  "model": "glm-5.3"
+}

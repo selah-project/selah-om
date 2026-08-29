@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 28:13",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Akkasumas tulcha irratti Yahwe dhaabbateera, akkas jedhees: Ani Yahwe, Eloohiim Avraahaam abiisha kee, fi Eloohiim Is-haak dha; lafa ati ishee irratti haa jirtu, siif nan kennaa akkaataa, akkasumas sanyii keef.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dhaabbateera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tulcha irratti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhees"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraahaam"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abiisha kee"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "fi Eloohiim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is-haak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "haa jirtu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nan kennaa akkaataa"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "akkasumas sanyii keef"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:50.803948221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Sila isaan Yahwe batiittii isaanii keessatti gargar-kaananiiti; Inni isaan morma-dhiphinaa isaanii keessaa baafata.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "gargar-kaananiiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "batiittii isaanii keessatti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "morma-dhiphinaa isaanii keessaa"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "Inni isaan baafata"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:34.285621567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 124,
+  "translation": "Yahwe yoo nuuf hin taane, yeroo namoonni nu garatti kaaniitti:",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "yoo hin taane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "hin taane"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "yeroo kaaniitti"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu garatti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoonni"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:36.382919574Z",
+  "model": "glm-5.3"
+}

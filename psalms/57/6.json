@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 57,
+  "translation": "Ol ol'u, Eloohiimyii, samiiwwan olii; ulfina kee lafa irratti hunda irratti.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ol ol'u"
+    },
+    {
+      "surface": "על",
+      "gloss": "olii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimyii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ulfina kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:34.199803996Z",
+  "model": "glm-5.3"
+}

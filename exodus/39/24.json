@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Miidhaga rirmaawwan meelichaa irratti rimonoota keelloo-araaraa diimoo-dheebaa fi diimaa furdaa fii meedaan furdaa kan sochawwan taphatame hojjedhaaniin.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjedhaaniin"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "rirmaawwan"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "meelichaa"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "rimonoota"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "keelloo-araraa"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "diimoo-dheebaa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fii meedaan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kan sochawwan taphatame"
+    }
+  ],
+  "timestamp": "2026-08-29T15:54:45.950884974Z",
+  "model": "glm-5.3"
+}

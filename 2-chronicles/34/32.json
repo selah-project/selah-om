@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Yerushalaam fi Benyamiin keessatti waan argame hunda ⟨את⟩ ni dhaabbisuu; maatoothan Yerushalaam akka kakkoo Eloohiim, Eloohiim abbootii isaanii, ni hojjejjenii.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dhaabbisuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "waan argame"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaam keessatti"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "fi Benyamiin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ni hojjejjenii"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "maatoothan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaam"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "akka kakkoo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "abbootii isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T14:12:17.097905708Z",
+  "model": "glm-5.3"
+}

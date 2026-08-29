@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Guyyaa jaha hojjadhu, hojii kee hunda raawwadhu.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "hojjadhu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "raawwadhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "hojii kee"
+    }
+  ],
+  "timestamp": "2026-08-29T05:08:02.159673922Z",
+  "model": "glm-5.3"
+}

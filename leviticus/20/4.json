@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Sabni dachees yoo ⟨את⟩ ija isaanii namicha sana irraa dhoksataniin, sanyi isaa Molekhiif kennuu isaa irratti, isaa hin ajjeefamuuf.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "dhoksuun"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "dhoksatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ija isaanii"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ija isaanii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "kennuu isaa irratti"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "sanyi isaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekhiif"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hin...uuf"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ajjeefamu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:42:56.503085189Z",
+  "model": "glm-5.3"
+}

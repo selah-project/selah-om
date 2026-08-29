@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Ati garuu deebisaa jirta, ni diddaa; Maashiyaak kee wajjin gaddoo jirta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati garuu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "deebisaa jirta"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ni diddaa"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "gaddoo jirta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maashiyaak kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:31.678443256Z",
+  "model": "glm-5.3"
+}

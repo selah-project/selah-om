@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Yaadannoon yakka abbootii isaa Yahwe biratti haa ta'u; badii haadha isaa immoo hin dhiifamu.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "haa yaadatamu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "yakka"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abbootii isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biraatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "badiis"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "dhiifamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.683562007Z",
+  "model": "glm-5.3"
+}

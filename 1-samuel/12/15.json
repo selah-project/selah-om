@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yoo sagalee Yahwe hin dhaggeeffanne, afaan Yahwe diddattan, harki Yahwe isin irratti fi abbootii keessan irratti taati.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhaggeeffanne"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "diddattan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afaan Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "taati"
+    },
+    {
+      "surface": "יד",
+      "gloss": "harki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "isin irratti"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "abbootii keessan irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:15.895614435Z",
+  "model": "glm-5.3"
+}

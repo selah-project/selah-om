@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe natti akka jedhu: ⟨את⟩ sabaa kana argadhe — akkasumas, sanuu sabaa gogorree duubaa ⟨is⟩ dha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "natti jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaa kana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gogorree"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "duubaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dha"
+    }
+  ],
+  "timestamp": "2026-08-29T06:20:03.546460444Z",
+  "model": "glm-5.3"
+}

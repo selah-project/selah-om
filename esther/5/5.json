@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Mootichiinis jedhe: Hamaanitti haar'aa, akka waan Estheri jedhe hundumaasuuf. Mootichiinis fi Hamaanis waadaa Estheri hojjettetti dhufan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mootichiinis jedhe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "haar'aa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamaan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamaan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hundumaasuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan Estheri (waan jedhe)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estheri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dhufan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Hamaanis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "waadaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hojjette"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estheri"
+    }
+  ],
+  "timestamp": "2026-08-29T12:53:23.478990189Z",
+  "model": "glm-5.3"
+}

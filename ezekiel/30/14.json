@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "⟨את⟩ Pattros goggora, Tso'ani keessatti ibidda kenna, Noo keessatti immoo murtiiwwan raawwadha.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "goggora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pattros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Pattros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tso'ani keessatti"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "raawwadha"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "murtiiwwan"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "Noo keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:22:27.759279582Z",
+  "model": "glm-5.3"
+}

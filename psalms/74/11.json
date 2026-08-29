@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Maaliif harka kee, bahaa mirgaa kees, deebifta? Cidha kee irraa baaf, balleessi.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "deebifta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harka kee"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "bahaa mirgaa kees"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "cidha kee"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "balleessi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:57.854555470Z",
+  "model": "glm-5.3"
+}

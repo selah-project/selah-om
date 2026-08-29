@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Ati humna adda waraabbii naa marsita; ka'attootni koo jala koo naaf ajajita.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Ati... naa marsita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humna adda"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "waraabbii"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "naaf ajajita"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ka'attootni koo"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "jala koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:59.164893353Z",
+  "model": "glm-5.3"
+}

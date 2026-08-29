@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Manni nyaataas mana wal-gayii keessa dhaabe, daangaa kaabaa Mishkaaniirratti, alaa gannaa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dhaabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manni nyaataa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "manni nyaataa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wal-gayii keessa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "daangaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkaani"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kaabaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "gannaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:24:18.896506516Z",
+  "model": "glm-5.3"
+}

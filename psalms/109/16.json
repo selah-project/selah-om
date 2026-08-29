@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Sababa kanaaf, waan kheesed godhu hin yaadatin, namoota hiikoo fi kan hiikessaa, kanneen onnee isaanii addaan qoodame, ajjeesuuf hordofe.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sababa kanaaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yaadate"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "hordofe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namoota"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hiikoo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "fi kan hiikessaa"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "kanneen addaan qoodaman"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee isaanii"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ajjeesuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:36.683834100Z",
+  "model": "glm-5.3"
+}

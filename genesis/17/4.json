@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Ani garuu — kunoo — kakoo koo ⟨את⟩ si wajjin ta'e; sabaa baay'ee abbaa ta'a.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunoo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kakoo koo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "si wajjin"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "abbaa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:35.763989163Z",
+  "model": "glm-5.3"
+}

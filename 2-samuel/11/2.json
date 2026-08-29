@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 11:2",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Galgala yeroo ga'utti waan ta'e: Daawid foota isaa irraa ka'e, gadgala mana mootichaa irratti socho'e; gadgala irraa dubartii dhiqattu argate; dubartiinis ⟨is⟩ hiikkaan baay'ee bareeda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waan ta'e"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galgalatti"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "foota isaa"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "socho'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "גג",
+      "gloss": "gadgala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "argate"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dubartii"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "dhiqattu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "gadgala"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "dubartiinis"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "bareedu"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "hiikkaan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:50:23.076598228Z",
+  "model": "glm-5.3"
+}

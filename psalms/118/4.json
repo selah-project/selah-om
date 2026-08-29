@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Warra Yahwe sodaatan akkana jedhinaa: kheesedni Isaa yeroo hunda ture.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "jedhinaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "akkana"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "sodaatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedni Isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:10.740231401Z",
+  "model": "glm-5.3"
+}

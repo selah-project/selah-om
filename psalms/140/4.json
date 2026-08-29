@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 140,
+  "translation": "Afaan isaanii akka moora qopheessan; sumaan moora bishaan-cufamee lipsii isaanii jala jira. Seelaa.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "qopheessan"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "Afaan isaanii"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "moora"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sumaan"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "moora bishaan-cufamee"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lipsii isaanii"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:30.680270143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Nafseen tiksa Keetti dhumeera; jecha Keetiinis eeggadheera.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "dhumeera"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "tiksa Keetti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafseen"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "jecha Keetiinis"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "eeggadheera"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:13.449573194Z",
+  "model": "glm-5.3"
+}

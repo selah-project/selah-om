@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Yahwe isiiniif hubachuuf onnee, arguuf ija, dhaga'uufis gurra hin kenne — hanguma guyyaa kanaa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isiiniif"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hubachuuf"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ija"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arguuf"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "gurra"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhaga'uuf"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanguma"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:52.024640721Z",
+  "model": "glm-5.3"
+}

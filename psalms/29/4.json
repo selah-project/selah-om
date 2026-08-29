@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sagaleen Yahwee humnaan; sagaleen Yahwee miidhaginaan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sagaleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "humnaan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagaleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "miidhaginaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:38.955898886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "«Soorata ishee eebbifadha eebbisa; hiyyeessota isheedduu maashaan guuta.»",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "soorata ishee"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "eebbifadha"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "eebbisa"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "hiyyeessota isheedduu"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "guuta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maashaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:41.844473720Z",
+  "model": "glm-5.3"
+}

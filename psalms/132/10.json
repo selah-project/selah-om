@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Sababa Daawid gabbara keetiyyu fuula Maashiyaak kee hin deebisin.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gabbara keetiyyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "deebisin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maashiyaak kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:01.656340760Z",
+  "model": "glm-5.3"
+}

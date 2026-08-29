@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Harkaan kee na uume, na dhaabbessaa; na hubadhisii, ajajoota kee immoo baradha.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "harkaan kee"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "na uume"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "na dhaabbessaa"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "na hubadhisii"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "immoo baradha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ajajoota kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:45.624926762Z",
+  "model": "glm-5.3"
+}

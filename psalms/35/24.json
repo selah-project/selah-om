@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Yahwe Eloohiim kiyyaa, akka qajeeluma Keetti natti murti; natti hin gammadan.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "natti murti"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "akka qajeeluma Keetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyyaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gammadan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:55.091901368Z",
+  "model": "glm-5.3"
+}

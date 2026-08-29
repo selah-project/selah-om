@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Saba kee ha muduu faarfamaan, daawwotoota kees immoo ha muduu murtiin.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ha muduu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "saba kee"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "faarfamaan"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "daawwotoota kees"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "murtiin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:24.012561826Z",
+  "model": "glm-5.3"
+}

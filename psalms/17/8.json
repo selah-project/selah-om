@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Naa eegi akka ishinii ijaa, ganda atii jala naa dhoksi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "naa eegi"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "akkā ishinii (ijaa)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intala (ijaa)"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijaa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ganda (jala)"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "atii kee"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "naa dhoksi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:49.544907504Z",
+  "model": "glm-5.3"
+}

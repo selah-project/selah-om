@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Fuulli kee dura ergaa nan erga; Kirgaani, Amoori, Hiitti, Pirizzi, Hiwwi fi Yeabusii ⟨את⟩ baafacha.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nan erga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fuulli kee dura"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "baafacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirgaani, Amoori, Hiitti, Pirizzi, Hiwwi fi Yeabusii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kirgaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiitti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Pirizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yeabusii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:21:00.206775003Z",
+  "model": "glm-5.3"
+}

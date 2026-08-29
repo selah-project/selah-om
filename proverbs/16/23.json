@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "The heart of the wise makes his mouth wise, and upon his lips it adds instruction.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "the heart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "of the wise"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "makes wise"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "his mouth"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "his lips"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "it adds"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "instruction"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:17.962263029Z",
+  "model": "glm-5.3"
+}

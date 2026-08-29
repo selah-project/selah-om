@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Moshee Par'oo biraa ba'e, Yahwetti kadhaade.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "biraa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oo"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "kadhaade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahwetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:28.329093286Z",
+  "model": "glm-5.3"
+}

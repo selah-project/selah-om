@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Inni ni dhufa, ⟨את⟩ biyya Mitsraayim ni rukuta — kan du'uutti du'uutti, kan qabamuutti qabamuutti, kan sararuutti sararuutti.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ni dhufa"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ni rukuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyya Mitsraayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uutti"
+    },
+    {
+      "surface": "למות",
+      "gloss": "du'uutti"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "qabamuutti"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "qabamuutti"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sararuutti"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sararuutti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:09:26.448867394Z",
+  "model": "glm-5.3"
+}

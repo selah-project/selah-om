@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 90,
+  "translation": "Guyyaawwan keenya akkaataa sirriitiin akka lakkoofnu nu beeksisi, akkasumas onnee sammuu qabaachuuf nuti galu.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "akka lakkoofnu"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "guyyaawwan keenya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkaataa sirriitiin"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "nu beeksisi"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "nuti galu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sammu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:08.633441046Z",
+  "model": "glm-5.3"
+}

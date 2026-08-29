@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yiftaan ⟨את⟩ Israa'el waggaa jaha murtii godhe; Yiftaan Gileadiin du'e, magaaloota Gilead keessatti awwaalame.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "murtii godhe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaan"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gileadiin"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "awwaalame"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "magaaloota...keessatti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-08-29T07:10:33.634277932Z",
+  "model": "glm-5.3"
+}

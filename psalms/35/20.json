@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Sabi'aa isaan nagaa hin dubbatanu; tasgabbii qabeessa ta'e dhuma lafaa irratti immoo jechoota soba ta'aniif mee maruu qophii qabu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabi'aa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dubbatanu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "irratti immoo"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "tasgabbii qabeessa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "soba ta'aniif"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "mee maruu qophii qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:40.524194633Z",
+  "model": "glm-5.3"
+}

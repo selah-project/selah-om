@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yeroo gara Shomeroon seenu, Eeliishaan jedhe: Yahwe, ⟨את⟩ ijii warra kanaa bani akka arguun. Yahwen ⟨את⟩ ijii isaanii bane; arguunis, akkas jedhu, gidduu Shomeroon ∈taan turan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "seenu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eeliishaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "bani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijii warra kanaa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijii"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "warra kanaa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "akka arguun"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "bane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijii isaanii"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ijii isaanii"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "arguunis"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "akkas jedhu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-08-29T08:27:08.149630718Z",
+  "model": "glm-5.3"
+}

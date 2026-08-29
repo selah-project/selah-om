@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yeroo ogummaa sammuun onnee kee seentu, beekumsiis lubbuu kee gammachiisuuf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yeroo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "seentu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogummaa sammuu"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "onnee kee"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "fi beekumsiis"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "lubbuu kee"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "gammachiisuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:43.245541613Z",
+  "model": "glm-5.3"
+}

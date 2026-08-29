@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Garuu ati, Adoonaay, Eel rahmaanifi jaalala-qabeessa taate, dheeraa hophii, kheesed-fi dhugaa guutaa dha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "garuu ati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "rahmaa-qabeessa"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "jaalala-qabeessa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheeraa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "hophii"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "guutaa dha"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dhugaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:53.652827448Z",
+  "model": "glm-5.3"
+}

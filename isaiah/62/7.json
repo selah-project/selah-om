@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 62,
+  "translation": "Fi ofirraa haa hin-dhiifannaa, Yerushaalayim yoo dhaabbachuu fi ⟨את⟩ Yerushaalayim yoo faarfama addunyaa irratti godhu gadiitti.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "fi haa hin"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "hin-dhiifannaa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dalgee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ofirraa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gadiitti yoo"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "dhaabbachuu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fi gadiitti yoo"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "godhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushaalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "faarfama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "addunyaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:19:41.881662218Z",
+  "model": "glm-5.3"
+}

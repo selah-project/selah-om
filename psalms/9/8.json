@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yahwe ammas yeroo hunda ta'aada; adaadaa isaa tiyyoo murtiif dhaabbateera.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe ammas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ta'aada"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "dhaabbateera"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "murtiif"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "adaadaa isaa tiyyoo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:53.211870428Z",
+  "model": "glm-5.3"
+}

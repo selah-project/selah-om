@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 141,
+  "translation": "Sabsabaa kan Daawid. Yahwe, si waameera; naa-gorfadhu! Gara kiyya dhageetti godhi yeroo anaan si waamu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sabsabaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "si waameera"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "naa-gorfadhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gara kiyya"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhageetti godhi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sagalee kiyya"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "yeroo anaan waamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:18.999869118Z",
+  "model": "glm-5.3"
+}

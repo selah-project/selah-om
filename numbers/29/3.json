@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Minchaan isaanii: midhaan dhibbaa zayitii tiin makame; faradaaf kurnii sadii, hangaaf kurnii lama.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "minchaan isaanii"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "midhaan dhibbaa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "makame"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "zayitii tiin"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "kurnii"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "faradaaf"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamaa"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "kurnii"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "hangaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T06:09:37.219063656Z",
+  "model": "glm-5.3"
+}

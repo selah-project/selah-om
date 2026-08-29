@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Abrams iyyis sababa isheetiin waafilaa itti godhe; hoo'eena, sana, harree dhiiraa, gabrumaa, gabrumtuu, harree dubraa fi gaalaltuu ishee qaba.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Abrams iyyis"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "waafilaa itti godhe"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "sababa isheetiin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "qaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hoo'eena"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "harree dhiiraa"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "gabrumaa"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "gabrumtuu"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "harree dubraa"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "gaalaltuu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:19.059545698Z",
+  "model": "glm-5.3"
+}

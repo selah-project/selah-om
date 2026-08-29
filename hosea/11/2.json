@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Achitti isaan waamaniiru; garuu isaan irraa baqatanii, Ba'alim irratti gatan, wanta muwwaaqqamtootti hiikus qoodan.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "waamaniiru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "achitti\/garuu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "baqatanii"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "isaan irraa"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Ba'alim irratti"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "gatan"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "wanta muwwaaqqamtootti"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "hiikus qoodan"
+    }
+  ],
+  "timestamp": "2026-08-29T10:39:33.139028529Z",
+  "model": "glm-5.3"
+}

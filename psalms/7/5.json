@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yoo kan nagaan na wajjin jiru rakkootiin gale, yoo diina koo sababa hin qabuun baase.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "gale"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "kan nagaan na wajjin jiru"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rakkootiin"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "yoo... baase"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "diina koo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "sababa hin qabuun"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:07.662104080Z",
+  "model": "glm-5.3"
+}

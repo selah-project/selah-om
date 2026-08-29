@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Blessed-dha biyya kan Waaqayyo ishee... Kan wal siman: Gamaddan biyya kan Yahwe Eloohiim isheeti; sabaa kan ergaa dhaalummaa isaaf filate.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gamaddan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohiim isheeti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "filate"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dhaalummaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:35.467534316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Isaan hordofee nagaan darba; karaa kamiyyuu muteen isaa hin seenu.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Isaan hordofee"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "darba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "muteen isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seenu"
+    }
+  ],
+  "timestamp": "2026-08-29T09:08:00.042894555Z",
+  "model": "glm-5.3"
+}

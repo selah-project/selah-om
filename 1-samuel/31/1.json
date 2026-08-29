@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Filistootiin Israa'el waliin lolanii, namoonni Israa'el Fuulla Filistootii irraa miliqee, Gara Gurraacha Gilbo'aa irratti ajjeefamanii kufan.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Filistootiin"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "lolanii"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'el waliin"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "miliqee"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namoonni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "Fuulla ... irraa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistootii"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "kufan"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ajjeefamanii"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Gara Gurraacha ... irratti"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilbo'aa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:44:42.941272733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 42,
+  "translation": "Re'ubeenis isaan deebise, \"Ma nuti isin jedhee? 'Mucaa sana irratti hin balleessinaa' jedhe, isin hin dhageenyne? Kanaaf, ilaali, dhiigni isaa ni gaafatama\" jedhe.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebise"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'ubeenis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "balleessinaa"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "mucaa sana irratti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "dhageenyne"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ammoo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiigni isaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "ni gaafatama"
+    }
+  ],
+  "timestamp": "2026-08-29T04:49:49.736788864Z",
+  "model": "glm-5.3"
+}

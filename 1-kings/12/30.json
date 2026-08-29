@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Jecha kun balleessaa taate; ummachi tokicha duratti deemaa turan, hanga Daan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "taate"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jecha kun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "balleessaa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deemaa turan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummachi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "duratti"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tokicha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Daan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:31.530533903Z",
+  "model": "glm-5.3"
+}

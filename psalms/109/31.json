@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Yaa Rabbiin, Innis mirga handhuura wallaalaa irraa dhaabbata, murtiin lubbuu isaa irraa kabajamuu Isaa baafata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yaa Rabbiin"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dhaabbata"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "mirga handhuura"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wallaala"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "baafata"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "murtiin…irraa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lubbuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:46.400772175Z",
+  "model": "glm-5.3"
+}

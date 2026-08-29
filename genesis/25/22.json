@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Ilmoon lamaan garaa ishee keessaa wal-riixatanii; isheenis 'Yoo akkasitti ta'e, maaliif ani kun?' jette; Yahweh ⟨את⟩itti akka gaafattu deette.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "wal-riixatanii"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ilmoon lamaan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "garaa ishee keessaa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "isheenis jedde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasitti ta'e"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "deette"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "akka gaafattu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:24.150109124Z",
+  "model": "glm-5.3"
+}

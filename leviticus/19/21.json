@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Balaanfa isaa Yahweef, gara qaawa tanti walitti dhufuudhaatti, ⟨את⟩ balaanfa isaa — ramaan balaanfaa — ni fida.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ni fida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaanfa isaa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "balaanfa isaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qaawa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tanti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walitti dhufuudhaa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ramaan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "balaanfaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:26:54.117167556Z",
+  "model": "glm-5.3"
+}

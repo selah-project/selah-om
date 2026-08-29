@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Chataa'aa koo siif beeksise; dogoggora koo hin dhokadhu. \"Yahwef waa'ee diddaa koo ni hima\" jeedhe; Atiimmoo chiyyoon chataa'aa koo fuudhite. Seelaa.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "chataa'aa koo"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "siif beeksise"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "fi dogoggora koo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "dhokadhu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeedhe"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ni hima"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "waa'ee"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "diddaa koo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Atiimmoo"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "fuudhite"
+    },
+    {
+      "surface": "עון",
+      "gloss": "chiyyoon"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "chataa'aa koo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:04.095211044Z",
+  "model": "glm-5.3"
+}

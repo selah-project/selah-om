@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Yahwe immoo Ahaaz irratti dabalee akka jedhu.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "dabalee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbachuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaaz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:45:47.429986584Z",
+  "model": "glm-5.3"
+}

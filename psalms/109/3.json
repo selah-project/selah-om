@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Jechoota fincilaa na marsan; sababa malee naan lolan.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Jechoota"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "fincilaa"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "na marsan"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "naan lolan"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sababa malee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:49.884232513Z",
+  "model": "glm-5.3"
+}

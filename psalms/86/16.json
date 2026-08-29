@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Fuulla ki Naatti garagalchi; rahmoo na godhi; humna kee gabbara keef kenni; ilma ooloo kee baraarsi.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Fuulla ki garagalchi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Naatti"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "rahmoo na godhi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "humna kee"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "gabbara keef"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "baraarsi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ooloo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:53.652999274Z",
+  "model": "glm-5.3"
+}

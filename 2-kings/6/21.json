@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Mootiin Israa'el yeroo inni ⟨את⟩ isaan argu Eliishaatti jedhe: \"Abba kiyya, seenu rukuu? seenu rukuu?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliishaa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "yeroo inni argu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "seenu rukuu?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "rukuu?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abba kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T08:26:33.528159336Z",
+  "model": "glm-5.3"
+}

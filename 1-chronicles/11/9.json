@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Daawid adeemsaan guddachaa guddachaa deeme; Yahwe wwan qacaanaman hundaa isa wajjin ture.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "adeemsaan"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "guddachaa guddachaa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wwan qacaanaman hundaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isa wajjin ture"
+    }
+  ],
+  "timestamp": "2026-08-29T13:35:30.612200152Z",
+  "model": "glm-5.3"
+}

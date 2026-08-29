@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Miilla keenya kan teessan baltiiwwan kee keessa ta'an, Yerushaalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "kan teessan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'an"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Miilla keenya"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "baltiiwwan kee keessa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:31.634858139Z",
+  "model": "glm-5.3"
+}

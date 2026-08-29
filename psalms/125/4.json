@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 125,
+  "translation": "Yahweyoo, waan gaarii raawadhu warra gaarii taaniifi, fi warra onnee isaaniitti sirrii taaniinis.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "waan gaarii raawadhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweyoo"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "warra gaarii taaniifi"
+    },
+    {
+      "surface": "ו",
+      "gloss": "fi"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "warra sirrii taaniinis"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "onnee isaaniitti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:36.263004210Z",
+  "model": "glm-5.3"
+}

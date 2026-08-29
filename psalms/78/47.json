@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Miira isaanii ciraan ajjeese, muka-shoonaa isaanii irra-cokkichaanis ajjeese.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "ciraan"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "miira isaanii"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "muka-shoonaa isaanii"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "irra-cokkichaanis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:26.500292303Z",
+  "model": "glm-5.3"
+}

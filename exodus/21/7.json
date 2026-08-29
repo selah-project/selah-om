@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Yoo namni tokko ⟨את⟩ intala isaa gabrumtuu taatee gurgure, akka baa'uu gabroota dhiiraa hin baa'tu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "gurgure"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intala isaa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "intala isaa"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "gabrumtuu taatee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baa'tu"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "akka baa'uu"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "gabroota dhiiraa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:33.453852052Z",
+  "model": "glm-5.3"
+}

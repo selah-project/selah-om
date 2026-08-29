@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Rooba kennaa ati, Eloohiim, ni-harkisa; dhaala kee yeroo dadhabetti ati ishee jaboomsite.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "rooba"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "kennaa"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ni-harkisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhaala kee"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "yeroo dadhabetti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "jaboomsite"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:59.567027789Z",
+  "model": "glm-5.3"
+}

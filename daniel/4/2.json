@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Halama argadhe; inni na tasisan-ni, fi yaadannoowwan hirribaa kiyyaa irratti fi mul'attoowwan mataa kiyyaa na rukutan.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "halama"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "inni na tasisan-ni"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "fi yaadannoowwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "hirribaa kiyyaa"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "fi mul'attoowwan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa kiyyaa"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "na rukutan"
+    }
+  ],
+  "timestamp": "2026-08-29T13:00:17.706637866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ilmaan Yisraa'eel deemanii, akka Yahwe ⟨את⟩ Moshee fi Aharoon ajajetti hojjedhanii; akkasuma hojjedhan.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "deemanii"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjedhanii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasuma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjedhan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:03:08.016946389Z",
+  "model": "glm-5.3"
+}

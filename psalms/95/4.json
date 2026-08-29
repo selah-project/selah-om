@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 95,
+  "translation": "Isa handeen isaatti maatisaalee lafaa fi ol-ka'umsota gaarreen isa ofitti qabatu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "handeen isaatti"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "maatisaalee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "fi ol-ka'umsota"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa ofitti qabatu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:06.304165058Z",
+  "model": "glm-5.3"
+}

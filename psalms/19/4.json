@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Jecha hin jiru, jechoonnis hin jiru; sagaleen isaanii hin dhageeffamu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Jecha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "jechoonis"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "malee"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hin dhageeffamu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sagaleen isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:15:51.921735862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "⟨את⟩ galteecha muka shiittimii godhita: dheerinaan amaa shan, bal'inaan amaa shan; galteechi irra-cubbaa'aa ta'uu qaba, ol-ka'oonsi isaas amaa sadii ta'uu qaba.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "godhita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galteecha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "galteecha"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiittimii"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerinaan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "amaa shan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bal'inaan"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "irra-cubbaa'aa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ta'uu qaba"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "galteechi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "amaa sadii"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ol-ka'oonsa isaas"
+    }
+  ],
+  "timestamp": "2026-08-29T05:14:04.701453707Z",
+  "model": "glm-5.3"
+}

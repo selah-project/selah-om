@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Isaan hamtuu hojjachuuf gammadan, crookilummaa hamtuu keessatti hin gammadan, gammachuun qofa;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "gammadan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hojjachuuf"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "hin gammadan"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "crookilummaa ... keessatti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hamtuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:26.981340633Z",
+  "model": "glm-5.3"
+}

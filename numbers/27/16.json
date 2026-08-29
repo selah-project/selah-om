@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "«Yahwe, Eloohiim ruuchota (waan) gala hunda, nam tokko garee irratti haa tanu.»",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "haa tanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "ruuchota"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "(waan) gala hunda"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nam tokko"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "garee"
+    }
+  ],
+  "timestamp": "2026-08-29T06:08:26.273984300Z",
+  "model": "glm-5.3"
+}

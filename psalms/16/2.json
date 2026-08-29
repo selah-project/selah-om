@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yahwetti jedhe: Adoonaay, ati; tolfadhuu kiyya sitti hin jiru — bal, sitti olkaa'ame miti.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwetti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "tolfadhuu kiyya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sitti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:16.766286654Z",
+  "model": "glm-5.3"
+}

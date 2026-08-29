@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Dubbartuun yeroo ⟨את⟩ Shemu'el argatte, iyyee sagalee guddaan iyyite. Dubbartuun Sha'uliin, \"Maaltu na gowwumsite — ati Sha'ul taate!\"",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "argatte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubbartuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "iyyii iyyite"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dubbartuun ishee jedhi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubbartuun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaltu"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "na gowwumsite"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-29T07:36:01.514538153Z",
+  "model": "glm-5.3"
+}

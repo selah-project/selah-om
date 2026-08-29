@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Inni Elqanaafi mana isaa hundi ol ba'an, Yahwef yommuu guutuu sadarkaa baliituu fi kakuu isaa kaasuu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ol ba'e"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "inni"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqanaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sadarkaa baliituu kaasuu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadarkaa yommuu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadarkaa baliituu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "yommuu guutuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kakuu isaa"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "kakuu isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:42:03.530952641Z",
+  "model": "glm-5.3"
+}

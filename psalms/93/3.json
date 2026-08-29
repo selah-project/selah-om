@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 93,
+  "translation": "Laggoonni ol kaasan, Yahwe! Laggoonni ol kaasan sagalee isaanii; laggoonni barcasa isaanii ol kaasu.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ol kaasan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "laggoonni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ol kaasan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "laggoonni"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sagalee isaanii"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ol kaasu"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "laggoonni"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "barcasa isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:41:15.404569817Z",
+  "model": "glm-5.3"
+}

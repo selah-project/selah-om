@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 121,
+  "translation": "Faarsa ol-ka'umsaatti. Iddoo-dubbistootaaf. Gara gaarreenitti ija koo ol-kaasa — eegumsi koo bakamerra dhufa?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Faarsa"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ol-ka'umsaatti"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ol-kaasa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gaarreenitti"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "bakamerra"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dhufa"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "eegumsi koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:52.459365665Z",
+  "model": "glm-5.3"
+}

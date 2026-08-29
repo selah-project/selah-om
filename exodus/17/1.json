@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Gareen hundinuu ilmaan Israa'el biyya bosonaa Siin irraa, imala isaanii akka afaan Yahweetti deemi, Riifiidimittiis qubachiif; bishaan immoo sabaatiif dhuguu hin jiru.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "deemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gareen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "biyya bosonaa Siin irraa"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Siin"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "imala isaanii"
+    },
+    {
+      "surface": "על",
+      "gloss": "akka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "qubachiif"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "Riifiidimitti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "dhuguu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabaatiif"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:13.812989322Z",
+  "model": "glm-5.3"
+}

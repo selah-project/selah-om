@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Warra dogoggoraa wajjin hin taane, warra dhokatanii wajjinis hin seenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "taane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "warra"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dogoggoraa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wajjinis"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "warra dhokatanii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "seenu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:40.941212604Z",
+  "model": "glm-5.3"
+}

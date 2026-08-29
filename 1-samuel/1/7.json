@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Akkasumas inni waggaa waggaadhaan akka taasise, yeroo hundi isii mana Yahwe ol baatu, akkasumas ishee rakkise; isinis giltu, nyaachuu hin dandeennine.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Akkasumas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "taasise"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "waggaadhaan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "yeroo hundi"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ol baatu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "rakkise"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "giltu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nyaachuu dandeennine"
+    }
+  ],
+  "timestamp": "2026-08-29T15:56:56.437531023Z",
+  "model": "glm-5.3"
+}

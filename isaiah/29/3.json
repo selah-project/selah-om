@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Naanna'ee akka raacittaa si marsa; qubee waraanaa irratti kee iyya; rukuttaa magaalaa irratti kee kaasa.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Naanna'ee marsa"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "akka raacittaa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si"
+    },
+    {
+      "surface": "וצצרתי",
+      "gloss": "qubee waraanaa iyya"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "irratti kee"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "qubee waraanaa"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "kaasa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "irratti kee"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "rukkutta magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:59:08.612285363Z",
+  "model": "glm-5.3"
+}

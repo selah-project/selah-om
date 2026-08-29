@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 53,
+  "translation": "Eloohiim samii irraa haadha-banii ilmaan namootaa irratti ilaalee, hubachuu — hubatu tokko ni jiraa, kan Eloohiim ⟨את⟩ barbaadu tokko?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samii irraa"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "haadha-banii ilaalee"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hubachuu"
+    },
+    {
+      "surface": "היש",
+      "gloss": "tokko ni jiraa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "hubatu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "barbaadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohiim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:00.674389851Z",
+  "model": "glm-5.3"
+}

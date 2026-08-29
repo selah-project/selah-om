@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kaawwan koo dhagaa bocameen godaare, daandiiwwan koo adaase.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "godaare"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "kaawwan koo"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "dhagaa bocameen"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "daandiiwwan koo"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "adaase"
+    }
+  ],
+  "timestamp": "2026-08-29T12:44:43.540976257Z",
+  "model": "glm-5.3"
+}

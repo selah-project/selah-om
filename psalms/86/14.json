@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Eloohiim, boonaa-gooffaan nuurreedhaan ani irratti kaatanii; gareen hamaa nafa koo barbaadanii; ati of isiinii fuuldura hin geessifne.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "boonaa-gooffan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kaatanii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ani irratti"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "gareen hamaa"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "hamaa (wallaaltota)"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barbaadanii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafa koo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "ati of geessifne"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "isiinii fuuldura"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:53.652609582Z",
+  "model": "glm-5.3"
+}

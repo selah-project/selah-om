@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 39,
+  "translation": "Gooftaan Yooselif ⟨אתו⟩ fudhatee mana hidhaatti seense — iddoo waan hidhannoon mooticha hidhaman turan. Inni immoo achumaan mana hidhaa keessatti ture.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Gooftaan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yooselif"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yooselif"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "seensise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "hidhaa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "hidhannoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "hidhaman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achumaan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "hidhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:48:05.790428815Z",
+  "model": "glm-5.3"
+}

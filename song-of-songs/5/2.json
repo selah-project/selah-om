@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 5:2",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Ani kan sareera, onneen kiyya kan ka'eera. Sagalee jaalala kiyya kan rukutu: Naaf bana, obboleettii kiyya, jaaltuu kiyya, giriftii kiyya, kan guutummaa qabu kiyya; sababa caasaa kiyya roobii baay'ee guutameera, caraan kiyya danfallii halkanitiin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "kan sareera"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "onneen kiyya"
+    },
+    {
+      "surface": "ער",
+      "gloss": "kan ka'eera"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "jaalala kiyya"
+    },
+    {
+      "surface": "דופק",
+      "gloss": "kan rukutu"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "naaf bana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naaf"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "obboleettii kiyya"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "jaaltuu kiyya"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "giriftii kiyya"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "kan guutummaa qabu kiyya"
+    },
+    {
+      "surface": "שראשי",
+      "gloss": "sababa caasaa kiyya"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "guutameera"
+    },
+    {
+      "surface": "טל",
+      "gloss": "roobii"
+    },
+    {
+      "surface": "קוצותי",
+      "gloss": "caraan kiyya"
+    },
+    {
+      "surface": "רסיסי",
+      "gloss": "danfallii"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "halkanitiin"
+    }
+  ],
+  "timestamp": "2026-08-29T12:38:23.549825518Z",
+  "model": "glm-5.3"
+}

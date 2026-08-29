@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Saboota hunda caalatti eebbifamta; kan hin-horatu si keessatti hin ta'u — dhiira ykn dubartii — beyladaa kees hin ta'u.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "eebbifamta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "taata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hunda caalatti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hin ta'u"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si keessatti"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "kan hin-horatu (dhiira)"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "kan hin-horatuu (dubartii)"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "beyladaa kees"
+    }
+  ],
+  "timestamp": "2026-08-29T06:22:00.648554310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Mootittiin Shebaas argatti ⟨את⟩ ogummaa Sulumoonii fi mana isa ijjese.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "argatti"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mootittiin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogummaa Sulumoonii"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ogummaa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulumoonii"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "fi mana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ijjese"
+    }
+  ],
+  "timestamp": "2026-08-29T15:41:55.498228843Z",
+  "model": "glm-5.3"
+}

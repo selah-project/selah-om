@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Namootni Yavesh immoo jedhan: «Ganama isinitti baanna; waan isiniif toltuu taatu gara ija keessanitti nu waliin hojjattan.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "namootni"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "baanna"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "isinitti"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "hojjattan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nu waliin"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akka waan hunda"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "toltuu taatu"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "gara ija keessanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:01.778691629Z",
+  "model": "glm-5.3"
+}

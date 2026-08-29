@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Raphidiim irraa socho'anii daaraa Siinayi dhufanii daaraa keessaa hedani; achitti Israa'el gaarichaa fuuldura hede.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "socho'ani"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "Raphidiim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dhufani"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "daaraa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "hedani"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "daaraa keessaa"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "hede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "achitti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaarichaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:13.575073929Z",
+  "model": "glm-5.3"
+}

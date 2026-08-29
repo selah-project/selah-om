@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Inni immoo jedhe: \"Eenyumtu albaalaafa akka taate si beeksise? Muka sana irraa ani sin ajaje \"hin nyaadin\" jechuun, silaa isheeti nyaattaa?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyumtu"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "beeksise"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "albaalaafa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "taate (ati)"
+    },
+    {
+      "surface": "המן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "muka sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waan)"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "sin ajaje"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hin nyaadin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaachuu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "isheeti"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "nyaattaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:27.170498426Z",
+  "model": "glm-5.3"
+}

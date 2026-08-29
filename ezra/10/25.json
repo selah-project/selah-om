@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Israa'el keessatis, ilmoo Far'osh irraa: Ramyaah, Yizziyaah, Malkiyaah, Miyamiin, El'azaar, Malkiyaah fi Benayaah.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "Israa'el keessatis"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilmoo irraa"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Far'osh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramyaah"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "Yizziyaah"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "Malkiyaah"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "Miyamiin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "El'azaar"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "Malkiyaah"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "Benayaah"
+    }
+  ],
+  "timestamp": "2026-08-29T13:17:04.109209570Z",
+  "model": "glm-5.3"
+}

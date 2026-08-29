@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Isaaf dubartoonni boontumtuu dhibba torba fi konkattaawwan dhibba sadii ta'e; dubartoonni isaas onnee isaa ⟨את⟩ gartii gosan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dubartoonni"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "boontumtuu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "fi konkattaawwan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dhibba"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "gartii gosan"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "dubartoonni isaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee isaa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onnee isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:13:51.810317342Z",
+  "model": "glm-5.3"
+}

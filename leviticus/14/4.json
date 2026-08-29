@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Kahnichi ajaja; namni qulqullifamuudhaaf simbirroota lama jiraniif qulqulli ta'aniif fudhachuu, muka arzaa, scarlet-diimaa sanyii tol'aa fi ezobis.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ajaja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kahnichi"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "fudhachuu"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "namni qulqullifamuudhaaf"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "lama"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "simbirroota"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "jiraniif"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "qulqulli ta'aniif"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "arzaa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "scarlet sanyii tol'aa"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ezobis"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:19.527130712Z",
+  "model": "glm-5.3"
+}

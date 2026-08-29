@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Atis sanduuqa kakuu baratan abbamoota ajajtee: \"Bishaan Yardaanitti yeroo dhuftaan, Yardaan keessatti dhaabbadhaa\" jedhit.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Atis"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ajajtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abbamoota"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abbamoota"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "baratan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuu"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "yeroo dhuftaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gaditti"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dafqaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaan"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yardaan keessatti"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "dhaabbadhaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:44:44.999495756Z",
+  "model": "glm-5.3"
+}

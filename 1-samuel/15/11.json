@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Nadandabe kiyyo Shaawul moota godhuuf dhihaachuuf, sababa inni ana irraa garagale, jecha kiyyaas hin dhaabbanneef. Kunis Shimuuliif rakkise; halkan hundaaf Yahwetti iyye.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "nadandabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "moota godhuuf dhihaachuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaawul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaawul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "moota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "garagale"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ana irraa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "jecha kiyya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jecha kiyyaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "dhaabbanne"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "rakkise"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Shimuuliif"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "iyye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "halkan hundaaf"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "halkan"
+    }
+  ],
+  "timestamp": "2026-08-29T07:26:15.203546619Z",
+  "model": "glm-5.3"
+}

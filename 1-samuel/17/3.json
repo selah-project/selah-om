@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Filistiin gaara kana irratti dhaabbatanii turan, Israa'elis gaara sana irratti dhaabbatanii turan; gorboon isaan gidduutti ture.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Filistiin"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dhaabbatanii turan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'elis"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dhaabbatanii turan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gaara"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sana"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "gorboon"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "isaan gidduutti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:25:11.630805885Z",
+  "model": "glm-5.3"
+}

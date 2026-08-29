@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 15:24",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Innis waan hamtuu Yahwe irraa hojjete; balleessotaa Yarob'aamii, ilma Nebaatii, Isa'eliin ⟨את⟩ balleessiseerra irraa hin garagale.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "waan hamtuu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "garagale"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "balleessotaa...erra irraa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarob'aamii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebaatii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "balleessiseerra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isa'eliin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isa'eliin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:32:22.770965619Z",
+  "model": "glm-5.3"
+}

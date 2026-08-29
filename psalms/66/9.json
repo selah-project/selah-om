@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 66,
+  "translation": "Kan lubbuu keenya jireenyaa keessatti dhaabbatee, dirri keenya akka hin sochinnee hin taasifne.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "dhaabbatee"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "lubbuu keenya"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "jireenyaa keessatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hin taasifne"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sochinnee akka"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "dirri keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:21.139900613Z",
+  "model": "glm-5.3"
+}

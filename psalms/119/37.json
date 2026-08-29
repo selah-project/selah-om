@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ilboonni ijoorra waan dogoggoraa ilaaluu irraa na dhowi; karaa keetti na haaraamsi.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "na dhowi (darbii)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ilboonni ijoo koo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ilaaluu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "waan dogoggoraa"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "karaa keetti"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "na haaraamsi"
+    }
+  ],
+  "timestamp": "2026-08-29T15:26:27.382181334Z",
+  "model": "glm-5.3"
+}

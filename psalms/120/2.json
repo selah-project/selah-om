@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 120,
+  "translation": "Yahwe, lubbuu koo hafuura malee dubbiin sobaa jiru arraba qajeelaa miti qabu irraa baafi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "baafi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu koo"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "irraa, arraba sobaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "irraa, arraba"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "qajeelaa miti qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:10.998953941Z",
+  "model": "glm-5.3"
+}

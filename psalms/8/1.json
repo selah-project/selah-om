@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Bandaatti — Gititiit irratti — mazmura Daawiid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bandaatti"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gititiit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmura"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiid"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:17.334361938Z",
+  "model": "glm-5.3"
+}

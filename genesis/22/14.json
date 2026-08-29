@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Avrahaams maqaa bakka sanaa Yahwe-Yir'e jedhe (Yahwe ni arga). Guyyaa kanas ammoo 'Gara gaarreen Yahwe irratti ni mul'ata' jedhamee jira.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maqaa jedhe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaams"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bakka sanaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Yir'e (ni arga)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedhamee"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa kana"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gaarreen irratti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ni mul'ata"
+    }
+  ],
+  "timestamp": "2026-08-29T04:33:02.878233629Z",
+  "model": "glm-5.3"
+}

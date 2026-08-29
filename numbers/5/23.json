@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Kohniin ⟨את⟩ abaaroota kana barruu keessatti barreessa, bishan mi'aawaa dhiyaadhaan xuuxa.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "barreessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaaroota kana"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "abaaroota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohniin"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "barruu keessatti"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "xuuxa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhiyaadhaan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bishan"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "mi'aawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:12.353092884Z",
+  "model": "glm-5.3"
+}

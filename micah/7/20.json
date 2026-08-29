@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Ya'aaqobiif ichee, Avraahaamiif kheesed ni kennita — akka abbootii keenyaaf guyyoota durii irraa kakachaa jirtett.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ni kennita"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ichee"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ya'aaqobiif"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraahaamiif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akka"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "kakachaa jirtett"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "abbootii keenyaaf"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "guyyoota irraa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "durii"
+    }
+  ],
+  "timestamp": "2026-08-29T10:57:10.855000929Z",
+  "model": "glm-5.3"
+}

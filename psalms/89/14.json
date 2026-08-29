@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Hoo'i kee gabinaa wajjin jira; harki kee ni cimtuudha, mirgi kee ni ol-ka'eera.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kee"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "Hoo'i"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "gabinaa"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ni cimtuudha"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "harki kee"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ni ol-ka'eera"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mirgi kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:41.668420433Z",
+  "model": "glm-5.3"
+}

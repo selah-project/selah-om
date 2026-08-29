@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Samu'eliin du'e; Israa'el hundinuu isaaf gaddate; Ramahatti, magaalaa isaatiif haadame. Sa'ulis ogeeyyii du'aa ofii qabaniifi ogeeyyii beekumsaa biyya irraa baase.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Samu'eliin"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "gaddan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "haadame"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramahatti"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "magaalaa isaatiif"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sa'ulis"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "baase"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ogeeyyii du'aa ofii qabaniif"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogeeyyii beekumsaa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ogeeyyii beekumsaa"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "biyya irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:38:00.023554484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yaatimaa fi kan hiikame akkaataa murtoon wal-qunnamsiisuuf, nam-ta'aan lafaa irraa dararaa akka hin dabalanneef.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "murtoon wal-qunnamsiisuuf"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yaatimaa"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "fi kan hiikame"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hin (gonkumaa miti)"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "dabalanna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabalata"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "dararaa (sodachuu) fiduuf"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nam-ta'aa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:51.072440397Z",
+  "model": "glm-5.3"
+}

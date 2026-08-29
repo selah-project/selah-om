@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Hin argadabin yeroo namni tokko qabeenyaa uumamu, yeroo ulfina mana isaa dabalatu;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hin argadabin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "argadabin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "qabeenyaa uumamu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni tokko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "dabalatu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulfina"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mana isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:25:10.241562342Z",
+  "model": "glm-5.3"
+}

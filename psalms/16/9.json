@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Sababa kanaa onneen tijee gammaddetti, ulfina kiyya fafaqu; pihee kiyyais ni jiraata gama fageenyaan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sababa kanaa"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "gammaddetti"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onneen tijee"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "fafaqu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ulfina kiyya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "pihee kiyya"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ni jiraata"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "gama fageenyaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:43.219463697Z",
+  "model": "glm-5.3"
+}

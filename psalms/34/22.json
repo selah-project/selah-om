@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Du'a rakko kan raawwatu <bilaakka> raawwaa ti, fi warra kan mirgaawaa jaalawaa hin qabani <isaan> balaa galmeessifamu.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "du'a"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakko"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "fi warra ... hin jaalanne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan mirgaawaa"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "balaa galmeessifamu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:36.273599498Z",
+  "model": "glm-5.3"
+}

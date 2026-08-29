@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Abbootiin isaa ka'aniitiishii marii bilisummaa godhaniishii Yo'ash ⟨את⟩ mana Milloo keessatti, Sillaatti buudu irratti rukutan.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ka'ani"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abbootiin isaa"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "marii bilisummaa godhani"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "marii bilisummaa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "rukutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yo'ash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yo'ash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "buudu"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sillaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T08:31:10.708343651Z",
+  "model": "glm-5.3"
+}

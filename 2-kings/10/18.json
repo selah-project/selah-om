@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yehuunis ⟨את⟩ ummata hunda walitti qabsee isaanitti jedhe: “Achabaab Baalii xiqqoo tajaajile; Yehuun baay'ee tajaajila.”",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "walitti qabsee"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuunis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummata hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabaab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tajaajile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalii"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalii"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "xiqqoo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuun"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "tajaajila"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baay'ee"
+    }
+  ],
+  "timestamp": "2026-08-29T14:51:25.320528930Z",
+  "model": "glm-5.3"
+}

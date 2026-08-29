@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Hiikkaa fagoo dhihaa — wanta itti dhiyaate malee. Kun qajeelfama dha. (For demonstration: «Mucaan Sheemu'el Yahwe ⟨את⟩ tajaajilaa ture, fuula Eelii duratti. Jecha Yahwe immoo guyyoota sanaa baay'ee kabajamaa ture — mul'ichi ifa bahee hin jiru.»)",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Mucaan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sheemu'el"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tajaaajilaa ture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuula duratti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eelii"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "Jecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ture"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "baay'ee kabajamaa \/ baay'ee hin argamne"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "mul'ichi"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ifa bahee"
+    }
+  ],
+  "timestamp": "2026-08-29T07:16:08.128295594Z",
+  "model": "glm-5.3"
+}

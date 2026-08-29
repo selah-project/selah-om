@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Kitaaba kakuus fudhatee gara gogaa uummataatti dubbise; isaanis 'Wanti Yahwe dubbate hundi hojjina, daggeeffanninas' jedhan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhatee"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaaba"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kakuus"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dubbise"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "gara gogaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uummataatti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "hojjina"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "daggeeffanninas"
+    }
+  ],
+  "timestamp": "2026-08-29T05:11:33.556166953Z",
+  "model": "glm-5.3"
+}

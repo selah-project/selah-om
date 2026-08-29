@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmooleen Ellee ilmoolee Beliyaal turan; Yahwe ⟨את⟩ beeku hin beekan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ilmooleen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ellee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoolee"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal turan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "beekan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:15:19.315982500Z",
+  "model": "glm-5.3"
+}

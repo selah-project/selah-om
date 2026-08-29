@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Ilmi ko, karaa ⟨את⟩ isaan wajjin hin socho'u; miila kee karaa isaanii irraa deemsisaa adaami.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ilmi ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "socho'u"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan wajjin"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "deemsisaa adaami"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "miila kee"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "karaa isaanii irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:57:02.199958608Z",
+  "model": "glm-5.3"
+}

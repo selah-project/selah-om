@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Fi ⟨את⟩ Tsoraah, fi ⟨את⟩ Ayyaaloon, fi ⟨את⟩ Khebron — isaan Yehudaafi Binyamiin keessatti argaman — magaalota cimoo (kan dalgee).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsoraah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoraah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayyaaloon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayyaaloon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan ... argaman"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudaa keessatti"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "fi Binyamiin keessatti"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "cimoo (kan dalgee)"
+    }
+  ],
+  "timestamp": "2026-08-29T13:53:10.935710665Z",
+  "model": "glm-5.3"
+}

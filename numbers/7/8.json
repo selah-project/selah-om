@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "⟨את⟩ karralota afur fi ⟨את⟩ sangota saddeetis ilmaan Meraariitiif akka tajaajila isaanii, harka Iitaamaar ilmaa Aharoon ooticha jalatti kenne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "karralota afur"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afur"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "karralota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "sangota saddeet"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "saddeet"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sangota"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Meraari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "tajaaala isaanii"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Iitaamaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ooticha"
+    }
+  ],
+  "timestamp": "2026-08-29T05:51:59.922878410Z",
+  "model": "glm-5.3"
+}

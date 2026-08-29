@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Miilaan cincaa taatee, mul'ata boonsaa kan sikkoo-warra Efrayim ni calqabsifama.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "Miilaan"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "ni calqabsifama"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mul'ata"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "boonsaa"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "kan sikkoo-warra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T08:56:38.636537605Z",
+  "model": "glm-5.3"
+}

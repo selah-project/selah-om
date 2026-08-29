@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Ta'a, guyyaa jahaffaatti waan ⟨את⟩ baatan mijeessu; ta'a, waan guyyaa guyyaan funaananiirratti dachaa ta'a.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaatti"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "jahaffaa"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "mijeessu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan baatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "baatan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dachaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "funaananii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyyaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:08:16.766882491Z",
+  "model": "glm-5.3"
+}

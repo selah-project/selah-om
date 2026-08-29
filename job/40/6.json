@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Yahween ⟨את⟩ Ayyuub hundee gaarii irraa deebisee akkas jedhe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayyuub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuub"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "hundee gaarii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akkas jedhe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:31:32.260287921Z",
+  "model": "glm-5.3"
+}

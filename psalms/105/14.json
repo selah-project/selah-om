@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 105,
+  "translation": "Nama tokkollee isaan miidhuu hin hayyamne; moototas isaan irratti gaddisiise.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "hayyamne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nama tokkollee"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "isaan miidhuu"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "gaddisiise"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "isaan irratti"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "moototas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:44:51.890188646Z",
+  "model": "glm-5.3"
+}

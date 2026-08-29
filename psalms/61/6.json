@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Kanaaf, ati, Eloohiim, kakaafoota koo dhaggeeffatteetta; dhaala warra maqaa kee sodaatan ⟨natti⟩ kenniteetta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kanaaf"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dhaggeeffatteetta"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "kakaafoota koo"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "kenniteetta"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "dhaala"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "warra ... sodaatan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:39.082971676Z",
+  "model": "glm-5.3"
+}

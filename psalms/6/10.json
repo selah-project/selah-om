@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe kadannaa koo dhagaye; Yaḥwe gabateeffannaa koo fudhate.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dhagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "kadannaa koo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaḥwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "gabateeffannaa koo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fudhate"
+    }
+  ],
+  "timestamp": "2026-08-29T11:09:29.330572340Z",
+  "model": "glm-5.3"
+}

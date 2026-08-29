@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Namootni sanii du'uu warra hin taane immoo funyoowwaan rukutanii; gurraachni biirotiis samii ol ol katte.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Namootni sanii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "warra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "du'uu taane"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "rukutanii"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "funyoowwaan"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ol katte"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "gurraachni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "biirotiis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    }
+  ],
+  "timestamp": "2026-08-29T07:20:02.191334576Z",
+  "model": "glm-5.3"
+}

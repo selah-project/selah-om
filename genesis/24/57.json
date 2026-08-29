@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Isaanis ni jedhan, \"Mucaa tarii waamna, afurii ishee irrattis gaafanna.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ni jedhan"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "waamna"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "mucaa tarii"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "gaafanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afurii ishee"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afurii ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:00.903058912Z",
+  "model": "glm-5.3"
+}

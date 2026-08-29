@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Sababa lafeei kiyyaa eegi na godhi; na eebi, maaloo na hin salphisi, sababni hafuura-jiyyaan kiyyaan Keessaa Kee keessatti hirminate.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "eegi na godhi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hafuura-jiyyaan kiyyaan"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na eebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maaloo hin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "na salphisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hirminate"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Keessaa Kee keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:14.977819958Z",
+  "model": "glm-5.3"
+}

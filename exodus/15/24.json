@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sabyoonnis Mosheerratti ayyaananii akkas jedhan: “Maaltu nuti dhugoomna?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ayyaananii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabyoonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "-rratti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maaltu"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "dhugoomna"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:00.523021443Z",
+  "model": "glm-5.3"
+}

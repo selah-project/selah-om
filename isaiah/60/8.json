@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 60,
+  "translation": "Eenyuumtu kanatti, akka duuda samiitii naa'ani, akka qumbii mana isaaniietti?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Eenyuumtu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kanatti"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "akka duuda samiitii"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "naa'ani"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "akka qumbii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...tti"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "mana isaaniietti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:00:01.975735600Z",
+  "model": "glm-5.3"
+}

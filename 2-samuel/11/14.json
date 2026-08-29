@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Ganama ta'us Daawid barreeffama barreesse, ergaa gara Yoowaabiiti, harka Uuriyaahiniin erguun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'us"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "barreesse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "barreeffama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaab"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "erguun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaah"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:38.329761676Z",
+  "model": "glm-5.3"
+}

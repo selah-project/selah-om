@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "\"Yoo toltuu hojjete, ol-kaafamaa mitii? Yoo toltuu hin hojjin, badiin banaa irratti rukuta jira. T shoome isaa gara saniitti ti; atis isa irratti abbaa taata.\"",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "mitii?"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "toltuu hojjete"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ol-kaafamaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "toltuu hojjin"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "banaa irratti"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "badiin"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "rukuta jira"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "gara saniitti"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "t shoome isaa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "atis"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "abbaa taata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:37.319279998Z",
+  "model": "glm-5.3"
+}

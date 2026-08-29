@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Kunis ilmaan Daawid kanwwan isaatti ibsaniiti, kanwwan isatti Hebronii dhalatan: ejjennaa Amnoon, kan Akhiinoam taate, duraati Yizre'el; lammaffaa Daani'el, kan Abiigaayil taate, Karmeeliti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kunis"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ta'aniiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kanwwan"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "dhalatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebronii"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ejjennaa"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "Amnoon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "kan Akhiinoam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "Yizre'eliiti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lammaffaa"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daani'el"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "kan Abiigaayil"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "Karmeeliti"
+    }
+  ],
+  "timestamp": "2026-08-29T13:31:40.628746682Z",
+  "model": "glm-5.3"
+}

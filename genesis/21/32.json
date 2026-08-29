@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Akkasumas Be'eer-Sheebatti kakuu muranii; Abiimeleekhiis dhaabbatee, Fiikoolis waraana isaaa ol'aa, gara biyya Filiistotaatti deebi'an.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "kakuu muranii"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kakuu"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Be'eer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheebaa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dhaabbatee"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimeleekh"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "Fiikool"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ol'aa"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "waraana isaa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "deebi'an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiistotaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:37.941367038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 77,
+  "translation": "Atti eegannoo ija kiyyoo qabadde; naan rukutame, hin dubbadhu.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "qabadde"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "eegannoo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ija kiyyoo"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "naan rukutame"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "dubbadhu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:01.223619363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Gangiloo koo Eloohiim irratti dha, kan qajeeloo onnee baafatu.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "gangiloo koo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "kan baafatu"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "qajeeloo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:08:56.706524667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Sabbatootarratti ⟨את⟩ kabaja Isaa himaadhaa; umamtoota hunda biratti raawwii Isa ajajaaboo isaatiini himaadhaa",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "himaadhaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sabbatootarratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabaja Isaa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kabaja Isaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda biratti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "umamtoota"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "raawwii Isa ajajaaboo isaatiini"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:44.136302975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Maalif yeroo dachaa lakkisaa nu gattaa? Yeroo dheeraa nu derqabaa?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maalif"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "yeroo dachaa lakkisaa"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "nu gattaa"
+    },
+    {
+      "surface": "תעזבנu",
+      "gloss": "nu derqabaa"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "yeroo dheeraa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyoota"
+    }
+  ],
+  "timestamp": "2026-08-29T12:47:56.502122292Z",
+  "model": "glm-5.3"
+}

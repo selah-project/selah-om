@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Namoonni hawwatoo hanga sirrii ta'aniitti, daawwattoota dhugaa ta'uu hunda barbaadan; malee, wanti daawwattoota maalaa ta'ee daawwattoota hin taane miti.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "malee, namoonni"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "hawvatoo"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "hanga sirrii ta'aniitti"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "daawwattoota"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "maalaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "daawwattoota hin taane"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ta'ee… miti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:30:26.146376686Z",
+  "model": "glm-5.3"
+}

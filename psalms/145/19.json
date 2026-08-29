@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 145,
+  "translation": "Fe'ansa warra isa kabaju ni hojjeta, ⟨את⟩ qeexumsa isaaniis ni dhagee ni baraarsa.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "fe'ansa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "warra isa kabaju"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ni hojjeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qeexumsa isaaniis"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "qeexumsa isaaniis"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ni dhagee"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ni baraarsa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:33.058074816Z",
+  "model": "glm-5.3"
+}

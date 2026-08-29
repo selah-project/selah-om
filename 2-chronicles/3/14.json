@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Faashaa ⟨את⟩ cuulaa, ardaavaa, diimaa fi dhirriis hojjedhe; keruubimota isa irratti ol baase.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faashaa"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "faashaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "cuulaa"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ardaavaa"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "diimaa"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "dhirrii"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ol baase"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruubimota"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:15.506611213Z",
+  "model": "glm-5.3"
+}

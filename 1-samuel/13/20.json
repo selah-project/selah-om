@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Israa'el hundinuu gara Peleshtiiwwan gadi bu'an, namni kamiinuu ⟨את⟩ handaara-lafa isaa fi ⟨את⟩ afruu isaa fi ⟨את⟩ sabbaka isaa fi ⟨את⟩ gurgee isaa akka qupphishuuf.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "gadi bu'an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundinuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Peleshtiiwwan"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "qupphishuuf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni kamiinuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handaara-lafa isaa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "handaara-lafa isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "afruu isaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "afruu isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "sabbaka isaa"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sabbaka isaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "gurgee isaa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "gurgee isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:22:52.817018157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 9:23",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Eloohiimiinis ruuhoo duubaa ergaa, gidduu Abiimelekii fi gidduu abbootii Shekhem kufe; abbootiinis Shekhem Abiimelek irratti kakuun balleessan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ergaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiinis"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhoo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "duubaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelekii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidduu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abbootii"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "kakuun balleessan"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abbootiinis"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "Abiimelek irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:05:34.267080315Z",
+  "model": "glm-5.3"
+}

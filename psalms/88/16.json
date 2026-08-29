@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Ani gaddaa dha, du'aa irraa kan dhiyaadha; umurii ijoolummaa kooti sodaachuu kee baadhaadheera; dhiibaa-dhugaa na qabaa jira.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "gaddaa dha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "du'aa irraa kan dhiyaadha"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "umurii ijoolummaa kooti"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "baadhaadheera"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "sodaachuu kee"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "dhiibaa-dhugaa na qabaa jira"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:37.747962975Z",
+  "model": "glm-5.3"
+}

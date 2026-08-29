@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Waggaa torba-tokko-dheeraa Pekah ilma Remaleeyaa [mootii Israa'el] irratti, Axaaz ilma Yootam mootii Yahuudaa mootummaa eegale.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Waggaa keessa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tokko-dheeraa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "waggaa"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Pekah irratti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaleeyaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootummaa eegale"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yootam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:35:50.642676118Z",
+  "model": "glm-5.3"
+}

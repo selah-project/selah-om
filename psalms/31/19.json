@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Haadhoni afuraan sobaa duuddubaa hadi'i; warri miila qajeelaa irratti, boona fi garmalee, dubbatu.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "hadi'i"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "afuraan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sobaa"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "miila qajeelaa"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "boona (dubbii cimaa)"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "garmalee"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "fi gatii-hin-qabu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:16.749675659Z",
+  "model": "glm-5.3"
+}

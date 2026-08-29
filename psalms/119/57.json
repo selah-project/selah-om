@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Qooda koo Yahwe ti; akka jechoota Keetti eegu jedhe.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "qooda koo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eeguuf"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jechoota Keetti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:56.971313451Z",
+  "model": "glm-5.3"
+}

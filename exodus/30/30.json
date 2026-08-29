@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Aharooniis fi ⟨את⟩ ilmaan isaa dibifta, ⟨את⟩ isaanis qulqulleessifti footoota kiyya ta'uuf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoonii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoonii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilman isaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilman isaa"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "dibifta"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "qulqulleessifti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaani"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "footoota kiyya ta'uuf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T05:16:06.370947649Z",
+  "model": "glm-5.3"
+}

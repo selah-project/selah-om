@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Akkasumas yeroo addaan Avrahaam ⟨את⟩ jechootaa isaanii dhaggeeffu, Yahweef sararee of kenne gara lafaatti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akkasumas ... yeroo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhaggeeffu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "addaan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechootaa isaanii"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "jechootaa isaanii"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sararee of kenne"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "gara lafaatti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweef"
+    }
+  ],
+  "timestamp": "2026-08-29T04:35:08.122396161Z",
+  "model": "glm-5.3"
+}

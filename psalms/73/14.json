@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Achiis guyyaa guutuu rikkachaa jira; korri kiyya ganama tokko ganama.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "achiis"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "rikkachaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "korri kiyya"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ganama tokko ganama"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:49.267716208Z",
+  "model": "glm-5.3"
+}

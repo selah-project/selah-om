@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Abiimelecs immoo ishee hin qaqqababneefi; akkas jedhe: Adoonaay, sabaa qajeelaa akkaas ni ajjeessa?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abiimelecs immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "qaqqababne"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ishee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "sabaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkaas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qajeelaa"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ni ajjeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:51.353062113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Sababiin isaas mana hidhaa irraa bahee akka mootii ta'uuf bahe; kanaafuu mootummaa isaas keessatti hiyyeessa dhalate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaas"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "hidhaa irraa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "akka mootii ta'uuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaafuu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "mootummaa isaas keessatti"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "רש",
+      "gloss": "hiyyeessa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:48:29.020931081Z",
+  "model": "glm-5.3"
+}

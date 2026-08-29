@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Chenokitti ⟨את⟩ Iiraad dhalate; Iiraadis ⟨את⟩ Meexuyaa'eel dhalche; Meexuyaa'eelis ⟨את⟩ Metuushaa'eel dhalche; Metuushaa'elis ⟨את⟩ Laamek dhalche.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dhalate"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "Chenokitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iiraad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Iiraad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "Iiraadis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meexuyaa'eel"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Meexuyaa'eel"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "Meexuyaa'eelis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuushaa'eel"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metuushaa'eel"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "Metuushaa'elis"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laamek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Laamek"
+    }
+  ],
+  "timestamp": "2026-08-29T14:13:49.893483279Z",
+  "model": "glm-5.3"
+}

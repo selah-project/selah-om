@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Sababa mana Yahwe Eloohiim keenyatti, gaarii siif haa barbaadu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "haa barbaadu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaarii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siif"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:32.941352070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 35,
+  "translation": "Ilmoonsa Israa'eelitti dubbadhu, isaanitti akkas jedhi: yeroo Yordaanii ⟨את⟩ darbtan, biyya Keenaanaatti,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dubbadhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoonsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'eel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "isaanitti jedhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "darbtan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordaanii"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordaanii"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "biyyaatti"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Keenaanaan"
+    }
+  ],
+  "timestamp": "2026-08-29T06:13:06.917629146Z",
+  "model": "glm-5.3"
+}

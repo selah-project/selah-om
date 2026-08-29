@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Bulfachaaf, mizmoora Daawiditi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bulfachaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawiditi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:24.452979843Z",
+  "model": "glm-5.3"
+}

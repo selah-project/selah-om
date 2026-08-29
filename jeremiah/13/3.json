@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Jechi Yahwe ergasii lammaffaan gara kiyyaatti dhufe, akka jedhuuti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ergasii dhufe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jeecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gara kiyyaatti"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lammaffaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuuti"
+    }
+  ],
+  "timestamp": "2026-08-29T15:03:33.235387650Z",
+  "model": "glm-5.3"
+}

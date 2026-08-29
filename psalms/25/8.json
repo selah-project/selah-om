@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Tola fi qajeeluma ⟨ti⟩ Yahwe; kanaaf badii raawwattoota karaa irratti barsiisa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "fi qajeeluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "barsiisa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "badii raawwattoota"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "karaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:07.042964109Z",
+  "model": "glm-5.3"
+}

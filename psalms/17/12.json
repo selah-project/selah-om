@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Akkaatumti isaa akka argee qoodu hawwatuutti, akkasumas akka argee-dhiiraa imbabboo iddoowwan dhokatan keessaa jiraatuutti.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "akkaatumti isaa"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "akka argee"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "hawwatu"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "qooduuf"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "akka argee-dhiiraa imbabboo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "iddoowwan dhokatan keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:43.832243907Z",
+  "model": "glm-5.3"
+}

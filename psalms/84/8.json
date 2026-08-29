@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 84,
+  "translation": "Humnaa irraa gara humnaatti deemu; hundi Siyyoon keessatti Eloohiimitti mul'atu.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "humnaa irraa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "humnaatti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mul'atu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara ... -tti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siyyoon keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:00.406967170Z",
+  "model": "glm-5.3"
+}

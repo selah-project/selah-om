@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 25,
+  "translation": "Kun waan dallii Yahwe Eloohiim kee ti'i — hundi warra kana hojjatan, hundi warra madaallaa-mittii hojjatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "waan dallii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjatan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjatan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "madaallaa-mittii"
+    }
+  ],
+  "timestamp": "2026-08-29T06:30:03.645811624Z",
+  "model": "glm-5.3"
+}

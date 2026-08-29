@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Nasiinis gidduu isaaniitti ta'ee, yeroon isaan seenu seena, yeroon isaan ba'an ba'an.",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "Nasiinis"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "gidduu isaaniitti"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "yeroon isaan seenu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "seena"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "yeroon isaan ba'an"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba'an"
+    }
+  ],
+  "timestamp": "2026-08-29T15:17:16.411813074Z",
+  "model": "glm-5.3"
+}

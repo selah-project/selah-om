@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Sababa kanaaf, geddaan kiyya gadhimmaa guute; miseensi na qabate, akka miseena dubartii dhalattu; dhagheefni koorre; argheefnis gaddabdeesse.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sababa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "guute"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "geddaan kiyya"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "gadhimmaa"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "miseensi"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "na qabate"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "akka miseena"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "dubartii dhalattu"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "koorre"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "dhagheefni"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "gaddabdeesse"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "argheefnis"
+    }
+  ],
+  "timestamp": "2026-08-29T08:52:52.815614546Z",
+  "model": "glm-5.3"
+}

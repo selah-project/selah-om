@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Nu deebisi, Eloohiim badhaacha keenyaa, aarruu kee nu wajjin haqi.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Nu deebisi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "badhaacha keenyaa"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "haqi"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "aarruu kee"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nu wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:18.526371644Z",
+  "model": "glm-5.3"
+}

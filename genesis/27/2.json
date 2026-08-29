@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Akkasumas jedhe: \"Kanaa, nagaan, ani dagaa'era; guyya du'aa koo hin beeku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kanaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "dagaa'era"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "guyya"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "du'aa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:03.226109478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Sababiin isaas du'a keessatti yaadannoo kee hin jiru; She'ool keessatti eenyu si galata galcha?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "במות",
+      "gloss": "du'a keessatti"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "yaadannoo kee"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "She'ool keessatti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eenyu"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "galata galcha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:01.812976654Z",
+  "model": "glm-5.3"
+}

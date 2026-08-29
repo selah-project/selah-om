@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Sababaa isaatti, finciliiwwan koo ani beeka, fi badii koo yeroo hunda fuulduratti koo jira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababaa isaatti"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "finciliiwwan koo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "fi badii koo"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fuulduratti koo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:29.337287117Z",
+  "model": "glm-5.3"
+}

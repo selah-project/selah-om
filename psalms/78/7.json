@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Eloohiim irratti ammaduu isaanii godhani, hojiiwwan Eel hin dagagan, ajajoota Isa immoo eegani.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "godhani"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim irratti"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ammaduu isaanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fi hin"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "dagagan"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "hojiiwwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "fi ajajoota Isa"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "eegani"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:23.509941733Z",
+  "model": "glm-5.3"
+}

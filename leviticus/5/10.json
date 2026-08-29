@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Lammoo lammaffaas ⟨את⟩ akka seera qurba ol-kaa'aa taati isa goda; qeesiinis badii isaa kan baduuf isa irratti kaffaldii godha, badii isaa baduuf — isaafis ni dhiifama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lammoo lammaffaa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lammoo lammaffaa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "isa goda"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qurba ol-kaa'aa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akka seera"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kaffaldii godha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "qeesiinis"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "badii isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "badu"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ni dhiifama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:54.758181288Z",
+  "model": "glm-5.3"
+}

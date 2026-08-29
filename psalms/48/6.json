@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 48,
+  "translation": "Isaan arganii, akkasumas daddarbuun ajaa'ibbeessan; daawwatan, utuu hin eegamin baqatan.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arganii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "daddarbuun ajaa'ibbeessan"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "daawwatan"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "utuu hin eegamin baqatan"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:14.877953634Z",
+  "model": "glm-5.3"
+}

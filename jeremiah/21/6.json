@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Lakkoofsaa jireenyaa magaalaa kanaa — ⟨את⟩ namootaa fi ⟨את⟩ beyladaa — rakkoo gurguddaaatin rukute; isaan du'u.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakkoofsaa jireenyaa magaalaa kanaa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "lakkoofsaa jireenyaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "namootaa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namootaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beyladaa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "beyladaa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gurguddaaatin"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "du'u"
+    }
+  ],
+  "timestamp": "2026-08-29T15:04:56.514072411Z",
+  "model": "glm-5.3"
+}

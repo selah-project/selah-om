@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 15:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Sa'uliis ni jedhe: \"Amalekotaanii fudhatanii dha; sababa uumanni waan hoolaa fi loonii mijeessaa irraa itti rahuu dhaan, Yahwee Eloohiim kee-tiif sowanii difachuuf; kan hafes ⟨את⟩ balleessineera.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sa'uliin"
+    },
+    {
+      "surface": "מעמלקי",
+      "gloss": "Amalekotaanii"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "fudhatanii dha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sababa ... dhaan"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "rahuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uumanni"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "mijeessaa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hoolaa"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "fi loonii"
+    },
+    {
+      "surface": "למען",
+      "gloss": "...uuf"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sowanii difachuuf"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwee"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee-tiif"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kan hafes (hww-toota)"
+    },
+    {
+      "surface": "היותר",
+      "gloss": "kan hafes"
+    },
+    {
+      "surface": "החרמנו",
+      "gloss": "balleessineera"
+    }
+  ],
+  "timestamp": "2026-08-29T07:26:19.843389316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 16:7",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Yaaddaa keessatti isaanif dabarsitanii du'aa gaddisuuf hin cinanii; abbaa isaa fi haadha isaa irraatti fincaan tasgabbii ⟨את⟩ hir'isaa hin taasisan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יפרסו",
+      "gloss": "dabarsitanii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanif"
+    },
+    {
+      "surface": "על",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "yaaddaa"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "gaddisuuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraatti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'aa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "taasisan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hir'isaa",
+      "marks": "fincaan tasgabbii"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "fincaan"
+    },
+    {
+      "surface": "תנחומים",
+      "gloss": "tasgabbii"
+    },
+    {
+      "surface": "על",
+      "gloss": "irraatti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fi irraatti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "haadha isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:33:56.793991576Z",
+  "model": "glm-5.3"
+}

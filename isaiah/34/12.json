@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Mootummatti erga toltuusa ishee waamani hin jiru; hoggantootni ishee hundi ni dhumani.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "toltuusa ishee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "erga"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "mootummatti"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "waamani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "hoggantootni ishee"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "dhumani"
+    }
+  ],
+  "timestamp": "2026-08-29T09:03:43.064150627Z",
+  "model": "glm-5.3"
+}

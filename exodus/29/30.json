@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Torban guyyaa ka'aa, ogeessi qulqullummaa bakka isaa dhaabbatu ilmi isaa isa ta'u, isaa uumamaa yeroo mana walga'ii keessaa seeru qulqullummaa keessatti tajaajiluuf.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "torban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "isa uumamaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ogeessi qulqullummaa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "bakka isaa"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ilmi isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "seeru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "keessaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "tajaajiluuf"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "qulqullummaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:15:27.300000693Z",
+  "model": "glm-5.3"
+}

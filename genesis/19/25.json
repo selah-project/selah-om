@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Gara-jijjiisaa magaalota kana, akkasumas ⟨את⟩ gabatee guuttaa, akkasumas ⟨את⟩ magaalota kana jiraatota hunda, akkasumas biqila lafaa.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "gara-jijjiisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalota kana"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "האל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akkasumas ⟨את⟩",
+      "marks": "gabatee guuttaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guuttaa"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "gabatee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akkasumas ⟨את⟩",
+      "marks": "jiraatota hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "jiraatota"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalota kana"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "akkasumas biqila"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:05.133806318Z",
+  "model": "glm-5.3"
+}

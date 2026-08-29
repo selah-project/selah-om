@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Eloohiimiin ni jedhe, \"Raajiin bishaanota gidduutti haa jiraatu, akkasumas bishaanota fi bishaanota gidduu hattu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ni jedhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimiin"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "haa jiraatu"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "Raajiin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gidduutti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaanota"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akkasumas haa"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "hattu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaanota"
+    },
+    {
+      "surface": "למים",
+      "gloss": "bishaanotaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T04:24:30.201870118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Ati Yahwe, yeroo hunda oolessaa; yaadannoon kee durtii durtiidhaan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oolessaa"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "yaadannoon kee"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durtii"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "durtiidhaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:58.073511176Z",
+  "model": "glm-5.3"
+}

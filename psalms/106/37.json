@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Ilmoo isaanii ⟨את⟩ fi ⟨את⟩ intalota isaanii seexanotaaf qalan.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoo isaanii"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilmoo isaanii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "intalota isaanii"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "intalota isaanii"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "seexanotaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:12.623511589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Kuniis moo anaaf hojjedhan: guyyaa sanas ⟨את⟩ qaama qulqullummaa kiyya bullaa'effaniiru, ⟨את⟩ sabboota kiyya hiikkaniirus.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "kuniis moo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjedhan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anaaf"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "bullaa'effaniiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaama qulqullummaa kiyya"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "qaama qulqullummaa kiyya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabboota kiyya"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "sabboota kiyya"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "hiikkaniirus"
+    }
+  ],
+  "timestamp": "2026-08-29T10:19:21.037145165Z",
+  "model": "glm-5.3"
+}

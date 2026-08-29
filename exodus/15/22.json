@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Mosheenis ⟨את⟩ Israa'el bahrashii Suuf irraa baafate; gogaa Shuuriitti ba'an, guutuu sadii gogaadhaan deemanii bishaan hin arganne.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "baafate"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bahrashii"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ba'an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gogaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shuur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gogaadhaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "arganne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:00.522512208Z",
+  "model": "glm-5.3"
+}

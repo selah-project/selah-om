@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Faana mataa kiyyaa keessatti, wiiga gadhiifataa kiyyaa irratti, ani koo aruu koo — karaa tokko, eegaa tokko fi qulqulluu tokko samii irraa bu'e.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "aruu"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ani koo"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "faana keessatti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mataa kiyyaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "wiiga gadhiifataa kiyyaa"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "karaa tokko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eegaa tokko"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "fi qulqulluu tokko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "samii"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "bu'e"
+    }
+  ],
+  "timestamp": "2026-08-29T13:01:09.724158885Z",
+  "model": "glm-5.3"
+}

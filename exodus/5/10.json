@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Sisyoonni ummataa fi ajajtoonni isaanii ba'anii, ummataatti akka jedhanii: 'Akka jedhe Par'oo: Raacaa isinii hin kennu.'",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba'anii"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "sisyoonni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummataa"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "ajajtoonni isaanii"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummataa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhanii"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akkas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oo"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "hin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "isinii"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "raacaa"
+    }
+  ],
+  "timestamp": "2026-08-29T04:58:22.686960972Z",
+  "model": "glm-5.3"
+}

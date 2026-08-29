@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Hundi isaanii si eegatu, soorata isaanii akka yeroo isaa siif kennitu.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hundi isaanii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "eegatu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akka ... kennitu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "soorata isaanii"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "yeroo isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:21.849404718Z",
+  "model": "glm-5.3"
+}

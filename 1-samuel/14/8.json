@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yihonatanis jedhe: 'Kuun! Nuti namoota kanaanii ce'ina; isaanitti mul'ina.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yihonatanis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kuun!"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Nuti"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ce'ina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "namoota kanaanii"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "mul'ina"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "isaanitti"
+    }
+  ],
+  "timestamp": "2026-08-29T07:21:45.941992707Z",
+  "model": "glm-5.3"
+}

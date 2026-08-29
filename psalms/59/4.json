@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 59,
+  "translation": "Sababiin isaas, akka ilaalutti, lubbuu koo irratti hafuura rasaasaniiru; cimoonni si'a koo irratti walitti nan-lalan — safara kiyya miti, badii kiyya mitis, yaa Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababiin isaas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "akka ilaalutti"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "hafuura rasaasaniiru"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lubbuu koo irratti"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "walitti nan-lalan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "si'a koo irratti"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "cimoonni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "safara kiyya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mitis"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "badii kiyya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:52.670503067Z",
+  "model": "glm-5.3"
+}

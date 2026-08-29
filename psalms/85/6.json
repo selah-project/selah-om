@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 85,
+  "translation": "Sila abadiitti nu irratti aartaa? Aarruu kee dhalootaa fi dhalootaaf dheeressitaa?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Sila abadiitti"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "aartaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "dheeressitaa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "aarruu kee"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dhalootaa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "fi dhalootaaf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:40:18.526569621Z",
+  "model": "glm-5.3"
+}

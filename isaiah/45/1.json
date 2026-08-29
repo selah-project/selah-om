@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 45:1",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Akka jedhe Yahwe, Maashiyaak isaa tiif, Kooreesh tiif, kan itti qabadhe mirga isaatiin, sabni fuuldura isaa akka buuf, akka hirdise hedduu mootota, akka bane fuuldura isaa balbaloota, balbalonni hin cufaman.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "Maashiyaak isaa tiif"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Kooreesh tiif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "itti qabadhe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "mirga isaatiin"
+    },
+    {
+      "surface": "לרד",
+      "gloss": "buuf"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuuldura isaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sabni"
+    },
+    {
+      "surface": "ומתני",
+      "gloss": "hedduu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootota"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "hirdise"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "akkane bane"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fuuldura isaa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "balbaloota"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "balbalonni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "cufaman"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:45.933035913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 6:24",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Yahwe seera kana hunda ⟨את⟩ raggaasifannaaf, Eloohiim keenya Yahwe-tu ⟨את⟩ beekannaaf, guyyoota keenya hunda irratti nuuf tola, akka har'a guyyaa kana jiraachuu nu jjenneef, ajajaa nu ajaje.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "ajajaa nu ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raggaasifannaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "seera"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "beekannaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Eloohiim keenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenya"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "tolaaf"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "guyyoota"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "jiraachuu nu jjenneef"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "akka har'a guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:18:16.511125628Z",
+  "model": "glm-5.3"
+}

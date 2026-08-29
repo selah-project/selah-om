@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Hojiibsi, Yahwe, sababaa kan kheesed qaban xumuraniifi, sababaa amantoonni ⟨ilmaan⟩ namootaa irraa badaniiti.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Hojiibsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "xumuraniif"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kan kheesed qaban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "badaniiti"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "amantoonni"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:12:57.258071995Z",
+  "model": "glm-5.3"
+}

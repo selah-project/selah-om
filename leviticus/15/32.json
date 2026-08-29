@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Kun seera kan fincana qabu ti; akkasumas kan irraa baafata sanyii baatu, isaatiinis wal-qabeessa ta'uuf.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "seera"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "kan fincana qabu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "akkasumas kan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "baafata"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sanyii"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "wal-qabeessa ta'uuf"
+    },
+    {
+      "surface": "בה",
+      "gloss": "isaatiinis"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:58.652395217Z",
+  "model": "glm-5.3"
+}

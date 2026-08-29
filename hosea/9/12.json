@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Yoodhuma ilmaan isaanii guddisan, aniis hagugsee namoota irraa isaan haqa; dhugumatti, yeroo ani isaan irraa deebi'uutti, badii isaanitti!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "guddisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaan isaanii"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilmaan isaanii"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "aniis hagugsee isaan"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "namoota irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dhugumatti"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "badii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaanitti"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "yeroo ani deebi'uu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "isaan irraa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:18:19.955849408Z",
+  "model": "glm-5.3"
+}

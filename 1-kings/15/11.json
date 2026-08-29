@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Asas waan sirrii ta'e ⟨את⟩ ichii Yahwe keessatti hojjete, akkuma Daawid abbaa isaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "waan sirrii ta'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ichii … keessatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "akkuma Daawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abbaa isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:15:11.604073879Z",
+  "model": "glm-5.3"
+}

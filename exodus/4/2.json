@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yahwe isaatti jedhe:Maaltu harka keetti jira? Inni ammoo: Mattee, jedhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Maaltu... jira"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "harka keetti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Mattee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:05.042012486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 132,
+  "translation": "Kohoonni kee miira qajeelaa (tsedeq) uffatan, kheesed-dhiseenonni kee hoo boachuu isaanii.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Kohoonni kee"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "uffatan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "miira qajeelaa (tsedeq)"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "kheesed-dhiseenonni kee"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hoo boachuu isaanii"
+    }
+  ],
+  "timestamp": "2026-08-29T11:53:01.656140709Z",
+  "model": "glm-5.3"
+}

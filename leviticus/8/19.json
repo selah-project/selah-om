@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Ajjeese; Mosheenis ⟨את⟩ dhiiga altarii irratti naannoo facaafse.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ajjeese"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "facaafse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    }
+  ],
+  "timestamp": "2026-08-29T05:35:41.608795743Z",
+  "model": "glm-5.3"
+}

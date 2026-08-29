@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani ⟨את⟩ rakkoo waan Eloohiim ilmaawwan namaaf kenne, akka isaan rakkoo sanii keessatti itti dhibbamuuf, ilaale.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ilaale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakkoo"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "rakkoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaawwan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "itti dhibbamuuf"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rakkoo sanii keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:19.291429085Z",
+  "model": "glm-5.3"
+}

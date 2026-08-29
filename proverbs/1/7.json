@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yahwe-tiin sodaa beekumsaa jalqaba ti; hiikkaa fi qorannoo riyyaa bala'effatu.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "sodaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jalqaba"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "beekumsaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "fi qorannoo"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "riyyota"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "bala'effatu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:28:10.960760619Z",
+  "model": "glm-5.3"
+}

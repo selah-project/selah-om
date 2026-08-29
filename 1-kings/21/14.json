@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Ijzebelitti erganiis jedhaan: \"Naabooti rukutameera, du'eera.\"",
+  "tokens": [
+    {
+      "surface": "וישלחu",
+      "gloss": "erganiis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ijzebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhaan"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "rukutameera"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naabooti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'eera"
+    }
+  ],
+  "timestamp": "2026-08-29T08:19:37.424456705Z",
+  "model": "glm-5.3"
+}

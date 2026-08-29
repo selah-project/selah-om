@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Ndeebinnee miti sirree; ati nu jiraachi, maqaa keetiin nu waamna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ndeebinnee"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sirree"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "nu jiraachi"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "maqaa keetiinis"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "nu waamna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:37:07.052038579Z",
+  "model": "glm-5.3"
+}

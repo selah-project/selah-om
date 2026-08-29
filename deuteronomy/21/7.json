@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Deebisanii ni jedhu: Harki keenya dhiiga ⟨את⟩ kana hin dhangorsine; ija keenyas hin argine.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "deebisanii"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ni jedhu"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "harki keenya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "dhangorsine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiga kana"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ija keenya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "argine"
+    }
+  ],
+  "timestamp": "2026-08-29T06:27:08.961996780Z",
+  "model": "glm-5.3"
+}

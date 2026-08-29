@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 55,
+  "translation": "Gurra naa-siiqi fi natti deebi; nuti nut of-rarbaa yaada koo keessatti, fi iyya dheraa.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "gurra naa-siiqi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "natti"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "natti deebi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "nut of-rarbaa"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "yaada koo keessatti"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "iyya dheraa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:25.301695698Z",
+  "model": "glm-5.3"
+}

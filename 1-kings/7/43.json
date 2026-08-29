@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Fi ⟨את⟩ bu'uurwwan kudhan, fi ⟨את⟩ baafatoota kudhan bu'uurwwan irratti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "bu'uurwwan kudhan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bu'uurwwan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "baafatoota kudhan"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "baafatoota"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kudhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bu'uurwwan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:06:01.977012449Z",
+  "model": "glm-5.3"
+}

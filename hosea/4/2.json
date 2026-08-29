@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Abjuu fi soba, ajjeechaa, hatadhaa, teempaltummaa — ni baay'isani; dhiiga dhiiga waliin tuqa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "abjuu"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "fi soba"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ajjeechaa"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "hatadhaa"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "teempaltummaa"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ni baay'isani"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "dhiiga"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dhiiga waliin"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "tuqa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:37:17.682078622Z",
+  "model": "glm-5.3"
+}

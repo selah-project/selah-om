@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Qorphii isaa ⟨את⟩ са'aa isaa waliin ha baafatu, karaa bahaatti gorsa geddaa biratti, iddoo ashsharaaatti isaa ha darbu.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ha baafatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorphii isaa"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "qorphii isaa"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "са'aa isaa waliin"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ha darbu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isaa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gorsa geddaa"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "karaa bahaatti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "iddoo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ashsharaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:12.083491114Z",
+  "model": "glm-5.3"
+}

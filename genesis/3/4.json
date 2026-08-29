@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Naachaashin dubartiitti: Du'uu hin duutanu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Naachaashin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "dubaraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "du'uu"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "duutanu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:45.608338265Z",
+  "model": "glm-5.3"
+}

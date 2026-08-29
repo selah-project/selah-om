@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Iddoo-miilla kiyya keessa-maqaan atii eegu: daangelee kee keessatti haa dhaabbatu; miilli kiyya walaba miti.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "haa dhaabbatu \/ eegu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "iddoo-miilla kiyya"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "daangelee kee keessatti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "miti (gonkumaa hin)"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "walaba (hin sochoone)"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "miilli kiyya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:49.544299954Z",
+  "model": "glm-5.3"
+}

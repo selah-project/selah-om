@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Bahee Filistiiwwanii wajjin waraana eege; ⟨את⟩ giwwarsa Gaat, ⟨את⟩ giwwarsa Yabneh fi ⟨את⟩ giwwarsa Ashdood buuse; Ashdood fi Filistiiwwan keessatti magaalota ijjisee.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bahee"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "waraana eege"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistiiwwanii wajjin"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "buuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giwwarsa Gaat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "giwwarsa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giwwarsa Yabneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "giwwarsa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giwwarsa Ashdood"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "giwwarsa"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdood"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ijjisee"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalota"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdood keessatti"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "Filistiiwwan keessattis"
+    }
+  ],
+  "timestamp": "2026-08-29T14:04:44.621774449Z",
+  "model": "glm-5.3"
+}

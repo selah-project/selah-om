@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Mootiin Yishruun keessatti ta'e, yeroo matdootiin ummataa waliin, gosoonni Israa'el walitti makaman.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "Yishruun keessatti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootiin"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "walitti makaman irratti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "matdootiin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummataa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "gosoonni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-08-29T06:38:00.370265079Z",
+  "model": "glm-5.3"
+}

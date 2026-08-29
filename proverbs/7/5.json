@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Si eegguuf ⟨dubartii alaa⟩ irraa, ⟨dubartii aanumaas alaa⟩ irraa, jechoon ishii dibdibdee dha.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "si eegguuf"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "dubartii alaa irraa"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "dubartii aanumaas alaa irraa"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "jechoon ishii"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "dibdibdee dha"
+    }
+  ],
+  "timestamp": "2026-08-29T12:00:23.167133484Z",
+  "model": "glm-5.3"
+}

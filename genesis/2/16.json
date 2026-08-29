@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Yahwe Eloohiim namatti ajaje akkas jedhuus: 'Muka gaandaa kamiiruu irraa, ana'aa ni baafatta.'",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ajaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhuus"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kamiiruu irraa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gaandaa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ana'aa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ni baafatta"
+    }
+  ],
+  "timestamp": "2026-08-29T14:14:24.971396192Z",
+  "model": "glm-5.3"
+}

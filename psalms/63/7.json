@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 63,
+  "translation": "Yoo si yaadadhe soorara koo irratti, sa'aatii hordoffii halkan keessatti si irratti xiinxalla.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "si yaadadhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "soorara koo"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "sa'aatii hordoffii halkan keessatti"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "xiinxalla"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:30:32.719612772Z",
+  "model": "glm-5.3"
+}

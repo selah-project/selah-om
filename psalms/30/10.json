@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Maal faayidaa dhiiga koo keessatti jira, booda ganatti yoo seenu? Cuquliisun si gaafalchisee moo? Dhugaa si dubbisee moo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "faayidaa"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dhiiga koo keessatti"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "yoo seenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boda ganatti"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "boda gana"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "si gaafalchisee moo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Cuquliisun"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "dubbisee moo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "dhugaa si"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:10.776907002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Baay'ee eebeeffama kan hiyyeetti sirreeffatu; guyyaa hamtuu Yahwe inni barraarisa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baay'ee eebeeffama"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kan sirreeffatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "דל",
+      "gloss": "hiyyeetti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hamtuu"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "inni barraarisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:39.856301879Z",
+  "model": "glm-5.3"
+}

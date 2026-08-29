@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 73,
+  "translation": "Ani garuu yeroo hunda si wajjin; harka mirgaa koo qabdatee jirta",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ani garuu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "si wajjin"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "qabdatee jirta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mirgaa koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:39.851255395Z",
+  "model": "glm-5.3"
+}

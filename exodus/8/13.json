@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 8,
+  "translation": "Isaanis akkas hojjetan; Aharoon harka isaa maatin isaa wajjin faffachsee ⟨את⟩ afuraa lafaa rukute, kinnaan namaa fi beellamaa irratti taate; afurri lafaa guutuu kinnawaan ta'e biyya Mitsraayim guutuu keessatti.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hojjetan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "faffachsee"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harka isaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "maatin isaa wajjin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afuraa lafaa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "afuraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "taate"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinnaan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "namaa irratti"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "fi beellamaa irratti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "afurri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kinnawaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guutuu keessatti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "biyya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:02:09.515792478Z",
+  "model": "glm-5.3"
+}

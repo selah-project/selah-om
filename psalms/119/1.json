@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Faarfaman ⟨warra⟩ karaa irratti guutaman, isaan Seera Yahwe keessan deeman.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Faarfaman"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "guutaman"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "karaa irratti"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "deeman"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Seera ... keessan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:04.729839462Z",
+  "model": "glm-5.3"
+}

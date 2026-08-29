@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Yahweeffatti kheesed isaa kabajaa, achumais sirna isa inni raawwate ilmaan namootaaf argamsiisaa.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "kabajaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweeffatti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesed isaa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "achumais sirna isa inni raawwate"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "namoota"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:47.110297958Z",
+  "model": "glm-5.3"
+}

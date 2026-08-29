@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Fi ⟨את⟩ qindaa'ina ifaa isaanii, akka seeraa fuulduraa jedhibichaatti akka gubaman — warqee qulqulluu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qindaa'ina ifaa"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "qindaa'ina ifaa"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "akka gubaman"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akka seeraa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fuulduraa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "jedhibichaatti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "warqee"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "qulqulluu"
+    }
+  ],
+  "timestamp": "2026-08-29T13:50:02.841991971Z",
+  "model": "glm-5.3"
+}

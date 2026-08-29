@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Sababaa isaan Eloohiim irratti hin amananii, goofigala Isaa irrattis hin hirkatanef.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "amananii"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohiim irratti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akkasumas hin"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "hirkatanef"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "goofigala Isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:56.041165424Z",
+  "model": "glm-5.3"
+}

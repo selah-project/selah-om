@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Yerushaalayimow, Yahwe ⟨את⟩ faarsaa; Siyoonyow, Eloohiim kee faarsaa.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "faarsaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaalayimow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "faarsaa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoonyow"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:52.155054896Z",
+  "model": "glm-5.3"
+}

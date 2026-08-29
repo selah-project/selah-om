@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 68,
+  "translation": "Eloohiim kee cimina kee ajajee jira; ciminsaa, yaa Eloohiim, waan nuuf hojjete sana.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ajajee jira"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "cimina kee"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "ciminsaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sana"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hojjete"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:42.577267263Z",
+  "model": "glm-5.3"
+}

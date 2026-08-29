@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Anis isin wajjin bakka bu'ummaadhaan deema, aniis simoo — ⟨את⟩ isin — anaan torba lakkoofaman yakka keessaniif haa isin marsee hojjechu; aniis isin torbaan lakkoofaman yakka keessaniif rukute.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "anis isin wajjin bakka bu'ummaadhaan deema"
+    },
+    {
+      "surface": "אף",
+      "gloss": "dabalataanis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "isin wajjin"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "bakka bu'ummaadhaan"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dabalataanis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "torbaan lakkoofaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "irra"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "yakka keessaniif"
+    }
+  ],
+  "timestamp": "2026-08-29T14:26:47.459711737Z",
+  "model": "glm-5.3"
+}

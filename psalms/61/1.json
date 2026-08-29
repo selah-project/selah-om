@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 61,
+  "translation": "Kan dinqisiifannoo qopheessuuf — muuziiga wantoota keennaa irratti — hiikkaa Daawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kan dinqisiifannoo qopheessuuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "muuziiga wantoota keennaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "hiikkaa Daawid"
+    }
+  ],
+  "timestamp": "2026-08-29T11:29:16.384387131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 104,
+  "translation": "Gaarreen ol-ka'oon kan feessoo-maneeyyii ti; xeerrarri misesaasa kan gorraacha-diillaa ti.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gaarreen"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ol-ka'oon"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "feessoo-maneeyyii"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "xeerrarri"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "misesaasa"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "gorraacha-diillaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:29.842596128Z",
+  "model": "glm-5.3"
+}

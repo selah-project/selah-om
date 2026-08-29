@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Onneessi garaa isaa ishee irratti hirkata, qabiyyee isa hin dhabu.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "hirkata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onneessi garaa isaa"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "(garaan) isaa"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "qabiyyee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "dhabu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:31.796850976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Mitsraayimonni Ani Yahwe akka beekaniif, Fira'onii irratti, baaburroota isaa irrattiifi faras-onneewwan isaa irratti kabajamuudhaan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "beekaniif"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayimonni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "kabajamuudhaan"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Fira'onii irratti"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "baaburroota isaa irratti"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "faras-onneewwan isaa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:55.064990532Z",
+  "model": "glm-5.3"
+}

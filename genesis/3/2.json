@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Dubartiin naachaashitti: Firii mukoota gamichaa irraa nyaanna.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jedhi(tti)"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Dubartiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tti"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "naachaash"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "firii irraa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mukoota"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gamichaa"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nyaanna"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:45.607449757Z",
+  "model": "glm-5.3"
+}

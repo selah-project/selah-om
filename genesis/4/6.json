@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Yahweenis Kajinitti jedhe: \"Maaliif ibamte? Maaliif fuulli kee kufe?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ttii"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ibamte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atii"
+    },
+    {
+      "surface": "ו למה",
+      "gloss": "Maaliif"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuulli kee"
+    }
+  ],
+  "timestamp": "2026-08-29T04:25:37.318070542Z",
+  "model": "glm-5.3"
+}

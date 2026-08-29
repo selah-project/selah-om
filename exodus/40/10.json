@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Madalticha dheeffannaa fi ⟨את⟩ meeshaalee isii hunda dibeessa; madalticha qulqulleessitissa, madaltichis ⟨is⟩ qulqullummaa qulqullummaawaa ta'a.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dibeessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madalticha dheeffannaa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madalticha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dheeffannaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "meeshaalee isii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isii"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "qulqulleessitissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madalticha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madalticha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ta'a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madaltichis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullummaawaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:23.709543661Z",
+  "model": "glm-5.3"
+}

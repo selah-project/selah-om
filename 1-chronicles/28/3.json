@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Eloohiimnis naan jedhe: Maatii maqaa kiyyaaf hin ijjitu, sababni ati nama waraanaa taate, dhiigas dhangachaa jirta.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Eloohiimnis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "naan jedhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ijjitu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "maqaa kiyyaaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nama"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "waraanaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "dhiigas"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "dhangachaa jirta"
+    }
+  ],
+  "timestamp": "2026-08-29T13:49:18.174382064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Kabajni isaa guddaa ⟨is⟩ gargaarsaa kee keessaa; ulfinaafi boonsa ati isa irratti dhaabbabda.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kabajni isaa"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "gargaarsaa kee keessaa"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ulfina"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "fi boonsa"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "dhaabbabda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isa irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:16:41.240060700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Gammatatti, yeroo qalama ganamaa ol-kennaa titiqqaa, kuun! Bishaan karaa Edomii irraa dhufe, lichiis ⟨את⟩ bishaan guute.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "gammatatti"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "yeroo ol-kennaa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "qalama ganamaa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuun!"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dhufe"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "karaa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomii irraa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "guute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bishaan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T14:52:26.534233577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 122,
+  "translation": "Hiikkaa Faarfannaa Ol-dhaabbataa kan Daawid. Na gammachuu ture «Gara mana Yahwe haa deemnu» jedhanii naani.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hiikkaa Faarfannaa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Ol-dhaabbataa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kan Daawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Na gammachuu ture"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "jedhanii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "haa deemnu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:31.634589357Z",
+  "model": "glm-5.3"
+}

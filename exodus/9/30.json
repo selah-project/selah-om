@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Atiifi gabroonni kee garuu beeka — baarudhaan Yahwe Eloohiimtii hin sodaanne.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "atiifi"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "gabroonni kee"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akk"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "baarudhaan"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "hin sodaanne"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "Yahwe Eloohiimtii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    }
+  ],
+  "timestamp": "2026-08-29T05:01:19.264803896Z",
+  "model": "glm-5.3"
+}

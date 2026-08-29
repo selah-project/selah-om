@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Yahwe ergaas harka Nataan-nabiinotti erguun, maqaa isaa Yedideeyah jedhe, Yahwef.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erguun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nataan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "-nabiinii"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqaa isaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maqaa isaa"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedideeyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "f"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:48:34.289488154Z",
+  "model": "glm-5.3"
+}

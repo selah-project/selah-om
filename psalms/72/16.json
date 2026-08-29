@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 72,
+  "translation": "Badhaadhin cornii lafa irratti, teessoo gaarreenii iratti ta'uun; firii isaa akka Libaanoon raafamu; magaalaa irraa akka marga lafaa guddisan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ta'uun haa jiraatu"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "badhaadhin"
+    },
+    {
+      "surface": "בר",
+      "gloss": "cornii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lafa irratti"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "teessoo ... iratti"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaarreenii"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "raafamu"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "akka Libaanoon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "firii isaa"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "guddisan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalaa irraa"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "akka marga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:32:54.297477911Z",
+  "model": "glm-5.3"
+}

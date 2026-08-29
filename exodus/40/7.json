@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Cuunfaa Manaa Walgargaaraa fi waamicha gidduu kaafti, bishaanis lubatti kaafti.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "kaafti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuunfaa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "cuunfaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Manaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Walgargaaraa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "gidduu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "waamicha"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaafti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lubatti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:29:18.775129275Z",
+  "model": "glm-5.3"
+}

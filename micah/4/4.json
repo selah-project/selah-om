@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Namni wayitii isaa jalatti fi beema isaa jalatti ni taa'a, nama sodaachisus hin jiru; sababa afaan Yahwe Sabaa-tola ni dubbateef.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ni taa'a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "namni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "wayitii isaa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "fi jalatti"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "beema isaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "nama sodaachisaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaa-tola"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni dubbateef"
+    }
+  ],
+  "timestamp": "2026-08-29T10:55:20.389611796Z",
+  "model": "glm-5.3"
+}

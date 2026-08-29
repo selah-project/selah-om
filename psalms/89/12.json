@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Samiiwwan kan kee ⟨ti⟩; laftis kan kee ⟨ti⟩; addunyaan fi guutummaa isaa — ati hundeeffatteett.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kan kee"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samiiwwan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kan kee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "laftis"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "addunyaan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "fi guutummaa isaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "hundeeffatteett"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:23.899975915Z",
+  "model": "glm-5.3"
+}

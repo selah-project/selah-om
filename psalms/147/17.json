@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Kolola akka boccaa tuula; gara jaala isaa abi male, ni dhaabbatu?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "tuula"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "kolola"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "akka boccaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gara"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "jaala isaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "abi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ni dhaabbatu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:15.760671027Z",
+  "model": "glm-5.3"
+}

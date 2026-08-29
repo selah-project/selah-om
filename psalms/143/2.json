@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 143,
+  "translation": "Mootummaa keetti seenu hin ta'in — waan hunda jaallachu kee akka hin mul'isuuf: maatii koo biratti akka ati ittiin hin murtu dhiifama naa godhi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "akka ... hin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "seenu hin ta'in"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "murtii kee irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addaa koo (abiija koo)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addaa koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "hiyyeessa ta'uu hin danda'u"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "argeetta keetti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiru hundaan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:06.970174811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Kun tasgabbii kiyya haala rakkoo kiyya keessatti; sababa jecha Kee lubbuun kiyya jiraachifteef.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kun"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "tasgabbii kiyya"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "haala rakkoo kiyya keessatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "jecha Kee"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "lubbuun kiyya jiraachifteef"
+    }
+  ],
+  "timestamp": "2026-08-29T11:49:29.670504638Z",
+  "model": "glm-5.3"
+}

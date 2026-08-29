@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 74,
+  "translation": "Mallattoonni keenya hin argine; raajaa dhuunfaa hin jiru, nu wajjinis kan beeku yeroo akka hangam (jedhu) hin jiru.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "Mallattoonni keenya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "argine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dhuunfaa"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "raajaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nu wajjin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "beeku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeroo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hangam"
+    }
+  ],
+  "timestamp": "2026-08-29T11:33:57.854256044Z",
+  "model": "glm-5.3"
+}

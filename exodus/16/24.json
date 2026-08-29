@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Akkasumas akkuma Moshee ajajetti ⟨את⟩ isa ganamatti dhiisan; hin hoolaawwaneef, rimmis isa keessatti hin turre.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "dhiisan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ganamatti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ganama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ajajetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "hoolaawwaneef"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "rimmis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "turre"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:07:21.224286735Z",
+  "model": "glm-5.3"
+}

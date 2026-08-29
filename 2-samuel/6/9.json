@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Daawidis guyyaa sanas ⟨את⟩ Yahwe sodaate, 'Sanduqa Yahwe akkamitti na biratti garaa?' jedhe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sodaate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sanas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "akkamitti"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "garaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na biratti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sanduqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T07:46:23.294477637Z",
+  "model": "glm-5.3"
+}

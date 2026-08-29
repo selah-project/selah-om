@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Kuusaa Yoosef narre; gosa Efiraayim hin filanne.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "narre"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "kuusaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "gosa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efiraayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "filanne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:15.603259148Z",
+  "model": "glm-5.3"
+}

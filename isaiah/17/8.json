@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Mansaawwan, hojii harka isaa, irratti hin hunda'u; waan birriin isaa hojjate ilaaluu hin tajjuu — Asherimta fi fakkoota aduu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "hunda'u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mansaawwan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "harka isaa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fi waan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hojjate"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "birriin isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ilaalu"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "Asherimta"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "fakkoota aduu"
+    }
+  ],
+  "timestamp": "2026-08-29T08:53:38.889238966Z",
+  "model": "glm-5.3"
+}

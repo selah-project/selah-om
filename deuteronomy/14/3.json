@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Jeequmsa kamiyyuu hin nyaannee.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nyaannee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "jeequmsa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:23:06.209384544Z",
+  "model": "glm-5.3"
+}

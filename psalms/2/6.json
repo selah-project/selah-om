@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ani garuu mootii koo Tsiyyoon, gaarree qulqulluu koo irratti dhaabbadhe jedhe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ani garuu"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "dhaabbadhe jedhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mootii koo"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyyoon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gaarree"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qulqulluu koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:10:09.336369800Z",
+  "model": "glm-5.3"
+}

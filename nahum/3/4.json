@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 3:4",
+  "book": "nahum",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Sababa baay'ina raawwii hoormaatii kan [kan hoormaatii hojjetu], [jaalala] caalaatti [jaalala] qabdu, [dargaggoota] [seera] qabdu, [umamtoota] biyya adda addaa raawwii hoormaatii isheeniti, maatiwwan immoo [seera] isheeniti.",
+  "tokens": [
+    {
+      "surface": "מרב",
+      "gloss": "Sababa baay'ina"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "raawwii hoormaatii"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "kan hoormaatii hojjetu"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "jaalala"
+    },
+    {
+      "surface": "חן",
+      "gloss": "caalaatti jaalala qabdu"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "dargaggoota seera qabdu"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "seera qabdu"
+    },
+    {
+      "surface": "המכרת",
+      "gloss": "umamtoota biyya adda addaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "biyya adda addaa"
+    },
+    {
+      "surface": "בזנוניה",
+      "gloss": "raawwii hoormaatii isheeniti"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "maatiwwan immoo"
+    },
+    {
+      "surface": "בכשפיה",
+      "gloss": "seera isheeniti"
+    }
+  ],
+  "timestamp": "2026-08-29T10:57:10.178853378Z",
+  "model": "glm-5.3"
+}

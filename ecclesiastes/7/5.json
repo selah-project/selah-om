@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Tola waamicha ogeessaa dhageechu, namicha faarfannaa wallaalotaa dhageessis caala.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dhageechu"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "waamicha"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ogeessaa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "namicha"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessis"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "faarfannaa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wallaalotaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:50:23.625883632Z",
+  "model": "glm-5.3"
+}

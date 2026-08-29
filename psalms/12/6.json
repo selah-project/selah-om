@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Ulaagaa hiyyeessotaa, bohaacha dichootaaf — amma nan ka'aa, jedha Yahwe; isa nan dhaaba nagaa keessatti, kan of irratti boofu irraa nan eega.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ulaagaa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "hiyyeessotaa"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "bohaacha"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "dichootaa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nan ka'aa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jedha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nan dhaaba"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "nagaa keessatti"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "boofu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "of irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:14:32.058029374Z",
+  "model": "glm-5.3"
+}

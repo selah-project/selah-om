@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Wanta boohame kamiyyuu hin nyaadhaan; manaawwan jireenyaa keessan hunda keessatti duraaroo nyaaadhaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kamiyyuu"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "wanta boohame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaadhaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunda keessatti"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "manaawwan jireenyaa keessan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nyaaadhaan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "duraaroo"
+    }
+  ],
+  "timestamp": "2026-08-29T05:04:59.174965478Z",
+  "model": "glm-5.3"
+}

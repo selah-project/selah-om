@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Aninis ⟨את⟩ onnee Par'oh gogssa; mallannoo kootii fi ⟨את⟩ raawwaa kootiis biyya Mitsraayim keessatti dabalissa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aninis"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "gogssa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onnee Par'oh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "onnee"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "dabalissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mallannoo kootii"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mallannoo kootii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "raawwaa kootii"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "raawwaa kootii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya ... keessatti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    }
+  ],
+  "timestamp": "2026-08-29T04:59:58.738627959Z",
+  "model": "glm-5.3"
+}

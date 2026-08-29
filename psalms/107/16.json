@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Sababa isaas balbawwan sibiilaa cabsuun, baaqqawwan sibiilaa diiguu isa hafe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababa isaas"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "cabsuun"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "balbawwan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sibiilaa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "baaqqawwan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sibiilaa"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "diiguu isa hafe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:46:03.257333381Z",
+  "model": "glm-5.3"
+}

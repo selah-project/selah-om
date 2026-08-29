@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Filistiinonni kampiiwwan waraanaa isaanii hunda ⟨את⟩ Affiqaatti walitti qabaniiran; Israa'eel immoo Jizre'eel keessatti burqaa biraatti waraabameera.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "walitti qabaniiran"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampiiwwan waraanaa isaanii hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampiiwwan waraanaa isaanii"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Affiqaatti"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'eel immoo"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "waraabameera"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "burqaa biraatti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keenya"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizre'eel"
+    }
+  ],
+  "timestamp": "2026-08-29T07:37:03.553043199Z",
+  "model": "glm-5.3"
+}

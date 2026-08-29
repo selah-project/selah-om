@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Isin ⟨אתכם⟩ harkaan Eel barsiisa; waan Shaddaay waliin qabu hin dhoksu.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "barsiisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "isin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harkaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "dhoksu"
+    }
+  ],
+  "timestamp": "2026-08-29T12:28:21.194387992Z",
+  "model": "glm-5.3"
+}

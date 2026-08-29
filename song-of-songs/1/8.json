@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Yoo ati hin beektu, dheetti duraa dubartootaa, ati ofiif ba'i, miila daaqaa hoollee hordofi, ⟨את⟩ gafeelee kee hiikaa mana-teessoo horsiisootaa biratti.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "beektu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati ofiif"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "dheetti duraa"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "dubartootaa"
+    },
+    {
+      "surface": "צאי",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati ofiif"
+    },
+    {
+      "surface": "בעקבי",
+      "gloss": "miila daaqaa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hoollee hordofi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "hiikaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gafeelee kee (gafeelee)"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "gafeelee kee"
+    },
+    {
+      "surface": "על",
+      "gloss": "biratti"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mana-teessoo"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "horsiisootaa"
+    }
+  ],
+  "timestamp": "2026-08-29T12:38:15.647303109Z",
+  "model": "glm-5.3"
+}

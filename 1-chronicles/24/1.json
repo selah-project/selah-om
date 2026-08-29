@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 24,
+  "translation": "Qoodni ilmaan Aharoon akka kanneenitti: ilmaan Aharoon — Nadaab fi Abihuha, Elazaar fi Iitamaar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "qoodni ilmaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "qooda isaanii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "fi Abihuha"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "fi Iitamaar"
+    }
+  ],
+  "timestamp": "2026-08-29T13:43:06.053292708Z",
+  "model": "glm-5.3"
+}

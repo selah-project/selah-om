@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 45,
+  "translation": "Intaltotni mootonnie jaalatamtoota kee keessa jiru; sheegali mirga keetti dhaabbate, dahaa Oofiirin.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "intaltotni"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mootonnie"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "jaalatamtoota kee keessa"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "dhaabbate"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "sheegali"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "mirga keetti"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "dahaan"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Oofiir"
+    }
+  ],
+  "timestamp": "2026-08-29T11:24:39.826069280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Na qorachiisi, Yahwe, na yaaladhu; magen koo fi onnee koo sheeladhu.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "na qorachiisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "na yaaladhu"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "sheeladhu"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "magen koo"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "onnee kootis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:17:40.940966012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Ijji ko xumuramee jira fayyaa kee fi jecha qajeeloo kee eeggachuuf.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ijji ko"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "xumuramee jira"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "fayyaa kee"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "fi jecha"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "qajeeloo kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:51:40.028348190Z",
+  "model": "glm-5.3"
+}

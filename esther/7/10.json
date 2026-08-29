@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Hamaniis ⟨את⟩ mukicha san irratti dhiigan, kan Mordeqaayiif qopheesse; aariin mootichaa calte.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "dhiigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mukicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "qopheesse"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordeqaayiif"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "aariinis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootichaa"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "calte"
+    }
+  ],
+  "timestamp": "2026-08-29T12:56:56.114993810Z",
+  "model": "glm-5.3"
+}

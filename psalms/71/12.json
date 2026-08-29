@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 71,
+  "translation": "Eloohiim yaa, irraa kiyya fageenyaan hin deemiin; Eloohiim kiyya yaa, gargaara kiyyaaf saffisi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fageenyaan hin deemiin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "irraa kiyya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "gargaara kiyyaaf"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "saffisi"
+    }
+  ],
+  "timestamp": "2026-08-29T11:31:24.834346303Z",
+  "model": "glm-5.3"
+}

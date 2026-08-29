@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Sumussi isaanii akka sumussaa mo'aa dha; akka bofoo duubaa, kan gaba isaa cufu.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "sumussi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "isaanii"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "akka (fakkii dhibbaataa)"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sumussaa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mo'aa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "bofoo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "duubaa"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "cufu"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "gaba isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:28:55.440500601Z",
+  "model": "glm-5.3"
+}

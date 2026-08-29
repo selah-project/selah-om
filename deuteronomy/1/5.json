@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Bittaa Yardaani, biyya Moo'aab keessatti, Moshee seera kanaa ⟨את⟩ ibsuu eegale, akka jedhu.",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "bittaa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "biyya keessatti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "eegale"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ibsuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seera kanaa"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "seera"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kanaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:15:25.546253010Z",
+  "model": "glm-5.3"
+}

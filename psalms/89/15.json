@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 89,
+  "translation": "Qajeelti fi murtiin bu'uurri takkaa kee ⟨ti⟩; kheesed fi dhugaan fuula kee duratti ni dabalan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Qajeelti"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "fi murtiin"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "bu'uurri"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takkaa kee"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "fi dhugaan"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ni dabalan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuula kee duratti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:41.668559465Z",
+  "model": "glm-5.3"
+}

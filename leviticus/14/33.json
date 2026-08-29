@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Yahween Moshee fi Aharooniin dubbate akka jedhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fi...tiin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fi...tiin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:38:33.828056752Z",
+  "model": "glm-5.3"
+}

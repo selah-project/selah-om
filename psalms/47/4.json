@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Saboota nu jalatti dhiphisa, lammoota miila keenya jalatti.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "dhiphisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "saboota"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "nu jalatti"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "fi lammoota"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalatti"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "miila keenya"
+    }
+  ],
+  "timestamp": "2026-08-29T11:26:39.230137625Z",
+  "model": "glm-5.3"
+}

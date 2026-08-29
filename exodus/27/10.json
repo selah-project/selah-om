@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Utuboonni isaa kudhan-lama, ijjarsaaleen isaanii kudhan-lama naasii ta'an; faakoowwan utubootaa fi marfamoota isaanii kumaa ta'u.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "utuboonni isaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kudhan-lama"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ijjarsaaleen isaanii"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kudhan-lama"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naasii"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "faakoowwan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "utubootaa"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "marfamoota isaanii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumaa"
+    }
+  ],
+  "timestamp": "2026-08-29T14:20:13.476651463Z",
+  "model": "glm-5.3"
+}

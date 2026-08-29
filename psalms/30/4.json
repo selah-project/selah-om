@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Yahwe, lubbuu kiyyaa She'ool irraa ol baafte; akka lubbuun kiyyaa gara godina seenan hin taaneef na jiraachifte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ol baafte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "She'ool"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lubbuu kiyyaa"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "na jiraachifte"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "gara seenan"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godina"
+    }
+  ],
+  "timestamp": "2026-08-29T11:19:18.742990331Z",
+  "model": "glm-5.3"
+}

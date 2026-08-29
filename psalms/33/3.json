@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 33,
+  "translation": "Isaaf faarsaa haaraa laalaa; naannisa qopheessituu caccaabsaawaa gedda.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "laalaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "faarsaa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "haaraa"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "caccaabsaawaa"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "naannisa qopheessituu"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "gedda caccaabsaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:24:38.875200235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Si'ime — nafaadha; ragaa kee nan eega.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "si'ime"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "nafaadha"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "fi nan eega"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ragaa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:50:17.322492247Z",
+  "model": "glm-5.3"
+}

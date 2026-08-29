@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Akkuma ilbisa isaatti hoo'isa; Lubaanoniifi Siiryon akka mucaa gafarsaa bosonaa.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "isaatti hoo'isa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ilbisa"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubaanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "Siiryonis"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akkuma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mucaa"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "gafarsaa bosonaa"
+    }
+  ],
+  "timestamp": "2026-08-29T15:22:09.661598224Z",
+  "model": "glm-5.3"
+}

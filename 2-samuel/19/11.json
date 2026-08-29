@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "\"Abshaaloom, nu irratti waan itti maaqne, waraana keessatti du'eera; ammoo immoo maaliif mooticha ⟨את⟩ deebisuuuf isin sokotteettan?\"",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Abshaaloom ammoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "itti maaqne"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nu irratti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'eera"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "waraana keessatti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ammoo immoo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maaliif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "isin"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "sokotteettan"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "deebisuuuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooticha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mooticha"
+    }
+  ],
+  "timestamp": "2026-08-29T07:58:29.747763350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Dugdoonni magaalaa isaa ergani, ⟨את⟩ isa achuma fudhatani, ⟨את⟩ isa harka aarsaa dhiigaa keessatti kennani, innis du'a.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ergani"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dugdoonni"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaalaa isaa"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "fudhatani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "achuma"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kennani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harka"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "aarsaa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigaa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T06:27:59.119114525Z",
+  "model": "glm-5.3"
+}

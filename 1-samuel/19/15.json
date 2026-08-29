@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 19,
+  "translation": "Sha'uulis ergamtoota erganii ⟨את⟩ Daawid arguuf akkas jedhaa: Barmataa irratti isa ol baasaa na biraa qabaa, akka isa ajjeesuuf.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "erganii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ergamtoota"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ergamtoota"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arguuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akkas jedhaa"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ol baasaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isa"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "barmataa irratti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na biraa"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "ajjeesuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:45:30.608996657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Beeledaa nyaata ishee kenaa; muccaa gorraa waan waamaniinis kenaa.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "kenaa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "beeledaa"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "nyaata ishee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "muccaa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gorraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "waamaniinis"
+    }
+  ],
+  "timestamp": "2026-08-29T11:55:52.154344316Z",
+  "model": "glm-5.3"
+}

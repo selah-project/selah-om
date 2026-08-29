@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Mootichi Mitsraayimis ilma-dubbattota Ibrootaatti jedhe, maqaan tokkichaa Shifraa, maqaan kan lammaffaa ammoo Puua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootichi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ilma-dubbattotaaf"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Ibrootaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tokkichaa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifraa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maqaan ammoo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kan lammaffaa"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puua"
+    }
+  ],
+  "timestamp": "2026-08-29T14:18:23.394981047Z",
+  "model": "glm-5.3"
+}

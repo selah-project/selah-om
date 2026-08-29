@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Ya'aqobis isaan jedhe: Obboleeyyan! Eessaa qabdu? Isaanis: Haaraan irraa nuti jirra jedhan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqobis"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Obboleeyyan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Eessaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qabdu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jedhan"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Haaraan irraa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nuti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:17.523410712Z",
+  "model": "glm-5.3"
+}

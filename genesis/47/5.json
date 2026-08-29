@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 47,
+  "translation": "Fir'oon immoo Yoosseephin jedhe: \"Abbaan kee fi obboleewwan kee siitti dhufaniiru.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'oon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosseephi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuudhaan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "abbaan kee"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "fi obboleewwan kee"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dhufaniiru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siitti"
+    }
+  ],
+  "timestamp": "2026-08-29T04:54:07.899205705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ka'i, gara magaalaa guddaa Niinweeetti ici; wahaa ⟨את⟩ waan Ani siin dubbatu isheetti wahadhu.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ka'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwee"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "wahadhu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "isheetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wahaa"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "wahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dubbatu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "siin"
+    }
+  ],
+  "timestamp": "2026-08-29T10:52:22.177803218Z",
+  "model": "glm-5.3"
+}

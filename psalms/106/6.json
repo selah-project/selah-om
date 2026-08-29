@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 106,
+  "translation": "Abbootii keenya wajjin rakkoo hojjeerraa; dogoggoreerra; faallaa hojjeerra",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "rakkoo hojjeerra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wajjin"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abbootii keenya"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "dogoggoreerra"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "faallaa hojjeerra"
+    }
+  ],
+  "timestamp": "2026-08-29T15:25:27.701145090Z",
+  "model": "glm-5.3"
+}

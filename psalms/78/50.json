@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 78,
+  "translation": "Daandii aanfii isaa tiirisaa isa malee, lubbuu isaanii du'aa irraa hin hambisne; jireenya isaanii dhukkuba dabduf kenne.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "tiirisaa"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "aanfii isaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isa malee"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "hin hambisne"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "du'aa irraa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lubbuu isaanii"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "jireenya isaanii"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dhukkuba dabbuu"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "kenne"
+    }
+  ],
+  "timestamp": "2026-08-29T11:35:21.023421282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Innis jedhe: \"Adeemi, meeshaalee duwwaa hunda ⟨את⟩ hawaasii kee irraa, waan ala jiruu irraa, atiif kadhu; xiqqaasaa hin taasisin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Innis-jedhe"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Adeemi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "kadhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atif"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "waan-ala-jiruu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "hawaasii kee hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "hawaasii-kee"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "meeshaalee"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "duwwaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "xiqqaasaa-taasisin"
+    }
+  ],
+  "timestamp": "2026-08-29T08:26:38.811422312Z",
+  "model": "glm-5.3"
+}

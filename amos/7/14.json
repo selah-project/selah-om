@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 7:14",
+  "book": "amos",
+  "lang": "om",
+  "chapter": 7,
+  "translation": "Amoosis deebisee Amatsiyaah jedhe: raajjoo ani miti, ilma raajjoo illee ani miti; sababiin isaas hojjetaa loonii ti, facaafsaa foonii shiqmiimaa illee ⟨ti⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "deebisee"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amoosis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "itti"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsiyaah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "miti"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "raajjoo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "illee miti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "raajjoo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin isaas"
+    },
+    {
+      "surface": "בוקר",
+      "gloss": "hojjetaa loonii"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ובולס",
+      "gloss": "facaafsaa"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "foonii shiqmiimaa"
+    }
+  ],
+  "timestamp": "2026-08-29T10:49:31.127350083Z",
+  "model": "glm-5.3"
+}

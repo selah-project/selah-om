@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 102,
+  "translation": "Inni humna koo daandii irratti rukute; guyyoota koo gabaabsesse.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "rukute"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "daandii irratti"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "humna koo"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "gabaabsesse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "guyyoota koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:42:56.758630353Z",
+  "model": "glm-5.3"
+}

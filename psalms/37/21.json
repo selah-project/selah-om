@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Rashaan liqeeffata, kanas hin baasuu; kanaan gammoolessa, kanas kenna.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "liqeeffata"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kanas hin"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "baasuu"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "gammoolessa"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "kanas"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "kenna"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:45.096294588Z",
+  "model": "glm-5.3"
+}

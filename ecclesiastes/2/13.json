@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Aniis argadhe: akkaataa ifaatti bifa gatii qaba sirrii-himta, bifa gatii ifaa icciitii caalaa qabu waliin.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "argadhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniis"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "qaba"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "bifa gatii"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "sirrii-himta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caalaa"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "bifa gatii icciitii"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "akkaataa bifa gatii"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ifaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caalaa"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "icciitii"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:45.288827180Z",
+  "model": "glm-5.3"
+}

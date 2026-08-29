@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Yahwe Eloohiim Tsaba'oot, hanga yoomitti bifa ibiddaa hoo'aa dubbachiisitaa hiikkaa sabbataa fi du'a biyya kee irratti buuse?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsaba'oot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangamitti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yoomitti"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "dhibbaa baafachaa jirta"
+    },
+    {
+      "surface": "בתפלה",
+      "gloss": "kadhannaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummata kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:53.974774545Z",
+  "model": "glm-5.3"
+}

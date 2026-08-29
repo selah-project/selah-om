@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 26,
+  "translation": "Balbalawwan banaa, biyyi sirrii taan amantaa eegdu akka seenu.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "balbalawwan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akka seenu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "biyyi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sirrii taan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eegdu"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "amantaa"
+    }
+  ],
+  "timestamp": "2026-08-29T08:55:46.529872135Z",
+  "model": "glm-5.3"
+}

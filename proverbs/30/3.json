@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Ani hiikkaa hin barbaadin; beekumsa qulqullummaas hin beeku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hin barbaadin"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "barbaadin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hiikkaa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "beekumsa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qulqullummaa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "hin beeku"
+    }
+  ],
+  "timestamp": "2026-08-29T12:14:03.855352907Z",
+  "model": "glm-5.3"
+}

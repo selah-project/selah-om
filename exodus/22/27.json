@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Eloohiim hin maxxansin; abbaan bulchiinsaa ummata keessaa hin abaarin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "maxxansin"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "abbaan bulchiinsaa"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ummata keessaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "abaarin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:09:47.862262098Z",
+  "model": "glm-5.3"
+}

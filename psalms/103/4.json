@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 103,
+  "translation": "Inni jireenya kee balleessaa irraa bilisoomsa, kheesed fi rahmataan si moggessa.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "bilisoomsa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "balleessaa irraa"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "jireenya kee"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "si moggessa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kheesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "rahmataan"
+    }
+  ],
+  "timestamp": "2026-08-29T11:43:58.613100726Z",
+  "model": "glm-5.3"
+}

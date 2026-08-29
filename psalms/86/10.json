@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 86,
+  "translation": "Kan deebsisuuf, ati guddaa dha, raawwattoota ajaa'ibbii dha; Eloohiim tokko qofa ati dha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kan deebsisuuf"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guddaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "raawwattoota"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ajaa'ibbii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tokko qofa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:05.597962302Z",
+  "model": "glm-5.3"
+}

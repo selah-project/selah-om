@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Mosheenis jedhe: «Har'a har'a jedhii kudura; Sabballi Mo'aa inni har'a kan Yahwe ti; har'a mana argattanitu hin jiru,»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "isa kuduraa (kudura) → «har'a isa kuduraa»",
+      "gloss_note": "",
+      "surface_note": ""
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa dabalataa ( akkaataa )"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabatta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "isa argattanitu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dirree keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T05:05:28.720363325Z",
+  "model": "glm-5.3"
+}

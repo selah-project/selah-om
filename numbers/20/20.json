@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 20,
+  "translation": "Inniis jedhe: hin liqimtu. Eedoomiis ummata baay'een fi harka cimaa ta'een isa wajjiin ba'e.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "liqimtu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ba'e"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Eedoom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "isa wajjiin"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "baay'een"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "fi harka"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "cimaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:03:11.984388208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Kaaba aduu irraa galgala isheetti maqaan Yahwe faarfamaa ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "kaaba irraa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aduu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "galgala isheeitti"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "galgala isheeitti"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "faarfamaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maqaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:56.653696104Z",
+  "model": "glm-5.3"
+}

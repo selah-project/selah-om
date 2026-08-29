@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Innis jedhe: Adoonaay Yahwe, maaliin akka dhaalu beeka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "maaliin"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "dhaalu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:28:43.562027089Z",
+  "model": "glm-5.3"
+}

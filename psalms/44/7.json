@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Garuu qajeelfa koo irratti hin amanu; billaa koo immoo na hin baraarsu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "qajeelfa koo irratti"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "amanu"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "billaa koo immoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "na baraarsu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:22:21.623493619Z",
+  "model": "glm-5.3"
+}

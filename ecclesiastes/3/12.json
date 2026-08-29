@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani beeka, sababa isaan keessatti gaariin hin jiru, gammachuu qofaafi waan gaarii jireenyaa isaa keessatti hojjechu malee.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ani beeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gaariin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "isaan keessatti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qofaafi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "malee"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "gammachuu"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "hojjechu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waan gaarii"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "jireenyaa isaa keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T12:49:19.291784610Z",
+  "model": "glm-5.3"
+}

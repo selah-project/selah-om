@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 128,
+  "translation": "Hawwiyyoo kee akka muka zuraa midhaan-qabu, cinaacha mana kee keessatti; ilmaan kee akka boolla Zaayitii, naannoo gabatee kee.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "hawwiyyoo kee"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "akka muka zuraa"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "midhaan-qabu"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "cinaacha"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mana kee keessatti"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmaan kee"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "akka boolla"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "Zaayitii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naannoo"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "gabatee kee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:52:12.520578626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 118,
+  "translation": "Hin duutu, akka jiraatuuf; hojoota Yaah ni himaadha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "duutu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkasumas"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "jiraadha"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ni himaadha"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hojoota"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-08-29T11:48:54.489648256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Amminadaabi ⟨את⟩ Naahshon dhalche; Naahshoni ⟨את⟩ Salmon dhalche.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Amminadaabi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naahshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naahshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "Naahshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmon"
+    }
+  ],
+  "timestamp": "2026-08-29T12:40:09.289151533Z",
+  "model": "glm-5.3"
+}

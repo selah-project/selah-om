@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 29,
+  "translation": "Sassaabuun Yahwe dachii san irratti ka'e, ⟨את⟩ la'annaa hunda barreeffama kana keessatti barreeffame ishee irratti fiduuf.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sassaabuun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "san"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "fiduuf"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ishee irratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la'annaa hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "la'annaa"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "barreeffame"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "barreeffama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:51.815550515Z",
+  "model": "glm-5.3"
+}

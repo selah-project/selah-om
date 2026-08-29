@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 11,
+  "translation": "Lafa hundi afaan tokko fi jechoota tokko-tokwootti ture.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ture"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lafa"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "afaan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "tokko-tokwoo"
+    }
+  ],
+  "timestamp": "2026-08-29T04:29:19.041371862Z",
+  "model": "glm-5.3"
+}

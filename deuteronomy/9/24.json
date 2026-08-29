@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Guyyaa isin beekuu irraa kaasee, Yahwe waliin marattoota turtan.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "marattoota"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "turtan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "waliin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "guyyaa irraa kaasee"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "isin beekuu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ isin"
+    }
+  ],
+  "timestamp": "2026-08-29T06:21:20.526283308Z",
+  "model": "glm-5.3"
+}

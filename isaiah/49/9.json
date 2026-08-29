@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 49,
+  "translation": "Jedhuuf: warra hidhamanitti «Ba'aa!» jedhi; warra dukkana keessa jiranitti «Mul'ataa!» jedhi. Daandota irratti horsiisu; ol-ka'iinsa hoo'oo hunda irratti horsiisa isaaniiti.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "jedhuuf"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "warra hidhamanitti"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Ba'aa!"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "warra"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dukkana keessa jiranitti"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Mul'ataa!"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "daandota"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "horsiisu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunda irratti"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "ol-ka'iinsa hoo'oo"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "horsiisa isaaniiti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:11:48.424518563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 69,
+  "translation": "Iji isaanii yaa bittinaa'anii hin argan; kormaan isaanii yeroo hunda yaa rukutuu.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "yaa bittinaa'anii"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "iji isaanii"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "hin argan"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "kormaan isaanii"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "yaa rukutuu"
+    }
+  ],
+  "timestamp": "2026-08-29T15:23:59.285904437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "fi ⟨את⟩ Kesedi, ⟨את⟩ Hazoo, ⟨את⟩ Pildaashi, ⟨את⟩ Jidlaafi, fi ⟨את⟩ Betueel",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kesedi"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hazoo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pildaashi"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildaashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jidlaafi"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Jidlaafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Betueel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betueel"
+    }
+  ],
+  "timestamp": "2026-08-29T04:32:30.424080828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ilmoolee ishee ⟨את⟩ hin nattiin jaalladu, waan ilmoon raawwaa ta'anii waan ta'eef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmoolee ishee"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ilmoolee ishee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "nattiin jaalladu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmoon"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "raawwaa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ta'anii waan ta'eef"
+    }
+  ],
+  "timestamp": "2026-08-29T10:37:18.493823942Z",
+  "model": "glm-5.3"
+}

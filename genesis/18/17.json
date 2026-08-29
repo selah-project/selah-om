@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yahwe immoo jedhe: waan ani hojjedhu Avrahaamirraa ni dhoksa?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe immoo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ni dhoksa?"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Avrahaamirraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hojjedhu"
+    }
+  ],
+  "timestamp": "2026-08-29T04:31:09.797139803Z",
+  "model": "glm-5.3"
+}

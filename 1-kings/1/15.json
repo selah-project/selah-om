@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Bat-Sheba mo'aa keessaa mootiitti seetti; mootiinis baay'ee dulloomaa ture; Abiishag Shuunaamittiinis mootii tajaajilti.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "seetti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mootiitti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "mo'aa keessaa"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mootiinis"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "dulloomaa ture"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baay'ee"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "Abiishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shuunaamittii"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mootii tajaajilti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mootii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mootii"
+    }
+  ],
+  "timestamp": "2026-08-29T08:00:18.711956508Z",
+  "model": "glm-5.3"
+}

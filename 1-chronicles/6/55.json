@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 6,
+  "translation": "Fi walakka mootummaa Menaasse irraa ⟨את⟩ Aneri fi ⟨את⟩ megiraashoowwa ishee fi ⟨את⟩ Bilaami fi ⟨את⟩ megiraashoowwa ishee maatilee ilmaan Keattii kan hafeef.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "Fi walakka irraa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mootummaa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaasse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aneri"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aneri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "megiraashoowwa ishee"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "megiraashoowwa ishee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "Bilaami"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilaami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fi ⟨את⟩",
+      "marks": "megiraashoowwa ishee"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "megiraashoowwa ishee"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "maatilee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Keattii"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kan hafeef"
+    }
+  ],
+  "timestamp": "2026-08-29T13:33:05.093617750Z",
+  "model": "glm-5.3"
+}

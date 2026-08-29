@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 51,
+  "translation": "Eezobiin na balleessiisisii na qulqulleessi; na dhiqii, ani adii kan dheeraa caaluu ta'a.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "na balleessiisisii"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "Eezobiin"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "na qulqulleessi"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "na dhiqii"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "kan dheeraa caaluu"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ani adii ta'a"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:00.726009583Z",
+  "model": "glm-5.3"
+}

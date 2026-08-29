@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Leenjiisarratti badaa kan daandii dhiisuuf; kan gorfama jaallachuu diigu du'a.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "leenjii"
+    },
+    {
+      "surface": "רע",
+      "gloss": "badaa"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kan dhiisuuf"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "daandii"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kan jaallachuu diigu"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "gorfama"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "du'a"
+    }
+  ],
+  "timestamp": "2026-08-29T12:05:30.749067554Z",
+  "model": "glm-5.3"
+}

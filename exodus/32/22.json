@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Aharooniinis jedhe: \"Dhiibbaa Gooftaa kiyya hin fidin; ati ⟨את⟩ ummatta beeka, sababiin isaan hamtuu irratti jiru.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharooniinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "hin fidin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "dhiibbaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "beeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ummatta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ummatta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababiin"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "hamtuu irratti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaan ... jiru"
+    }
+  ],
+  "timestamp": "2026-08-29T05:20:36.333182722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "om",
+  "chapter": 27,
+  "translation": "Dhiira alaa si gabbisa, aniin fuula kee hin gabbin; alagaa si gabbisa, aniin lafa kee hin gabbin.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "si gabbisa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dhiira alaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin gabbin"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "fuula kee"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "alagaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hin gabbin"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lafa kee"
+    }
+  ],
+  "timestamp": "2026-08-29T12:11:45.967153550Z",
+  "model": "glm-5.3"
+}

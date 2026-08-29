@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Innis manaa balbalaa manaa irraa ulee tokkoof safe.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Innis safe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaa balbalaa"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "manaa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "balbalaa"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "irraa mana"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ulee"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    }
+  ],
+  "timestamp": "2026-08-29T10:31:34.120101219Z",
+  "model": "glm-5.3"
+}

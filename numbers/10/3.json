@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Yeroo isaan itti hafuran, gareen guutuun gara siitti walitti dhufu banaa mana walga'ii.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Yeroo isaan itti hafuran"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "itti"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "walitti dhufu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gara siitti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "guutuun"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gareen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "banaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "walga'ii"
+    }
+  ],
+  "timestamp": "2026-08-29T05:54:51.950520477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 34,
+  "translation": "Akkuma kanaan, Yirmiyaah raajichi jechoota kana hunda ⟨את⟩ Seedhekiyaas, mootii Yihuudaa, Yerushaalayim keessatti dubbadhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbadhe"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "raajichi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Seedhekiyaas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mootii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jechota kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechotni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushaalayim keessatti"
+    }
+  ],
+  "timestamp": "2026-08-29T09:48:03.381909364Z",
+  "model": "glm-5.3"
+}

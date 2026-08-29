@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 147,
+  "translation": "Yaah-ii gowwaa'aa kabajaa; waan toltu kanatti Eloohiim keenyaaf sagalee kaasaa; waan jaalatamaa dha, waan tolchuu fi kabajaa mijeessa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "gowwaa'aa kabajaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan toltu kanatti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "toltu"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "sagalee kaasaa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohiim keenyaaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "jaalatamaa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "mijeessa"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kabajaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:56:10.350028016Z",
+  "model": "glm-5.3"
+}

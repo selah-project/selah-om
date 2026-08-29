@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 9,
+  "translation": "Maqaa kee beekaniin si irratti amanu, sababaa waan si barbaadan hin dhiifneef, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "amanu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "beekaniin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "maqaa kee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "dhiifneef"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "si barbaadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T11:13:11.196261491Z",
+  "model": "glm-5.3"
+}

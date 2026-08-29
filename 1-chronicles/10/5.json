@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Warra meeshaalee isaa baatu Shaauul du'e arguun, innis mootin isaas irratti kufe, du'e.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arguun"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "warri baatu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meeshaalee isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkas"
+    },
+    {
+      "surface": "מת",
+      "gloss": "du'e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaauul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kufe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "innis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mootin isaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mootin isaas irratti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "du'e"
+    }
+  ],
+  "timestamp": "2026-08-29T13:36:03.243886673Z",
+  "model": "glm-5.3"
+}

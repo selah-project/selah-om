@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 13,
+  "translation": "Innis ⟨את⟩ Isa waliin deebi'e, mana isaa keessatti dheebuu nyaate, bishaaninis dhuge.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "deebi'e"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Isa waliin",
+      "marks": "Isa waliin (with him)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "nyaate"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dheebuu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mana isaa keessatti"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dhuge"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    }
+  ],
+  "timestamp": "2026-08-29T08:12:52.320812214Z",
+  "model": "glm-5.3"
+}

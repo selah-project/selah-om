@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "om",
+  "chapter": 2,
+  "translation": "Ishii immoo, «Abiishag Shuunaamtuu Adoniyaahu, obboleessa kee, naagitii taateeef haa kennamuu» jedhiiteetti.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ishii immoo jedhiiteetti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "haa kennamuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiishag Shuunaamtuu"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abiishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Shuunaamtuu"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniyaahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "obboleessa kee"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naagitii taateeef"
+    }
+  ],
+  "timestamp": "2026-08-29T08:02:59.399711984Z",
+  "model": "glm-5.3"
+}

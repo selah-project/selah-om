@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 5,
+  "translation": "Isaan kaayidamaa biraan fiduun, kan balleensaa bakkatti ta'e isa duraa dhiyeessuun, mataa isaa lageenyi isaa duraa caasuu, garuu adda hin baasu.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "fiduun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biraan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaayidamaa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dhiyeessuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan balleensaa bakkatti ta'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "balleensaa bakkatti"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "isa duraa"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "caasuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataa isaa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mataa isaa"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "duraan"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "lageenyi isaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "adda baasu"
+    }
+  ],
+  "timestamp": "2026-08-29T05:32:40.535407328Z",
+  "model": "glm-5.3"
+}

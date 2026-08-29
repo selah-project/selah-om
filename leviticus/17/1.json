@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 17,
+  "translation": "Yahween Mosheetti dubbate akka jedhuutiin:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dubbate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akka jedhuutiin"
+    }
+  ],
+  "timestamp": "2026-08-29T05:40:26.094472621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 37,
+  "translation": "Adoonaay ⟨isaa⟩ ni naara, kanaaf inni iseenna argateera akka guyyaan isaa dhufu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adoonaay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ni naara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanaaf"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "inni argateera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dhufu"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "guyyaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:21:13.041282378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 32,
+  "translation": "Murtiin bosona keessatti ni jiraata; woraqoonnis lafa midhaan qabeessa keessatti ni teeffata.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "ni jiraata"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bosona keessatti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murtiin"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "fi woraqoonnis"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "lafa midhaan qabeessa keessatti"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ni teeffata"
+    }
+  ],
+  "timestamp": "2026-08-29T08:58:59.953106702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 109,
+  "translation": "Ilmaan isaa daa'imman socho'anii haatan, kadhatan; bultii isaanii balleessame irraas soorata isaanii barbaadan.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "socho'anii haatan"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "daa'imman socho'an"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmaan isaa"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "kadhatan"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "barbaadan"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "bultii isaanii balleessame irraas"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:14.907847642Z",
+  "model": "glm-5.3"
+}

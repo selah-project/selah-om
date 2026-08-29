@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "om",
+  "chapter": 41,
+  "translation": "Dheecha irratti mo'aa inni qabu hin jiru; inni uumamee garaan hin dandamneef.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dheecha"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "mo'aa inni qabu"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "uumamee"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "hin dandamneef"
+    },
+    {
+      "surface": "חת",
+      "gloss": "garaan"
+    }
+  ],
+  "timestamp": "2026-08-29T12:36:00.524447055Z",
+  "model": "glm-5.3"
+}

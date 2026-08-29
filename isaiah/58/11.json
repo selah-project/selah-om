@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 58:11",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 58,
+  "translation": "Yahwe yeroo hunda si qajeelcha, lubbuu kee dallii keessatti guutta, lafee kee cimessa; akka boondaa bishaan guutameetti taatu, akka burqichaa bishaan isaa hin sobbne.",
+  "tokens": [
+    {
+      "surface": "ונחך",
+      "gloss": "si qajeelcha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yeroo hunda"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "guutta"
+    },
+    {
+      "surface": "בצחצחות",
+      "gloss": "dallii keessatti"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lubbuu kee"
+    },
+    {
+      "surface": "ועצמתיך",
+      "gloss": "lafee kee"
+    },
+    {
+      "surface": "יחליץ",
+      "gloss": "cimessa"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "taatu"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "akka boondaa"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "bishaan guutameetti"
+    },
+    {
+      "surface": "וכמוצא",
+      "gloss": "akka burqichaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "sobbne"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "bishaan isaa"
+    }
+  ],
+  "timestamp": "2026-08-29T09:20:05.450917615Z",
+  "model": "glm-5.3"
+}

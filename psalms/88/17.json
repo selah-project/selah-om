@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Boba'a boffa kee ol koo dabra; ragattii kee na baafatte.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ol koo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dabra"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "boba'a boffa kee"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ragattii kee"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "na baafatte"
+    }
+  ],
+  "timestamp": "2026-08-29T11:38:54.720156460Z",
+  "model": "glm-5.3"
+}

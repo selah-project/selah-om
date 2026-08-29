@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 88,
+  "translation": "Du'aniif raawwattuu sirrii taasiftaa? Yoo Refaa'iimni ka'aniif si galateeffatuu? Seelaa.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Du'aniif"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "raawwattuu"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "sirrii taasiftaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yoo"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaa'iimni"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ka'aniif"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "si galateeffatuu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:39:52.645942252Z",
+  "model": "glm-5.3"
+}

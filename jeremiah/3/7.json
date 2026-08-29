@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "om",
+  "chapter": 3,
+  "translation": "Ani jedhe, ishee waan kana hunda ⟨את⟩ godhe booda, 'Naatti deebi'i' — garuu isheen hin deebite; obboleettii ishee kufaatii Yihuda akka kana mul'atte.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ani jedhe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "booda"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "ishee godhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan kana hunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunda"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Naatti"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "deebi'i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garuu hin"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "deebite"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "mul'atte"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "kufaatii"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "obboleettii ishee"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuda"
+    }
+  ],
+  "timestamp": "2026-08-29T09:23:59.327487527Z",
+  "model": "glm-5.3"
+}

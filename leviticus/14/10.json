@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 14:10",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 14,
+  "translation": "Guyyaa saddeettaffaatti immoo, kormaa lama qulqullamoo ta'an fudhata, roomii tokko waggaa tokkoo qulqullamoo taate, daqiiqaa sadii (ushuna sadii) xuuda dagaa qoricha dhiyeessaa zayitaa tin makame, fi leegii tokko zayitaa fudhata.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "saddeettaffaatti"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fudhata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lama"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kormaa"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "qulqullamoo"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "roomii"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "itti dhalatte"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "waggaa tokkoo"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "qulqullamoo"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "sadii"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ushuna sadii"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "xuuda dagaa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "qoricha dhiyeessaa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "makame"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "zayitaa tin"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "leegii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tokko"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zayitaa"
+    }
+  ],
+  "timestamp": "2026-08-29T05:37:57.281848643Z",
+  "model": "glm-5.3"
+}

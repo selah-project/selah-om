@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 21,
+  "translation": "Daawidis ka'e, deeme; Yonataan immoo magaalaa keessatti seene.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka'e"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "deeme"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yonataanis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "seene"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalaa"
+    }
+  ],
+  "timestamp": "2026-08-29T07:32:51.457760191Z",
+  "model": "glm-5.3"
+}

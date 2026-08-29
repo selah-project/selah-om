@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Booda isaatti Ibtsaan, Bet-lehem irraa, ⟨את⟩ Israa'el murtii godhe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "murtii godhe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Booda isaatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsaan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-lehem"
+    }
+  ],
+  "timestamp": "2026-08-29T07:10:33.634412315Z",
+  "model": "glm-5.3"
+}

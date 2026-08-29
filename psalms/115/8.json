@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 115,
+  "translation": "Wanti isaas hojjatan akka isaaniitti ta'u; kuni hunda isaa kan isaatti hirkatuudha.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "akka isaaniitti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ta'u"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wanti isaas hojjatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuni hunda isaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hirkatuudha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "isaatti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:32.632859184Z",
+  "model": "glm-5.3"
+}

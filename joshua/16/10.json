@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "om",
+  "chapter": 16,
+  "translation": "Kan<|code_suffix|><d8f643e8>naani ⟨את⟩ Kanaanota Gezer keessa jiraatan balleessanuu baatan; Kanaanonni ammas Efrayiim giddutti jiraatu; guyyaa kanas ga'ee ragaa ga'uuf qofa oolan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "baatan"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "balleessanuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanota"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanota"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "jiraatan"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gezer keessa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jiraatu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanonni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giddutti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayiim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ga'ee"
+    },
+    {
+      "surface": "היום",
+      "gloss": "guyyaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanas"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "למס",
+      "gloss": "golboowiitti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gargaaraa oolaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:55:05.908905387Z",
+  "model": "glm-5.3"
+}

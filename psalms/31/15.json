@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 31,
+  "translation": "Ani garuu, Yahwe, si irratti itti amanadheera; aniin ni jedhe, \"Eloohiim kiyya, Ati ⟨dha⟩.\"",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ani garuu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "itti amanadheera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aniin ni jedhe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohiim kiyya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ati"
+    }
+  ],
+  "timestamp": "2026-08-29T11:18:52.553703883Z",
+  "model": "glm-5.3"
+}

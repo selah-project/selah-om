@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "om",
+  "chapter": 23,
+  "translation": "Baalaakis Biilaamiin jedhe: \"Akkaataa tokkotti laalphuu hin laaphifatuu, akkaataa tokkotti eebbissanuu hin eebbifatuu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baalaak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Biilaam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkaataa tokkotti"
+    },
+    {
+      "surface": "קב",
+      "gloss": "laaphuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "laaphifatuu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akkaataa tokkotti"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "eebbissanuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "eebbifatuu"
+    }
+  ],
+  "timestamp": "2026-08-29T06:05:51.262965640Z",
+  "model": "glm-5.3"
+}

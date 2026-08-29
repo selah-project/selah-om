@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 28,
+  "translation": "Yahwe ⟨את⟩ rooba lafa kee hucaa fi cufa haa taasise; samiirraa si irratti bu'a, sino si balleessifamutti.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "haa taasise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rooba lafa kee"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rooba"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lafa kee"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "hucaa"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "cufa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "irraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samii"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bu'a"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "si irratti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sino"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "si balleessifamutti"
+    }
+  ],
+  "timestamp": "2026-08-29T06:33:26.946781478Z",
+  "model": "glm-5.3"
+}

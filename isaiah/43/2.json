@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "om",
+  "chapter": 43,
+  "translation": "Yoon bishaan keessa darbu, ani ⟨את⟩ wajjin si jira; laggeen keessas si hin bishaan-dhiyaamsisu; yoon ibidda keessa deemu, si hin gubamsitu; gubinsi ibiddaas si irratti hin qaqqabu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Yoon"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan keessa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wajjin si",
+      "marks": "ani — 「ani si wajjin jira」 waliin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "laggeen keessas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "si bishaan-dhiyaamsisu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Yoon"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "deemu"
+    },
+    {
+      "surface": "במו",
+      "gloss": "keessa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ibidda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "si gubamsitu"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "gubinsi ibiddaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "si irratti qaqqabu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "si irratti"
+    }
+  ],
+  "timestamp": "2026-08-29T14:59:54.356199593Z",
+  "model": "glm-5.3"
+}

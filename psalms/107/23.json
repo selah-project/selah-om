@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 107,
+  "translation": "Isaan dooniiwwan cinatti gara bahaa gadi bu'an, hojii bishaan guutuu keessas hojjetan.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "gadi bu'an"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨the⟩ baha"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "dooniiwwan cinatti"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "hojjetan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "hojii"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bishaan keessas"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "guutuu"
+    }
+  ],
+  "timestamp": "2026-08-29T11:45:27.293267747Z",
+  "model": "glm-5.3"
+}

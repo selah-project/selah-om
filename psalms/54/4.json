@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 54,
+  "translation": "Eloohiimoy, kadhannaa koo dhageessi; jechoota afaan koo gara gurbaatti naasushiishi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiimoy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageessi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kadhannaa koo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "naasushiishi gara gurbaatti"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "jechoota"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afaan koo"
+    }
+  ],
+  "timestamp": "2026-08-29T11:27:01.480276139Z",
+  "model": "glm-5.3"
+}

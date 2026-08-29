@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 40,
+  "translation": "Acheesinis ⟨את⟩ kiyyora gidjji Waantaa Walgahaatii fi gidjii altaraatti, bishanis achuma dhiyyeessuuf.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "acheesinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyyora"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kiyyora"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gidjii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Waantaa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Walgahaatii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fi gidjii"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dhiyyeesinis"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "achuma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bishan"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "dhiyyeessuuf"
+    }
+  ],
+  "timestamp": "2026-08-29T14:23:46.138354499Z",
+  "model": "glm-5.3"
+}

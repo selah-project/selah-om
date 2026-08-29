@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "om",
+  "chapter": 12,
+  "translation": "Garuu Yahwe ⟨את⟩ sodaadhaa, dhugaa fi onnee isinitti guutuu isa gabbaradhaa; waan isin waliin godhe guddaa argadhaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "garuu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sodaadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "gabbaradhaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isa",
+      "marks": "isa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "dhugaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gara tumaa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "onnee isinitti guutuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "argadhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waan isin waliin godhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "guddaa godhe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "isin waliin"
+    }
+  ],
+  "timestamp": "2026-08-29T07:23:46.202140943Z",
+  "model": "glm-5.3"
+}

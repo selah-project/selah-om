@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 22,
+  "translation": "Jechoota kanaan booda, Eloohiim ⟨את⟩ Avrahaam yaalchise; 'Avrahaam' jedheenis isaatti; innis 'To Ani as jira' jedhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "booda"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "jechoonni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kunii"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Eloohiimin"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "yaalchise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahaam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "je'e"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahaam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "je'e"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "To Ani as jira"
+    }
+  ],
+  "timestamp": "2026-08-29T04:34:26.540149373Z",
+  "model": "glm-5.3"
+}

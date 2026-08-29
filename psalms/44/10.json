@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 44,
+  "translation": "Garuu nu garaachaa jettee, nu rasaasitee; humnoonni ololaa keenya wajjin hin baatu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Garuu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "nu garaachaa jettee"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "nu rasaasitee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baatu"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "humnoonni ololaa keenya wajjin"
+    }
+  ],
+  "timestamp": "2026-08-29T11:23:34.938757199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Kunoo, samiinni fi samiin samiinii, laftinis fi waan ishee keessaa hunduu kan Yahwe Eloohiim kee ti.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kunoo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kan Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohiim kee"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiinni"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "fi samiin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samiinii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "laftinis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi waan hunduu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ishee keessaa"
+    }
+  ],
+  "timestamp": "2026-08-29T06:19:40.530005469Z",
+  "model": "glm-5.3"
+}

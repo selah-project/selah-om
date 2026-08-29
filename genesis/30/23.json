@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "om",
+  "chapter": 30,
+  "translation": "Inni da'ee ilma gori; 'Eloohiim rakkina koo baase' jedhe.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "da'ee"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "gori"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jedhe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "baase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakkina koo"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "rakkina koo"
+    }
+  ],
+  "timestamp": "2026-08-29T04:37:06.303189508Z",
+  "model": "glm-5.3"
+}

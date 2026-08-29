@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "om",
+  "chapter": 10,
+  "translation": "Ani ⟨את⟩ sagalee jechoota isaa dhagadhe; yeroo ⟨את⟩ sagalee jechoota isaa dhagadhe, ani fuula koo irratti nid-dulome ta'e, fuulni koonis dachii gara ta'e.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "dhagadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jechoota isaa"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "yeroo ani dhagadhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sagalee"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jechoota isaa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "nid-dulome"
+    },
+    {
+      "surface": "על",
+      "gloss": "irratti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuula koo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "fuulni koonis"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dachii"
+    }
+  ],
+  "timestamp": "2026-08-29T13:08:40.558396122Z",
+  "model": "glm-5.3"
+}

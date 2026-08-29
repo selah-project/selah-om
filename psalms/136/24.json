@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 136,
+  "translation": "akkasumas diina keenya irraa nu baase; sababa kheesedi isaatti isa eega.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "nu baase"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "diina keenya irraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "isaatti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kheesedi isaa eega"
+    }
+  ],
+  "timestamp": "2026-08-29T11:54:08.285074031Z",
+  "model": "glm-5.3"
+}

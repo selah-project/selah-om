@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 36,
+  "translation": "Oraačaan diddummaa kophxee onnee kiyya keessatti dubbata: fuuldura iji isaa ti ṣodannoo Eloohiim hin jiru.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "oraačaan"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "diddummaa"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kophxee"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keessatti"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "onnee kiyya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hin jiru"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ṣodannoo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohiim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fuuldura"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iji isaa ti"
+    }
+  ],
+  "timestamp": "2026-08-29T11:20:19.621561955Z",
+  "model": "glm-5.3"
+}

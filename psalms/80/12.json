@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 80,
+  "translation": "Isheen galii ishee gara galaanaatti ergite, biqiltoonnis ishee gara lagatti.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ergite"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "galii ishee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gara...tti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "galaanaatti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gara...tti"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "lagatti"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "biqiltoonnis ishee"
+    }
+  ],
+  "timestamp": "2026-08-29T11:36:22.274879405Z",
+  "model": "glm-5.3"
+}

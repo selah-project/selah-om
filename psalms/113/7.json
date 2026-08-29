@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 113,
+  "translation": "Inni dheebaa keessaa miidhaa kaasa, bookee keessaa barbaadaa hojjaa ol kaasa.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "kaasa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "dheebaa keessaa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miidhaa"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "bookee keessaa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ol kaasa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "barbaadaa hojjaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:47:52.441829915Z",
+  "model": "glm-5.3"
+}

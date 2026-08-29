@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 46,
+  "translation": "Bishaan isaa ni-silquu, ni-dhiibatu; gaaroonni boonaa isaa irratti ni-riftu. Seelaa.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ni-silquu"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ni-dhiibatu"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "bishaan isaa"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ni-riftu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gaaroonni"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "boonaa isaa irratti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:25:01.505477824Z",
+  "model": "glm-5.3"
+}

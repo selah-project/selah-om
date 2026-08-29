@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "om",
+  "chapter": 15,
+  "translation": "Isinis Israa'el ilmaan ⟨את⟩ wal-qabeessa isaanii irraa adda baattaniif, wal-qabeessa isaanii keessatti hin du'an; Teentii Kiyya ⟨את⟩ kan seenan keessatti mollisanuu keessatti.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "adda baattaniif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el ilmaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "wal-qabeessa isaanii irraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "du'an"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "wal-qabeessa isaanii keessatti"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "mollisanuu keessatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teentii Kiyya"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Teentii Kiyya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "seenan"
+    }
+  ],
+  "timestamp": "2026-08-29T05:39:58.652227799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 75,
+  "translation": "Lafi fi jiraattoonni ishee hundi baay'een diigamaniiru; ani utuboota ishee nan dhaabbessa. Seelaa.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "baay'een diigamaniiru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Lafi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fi hundi"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "jiraattoonni ishee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nan dhaabbessa"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "utuboota ishee"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-08-29T11:34:42.798855123Z",
+  "model": "glm-5.3"
+}

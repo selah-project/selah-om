@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "om",
+  "chapter": 4,
+  "translation": "Ummanni dachii harka ummata Yihuudaa laaffisan, ijjarruuf ⟨את⟩ isaani rukutan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ta'e"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummanni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dachii"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "laaffisan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "harka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ummata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihuudaa"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "rukutan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ijjarruuf"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ijjarruuf"
+    }
+  ],
+  "timestamp": "2026-08-29T13:15:36.200040272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "om",
+  "chapter": 1,
+  "translation": "Adaam, Sheet, Enosh;",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Adaam"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheet"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-08-29T13:28:48.727636195Z",
+  "model": "glm-5.3"
+}

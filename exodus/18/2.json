@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "om",
+  "chapter": 18,
+  "translation": "Yitroon abbaa-warraa Moshee erga ishee deebifte booda Siippoora ⟨את⟩ hawwaarii Moshee fudhate.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "fudhate"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroon"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "abbaa-warraa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siippoora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Siippoora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hawwaarii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshee"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "erga... booda"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ishee deebifte"
+    }
+  ],
+  "timestamp": "2026-08-29T05:06:23.051609279Z",
+  "model": "glm-5.3"
+}

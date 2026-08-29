@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "om",
+  "chapter": 119,
+  "translation": "Keessa kan teeyee — naggiis na baasi, sababni isaas waan seeraan Ati murteesste barbaade.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Keessa kan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "teeyee"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "naggiis na baasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababni isaas"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "waan seeraan Ati murteessite"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "barbaade"
+    }
+  ],
+  "timestamp": "2026-08-29T15:27:19.484075154Z",
+  "model": "glm-5.3"
+}
