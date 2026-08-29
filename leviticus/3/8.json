@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 3,
-  "translation": "Harka isaa ⟨את⟩ mataa qurbaana isaa irratti haara, isaa ⟨אתו⟩ fuuldura teentii walga'ii ajjeesa; ilmooleen Aharoon immoo dhiiga isaa ⟨את⟩ masaraa irratti maratti facaafsu.",
+  "translation": "Harka isaa ⟨את⟩ mataa qurbaana isaa irratti haara, isaa ⟨את⟩ ⟨אתו⟩ fuuldura teentii walga'ii ajjeesa; ilmooleen Aharoon immoo dhiiga isaa ⟨את⟩ masaraa irratti maratti facaafsu.",
   "tokens": [
     {
       "surface": "וסמך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isaa"
     },
     {
@@ -87,6 +87,6 @@
       "gloss": "maratti"
     }
   ],
-  "timestamp": "2026-08-29T05:29:46.256180571Z",
+  "timestamp": "2026-08-29T16:15:02.131940432Z",
   "model": "glm-5.3"
 }

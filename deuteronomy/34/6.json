@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 34,
-  "translation": "Inni ⟨אתו⟩ gaaddisa keessaa, biyya Moo'aab keessatti, Biit-Pe'or fuulduratti moome; namni tokkollee ⟨את⟩ heyetti isaa hanga guyyaa kanaatti hin beeku.",
+  "translation": "Inni ⟨את⟩ ⟨אתו⟩ gaaddisa keessaa, biyya Moo'aab keessatti, Biit-Pe'or fuulduratti moome; namni tokkollee ⟨את⟩ heyetti isaa hanga guyyaa kanaatti hin beeku.",
   "tokens": [
     {
       "surface": "ויקבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isa (Moshee)"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "kana"
     }
   ],
-  "timestamp": "2026-08-29T06:38:32.836538940Z",
+  "timestamp": "2026-08-29T16:15:02.118213150Z",
   "model": "glm-5.3"
 }

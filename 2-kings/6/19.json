@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 6,
-  "translation": "Eeliishaan isaan jedhe: Kun karaan miti, kunis magaalaa miti; Ana hordofaa, ani ⟨אתכם⟩ isaan nama sana biraa isin geessa barbaaddaniif. Isaan gara Shomeroon geesse.",
+  "translation": "Eeliishaan isaan jedhe: Kun karaan miti, kunis magaalaa miti; Ana hordofaa, ani ⟨את⟩ ⟨אתכם⟩ isaan nama sana biraa isin geessa barbaaddaniif. Isaan gara Shomeroon geesse.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "Shomeroon"
     }
   ],
-  "timestamp": "2026-08-29T08:27:08.149489302Z",
+  "timestamp": "2026-08-29T16:15:02.129689987Z",
   "model": "glm-5.3"
 }

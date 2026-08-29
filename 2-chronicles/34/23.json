@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "om",
   "chapter": 34,
-  "translation": "Isheen isaaniitti akkas jedhte: Akka kana jedha Yahwe, Eloohiimii Israa'elii: 'Namicha kan isin ⟨אתכם⟩ Anaatti ergan saniif jedhaa:'",
+  "translation": "Isheen isaaniitti akkas jedhte: Akka kana jedha Yahwe, Eloohiimii Israa'elii: 'Namicha kan isin ⟨את⟩ ⟨אתכם⟩ Anaatti ergan saniif jedhaa:'",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "Anaatti"
     }
   ],
-  "timestamp": "2026-08-29T14:12:16.988881158Z",
+  "timestamp": "2026-08-29T16:15:02.114091382Z",
   "model": "glm-5.3"
 }

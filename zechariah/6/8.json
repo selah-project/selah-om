@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "om",
   "chapter": 6,
-  "translation": "Ammas na ⟨אתי⟩ waamee naatti dubbatee jedhe: Ilaali, biyya kaabaa deemtoonni Roocha kiyya biyya kaabatti akka nagayaan seenuu godhan.",
+  "translation": "Ammas na ⟨את⟩ ⟨אתי⟩ waamee naatti dubbatee jedhe: Ilaali, biyya kaabaa deemtoonni Roocha kiyya biyya kaabatti akka nagayaan seenuu godhan.",
   "tokens": [
     {
       "surface": "ויזעק",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "na (ani)"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "kaabatti"
     }
   ],
-  "timestamp": "2026-08-29T11:03:40.419798591Z",
+  "timestamp": "2026-08-29T16:15:02.095235571Z",
   "model": "glm-5.3"
 }

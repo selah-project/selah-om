@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 10,
-  "translation": "⟨את⟩ Yahwe Eloohiim kee sodaadhu, ⟨אתו⟩ Isa tajaajadhu, Isaatti maxxansoo, maqaa isaatii kakadhu.",
+  "translation": "⟨את⟩ Yahwe Eloohiim kee sodaadhu, ⟨את⟩ ⟨אתו⟩ Isa tajaajadhu, Isaatti maxxansoo, maqaa isaatii kakadhu.",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Isa"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "kakadhu"
     }
   ],
-  "timestamp": "2026-08-29T06:20:56.781961506Z",
+  "timestamp": "2026-08-29T16:15:02.117746837Z",
   "model": "glm-5.3"
 }

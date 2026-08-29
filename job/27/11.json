@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "om",
   "chapter": 27,
-  "translation": "Isin ⟨אתכם⟩ harkaan Eel barsiisa; waan Shaddaay waliin qabu hin dhoksu.",
+  "translation": "Isin ⟨את⟩ ⟨אתכם⟩ harkaan Eel barsiisa; waan Shaddaay waliin qabu hin dhoksu.",
   "tokens": [
     {
       "surface": "אורה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "dhoksu"
     }
   ],
-  "timestamp": "2026-08-29T12:28:21.194387992Z",
+  "timestamp": "2026-08-29T16:15:02.111649642Z",
   "model": "glm-5.3"
 }

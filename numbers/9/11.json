@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 9,
-  "translation": "Ji'a lammaffaadhaan, guyyaa afur-tamaniif, galgala keessa isa godhu; maashidhaanii fi hanquqee miti-tuulamaa isa liqimsu — ⟨אתו⟩.",
+  "translation": "Ji'a lammaffaadhaan, guyyaa afur-tamaniif, galgala keessa isa godhu; maashidhaanii fi hanquqee miti-tuulamaa isa liqimsu — ⟨את⟩ ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "בחדש",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isa"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "isa liqimsu"
     }
   ],
-  "timestamp": "2026-08-29T05:54:53.755569568Z",
+  "timestamp": "2026-08-29T16:15:02.137687382Z",
   "model": "glm-5.3"
 }

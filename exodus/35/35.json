@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 35,
-  "translation": "Isaan ⟨אתם⟩ beekumsa onnee guuteeerra, hojii hojjaa fi, dizaayinaraa fi, rukutuu tuq-tuqaa, cuududdaa keessattii fi arjumaawaa keessattii, diigdii diimaa keessattii fi rukuttaa qulqulluu keessattii, meeshaa-ho'aa fi, hojjattootaa hojii hundaa fi, dizaayinarootaa dizaayinotaatiif.",
+  "translation": "Isaan ⟨את⟩ ⟨אתם⟩ beekumsa onnee guuteeerra, hojii hojjaa fi, dizaayinaraa fi, rukutuu tuq-tuqaa, cuududdaa keessattii fi arjumaawaa keessattii, diigdii diimaa keessattii fi rukuttaa qulqulluu keessattii, meeshaa-ho'aa fi, hojjattootaa hojii hundaa fi, dizaayinarootaa dizaayinotaatiif.",
   "tokens": [
     {
       "surface": "מלא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan (Bezaleel fi Oholaab)"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "dizaayinotaa"
     }
   ],
-  "timestamp": "2026-08-29T05:26:08.865388476Z",
+  "timestamp": "2026-08-29T16:15:02.101600580Z",
   "model": "glm-5.3"
 }

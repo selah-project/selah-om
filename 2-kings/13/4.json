@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 13,
-  "translation": "Yihoo'achaz fuula Yahwe ⟨את⟩ qunnamsiise; Yahween isa dhageesse — dhiphina Israa'el ⟨את⟩ inni arguuf, mootichi Araam isaan ⟨אתם⟩ waan dhiphchuuf.",
+  "translation": "Yihoo'achaz fuula Yahwe ⟨את⟩ qunnamsiise; Yahween isa dhageesse — dhiphina Israa'el ⟨את⟩ inni arguuf, mootichi Araam isaan ⟨את⟩ ⟨אתם⟩ waan dhiphchuuf.",
   "tokens": [
     {
       "surface": "ויחל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan (Israa'el)"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "Araam"
     }
   ],
-  "timestamp": "2026-08-29T08:33:36.488348412Z",
+  "timestamp": "2026-08-29T16:15:02.128711191Z",
   "model": "glm-5.3"
 }

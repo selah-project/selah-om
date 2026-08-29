@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 10,
-  "translation": "Yeehuu abbootii isaa wajjin biiqe; hiikaniis ⟨אתו⟩ Shomroon keessatti kabaraniiru; Yeeho'aaz ilmaan isaa immoo inni mootummaa isa jalatti fudhate.",
+  "translation": "Yeehuu abbootii isaa wajjin biiqe; hiikaniis ⟨את⟩ ⟨אתו⟩ Shomroon keessatti kabaraniiru; Yeeho'aaz ilmaan isaa immoo inni mootummaa isa jalatti fudhate.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Yeehuu (isa)"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "isa jalatti (bakka isaa)"
     }
   ],
-  "timestamp": "2026-08-29T08:29:39.974822289Z",
+  "timestamp": "2026-08-29T16:15:02.126676929Z",
   "model": "glm-5.3"
 }

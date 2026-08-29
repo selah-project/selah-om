@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 3,
-  "translation": "Ilmooleen Aharoon immoo isaa ⟨אתו⟩ ni gubu masaraa irratti, irracha waan gubaa, kan irracha mukawwan, kan irracha ibiddaa — qurbaana ibiddaa, mingee jaalalaa, Yahweef.",
+  "translation": "Ilmooleen Aharoon immoo isaa ⟨את⟩ ⟨אתו⟩ ni gubu masaraa irratti, irracha waan gubaa, kan irracha mukawwan, kan irracha ibiddaa — qurbaana ibiddaa, mingee jaalalaa, Yahweef.",
   "tokens": [
     {
       "surface": "והקטירו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isaa"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "Yahweef"
     }
   ],
-  "timestamp": "2026-08-29T05:29:46.255396376Z",
+  "timestamp": "2026-08-29T16:15:02.132366366Z",
   "model": "glm-5.3"
 }

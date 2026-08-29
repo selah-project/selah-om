@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "om",
   "chapter": 3,
-  "translation": "Ummata ⟨את⟩ ajajaniitti jedhan: '⟨את⟩ sanduqa kakuu Yahwe Eloohiim keessan, kan koneytonni Leewi qaalan, yoo argattan, isin bakka keessan irraa ka'aa, ⟨אתו⟩ isaa hordofaa.'",
+  "translation": "Ummata ⟨את⟩ ajajaniitti jedhan: '⟨את⟩ sanduqa kakuu Yahwe Eloohiim keessan, kan koneytonni Leewi qaalan, yoo argattan, isin bakka keessan irraa ka'aa, ⟨את⟩ ⟨אתו⟩ isaa hordofaa.'",
   "tokens": [
     {
       "surface": "ויצוו",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isaa"
     },
     {
@@ -87,6 +87,6 @@
       "gloss": "isaa"
     }
   ],
-  "timestamp": "2026-08-29T06:43:48.208296908Z",
+  "timestamp": "2026-08-29T16:15:02.141404188Z",
   "model": "glm-5.3"
 }

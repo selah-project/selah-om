@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 24,
-  "translation": "Sababa hamma Yaahween kun Yerushaalaym fi Yahuudaa keessatti ta'ee ture, hanga isaan ⟨אתם⟩ fuulla isaa irraa darbiteef; Sidqiyaachu immoo mooticha Baabel ittiin morrate.",
+  "translation": "Sababa hamma Yaahween kun Yerushaalaym fi Yahuudaa keessatti ta'ee ture, hanga isaan ⟨את⟩ ⟨אתם⟩ fuulla isaa irraa darbiteef; Sidqiyaachu immoo mooticha Baabel ittiin morrate.",
   "tokens": [
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan (Yerushaalaym fi Yahuudaa)"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "Baabel"
     }
   ],
-  "timestamp": "2026-08-29T08:43:31.556154406Z",
+  "timestamp": "2026-08-29T16:15:02.129210929Z",
   "model": "glm-5.3"
 }

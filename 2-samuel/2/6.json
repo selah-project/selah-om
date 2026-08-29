@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Amma immoo Yahwe isin wajjin kheesed fi dhugaa haa hojjadhu; aniis ⟨אתכם⟩ gaarii kana isin wajjin hojjadha, waan jechoo kana hojjattaniif.",
+  "translation": "Amma immoo Yahwe isin wajjin kheesed fi dhugaa haa hojjadhu; aniis ⟨את⟩ ⟨אתכם⟩ gaarii kana isin wajjin hojjadha, waan jechoo kana hojjattaniif.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "kana"
     }
   ],
-  "timestamp": "2026-08-29T07:44:42.065327080Z",
+  "timestamp": "2026-08-29T16:15:02.085870959Z",
   "model": "glm-5.3"
 }

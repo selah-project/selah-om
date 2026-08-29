@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 14,
-  "translation": "Shaawilis Yakweef gorsaa ijjare; isaanis gorsaa Yakweef ijjachuun ⟨אתו⟩ eegale.",
+  "translation": "Shaawilis Yakweef gorsaa ijjare; isaanis gorsaa Yakweef ijjachuun ⟨את⟩ ⟨אתו⟩ eegale.",
   "tokens": [
     {
       "surface": "ויבן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "eegale"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "Yakweef"
     }
   ],
-  "timestamp": "2026-08-29T07:28:42.790956270Z",
+  "timestamp": "2026-08-29T16:15:02.116783963Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 37,
-  "translation": "⟨אתו⟩ zaaraa qulqulluun haguugee, daangaa zaaraa naannoo isaa isa taasise.",
+  "translation": "⟨את⟩ ⟨אתו⟩ zaaraa qulqulluun haguugee, daangaa zaaraa naannoo isaa isa taasise.",
   "tokens": [
     {
       "surface": "ויצף",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isa"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "naannoo isaa"
     }
   ],
-  "timestamp": "2026-08-29T05:26:09.760523600Z",
+  "timestamp": "2026-08-29T16:15:02.104022992Z",
   "model": "glm-5.3"
 }

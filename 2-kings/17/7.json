@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 17,
-  "translation": "Kun kan ta'eef, ilmaan Israa'eel Yahwe, Eloohiim isaanii, Isaan ⟨אתם⟩ biyya Mitsraayim, jala harka Phaaroo mooticha Mitsraayim irraa ol-kaaseef, gan-balleessaniiru; Eloohiim biroo sodaataniiru.",
+  "translation": "Kun kan ta'eef, ilmaan Israa'eel Yahwe, Eloohiim isaanii, Isaan ⟨את⟩ ⟨אתם⟩ biyya Mitsraayim, jala harka Phaaroo mooticha Mitsraayim irraa ol-kaaseef, gan-balleessaniiru; Eloohiim biroo sodaataniiru.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "biroo"
     }
   ],
-  "timestamp": "2026-08-29T08:36:58.095421639Z",
+  "timestamp": "2026-08-29T16:15:02.127739158Z",
   "model": "glm-5.3"
 }

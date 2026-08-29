@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 22,
-  "translation": "Malaaqni Yahwe Bilamittiis jedhe: \"Namoota wajjin adiim; jechi ani sitti dubbadutu ⊂אתו⊆ dubbattu — waan biraa miti.\" Bilams wolteen geejjibameeraBalaaq duraa.",
+  "translation": "Malaaqni Yahwe Bilamittiis jedhe: \"Namoota wajjin adiim; jechi ani sitti dubbadutu ⟨את⟩ ⊂אתו⊆ dubbattu — waan biraa miti.\" Bilams wolteen geejjibameeraBalaaq duraa.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⊂את⊆",
+      "gloss": "⟨את⟩ ⊂את⊆",
       "marks": "jecha"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⊂אתו⊆",
+      "gloss": "⟨את⟩ ⊂אתו⊆",
       "marks": "dubbattu"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "Balaaq"
     }
   ],
-  "timestamp": "2026-08-29T06:06:31.308903240Z",
+  "timestamp": "2026-08-29T16:15:02.139303035Z",
   "model": "glm-5.3"
 }

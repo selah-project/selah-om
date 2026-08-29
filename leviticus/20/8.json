@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 20,
-  "translation": "Seera kiyya ⟨את⟩ eegaa; raawwadhaa ⟨אתם⟩; Ani Yahwe, isin qulqulleessu.",
+  "translation": "Seera kiyya ⟨את⟩ eegaa; raawwadhaa ⟨את⟩ ⟨אתם⟩; Ani Yahwe, isin qulqulleessu.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "(seerota)"
     },
     {
@@ -42,6 +42,6 @@
       "gloss": "isin qulqulleessu"
     }
   ],
-  "timestamp": "2026-08-29T05:42:05.909118809Z",
+  "timestamp": "2026-08-29T16:15:02.130600940Z",
   "model": "glm-5.3"
 }

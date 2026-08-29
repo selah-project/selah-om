@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 7,
-  "translation": "Akka sanyii kee Yisra'el <את> Isa kee sanyii ta'aniif dhaabbifte, yeroo hundaaf; atis Yahwe, Isaaniif Eloohiim taateetta.",
+  "translation": "Akka sanyii kee Yisra'el ⟨את⟩ <את> Isa kee sanyii ta'aniif dhaabbifte, yeroo hundaaf; atis Yahwe, Isaaniif Eloohiim taateetta.",
   "tokens": [
     {
       "surface": "ותכונן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩ <את>",
       "marks": "sanyii kee Yisra'el"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "Eloohiim"
     }
   ],
-  "timestamp": "2026-08-29T07:48:04.571328638Z",
+  "timestamp": "2026-08-29T16:15:02.085360961Z",
   "model": "glm-5.3"
 }

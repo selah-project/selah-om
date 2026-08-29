@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 33,
-  "translation": "Ilma namaa, ilmaan ummata kee dubbisi, akkas jedhiin isaanii: Dachee — yoo ani mooktar ishee irratti aanu, ummanni dachee tokko namicha irraa, daangaa isaanii irraa, fudhatee ⟨אתו⟩ eeggattii isaanii godhan —",
+  "translation": "Ilma namaa, ilmaan ummata kee dubbisi, akkas jedhiin isaanii: Dachee — yoo ani mooktar ishee irratti aanu, ummanni dachee tokko namicha irraa, daangaa isaanii irraa, fudhatee ⟨את⟩ ⟨אתו⟩ eeggattii isaanii godhan —",
   "tokens": [
     {
       "surface": "בן",
@@ -32,7 +32,7 @@
       "gloss": "ummata kee"
     },
     {
-      "surface": "ו אמרת",
+      "surface": "ואמרת",
       "gloss": "akkas jedhiin"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "eeggattii isaanii"
     },
     {
@@ -101,6 +101,6 @@
       "gloss": "eeggattii"
     }
   ],
-  "timestamp": "2026-08-29T10:24:47.521215793Z",
+  "timestamp": "2026-08-29T16:15:02.121273762Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 8,
-  "translation": "Sababa isaas kennamananiitti, kennamananiitti, ilmaan Israa'el keessaa nii ta'aniif; rahmii hunda banuuf, ilmoon Israa'el hunda ilmoo duraa bakka, isaan ⟨אתם⟩ nii fudhadhe.",
+  "translation": "Sababa isaas kennamananiitti, kennamananiitti, ilmaan Israa'el keessaa nii ta'aniif; rahmii hunda banuuf, ilmoon Israa'el hunda ilmoo duraa bakka, isaan ⟨את⟩ ⟨אתם⟩ nii fudhadhe.",
   "tokens": [
     {
       "surface": "כי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan (Lewiwwan)"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "nii"
     }
   ],
-  "timestamp": "2026-08-29T05:55:15.685574924Z",
+  "timestamp": "2026-08-29T16:15:02.140118211Z",
   "model": "glm-5.3"
 }

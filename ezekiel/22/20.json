@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "om",
   "chapter": 22,
-  "translation": "Akka sibiila adee, sibiila diiqqee, sibiila cimaa, sibiila ulfaataa fi sibiila laafaa gara keessa kiilii walitti qabamanii, ibidda irratti itti afuufamuuf dabarsu — akka kanaan ani du'a koo fi aaree koo keessatti isin ⟨אתכם⟩ walitti qaba, achitti nyalcha, bubbullsissa.",
+  "translation": "Akka sibiila adee, sibiila diiqqee, sibiila cimaa, sibiila ulfaataa fi sibiila laafaa gara keessa kiilii walitti qabamanii, ibidda irratti itti afuufamuuf dabarsu — akka kanaan ani du'a koo fi aaree koo keessatti isin ⟨את⟩ ⟨אתכם⟩ walitti qaba, achitti nyalcha, bubbullsissa.",
   "tokens": [
     {
       "surface": "קבצת",
@@ -85,10 +85,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     }
   ],
-  "timestamp": "2026-08-29T10:18:58.523435292Z",
+  "timestamp": "2026-08-29T16:15:02.123476884Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "om",
   "chapter": 10,
-  "translation": "Ilmaan Israa'iitiin akkas jedhe: Akkaanaa jedha Yahwe, Eloohiimii Israa'iil: Ani ⟨את⟩ Israa'iil Mitsraayim irraa baase; ⟨אתכם⟩ harka Mitsraayimii irraa, akkasumas harka mootummoonni hunda isin miidhan irraa bilisoomse.",
+  "translation": "Ilmaan Israa'iitiin akkas jedhe: Akkaanaa jedha Yahwe, Eloohiimii Israa'iil: Ani ⟨את⟩ Israa'iil Mitsraayim irraa baase; ⟨את⟩ ⟨אתכם⟩ harka Mitsraayimii irraa, akkasumas harka mootummoonni hunda isin miidhan irraa bilisoomse.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     },
     {
@@ -99,10 +99,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     }
   ],
-  "timestamp": "2026-08-29T14:41:40.871735333Z",
+  "timestamp": "2026-08-29T16:15:02.114885426Z",
   "model": "glm-5.3"
 }

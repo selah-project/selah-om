@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "om",
   "chapter": 2,
-  "translation": "Achumaan isa ⟨אתו⟩ lafa irratti taa'an, torban guyyaa fi torban halkanii; namni tokkollee jecha tokko isaaf hin dubbannе, sababaa isaan arganiif — koonfachiisiin guddaa ta'e jaalaa dha.",
+  "translation": "Achumaan isa ⟨את⟩ ⟨אתו⟩ lafa irratti taa'an, torban guyyaa fi torban halkanii; namni tokkollee jecha tokko isaaf hin dubbannе, sababaa isaan arganiif — koonfachiisiin guddaa ta'e jaalaa dha.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isa wajjin"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "jaalaa dha"
     }
   ],
-  "timestamp": "2026-08-29T12:14:49.085623220Z",
+  "timestamp": "2026-08-29T16:15:02.110950403Z",
   "model": "glm-5.3"
 }

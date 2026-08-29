@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 33,
-  "translation": "Akka jedhe Yahwe, kan uume — Yahwe, kan xumurdeessitee ⟨אתה⟩ qopheessu — Yahwe maqaan Isaati.",
+  "translation": "Akka jedhe Yahwe, kan uume — Yahwe, kan xumurdeessitee ⟨את⟩ ⟨אתה⟩ qopheessu — Yahwe maqaan Isaati.",
   "tokens": [
     {
       "surface": "כה",
@@ -24,7 +24,7 @@
       "gloss": "kan uume"
     },
     {
-      "surface": "יוהי",
+      "surface": "יהוה",
       "gloss": ""
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "qopheessu"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "maqaan Isaati"
     }
   ],
-  "timestamp": "2026-08-29T09:46:05.270882895Z",
+  "timestamp": "2026-08-29T16:15:02.095650393Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Daawid ergamtoota gara namoota Yaabeeshi Gili'aaditti erge, akkas jedheeniinis: isin Yahweetiin eebbifamtoota dha, kheesed kana goftaa keessan wajjin, goftaa Sha'uli wajjin waan hojjattaniif, akkasumas ⟨אתו⟩ waan ar'aattaniif.",
+  "translation": "Daawid ergamtoota gara namoota Yaabeeshi Gili'aaditti erge, akkas jedheeniinis: isin Yahweetiin eebbifamtoota dha, kheesed kana goftaa keessan wajjin, goftaa Sha'uli wajjin waan hojjattaniif, akkasumas ⟨את⟩ ⟨אתו⟩ waan ar'aattaniif.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -88,15 +88,15 @@
       "gloss": "Sha'uli"
     },
     {
-      "surface": "ויקברו אתו",
+      "surface": "ותקברו",
       "gloss": "waan ar'aattaniif"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Sha'ul"
     }
   ],
-  "timestamp": "2026-08-29T07:44:42.065007365Z",
+  "timestamp": "2026-08-29T16:15:02.086869554Z",
   "model": "glm-5.3"
 }

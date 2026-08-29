@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 40,
-  "translation": "Saffisa olaanaa keessatti immoo soorata Parohaa kan hojii fo'aa hunda; simbirroonnis isaan ⟨אתם⟩ saffisa irraa, mataa kiyya irraa, nyaachaa jira.",
+  "translation": "Saffisa olaanaa keessatti immoo soorata Parohaa kan hojii fo'aa hunda; simbirroonnis isaan ⟨את⟩ ⟨אתם⟩ saffisa irraa, mataa kiyya irraa, nyaachaa jira.",
   "tokens": [
     {
       "surface": "ובסל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan (soorata Parohaa)"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "mataa kiyya"
     }
   ],
-  "timestamp": "2026-08-29T14:16:44.066426289Z",
+  "timestamp": "2026-08-29T16:15:02.091626506Z",
   "model": "glm-5.3"
 }

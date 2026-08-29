@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 2,
-  "translation": "Amma immoo harkawwan keessan ciminaa haa qabaatan, namoota cimaa ta'aa; sababiin abiin goftaa keessan Sha'ul du'e, akkasumas manni Yuudaa ⟨אתי⟩ isaaniirratti mootaa ta'uuf na dibe.",
+  "translation": "Amma immoo harkawwan keessan ciminaa haa qabaatan, namoota cimaa ta'aa; sababiin abiin goftaa keessan Sha'ul du'e, akkasumas manni Yuudaa ⟨את⟩ ⟨אתי⟩ isaaniirratti mootaa ta'uuf na dibe.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "na dibe"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "isaaniirratti"
     }
   ],
-  "timestamp": "2026-08-29T07:44:42.065503485Z",
+  "timestamp": "2026-08-29T16:15:02.086362251Z",
   "model": "glm-5.3"
 }

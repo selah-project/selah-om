@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 29,
-  "translation": "Zayita bututtaa ⟨את⟩ fudhatta, mataa isaa irratti dhangalaattaa, ⟨אתו⟩ dibatta.",
+  "translation": "Zayita bututtaa ⟨את⟩ fudhatta, mataa isaa irratti dhangalaattaa, ⟨את⟩ ⟨אתו⟩ dibatta.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -42,10 +42,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isaa"
     }
   ],
-  "timestamp": "2026-08-29T05:14:30.496833963Z",
+  "timestamp": "2026-08-29T16:15:02.103103142Z",
   "model": "glm-5.3"
 }

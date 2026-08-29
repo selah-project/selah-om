@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 8,
-  "translation": "Lewiwwan Aharoon duratti fi ilmoon isaa duratti dhaabbisiitii, isaan ⟨אתם⟩ kennaa rukutaa ta'anii Yahweef rukuti.",
+  "translation": "Lewiwwan Aharoon duratti fi ilmoon isaa duratti dhaabbisiitii, isaan ⟨את⟩ ⟨אתם⟩ kennaa rukutaa ta'anii Yahweef rukuti.",
   "tokens": [
     {
       "surface": "והעמדת",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "Lewiwwan"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "Yahweef"
     }
   ],
-  "timestamp": "2026-08-29T05:55:15.685092569Z",
+  "timestamp": "2026-08-29T16:15:02.140927805Z",
   "model": "glm-5.3"
 }

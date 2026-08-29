@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "om",
   "chapter": 7,
-  "translation": "Jecha keetiitiif, akkasumas akka onnee keetti, guddina aa daangaa hin qabne kana hunda taasiftee, akka barsiisuu kan gabbaraa kee <את> waan kana beeksifteef.",
+  "translation": "Jecha keetiitiif, akkasumas akka onnee keetti, guddina aa daangaa hin qabne kana hunda taasiftee, akka barsiisuu kan gabbaraa kee ⟨את⟩ <את> waan kana beeksifteef.",
   "tokens": [
     {
       "surface": "בעבור",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩ <את>",
       "marks": "guddina hunda"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩ <את>",
       "marks": "gabbaraa kee"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "gabbaraa kee"
     }
   ],
-  "timestamp": "2026-08-29T07:48:04.570580103Z",
+  "timestamp": "2026-08-29T16:15:02.084876432Z",
   "model": "glm-5.3"
 }

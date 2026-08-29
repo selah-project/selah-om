@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 34,
-  "translation": "Garuu deebitanii maqaa kiyya cabbitan; namni ⟨את⟩ adda-adaa isaa, namnis ⟨את⟩ adda-dubartii isaa, waan bilisa lubbuu isaanii irratti haaromsitan, deebisanii isaan ⟨אתם⟩ ajajachaan akka isiniif adda-adattoota fi adda-dubartoota ta'aniif.",
+  "translation": "Garuu deebitanii maqaa kiyya cabbitan; namni ⟨את⟩ adda-adaa isaa, namnis ⟨את⟩ adda-dubartii isaa, waan bilisa lubbuu isaanii irratti haaromsitan, deebisanii isaan ⟨את⟩ ⟨אתם⟩ ajajachaan akka isiniif adda-adattoota fi adda-dubartoota ta'aniif.",
   "tokens": [
     {
       "surface": "ותשבו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     },
     {
@@ -96,6 +96,6 @@
       "gloss": "adda-dubartoota"
     }
   ],
-  "timestamp": "2026-08-29T09:47:26.454631212Z",
+  "timestamp": "2026-08-29T16:15:02.096167705Z",
   "model": "glm-5.3"
 }

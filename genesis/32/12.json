@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 32,
-  "translation": "Na oolchi, kadha, harka obboleessa koo — harka Eesawuu irraa; sababni isaas ani ⟨אתו⟩ Isa sodaadha, akka dhufee na dheesse — haadhollee ilmaan irratti.",
+  "translation": "Na oolchi, kadha, harka obboleessa koo — harka Eesawuu irraa; sababni isaas ani ⟨את⟩ ⟨אתו⟩ Isa sodaadha, akka dhufee na dheesse — haadhollee ilmaan irratti.",
   "tokens": [
     {
       "surface": "הצילני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Eesawuu"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "ilmaan"
     }
   ],
-  "timestamp": "2026-08-29T04:41:39.339573369Z",
+  "timestamp": "2026-08-29T16:15:02.089072065Z",
   "model": "glm-5.3"
 }

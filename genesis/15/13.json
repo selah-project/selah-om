@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 15,
-  "translation": "Avramiinis jedhe: \"Beekaduu beeki — akka sanyiin kee gaachiisa biyya isaaniif miti ta'ee jiraatu, isaanis itti gargaaraman, rakkisanii ⟨אתם⟩ — waggaa arbaa dhibbaaf.",
+  "translation": "Avramiinis jedhe: \"Beekaduu beeki — akka sanyiin kee gaachiisa biyya isaaniif miti ta'ee jiraatu, isaanis itti gargaaraman, rakkisanii ⟨את⟩ ⟨אתם⟩ — waggaa arbaa dhibbaaf.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "waggaa arbaa dhibba"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "waggaa"
     }
   ],
-  "timestamp": "2026-08-29T04:30:42.900352362Z",
+  "timestamp": "2026-08-29T16:15:02.090488047Z",
   "model": "glm-5.3"
 }

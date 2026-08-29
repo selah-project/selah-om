@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 16,
-  "translation": "Mosheeniifi Aharooniis gara ilmaan Yisraa'el hundaanii jedhan: galgalatti akka Yahwe ⟨אתכם⟩ biyya Mitsraayim irraa baase beektanu.",
+  "translation": "Mosheeniifi Aharooniis gara ilmaan Yisraa'el hundaanii jedhan: galgalatti akka Yahwe ⟨את⟩ ⟨אתכם⟩ biyya Mitsraayim irraa baase beektanu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "isin"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "Mitsraayim irraa"
     }
   ],
-  "timestamp": "2026-08-29T05:08:16.767404852Z",
+  "timestamp": "2026-08-29T16:15:02.109025285Z",
   "model": "glm-5.3"
 }

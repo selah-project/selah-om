@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 35,
-  "translation": "Nutiinis ka'ina, Beet-Eel ol baanna; ani achii miseensa Eeliif ijaara — Eel, guyyaa rakkoo koo ani ⟨אתי⟩ deebise, karaa ani deeme irrattis wajjin koo ture.",
+  "translation": "Nutiinis ka'ina, Beet-Eel ol baanna; ani achii miseensa Eeliif ijaara — Eel, guyyaa rakkoo koo ani ⟨את⟩ ⟨אתי⟩ deebise, karaa ani deeme irrattis wajjin koo ture.",
   "tokens": [
     {
       "surface": "ונקומה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "ani"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "ani deeme"
     }
   ],
-  "timestamp": "2026-08-29T04:45:44.306509712Z",
+  "timestamp": "2026-08-29T16:15:02.088375321Z",
   "model": "glm-5.3"
 }

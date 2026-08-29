@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "om",
   "chapter": 36,
-  "translation": "Sababa qabeenya isaanii baay'ee ta'e, walitti jiraachuu hin dandaane; lafti iddoo-soorannoo isaanii, ejjaa isaanii irraa kanan, ⟨אתם⟩ isaan arranuu hin dandeenye.",
+  "translation": "Sababa qabeenya isaanii baay'ee ta'e, walitti jiraachuu hin dandaane; lafti iddoo-soorannoo isaanii, ejjaa isaanii irraa kanan, ⟨את⟩ ⟨אתם⟩ isaan arranuu hin dandeenye.",
   "tokens": [
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "ejjaa isaanii"
     }
   ],
-  "timestamp": "2026-08-29T14:17:03.544258986Z",
+  "timestamp": "2026-08-29T16:15:02.087891224Z",
   "model": "glm-5.3"
 }

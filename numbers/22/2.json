@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "om",
   "chapter": 22,
-  "translation": "Baalaq ilma Siporriis waan Israa'eel uummoota Emoraawaniin hunda {{את}} arge.",
+  "translation": "Baalaq ilma Siporriis waan Israa'eel uummoota Emoraawaniin hunda ⟨את⟩ {{את}} arge.",
   "tokens": [
     {
       "surface": "וירא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "{{את}}",
+      "gloss": "⟨את⟩ {{את}}",
       "marks": "hunda"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "uummoota Emoraawaniif"
     }
   ],
-  "timestamp": "2026-08-29T14:30:36.248901283Z",
+  "timestamp": "2026-08-29T16:15:02.138893413Z",
   "model": "glm-5.3"
 }

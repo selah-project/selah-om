@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "om",
   "chapter": 1,
-  "translation": "Akkasumas Tasadook abiishaa fi Naataan raajeffataan ⟨אתו⟩ isaa achitti Idiraatti irratti mootaa ta'u diban; shanfacha dhokattanii 'Mooti Shallome haa jiraatu!' jedhaa.",
+  "translation": "Akkasumas Tasadook abiishaa fi Naataan raajeffataan ⟨את⟩ ⟨אתו⟩ isaa achitti Idiraatti irratti mootaa ta'u diban; shanfacha dhokattanii 'Mooti Shallome haa jiraatu!' jedhaa.",
   "tokens": [
     {
       "surface": "ומשח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isaa"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "Shallome"
     }
   ],
-  "timestamp": "2026-08-29T14:49:44.606670046Z",
+  "timestamp": "2026-08-29T16:15:02.143024710Z",
   "model": "glm-5.3"
 }

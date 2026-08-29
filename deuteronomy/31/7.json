@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "om",
   "chapter": 31,
-  "translation": "Moshee Yehooshuaa waamte, itiin jedhe, iji Israa'el hunda duratti: \"Cimaadhu, jabaadhu; sababiin isaas ati ⟨את⟩ ummata kanatti seeta, biyya Yahwe abbootii isaanitti kakate isaaniif kennuuf; atinis isaa isaanitti dhaalgifta ⟨אתם⟩.\"",
+  "translation": "Moshee Yehooshuaa waamte, itiin jedhe, iji Israa'el hunda duratti: \"Cimaadhu, jabaadhu; sababiin isaas ati ⟨את⟩ ummata kanatti seeta, biyya Yahwe abbootii isaanitti kakate isaaniif kennuuf; atinis isaa isaanitti dhaalgifta ⟨את⟩ ⟨אתם⟩.\"",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -114,10 +114,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     }
   ],
-  "timestamp": "2026-08-29T06:38:03.761171969Z",
+  "timestamp": "2026-08-29T16:15:02.119647658Z",
   "model": "glm-5.3"
 }

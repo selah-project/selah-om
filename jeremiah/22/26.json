@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "om",
   "chapter": 22,
-  "translation": "Si ⟨אתך⟩ fi ⟨את⟩ haadha kee isiin si dhalatte, biyya biraatti — biyya isin itti hin dhalatamne — nan rukuta; achumaan du'a.",
+  "translation": "Si ⟨את⟩ ⟨אתך⟩ fi ⟨את⟩ haadha kee isiin si dhalatte, biyya biraatti — biyya isin itti hin dhalatamne — nan rukuta; achumaan du'a.",
   "tokens": [
     {
       "surface": "והטלתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "si"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "du'a"
     }
   ],
-  "timestamp": "2026-08-29T09:36:56.857823735Z",
+  "timestamp": "2026-08-29T16:15:02.098420816Z",
   "model": "glm-5.3"
 }

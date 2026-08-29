@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 36,
-  "translation": "Mara fageenyaa gattii reettii manaa mana-booressaa isa irratti ta'u hojjate; mara fageenyaa kudhan-tokko ⟨אתם⟩ isaan hojjate.",
+  "translation": "Mara fageenyaa gattii reettii manaa mana-booressaa isa irratti ta'u hojjate; mara fageenyaa kudhan-tokko ⟨את⟩ ⟨אתם⟩ isaan hojjate.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -49,10 +49,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "mara fageenyaa kudhan-tokko"
     }
   ],
-  "timestamp": "2026-08-29T05:25:51.605064062Z",
+  "timestamp": "2026-08-29T16:15:02.099631105Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "om",
   "chapter": 17,
-  "translation": "Wagga sagalaffaa Hooshee'a, mootichi Ashshur ⟨את⟩ Samariyaa fudhate, ⟨את⟩ Israa'eel Ashshurtti baasaa baate, ⟨אתם⟩ Halahifi Habori, laga Gozaanii fi magaaloota Midyaanii keessaa jiraachiseera.",
+  "translation": "Wagga sagalaffaa Hooshee'a, mootichi Ashshur ⟨את⟩ Samariyaa fudhate, ⟨את⟩ Israa'eel Ashshurtti baasaa baate, ⟨את⟩ ⟨אתם⟩ Halahifi Habori, laga Gozaanii fi magaaloota Midyaanii keessaa jiraachiseera.",
   "tokens": [
     {
       "surface": "בשנת",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "Midyaanii"
     }
   ],
-  "timestamp": "2026-08-29T08:36:58.095264011Z",
+  "timestamp": "2026-08-29T16:15:02.127205874Z",
   "model": "glm-5.3"
 }

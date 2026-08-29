@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "om",
   "chapter": 1,
-  "translation": "Citra-citra isaa gediti, akkasumas ⟨את⟩ mataa isaa fi ⟨את〕 boontaa isaa; abbaan-abbumaa ⟨אתם⟩ isaan mukewwan irratti — ibidda irratti, gorsaa irratti — haara-taasisa.",
+  "translation": "Citra-citra isaa gediti, akkasumas ⟨את⟩ mataa isaa fi ⟨את〕 boontaa isaa; abbaan-abbumaa ⟨את⟩ ⟨אתם⟩ isaan mukewwan irratti — ibidda irratti, gorsaa irratti — haara-taasisa.",
   "tokens": [
     {
       "surface": "ונתח",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     },
     {
@@ -84,6 +84,6 @@
       "gloss": "gorsaa"
     }
   ],
-  "timestamp": "2026-08-29T05:29:01.918911753Z",
+  "timestamp": "2026-08-29T16:15:02.133698083Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 28,
-  "translation": "Sararoo lama kan warqee qulqulluu, daangaa irratti, isaan ⟨אתם⟩ hojjedhu, hojii wal-tokkomtee; sararoo wal-tokkomtee ⟨את⟩ tamsaasotarratti kaaftu.",
+  "translation": "Sararoo lama kan warqee qulqulluu, daangaa irratti, isaan ⟨את⟩ ⟨אתם⟩ hojjedhu, hojii wal-tokkomtee; sararoo wal-tokkomtee ⟨את⟩ tamsaasotarratti kaaftu.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "isaan"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "tamsaasa"
     }
   ],
-  "timestamp": "2026-08-29T05:14:17.271446616Z",
+  "timestamp": "2026-08-29T16:15:02.100563721Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "om",
   "chapter": 27,
-  "translation": "Ahree Mana Walgeeffannaa keessatti, alatti shannaa (paroketii) kan ragaarratti jiru, Aharooni fi ilmaan isaa isa ⟨אתו⟩ ganfasu galgala irraa hanga ganama, fuula Yahwe duratti; seera hunda-duraa dhofu dhaloota isaniitiif, ilmaan Israa'el irraa.",
+  "translation": "Ahree Mana Walgeeffannaa keessatti, alatti shannaa (paroketii) kan ragaarratti jiru, Aharooni fi ilmaan isaa isa ⟨את⟩ ⟨אתו⟩ ganfasu galgala irraa hanga ganama, fuula Yahwe duratti; seera hunda-duraa dhofu dhaloota isaniitiif, ilmaan Israa'el irraa.",
   "tokens": [
     {
       "surface": "באהל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "isa (ifaANN hima)"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "Israa'el"
     }
   ],
-  "timestamp": "2026-08-29T05:11:53.464967580Z",
+  "timestamp": "2026-08-29T16:15:02.104949216Z",
   "model": "glm-5.3"
 }

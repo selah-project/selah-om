@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "om",
   "chapter": 20,
-  "translation": "Dhiibban Israa'elis Benyamiin waliin adaadaa baafamanii, dhiibban Israa'elis ⟨אתם⟩ isaaniin waliin Gibe'aa biratti adaadaa haadhani.",
+  "translation": "Dhiibban Israa'elis Benyamiin waliin adaadaa baafamanii, dhiibban Israa'elis ⟨את⟩ ⟨אתם⟩ isaaniin waliin Gibe'aa biratti adaadaa haadhani.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩ isaaniin waliin",
+      "gloss": "⟨את⟩ ⟨אתם⟩ isaaniin waliin",
       "marks": "Benyamiin, warra Gibe'aa"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "Gibe'aa"
     }
   ],
-  "timestamp": "2026-08-29T07:16:30.195419184Z",
+  "timestamp": "2026-08-29T16:15:02.094746012Z",
   "model": "glm-5.3"
 }
