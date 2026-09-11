@@ -64,3 +64,8 @@ fudhatame hundi [CC BY-SA 4.0](LICENSE.md) jalatti akka
 maxxanfamu ni fudhatta. Seenaan Git galmee fi ragaa banaa eega.
 Gulaaltonni dhiheessii Ibrootaatiin, seerotaan, maddeeniin fi
 walsimannaadhaan madaalu.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
