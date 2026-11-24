@@ -13,7 +13,7 @@ tilmaamaa irraa gargar baasi.
 - Dogoggorri fi sirreeffamni lamaanuu ifa yoo taʼan — **Pull
   request** bani.
 - Dhimma sooftweerii yookiin nageenyaa/herregaa/dhuunfaatiif —
-  [Selah Support](https://selahproject.com/support).
+  [Selah Support](https://s33k3r.com/learn/support).
 
 ## Maal Dabaluu Wayya
 

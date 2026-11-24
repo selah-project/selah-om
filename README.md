@@ -81,7 +81,7 @@ dubbifamuuf.
 Hiikkaan kun eeyyama CC BY-SA 4.0 jalatti banaa dha. Hojiin kun
 siif faayidaa yoo qabaate, hiikkaa, gulaallii, maxxansaa fi
 guddina isaa deeggaruu yoo barbaadde —
-ilaali: [selahproject.com/support](https://selahproject.com/support)
+ilaali: [s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## Gulaallitti Kottu
 
@@ -92,6 +92,6 @@ gabaasuu yookiin sirreeffama dhiheessuu dura,
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
